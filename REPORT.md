@@ -14,7 +14,7 @@ It holds **721 verified data files (1.23 GB) from 16 collection entries, coverin
 | | Done | Still to do |
 | --- | --- | --- |
 | Toolkit | Collect, extract, OCR, verify, flag, analyse and register-by-hand scripts; 52 offline tests, all passing | Nothing required |
-| Catalogue coverage | All 41 Bihar sources are in the manifest, each either automated or marked manual with the reason | India-wide catalogue (66 sources) is not yet in a manifest |
+| Catalogue coverage | All 41 Bihar sources are in the manifest, each either automated or marked manual with the reason | Nothing required. Task 3 is scoped to Bihar for now; the India-wide catalogue is out of scope |
 | Public finance | State accounts (4 years), Monthly Key Indicators (Apr 2021 – Jun 2026), GST (10 years), Economic Survey 2024-25, Green Budget, all three SFC reports, 15th and 16th Finance Commission, PRS | Budget documents and FRBM disclosures (expired certificate), RBI publications (bot check), CAG audit reports and Monthly Civil Accounts (CAG server errors) |
 | Demographics | 500 Census 2011 tables, District Census Handbooks for all 38 districts, SRS reports 2011–2024, population projections, CRS 2023 | Statistics-directorate reports (site unreliable), NFHS (expired certificate), PLFS, HCES, HMIS, Mission Antyodaya, caste survey |
 | Extraction | Text and tables from every PDF; every Excel sheet and zipped table to CSV; OCR of all 2,446 scanned pages (2,165 have text; the rest are blank or picture-only) | Nothing required. OCR text needs checking against the original before figures are used |
@@ -146,8 +146,7 @@ By June the state had used 98% of its budgeted net borrowing but received under 
    - Bihar budget documents and FRBM disclosures (BR-PF-01, BR-PF-03) and NFHS (BR-DM-09) while their certificates are expired.
    - Login, form or on-screen sources: CFMS, eGramSwaraj, Open Budgets India, PLFS, HCES, HMIS, Mission Antyodaya, electoral roll statistics, SECC, LGD, DataLab, e-Statistics.
    - The caste survey report, which has no stable official URL.
-3. **India-wide catalogue.** Add the 66 India-wide sources to a manifest the same way.
-4. **Next stage (cleaning).** The extracted CSVs are faithful copies, not cleaned data. Standardising state and district names, LGD codes and units belongs in a separate step that reads from `data/processed/`.
+3. **Next stage (cleaning).** The extracted CSVs are faithful copies, not cleaned data. Standardising state and district names, LGD codes and units belongs in a separate step that reads from `data/processed/`.
 
 ## 8. Task 3 requirements
 
