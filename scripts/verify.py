@@ -20,11 +20,20 @@ def main():
     recs = [r for r in read_jsonl(PROVENANCE) if r.get("status") in {"saved", "manual"}]
     logged = {r["stored_path"]: r for r in recs}
     bad = flagged()
-    problems = []
+    # Originals too large for GitHub (over 100 MB) are listed here and kept out of git.
+    # In a fresh clone they are absent by design: download them again from the URL in
+    # provenance.jsonl and verify.py will check them against the recorded sha256.
+    not_in_git = ROOT / "config" / "not_in_git.txt"
+    external = {line.strip() for line in not_in_git.read_text(encoding="utf-8").splitlines()
+                if line.strip() and not line.startswith("#")} if not_in_git.exists() else set()
+    problems, absent_external = [], []
     for path, r in logged.items():
         p = ROOT / path
         if not p.exists():
-            problems.append(("missing", path))
+            if path in external:
+                absent_external.append(path)
+            else:
+                problems.append(("missing", path))
         elif sha256_file(p) != r["sha256"]:
             problems.append(("modified", path))
     files = [p for p in RAW.rglob("*") if p.is_file()] if RAW.exists() else []
@@ -55,6 +64,8 @@ def main():
           f"inventory written to {inv.relative_to(ROOT)}")
     for kind, path in problems:
         print(f"  {kind.upper():>9}: {path}")
+    for path in absent_external:
+        print(f"  NOT IN GIT: {path} (over GitHub's 100 MB limit; see config/not_in_git.txt)")
     print("All originals intact." if not problems else f"{len(problems)} problem(s) found.")
     return 1 if problems else 0
 

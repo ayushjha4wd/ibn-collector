@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+.part-*
+
+# over GitHub 100 MB limit; listed in config/not_in_git.txt
+data/raw/BR-PF-15a/2026-11-13/XV-FC-Volume_IV-The_States.pdf

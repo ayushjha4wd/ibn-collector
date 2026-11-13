@@ -1,0 +1,9 @@
+# Original files kept out of git because they exceed GitHub's 100 MB per-file limit.
+# They are recorded in data/provenance.jsonl like every other original. In a fresh clone,
+# re-run collect.py for the source (or download the URL below) and verify.py checks the
+# file against the recorded sha256. verify.py reports these as NOT IN GIT, not MISSING.
+#
+# BR-PF-15a, 15th Finance Commission Vol IV "The States", 116 MB
+#   url: https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf
+#   sha256: 25f47d1a4c2686924ec62e208190e6984e14a1355f6784e20b172151c269d9ce
+data/raw/BR-PF-15a/2026-11-13/XV-FC-Volume_IV-The_States.pdf

@@ -1,0 +1,29 @@
+[         ERROR] BR-PF-03   https://budget.bihar.gov.in/  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-06   https://cag.gov.in/ae/bihar/en/ae-state-accounts?cat=792  HTTP 504
+[         ERROR] BR-PF-08   https://cag.gov.in/ag2/bihar/en/audit-report  HTTP 500
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/commission-reports-sixteenth  data/raw/BR-PF-15/2026-11-13/commission-reports-sixteenth.html
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Bihar.pdf  data/raw/BR-PF-15/2026-11-13/Bihar.pdf
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf  data/raw/BR-PF-15/2026-11-13/Vol1-Main-Report.pdf
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol2-Annexures.pdf  data/raw/BR-PF-15/2026-11-13/Vol2-Annexures.pdf
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finances%20-%20Key%20Fiscal%20Indicators.xlsx  data/raw/BR-PF-15/2026-11-13/State_Finances_-_Key_Fiscal_Indicators.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finance%20Accounts%20-%20Revenue%20and%20Expenditure.xlsx  data/raw/BR-PF-15/2026-11-13/State_Finance_Accounts_-_Revenue_and_Expenditure.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Trends%20in%20expenditure%20-%20Centre.xlsx  data/raw/BR-PF-15/2026-11-13/Trends_in_expenditure_-_Centre.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Time%20series%20of%20transfer%20of%20resources%20from%20Centre%20to%20States.xlsx  data/raw/BR-PF-15/2026-11-13/Time_series_of_transfer_of_resources_from_Centre_to_States.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Horizontal%20Devolution.xlsx  data/raw/BR-PF-15/2026-11-13/Horizontal_Devolution.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Salary%20Data.xlsx  data/raw/BR-PF-15/2026-11-13/Salary_Data.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector%20wise%20Subsidies%20and%20Transfers.xlsx  data/raw/BR-PF-15/2026-11-13/Sector_wise_Subsidies_and_Transfers.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Type%20wise%20Subsidies%20and%20Transfers.xlsx  data/raw/BR-PF-15/2026-11-13/Type_wise_Subsidies_and_Transfers.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/FC16%20ULB%20Data%20Dump%20Cityfinance.xlsx  data/raw/BR-PF-15/2026-11-13/FC16_ULB_Data_Dump_Cityfinance.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Rural%20Urban%20transition%20data.xlsx  data/raw/BR-PF-15/2026-11-13/Rural_Urban_transition_data.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Accounts%20in%20Arrear%20of%20SPSEs%20in%20various%20States.xlsx  data/raw/BR-PF-15/2026-11-13/Accounts_in_Arrear_of_SPSEs_in_various_States.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector-wise%20Profit%20and%20Losses%20of%20SPSEs%20in%20various%20States.xlsx  data/raw/BR-PF-15/2026-11-13/Sector-wise_Profit_and_Losses_of_SPSEs_in_various_States.xlsx
+[         SAVED] BR-PF-15   https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Financial%20Data%20of%20SPSEs%20in%20various%20State.xlsx  data/raw/BR-PF-15/2026-11-13/Financial_Data_of_SPSEs_in_various_State.xlsx
+[         SAVED] BR-PF-15a  https://fincomindia.nic.in/commission-reports-fifteenth  data/raw/BR-PF-15a/2026-11-13/commission-reports-fifteenth.html
+[         SAVED] BR-PF-15a  https://fincomindia.nic.in/asset/doc/commission-reports/XVFC%20VOL%20I%20Main%20Report.pdf  data/raw/BR-PF-15a/2026-11-13/XVFC_VOL_I_Main_Report.pdf
+[         SAVED] BR-PF-15a  https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC%20-VOL%20II%20Annexes.pdf  data/raw/BR-PF-15a/2026-11-13/XV-FC_-VOL_II_Annexes.pdf
+[         SAVED] BR-PF-15a  https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf  data/raw/BR-PF-15a/2026-11-13/XV-FC-Volume_IV-The_States.pdf
+[         SAVED] BR-PF-15a  https://fincomindia.nic.in/asset/pdf/commission-reports/XVFC_202021%20Report_English_Web.pdf  data/raw/BR-PF-15a/2026-11-13/XVFC_202021_Report_English_Web.pdf
+[         ERROR] BR-DM-07   https://dse.bihar.gov.in/  URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+
+Run 2026-11-13T092834Z: error=4, saved=22
+Provenance log: /home/user/ibn-collector/data/provenance.jsonl
