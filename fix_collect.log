@@ -1,0 +1,10 @@
+[         SAVED] BR-PF-02   https://state.bihar.gov.in/cache/12/Budget/Budget/Green%20Budget%20Final%202024-25%20English%2022.02.pdf  data/raw/BR-PF-02/2026-11-13/Green_Budget_Final_2024-25_English_22.02.pdf
+[         SAVED] BR-PF-04   https://state.bihar.gov.in/finance  data/raw/BR-PF-04/2026-11-13/CitizenHome.html
+[         ERROR] BR-PF-07   https://saiindia.gov.in/webroot/uploads/download_audit_report/2026/Report-No.2-of-the-year-2026---State-Finances-Audit-Report-06a61fb3bbcafb0.98697767.pdf  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[         ERROR] BR-PF-09   https://7thsfc.bihar.gov.in/  URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[         ERROR] BR-PF-22   https://dse.bihar.gov.in/DDP/BASE%20YEAR-2011-2012/DDP-2011-12.pdf  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[         ERROR] BR-DM-06   https://dse.bihar.gov.in/AnualReport.htm  URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[         ERROR] BR-DM-08   https://dse.bihar.gov.in/New-Publications/Bihar%20Statistics%20%20Hand%20book%202020%20.pdf  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dse.bihar.gov.in'. (_ssl.c:1035)>
+
+Run 2026-11-13T085805Z: error=5, saved=2
+Provenance log: /home/user/ibn-collector/data/provenance.jsonl

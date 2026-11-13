@@ -1,0 +1,40 @@
+Table 1: Status of Environment in Biharvis-a-vis India
+A. General Profile of Bihar18
+Indicators Year Bihar India
+Geographical Area (Sq.km) 2011 94163 (2.86%) 3287469 (2.40%)
+Population (million) 2011 104.10 (8.60%) 1210.60 (17.76%)
+Rural Population (million) 2011 92.34 (88.71%) 833.75 (68.85%)
+Urban Population (million) 2011 11.76 (11.30%) 377.00 (31.14%)
+Population Density (people per square
+kilometre) 2011 1106 382
+Note: Figures in parenthesis indicate percentage share to total
+B. Sustainability and Climate Indices
+Indicators Year Bihar India
+Sustainable Development Goal (Overall Rank)19,20 2020 28/28 112/166
+(Score 52) (Score 63.4)
+(2023)
+Clean Water and Sanitation (Goal 6) Rank18 2020 91 83
+Affordable and Clean Energy (Goal 7) Rank18 2020 78 92
+Life on Land (Goal 15) Rank18 2020 62 66
+State Energy Efficiency Index (Score)21 2021-22 21.0 29.1
+State Energy and Climate Index (Score)22 2021-22 38.3 40.6
+Environmental Sustainability (Score)21 2021-22 33.7 37.7
+Composite Water Management Index (Score)23 2019 37.8 -
+Climate Change Vulnerability (Rank)24,25 2019-20 6/29 7/181
+(Score 0.614) (CRI Score 16.67)
+Top 25% of most Global Climate
+vulnerable states Risk Index
+18 Population Census. Office of the Registrar General and Census Commissioner, India. 2011.
+https://censusindia.gov.in/census.website/data/census-tables
+19 Sustainable Development Goal India Score 2020. https://sdgindiaindex.niti.gov.in/#/ranking
+20 SDG Index 2023. https://dashboards.sdgindex.org/static/profiles/pdfs/SDR-2023-india.pdf
+21 Bureau of Energy Efficiency, Alliance for an Energy Efficient Economy, 2022. State Energy Efficiency Index 2021-22.
+https://stateenergyefficiencyindex.in/wp-content/uploads/2023/04/State-Energy-Efficiency-Index-2021-22-Report.pdf
+22 NITI Aayog. State Energy and Climate Index-Round I. 2022.
+https://www.niti.gov.in/sites/default/files/2022-04/StateEnergy-and-ClimateIndexRoundI-10-04-2022.pdf
+23 NITI Aayog. 2019. Composite Water Management Index https://social.niti.gov.in/uploads/sample/water_index_report2.pdf
+24 Climate Vulnerability Assessment for Adaptation Planning in India using a Common Framework, 2019-20, Department of Science and
+Technology. https://dst.gov.in/sites/default/files/Full%20Report%20%281%29.pdf
+25 Global Climate Risk Index 2021. Federal Ministry for Economic Cooperation and Development.
+https://www.germanwatch.org/sites/default/files/Global%20Climate%20Risk%20Index%202021_2.pdf
+04

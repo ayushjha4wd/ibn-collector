@@ -1,0 +1,65 @@
+5.5.5 Capital expenditure: The two step method 5.5.6 Total Expenditure: It is the total of
+of projection of Capital receipts has been taken Revenue and Capital expenditures (Table 5.22) as
+for Capital expenditure also as given in Box 5.7. computed in Table 5.17 and Table 5.21
+respectively.
+Box 5. 7 Projection of Capital Expenditure
+• The projections made by the 5th SFC are
+Step 1
+realistic and keep in view the past expenditure
+• Based on CAGR (Table 5.18). Only for the
+pattern and the spending capacity of the Govt.
+items showing exceptionally high (>100%) or
+Further, there is enough cushion in the total
+negative CAGR, growth rate have been taken at
+receipts so as to cover contingencies
+25% & 10% respectively.
+• For 15-16, our projections are based on
+• For critical items, viz. Agriculture, Health,
+enhanced FD limits (of 3.5%) as recommended
+Education and Urban development, growth rate
+by the 14th FC, while 15-16 B.E figures are as per
+of 50% has been taken, which is consistent with
+CAGR during the period 2010-13 (Para 5.4.4). the existing FD limits of 3%.
+• PCRE for Bihar has been one of the lowest
+Step 2
+among the States. Lower revenue expenditure not
+• Based on the recommended FRBM targets for only affects public services, but it has also made
+Bihar by the 14th FC (Table-5.13), the Bihar ineligible for Revenue deficit grants from
+projection derived in the first step have been the successive UFCs.
+adjusted as explained in the Table-5.19. The
+• Interestingly (and unfairly), the “equalization”
+revised capital expenditure (Table 5.20) thus
+exercise of the 14th FC is based on factoring in
+obtained are appropriated among General,
+additional expenditures such that States with low
+Economic & Social services and other items
+fiscal capacity are enabled to achieve 80% of the
+(Table 5.21).
+• In appropriating, the level of “Social services” All-States' average PCRE (excluding interest,
+& “Loans and Advances by State” is maintained pension and CSS transfers) by the terminal year
+as that in the initial projections of the first step, (i.e. 2019-20) of the award period.
+while the level of Economic & General services • As per our calculation of PCRE (Annex-5.8),
+and Public debt have been increased taking into account (a) revenue expenditure as
+proportionally. assessed by the 14th FC, and (b) the projected
+Table 5.18: Initial Projection of Capital Expenditure for 15-16 to 19-20 – Annex-5.7
+(A) (B.E) Projections(Rs. Cr. and %)
+Items
+13-14 15-16 15-16 16-17 17-18 18-19 19-20
+Capital Expenditure( A+B+C+D+E) Step 21 7928 29477 29000 35574 43877 54433 67950
+A General Services 1332(7.43%) 4115(13.96%) 2082(7.18%) 2602(7.32%) 3253(7.41%) 4066(7.47%) 5083(7.48%)
+B Economic Services 10810(60.30%) 16693(56.63%) 16483(56.84%) 20294(57.05%) 25077(57.15%) 31118(57.17%) 38805(57.11%)
+C Social Services 1857(10.36%) 4044(13.72%) 3444(11.88%) 4556(12.81%) 6083(13.86%) 8185(15.04%) 11089(16.32%)
+D Public Debt 3119(17.40%) 3895(13.21%) 4466(15.40%) 5343(15.02%) 6408(14.61%) 7702(14.15%) 9275(13.65%)
+E Loans and Advances by State 807(4.50%) 728(2.47%) 2524(8.70%) 2776(7.80%) 3054(6.96%) 3359(6.17%) 3695(5.44%)
+* Figures in bracket shows % of Capital Expenditure
+Table 5.19: Fiscal Deficit at Current projection of Revenue and Expenditure for 15-16 to 19-20
+Sl.No 15-16 16-17 17-18 18-19 19-20
+A. Revenue Expenditure 88712 105110 124719 148198 176345
+B. Capital Expenditure 29000 35574 43877 54433 67950
+C. Revenue Receipt 101288 126464 151439 180553 215689
+D. Debt Servicing 7797 8966 10311 11858 13636
+E. Fical Deficit (A+B-C-D) 8627 5254 6846 10220 14969
+F. GSDP 454494 522668 601068 691229 794913
+G. Fical Deficit (%) 1.90% 1.01% 1.14% 1.48% 1.88%
+79
+5th SFC (2015-20)

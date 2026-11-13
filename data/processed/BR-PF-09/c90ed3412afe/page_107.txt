@@ -1,0 +1,57 @@
+Table 5.14: Projection of Capital Receipts for 15-16 to 19-20
+(In Cr.)
+Sl.No Items 15-16 (P) 16-17(P) 17-18(P) 18-19(P) 19-20(P)
+1 Capital Receipts(@ 29% Gr. Rate) 16511 21300 27477 35445 45724
+2 GSDP 454494 522668 601068 691229 794913
+Targeted F.D(@ 3.5% of GSDP for
+3 15907 16987 21037 24193 27822
+all years except 3.25% for 16-17)
+4 F.D (@ Current proj.) 8627 5254 6846 10220 14969
+5 Gap (3-4) 7280 11732 14191 13973 12853
+6 Revised Capital receipts (5+1) 23791 33032 41668 49418 58576
+*Explanation:
+Sl.no 1: Capital receipts is derived by applying growth rate of 29% over base year value of 9922 Cr. (13-14 A).
+Sl.no.3: FD level is arrived by applying recommended targets of 3.5%, 3.25% ,3.5%, 3.5% and 3.5% for 15-16, 16-17, 17-18, 18-
+19 and 19-20 respectively.
+Sl.no.4: FD level at projected Capital receipts (Sl.no 1) is arrived.
+Sl.no. 5: Gap is found by FD level in Sl.no.3- Sl. no.4
+Sl.no.6: Revised Capital receipts = Capital receipts in Sl.no.1 + Gap found in Sl. no. 5
+Table 5.15: Projection of CFS for 15-16 to 19-20
+13-14 14-15 15-16 Projections ( In Crores)
+Items
+(A) (R.E) (B.E) 15-16 16-17 17-18 18-19 19-20
+Consolidated fund of State (A to E) 78841 110488 121064 125079 159496 193107 229971 274266
+A. SOTR (Table 5.5) 19961 25663 30875 30141 37119 45781 56548 69954
+B. SONTR (Table 5.7) 1545 3097 3396 2079 2412 2797 3245 3764
+C. Share in Central taxes (Table 5.8) 34829 38082 50896 50896 64974 75083 86871 100626
+D. Central Grants (Table 5.11) 12584 28903 18171 18171 21959 27778 33889 41345
+E. Capital Receipts (Table 5.14) 9922 14743 17725 23791 33032 41668 49418 58576
+Table 5.16: Past & Projected Total Expenditure of State Govt. (as % of TE)
+10-11 11-12 12-13 13-14 14-15 15-16 Projections
+Expenditure Heads
+(A) (A) (A) (A) (R.E) (B.E) 15-16 16-17 17-18 18-19 19-20
+General Services 31% 30% 28% 29% 25% 28% 26% 25% 25% 24% 24%
+Social Services 32% 32% 35% 35% 40% 35% 33% 33% 33% 34% 34%
+Economic Services 31% 29% 29% 31% 32% 33% 34% 35% 36% 36% 36%
+Public Debt 4% 5% 4% 4% 3% 3% 4% 5% 5% 4% 4%
+Loans and Advances 2% 3% 3% 1% 1% 1% 2% 2% 2% 2% 1%
+Note: Difference in percentage expenditure of 15-16 (B.E) vs. 15-16 (P) is due to greater share for Economic Services in our
+projection on account of increased FRBM limits.
+• Projected revenue expenditure for 15-16 is Actuals of 13-14, which was lower than that
+slightly (< 3%) lower than 15-16 (BE) (Table Budgeted. Moreover, historically Actuals have
+5.17), since the base used for our projections are been lower than BE (Annex-5.5).
+Table 5.17: Projection of Revenue Expenditure for 15-16 to 19-20
+(A) (B.E) Projections (Rs. Cr.)
+Items
+13-14 15-16 15-16 16-17 17-18 18-19 19-20
+Revenue Expenditure( A+B+C+D) 62477 91208 88712 105110 124719 148198 176345
+A General Services 22018 30259 29810 34668 40369 47063 54933
+i) Interest payments 5459 7221 7797 8966 10311 11858 13636
+of which ii) Pensions 9482 12980 13654 16384 19661 23594 28312
+iii) Others 7078 10058 8360 9318 10396 11612 12984
+B Economic Services 14060 22861 20484 24532 29468 35504 42903
+D Social Services 26395 38084 38414 45905 54877 65625 78502
+C Assignment to LBs 4 5 4 5 5 6 6
+* Details of projections are at Annexure 5.7
+78
+5th SFC (2015-20)

@@ -1,0 +1,41 @@
+Intra PRI-Tier Distribution
+2.20 The SFC5 recommended inter-se distribution of devolved funds amongst the individual
+PRIs in each tier using criteria of population, area and the extent of deprivation, as
+indicated by Under Development Index (UDI), as presented in Table 2.17.
+Table 2.17 : Recommended Intra PRI-Tier Distribution by SFC5
+Weight (Percentage)
+Criterion
+ZP PS GP
+Population 50 50 Each GP falling within
+a particular Block
+Area 10 0
+would get equal share
+UDI 40 50 of amount available for
+GPs of that Block
+Total 100 100 based on the Block’s
+UDI.
+2.21 The State Government decided that for distribution of devolved funds among PRIs, the
+weight of UDI will be 10 percent and that of population 90 percent. The 70 percent share
+of devolution meant for GPs will be first apportioned among the blocks based on the same
+criteria for sharing among PSs (i.e. 90 percent weight for population and 10 percent
+weight for UDI) and the block share will be distributed among the GPs of that block on
+the basis of population.
+Zila Parishad Panchayat Samiti Gram Panchayat
+Criterion (20 percent) (10 percent) (70 percent)
+R I R I
+Allocation to Blocks on the basis
+Population 50 90 50 90 of UDI (10 percent) and
+population (90 percent).
+Area 10 0 0 0
+Block share to be distributed
+UDI 40 10 50 10 among GPs of that block on the
+basis of population.
+Total 100 100 100 100
+Note : R = Recommended / I = Implemented
+2.22 The State Government has been releasing funds to the individual PRIs based on the above
+adopted criteria.
+Inter and Intra ULB Distribution
+2.23 For distribution of amount devolved for the ULBs, SFC5 adopted the criteria based on
+population, area and number of BPL families. The Commission was of the view that
+special needs of the bigger cities, even though having higher revenue raising capacity,
+24

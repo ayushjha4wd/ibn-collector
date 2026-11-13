@@ -1,0 +1,29 @@
+4. Currently, the following software modules developed by e-Governments
+Foundation are in use in various ULBs:
+(i) Modules for Personnel Management System and General Administration
+have been introduced in 55 ULBs (12 Nagar Nigams, 42 Nagar Parishads
+and 02 Nagar Panchayats).
+(ii) Generation of GIS Base Map in 57 ULBs is under way
+(iii) Double Entry Accounting System started in some ULBs using Tally
+software.
+(iv) GeM is being used in all ULBs for Procurement of goods and services.
+(v) e-tendering system being used in all ULBs.
+(vi) Online Reporting System for ULBs : Video Conferencing software and
+connectivity provided to 101 ULBs by Beltron being used for review at
+UDHD level
+(vii) Online Delivery of following citizen centric services in 55 Urban Local
+Bodies:
+(a) Birth & Death Registration
+(b) Property Tax
+(c) Building Plan Approval
+(d) Licenses
+(e) Rent, Lease and Sairat
+(f) Advertisement & Hoardings
+(g) Websites for ULBs
+5. A good beginning has been made in the realm of ULBs to use IT for improving
+efficiency and rendering citizen-centric services. The following is suggested in
+this context:
+(i) UDHD should ensure that the e-Municipality is developed as a
+comprehensive IT system to provide services to citizens as well as to
+facilitate office and personnel management, financial management,
+105

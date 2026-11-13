@@ -1,0 +1,25 @@
+SFC4,,,,,,
+,ZP,,PS,,GP,
+"Percentage share of PRIs
+in Devolved Funds",10,,20,,70,
+"Criterion for inter se
+distribution",Criterion,Weight,Criterion,Weight,Criterion,Weight
+,Population,100,Population,80,"Equally amongst
+all GPs",
+,,,"No of BPL
+families",20,,
+SFC5,,,,,,
+,ZP,,PS,,GP,
+"Percentage share of PRIs
+in Devolved Funds",20,,10,,70,
+"Criterion for inter se
+distribution",Criterion,Weight,Criterion,Weight,Criterion,Weight
+,Population,50,Population,50,"• Allocation to
+Blocks on the
+basis of UDI
+• Block share to be
+distributed equally
+among GPs of that
+Block",
+,Area,10,Area,0,,
+,UDI,40,UDI,50,,

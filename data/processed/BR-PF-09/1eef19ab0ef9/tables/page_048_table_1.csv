@@ -1,0 +1,12 @@
+Criterion,Weight (Percentage),,
+,ZP,PS,GP
+Population,50,50,"Each GP falling within
+a particular Block
+would get equal share
+of amount available for
+GPs of that Block
+based on the Block’s
+UDI."
+Area,10,0,
+UDI,40,50,
+Total,100,100,

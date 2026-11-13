@@ -1,0 +1,56 @@
+Status of implementation of these modules in
+Box 2.14
+Bihar is given in Table-2.12.
+2.6.3 The aforesaid modules are parts of a
+composite e-Panchayat framework as shown
+in Box-2.14:
+2.6.4 DPR of e-Panchayat: Detailed Project
+Report prepared by MoPR for Bihar could be
+used for operationalising e-Panchayat. The
+estimated costs may be seen at Table-6.22.
+2.6.5 Phasing of Implementation of the DPR:
+MoPR has suggested phasing of implementation hardware at all the PRIs as well as augmentation
+of the DPR on e-panchayat as follows: of ICT infrastructure at the State or the NIC
+a) RFP Phase - RFP template provided by the Data Centre for hosting the State-specific
+MoPR will be customised to reflect the State- software applications, which will be developed
+specific requirement. The outcome of this phase at State level. Trainings will be provided on
+would be selection of the Service Agency (SA). usage of the software applications and one
+b) Deployment phase– This phase would trained computer literate Panchayat Level
+comprise installation and commissioning of the Operator (PLO) will be provided at each PRI for
+Table-2.12: Status of 11 Common Core Application Modules in Bihar
+Financial Year 2013-14 2014-15 Status
+1 PriaSoft a) 31 districts. d) 36 districts. Data not updated after
+(Closing of books after b) 484 Blocks. e) 3 Blocks. 2014-15.
+completion of entries.) c) 7683 GPs. f) 60 GPs.
+2 Service Plus Feasibility and infrastructure reports for the selected districts
+(Not Implemented in Bihar). approved, formats of the services finalized and communicated to NIC
+Patna for definition of technical modifications.
+3 Area Profiler a) All districts. d) f) Data not updated after
+(Complet Local Governmentb ) 483 Blocks. e) Not available 2014-15.
+Profile) c) 6942 GPs.
+4 Plan Plus a) 36 Districts. 26 ZP. do
+(Uploading plans) b) 512 Block. 375 IP.
+c) 8025 GPs. 5367GP.
+5 Local Govt. Directory a) 100% Village. c) 100% Village. e) do
+(a) Completion of mapping b) Ward mapping idn) 100% GP.
+progress.
+(b) Updation of list of f) 100% District, -----
+Panchayats. ----- Block & GP.
+(c) Mapping of GP to g) Only name of
+Assembly and Parliamentary ----- PC/AC entered. -----
+Constituencies.
+6 National Panchayat Portals NPP close to100% for Content uploaded Data not updated after
+ZP. Blocks and GP 38 ZP. 2014-15.
+level work under way. 522 IP.
+5997 GP.
+7 Asset Directory Entries in progress. Not available Data not available on
+website.
+8 Social Audit Guidelines of PRD is Not rolled out -----
+awaited
+9 Training Management Not rolled out Not rolled out
+-----
+10 Action Soft Work under Progress Data not available on
+in all Districts, Blocks Not available website.
+and GPs.
+11 GIS a) Not rolled out. b) Not rolled out. Website closed.
+22 5th SFC (2015-20)

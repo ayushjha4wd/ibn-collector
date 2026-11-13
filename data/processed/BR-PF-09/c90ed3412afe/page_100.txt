@@ -1,0 +1,76 @@
+Box 5.2 Method 1: Box 5.3 Method 2:
+Projections through Growth Rate Projections through Macro-econometric models
+• Value of a variable (say, X) is linked to the previous • Projections based on the trends or buoyancies do
+t
+year’s value (X-1) by a growth rate (g). i.e. X= not take into account the interdependence of the
+t t
+(1+g)*(X-1) fiscal variables with other key sectors of the
+t
+• Growth rate can be obtained broadly using two economy.
+methods: • A macro-econometric model has the capacity to
+(i) Buoyancy : normally applied for tax and non- tax capture complex and dynamic interrelationships
+revenues which are largely dependent on GSDP among the economic variables and is therefore
+Buoyancy “b” = % change in value of a variable / % suitable analytical tool for studying issues of fiscal
+change in GSDP transfers since projections for five years are an
+Change in revenue between years t & t-1: integral part of the institutional framework of
+ΔR = R-R-, determining transfers under the aegis of the Finance
+t t1
+Correspondingly, change in GSDP: ΔX = X-X- Commission.
+t t1
+Then, Buoyancy of revenue: b = (ΔR/R-1) / (ΔX/X-1) • It is useful for determining sustainable levels of
+t t
+Accordingly, Growth rate of revenue: public debt and fiscal deficit, monetization of deficit,
+g(R) = (ΔR/R-) = b * g, Where, g = (ΔX/X-) impact of globalization, and the economy’s growth
+t1 t1
+prospects in the medium term.
+(ii) CAGR, YoY etc. normally applied for items
+• Macro-econometric model can be used to devise a
+expected to grow at historical rates
+framework to forecast and simulate revenues and
+CAGR = {(End Value – Start Value) ^ (1 /
+expenditure of govt. based on the relevant
+Compounding years)} – 1
+interrelations among key real, fiscal, trade, and
+YoY= {(Value – Value )/ Value }
+t t-1 t-1 monetary
+• Aggregates and ensuring that the relevant
+definitions and identities are satisfied.
+(ii) GSDP growth rate: Reliable projection of
+Source: A Macro-Fiscal Modeling Framework for Forecasting
+GSDP is critical to correctly projecting receipts and
+and Policy Simulations, MSE, May 2012
+expenditure. Any underestimation of GSDP for
+rates and surpassed the growth rates projected (7.6
+example would result in loss of opportunity of
+% & 15%) by the 11th & 12th National plans for
+raising debt within the permissible RD/FD limits
+Bihar (also see Graph-4.1).
+and thus in raising much needed resources for
+Our GSDP projections for 14-15 & 15-16 came
+bridging the development deficit. Moreover, most
+very close to the State Budget figures and are thus
+of the financial indicators depend on GSDP viz
+dependable. Incidentally, different GSDP estimates
+debt, deficits, borrowing, tax effort etc.
+has been made for 2013-14 in the Budgets of 14-15
+For our purposes, nominal GSDP growth has been
+and 15-16 respectively. (Table 5.2)
+taken conservatively at 15% comprising of 10%
+(iii) Projections of Receipts: As explained in Para
+real growth and 5% inflation, as projected by the
+5.2 above, projection through GR (buoyancy)
+12th National Plan for Bihar. Table 5.1 shows that
+method has been used as in Box 5.4:
+GSDP of Bihar has grown earlier at much higher
+Table 5.1: GSDP growth over years
+Year 05-06 06-07* 07-08 08-09 09-10 10-11 11-12 12-13 13-14 CAGR**
+GSDP Growth (%) 6.05 22.12 12.85 25.16 14.51 24.94 19.51 21.74 17.05 19.16
+* 2006-07 was the year of economic transition for Bihar; ** CAGR between 06-07 to 13-14; Source: CSO as on 27.02.2015
+Table 5.2: Projection of GSDP of Bihar
+13-14 13-14 1 4 - 1 5 1 5 - 1 6
+Year 13-14* 14-15* 14-15(P) 15-16(P) 16-17(P) 17-18(P) 18-19(P) 19-20(P)
+(Bgt. 14-15) (Bgt.15-16) (Bgt.14-15) (Bgt.15-16)
+GSDP (In Cr.) 343663 314155 343054 402283 383709 395212 455451 454494 522668 601068 691229 794913
+* Data from C.S.O as on 27.02.2015; Bgt.: Data from Bihar Budget documents ; (P): Projections @ 15% annual growth, base year13-14*
+71
+5th SFC (2015-20)

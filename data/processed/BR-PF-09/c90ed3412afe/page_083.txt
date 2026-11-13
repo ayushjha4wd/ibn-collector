@@ -1,0 +1,61 @@
+3.6.3 e-Municipality Modules: Table 3.20 advanced stage of finalization.
+indicates the modules under e-Municipality (e) The Data Centre hardware require for hosting
+project. the Solution is ready.
+Table. 3.20 Modules under e-municipality project
+Citizen service Business services Mgmt. services Add-on services
+▪ Registration of Birth, ▪ Property Tax ▪ File Management ▪ Engineering/ Project
+Death and Marriage ▪ Professional Tax ▪ Finance Management Management
+▪ Water & Sewerage ▪ Vehicle Tax ▪ Budget Preparation ▪ Material
+Connection ▪ Issuance of Trade ▪ Workflow and Management
+▪ Solid Waste License Document ▪ Contract
+Management ▪ Issuance of Health ▪ Human Resource Management
+▪ Grievance Redressal Licenses Management ▪ Transportation/
+▪ RTI ▪ Hawker Licenses ▪ Employee Self Service Workshop
+▪ Web Portal ▪ Advertisement ▪ Payroll and Pension ▪ e-Procurement
+▪ Booking of Community ▪ Building Permission ▪ Audit ▪ Hospital
+Hall & Other Utilities ▪ Land and Estate ▪ Asset Management Management
+▪ Welfare Schemes ▪ Fire & Emergency ▪ School Management
+▪ Lease & Sales
+3.6.4 Status of e-Municipality: (f) Requirements like SMS Gateway, Payment
+(i) Software Development Agency (SDA) named Gateway that require State Govt. approvals are in
+ABM Knowledge ware Ltd. was assigned the process.
+contract in October 2013. Procurement of
+3.6.5 Recommendations of the Review
+Hardware and Software for the State Data Centre,
+Committee:
+computers for the ULBs and other items like
+• The Review Committee had suggested ;
+payment gateway etc are in progress. The
+(a) Immediate review of the project at Secretary
+Scheduled date of Completion of the Project is
+level as SDA is not showing improvement in
+May, 2016.
+quality of work despite guidance during the last
+(ii) Current status of project is as follows:
+one year. SDA has an ad-hoc approach in this
+a) Requirement has been discussed with the ULBs
+ambitious project and is more interested in
+for Citizen Facility Centre (CFC). The ULBs have
+deploying its own software “MAINNET”, though
+to provide space with all the basic amenities.
+it does not meet the requirements of the contract,
+b) Five modules viz. Web Portal with CMS, Birth
+FRS and UDD.
+& Death Registration, Advertisements &
+(b) Cancel the contract and recover payments
+Hoardings, Workflow & Document Management
+made against the inception report on which the
+System, General Administration (Audit, RTI,
+approval was not given by the Core Committee.
+Stores Management, Q & A of Legislative
+Assembly, IT support, Legal Matters) need 3.6.6 Decisions of the meeting taken by Principal
+changes before being taken to User Acceptance Secretary, UDD on 6.1.2016:
+Test. i. The place and infrastructure for operations of
+c) Two modules viz Registration & Licensing and System Administrator and DBA is being
+Rent, Lease & Sairat did not have completed prepared at PMU- SPUR. UD&HD and for
+Demo, but are ready for User Acceptance Test as Helpdesk at Indira Bhawan.
+per ABM Knowledge were Ltd. Complete review ii. DTPL is conducting training of manpower to be
+of the modules before Go-Live is essential. d eployed at the ULBs by 15th Jan 2016. The IT
+(d) Two other modules viz Property Tax Return Supervisors and DEO at PMC will be deployed
+and Building Plan approval & Regulation are in the on 11th Jan 2016.
+54 5th SFC (2015-20)

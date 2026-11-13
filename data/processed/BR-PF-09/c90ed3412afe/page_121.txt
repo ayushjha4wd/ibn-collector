@@ -1,0 +1,56 @@
+All-India. Refer table 6.8 (a). 6.8 (b).
+Step 3: Projection of PC ORS for Bihar made on Step 4: Projecting Rural population for Bihar:
+the basis of Growth Rate of 10% only, since Methodology of the SR14FC has been followed
+CAGR for attaining PC ORS of All India level in i.e. adding yearly increase in rural population to
+19-20 would be too high. Refer Col. 2 of Table- the current years’ for the next years’ value as
+Table 6.8 (a): PC ORS Projection for Bihar (2015-2020)
+Items PC (AI) PC (Bihar)
+Year CAGR 15-16 15-16 16-17 17-18 18-19 19-20
+Sl.
+1 2 3 4 5 6 7 8
+Village Level (GP)
+Own Revenue 10 93 9 10 11 12 14
+1 Property taxes 8 42 4 5 5 5 6
+2 Other taxes 11 23 2 3 3 3 3
+3 User charges and non-tax 13 29 3 3 4 4 5
+Intermediate Level (PS)
+Own Revenue 15 34 3 4 4 5 6
+1 Property taxes -1 2 0.22 0.22 0.21 0.21 0.21
+2 Other taxes 15 13 1 1 2 2 2
+3 User charges and non-tax 21 21 2 2 3 4 4
+District Level (ZP)
+Own Revenue 16 149 15 17 20 23 27
+1 Property taxes 0 3 0 0 0 0 0
+2 Other taxes 18 101 10 12 14 17 19
+3 User charges and non-tax 16 47 5 5 6 7 9
+Total
+Own Revenue 13 272 27 31 35 40 45
+1 Property taxes 7 46 5 5 5 6 6
+2 Other taxes 16 136 14 16 18 21 24
+3 User charges and non-tax 16 96 10 11 13 15 17
+Table 6.8 (b): PC ORS Projection for Bihar (2015-2020)
+Items Estimated Projected PC (Bihar)
+Year GR * GR 15-16** 16-17 17-18 18-19 19-20
+Sl.
+1 2 3 4 5 6 7 8
+Village Level (GP)
+Own Revenue 95 10 9 10 11 12 14
+1 Property taxes 92 10 4 5 5 6 6
+2 Other taxes 97 10 2 3 3 3 3
+3 User charges and non-tax 100 10 3 3 4 4 4
+Intermediate Level (PS)
+Own Revenue 104 10 3 4 4 4 5
+1 Property taxes 76 10 0.22 0.24 0.26 0.22 0.37
+2 Other taxes 105 10 1 1 2 2 2
+3 User charges and non-tax 115 10 2 2 2 3 3
+District Level (ZP)
+Own Revenue 107 10 15 16 18 20 22
+1 Property taxes 78 10 0 0 0 0 0
+2 Other taxes 109 10 10 11 12 13 15
+3 User charges and non-tax 106 10 5 5 6 6 7
+Total
+Own Revenue 102 10 27 30 33 36 40
+1 Property taxes 90 10 5 5 6 6 7
+2 Other taxes 106 10 14 15 16 18 20
+3 User charges and non-tax 106 10 10 11 12 13 14
+92 5th SFC (2015-20)

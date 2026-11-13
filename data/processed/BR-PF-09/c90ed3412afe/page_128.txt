@@ -1,0 +1,50 @@
+Table 6.22: Projected Costs of e-Panchayat Project Rs. Cr
+No. Items 15-16* 16-17 17-18 18-19 19-20 15-20
+1 State ICT** 2 1 1 1 4
+2 PRIs ICT** 16 66 69 53 204
+3 Manpower (IT) 9 36 38 29 112
+4 Capacity Building (IT) 4 7 7 4 21
+5 Block Support Group 2 8 9 7 26
+6 Program Management Unit 4 4 4 4 16
+7 Total 32 118 124 94 367
+8 Total -Manpower Cost*** 23 82 86 65 255
+* Evidently, it is not possible to spend any amount on e-Panchayat in 15-16.
+** PRI (ICT) includes cost of ICT infrastructure at PRIs, whereas; State (ICT) Infrastructure is for State level.
+*** Cost of Manpower (IT) has been excluded in the total cost of e-Panchayat, since IT manpower has already
+been included in Manpower projection for the PRIs. (Table-6.20) .
+(c) e-Panchayat: Cost details are given in Table- Programme for Urban Reforms) type support also
+6.22. to the PRIs and the DPCs. Five key outputs
+(d) Technical Support for Smart Panchayat expected from TSSP are as in Box 6.6.
+(TSSP): (ii) The cost projection for TSSP may be seen in
+(i) It is proposed to provide SPUR (Support the Table 6.23
+Table 6.23: Expenditure on TSSP (2015-20)
+No. of post Total Unit Total Cost p.a. (Rs. Cr.)
+Name of Posts for each No. of Cost
+Sl. 16-17 17-18 18-19 19-20 16-20
+Div. post p.m.
+1 2 3 4 5 6 7 8
+A. Personnel
+1 Group Leader 1 10 100,000 1.20 1.20 1.20 1.20 4.80
+2 Panchayat Governence
+1 10 0.84 0.84 0.84 0.84 3.36
+Professional 70,000
+3 Economist 1 10 70,000 0.84 0.84 0.84 0.84 3.36
+4 Law Officer (G.K.) 1 10 60,000 0.72 0.72 0.72 0.72 2.88
+5 Development Planner 1 10 60,000 0.72 0.72 0.72 0.72 2.88
+6 Finance Consultant 1 10 50,000 0.60 0.60 0.60 0.60 2.40
+7 Statistical Consultant 1 10 50,000 0.60 0.60 0.60 0.60 2.40
+8 PPP Professional 1 10 50,000 0.60 0.60 0.60 0.60 2.40
+9 Administrative Officer 1 10 30,000 0.36 0.36 0.36 0.36 1.44
+10 Accountant 1 10 25,000 0.30 0.30 0.30 0.30 1.20
+11 Assistant 1 10 20,000 0.24 0.24 0.24 0.24 0.96
+12 IT Assistant-cum-DEO 4 40 17,000 0.82 0.82 0.82 0.82 3.26
+13 MTS1 2 20 11,000 0.26 0.26 0.26 0.26 1.06
+14 IEC 1.00 1.00 1.00 1.00 4.00
+15 Office Space &
+# 0.66 0.66 0.66 0.66 2.64
+Infrastructure*
+16 Total: 9.76 9.76 9.76 9.76 39.04
+Note: 1. Multi-Tasking Staff (Sweeper-cum-Peon-cum-Chaukidar) * Research and Consultancy fund would be
+managed by PRD for promoting quality of planning through DPCs. ** Rent, furniture, computer with internet
+connectivity, electricity and miscellaneous item.
+99 5th SFC (2015-20)

@@ -1,0 +1,66 @@
+9.4 Resource gap of the LBs: 9.5 Devolution:
+9.4.1 Rigorous resource gap (RG) analysis for the 9.5.1 Table-5.25 (Para 5.7.2) gives scenarios of
+LBs is not possible since required data (Annex varying devolution from 7.5% to 12% for 2015-16
+6.3 & Annex 7.7) are not available. However, to 2019-20 period as reproduced in Table 9.4.
+based on certain assumptions, the same has been 9.5.2 Devolution for 15-16 to 19-20: Based on the
+projected for the PRIs (Para 6.8) and the ULBs scenarios of varying % of devolution (Table 9.4),
+(Para 7.8) for the period 2015-16 to 2019-20. A devolution of 8.5% in 2015-16 and 9% in 2016-17
+summary is given in Table 9.3. to 2019-20 of the divisible pool is recommended as
+given in Table 9.5 (Details in Para 8.9.6). In case
+9.4.2 The Projected Resource Gap for the PRIs is
+the Actuals of SOTR is less than the projections,
+relatively low as their resources include Civic
+the devolution would evidently be based on the
+Services grant recommended for the Bihar GPs
+Actuals.
+by the 14th FC totaling Rs. 21,018 Cr. Similarly,
+9.5.3 Inter LBs Share: The devolved funds would
+the projected resource gap for the ULBs is
+be shared among the PRIs and the ULBs in the ratio
+relatively low as they are expected to raise far
+of 70:30 for the year 2015-16 and 60:40 for the
+more own revenue and also leverage PPP and
+subsequent years as given in the Table 9.6
+Borrowing in a big way.
+(justification given in Para 8.10).
+Table 9.3: Resource Gap of the LBs for 15-16 to 19-20
+Business-as-usual Normative (SR14FC) 5th SFC assessment
+Sl. No.
+Rev. Exp. RG Rev. Exp. RG Rev. Exp. RG
+PRI 295 3216 2921 279 6652 6373 360 6652 6292
+2015-16
+ULB 1054 2011 957 948 9117 8169 834 7427 6593
+PRI 325 4049 3724 313 8544 8231 397 9324 8927
+2016-17
+ULB 1424 2312 888 1278 10793 9515 1457 7878 6421
+PRI 358 4645 4287 350 10029 9679 439 10809 10370
+2017-18
+ULB 1696 2659 963 1498 12785 11287 1760 8411 6651
+PRI 393 5336 4943 392 12457 12065 483 12737 12254
+2018-19
+ULB 2021 3058 1037 1756 15155 13399 2125 8947 6822
+PRI 432 7036 6604 438 14636 14198 534 14916 14382
+2019-20
+ULB 2527 3517 990 2177 17976 15799 2697 9525 6828
+Total PRI 1803 26282 24479 1771 52318 50547 2123 54438 52315
+(2015-20) ULB 8721 13557 4836 7656 65826 58170 8872 42188 33316
+Table 9.4: Scenarios of varying devolution to the LBs
+Sl. 15-16* Projections ( In Crores)
+Items
+No B.E 15-16 16-17 17-18 18-19 19-20 Total
+1. Divisible Pool 29862 29110 35881 44294 54762 67811 231857
+7.5% 2240 2185 2690 3320 4105 5085 17385
+8.0% 2390 2330 2870 3545 4380 5425 18550
+8.5% 2540 2475 3050 3765 4655 5765 19710
+9.0% 2690 2620 3230 3985 4930 6105 20870
+9.5% 2835 2765 3410 4210 5200 6440 22025
+2 Devolution
+10.0% 2925 2910 3590 4430 5475 6780 23185
+10.5% 3135 3055 3765 4650 5750 7120 24340
+11.0% 3285 3200 3950 4870 6025 7460 25505
+11.5% 3435 3350 4125 5095 6300 7800 26670
+12.0% 3585 3495 4305 5315 6570 8135 27820
+*15-16 B.E data are based on Bihar Budget documents
+Note: - Amount rounded off to the nearest multiple of 5.
+132
+5th SFC (2015-20)

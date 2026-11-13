@@ -1,0 +1,56 @@
+Table 7.18: ULB Window of the State Budget (Rs Cr)
+12-13 13-14 13-14 14‐15 15‐16
+Items (Actual) (R.E) (Actual) (R.E) (B.E)
+UDD transfers to LBs 675 1094 0 3238 2730
+1 Non-Plan 325 519 0 645 720
+A UFC Grants 60 184 0 217 257
+i M.Corp 26 79 92 109
+ii M.Council 21 63 73 86
+iii N.Panchayat 14 42 52 62
+B SFC Grants 264 323 407 435
+i M.Corp 106 149 165 177
+ii M.Council 92 112 139 149
+iii N.Panchayat 66 62 102 108
+C Professional Tax 0 12 22 28
+i M.Corp 8 9.42 11.94
+ii M.Council 0 7.32 9.44
+iii N.Panchayat 4 5 7
+2 Plan 350 575 2593 2011
+A Water supply 32 53 200 200
+B Sanitation Work 18 47 95 150
+C NGRBA (state share 70:30) 200 51
+D I.D.S.M.T UIDSSMT (CS+SS) 444 145
+E Urban Information system 150 191
+F IHSPD 194 245
+G RAY 178 11
+H EAP 39 110 80 30
+I EAP-ADB 58 60 190 381
+J Civic Amenities 27 106 327 281
+K Master plan, DPR 0 2 10 4
+L MMSVY 146 132 201 0
+M Roads and Bridges 20 46 171 150
+N Others* 11 18 0.16 153 171
+Education Dept. transfers to LBs 1308 1308
+SC & ST welfare dept. transfers 386 442
+BC & EBC welfare dept. transfers to LBs 1031 1617
+* For 15-16 (BE) Others contains funds allocated for I.L.C.S (0.01), BPL List (0.01), Construction/Renovation of Buildings
+(10), Capacity Building (0.01), e-Governance (0.01), Strengthening of Housing Board and Completion of schemes (100),
+Monitoring/ Evaluation/ Supervision/ Establishment of resource centre and urban planning (1), Strengthening of Urban
+Poverty Alleviation Directorate (0.01), Establishment of Engineering cell (7), Allowances of Elected representative (3.2),
+SJSRY (49.7) and Capital expenditure in land acquisition for construction of houses (0.01).
+Graph: 7.3: Estab, Program, O&M and Other Exp. as % of Total Expenditure
+10 8 9 0 0 0 % % % 1 2 02 4 . .. 7 05 .7 2 09 4 9 204 . ... 7 005 5 102 2 6 3 4 0 . . . 6 0 . 1 3 5 7 4 7 1 5 00 1 . .. 5 62 .0 4 24 9 3 0 4 2 . . 1 8 .5 1 1 5 1 0 8 9 . . 0 5 .4 0 1 1 2 0 4 2 . . 0 8 .7 0 7 7 9 8 00 . . .. 5 3 01 4 8 00 1 400 6 ... 502 .2 305 9 2 1 01 0 . .. . 5 26 1 9 96 1 1 0 01 8 . .. 7 07 .5 8 00 9 1 6 02 3 . .. 2 23 .6 5 42 8
+70% 2.70
+60% 4.32
+36.57
+50%
+40% 79.94 83.72 82.51 81.98 78.93 76.35 78.93 77.51
+65.78 69.38
+30% 58.22
+20%
+35.79
+10%
+0%
+Establishment Exp. % of Rev Exp Program Exp. % of Rev Exp
+O & M Exp. % of Rev Exp Finance & Interest Expenditure % of Rev Exp
+116 5th SFC (2015-20)

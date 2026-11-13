@@ -1,0 +1,48 @@
+F. Climate30
+Indicators Year Bihar India
+Average Annual Temperature (0Celsius) 2022 24.7 25.21
+Average Minimum Temperature (0Celsius) 2022 7.1 19.89
+Average Maximum Temperature (0Celsius) 2022 42.3 30.53
+Annual Rainfall (mm) 2022 849.1 1257.0
+G. Wetland31,32
+Indicators Unit Year Bihar India
+Inland Wetland (Natural)
+Number 387 11740
+Lake/Pond 2021
+Area
+14820 729532
+(hectares)
+Number 912 4673
+Ox- bow Lake/Cut-off
+2021
+meander Area
+16432 104124
+(hectares)
+Number - 2707
+High Altitude 2021
+Area
+- 124253
+(hectares)
+Number 172 2834
+Riverine Wetland
+Area
+2021
+2194 91682
+(hectares)
+Number 1537 11957
+Waterlogged 2021
+Area
+30700 315091
+(hectares)
+Number 209 11747
+River/Stream 2021
+Area
+294685 5258385
+(hectares)
+30 Annual Report 2022. India Meteorological Department, Ministry of Earth Sciences, Government of India.
+https://mausam.imd.gov.in/imd_latest/contents/ar2022.pdf
+31 Space Applications Centre, ISRO. 2021. “Space Based Observation of Indian Wetlands.” Space Applications Centre, Indian Space Research
+Organization, Ahmedabad.https://indianwetlands.in/uploads/wetland_atlas_LISS3_final-SAC.pdf.
+32 National Wetland Statistics. Type-wise Area Estimates of Wetlands in India. https://indianwetlands.in/wetlands-overview/national-wetlands-
+statistics/.
+06

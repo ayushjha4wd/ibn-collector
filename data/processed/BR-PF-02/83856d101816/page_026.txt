@@ -1,0 +1,50 @@
+Table 8: Department-wise SDG Mapping
+Sl. Departments
+18
+2GDS 4
+GDS
+5
+GDS
+6
+GDS
+7
+GDS
+8
+GDS
+9
+GDS
+11
+GDS
+21
+GDS
+31
+GDS
+41
+GDS
+51
+GDS
+1 Agriculture 55 0 0 22 0 0 0 0 0 0 0 32
+2 Animal and Fisheries Resources 12 0 0 12 0 0 0 0 0 0 7 6
+3 Building Construction 0 0 0 4 4 0 2 4 4 4 0 1
+4 Education 0 1 0 0 2 0 2 0 0 3 0 0
+5 Energy 0 0 0 3 1 0 1 0 3 0 0 0
+Environment, Forest and Climate
+6 4 1 0 0 0 10 2 4 0 17 2 30
+Change
+7 Health 0 0 0 1 0 0 0 0 0 0 0 0
+8 Industries 1 0 0 1 0 0 1 0 1 1 0 1
+9 Information and Public Relations 0 0 0 0 0 0 0 0 0 1 0 1
+10 Minor Water Resources 12 0 0 12 0 0 0 0 0 0 0 0
+11 Panchayati Raj 0 0 0 9 6 0 0 12 0 6 0 9
+Public Health Engineering
+12 0 0 0 2 0 0 0 0 0 0 0 0
+Department
+13 Road Construction 0 0 0 0 0 0 0 0 0 1 0 1
+14 Rural Development 0 0 23 11 0 25 0 0 0 2 0 10
+15 Rural Works 0 0 0 0 0 0 0 0 6 6 0 6
+16 Sugarcane Industries 3 0 0 3 0 0 0 0 0 0 0 0
+17 Tourism 0 0 0 1 0 0 0 0 1 0 0 0
+18 Transport 0 0 0 0 0 0 0 2 0 2 0 0
+19 Urban Development and Housing 0 0 0 39 8 0 3 49 5 8 0 3
+20 Water Resources 22 0 0 22 0 0 0 0 0 0 0 0
+Total 109 2 23 142 21 35 11 71 20 51 9 100

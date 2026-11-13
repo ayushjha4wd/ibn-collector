@@ -1,0 +1,53 @@
+7.7.3 Forecast of Expenditure of the ULBs by (i) Assumptions:
+UDD: a. Manpower requirement is computed based on
+(i) Assumptions: the Model Municipal Cadre (excluding Group
+a.) Establishment expenditure is based on the D). (para 3.3.2). i.e Rs 206 Cr. p.a. with 5 %
+Municipal Cadre Report of MoUD & PMC annual increase (Annex 3.7 ).
+Restructuring Report of E&Y. Positions under b. Training cost is computed based on HPEC
+section 36 of BMA, 2007, if not considered, are norms. i.e. 1.25% of total capital requirement
+included. with annual increment of 5 Cr. : 4792 Cr. × 1.25
+b.) 10% annual increase is assumed in % = 59.9 Cr. ≡ 60 Cr. p.a.
+Establishment expenditure. c. Capital and O & M Exp on Civic Services (Rs
+c.) O&M expenditure is based on per capita 29,374 cr. over 5 years) are computed based on
+expenditure as estimated by HPEC adjusted to per capita norms of HPEC (Annex 7.2B),
+2014-15 prices and inflation of 5% and multiplied by the projected urban Population.
+population growth @ 2% p.a. d.Model Cites & Towns: (Smart Cities,
+d.) 20 % increases is assumed in Programme, AMRUT) etc. Details are given in para 3.2.10
+Administrative and Misc. expenditure. and Annex 7.5. Resource required for the
+e.) Interest expenditure is assumed to be nil as purpose could be met comfortably through
+Capital expenditures are funded by convergence of own revenue, transfers from
+Government Grants. UFC & 5th SFC, Plan transfer and PPP etc.
+(ii) Forecast: options as explained below.
+7.7.4 5th SFC Approach: Optimistic but e. SPUR type Professional Services: is to be
+realistic approach has been adopted by the 5th provided to all the ULBs. Rs 20 Cr. is provided
+SFC since Bihar LBs have to catch up with at for 15-16 with annual increase of 10%
+least the All India level of 12-13 by 2015-16. subsequently.
+Table 7.23: Forecast of Expenditure 2015-16 to 2019-20 period ( Rs Cr.)
+Item 15-16 16-17 17-18 18-19 19-20
+Establishment 237.11 260.82 286.90 315.59 347.15
+O & M 199.97 214.17 229.36 245.66 263.09
+Programme 78.11 93.73 112.48 134.97 161.97
+Administration 30.41 36.50 43.80 52.55 63.07
+Interest 0 0 0 0 0
+Miscellaneous 6.68 8.01 9.62 11.54 13.85
+Total Revenue Exp 552.28 613.23 682.15 760.32 849.12
+Capital Expenditure 4791.91 5132.12 5496.50 5886.74 6304.66
+Total Expenditure 5344.19 5745.35 6178.65 6647.06 7153.78
+Source: UDD
+Table 7.24: Forecast of ULBs Expenditure based on optimistic but realistic approach
+Projection of ULB Expenditure based on need (5th SFC) Rs. Cr.
+No. Items 15-16 16-17 17-18 18-19 19-20 15-20
+1 Capacity Building
+a Man Power 206 227 249 274 302 1258
+b IT 2 2 2 2 8
+c Training Program 60 64 69 74 79 346
+d SUPA 5 15 20 25 35 100
+e Infrastructure
+f Office Space 5 15 75 100 120 315
+2 Civic Services
+a Capital Expenditure 4792 5182 5605 6062 6556 28197
+b O & M 200 216 234 253 274 1177
+3 SMART Cities/AMRUT 2156 2156 2156 2156 2156 10780
+4 Professional Services 20 22 24 26 29 121
+Total = ( 1+2+3+4) 7424 7875 8408 8944 9522 42173
+119 5th SFC (2015-20)

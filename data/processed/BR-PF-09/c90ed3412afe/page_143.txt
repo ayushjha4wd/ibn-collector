@@ -1,0 +1,58 @@
+− Betterment Tax is assumed to be implemented
+Assumptions: effective 2016-17. Contribution from this levy
+(i) OTR: would be Rs. 3Cr. 4 cr, 6 cr & 10 cr for 2016-17
+ Estimates of OTR of 140 ULBs are based on to 2019-20;
+the actuals of 28 SPUR ULBs. Since, actuals for − 10 % surcharge on the projected Entertainment
+28 SPUR ULBs declined in 14-15 compared to Tax (Table 5.5) is to be assigned to the ULBs.
+13-14, estimates for 140 ULBs show decline in − While .5% surcharge on Electricity
+OTR. (Table 7.5). consumption could be levied, it is not included
+ Annual Population growth is assumed at 3% in our calculations for want of reliable
+effective 15-16 until 19-20. (para 7.4.2 (i)) information. In any case, it would work as a
+ Due to non-availability of data for ULBs buffer for any shortfall in incremental revenue
+other than 28 SPUR ULBs, each item of OTR forecasts from 16-117 to 19-20.
+has been projected for 2015-16 as per GIS-
+(ii) Assigned Taxes (Table 7.15)
+based demand and reforms already being − Actual Professions Tax taken for 15-16 and
+carried out in 28 SPUR ULBs. Thereafter, CAGR of 30% taken for forecasts from 16-17 to
+forecasts are made for all 140 ULBs. 19-20 and rounded off;
+ Property Tax: All reforms specified in the − Stamp Duty at CAGR of 25% taken from 15-
+Chapter X are assumed to be implemented 16 to 2019-20 and rounded off.
+effective 2016-17. While Per capita PT works − 10 % of the Vehicle Taxes (Table 5.5) is
+out to Rs. 180 for 28 SPUR ULBs, Per Capita proposed to be assigned to the ULBs.
+PT for the remaining ULBs is assumed to be Rs.
+(iii) 14th UFC transfers: The 14th has
+100 for 15-16. 20 % growth rate is assumed
+recommended grants for the ULBs of Bihar as in
+after 2016-17 for PT Per capita, whereas, for
+Table 7.16
+2015-16 to 2016-17 period growth rate of 15%
+is taken. (iv) 5th SFC Transfers: Refer to Chapter IX.
+ Other Taxes: (v) Agency Functions: Since the agency
+− These include Mobile Tax, Advertisement functions are assigned along with funds, no
+Tax, Betterment Tax and Surcharge on forecasts have been made by the Commission.
+Entertainment Tax;
+− For non-SPUR ULBs, contribution is assumed
+to be only 15% of total.
+Table 7.15: Forecast of ULBs Revenue based on optimistic but realistic approach
+2013-14 2014-15 CAGR 15-16 16-17 17-18 18-19 19-20
+(Est.) (Est.) (13-15)
+Pop.(in Cr.) ---->> 1.25 1.27 1.31 1.35 1.39 1.43 1.48
+1. OTR 163.70 162.17 -1% 249.27 473.65 585.27 721.19 893.69
+a. Property Tax 110.00 106.00 -4% 189.00 392.00 484.00 598.00 738.00
+b. Other Tax 7.70 8.17 6% 10.55 22.06 26.99 33.65 43.27
+e
+n u 2. Non-Tax 46.00 48.00 4% 49.72 59.59 74.28 89.54 112.42
+e
+v 3. Assigned Revenue 278.06 463.08 570.02 704.05 871.75
+e
+R
+a. Stamp Duty 150.00 200.00 33% 250.00 310.00 385.00 480.00 600.00
+b. Professions Tax 19.37 22.17 14% 28.06 36.48 47.42 61.65 80.15
+c. Motor Vehicle Tax 116.60 137.60 162.40 191.60
+Total 462.85 541.41 17% 577 996 1230 1515 1878
+Table 7.16: 14th UFC grants for the ULBs of Bihar
+Sl. Items 15-16 16-17 17-18 18-19 19-20 Total
+1. Urban Basic grant 256.83 355.63 410.90 475.34 642.28 2140.98
+2. Urban Performance grant - 104.96 118.78 134.89 176.62 535.25
+Total 256.83 460.59 529.68 610.23 818.9 2676.23
+114 5th SFC (2015-20)

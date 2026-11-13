@@ -1,0 +1,62 @@
+Table 7.10: Summary of assumptions for revenue forecast (Rs Cr.)
+Bihar ULBs
+Nigam (20%) Parishad (15%) Panchayat (10%) Total
+AI 12-13 CAGR 13-14 14-15 15-16 (P)15-16 AI 12-13 CAGR 13-14 14-15 15-16 (P)15-16 AI 12-13 CAGR 13-14 14-15 15-16 (P) 15-16 15-16
+Pop.(in Cr.) ---->>PC 0.49 0.50 0.51 0.52 0.52PC 0.39 0.39 0.40 0.41 0.41PC 0.27 0.27 0.28 0.28 0.28 1.21
+Property Tax 813 398 0.14 454 518 590 118 206 79 0.09 87 95 104 16 70 19 0.09 20 22 24 2 136
+e Other Tax 952 466 0.09 506 550 597 119 145 56 0.13 63 71 81 12 90 24 0.17 28 33 38 4 135
+u
+n
+e Non-Tax 992 486 0.15 559 644 741 148 243 94 0.19 112 133 158 24 215 57 0.20 69 82 99 10 182
+v
+e
+R State Grants 550 269 0.17 316 369 433 87 695 268 0.16 310 359 416 62 370 98 0.37 134 184 252 25 174
+Others 193 95 0.21 114 138 167 33 161 62 0.33 82 110 146 22 108 29 0.43 41 58 83 8 64
+Total (A) 1715 1950 2219 2528 506 559 654 768 904 136 226 292 379 497 50 691
+Table: 7.11: Forecast of Revenue of the ULBs based on SR14FC (Rs Cr.)
+Bihar ULBs
+Nigam Parishad Panchayat Total
+15-16 16-17 17-18 18-19 19-20 15-16 16-17 17-18 18-19 19-2015-16 16-17 17-18 18-19 19-20 15-16 16-17 17-18 18-19 19-20 15-20
+Pop.(in Cr.) ---->> 0.52 0.53 0.54 0.55 0.56 0.41 0.42 0.43 0.43 0.44 0.28 0.29 0.29 0.30 0.30 1.21 1.23 1.26 1.28 1.31 6.30
+Property Tax 118 142 170 204 245 16 18 21 24 27 2 3 3 3 3 136 162 193 231 275 998
+Other Tax 119 143 172 206 248 12 14 16 18 21 4 4 5 5 6 135 162 193 230 275 994
+e
+n u Non-Tax 148 178 213 256 307 24 27 31 36 42 10 11 12 13 14 182 216 257 305 363 1323
+e
+e v State Grants 87 104 125 150 179 62 72 82 95 109 25 28 31 34 37 174 203 238 278 325 1218
+R
+Others 33 40 48 58 69 22 25 29 33 38 8 9 10 11 12 64 74 87 102 120 447
+Total (A) 506 607 728 874 1048 136 156 179 206 237 50 55 60 66 73 691 817 968 1146 1358 4981
+Table 7.12: Forecast of Revenue by UDD
+Forecast of Total Revenue (15-16 to 19-20) (in Cr.)
+Particulars 15-16 16-17 17-18 18-19 19-20
+Property tax 139.47 170.45 208.92 256.83 372.55
+Assigned Revenue 156.12 206.77 273.92 362.97 565.93
+Other Self Generated Revenue 117.68 157.43 211.61 285.70 455.77
+Total Revenue 413.27 534.65 694.45 905.50 1394.25
+Table 7.13: Assumed per capita revenue growth rates for 3 tiers
+Corporation Council Panchayat
+Property tax 15% 30% 30%
+Assigned Revenue 30% 30% 30%
+Other Self Generated 20% 40% 40%
+Revenue
+7.4.4 5th SFC Approach: Table 7.14: Time frame for catching up with ULB
+Revenue of All India
+If Bihar ULB revenue has to catch up with All
+PC Total Revenue CAGR for catching
+India ULB revenue (a) by19-20, it needs to
+up by Bihar**
+increase @ 83% p.a. and (b) if by 2024-25, @
+49.2% p.a. Since both the cases are improbable, 2012- CAGR By By 2024-
+13 (07-08 to 2019-20 25
+optimistic but realistic approach has been
+12-13)
+adopted and it is expected that Bihar LBs
+India 1681* 12.7%
+revenue would catch up with at least All India Bihar 58* 30.2% 83% 49.2%
+level of 2012-13 by year 2015-16, with around ∗∗𝑃𝐶 𝐵𝑖ℎ𝑎𝑟 𝑈𝐿𝐵 𝑅𝑒𝑣𝑒𝑛𝑢𝑒(1+ CAGRs )t=
+100
+20% growth rate p.a. subsequently. 𝑃𝐶 𝐴𝑙𝑙 𝐼𝑛𝑑𝑖𝑎 𝑈𝐿𝐵 𝑅𝑒𝑣𝑒𝑛𝑢𝑒(1+ CAGRAI )t
+100
+* refer to Table 7.3 for details.
+113 5th SFC (2015-20)

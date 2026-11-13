@@ -1,0 +1,36 @@
+C. Land Utilization Pattern 26,27
+Indicators Year Bihar India
+Total Unculturable Land (Area in '000 hectares) 2021-22 4289.18 165479.08
+(45.83) (50.34)
+Net Sown Area (Area in '000 hectares) 2021-22 5070.39 141006.77
+(54.17) (42.89)
+Gross Sown Area (Area in '000 hectares) 2021-22 7328.57 219158.36
+Note: Figures in parenthesis indicate percentage share to totalgeographical area
+D. Forest Resources28
+Indicators Year Bihar India
+Total Green Cover (Sq.km) (LISS-IV, 5.8m)29 2019 13896 (14.75) -
+Total Forest Cover (Sq. km) 2021 7381(7.84) 713789(21.71)
+Tree Cover (Sq. km) 2021 2341(2.49) 95748(2.91)
+Types of Forest (Sq. km)
+Very Dense Forest (VDF) 2021 333 (0.35) 99779(3.04)
+Moderately Dense Forest (MDF) 2021 3286 (3.49) 306890(9.33)
+Open Forest (OF) 2021 3762 (4.00) 307120(9.34)
+Note: Figures in parenthesis indicate percentage share to total geographical area
+E. Carbon Stock in Forests27
+Indicators Year Bihar India
+Carbon Stock in Forests ('000 tonne) 2021 56881 (100.0) 7203846 (100.0)
+Above Ground Biomass (AGB) 2021 14743 (19.97) 2319910 (32.50)
+Below Ground Biomass (BGB) 2021 5249 (7.11) 718852 (10.07)
+Dead wood 2021 231 (0.31) 47665 (0.67)
+Litter 2021 785 (1.06) 107251 (1.50)
+Soil Organic Carbon (SOC) 2021 35873 (48.60) 4010168 (56.18)
+Growing stock (m cum) 2021 71.56 6167.50
+Note: Figures in parentheses indicate per hectare stock in tonne
+26 Bihar Economic Survey 2023-24.Finance Department, Government of Bihar
+27 Land Use Statistics-At a Glance- (Provisional estimates). Directorate of Economics and Statistics, Government of India. –Land Use Statistics At
+a Glance | Official website of Directorate of Economics and Statistics, Department of Agriculture and Farmers Welfare, Ministry of Agriculture
+and Farmers Welfare, Government of India (desagri.gov.in)
+28 “State of Forest Report 2021. (2022).” Forest Survey of India, Ministry of Environment, Forest and Climate Change, Government of
+India.https://fsi.nic.in/forest-report-2021-details
+29 “Fourth Agriculture Roadmap 2023-28.” 2023. Agriculture Department, Government of Bihar
+05

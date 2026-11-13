@@ -1,0 +1,59 @@
+Table 8.1: Criteria to evaluate effectiveness of IGFT
+Equity LSGs with equal fiscal needs should be treated equally.
+LSGs should not be able to influence the award of grants by manipulating their expenditure or tax
+Neutrality
+decisions
+Predictability LSGs need to be able to budget and plan for the future but, at the same time, have the flexibility to
+& Flexibility respond to the changing circumstances
+Simplicity & The transfer mechanism or allocation formula should be easy to understand and easy to administer
+Transparency
+Autonomy LSGs should have independence to set priorities and manage services to respond to the local needs
+Incentive for The transfer mechanism should provide incentive for sound fiscal management and discourage
+better Mgmt. inefficient practices, rather than penalize LSGs for sound economic management
+Accountability The Grantor must be accountable for the design & operation of the transfer system and the
+recipients must be accountable to the grantor and its citizens for financial integrity and results.
+Responsiveness The Transfer mechanism should be flexible enough to accommodate unforeseen changes in the fiscal
+situations of the recipients.
+Box 8.1 Formula for Transfer = (BS+D+I-R) +/- C
+Where, BS is the basic services component
+D is the development component,
+I is the institutional support component,
+R is the revenue-raising capacity correction, and
+C is a correction and stabilization factor.
+Basic Service Component (BS):
+The purpose is to enable the LBs to provide basic services (water, sanitation, electricity, waste disposal etc.) including free
+basic services to households below poverty line.
+• There could be two levels of support for each subsidized basic service:
+A full subsidy for unserved households
+o
+A partial subsidy for households that actually receive services from the LBs.
+o
+Conventionally partial subsidy has been set at one-third of the cost of the subsidy provided to the serviced households.
+BS=
+𝐧𝐧 𝐦𝐦
+Where�, S𝐢𝐢=
+i
+𝟏𝟏=( 𝐒𝐒B𝐢𝐢a𝟏𝟏s∗ic 𝐏𝐏S𝐏𝐏erv 𝐒𝐒i𝐢𝐢ce+ f𝐒𝐒o𝐢𝐢r𝟐𝟐 p∗oo 𝐏𝐏r𝐏𝐏 i t𝐏𝐏o 𝐒𝐒n𝐢𝐢, +Sj =𝐒𝐒𝐢𝐢 B𝟑𝟑a∗s i𝐏𝐏c 𝐏𝐏Se𝐏𝐏r v𝐒𝐒i𝐢𝐢c)e +fo r n ∑on 𝐒𝐒= - 𝟏𝟏 p(o𝐒𝐒o𝐒𝐒r𝟏𝟏 j∗ to 𝐍𝐍 m𝐏𝐏𝐏𝐏 𝐒𝐒𝐒𝐒+𝐒𝐒𝐒𝐒𝟐𝟐∗ 𝐍𝐍𝐏𝐏𝐏𝐏𝐏𝐏 𝐒𝐒𝐒𝐒+ 𝐒𝐒𝐒𝐒𝟑𝟑∗ 𝐍𝐍𝐏𝐏𝐏𝐏𝐏𝐏 𝐒𝐒𝐒𝐒)
+PW= Poor without subsidy, PWP= Poor with partial subsidy, PWF= Poor with full subsidy
+NPW= Non-poor without subsidy. NPWP= Non-poor with partial subsidy, NPWF= Non-poor with full subsidy
+Institutional Support Component (I):
+• Particularly important for the LBs, which are unable to raise sufficient revenue to fund the basic costs of administration
+and governance.
+• Supplements (does not fund fully) funding of the LBs for administration and governance cost.
+• It includes two elements: (i) Administrative capacity (ii) Local electoral accountability.
+I = base allocation + [admin & governance support * population] + [council support * no. of seats]
+Development Component (D):
+It was set at zero when the current formula was introduced on April 1, 2005, pending an investigation of how best to capture
+the factor in the formula.
+Revenue-Raising Capacity Correction (R):
+• It is related to the LB’s ability to raise additional resources to fund the cost of basic services and administrative
+infrastructure.
+• The basic approach is to use the relationship between (a) the demonstrated revenue –raising capacity by the LBs that
+report information and (b) the objective LB information from statistics, to proxy revenue – raising capacity for all the LBs.
+• The revenue that should be available to the LBs is then “corrected” by imposing a certain “tax” rate (say 5%): To be
+decided by the Govt.
+Correction and Stabilization factor (C):
+• The correction is based on the actual grant to each LB.
+Sour c e : W o r l d B a n k d o c u m e n t o n M u n i c i p a l F i n a n c e s
+124
+5th SFC (2015-20)

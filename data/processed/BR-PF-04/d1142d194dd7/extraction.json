@@ -1,0 +1,15 @@
+{
+  "raw_path": "data/raw/BR-PF-04/2026-11-13/CitizenHome.html",
+  "raw_sha256": "d1142d194dd799e907eab4ada06eb8aea7667bc76a9c05becfe7605d75ec7edf",
+  "source_id": "BR-PF-04",
+  "source_url": "https://state.bihar.gov.in/finance/CitizenHome.html",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T08:58:40+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

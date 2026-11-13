@@ -1,0 +1,39 @@
+Table 2.8 : Projection of CFS by SFC5
+(Rs. crore)
+2015-16 2016-17 2017-18 2018-19 2019-20 Total
+SOTR 30,141 37,119 45,781 56,548 69,954 2,39,543
+SONTR 2,079 2,412 2,797 3,245 3,764 14,297
+Share in Central Taxes 50,896 64,974 75,083 86,871 1,00,626 3,78,450
+Central Grants 18,171 21,959 27,778 33,889 41,345 1,43,142
+Capital Receipts 23,791 33,032 41,668 49,418 58,576 2,06,485
+CFS 1,25,079 1,59,496 1,93,107 2,29,971 2,74,266 9,81,917
+2.10 Data received from the Finance Department shows that the quantum of the CFS actually
+attained during the award period has been much lower, ranging from Rs 1,14,525 crore
+in 2015-16 to Rs 1,53,408 crore in 2019-20. The year-wise position of actual CFS against
+SFC5 projections is presented in Table 2.9.
+Table 2.9 : CFS – Projections by SFC5 vs. Actuals
+(Rs. crore)
+CFS 2015-16 2016-17 2017-18 2018-19 2019-20 Total
+Projection 1,25,079 1,59,496 1,93,107 2,29,971 2,74,266 9,81,917
+Actual 1,14,525 1,27,185 1,30,638 1,52,287 1,53,408 6,78,043
+Actual (%) 91.6 79.7 67.7 66.2 55.9 69.1
+Divisible Pool of Taxes
+2.11 SFC5 had estimated the cost of collection of taxes and computed the size of divisible pool
+of taxes year-wise. As per these calculations, the size of the divisible pool was to be
+Rs 29,682 crore in 2015-16, gradually increasing year by year to Rs 67,811 crore in
+2019-20, as indicated in Table 2.10.
+Table 2.10 : Projection of Size of Divisible Pool by SFC5
+(Rs. crore)
+Sl
+Items 2015-16 2016-17 2017-18 2018-19 2019-20 Total
+No
+1 SOTR (from Table 2.8) 30,141 37,119 45,781 56,548 69,954 2,39,544
+2 Entertainment Tax &
+64 78 94 114 138 489
+sairats
+3 Taxes excluding Ent
+30,077 37,042 45,686 56,434 69,816 2,39,055
+Tax & sairats (1-2)
+4 Cost of Collection 967 1,161 1,393 1,671 2,006 7,198
+5 Divisible Pool (3-4) 29,110 35,881 44,294 54,762 67,811 2,31,857
+20

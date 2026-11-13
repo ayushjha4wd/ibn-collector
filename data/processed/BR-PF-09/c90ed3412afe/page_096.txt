@@ -1,0 +1,75 @@
+Infrastructure no doubt is the key to economic Table 4.20: Variables used for formulating
+infrastructure index
+growth, cost & quality of governance and private
+Variable Source
+investment. Moreover, there is strong correlation
+Agriculture:- Gross Directorate of
+between Infrastructure, PCI and Poverty (Table
+irrigated area/gross Economics and
+4.19).
+cultivated area Statistics, Ministry of
+Agriculture
+Table 4.19: Correlation between Infrastructure,
+Communication:-i) Tele Department of
+PCI & Poverty
+density/100 population Telecommunications-
+Correlation
+ii)total internet The Indian Telecom
+Between 99-2000 07-08 08-09
+subscribers per 100 Services performance
+Infra Index and
+population Indicators July-
+PCI 0.7895 0.8623 0.8506
+September,2014
+Infra Index and
+Banking:- Rural bank Reserve Bank of India
+Poverty Ratio 0.6386 0.8727 0.8208
+branches/1000
+PCI and
+population
+Poverty Ratio 0.8193 0.739 0.7481
+Electricity:- Per capital On the working of state
+consumption of power Utilities &
+4.10.2 5th SFC: Composite Infrastructure Index
+Electricity electricity department,
+( CII), has been calculated by the 5th SFC for 14 Annual report 2013-14
+major states using the Principal Component Transportation Index:- Ministry of road,
+Rail route length per transport and highways,
+Analysis (PCA) technique. This infrastructure
+1000 population – Annual Report, 2012-
+index is based on parameters related to
+length of national 13, pp. 76-78
+agriculture, communication, banking, electricity highways and state
+and transportation (Table: 4.20). The rank of highways/1000
+population
+Bihar is at the bottom (Table:4.21)
+Table 4.21: Composite infrastructure index based on PCA and ranking of states
+∑ all
+Type Agri Commun. Banking Electricity Transport Infra
+S.N. States indicators Rank
+of state Index Index Index Index Index index
+for a state
+1 Gujarat 1.0521 2.0755 0.2255 1.9157 3.3779 8.6466 0.674 2
+High
+2 Haryana 2.2137 1.5648 0.3008 1.8719 2.0441 7.9952 0.623 5
+income
+3 Maharashtra 0.2891 1.6764 0.1274 1.3406 2.7989 6.2325 0.486 7
+states
+4 Punjab 2.5761 2.8628 0.5027 2.0861 1.557 9.5847 0.747 1
+5 AP 1.1437 1.5253 0.2157 1.2817 2.0547 6.2212 0.485 8
+6 Karnataka 0.6493 2.1323 0.3181 1.1865 3.869 8.1552 0.635 4
+Middle
+income 7 Kerala 0.2135 2.4376 0 0.5763 1.8106 5.038 0.392 10
+states
+8 TN 1.4226 2.8918 0.2476 1.4321 2.399 8.3931 0.654 3
+9 WB 1.405 0.5315 0.1351 0.5388 0.9352 3.5455 0.276 13
+Low 10 Bihar 1.5504 0 0.0501 0 1.079 2.6795 0.209 14
+income
+11 MP 0.6679 0.4516 0.1012 0.6741 2.4031 4.2979 0.335 11
+states
+4.11 Industrialization (Manufacturing) are normally of small size compared to all-India
+4.11.1 Annexure-4.13 shows the status of in terms of per factory fixed capital, net value
+manufacturing in Bihar vs. All India by various added, and number of employees. This structural
+indicators as per the Annual Survey of Industries. feature of industries in Bihar is also validated by
+• Table 4.22 shows that the industries in Bihar net value added per employee.
+67 5th SFC (2015-20)

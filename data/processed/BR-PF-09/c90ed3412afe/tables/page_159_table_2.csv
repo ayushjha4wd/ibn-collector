@@ -1,0 +1,30 @@
+,Table 8.8: Criteria for Intra PRI distribution,,,
+"Weight (%) assigned by the 5th SFC
+Criterion
+ZP BP GP
+Each GP falling
+Population 50 50
+within a particular
+Block would get
+Area 10 0 equal share of
+amount available to
+all the GPs in that
+UDI 40 50
+particular Block
+based on the
+Total 100 100
+Block’s UDI.",,,,
+,Criterion,Weight (%) assigned by the 5th SFC,,
+,,ZP,BP,GP
+,Population,50,50,"Each GP falling
+within a particular
+Block would get
+equal share of
+amount available to
+all the GPs in that
+particular Block
+based on the
+Block’s UDI."
+,Area,10,0,
+,UDI,40,50,
+,Total,100,100,

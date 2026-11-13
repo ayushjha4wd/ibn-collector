@@ -1,0 +1,22 @@
+I. Air Pollution34
+Indicators Year Bihar India
+Particulate Matter2.5 (ug/m3) (avg. concentration) 2023 100 60
+Particulate Matter10 (ug/m3) (avg. concentration) 2023 190 119
+Sulfur Dioxide (ug/m3) (avg. concentration) 2023 10 11
+Nitrogen Dioxide (ug/m3) (avg. concentration) 2023 42 39
+J. Groundwater Pollution35
+Indicators Year Bihar India
+Fluoride (Above 1.5 mg/l) (No.of Affected Districts) 2021 13 370
+Nitrate (Above 45 mg/l) (No. of Affected Districts) 2021 10 423
+Arsenic (Above 0.01 mg/l) (No. of Affected Districts) 2021 22 152
+Iron (Above1.0 mg/l) (No. of Affected Districts) 2021 19 341
+K. Waste Management36
+Indicators Year Bihar India
+Sewage Generation (MLD) 2020 2276 72368
+Sewage Treatment Capacity-Installed(MLD) 2020 10 31841
+Sewage Treatment Capacity-Proposed(MLD) 2020 621 4827
+34 Continuous Air Quality Monitoring Dashboard. https://ncaptracker.in/caaqms-dashboard/. Accessed on February 4, 2024.
+35 Groundwater Pollution. 2021. Ministry of Jal Shakti, Government of India. https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707520
+36 Government of India. 2021. National Inventory of Sewage Treatment Plants, 2021. Central Pollution Control
+Board.https://cpcb.nic.in/openpdffile.php?id=UmVwb3J0RmlsZXMvMTIyOF8xNjE1MTk2MzIyX21lZGlhcGhvdG85NTY0LnBkZg==
+08

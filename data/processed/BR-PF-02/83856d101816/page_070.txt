@@ -1,0 +1,206 @@
+62
+52-4202
+YF
+52-4202
+YF
+42-3
+202
+YF
+32-2202
+YF
+ytilibaniatsuS
+tnemnorivnE
+neerG
+dna
+edoC tegduB
+evitcejbO
+emehcS
+neerG
+lautcA
+.lS
+ecnave
+leR
+tegduB
+tegduB
+tegduB
+neerG
+semehcS
+defiitnedI
+etamitsE
+desiveR
+etamitsE
+tegduB
+etamitsE
+)%57-05(
+ecnacfiingiS
+hgiH-
+'C'
+yrogetaC
+tnemtrapeDsecruoseR
+seirehsiF
+dna
+laminA
+erutcurtsarfnI
+dna
+tnemtsevnI
+neerG
+----------------------------
+2 GDS
+4010101005042-20
+6 GDS
+dna tnempoleveD
+46.1345
+91.2427
+91.3485
+82.9184
+1
+41 GDS
+dnoP
+fo noitanevujeR
+----------------------------
+seirehsiF
+noitatnemelpmI
+emmargorP
+erutcurtsarfnI
+dna
+ygolonhceT
+tnemeganaM
+ecruoseR
+larutaN
+71101 01005042-20
+gninnalP
+dna
+esU
+dnaL
+elbaniatsuS
+05.0265
+00.4947
+88.0265
+79.7614
+taaS(
+secruoseR seirehsiF
+2
+----------------------------
+)2-yahchsiN
+2 GDS
+2010987005042-20
+6 GDS
+taaS
+rednu
+emehcs
+eht
+fo
+evitcejbo
+ehT
+00.0051
+00.0002
+00.0051
+11.248
+taaS(
+secruoseR seirehsiF
+3
+41 GDS
+,level
+retawdnuorg
+esaercni
+ot
+si
+2-yahchsiN
+)2-yahchsiN
+----------------------------
+lanoitidart
+fo
+esu
+,retaw
+fo
+noitavresnoc
+seidisbuS
+lacigoloce
+gnitomorp
+,secruoser
+retaw
+noitatnemelpmI
+emmargorP
+rof
+dnal
+elbasunu
+fo
+esu
+eht
+dna
+,ecnalab
+0110697005042-20
+ssenerawA
+dna
+noitacudE
+.seirehsfi
+dezinagro
+05.973
+00.605
+31.973
+68.24
+taaS(
+secruoseR seirehsiF
+4
+)2-yahchsiN
+gnidliuB
+yticapaC
+dna
+gniniarT
+tnempoleveD
+dna
+hcraeseR
+tnemyolpmE
+dna
+ymonocE
+neerG
+1010987005042-20
+--------------------
+2 - - G ---
+D --
+S -
+52.2291
+00.3652
+57.2502
+00.0
+tne
+d m n p o o P l e re v t e s D in i s M cit
+s fe
+it
+i a h t C S
+5
+6 GD
+S
+nemrehsfi
+ot ecnatsissA
+41 GDS
+----------------------------
+feihC
+9010697005042-20
+seidisbuS
+scitsitatS
+dnoP retsiniM
+33.684
+44.846
+08.815
+00.0
+6
+noitatnemelpmI
+emmargorP
+ot
+ecnatsissA
+tnempoleveD
+ssenerawA
+dna
+noitacudE
+nemrehsfi
+gnidliuB
+yticapaC
+dna
+gniniarT
+22.04351
+36.35402
+47.41951
+22.278
+9
+latoT

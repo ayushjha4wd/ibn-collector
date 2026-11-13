@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import email.utils
+import http.cookiejar
 import os
 import re
 import shutil
@@ -72,7 +73,7 @@ def fetch(url: str, dest_dir: Path, ctx, timeout: int, retries: int) -> dict:
     for attempt in range(1, retries + 1):
         req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*"})
         try:
-            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+            with ctx.open(req, timeout=timeout) as resp:  # ctx: the opener built in main()
                 fd, tmp = tempfile.mkstemp(dir=dest_dir, prefix=".part-")
                 try:
                     with os.fdopen(fd, "wb") as out:
@@ -229,6 +230,16 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     ctx = ssl.create_default_context(cafile=args.ca_bundle) if args.ca_bundle else ssl.create_default_context()
+    # Some portals (state.bihar.gov.in) omit an intermediate certificate from their chain. Browsers
+    # fetch it themselves; urllib does not. config/extra-intermediates.pem holds those public CA
+    # certificates, each checked against a trusted root, and is loaded on top of the normal store.
+    # Verification stays on: this only supplies the missing link of a valid chain.
+    extra = ROOT / "config" / "extra-intermediates.pem"
+    if extra.exists():
+        ctx.load_verify_locations(cafile=str(extra))
+    # Keep cookies within a run: state.bihar.gov.in sets one and redirects in a loop without it.
+    ctx = urllib.request.build_opener(urllib.request.HTTPSHandler(context=ctx),
+                                      urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
     sources = load_manifest(Path(args.manifest))
     if args.only:
         sources = [s for s in sources if s["source_id"] in set(args.only)]

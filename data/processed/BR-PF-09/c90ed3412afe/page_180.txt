@@ -1,0 +1,65 @@
+• Module 1. Collect and organize relevant 10.9.1 Property Tax (PT): PT recognized is the
+information on city finances and urban major source of revenue for all LBs because the
+management issues (city profile) (steps 1 and 2). base is immobile and the tax is visible.
+• Module 2. Perform a historical analysis and (i) Assessing PT rate: Assessment of PT
+create summary tables (revenue, expenditures, involves at least three steps:
+and financial situation) (steps 3–5). a. Identify the existing real estate properties,
+• Module 3. Perform financial projections (step their size, use, location, and owners. This can be
+6). facilitated effectively with GIS base maps and
+• Module 4. Evaluate financial management fiscal cadastre. (Refer to Para 10.10.6 and Box
+10.13 for details)
+tools and processes and prepare a Municipal
+Finances Improvement Action Plan (steps 7 and
+b. Assess the property value and tax base:
+Assessment can be done in two ways
+8).
+10.7.4 Recommendation: At least all Municipal • Area Based Assessment (Box 10.7) is based
+Corporations should carry out MFSA. on Annual Rental Value (ARV). The advantages
+of “Area based PT System” are its objectivity,
+transparency, fairness and lower compliance
+10.8. Revenue (Tax and Non-Tax) Reforms
+cost. Cities including Ahmedabad and New
+(i) To begin with, the ULBs and ZPs are
+Delhi have adopted this system;
+expected to atleast achieve the benchmark of
+meeting (a) 100 % of their Establishment B o x 1 0 . 7 Area based Property Tax System
+expenses, and (b) O&M expenses of their
+ARV assessed V = Ls+ Bs (Plinth Area
+infrastructure & services, through income from *Tax Zone * Applicable Rs. Rate Per zone2,
+m )
+Own Sources; with the ultimate aim of getting where; Ls = land size ( )
+credit rating to enable them to borrow from the Bs = Building size ( ) –2 Plinth Area
+m
+market. State Govt. has taken several steps to ARV: Annual Rental V2alue
+m
+raise revenue of the ULBs (details in Annex - Tax zone = District / Cluster of Neighborhood
+10.5). These need to be monitored closely. Rate Differential per zone:
+(ii) The AMRUT Scheme has recommended: Developed/Undeveloped;
+Land Quality; Proximity to
+• Major stress on atleast 90% coverage and
+Infrastructure/Amenities;
+collection of municipal tax and fees.
+Circle Rate as applicable, Age of property,
+• To make a policy to periodically revise
+Paying capacity etc.
+property tax, levy charges and other fees,
+achieve full potential of advertisement revenue • Value-based assessments: which follow two
+by making a policy for destination specific main approaches: market value or rental value
+potential having dynamic pricing module. c. Setting tax rate: PT rates could be set in
+• To adopt a policy on user charges for different ways:
+individual and institutional assessments in • Choose one rate for all assessed properties
+which a differential rate is charged for water use (the simplest way) or use different rates
+and adequate safeguards are included to take according to whether the government is taxing
+care of the interests of the vulnerable. land or buildings or urban or rural land;
+• To establish and operationalize financial according to location and type of infrastructure
+intermediary for pooled finance, accessing available; or according to use (residential,
+external funds, floating municipal bonds commercial, industrial) and affordability to pay
+etc.
+10.9. Taxes of the LBs:
+• Put a cap on the local tax rate, as well as a
+For taxes of the PRIs, para 6.2.1 may be seen.
+limit on abatements and exemptions.
+Many of the following recommendations for the
+ULBs would be relevant for the PRIs as well.
+151
+5th SFC (2015-20)

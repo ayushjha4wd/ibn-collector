@@ -1,0 +1,45 @@
+`
+1.8.2 Criteria used by the 14th FC (Table 1.4) do
+Table 1.4 : Proxy Indicators used by
+not include Per Capita Income or Income the FCs for LB allocation
+Distance, which does not seem to be logical.
+Weights (%) allotted for
+1.8.3 Grants recommended for the LBs by the Criterion State LB Share
+12th 13th 14th
+FCs : FC Grants to all States LBs as percentage of
+FC FC FC
+the divisible has increased progressively from
+Population 40 50 90
+0.78% by the 11th FC to 3.06% by the 14th FC Area 10 10 10
+(Table 1.5). Distance from 20 10 0
+highest PCI
+1.9 Grants recommended by the 13th& 14th FC Index of devolution 10 15 0
+for the Bihar LBs are given in Table 1.6. While Tax effort 20 0 0
+SC/ST pop. 0 10 0
+the 13th FC gave 3.15% of the total LB grant to
+FC LB grants 0 5 0
+Bihar LBs, the 14th FC reduced it to 3.07% (Table
+utilization
+1.5). Total 100 100 100
+Table 1.5 : Grants recommended to All States LBs by various Finance Commissions
+All-States Bihar
+Basic grant Performance As % of Basic grant Perfo rmance Share of Bihar
+FCs
+linked divisible pool lin ked
+R U Total R U Total R U Total R U Total R U Total R U Total
+11th FC 2000 2.93 0.78 93.9 4.69
+12th FC 5000 1.24 142 2.84
+13th FC 15110 8000 0.6 1.93 727.6 3.15
+14th FC 69715 17825 0.9 3.06 2141 53 5.3 3.07
+Table 1.6: Grants recommended to Bihar LBs by the 13th and the 14th FCs
+Sl. 13th FC 14th FC
+Item
+No.
+10-11 11-12 12-13 13-14 14-15 10-15 15-16 16-17 17-18 18-19 19-20 15-20
+1 PRIs Grant
+(a) Basic 461 535 625 741 877 3239 2269 3142 3630 4200 5675 18916
+(b) Performance - 183 429 506 597 1715 - 412 466 530 694 2102
+2 ULBs Grant
+(a) Basic 68 79 92 109 129 476 257 356 411 475 642 2141
+(b) Performance 27 63 74 179 88 431 - 105 119 135 177 535
+6 5th SFC (2015-20)

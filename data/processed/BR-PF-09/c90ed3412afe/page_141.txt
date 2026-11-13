@@ -1,0 +1,52 @@
+Table 7.8: Forecast of Revenue of all 140 ULBs based on Business-as-usual approach
+2013-14 2014-15
+CAGR 15-16 16-17 17-18 18-19 19-20
+(Actual) (Actual)
+Pop.(in Cr.) ---->> 1.210 1.234 1.259 1.284 1.310
+1. OTR
+a. Property Tax 126.09 123.03 -2% 153.79 192.23 240.29 300.37 375.46
+e
+n u b. Other Tax 4.23 0.81 -81% 0.97 1.17 1.40 1.68 2.02
+e
+v 2. Non-Tax 80.77 72.44 -10% 86.93 104.31 125.18 150.21 180.25
+e
+R
+3. Assigned Revenue
+a. Stamp Duty 175.47 280.13 60% 336.16 403.39 484.06 580.88 697.05
+b. Profession Tax 19.37 25.14 30% 30.17 36.20 43.44 52.13 62.56
+4. State Grants
+129.78 157.07 21% 188.48 226.18 271.42 325.70 390.84
+(Excluding SFC)
+Total 535.71 658.62 23% 796.50 963.48 1,165.79 1,410.97 1,708.18
+Table 7.9: A City size class urban population growth rate
+City – size class > 10 lakh 1 – 10 lakh 0.5 – 1 lakh 0.200-0.50 lakh <0.20 lakh Total
+AEGR % 1.93 4.21 2.93 1.66 4.59 3.06
+Table7.9: B: Forecast of the ULBs Population using 3% growth (in Cr)
+11-12 12-13 13-14 14-15 15-16 16-17 17-18 18-19 19-20
+Nigam 0.476 0.490 0.500 0.510 0.520 0.530 0.541 0.552 0.563
+Parisad 0.374 0.385 0.393 0.401 0.409 0.417 0.425 0.434 0.443
+Panchayat 0.257 0.265 0.270 0.276 0.281 0.287 0.293 0.299 0.305
+Total
+1.107 1.140 1.163 1.186 1.210 1.234 1.259 1.284 1.310
+Note: Tier wise populations of 2010-11 are taken as reported by UDD.
+( b) annual exponential growth rate (AEGR) of b.) It is further projected for the next 3
+2001 – 11 is used for 2015-16 urban population subsequent years ( i.e. 13-14, 14-15 and 15-16)
+and the same is used as the base for projecting with the tier-wise CAGR of All India.
+urban populations for 16-17 to 19-20 according c.) 20% of this projected revenue for 15-16 is
+to city – size categories and taken as estimated ULBs revenue for Bihar for
+(c) numbers of cities, towns and agglomerations 15-16 itself. For subsequent projections till 19-
+are arrived at by dividing the projected urban 20, it is increased annually by 20%, 15% & 10%
+populations by the average population size of for Nigam, Parishad & Panchayat respectively.
+cities and towns in each size-class category. The d.) Population figures for 2011-12 reported by
+results of this method are shown in Table 7.9 A. UDD are taken and projected further @ 3%
+annually.
+(ii) Forecast of Revenue:
+Assumptions for revenue forecasts are as 7.4.3 Revenue Projected by UDD: UDD has
+follows: The assumptions are summarized in the made forecast of revenue of the ULBs as in
+Table 7.10. Table 7.12 based on assumptions given in Table-
+a.) Per Capita values for 2012-13 of All India 7.13, without mentioning the base year and
+ULBs Revenues are taken from SR14FC. It is revenue therein. Moreover, per capita revenue
+multiplied by projected Bihar ULB population of growth assumed for Corporations (15%) is
+12-13 and assumed to be Bihar Municipal illogically lower than that of Councils &
+Revenue for 2012-13. Panchayats (30%).
+112 5th SFC (2015-20)

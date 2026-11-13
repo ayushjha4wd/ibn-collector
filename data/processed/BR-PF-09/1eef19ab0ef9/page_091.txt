@@ -1,0 +1,31 @@
+(ii) National Optical Fiber Network (NOFN) / Bharat Net Project is an important project
+run by the Central Government, with the basic objective of connecting all GPs with
+high-speed Broadband Connectivity through optical fiber, so that the functioning of
+GPs is smooth. In the first phase of the NOFN / Bharat Net Project, internet
+connectivity has been provided in about 5,600 nos. of GPs in the state of Bihar. In
+the second phase, the remaining GP are likely to be covered soon.
+(iii) Under the Mission Mode Project ‘e-Panchayat’ of Government of India, NIC has
+developed 12 software applications known as Panchayat Enterprise Suite (PES).
+PRD has reported that work on the following applications of PES started through
+Bihar Gram Swaraj Yojana Society (BGSYS) under the World Bank funded Bihar
+Panchayat Strengthening Project (BPSP):
+(a) Local Government Directory: Captures details of local government and maps
+GPs with Assembly and Parliamentary Constituencies
+(b) Area Profiler: Captures geographic, demographic, infrastructural, natural
+resources and socio-economic data
+(c) Plan Plus: For preparation of perspective, annual and action plans
+(d) Action Soft: For monitoring physical and financial outcomes of schemes
+(e) National Asset Directory: Captures details of assets created
+(f) National Panchayat Portal: Dynamic web-site for each Panchayat
+(g) MIS Application Result Framework: For uploading agenda notes, minutes and
+follow up of decisions taken
+(iv) PriaSoft Module of PES is meant to capture expenditure data of schemes
+implemented by the three levels of PRIs. Use of this module was abandoned in
+2015-16 and a separate software called Gram Panchayat Management System
+(GPMS) was commissioned by BGSYS. This software is an integrated solution
+covering accounting, audit and budgeting for GPs. The pilot phase of software
+deployment has been completed in 330 GPs and the software is currently being
+rolled out in 3,186 GPs of 12 districts.
+(v) For online monitoring of the Panchayat Sarkar Bhawans under construction,
+e-PMS software is being used.
+66

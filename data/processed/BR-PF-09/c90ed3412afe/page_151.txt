@@ -1,0 +1,67 @@
+Table 7.29 Revenue & Expenditure of PMC (2010-15)
+Sr. Revenue and Expenditure for (2010-15) of PMC (Rs Cr)
+No .
+Items 10-11 11-12 12-13 13-14 14-15 15-16
+SPUR SPUR SPUR SPUR PMC SPUR PMC PMC
+Data Data Data Data Budget Data Budget Budget
+A . Total Tax Revenue 26.83 31.87 35.4 45.02 125.3 28.91 255.69 188.89
+1 Property Tax 20.64 24.52 24.33 33.32 20.42
+2 Profession Tax 0 0 0 2.61 3.27
+Assigned Revenues etc. 48.93 70 49
+Revenue Grants & contribution 34.84 49.54 44.25
+3 Non - Property Tax 6.19 7.35 11.06 9.08 5.21
+Capital Receipts 76.66 59.25 63
+B . Revenue Exp. 56.13 81.19 103.45 103.95 126.46 107.4 280.52 300.13
+1 Establishment Exp. 47.39 72.29 83.37 76.73 89.85 81.69 139.86 168.81
+2 Program Exp. 1.25 0.34 2.38 7.48 0.85
+3 O & M Exp. 7.07 7.91 16.75 10.27 33.9 24.65 80.37 97.29
+Capital Expenditure 18.9 167.85 134.95
+4 Finance & Interest Exp. 0 0 0 0 0
+5 Other Revenue Exp. 0.43 0.65 0.95 9.47 0.23
+C. Total Exp. as % of revenue 209.2 254.77 292.27 230.9 371.6
+D . Est. Exp. as % of revenue 176.63 226.83 235.55 170.43 282.6
+Source: SPUR/UDD information, PMC Budget
+Graph 7.5: Revenue of PMC (2010-15)
+Total Tax Revenue Property Tax
+Profession Tax Non - Property Tax
+50.00 45.02
+45.00
+(100%)
+40.00 35.40
+31.87 (100%)
+35.00 (100%) 28.91
+30.00 26.83 33.32 (100%)
+(100%) (74%)
+25.00
+24.33
+24.52
+20.00 (69%)
+20.64 (77%) 20.42
+15.00 (77%) (71%)
+11.06 (31%) 9.08 (20%)
+10.00 7.35 (23%)
+6.19 (23%) 3.27
+5.00 2.61 (11%) 5.21 (18%)
+0.00 0.00 0.00 0.00 (6%)
+2010-11 2011-12 2012-13 2013-14 2014-15
+Graph 7.6: Expenditure of PMC (2010-15)
+120.00 103.95 107.42
+103.45 (100%) (100%)
+(100%)
+100.00
+83.37
+81.19 (81%) 76.73
+80.00 (100%) (74%) 81.69
+56.13 72.29 (76%)
+60.00 (100%) (89%)
+47.39
+40.00
+(84%) 24.65
+16.75 10.27 (23%)
+20.00 7.07 7.91 (16%) (10%)
+0.00 1.25 (13%) 0.43 (10%) 0.34 0.65 0.95 2.38 9.47 7.48 0.85 0.23
+2010-11 2011-12 2012-13 2013-14 2014-15
+Revenue Exp. Establishment Exp. Program Exp.
+O & M Exp. Other Revenue Exep.
+5th SFC (2015-20)
+122

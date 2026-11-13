@@ -4,6 +4,23 @@ Every valid original data file, grouped by source and sorted by the period it co
 
 Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tables found in a PDF; **No-text pages** = PDF pages with no extractable text (likely scanned, need OCR); **Bihar** = times the word appears in the extracted text.
 
+## BR-PF-02: Bihar Green Budget 2024-25 (English)
+
+1 file(s), 12.4 MB.
+
+| File | Period | Type | MB | Pages / sheets | Tables | No-text pages | Bihar |
+| --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| [Green_Budget_Final_2024-25_English_22.02.pdf](https://state.bihar.gov.in/cache/12/Budget/Budget/Green%20Budget%20Final%202024-25%20English%2022.02.pdf) | FY 2024-25 | pdf | 12.4 | 98 | 79 | 1 | 143 |
+
+## BR-PF-04: Bihar Economic Survey (Finance Department page)
+
+2 file(s), 110.5 MB.
+
+| File | Period | Type | MB | Pages / sheets | Tables | No-text pages | Bihar |
+| --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| [Bihar_Economic_Survey_2024-25_English.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 57.1 | 638 | – | 638 | 0 |
+| [Bihar_Economic_Survey_2024-25_Hindi.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 53.4 | 634 | – | 634 | 0 |
+
 ## BR-PF-05: Bihar Finance Accounts Vol I & II - AG (A&E) Bihar
 
 8 file(s), 37.2 MB.
@@ -116,10 +133,12 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 ## BR-PF-09: Bihar State Finance Commission reports
 
-1 file(s), 79.3 MB.
+3 file(s), 99.0 MB.
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| [5th-SFC-Volume-I.pdf](https://state.bihar.gov.in/finance/cache/12/Documents/5th-SFC-Volume-I.pdf) | – | pdf | 9.4 | 202 | 269 | 2 | 631 |
+| [SFC6_Rep-Part_1_and_2.pdf](https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%201%20and%202.pdf) | – | pdf | 10.3 | 236 | 206 | 10 | 379 |
 | [SFC6_Rep-Part_3.pdf](https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%203.pdf) | – | pdf | 79.3 | 377 | 48 | 270 | 67 |
 
 ## BR-PF-12: GST statistics (all states incl. Bihar)

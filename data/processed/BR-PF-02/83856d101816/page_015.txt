@@ -1,0 +1,38 @@
+Indicators Unit Year Bihar India
+Inland Wetland (Man-made)
+Number 71 14894
+Reservoir/Barrage 2021
+Area
+9116 2481987
+(hectares)
+Number 1216 122370
+Tank/Pond 2021
+Area
+6484 1310443
+(hectares)
+Number 22 5488
+Waterlogged
+Area
+2021
+335 135704
+(hectares)
+Number - 60
+Salt Pan 2021
+Area
+- 13698
+(hectares)
+Number 4526 188470
+Total Inland 2021
+Area
+374766 10564899
+(hectares)
+H . Groundwater Resources33
+Indicators Year Bihar India
+Annual Groundwater Recharge (bcm) 2023 33.96 449.08
+Annual Extractable Groundwater Resource (bcm) 2023 30.72 407.21
+Annual Groundwater Extraction for Irrigation,
+Domestic and Industrial uses (bcm) 2023 13.75 241.34
+Stage of Groundwater Extraction (%) 2023 44.76 59.26
+33 “National Compilation on Dynamic Ground Water Resources of India, 2023.” Central Ground Water Board (CGWB).
+https://cgwb.gov.in/cgwbpnm/public/uploads/documents/17014272111704550895file.pdf.
+07

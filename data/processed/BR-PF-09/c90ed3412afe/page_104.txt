@@ -1,0 +1,61 @@
+Table 5.5: Projection of State’s Own Tax Revenue (SOTR)
+Gr. Rate 15-16 15-16
+Items 13-14(A) 16-17(P) 17-18(P) 18-19(P) 19-20(P)
+(Table (B.E) (P)*
+State's Own Tax Revenue (1 to 3) 19961 30875 30141 37119 45781 56548 69954
+1 Taxes on Commodities and Services(i to vii) 16999 26520 25097 30520 37134 45208 55067
+i) Sales Tax 8453 19% 16025 11970 14245 16951 20172 24005
+ii) State Excise 3168 24% 4000 4871 6040 7489 9287 11515
+iii) Taxes on Vehicles 837 18% 1200 1166 1376 1624 1916 2261
+iv) Taxes on Goods and Passengers 4349 25% 5147 6795 8494 10618 13272 16590
+v) Taxes and Duties on Electricity 141 25% 103 221 276 345 431 539
+vi) Entertainment Tax 44 21% 33 64 78 94 114 138
+vii) Other Taxes and Duties 6 20% 12 9 11 13 16 19
+2 Taxes on Property and Capital Tran’s (i to ii) 2914 4300 4970 6507 8530 11195 14706
+i) Land Revenue 202 10% 300 244 268 295 325 357
+ii) Stamps and Registration Fees 2712 32% 4000 4726 6238 8235 10870 14348
+3 Taxes on Income (i+ii) 48 55 74 93 116 145 182
+i) Agricultural Income Tax 0 0% 0 0 0 0 0 0
+ii) Taxes on Professions, Trades,etc. 48 25% 55 74 93 116 145 182
+5.4.2 SONTR: The State has a tiny base of since 2010-11 and the same has not been realized
+SONTR, though it has improved significantly till now.
+from Rs. 511 Cr. in 06-07 to Rs. 1545 Cr. in 13- • Since our estimates are based on 13-14(A), dues
+14. Receipts from items of Non-Ferrous Mining from Jharkhand Govt. are not reflected in our
+& Metallurgical Industries and Interest Receipts projections.
+etc. are its major components.
+5.4.3 Central Transfers: In view of (a) the
+For projections of SONTR, rather than applying
+paradigm changes in the recommendations made
+growth rate to each item, combined CAGR of
+by the 14th FC regarding the central transfers, (b)
+16% has been applied on the base year amount of
+dismantling of Planning Commission, and (c)
+2013-14 considering the small base of each unit
+restructuring of CSS etc., it would be tenuous to
+and the widely varying CAGRs. (Table 5.6)
+project all Central Transfers logically. Aggregate
+• The difference of 1,317 Cr. between 15-16(P)
+transfers from the Centre to Bihar have
+and 15-16(B.E) is primarily on account of the
+decreased from 9.40% to 8.18% of All India in
+long pending pension dues from Jharkhand Govt.
+14-15 B.E to 15-16 B.E (Annex-5.6). Hence, we
+The same entry of Rs. 2000 Cr. is coming every
+have projected the central transfers
+year in B.E & R.E figures of the State Budget
+conservatively as follows.
+Table 5.6: Growth Rate of SONTR
+06-07(A) 10-11(A) 13-14(A) C A G R
+Sl.No Items
+( Rs. Cr.) (10-13)
+1 Interest Receipts, Dividends and Profits 177 240 272 4.26%
+2 General Services 62 47 452 112.69%
+3 Social Services 78 70 55 -7.88%
+4 Economic Services 195 628 766 6.84%
+of which Non-Ferrous Mining And Metallurgical Industries 128 406 569 11.92%
+Total SONTR 511 986 1545 16.15%
+Table 5.7: Projection of SONTR for 15-16 to 19-20 (Cr.)
+13-14(A) GR (%) 14-15(R.E) 15-16(B.E) 15-16(P) 16-17(P) 17-18(P) 18-19(P) 19-20(P)
+SONTR 1545 16 3097 3396 2079 2412 2797 3245 3764
+75
+5th SFC (2015-20)

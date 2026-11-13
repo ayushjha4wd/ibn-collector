@@ -1,0 +1,1879 @@
+  <!DOCTYPE html><meta http-equiv="content-type" content="text/html;charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><head>    <style>  body {       background: #f4f7fa;    font-family: 'Poppins', sans-serif;  }  .header {    display: flex;    align-items: center;    justify-content: space-between;    padding: 20px 50px;    background: #f4f7fa;  }  .logo {    width: 80px;    height: auto;  }  .center-text {    text-align: center;    flex: 1;  }  .title1 {    font-size: 40px;    font-weight: bold;    color: #055C9D;    text-shadow: 2px 2px 8px #0388A6;    margin: 0;  }  .subtitle {    font-size: 26px;    font-weight: 500;    color: #055C9D;    text-shadow: 2px 2px 8px #0388A6;      }  .logos-side {    width: 100px;    display: flex;    justify-content: center;  }  @media (max-width: 768px) {    .header {      flex-direction: column;    }    .logos-side {      margin-bottom: 15px;    }  }</style>    <style>  * {    margin: 0;    padding: 0;    box-sizing: border-box;  }  body {    font-family: 'Poppins', sans-serif;    background: #f0f2f5;  }  footer {    background: linear-gradient(135deg, #1d3557, #457b9d);    color: #fff;    padding: 40px 20px;    position: relative;  }  .footer-container {    max-width: 1200px;    margin: auto;    display: flex;    flex-wrap: wrap;    align-items: center;    justify-content: space-between;    gap: 20px;  }  .footer-info {    flex: 1;    min-width: 250px;    animation: fadeIn 2s ease;  }  .footer-info h2 {    font-size: 22px;    margin-bottom: 10px;  }  .footer-info p {    margin: 8px 0;    font-size: 16px;  }  .footer-map {    width: 300px;    height: 200px;    border-radius: 10px;    overflow: hidden;    box-shadow: 0 0 15px rgba(0,0,0,0.3);    animation: fadeIn 2.5s ease;  }  iframe {    width: 100%;    height: 100%;    border: none;  }  .footer-bottom {    text-align: center;    margin-top: 30px;    font-size: 14px;    color: #ccc;  }  .footer-links {    margin-top: 20px;  }  .footer-links a {    color: #a8dadc;    text-decoration: none;    margin: 0 10px;    font-size: 15px;    transition: color 0.3s;  }  .footer-links a:hover {    color: #f1faee;  }  @keyframes fadeIn {    from { opacity: 0; transform: translateY(20px);}    to { opacity: 1; transform: translateY(0);}  }  /* Responsive */  @media (max-width: 768px) {    .footer-container {      flex-direction: column;      text-align: center;    }    .footer-map {      width: 100%;      max-width: 400px;    }  }</style>                  <link rel="shortcut icon" href="/file_2/FileUpload/favicon.ico" /><link href="MenuCtrl/MenuwebSite.css" rel="stylesheet" /><link href="css/biharmaster.css" rel="stylesheet" /><script defer src="js/biharmaster.js"></script><link href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css" rel="stylesheet" /><link href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css" rel="stylesheet" /><link href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css" rel="stylesheet" /><!-- Bootstrap CSS --><!-- Font Awesome --><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" /><!-- Google Fonts --><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;display=swap" rel="stylesheet" /><!-- MDB --><link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css" rel="stylesheet" /><!-- MDB --><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" /><link href="css/defaultcss.css" rel="stylesheet" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" /><!-- DataTables CSS --><link href="https://cdn.datatables.net/v/dt/dt-2.1.6/datatables.min.css" rel="stylesheet" />     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> <script>     $(document).on("click", "a", function () {         var y = this.href;         if (y.toLowerCase().indexOf("betastate.bihar.gov.in") == -1 && y.toLowerCase().indexOf("javascript") == -1) {             return confirm('You will be redirect to external website. We cannot be held responsible for the content of external website. Please click OK to continue.');         }     }); </script><style>    .container_box {        margin: 10px auto;        width: 90%;        position: relative;    }    /* fix blank or flashing items on carousel */    .owl-carousel .itemfact {        position: relative;        z-index: 100;        -webkit-backface-visibility: hidden;    }    /* end fix */    .owl-nav > div {        margin-top: -26px;        position: absolute;        top: 50%;        color: #cdcbcd;    }    .owl-nav .owl-prev {        left: -30px;    }    .owl-nav .owl-next {        right: -30px;    }    .slider_item {        width: 100%;        height: 500px;        position: relative;        display: inline-block;        text-align: center;        background: #ffffffde;        overflow: hidden;        border-radius: 20px;    }    .image_box {        width: 100%;        background-size: cover;        background-position: center;        background-repeat: no-repeat;        width: 100%;        height: 235px;        border-top-left-radius: 12px;        border-top-right-radius: 12px;        transition: all 0.3s ease;    }    .slider_item:hover .image_box {        box-shadow: 0px 30px 18px -8px rgba(0, 0, 0,0.1);        transform: scale(1.10, 1.10);        height: 100%;        opacity: 0.5;    }    .content_box {        width: 90%;        display: inline-block;        text-align: left;        height: auto;        z-index: 9;        position: absolute;        bottom: 0px;        left: 5%;    }        .content_box p {            font-size: 14px;        }        .content_box h3 {            font-size: 20px;        }</style>        <title>
+	 
+</title>    <style>        .footer1 {            background-image: url(ImagesNew/ashokaapillarvaishali3.jpg);            background-repeat: round;        }                .neon {            color: #fff;            font-size: 8em;            text-shadow: 0 0 5px #066070, 0 0 10px #066070, 0 0 15px #066070, 0 0 20px #066070, 0 0 3px #066070, 0 0 3px #066070, 0 0 6px #066070, 0 0 5px #066070;        }    </style></head><body class="homebody ">    <div id="fontdiv">        <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="D7bO6R4+XBayq9n0LkeSIAZ5CPAwiC4Hs0WDJWkXXuLir6xWEUPbO/UCq+DkJhNwEUf6Yt4qPJ31+Vo3xCo+2SB0sUjbeX+YJHLJWxlywnCq92uvqOT4DmOZI/WEF+Si6iDA7P6n8DDJsXGezo8J842uKBuJnv3SUh2xytpzH57DpAHBaeg52kjzWfKtv98gYprLgc4DZf3vQ4lCgOyje7ipDEir60Zda+ru2uOuhHlkLGQR+O4am/3Nnrm0PZqRlHf4uctGRZET+G18GIlAL6W8U/7Bc3VLdTuv4wXV3wdKi/7UsA7jvlWRwSN0R65ePEdVCCzyYgCt8NP412xTFPoWNrncmsvLeBCuBhEoFrH66xtblOvydbteAwCnl/wIu5w6/nsnM9nLZ845LwlaUmFOd64pDCm4V+PRS9SpLvur6X9oMNHbVilk3NTM/JhG5ACoLimFuKNiWkylJS3FQp15Kba89opus/FeDT/mMbRp3cj0NNksqEJtz3kc+3y551NhvZVguSFnajWNttJaFsSlOty209gfISpUoYBmNTAxPK5MMgLQ02tY0nMXOpUyca9HTxuUf6GJejLVZlS11QOIV8+6jKWjTpOih2KErkRcpVGYohz8mHplbVdc+NOtGI9AeS8AEjvGg+TCODRda9Ercgi6bNthKZ4MjGMDDOU0UjOkh5iQJZY20nedWMVSFrFpDM3LJ3zts5+myYkIxnlxe+igxgnSzzmm+5MPBPzeRLNn9g2woxjTRHZ35sGZlZNFFNFD0Yo+oFQaNUmNdTeAzuqAZButQjm2e2l5HGYpwhK9BMY+uEhH44312hpLrYKgx2cVRbbVZQwCFEvzyNfjWEUPVHoGZrOb1a75g6RTjLFAAtmIbSJCmCQI5L8Zy+eCZj+R+21K+g9jq+yMA48oBDsN6ZGuItwwZUQixPKETfFzh+390+TckbGUL5gPYJUiiGImHmqY76zQ2AtnvPezUaJgg3akcx3NYfm10+BqY4lUUzWP0IAKdCx/hAcJa+UtD6SdrKqt4PMimmuYp/v/HwT3576QNYc+7SeEs2jZxor3TZMuFJmt6H+DLmDbQ20yzst/FuYh9wKVyCxehZbH9lPW1TEF22gB6CoReyO5w9qIn+S8uUj89jnQmrNH8JLHEpe5ojlYazm9A6gvgkU8Wbk2LQga+wDB1zMiA77XR6q54xorEgmQq+j3+IYFkc+A3C+9pnxUUma9797Qxb5WO1R6AkG6hCoK/6DxNcbm+SNWJ6q/vUccRHffnC8cI4a4uiiMybQcRebalkTj/w2v8htjS3XE742HXQ+6oEqvV2uom5TXv8UZeM1wrJeszehEnbPhtzcrststNt14KrFDdaVaFVjfgWWsUprvrMpEZ66npRrMs+FlDZxmwpKE4GsGAbNi/GUEuZwKWY6cLb2IDj6s7fCvtbW49Am4RG+1ahfxDR2RHDAk9eWaN/WEQsQtkpORLHnRf4++gcLHvxpdDx1ybvUJGfAruEs3Hz04Ce9588EM4mOvIpdHVcTje9b+vLqdZzCc7gWAXs5Qx/xhTVxA78JwdQ+m0k5Zmar7SUO4RCYZKYYm+xPiQYXcb0Vj7cKJ9J4tstKMm6AZ22G/sARt3EJM6dPyh1qyTNtc1wWFvNmKwGpb9kf+E5Aome2dieRRFmrWLDx4VYcQ95gd6hOfhDOh9haIX/lrlG69YUs237LKJ+RK3VfnDtcdPwbKRhuaP83XLu0uBF1Z4//rnEXDkGywrAcz/BE0iWJQVMx4h+y2Z15UWHkTu1xMj5d0t1LoEI8Roe5FXWjw2kX3xGVlrKXUkdd8hae4NunsuYS4+oIdapa/J5gAXZc7eRnI3hIuc96kHZuzaeAY+TP21DCaVG1iWxz2YT7+t5u5Cv61IaiFWGc9wDThXV7QZTO8Op2UuZXSxbcIirAmyBAzdd7goAtIa/whzBU9OmU0WhEVThLe4jhzoDQ5E2g/r2U12tDcFL7Xod6hH6+JFardoRJH0QV32ErKNEQ0qosTbAhdKgkNj5iILXbnVHtznmr9TNMAFJuCAil5wMqA9OtzB6DYsYP9g6m247ME2fpliax7Vu8EGZ0LtEMNN7tgBx+Izy2z7IfraP28uN6XJz0t8QKNH0IM8IzYBdMxXdUansNPgWDzKrYqyrBmSkfdqDKvGJfErMt43YzzzbbLIycnNicRkh7G088wI7VV73c=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZODyTHScie0Xe-uhRHX3KETqkiHv2fVwoQ_gwNLCFmn29dSOcOryr4Mvm80Tgef9Lg2&amp;t=639191031332169432" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=fqV81KWLWhVg-lLAb4IT6-SneogSHzD4IrKYIHTCJn78hiB8wxhz_Z9rFz11szw1vopthiEUeeg0KOE1KjjZITgafduImH7un4fqxVSn84U1&amp;t=639191031332169432" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="DBywRBCxSzUggYxS2VBjPNEp6uyM9fEzNPMnR1jqPVMgLNftHGpZuxV1Lu12BBRZ3u/AsGrqKv49caZ9HlQpR85nLMmLQaDpyACM6AsdH+ugYnb9RebuQILyJhJ+BkR3" />
+</div>            <div class="p-0 sticky-top bg-dark">                <div class="container-fluid">                    <div class="row">                        <div class="col-md-12 col-xs-12 text-right" >                            <ul id="textresizer" class="pwdarea" style="display: flex; align-items: center; float: right; gap: 10px; list-style-type: none; margin-bottom: 0px !important; font-weight: 600; font-size: 13px;">                                <li class="d-none d-md-block">                                    <span class="hidden-xs"><a href="default.aspx" title="Home" class="internal" style="font-size: 1.2em; color: #fff; line-height: 18px; margin-left: 5px;"><i class="fa fa-home" aria-hidden="true"></i>                                                                    Home                            </a></span>                                </li>                                <li class="d-none d-md-block">                                    <a href="#main" class="text-warning">                                        <i class="fa fa-arrow-circle-o-down" style="font-size: 1.2em; line-height: 18px; margin-left: 5px;" aria-hidden="true"></i>                                                                              </a>                                </li>                                                                                                                     <script type="text/javascript">                           function googleTranslateElementInit() {                               new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');                           }                       </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>                                <li>                                    <a id="LinkButton1" href="javascript:__doPostBack(&#39;ctl00$LinkButton1&#39;,&#39;&#39;)" style="color:White;font-size: 1.2em; line-height: 18px; margin-left: 5px;">हिंदी</a>                                </li>                                <li class="d-none d-md-block">                                    <span style="display: flex;">                                                                                                                    </span>                                </li>                                <li><a title="" href="/login.aspx" target="_blank"                                    class="loginredirect" rel="noopener" tabindex="9">                                    <img src="#" alt="" title="" />                                    Admin Login</a></li>                            </ul>                        </div>                    </div>                </div>            </div>                             <!-- Site Name and Logo Section -->                                                                                   <!-- <form class="col-12 col-lg-auto search-formno-float d-none d-lg-block" role="search" action="/search" method="post">      <input type="hidden" name="_token" value="VMGM4W9Ncv3qFpyuaY10h3PUh72WABP6YL35Lqxj"> -->      <!-- <div class="input-group">          <button class="btn btn-outline-secondary" type="submit" id=""><img src="./asset/img/header/search.svg" alt=""></button>          <input type="text" class="form-control" placeholder="Search" name="search_term" required>        </div> --><div>                                       <div class="header" style="border-bottom: none;">  <div >    <img src="images/biharlogo1.png" height="90" style="border-radius:1px;" alt="Site Name" />  </div>  <div class="center-text">    <h1 class="title1">7<sup>th</sup> State Finance Commission</h1>    <div class="subtitle">Vitt Bhawan, Gardanibagh, Patna</div>  </div> </div>                                                                            </div>                  <!-- <div class="mob-animated-search">          <input type="text" placeholder="Search" name="search_term" required>      </div> -->          <!-- </form> -->          <!-- <p>public private partnership in india</p> -->       <!-- <div class="logo-right d-none d-xl-block">      <a href="https://www.g20.org/en/" target="_blank">        <img src="./asset/img/logos/g20-logo-dark.png" class="img-fluid" alt="">      </a>    </div> -->  </div></div>            </header>            <div class="clearfix"></div>            <div>                
+        
+<style>
+    body {
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+        
+        background: #f9fbfd;
+        color: #333;
+    }
+    .container {
+        display: flex;
+        gap: 40px;
+        align-items: stretch;
+    }
+    .report, .commission {
+        background: white;
+        border-radius: 16px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        padding: 24px;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        border-bottom: 2px solid #3081D0;
+        padding-bottom: 8px;
+    }
+    img {
+        width: 100%;
+        border-radius: 12px;
+        object-fit: cover;
+    }
+    .text-box {
+        background-color: #5d6ac7;
+        color: white;
+        padding: 16px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .amendments {
+        background-color: #dbeafe;
+        padding: 16px;
+        border-radius: 10px;
+    }
+    .amendments h3 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        color: #1d4ed8;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    ul li {
+        margin-bottom: 10px;
+    }
+    ul li a {
+        text-decoration: none;
+        color: #1d4ed8;
+        font-weight: 600;
+        font-size: 16px;
+        transition: color 0.3s;
+    }
+    ul li a:hover {
+        color: #0c4a6e;
+    }
+</style>
+       <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(90deg, #1a3c6e, #2e5a9e);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+
+        .container {
+            display: flex;
+            max-width: 1200px;
+            margin: 2rem auto;
+            gap: 2rem;
+            padding: 0 1rem;
+        }
+
+        .content {
+            flex: 3;
+            background: linear-gradient(135deg, #ffffff, #f0f4ff);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.8s ease, transform 0.8s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .content::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(26, 60, 110, 0.1) 0%, transparent 70%);
+            animation: rotate 10s linear infinite;
+            z-index: 0;
+        }
+
+        .content.visible {
+            opacity: 1;
+            transform: translateY(0);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+        }
+
+        .content > * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .content p {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+            color: #444;
+        }
+
+        .chairmanship {
+            background: linear-gradient(90deg, #e6f0fa, #d4e4ff);
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1.5rem;
+            font-weight: 600;
+            color: #1a3c6e;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease-in-out;
+            transition: transform 0.3s ease;
+            border-left: 4px solid #1a3c6e;
+        }
+
+        .chairmanship:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .content h2 {
+            color: #1a3c6e;
+            border-bottom: 2px solid #1a3c6e;
+            padding-bottom: 0.5rem;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .content ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .content li {
+            padding: 0.8rem;
+            background: #fff;
+            margin: 0.5rem 0;
+            border-left: 4px solid #1a3c6e;
+            border-radius: 8px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .content li:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .more-content {
+            display: none;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px dashed #ccc;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 8px;
+            padding: 1rem;
+        }
+
+        .more-content.show {
+            display: block;
+        }
+
+        .read-more-btn {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.8rem 1.5rem;
+            background: linear-gradient(90deg, #f4a261, #e76f51);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.2s ease, background 0.3s ease;
+            box-shadow: 0 4px 8px rgba(244, 162, 97, 0.3);
+        }
+
+        .read-more-btn:hover {
+            transform: scale(1.05);
+            background: linear-gradient(90deg, #e76f51, #f4a261);
+        }
+
+        .sidebar {
+            flex: 1;
+            background: #2e5a9e;
+            padding: 1rem;
+            border-radius: 10px;
+            color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            height: auto;
+            max-width: 250px; /* Limit width to control size */
+        }
+
+        .sidebar h3 {
+            font-size: 1.3rem;
+            border-bottom: 2px solid #f4a261;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.8rem;
+            color: #fff;
+        }
+
+        .sidebar ul {
+            list-style: none;
+        }
+
+        .sidebar li {
+            margin: 0.5rem 0;
+            padding: 0.5rem;
+            background: rgba(255, 255, 255, 0.1);
+            border-left: 2px solid #f4a261;
+            border-radius: 5px;
+            transition: background 0.3s ease;
+        }
+
+        .sidebar li:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .sidebar a:hover {
+            color: #f4a261;
+        }
+
+        @keyframes fadeIn {
+            0% { opacity: 0; transform: translateY(10px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            .sidebar {
+                margin-top: 1rem;
+                max-width: 100%; /* Full width on mobile */
+            }
+        }
+    </style>
+
+    
+    
+    
+    <style>
+        .brand-carousel .box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+            background: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+            .brand-carousel .box img {
+                max-width: 100%;
+                height: auto;
+            }
+           .owl-dots{
+               display:none;
+           }
+
+    </style>
+    <style>
+        <style>
+   /* body {*/
+     /* font-family: 'Noto Sans Devanagari', sans-serif;*/
+      /*background-color: #f4f6f9;*/
+      /*color: #333;*/
+      /*margin: 0;
+      padding: 0;*/
+    }
+    /*.container {
+     
+      margin: 40px auto;
+      background-color: #fff;
+      padding: 40px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      border-radius: 12px;
+    }*/
+    h1, h2 {
+      color: #2c3e50;
+    }
+    h1 {
+      /*border-bottom: 2px solid #2980b9;*/
+      padding-bottom: 10px;
+    }
+    ul {
+      margin-left: 0px;
+    }
+    .section {
+      margin-top: 30px;
+    }
+    .member {
+      margin-left: 20px;
+    }
+    .highlight {
+      background-color: #eaf2f8;
+      padding: 10px;
+      border-left: 4px solid #2980b9;
+      margin: 10px 0;
+    }
+  </style>
+
+    <style>
+       
+        
+       
+      /*  @keyframes slideIn {
+            from { opacity: 0; transform: translateY(50px); }
+            to { opacity: 1; transform: translateY(0); }
+        }*/
+       /* .header {
+            text-align: center;
+            font-size: 2.8em;
+            color: #1e3c72;
+            margin-bottom: 20px;
+            position: relative;
+        }*/
+        .header::after {
+            content: '';
+            width: 100px;
+            height: 4px;
+            background: #f39c12;
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+           /* transform: translateX(-50%);*/
+            border-radius: 2px;
+        }
+        .content {
+            font-size: 1.1em;
+            line-height: 1.7;
+            color: #444;
+            margin: 20px 0;
+            text-align: justify;
+        }
+        .members-section {
+            background: #f7f9fc;
+            padding: 25px;
+            border-radius: 15px;
+            margin-top: 30px;
+            box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+        .members-section h2 {
+            font-size: 1.8em;
+            color: #2a5298;
+            margin-bottom: 20px;
+        }
+        .member {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin: 10px 0;
+            background: white;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+     /*   .member:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }*/
+        .member::before {
+            content: '•';
+            color: #f39c12;
+            font-size: 1.5em;
+            margin-right: 15px;
+        }
+        .links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        .link-btn {
+            background: #2a5298;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .link-btn:hover {
+            background: #1e3c72;
+            transform: scale(1.05);
+        }
+        .read-more {
+            display: block;
+            text-align: center;
+            margin-top: 30px;
+            padding: 12px 30px;
+            background: #f39c12;
+            color: white;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.3s ease, transform 0.3s ease;
+        }
+        .read-more:hover {
+            background: #e67e22;
+            transform: scale(1.05);
+        }
+         header {
+            background: linear-gradient(90deg, #1e3c72, #2a5298);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+    </style>
+    
+
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v18.0"
+        nonce="dapun7Gn"></script>
+
+      <link href="css/bootstrap.min.css" rel="stylesheet" /><link href="css/jquery.smartmenus.bootstrap.css" rel="stylesheet" />
+  <!-- Main css -->
+  <link rel="stylesheet" href="css/font-awesome.min.css" /><link rel="stylesheet" href="css/font-futura-book.css" /><link href="css/animate.min.css" rel="stylesheet" /><link href="style.css" rel="stylesheet" /><link href="css/responsive.css" rel="stylesheet" /><link rel="icon" href="images/logo/logo.png" type="image/x-icon" />
+
+  <!-- Google Font -->
+
+
+  <link href="https://fonts.googleapis.com/css?family=Oswald:400,500,600,700" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700" rel="stylesheet" />
+
+  <script src="../code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="../netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+  
+  <style>
+      .key {
+          background-color: #4e5ba4;
+          color: white;
+          padding-left: 5px;
+          padding-bottom: 10px;
+          padding-top: 10px;
+          margin-top: 15px;
+          font-size: 20px;
+          text-align: center;
+          border-radius: 5px;
+      }
+      .text {
+          text-align: justify;
+      }
+
+      .h1 {
+          background-color: #AF4D27;
+          font-family: 'PT+Sans', sans-serif;
+          font-size: 20px;
+          border: 1px solid maroon;
+          color: white;
+          text-align: center;
+          padding: 5px 5px 5px 5px;
+      }
+
+      .table tr td {
+          background: #4e5ba4;
+      }
+
+      .p a {
+          color: white;
+      }
+  </style>
+ 
+
+  
+
+
+  <script src="js/bootstrap-dropdownhover.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/contact.js"></script>
+  <script src="js/jquery.counterup.min.js"></script>
+  <script src="js/jquery.smartmenus.bootstrap.min.js"></script>
+  <script src="js/jquery.smartmenus.min.js"></script>
+  <script src="js/main.js"></script>
+
+  <script src="cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+  <script src="cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+  <script src="cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>
+  <script src="../maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link href="css1/animate.min.css" rel="stylesheet" />
+
+    <link href="css1/jquery.smartmenus.bootstrap.css" rel="stylesheet" />
+    <link href="css1/bootstrap.min.css" rel="stylesheet" />
+    <link href="css1/font-futura-book.css" rel="stylesheet" />
+
+    <link href="css1/font-awesome.min.css" rel="stylesheet" />
+    <link href="css1/responsive.css" rel="stylesheet" />
+    <a href="css1/style.html"></a>
+    <style>
+
+    </style>
+    <style>
+         <style>
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f6f9;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 30px;
+    }
+    .section {
+      width: 45%;
+      margin: 20px 0;
+    }
+    .section h2 {
+      font-size: 28px;
+      color: #1b3d6d;
+      border-bottom: 3px solid #00a1de;
+      display: inline-block;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
+    
+    .tor-card .label {
+      background: orange;
+      color: white;
+      font-size: 60px;
+      font-weight: bold;
+      text-align: center;
+      padding: 40px;
+    }
+    .tor-card .source {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: #333;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 5px;
+      font-size: 12px;
+    }
+    .tor-link {
+      display: block;
+      background: #4e5ba4;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      text-decoration: none;
+      margin-top: 10px;
+      border-radius: 5px;
+      font-size: 18px;
+    }
+    .report-box {
+      background: #d2e9f7;
+      border-radius: 10px;
+      padding: 20px;
+    }
+    .report-box h3 {
+      margin-top: 0;
+    }
+    .report-box ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .report-box ul li::before {
+      content: '➤';
+      color: #1b3d6d;
+      margin-right: 10px;
+    }
+    .report-box ul li {
+      font-weight: bold;
+      color: #1b3d6d;
+      margin: 10px 0;
+    }
+       
+    
+     
+   }
+   ./*container {
+     background: linear-gradient(to right, #fffaf0, #ffe4c4);
+ color: #333;
+    
+   }*/
+  </style>
+    
+            </div>            <div>                
+
+
+<script type="text/javascript">
+    function toggleSubmenu(menuId) {
+        const submenu = document.querySelector(`#MenuWeb_Menu1__${menuId}`);
+        if (submenu) {
+            submenu.style.display = submenu.style.display === 'none' || submenu.style.display === '' ? 'block' : 'none';
+        }
+    }
+</script>
+
+
+<style>
+    /*==========================================
+Same height column inside row.
+==========================================*/
+@media (min-width: 480px) {
+  .row-xs-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }
+  .col-xs-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+  }
+  .col-xs-top {
+    vertical-align: top;
+  }
+  .col-xs-middle {
+    vertical-align: middle;
+  }
+  .col-xs-bottom {
+    vertical-align: bottom;
+  }
+}
+
+@media (min-width: 768px) {
+  .row-sm-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }
+  .col-sm-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+  }
+  .col-sm-top {
+    vertical-align: top;
+  }
+  .col-sm-middle {
+    vertical-align: middle;
+  }
+  .col-sm-bottom {
+    vertical-align: bottom;
+  }
+}
+
+@media (min-width: 992px) {
+  .row-md-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }
+  .col-md-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+  }
+  .col-md-top {
+    vertical-align: top;
+  }
+  .col-md-middle {
+    vertical-align: middle;
+  }
+  .col-md-bottom {
+    vertical-align: bottom;
+  }
+}
+
+@media (min-width: 1200px) {
+  .row-lg-height {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+  }
+  .col-lg-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+  }
+  .col-lg-top {
+    vertical-align: top;
+  }
+  .col-lg-middle {
+    vertical-align: middle;
+  }
+  .col-lg-bottom {
+    vertical-align: bottom;
+  }
+}
+/*==========================================
+HEADER AREA
+==========================================*/
+@media (max-width: 767px) {
+	.contact-info {
+		line-height: 25px;
+		text-align: center;
+		margin-top: 10px;
+	}	
+	.top-social-links {
+		float: none;
+		margin: 0 auto;
+		display: table;
+	}
+	.logo {
+		margin: 0 auto;
+		margin-top: 30px;
+	}	
+	.header-contact-phone {
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+	.header-contact-mail {
+		margin-bottom: 50px;
+	}
+}
+
+/*==========================================
+MAIN NAVIGATION
+==========================================*/
+
+@media screen and (max-width: 1199px) {
+    .navbar-default .navbar-nav  li  a {
+        font-size: 12px;
+    } 
+    .navbar-nav  li  a {
+        padding: 20px 15px;
+    } 
+.header-version-3 .logo {
+   height: 48px;
+	margin: 5px 0;
+}
+.header-version-3 .navbar-collapse form[role="search"] button, 
+.header-version-3 .navbar-collapse form[role="search"] input {
+	height: 60px;
+}	
+.header-version-3 .navbar-collapse form[role="search"] input {
+	height: 60px;
+}
+.header-version-3 .nav > li > a {
+	padding: 20px 15px;
+}
+}
+@media screen and (max-width: 999px) {
+	.header-version-3 .nav > li > a {
+		padding: 0px 8px;
+	}
+	.navbar-default .navbar-nav li a {
+		font-size: 11px;
+	}
+	.navbar-default .navbar-nav .dropdown-menu > li > a {
+		font-size: 11px;
+	}	
+}
+@media screen and (max-width: 767px) {
+    .navbar-nav {
+        margin-bottom: 0;
+		padding-left: 15px;
+    }
+	.navbar-nav {
+		margin: 10px -15px;
+		overflow: initial;
+		max-height: 400px;
+	}
+    .input-group {
+        width: 98%;
+    }
+	.header-version-3 .navbar-header {
+		position: relative;
+	}
+	.navbar-nav .open .dropdown-menu .dropdown-header, .navbar-nav .open .dropdown-menu > li > a {
+		padding: 15px 15px 15px 25px;
+	}
+	.header-version-3 .logo {
+	   height: 40px;
+		margin-left: 10px;
+	}
+	.header-version-3 .logo.affix {
+		margin: 5px;
+	}
+    .navbar-default .navbar-toggle {
+        background: #fff;
+		color: #474747;
+    }
+	.active #search_submit {
+    	display: block;
+    }
+    .active #resetbtn {
+        display: none;
+    }
+	.navbar-collapse form[role="search"] button, .navbar-collapse form[role="search"] input {
+		padding: 2px 8px;
+	}
+	.header-version-3 .navbar-collapse form[role="search"] input {
+		height: 40px;
+		font-size: 18px;
+	}
+	.header-version-3 .navbar-collapse form[role="search"] button, .header-version-3 .navbar-collapse form[role="search"] input {
+		height: 40px;
+	}	
+	.navbar-form .glyphicon.glyphicon-search {
+		padding: 5px;
+	}
+    .affix-top .glyphicon-search {
+        border: none;
+        padding: 0;
+    }
+
+/*
+	#nav.affix {
+		position: relative;
+	}
+	
+	.affix-top {
+		top: 0;
+	}
+*/	
+	.dropdown-menu {
+		padding-left: 10px;
+	}
+    .navbar-nav  li  a {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+	.navbar-form {
+		height: auto;
+	}
+    .navbar-collapse form[role="search"] button,
+    .navbar-collapse form[role="search"] input {
+        height: 40px;
+    }
+	.navbar-collapse form[role="search"] button.affix,
+	.navbar-collapse form[role="search"] input.affix {
+		height: 40px;
+		font-size: 14px;
+	}
+}
+
+/*Search bar style*/
+	
+@media screen and (max-width: 480px) {
+    .input-group {
+        width: 100%;
+    }
+}
+@media (min-width: 768px) {
+	.navbar-collapse {
+		padding-top: 0px !important;
+		padding-right: 38px !important;
+	}
+	.navbar-collapse form[role="search"] {
+		width: auto;
+		overflow: hidden;
+	}
+	.navbar-collapse form[role="search"] button,
+	.navbar-collapse form[role="search"] input {
+		padding: 8px 12px;
+	}
+	.navbar-collapse form[role="search"] input {
+		opacity: 0;
+		display: none;            
+	}
+	.navbar-collapse form[role="search"].active {
+		width: 100%;
+	}
+	.navbar-collapse form[role="search"].active button,
+	.navbar-collapse form[role="search"].active input {
+		display: table-cell;
+		opacity: 1;
+	}
+    .navbar-collapse form[role="search"].active input {
+		width: 100%;
+		max-width: 400px;
+		float: right;
+	}	
+}
+
+/*BOX NAVIGATION BAR*/
+
+@media screen and (max-width: 767px) {
+	.box-version .container {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+    .box-version #nav.affix {
+        width: 100%;
+    }    
+}
+
+/*HEADER VERSION-3 SLIDER MARGIN*/
+
+@media screen and (max-width: 846px) {
+	
+	
+}
+
+/*==========================================
+SLIDER AREA
+==========================================*/
+@media (max-width: 1920px) {
+    .slide-bg {
+        width: 100%;
+        max-height: 700px;
+    }
+}
+@media (max-width: 980px) {
+    .carousel-caption h2 {
+        font-size: 30px;
+    }    
+}
+@media (max-width: 768px) {
+     .caption-title {
+        margin-top: 0px;
+    } 
+	
+	.carousel-control .fa-angle-right, .carousel-control .icon-next {
+		margin-right: -10px;
+	}
+	.carousel-control .fa-angle-left, .carousel-control .fa-angle-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+		width: 30px;
+		height: 30px;
+		margin-top: -10px;
+		font-size: 30px;
+	}
+	.carousel-control .fa-angle-left, .carousel-control .icon-prev {
+		margin-left: -10px;
+	}	
+	
+}
+
+@media (max-width: 767px) {
+    .carousel-caption img {
+        display: none;
+    }
+    .slide-bg {
+        width: auto;
+        max-height: auto;
+    }    
+    .carousel-caption h2 {
+        font-size: 25px;
+		line-height: 35px;
+    }
+    .carousel-caption {
+        padding-bottom: 40px;
+    }
+	.text-bg {
+		padding: 10px;
+	}	
+}
+@media (max-width: 600px) {
+     .carousel-caption {
+		margin-top: 50px;
+        text-align: center;
+    }   
+    .carousel-caption h2 {
+        font-size: 20px;
+		line-height: 30px;
+    }
+    .caption-text {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .home-v3 .caption-text {
+        font-size: 12px;
+		line-height: 18px;
+    }	
+    .btn-lg {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+    .carousel-indicators {
+        display: none;
+    } 	
+}
+@media (max-width: 480px) {
+.carousel-caption {
+	bottom: 20%;
+    padding-bottom: 0;
+}    
+    .carousel-inner > .item > img {
+        max-width: 180%;
+    } 
+}
+@media (max-width: 360px) {
+ .carousel-caption {
+	bottom: 10%;
+    padding-bottom: 0;
+}  
+	.slide-bg {
+		min-height: 400px;
+	}	
+}
+
+/* ======================
+ CONTACT PAGE
+=========================*/
+@media (max-width: 767px) {
+	.contact-page-form {
+		margin-top: 30px;
+	}	
+}
+
+/* ======================
+ TESTIMONIAL SLIDER AREA
+=========================*/
+@media (max-width: 1199px) {
+	#testimonials .quote-wrap {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+@media (max-width: 991px) {
+	.testimonial-item .caption:before{
+		top: 180px;
+		left: 5px;
+	}
+}
+
+/* ======================
+Intro Message area
+=========================*/
+@media (max-width: 768px) {
+	#intro-message {
+		padding: 60px 0;
+	}
+	.welcome-home {
+		padding: 50px 20px;
+		margin: 0 10px;
+		border: 1px solid #6a78dc;
+	} 
+}
+/* ======================
+Cat area
+=========================*/
+@media (max-width: 980px) {
+	.col-md-4.vertical-middle {
+		display: block;
+	}
+}
+/* ======================
+Practice area
+=========================*/
+@media (max-width: 768px) {
+	.practice-caption h3 {
+		font-size: 16px;
+	}
+	.practice-title a {
+		font-size: 40px;
+	}
+}
+
+@media (max-width: 767px) {
+	#practice-area {
+		padding: 50px 0;
+	}
+	.practice-caption h3 {
+		padding: 0 10px;
+	}
+}
+
+/* ======================
+Features area
+=========================*/
+@media (max-width: 1920px) {
+    .col-md-7 .container {
+        max-width: 730px;
+    }
+    .col-md-5 .container {
+         max-width: 411px; 
+    }
+}
+@media (max-width: 1380px) {
+    .col-md-7 .container {
+    max-width: 683px;
+    }
+    .col-md-5 .container {
+         max-width: 458px; 
+    }   
+}
+
+@media (max-width: 1024px) {
+	.col-md-7 .container {
+		max-width: 556px;
+	}
+}
+
+@media (max-width: 991px) {
+    .col-md-5 .container {
+         float: none;
+    }
+}
+@media (max-width: 980px) {
+    .col-md-7 .container {
+        max-width: 750px;
+        float: none;
+    }
+    .col-md-5 .container {
+         max-width: 752px; 
+    }    
+}
+@media (max-width: 767px) {
+	.feature-content-right .container {
+		padding-left: 15px;
+	}
+}
+@media (max-width: 480px) {
+	.feature-icon img {
+		margin: 0 10px 0 0;
+	}
+}
+
+/* ======================
+Immigration area
+=========================*/
+
+@media (max-width : 767px) {
+	#immigration-law-area {
+		padding: 50px 0;
+	}
+}
+
+/* ======================
+About Us Area
+=========================*/
+@media (max-width : 1199px) {
+	.about-us-text .container {
+		max-width: 485px;
+	}
+	.about-us-video .container {
+		max-width: 485px;
+	}	
+}
+@media (max-width : 1024px) {
+	.about-us-text .container {
+		max-width: 470px;
+	}
+	.about-us-video .container {
+		max-width: 470px;
+	}
+}
+
+@media (max-width : 991px) {
+	.about-us-text .container {
+		max-width: 450px;
+		float: left;
+	}
+	.about-us-video .container {
+		max-width: 450px;
+		float: left;
+	}	
+}
+@media (max-width : 850px) {
+	.about-us-text .container {
+		max-width: 370px;
+		float: left;
+	}
+	.about-us-video .container {
+		max-width: 370px;
+		float: left;
+	}	
+}
+@media (max-width : 767px) {
+	.about-us-video .container,
+    .about-us-text .container {
+		max-width: 767px;
+		float: none;
+	}	
+}
+
+/* ======================
+  Case Area
+=========================*/
+@media (max-width : 767px) {
+	#case-area {
+		padding: 50px 0;
+	}	
+}
+
+/* ======================
+Staff Area
+=========================*/
+@media (max-width : 991px) {	
+	#staff-area {
+		background-size: cover;
+	}	
+}
+/* ======================
+Staff Area
+=========================*/
+@media (max-width : 480px) {	
+	.col-half {
+		width: 100%;
+	}	
+}
+/* ======================
+Consultation Area
+=========================*/
+@media (max-width : 991px) {	
+	#consult-area {
+		margin-bottom: 100px;  	
+	}
+	.consult-form {
+		position: relative;
+		top: 0;
+		margin-right: 0;
+	}
+	.consult-layers {
+		margin: 0 auto;
+	}
+}
+/* ======================
+Counter Area
+=========================*/
+@media (max-width : 767px) {
+	.counter-box .main_counter .single_counter {
+		margin: 40px 0;
+	}	
+}
+
+/* ======================
+ Case Result area
+=========================*/
+@media (max-width : 767px) {
+	#case-result {
+		padding: 50px 0;
+	}	
+}
+
+/* ======================
+Partner Logo area
+=========================*/
+@media (max-width : 767px) {
+	.client-logo .thumbnail:hover {
+		margin: 0 20px;
+	}
+}
+
+/* ======================
+ Blog Area
+=========================*/
+@media (max-width : 767px) {
+	#blog-area {
+		padding: 50px 0;
+	}	
+}
+
+
+/* ======================
+Footer area
+=========================*/
+@media (max-width : 767px) {
+	.first-widget {
+		padding: 50px 10px 20px 0;
+	}
+	.second-widget {
+		padding: 20px 10px;
+		position: relative;		
+	}
+	.third-widget {
+		padding: 40px 0 50px 10px;
+		position: relative;
+	}
+	
+	.footer-col {
+		border: solid 2px #8dabdc;
+		position: relative;
+		left: 0;
+		top: 0;
+		border-top: none;
+		border-right: none;
+		border-left: none;	
+	}
+
+	.footer-col:after {
+		content: '';
+		position: absolute;
+		top: 1px;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		border: solid 1px #8dabdc;
+		border-bottom-color: #225bb6;	
+		border-top: none;
+		border-right: none;
+		border-left: none;
+	}
+	.footer-col:last-child {
+		border-bottom: none;
+	}
+	.footer-col:last-child:after {
+		border-bottom: none;
+	}	
+	
+}
+
+</style>
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <a href="#MenuWeb_Menu1_SkipLink" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;">Skip Navigation Links</a><div id="MenuWeb_Menu1">
+	<ul class="level1 navbar-nav me-auto mb-2 mb-lg-0">
+		<li><a class="level1 selected" href="Default.aspx">Home</a></li><li><a class="popout level1" href="javascript:void(0);">Office Documents</a><ul class="level2 dropdown-menu">
+			<li><a class="level2" href="DyPageView.aspx?PageTitleID=10263">Important Letter</a></li>
+		</ul></li><li><a class="level1" href="contactus.aspx">Contact Us</a></li>
+	</ul>
+</div><a id="MenuWeb_Menu1_SkipLink"></a>
+        </div>
+    </div>
+</nav>
+            </div>            <div>                
+
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="ImagesNew/sliderfinance.jpeg" class="d-block w-100" alt="...">
+    </div>
+   
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+ <br />
+                                            
+                          
+    <div>
+        <img src="ImagesNew/gandhii10.png" class="img-fluid" style="width: 100%">
+    </div>
+                            
+
+
+
+
+  
+    <br />
+
+
+
+
+                         
+    
+    
+    <div onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLScmV8Nl4Tm3D9VHyKgCZLgkWynYyJ8AEDHm5BLrUkjS6c_nBQ/viewform','_blank')"
+ style="
+  width:100%;
+  overflow:hidden;
+  background:#eef2ff;
+  padding:12px 0;
+  cursor:pointer;
+ ">
+
+ <div style="
+   display:inline-block;
+   white-space:nowrap;
+   font-size:22px;
+   font-weight:700;
+   color:#1e40af;
+   animation:moveText 15s linear infinite;
+ ">
+   📢  Suggestions/Opinion  – Click Here
+ </div>
+</div>
+    <div onclick="window.open('/DyPageView?PageTitleID=10264','_blank')" style=" flex:1; overflow:hidden; background:#ecfdf5; padding:12px 0; cursor:pointer; text-align:center; "> <div style=" display:inline-block; white-space:nowrap; font-size:22px; font-weight:700; color:#047857; animation:moveText2 15s linear infinite; "> 🎓 Result – Click Here </div> </div> </div>
+<style>
+@keyframes moveText {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                              <div class="container">
+     <section class="content">
+         <p>
+In compliance with Articles 243(I) and 243(Y) of the Constitution of India, and in accordance with the provisions of Section 168 of the Bihar Panchayati Raj Act, 2006 and Section 71 of the Bihar Municipal Act, 2007, the Governor of Bihar hereby constitutes the Seventh State Finance Commission,which shall consist of a Chairman and two Members :
+         </p>
+         
+        
+          
+
+           <ul>
+                   <li> Chairman : Shri Ashok Kumar Choudhary, I.A.S (Retd. – 1972 batch)</li>
+
+    <li>Member: Shri Anil Kumar (Retired, B.A.S, Empanelment Code No. – 223/2011)</li>
+    <li>Member: Dr. Kumudani Sinha (Retired Professor, Department of Economics, Patna University)</li>
+</ul>
+
+         <div class="more-content">
+             <h3>Objectives of the Commission</h3>
+             <p>The Commission will review the financial position of Panchayats (Zila Parishads, Panchayat Samitis, and Gram Panchayats) and Urban Local Bodies (Municipal Corporations, Municipal Councils, and Nagar Panchayats), and will make its recommendations on:</p>
+             <ul>
+                 <li>Principles governing the distribution of net proceeds of taxes, duties, tolls, and fees between the State and Panchayats/Municipal Bodies, and among their respective levels.</li>
+                 <li>Determination of taxes, duties, tolls, and fees to be assigned to or appropriated by Panchayats and Municipal Bodies.</li>
+                 <li>Grants-in-aid to be provided from the Consolidated Fund of the State.</li>
+                 <li>Measures to improve the financial position of Panchayats and Municipal Bodies.</li>
+                 <li>Assessment of revenues and expenditures of Panchayats and Municipal Bodies with a specified basis for conclusions.</li>
+             </ul>
+         </div>
+
+         <button class="read-more-btn">   
+             <a href="introduction.aspx">Read More</a></button>
+     </section>
+     <aside class="sidebar">
+         <h3>Quick Links</h3>
+         <ul>
+             <li><a href="https://state.bihar.gov.in/biharprd/" target="_blank"> Panchayati Raj Department</a></li>
+             <li><a href="https://egramswaraj.gov.in" target="_blank">eGramSwaraj</a></li>
+              <li><a href="https://state.bihar.gov.in/urban/" target="_blank">Urban Development and Housing Department</a></li>
+                  <li><a href="https://fincomindia.nic.in/" target="_blank">Union Finance Commission</a></li>
+                         <li> <a href="https://fincomindia.nic.in/commission-reports-sixteenth"target="_blank">16th Finance Commission Report</a></li>
+
+            <li> <a href="urbandevelopment.aspx"target="_blank">State-wise Urban Development Departments</a></li>
+
+
+
+
+
+
+         </ul>
+     </aside>
+ </div>
+ <script>
+     // Fade-in animation for content section
+     document.addEventListener("DOMContentLoaded", function () {
+         const content = document.querySelector(".content");
+         setTimeout(() => content.classList.add("visible"), 100);
+     });
+
+     // Toggle "Read More" content
+     document.queryQuerySelector('.read-more-btn').addEventListener('click', function () {
+         const moreContent = document.querySelector('.more-content');
+         const isShown = moreContent.classList.toggle('show');
+         this.textContent = isShown ? 'Read Less' : 'Read More';
+     });
+ </script>
+
+                            
+
+                            <section class="container">
+    <div class="report">
+        <h2>Previous State Commission’s Reports</h2>
+        <img src="ImagesNew/report.png" style="height:300px;width:300px;" alt="Sixteenth Finance Commission Report">
+      <div class="amendments">
+
+      <ul>
+                    <li><a href="https://state.bihar.gov.in/finance/cache/12/Documents/5th-SFC-Volume-I.pdf">➤ Report of The Fifth State Finance Commission BiharVol- I </a></li>
+
+          <li><a href="pdf/SFC6%20Rep-Part%201%20and%202.pdf">➤ Report of The Sixth State Finance Commission BiharVol- I </a></li>
+          <li><a href="pdf/SFC6%20Rep-Part%203.pdf">➤ Report of The Sixth State Finance Commission BiharVol- II </a></li>
+      </ul>
+  </div>
+    
+    
+    </div>
+
+    <div class="commission">
+        <h2>73rd and 74th Constitutional Amendments</h2>
+        <div class="text-box">
+            <p>To make the governance system more democratic and participatory, the Government of India introduced two important Constitutional Amendments — the 73rd and 74th Amendments. The aim was to decentralize power from the central and state governments to local self-governing bodies.</p>
+        </div>
+        <div class="amendments">
+            <h3>73rd and 74th Constitutional Amendments</h3>
+            <ul>
+                <li><a href="73rdconstitutionalamendmentact.aspx">➤ 73rd Constitutional Amendment Act, 1992</a></li>
+                <li><a href="74thconstitutionalamendmentact.aspx">➤ 74th Constitutional Amendment Act, 1992</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+                                                
+
+
+
+
+
+
+
+
+
+                            
+
+
+    <section class="pd pt-0 light-bg/ d-none">
+            <div class="pppac-breadcrumb bd-resources cst bg">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-12 best-practice-content">
+                            <div class="row">
+                                <div class="col-md-9 col-xl-7 mx-auto position-relative">
+                                    <div class="bd-pd pb-3/ pl-cst/">
+                                        <h1 class="lg-h1 mb-0"><a id="best-practice-label" href="/login" target="_blank">Online Portal</a></h1>
+                                        <div class="slider-pd">
+                                            <div class="main-slider-cst">
+                                                <div thumbsslider="" class="swiper pppac-card-slider-1 swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress swiper-thumbs">
+                                                    <div class="swiper-wrapper" id="swiper-wrapper-9d23ed2598ffd913" aria-live="off" style="transition-duration: 0ms; height: 0px;">
+                                                        <div class="swiper-slide">
+                                                            <div class="card h-100 col">
+                                                                <div class="card-body">
+                                                                </div>
+                                                                <div class="card-footer d-none">
+                                                                    <a href="/login" target="_blank" class="btn btn-download btn-sm video-mfp-cst/">
+                                                                        <div class="d-flex align-items-center">
+                                                                            Login
+                                                                        </div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                <div class="swiper-pagination"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 best-practice-slide">
+                            <div class="row">
+                                <div class="col-11 col-md-9 col-xl-7 mx-auto position-relative">
+                                    <div class="swiper-button-prev type-1 d-lg-none" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-75c5535201eca572"></div>
+                                    <div class="swiper-button-next type-1 d-lg-none" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-75c5535201eca572"></div>
+                                    <section class="dark-bg/ approval cst main-slider-cst">
+                                        <div class="container/">
+                                            <div class="row">
+                                                <div class="col-12 px-0">
+                                                    <div class="slider-pd/">
+                                                        <div class="swiper pppac-card-slider-2 swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-autoheight swiper-watch-progress">
+                                                            <div class="swiper-wrapper" id="swiper-wrapper-75c5535201eca572" aria-live="off" style="cursor: grab; transition-duration: 0ms; height: 0px;">
+                                                                <div class="swiper-slide">
+                                                                    <div class="card h-100 col position-relative">
+                                                                        <a href="https://fincomindia.nic.in/portal/" target="_blank" class="video-mfp-cst/" title="">
+                                                                            <div class="btn btn-download btn-sm video-mfp-cst/ overlay">
+                                                                                <div class="d-flex align-items-center">
+                                                                                    <!-- <i class="bi bi-eye me-2"></i> -->
+                                                                                    Login
+                                                                                </div>
+                                                                            </div>
+                                                                            <!-- <small class="ms-auto">March 03,2023</small> -->
+                                                                            <!-- <img src="" class="card-img-top" alt="..."> -->
+                                                                            <img src="http://fincomindia.nic.in/asset/img/hero/airport.jpg" class="card-img-top" alt="...">
+                                                                            </a><div class="source-hp-link banner-cap"><a href="https://fincomindia.nic.in/portal/" target="_blank" class="video-mfp-cst/" title="">
+                                                                                </a><a href="https://aibsnlpwama.blogspot.com/2014/01/chq-news-782-merger.html" target="_blank"><span>-</span>&nbsp;Source</a>
+                                                                            </div>
+                                                                        
+                                                                    </div>
+                                                                </div>
+
+                                                            </div>
+                                                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                                                        <div class="swiper-pagination"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+                
+              
+
+         
+
+
+
+    <!----  <div class="container-fluid p-3">
+        <div class="col-md-12">
+            
+
+
+
+<div class="card text-center" style="box-shadow: 0px 0px 7px 6px #e5eaf9;">
+    <div class="card-header bgheading">
+        
+        <h4 class="card-title keytitle">Highlights</h4>
+        
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+           <div class="swiper mySwiper">
+    <div class="owl-controls clickable">
+        <div class="owl-prev swiper-button-prev">&#10094;</div>
+        <div class="owl-next swiper-button-next">&#10095;</div>
+    </div>
+                <div class="swiper-wrapper">
+
+
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>    </div>
+</div>
+</div>
+
+<!-- jQuery & Owl Carousel JS -->
+
+        </div>
+    </div>
+    
+    <div class="container-fluid p-3">
+        
+    </div>--->
+     
+
+   <!-- <div class="container-fluid p-3">
+        <div class="col-md-12">
+          
+
+
+
+<div class="card text-center" style="box-shadow: 0px 0px 7px 6px #e5eaf9;">
+    <div class="card-header bgheading">
+        
+        <h4 class="card-title keytitle">Highlights</h4>
+        
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+           <div class="swiper mySwiper">
+    <div class="owl-controls clickable">
+        <div class="owl-prev swiper-button-prev">&#10094;</div>
+        <div class="owl-next swiper-button-next">&#10095;</div>
+    </div>
+                <div class="swiper-wrapper">
+
+
+                    
+
+                </div>
+            </div>
+        </div>
+    </div>    </div>
+</div>
+</div>
+
+<!-- jQuery & Owl Carousel JS -->
+
+        </div>
+    </div>-->
+    
+    
+  <div style="display: flex; justify-content: center; gap: 30px; padding: 40px; width: 100%; box-sizing: border-box; flex-wrap: wrap;">
+  
+  <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); flex: 1; max-width: 300px; height: 300px; text-align: center; padding: 20px; transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <i class="fas fa-image" style="font-size: 200px;color: #3c6c8e;flex-grow: 1;"></i>
+    <p style="font-size: 1.2em; color: #990000; font-weight: bold; margin-top: 10px;"><a href="GalleryForm.aspx" class="text-decoration-none" target="_blank" title="Media Gallery">Media Gallery</a></p>
+  </div>
+
+  <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); flex: 1; max-width: 300px; height: 300px; text-align: center; padding: 20px; transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <i class="fas fa-video" style="font-size: 200px;color: #3c6c8e;flex-grow: 1;"></i>
+    <p style="font-size: 1.2em; color: #990000; font-weight: bold; margin-top: 10px;"> <a href="VideoAlbum.aspx"  target="_blank" title="Video Gallery">Video Gallery</a></p>
+          <a href="VideoAlbum.aspx"  target="_blank" title="Video Gallery">
+
+  </div>
+
+ <!-- <div style="background: #ffffff; border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.15); flex: 1; max-width: 300px; height: 300px; text-align: center; padding: 20px; transition: 0.3s; cursor: pointer; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <i class="fas fa-file-alt" style="font-size: 200px;color: #3c6c8e;flex-grow: 1;"></i>
+    <p style="font-size: 1.2em; color: #990000; font-weight: bold; margin-top: 10px;"> <a href="PublicationView.aspx" id="ContentPlaceHolder1_publication" class="text-decoration-none" target="_blank" title="Publications">
+Publications</a></p>
+  </div>-->
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+           
+                       
+            
+
+          
+     <script>
+         $(document).ready(function () {
+             $("#testimonial-slider").owlCarousel({
+                 items: 1,
+                 itemsDesktop: [1000, 1],
+                 itemsDesktopSmall: [979, 1],
+                 itemsTablet: [768, 1],
+                 pagination: true,
+                 navigation: false,
+                 navigationText: ["", ""],
+                 slideSpeed: 1000,
+                 singleItem: true,
+                 transitionStyle: "fade",
+                 autoPlay: true
+             });
+         });
+     </script>
+
+
+
+
+       
+    </a>
+       
+            </div>            <footer>  <div class="footer-container">    <div class="footer-info">      <h2>7th State Finance Commission</h2>      <p>Vitt Bhawan, Gardanibagh, Patna</p>      <p>Government of Bihar</p>                      </div>    <div class="footer-map">     <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d57573.204178125874!2d85.07206823607021!3d25.594105904807485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e3!4m5!1s0x39ed598148e7996d%3A0xe76c005e544e8b6c!2sH4V7%2BC26%2C%20Khagaul%20Rd%2C%20Gardanibagh%2C%20Patna%2C%20Bihar%20800002!3m2!1d25.5941117!2d85.1133538!4m0!5e0!3m2!1sen!2sin!4v1745738689374!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>  </div>  <div class="footer-bottom">    © 2025 7th State Finance Commission, Bihar | All rights reserved.  </div></footer>                                                                                                                                                                                                                                                                                                                <!-- Section: Social media -->                <!-- Copyright -->                                <!-- Copyright -->            </footer>            <!-- Copyright -->        
+<script type='text/javascript'>new Sys.WebForms.Menu({ element: 'MenuWeb_Menu1', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script>
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>    </div>            <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>       <script defer type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.js"></script>    <script defer src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>    <script defer src="js/biharmaster.js"></script>        <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.js"></script>    <!-- OwlCarousel JS -->    <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>    <script defer src="js/biharmaster.js"></script>    <!-- Swiper JS -->    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>        <!-- DataTables JS 13-9-24-->    <script type="text/javascript" src="https://cdn.datatables.net/2.1.6/js/dataTables.min.js"></script>        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script><script type="text/javascript">    const progressCircle = document.querySelector(".autoplay-progress svg");    const progressContent = document.querySelector(".autoplay-progress span");    var swiper = new Swiper(".mySwiper", {        slidesPerView: 5,        centeredSlides: false,        spaceBetween: 30,        breakpoints: {            // when window width is >= 320px            320: {                slidesPerView: 2,                spaceBetween: 20            },            // when window width is >= 480px            480: {                slidesPerView: 3,                spaceBetween: 30            },            // when window width is >= 640px            640: {                slidesPerView: 4,                spaceBetween: 40            }        },        pagination: {            el: ".swiper-pagination",            type: "fraction",        },        navigation: {            nextEl: ".swiper-button-next",            prevEl: ".swiper-button-prev",        },        autoplay: {            delay: 2500,            disableOnInteraction: false        }    });</script>        <script>            $('.owl-carousel').owlCarousel({                loop: true,                autoplay: true,                margin: 20,                autoplay: true,                autoplayHoverPause: true,                responsive: {                    0: {                        items: 1                    },                    768: {                        items: 3                    },                    1000: {                        items: 4                    }                }            })        </script>                                <noscript class="displaynoscript" />       </body>

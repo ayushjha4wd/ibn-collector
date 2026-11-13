@@ -1,0 +1,32 @@
+Table 5: Department-wise Green Budget Summary in Bihar
+(Rs. in crore)
+2022-23 2023-24 2024-25
+2023-24 G reen 2024-25
+Green Green Green
+Department Budget Revised Budget
+Budget Budget Budget
+Estimate Estimate
+Actual Estimate Estimate
+Agriculture 569.89 968.50 663.45 1211.95 643.74
+Animal and Fisheries Resources 138.11 179.18 187.42 312.89 182.32
+Building Construction 112.74 73.88 89.10 1115.00 156.75
+Education 9.97 16.21 46.39 1173.02 35.29
+Energy 42.50 70.00 70.00 270.00 270.00
+Environment, Forest, and Climate Change 518.75 773.84 811.65 853.03 853.03
+Health 0.77 5.00 5.00 3.50 3.50
+Industries 1.21 1.75 2.19 501.53 343.55
+Information and Public Relations 4.11 4.10 4.10 81.13 4.06
+Minor Water Resources 466.12 784.58 799.43 785.00 785.00
+Panchayati Raj 2306.37 0.00 2330.49 5733.86 4110.03
+Public Health Engineering 21.00 50.00 50.00 50.00 50.00
+Road Construction 11.16 47.99 56.33 1379.00 9.74
+Rural Development 2476.84 4742.66 5004.79 8142.71 4383.88
+Rural Works 137.58 325.04 400.08 4778.13 149.28
+Sugarcane Industries 14.45 100.00 100.00 37.60 37.60
+Tourism 19.53 26.99 26.99 162.00 35.25
+Transport 5.24 66.55 66.55 131.00 102.00
+Urban Development and Housing 574.61 1132.22 5393.28 3408.10 1118.30
+Water Resources 558.61 552.29 686.31 3232.63 550.09
+Total 7989.58 9920.77 16793.54 33362.08 13823.39
+Source: Finance Department, GoB
+16

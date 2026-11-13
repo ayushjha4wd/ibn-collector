@@ -1,0 +1,41 @@
+Table 7.7 : UDHD’s Projection of Expenditure of All ULBs of Bihar during the Period 2020-25
+(Rs. crore)
+Items 2020-21 2021-22 2022-23 2023-24 2024-25 2020-25
+1. Establishment
+a) Salary 1,950.20 3,472.66 3,826.59 4,216.64 4,646.52 18,112.61
+b) Pension
+c) Others (Daily wages and
+81.03 89.13 98.04 107.85 118.63 494.68
+Administrative Expenditure)
+Total 2,031.23 3,561.79 3,924.63 4,324.49 4,765.15 18,607.29
+2. O&M of Civic Services 401.65 465.91 540.46 626.93 727.24 2,762.19
+3. Centrally sponsored schemes
+a) AMRUT 610.00 1,006.50 1,107.15 1,217.87 1,339.65 5,281.17
+b) Smart City 620.00 1,023.00 1,125.30 1,237.83 1,361.61 5,367.74
+c) SBM 240.10 396.17 435.78 479.36 527.30 2,078.71
+d) NULM 95.00 156.75 172.43 189.67 208.63 822.48
+e) HFA 544.00 897.60 987.36 1,086.10 1,194.71 4,709.77
+Total 2,109.10 3,480.02 3,828.02 4,210.83 4,631.90 18,259.87
+4. State Sponsored schemes
+a) Mukhya Mantri Nal Jal Yojana 200.00 330.00 - - 530.00
+b) Mukhya Mantri Nali Gali
+500.00 825.00 - - - 1,325.00
+Yojana
+c) Jal Jivan Hariyali 855.60 1,645.90 1,860.49 2,096.54 2,356.19 8,814.72
+d) Establishment 8.93 14.74 16.21 17.83 19.61 77.32
+e) Nala Nirman 201.75 332.89 366.17 402.79 443.07 1,746.67
+f) Nagrik Suvidha 500.00 825.00 907.50 998.25 1,098.08 4,328.83
+g) SWM 1,691.20 3,549.00 3,963.54 4,204.37 5,149.65 18,557.76
+Total 3,957.48 7,522.53 7,113.91 7,719.78 9,066.60 35,380.30
+5. Saat Nishchay Yojna Part-2
+a) Multistory Building for
+900.00 2,400.00 2,640.00 2,904.00 3,194.40 12,038.40
+Beggars
+b) Solid & liquid waste
+615.00 1,350.00 1,305.00 1,420.50 1,547.55 6,238.05
+Management
+c) Mokshdham Yojna 450.00 300.00 300.00 330.00 363.00 1,743.00
+d) Storm Water Drainage Scheme 2,310.00 9,575.00 6,232.50 3,519.75 3,596.33 25,233.58
+Total 4,275.00 13,625.00 10,477.50 8,174.25 8,701.28 45,253.03
+Grand Total 12,774.46 28,655.25 25,884.52 25,056.28 27,892.17 1,20,262.68
+152

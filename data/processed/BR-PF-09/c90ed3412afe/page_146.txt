@@ -1,0 +1,70 @@
+Graph: 7.4: Per Capita Expenditure of all 11 Nagar Nigam for (2010-15)
+600
+14
+0 1
+500 0
+79 3 0
+55 40 7
+400 15
+16
+28 46 1 108
+1
+6
+8
+0
+1 5
+11
+9
+0
+3 07 5 13 66 77 3 27
+300 1 21 0 6
+12
+64 18 0
+200 429 410 9 0 55 393
+305 6 0 0 4 6 1 320 291 343 332
+88
+100 208 8
+148
+107 86
+0
+Establishment Exp. Program Exp. O & M Exp.
+Finance & Interest Expenditure Other Revenue Exp.
+(ii) Expenditure of 11 Nagar Nigams (2010-11 Information, IHSDP and Others are high positive
+to 2014-15): Graphs 7.3 and 7.4 based on data and (c) GOI is restructuring its CSSs/ACAs. We
+given in Annex 7.4 show that (a) establishment have, therefore, assumed annual increase of 15%
+expenditure accounts for 77.51% of total over 2015-16 (BE) for 2016-17 and for the
+expenditure and is Rs 332 per capita, (b) subsequent years till 19-20. (See Table 7.20)
+expenditure on Program and O & M is mere 20%
+of the total expenditure and Rs 86 Per capita. 7.7.2 Normative (Principle of Equalization):
+Situation of Ara, Gaya, Bhagalpur and Patna Table 7.22 shows is Forecast of Expenditure for
+Nigams is particularly bad. based on Normative approach in SR14FC i.e.
+7.6.3 Maintenance expenditure of Bihar ULBs providing comparable services at comparable tax
+vs All India: SR14FC has made comparison effort. Following are the assumptions (Table
+between Bihar and All India Municipal 7.21):
+expenditure on Maintenance based on the sample  This is based on SR14FC Report on Municipal
+cities (Table 7.19). It shows that PC Bihar Finances and Service Delivery in India.
+Municipal ‘maintenance head’ expenditure is far  It is assumed that expenditure of the ULBs of
+behind All India. The situation has not improved Bihar would reach atleast All India average of
+between 09-10 and 12-13. 2012-13 in 15-16.
+ Per Capita values 2012-13 of All India ULBs
+7.7 Forecast of Expenditure (2015-2020) Expenditure are taken from SR14FC. It is
+7.7.1 Business - as – usual: It is based on the multiplied by projected Bihar ULB population of
+State Budget and other historical data: Forecast 12-13 and assumed to be Bihar ULBs
+of Expenditure as per CAGR based on the LB expenditure for 2012-13.
+Window for 2011-12 to 2015-16 (BE) can’t be
+ It is further projected for the next 3 subsequent
+realistic; since (a) CAGRs of NGRBA,
+years ( i.e. 13-14, 14-15 and 15-16) with the tier-
+I.D.S.M.T, RAY, EAP are high negative, and (b)
+wise CAGR of All India.
+CAGR of Sanitation & Cleaning, Urban
+Table 7.19: Municipal Revenue Expenditure in sample cities: Maintenance
+Bihar All India
+2009-10 2012-13 2009-10 2012-13
+Amount PC Amount PC Amount PC Amount PC
+Water Supply 0 1 0 1 1655 122 2158 159
+Building 0 1 0 1 178 13 254 18
+Road 1 6 1 8 1395 90 1833 118
+Others 2 14 1 12 5483 376 8717 598
+Source – Municipal Finances and Service Delivery in India, 14th FC Study Report
+117 5th SFC (2015-20)

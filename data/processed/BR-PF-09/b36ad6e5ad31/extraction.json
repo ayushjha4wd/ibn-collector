@@ -1,0 +1,15 @@
+{
+  "raw_path": "data/raw/BR-PF-09/2026-11-13/index__2.html",
+  "raw_sha256": "b36ad6e5ad31cd8b2a0735e13a5c4078447fedd8da80cbf0b438cff221fcefbd",
+  "source_id": "BR-PF-09",
+  "source_url": "https://7thsfc.bihar.gov.in/",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:08:37+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

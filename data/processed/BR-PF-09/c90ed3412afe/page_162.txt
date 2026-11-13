@@ -1,0 +1,68 @@
+Table 9.5: Devolution to the LBs
+15-16 Projections
+Items Total
+(BE) 15-16 16-17 17-18 18-19 19-20
+Divisible Pool (Rs Cr) 29862 29110 35881 44294 54762 67811 232610
+Devolution (%) 8.5 8.5 9 9 9 9 8.5 to 9
+Devolution (Rs Cr) 2540 2475 3230 3985 4930 6105 20790
+Table 9.6: Inter LBs share in the devolved funds (Details in Annex-9.1)
+15-16 16-17 17-18 18-19 19-20 Total
+Devolution 2540 3230 3985 4930 6105 20790
+PRIs 1780 1940 2390 2960 3665 12735
+ULBs 760 1290 1595 1970 2440 8055
+Note: - Amount rounded off to the nearest multiple of 5.
+Table 9.7: Inter PRIs distribution of the devolved funds
+15-16 16-17 17-18 18-19 19-20 Total
+Devolved Funds 1780 1940 2390 2960 3665 12735
+GPs (70%) 1245 1355 1670 2075 2565 8910
+PSs (10%) 180 195 240 295 365 1275
+ZPs (20%) 355 390 480 590 735 2550
+Note: - Amount rounded off to the nearest multiple of 5.
+9.5.4 Inter PRIs: Devolved funds to the PRIs the LBs for the purposes given in Box 9.3 (See
+would be distributed among GP: PS: ZP in the Para 8.9.2 also) in that priority.
+ratio of 70:10:20 (justification given in Para
+9.6 Grants:
+8.11.1). Thus distribution of the devolved funds
+9.6.1 Grants: SOTR of Bihar is low (i.e. 20% of
+for 15-16 to 19-20 among GPs, PSs and ZPs would
+CFS/State Budget) as compared even to the other
+be as given in Table 9.7.
+LISs (Annex-8.5). The recommended devolution
+9.5.5 Allocation of the devolved funds among
+different tiers of the PRIs would be as per Para
+Box 9.1 Distribution of the Devolved funds
+8.11.2 & Table 8.8. Corresponding formula of
+among different tiers of the PRIs
+distribution is given in Box 9.1. Allocation of the
+devolved funds among ZPs and PSs is provided I. Devolved funds to all the LBs = D
+II. Share of the PRI’s (60%) = 0.6*D
+in Annex- 9.2(A) and Annex- 9.2(B)
+III. Share of GP:BP:ZP = (70:10:20)
+respectively.
+(i) All GPs = 0.42*D, (ii) All BPs = 0.06*D,
+9.5.6 Inter & Intra ULBs distribution: The (iii) All ZPs = 0.12*D
+devolved funds for 2015-20 for the ULBs as IV. Each
+projected in Para 9.5.2 would be distributed among ZP(as share of total amount for all ZPs i.e.0.12∗
+the ULBs as per criteria given in Para 8.11.3 and D)= 1 ( 𝑍𝑃𝑝 )+ 1 ( 𝑍𝑃𝑎 )+ 2 ( 𝑍𝑃𝑢𝑑𝑖 )
+2 𝑇𝑝 10 𝑇𝑎 5 𝑇𝑢𝑑𝑖
+Table 8.9 and as formulated in Box 9.2. Detailed V. Each
+BP (as share of total amount for all BPs i.e.0.06∗
+ULB wise distribution of devolved funds is given in
+D)= 1 ( 𝐵𝑃𝑝 )+ 1 ( 𝐵𝑢𝑑𝑖 )
+Annexures 9.3(A), 9.3(B) and 9.3(C).
+2 𝑇𝑝 2 𝑇𝑢𝑑𝑖
+9.5.7 State Govt. has announced conversion of the Where, p = Population, a = Area,
+udi = Under Development Index, T = Total
+GPs with more than 12000 population into Nagar
+VI. Each GP:
+Panchayats. But its implementation may take time
+Step I – Distribute amount available to all the GPs
+and therefore, is not considered in our Report. (i.e. 0.42*D) among the Blocks as per UDI.
+9.5.8 Use of the devolved funds: The devolved Thus Block i gets, 𝐵𝑖=(0.42∗D)[ 𝐵𝑖𝑢𝑑𝑖 ]
+𝑇𝑢𝑑𝑖
+funds would evidently be given to the LBs (which Where, Biudi= UDI of Block i
+are self-governments) as “Block Funds”. The 5th Step II – Each GP in a Block i gets =( 𝐵𝑖 )
+no.of GPs in 𝐵𝑖
+SFC recommends the devolved funds to be used by
+133
+5th SFC (2015-20)

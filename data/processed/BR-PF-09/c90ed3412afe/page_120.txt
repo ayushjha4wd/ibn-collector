@@ -1,0 +1,49 @@
+6.4 Forecast of Revenue: (2015-20): the next five years is given in Table-6.6.
+Sources of revenue of the LBs are given in Box- 6.4.2 Normative approach (based on
+6.2, whereas, Box-6.1 includes possible SR14FC data): As per SR14FC, revenue of the
+methodology for projecting revenue as follows: PRIs in Bihar from internal sources has been near
+zero and they are dependent entirely on FC and
+6.4.1 Business-as-usual: The LB window of
+Scheme transfers. For assessing revenues and
+State Budget has no data on revenue. Own
+computing resource gap, following steps have
+revenues of GPs & PSs are negligible and
+been followed.
+therefore have not been projected. For ZPs, the
+Commission has calculated own revenue based on 6.4.2.1 Own Revenue Sources (ORS):
+ZP, Patna data. i.e., (i) for ZP, Patna: own revenue Step 1: CAGR (2007-2011) of All-India PC ORS
+of Patna ZP for 13-14 and (ii) for other ZPs: 10% taken from SR14FC and used for projecting ORS
+of own revenue of Patna ZP * 37 ZPs with annual for 12-13 to 15-16. (Refer Table-6.7)
+increase of 10%. For State Grant, the Commission Step 2: Projection of PC ORS for Bihar made on
+has projected annual increase of 10% over the the basis of 10% of the projected All-India PC
+base year of 15-16. Accordingly, projection for ORS in 15-16 and then increased by CAGR of
+Table 6.6: Projections of total revenue of the PRIs Rs. Cr.
+Sl. Items 15-16 16-17 17-18 18-19 19-20 15-20
+1 Own Revenue 92 102 112 123 135 564
+2 14th FC Transfers 2269 3554 4097 4729 6368 21017
+3 State Grant 203 223 246 270 297 1239
+Total Revenue ( 1+2+3) 2564 3879 4455 5122 6800 22820
+Table 6.7: All India PC Own Revenue Sources (2007-2015)
+Items Village Level (GP)
+Sl. 1 2 3 4 5 6 7 8
+Year 2007 2011 CAGR 12-13 13-14 14-15 15-16
+Own Revenue 44 64 10 70 77 85 93
+1 Property taxes 22 30 8 33 36 39 42
+2 Other taxes 10 15 11 17 19 21 23
+3 User charges and non-tax 11 18 13 20 23 26 29
+Intermediate Level (PS)
+Own Revenue 11 19 15 22 25 29 34
+1 Property taxes 2 2 -1 2 2 2 2
+2 Other taxes 4 7 15 9 10 11 13
+3 User charges and non-tax 4 10 21 12 14 17 21
+District Level (ZP)
+Own Revenue 44 81 16 94 110 128 149
+1 Property taxes 2 3 0 3 3 3 3
+2 Other taxes 27 52 18 62 73 86 101
+3 User charges and non-tax 14 26 16 30 35 41 47
+Total
+Own Revenue 99 164 13 186 211 240 272
+1 Property taxes 27 35 7 38 40 43 46
+2 Other taxes 42 75 16 87 101 117 136
+3 User charges and non-tax 30 54 16 62 72 83 96
+91 5th SFC (2015-20)

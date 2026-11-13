@@ -1,0 +1,75 @@
+i.e. (a) World Bank and IMF approaches to (b) As per IMF approach, Bihar has decreasing
+compute Total Tax Effort, and (b) Mahesh C trend in Total Tax Effort i.e. 74.85% in 2005-06
+Purohit approach to compute Tax Effort of to 56.78% in 2013-14.
+individual taxes viz. Sales Tax, Excise Duty, (ii) Tax Effort of individual taxes (M C
+Stamp Duty and MV Taxes, which account for Purohit):
+95% of the total tax revenues. a) Sales Tax: Bihar has fluctuating trend in Sales
+Tax Effort i.e. 100% in 2000-01 to 95% in 2009-
+Box 5.8 Formula for computing
+10 and then to 97% in 2013-14. It evidently has a
+relative Tax Effort
+scope to achieve its assessed capacity (100%) and
+(a) World Bank formula for total tax effort further to the highest (104%) among the States.
+using traditional Regression methodology b) Excise Duty: Bihar has shown increasing
+(2012) trend in State Excise Duty Effort i.e. 95% in
+• Tax/GSDP = α + α1*GSDPPC + α2*DEMOG+ 2000-01 to 104% in 2013-14. Though it has
+α3*TRADE + α4*AGRI + α5*GOVERNANCE achieved its assessed capacity (100%), there is
+QUALITY + ɛ,
+still a scope for achieving the level of the highest
+(b) IMF Approach for total tax effort using
+(112%) among the States.
+Stochastic Frontier Model: (2013)
+c) Stamp & Registration Fee: Bihar has already
+Log (Tax/GSDP) = α + β *log (GSDPPC) +
+i t 1 i t
+achieved more than its assessed capacity (100%),
+β *log (GSDP_AGRI) + β *log (PE_Education)
+2 i t 3 i
+reached the level of the highest (106%) among
++ β *log (CPI) + v – u
+t 4 i t i t i t
+the States.
+(c) Mahesh C Purohit formula for individual tax
+efforts (2006) d) Motor Vehicle & Passenger and Goods
+• Sales Tax: log (Sales tax) = a + b* log (GSDP) Tax: Bihar has achieved its assessed capacity
++ɛ, (100%), though there is still a scope to increase
+• Excise Duty: log (Excise) = a + b* log (BEER + its MV Tax Effort to achieve the highest (103%)
+IMFL + C_LIQR) + ɛ, level among the States.
+• Stamp & Registration Fee: log (STAMP_DT) = a
+5.8.3 Scope of raising additional revenue by
++ b*log (GSDP) + ɛ,
+Bihar: Table 5.27 shows that,
+• Motor Vehicle & Passengers and Goods Tax: log
+(a) Additional tax revenue of Rs. 8830 Cr. could
+(MVT_P&GT) = a + b1*log (Multi-axel) + b2*log
+be raised if Bihar achieves the highest level
+(LMV_Goods) + b3*log (Buses) + b4*log (Taxis)
+achieved by a State, as per the World Bank
++ b5*log (LMV_Passenger) + b6*log (2_Wheeler)
+approach.
++ b7*log (Cars) + b8*log (Jeeps) + b9*log (Omni
+Buses) + b10*log (Tractors) + b11*log (Trailers) (b) Additional tax revenue of Rs. 17560 Cr.
++ b12*log (Others) + ɛ. could be raised if Bihar achieves the highest level
+achieved by a State, as per the IMF approach.
+(c) Additional tax revenue of Rs. 1135 Cr. could
+5.8.2 The results at Annex-5.12 show that:
+be raised if Bihar achieves the highest level
+(i) Total Tax Effort (WB/IMF):
+achieved by a State in each of the major
+(a) As per WB approach, Bihar has shown
+individual taxes as per Mahesh C Purohit
+increasing trend in total Tax Effort i.e. from 60%
+approach.
+in 2000-01 to 91% in 2013-14. There is still a
+5.8.4 Incidentally, M C Purohit approach is too
+scope for Bihar to achieve its assessed capacity
+mechanical/simplistic, whereas, WB/IMF
+(i.e. from 91% to 100%) and further to the highest
+approaches capture factors affecting tax effort.
+(129%) among the States.
+Table 5.27: Scope of raising additional revenue by Bihar
+Total Tax Effort (WB) Total Tax Effort (IMF) Sales Tax Excise Duty MV_P&GT
+Target (%) 100 102 129 100 83 100 99 104 112 103
+Gap (Rs. Cr.) 2090 2555 8830 17560 10665 320 195 830 230 75
+83
+5th SFC (2015-20)

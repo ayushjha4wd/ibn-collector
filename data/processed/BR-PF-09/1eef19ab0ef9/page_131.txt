@@ -1,0 +1,32 @@
+supervision and monitoring of schemes in all ULBs. The coverage
+should be universal and Nagar Panchayats should not be left out.
+UDHD would need to initiate concerted action to ensure that the bouquet of
+softwares is deployed swiftly across the State and for this to happen,
+following would need to be done:
+(a) UDHD should identify an existing organisation or create a new
+organisation to develop, own, operate, maintain and propagate a
+comprehensive IT system for ULBs. The organisation should have
+IT professionals with requisite skills and may be designated as the
+ULB IT Agency (ULBITA). UDHD can take a cue from the Kerala
+IT Mission which is an IT organisation created by the Government of
+Kerala exclusively to develop, manage and operate IT system for PRIs
+and ULBs of that State.
+(b) The IT system should have at least the following modules:
+(1) Plan formulation, approval and monitoring
+(2) Online repository of Acts, Rules, Govt orders/ circulars/
+guidelines pertaining to local bodies
+(3) Financial Management System
+(4) Double entry accrual based accounting system
+(5) Revenue and License System
+(6) Payroll and HR System
+(7) Module for recording agenda, minutes and follow-up actions of
+meetings
+(8) Module for Property Tax, Trade Licenses and other revenue
+generating items
+(9) GIS mapping and Asset Register
+(10) Web portal of PRIs
+(ii) Software currently being used has some gaps vis-à-vis requirement
+indicated in preceding sub-paragraph. The missing modules should be
+commissioned and the new modules together with the existing software
+should be integrated in the comprehensive e-Municipality system.
+106

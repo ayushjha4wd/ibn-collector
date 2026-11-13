@@ -1,0 +1,78 @@
+responses from the relevant municipal 10.10.6 GIS Mapping and Fiscal Cadastre:
+departments and agencies. (i). GIS map can vastly improve the coverage
+f. Create framework for public-private ratio of Property Tax. (Box 10.13) It provides
+partnerships and act as arbitrator in disputes. the ULBs with a visual spatial tool for
+10.10.2 Income from Fines and Penalties: identifying the location of properties and
+• The ULBs have obligation of enforcing a preparation of fiscal cadastre, which includes
+large number of Rules and Regulations, with information on each property, viz physical
+provision for fees, fines and penalties. However, description, a notation of ownership and the
+there seems to be apathy in their enforcement. assessed value of land and improvements. Each
+• Collection of funds and penalties should be property would get a unique tax identification
+outsourced u/s 228 (2) of BMA, 2007, since the number and allow a quick tracking of the
+ULBs do not have necessary & skilled staff. properties.
+(ii). Preparation of GIS Base Maps for 29 of the
+10.10.3 Income from Interest on surplus bank
+largest towns of the state has been completed.
+balances:
+These maps show all utilities, landmarks,
+• The ULBs have large bank balances due to the
+property footprints, slums, etc. with 52 layers in
+unutilized grants. For the larger 28 ULBs,
+all and contours at 0.5m interval.
+unutilized sum was Rs. 589 cr and Rs.796 cr as
+These are Patna, Gaya, Muzaffarpur, Bhagalpur,
+of March 31, 2014 and 2015 respectively. Banks
+Begusarai, Purnea, Katihar, Darbhanga,
+should therefore be instructed by the ULBs to
+Munger, Danapur, Phulwarisharif, Khagaul,
+“Auto Sweep” their surplus balances to Fixed
+Motihari, Bettiah, Sitamarhi, Kishanganj,
+Deposits ensuring higher interest rates. This
+Saharsa, Jamalpur, Nawada, Sasaram, Dehri,
+could increase Interest Income by approx Rs 50
+Aurangabad, Bodhgaya, Arrah, Biharsharif,
+cr for all 140 ULBs.
+Hajipur, Chhapra, Siwan and Rajgir.
+• Very large balances in a large number of bank
+(iii). GIS based property survey and
+accounts of BUDA should also change over to
+reconciliation with municipal database is
+“Auto Sweep” practice.
+ongoing in 10 ULBs. Procurement is ongoing
+• The LBs receive money from different source
+for GIS Base Maps for additional 40 towns.
+such as fines, fees, taxes, license permit etc. All
+(iv) GIS based PT systems has led a 2.5 times
+receipts should be credited to the respective
+enhancement in PT potential. (Box 10.11)
+accounts and deposited in their bank accounts
+within 3 days. Accounts staff in the ULBs B o x 1 0 . 1 1 GIS and Property Tax
+should prepare Bank Reconciliation Statements assessment in Purnea, Katihar & Patna ULBs
+regularly and timely.
+• Use of GIS data (offers promising potential)
+10.10.4 Stamp Duty Transfers: to augment PT coverage to near 100%
+Stamp duty is an assigned transfer from State • In Purnea, 76,184 properties were identified
+through GIS survey against the municipal records
+Govt. under section 136 of BMA, 2007. In
+of 29,618 properties. The estimated demand for
+2014-15, such transfers were Rs. 138 crores
+PT post GIS survey in Purnea is Rs. 3.22 crores
+compared to Rs. 105.5 cores in 13-14 for 28
+(excluding tax from Vacant land) against the
+larger ULBs, showing high buoyancy. Income
+current demand of Rs. 1.10 crores.
+from Stamp Duty infact exceeded total Income
+• In Katihar ULB, total holdings increased after
+from Internal sources in 2014-15. GIS mapping from 22,217 to 41,179 and Property
+Tax demand increased from Rs. 3.78 crore to Rs.
+10.10.5 Surcharge on Motor Vehicle Tax:
+9.77 crore, representing 158% increase.
+At least 10% Surcharge on total Motor Vehicle
+• Holdings on Patna would increase from 1.90
+Tax levied and collected by State Gov. should
+lacs to approx 6 lacs post-GIS mapping
+be transferred to the ULBs for maintenance of
+roads within city/towns. Recommendations: It is recommended that GIS
+mapping and property surveys be extended to all
+157
+5th SFC (2015-20)

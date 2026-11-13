@@ -1,0 +1,260 @@
+38
+52-4202
+YF
+52-4202
+YF
+42-3
+202
+YF
+32-2202
+YF
+ytilibaniatsuS
+tnemnorivnE
+neerG
+dna
+edoC
+tegduB
+evitcejbO
+emehcS
+neerG
+lautcA
+.lS
+ecnave
+leR
+tegduB
+tegduB
+tegduB
+neerG
+semehcS
+defiitnedI
+etamitsE
+desiveR
+etamitsE
+tegduB
+etamitsE
+)%001-09(
+detacideD
+ylluF-
+'A'
+yrogetaC
+tnemtrapeDegnahC
+etamilC
+dna
+,tseroF
+,tnemnorivnE
+eht
+noe
+nod
+eb
+lliw krow noitatnalp
+eerT
+5010008106042-91
+,yrtserof
+nabru
+rednU
+.etats eht fo sedisdaor
+00.0
+00.0
+10.0
+16.543
+taT
+htaP(
+mraF
+ediS
+daoR
+9
+lacigolocE
+dna
+ytisrevidoiB
+gnitcennoc
+daor
+eht no detnalp eb lliw
+seert
+)mraF
+noitavresnoC
+sretrauqdaeh
+kcolb/noisivid-bus/tcirtsid
+gninnalP
+dna
+esU
+dnaL
+elbaniatsuS
+,yrtserof-orgA
+rednU
+.daor tixe-y rtne
+rednu
+----------------------------
+eht
+yb seiresrun
+pu gnittes fo krow
+eht
+3010987106042-91
+2
+GDS
+dnal
+eht
+no seert
+fo noitatnalp dna sremraf
+11
+GDS
+,yllanoitiddA
+.enod
+eb lliw meht yb denwo
+00.0
+00.0
+00.0
+57.514
+mraF
+ediS
+daoR
+01
+31
+GDS
+noitirtun
+tnalP
+.depoleved
+eb lliw skrap
+eht
+)mraF
+taT
+htaP(
+51
+GDS
+nworg
+gnieb
+era
+sgnilpaS
+.enod eb lliw
+krow
+----------------------------
+.derutrun
+eb
+lliw hcihw ,yresrun
+eht ni
+noitatnemelpmI
+emmargorP
+9010201106042-91
+00.00001
+00.00001
+00.00001
+23.6763
+la rutaN
+edistuo
+yrtseroF
+11
+eht
+no
+enod
+eb
+lliw krow noitatnalp
+eerT
+aera
+tseroF
+,slanac
+,sdaor
+eht
+edistuo dnal tserof defiiton
+6010987106042-91
+.yrtserof
+nabru rednu sknabrevir
+00.0
+00.0
+00.0
+46.9361
+larutaN
+edistuo
+yrtseroF
+21
+aera
+tseroF
+tnemeganaM
+ecruoseR
+larutaN
+lacigolocE
+dna
+ytisrevidoiB
+noitavresnoC
+gninnalP
+dna
+esU
+d naL
+elbaniatsuS
+eht rednu
+tes slaog eht eveihca
+oT
+1110101106042-91
+----------------------------
+krow
+noitatnalp
+eert ,pamdaoR erutlucirgA
+00.00001
+00.00001
+00.00001
+86.6707
+ilayiraH-naveeJ-laJ
+31
+11
+GDS
+-naveeJ-laJ
+eht
+rednu tuo deirrac eb
+lliw
+nayihbA
+31
+GDS
+.nayihbA ilayiraH
+51
+GDS
+----------------------------
+noitatnemelpmI
+emmargorP
+tnemyolpmE
+dna
+ymonocE
+neerG
+1010211206042-91
+erutcurtsarfnI
+dna
+tnemtsevnI
+neerG
+00.00001
+00.00001
+00.00001
+41.1265
+krap
+dna
+msiruot-ocE
+41
+----------------------------
+tnempoleved
+11
+GDS
+skrap
+wen
+fo ecnanetniam
+dna tnempoleveD
+31
+GDS
+krap
+dna msiruot-oce
+rednu enod eb
+lliw
+51
+GDS
+2010987206042-91
+.krow tnempoleved
+----------------------------
+00.0
+00.0
+00.0
+92.4161
+krap
+dna
+msiruot-ocE
+51
+noitatnemelpmI
+emmargorP
+tnempoleved
+erutcurtsarfnI
+dna
+ygolonhceT

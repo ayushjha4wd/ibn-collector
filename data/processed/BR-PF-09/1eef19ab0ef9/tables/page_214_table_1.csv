@@ -1,0 +1,10 @@
+Criterion,Weight assigned by SFC5,,
+,ZP,PS,"Each GP falling within a particular
+Block would get equal share of
+amount available to all the GPs in
+that particular Block based on the
+Block’s UDI"
+Population,50,50,
+Area,10,0,
+UDI,40,50,
+Total,100,100,

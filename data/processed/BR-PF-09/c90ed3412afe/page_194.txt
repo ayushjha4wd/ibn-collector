@@ -1,0 +1,80 @@
+Table 10.1: Revised administrative and Financial limits • e-procurement: The system enables the
+users to migrate to total electronic procurement
+Municipality & CMC ESC Board
+mode which facilitates procuring Organizations
+Population (Rs Lakhs) (Rs Lakhs) (Rs Lakhs)
+to publish their Tender Enquiries, Corrigendum
+Corporations
+≤. 30 30 to 50 > 50 and Award of Contract details electronically.
+>10 Lakhs
+The primary objective is to provide a single
+Corporations ≤
+≤ 20 20 to 40 > 40
+10 Lakhs point access to information on procurements and
+Municipal facilitate transparency. The ULBs in Bihar are
+≤ 10 10 to 20 > 20
+Councils mandated to follow e-procurement for
+Municipal procurements of goods & services above Rs. 1
+≤ 5 5 to 10 > 10
+Panchayats lakh.
+(ii) Recommendations:
+10.18. Procurement of goods & services • For procuring quality services e.g.
+(i) Followings are the critical steps which make implementation of DEAS, Preparation of Master
+procurement effective:- Plans, CDP, DPRs, GIS maps etc, procurement
+• Terms of Reference (ToR): The ToR should be changed from Least Cost Selection
+should be very specific in defining objectives, (LCS) to Quality cum Cost Based Selection
+scope of works, and tasks to be completed, (QCBS).
+include very specific, measurable, time bound
+• A customized Procurement Manual and
+outputs and provide a payment schedule
+MIS with standard forms and templates should
+‐
+corresponding to the tasks.
+be made available to the ULBs by UDD.
+• Selection of short listed companies and
+• Clear legal procedures should be framed to
+the final bidder: Often the procurer takes the
+implement financial penalties in the event of
+selection as a formality rather than a critical
+poor supplier performance.
+step, fail to find the best candidate and obtain
+• e-Tendering or e-Auction must be used for
+substandard results (such as poor products,
+achieving greater transparency in procurement
+delays, or weak consultant reports etc). The
+processes; and
+selection committee must be comprised of
+• Websites of the ULBs and UDD should be
+experts and experienced members.
+used for making procurement information
+• Lowest evaluated bidder: The LBs need to
+available to all interested parties.
+be wary about selecting a contractor offering an
+unrealistically low price. Experience suggests • Regular testing and price benchmarking
+that such a contractor will attempt to increase should be done to ensure achievement of value
+the bid price through a series of change orders for money.
+or will provide goods or services below • All procurement should be made generally
+specified quality. Therefore, for obtaining with 5 years’ Annual Maintenance Contract
+quality services, procurement should be changed (AMC) and wherever possible, follow DGS&D
+from Least Cost Selection (LCS) to Quality Cost system.
+Based Selection (QCBS) basis.
+10.19. Accountability and Transparency:
+• Accountability: Ensure that officials
+10.19.1 Involving community:
+undertaking such tasks carry out their
+i) Involving communities in setting key
+responsibilities with due diligence that is owed
+performance Indicators and reporting back to
+to both the LBs and the people
+communities on performance, enhances
+• Contracting: The procurer LB must prepare
+accountability of the LBs and public trust in the
+its own contract (hiring a good lawyer, if
+local government system;
+needed), must ensure the best conditions and
+ii) A monthly e-newsletter be issued by the
+protect its own interest.
+LBs to stay in touch with and keep updated its
+citizens about all progress and initiatives.
+165
+5th SFC (2015-20)
