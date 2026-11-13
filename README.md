@@ -5,7 +5,7 @@ files untouched, and record where and when each file came from. The manifest cov
 all 41 sources in the Bihar catalogue (IDs match `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`),
 plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`DM-11`).
 
-**Final report (13 Nov 2026): [REPORT.md](REPORT.md). Handbook (PDF): [docs/IBN_Bihar_Data_Handbook.pdf](docs/IBN_Bihar_Data_Handbook.pdf). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
+**Final report (13 Nov 2026): [REPORT.md](REPORT.md). Detailed book (PDF): [docs/IBN_Bihar_Data_Book.pdf](docs/IBN_Bihar_Data_Book.pdf). Short handbook: [docs/IBN_Bihar_Data_Handbook.pdf](docs/IBN_Bihar_Data_Handbook.pdf). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
 
 ## Quick start
 
@@ -21,7 +21,10 @@ python scripts/extract.py              # build machine-readable copies
 python scripts/ocr.py                  # OCR scanned PDF pages (needs tesseract + poppler-utils)
 python scripts/verify.py               # confirm originals are unchanged; writes inventory.csv
 python scripts/analyse.py              # describe every file; writes data/analysis/ (files.csv, summary.json, FILES.md)
-python scripts/make_handbook.py        # build docs/IBN_Bihar_Data_Handbook.pdf from the analysis
+python scripts/insights.py             # analysis-ready figures, traced to source pages (data/analysis/insights/)
+python scripts/book_charts.py          # charts for the book (docs/charts/)
+python scripts/make_book.py            # build docs/IBN_Bihar_Data_Book.pdf (detailed)
+python scripts/make_handbook.py        # build docs/IBN_Bihar_Data_Handbook.pdf (short)
 ```
 
 Run `bash tests/run_test.sh` to check everything works offline (fake portal on localhost; the summary line gives the number of checks).
