@@ -5,6 +5,8 @@ files untouched, and record where and when each file came from. The first manife
 covers 24 Bihar-priority sources from the Bihar catalogue (IDs match
 `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`).
 
+**Results of the first run (13 Nov 2026): see [REPORT.md](REPORT.md).**
+
 ## Quick start
 
 ```bash
