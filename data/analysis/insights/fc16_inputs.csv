@@ -1,0 +1,6 @@
+measure,unit,bihar,all_states,bihar_share_pct,source
+"Population, Census 2011",million,104.099452,1178.190321,8.84,Horizontal_Devolution.xlsx (16th FC datasets)
+Population estimate 2023-24,million,127.855181,1357.344857,9.42,Horizontal_Devolution.xlsx (16th FC datasets)
+Area,'000 sq km,94.163,3054.265,3.08,Horizontal_Devolution.xlsx (16th FC datasets)
+Comparable GSDP 2023-24,Rs crore,869530.0,28112310.0,3.09,Horizontal_Devolution.xlsx (16th FC datasets)
+GSDP per person 2023-24,Rs,68009,207113,32.8,computed from the rows above
