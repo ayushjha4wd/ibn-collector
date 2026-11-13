@@ -1,0 +1,38 @@
+EXECUTIVE SUMMARY
+The Sample Registration System (SRS) is the largest demographic survey in the
+country mandated to provide annual estimates of fertility as well as mortality indicators
+at the State and National level. The present Report contains data on fertility and
+mortality indicators for the year 2017 for India and bigger States/UTs. The estimates
+are segregated by residence and also by gender, wherever required.
+2. The salient features of the report are as summarized below.
+ The Crude Birth Rate(CBR) at the National level during 2017 stands at 20.2
+exhibiting a decline of 0.2 points over 2016. The maximum CBR has been
+reported in Bihar (26.4) and the minimum in Kerala (14.2).
+ There has been a decline of 1.4 points in the CBR for the country from 2012 to
+2017. The corresponding decline in rural CBR is1.3 points and in urban CBR
+0.6 points.
+ The Crude Death Rate (CDR) for the country is 6.3 in 2017.The maximum
+CDR has been reported for Chhattisgarh (7.5) and the minimum for Delhi (3.7).
+ During last five years, the decline in National CDR has been to the tune of 0.7
+points. The corresponding decline in female CDR is 0.5 points whereas in male
+CDR it is 1.0 points.
+ The Infant Mortality Rate (IMR) has also registered 1 point decline to 33 in
+2017 from 34 in 2016 at the National level. The maximum IMR has been
+observed in Madhya Pradesh (47) and the minimum in Kerala (10).During the
+corresponding period, Neo-natal Mortality Rate (NNMR) has declined by 1
+point.
+ IMR for the country has come down to 33 in 2017 from 42 in 2012, a decline of
+9 points over last 5 years and an annual average decline of about 1.8 points.
+The corresponding decline in rural IMR has been to the tune of 9 points (46 in
+2012 to 37 in 2017) against a decline of 5 points in urban IMR (28 in 2012 to
+23in 2017). Both the gender have shown decline in the period 2012-17.
+ Despite this decline, one in every 30 infants at the National level, one in every
+27 infants in rural areas and one in every 43 infants in urban areas still die
+within one year of life.
+ In 2017, U5MR for the country has shown a decline of 2 points over 2016 (37
+in 2017 against 39 in 2016). There has been a decline of 1 point in male U5MR
+and 2 points in female U5MR during the period.
+ Sex Ratio at Birth for the country has gone down by 2 points to 896 in 2015-
+2017 from 898 in 2014-2016.Chhattisgarh has reported the highest Sex Ratio at
+Birth (961) while Haryana, the lowest (833).
+xxvii

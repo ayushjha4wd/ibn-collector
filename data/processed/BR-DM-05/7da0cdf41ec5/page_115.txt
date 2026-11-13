@@ -1,0 +1,36 @@
+3.23 Values of the age specific marital fertility rates for the year 2016 in bigger States/UTs
+are given below in Statement 28. It is observed that the age pattern of marital fertility is almost
+similar to the pattern of age specific fertility. The marital fertility in the age group 15-19 is
+lesser than national average in 14 bigger States/UTs viz. Andhra Pradesh, Delhi, Gujarat,
+Haryana, Jharkhand, Karnataka, Kerala, Maharashtra, Punjab, Rajasthan, Tamil Nadu,
+Telangana, Uttarakhand and West Bengal. There is significant decline in marital fertility for
+women aged 30 years onwards, for all major States.
+Statement 28
+ASMFRs (Age Specific Marital Fertility Rates), India and bigger States/UTs,
+2016
+India and bigger 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+States/UTs
+India 286.6 313.4 206.4 99.4 34.9 12.2 4.6
+Andhra Pradesh 255.5 307.4 152.7 45.5 13.6 5.0 3.7
+Assam 334.0 267.4 212.0 102.1 43.5 6.9 4.9
+Bihar 381.8 358.5 272.9 171.3 56.0 13.8 2.9
+Chhattisgarh 430.9 386.9 222.0 91.4 34.0 7.8 3.1
+Delhi 277.6 308.6 187.9 80.2 22.8 9.5 2.6
+Gujarat 257.0 326.5 213.4 86.2 29.6 11.3 3.1
+Haryana 196.8 312.2 229.4 93.2 15.6 8.0 3.5
+Himachal Pradesh 336.6 268.0 166.2 68.7 28.3 7.3 1.8
+Jammu & Kashmir 290.4 302.4 225.0 137.0 53.4 28.7 12.7
+Jharkhand 256.3 324.8 214.6 123.4 50.5 21.2 6.5
+Karnataka 233.1 247.3 183.0 76.1 21.6 5.4 2.5
+Kerala 226.2 244.4 168.4 87.7 25.5 4.8 0.7
+Madhya Pradesh 350.1 346.1 258.5 102.0 40.6 13.3 4.2
+Maharashtra 203.6 270.0 179.2 69.6 22.1 6.0 4.2
+Odisha 286.7 280.8 188.6 88.3 30.4 13.4 3.9
+Punjab 175.4 288.5 182.1 84.2 29.7 12.9 6.3
+Rajasthan 221.9 328.8 208.4 109.1 42.9 14.3 4.0
+Tamil Nadu 232.3 262.6 166.0 72.5 18.7 3.7 1.5
+Telangana 262.3 306.3 181.8 61.7 16.0 3.1 3.3
+Uttar Pradesh 407.6 422.9 264.5 165.4 64.1 29.5 11.1
+Uttarakhand 175.3 280.3 205.9 85.5 27.9 10.0 4.8
+West Bengal 264.9 229.0 112.5 46.8 15.1 6.3 2.3
+90

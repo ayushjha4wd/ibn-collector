@@ -1,0 +1,48 @@
+Estimation procedure
+1.18 Estimates of population, births, deaths and infant deaths for natural division in
+rural areas for bigger States and at State level for smaller States separately for rural/urban
+areas for all States/UTs are obtained using unbiased method of estimation. The estimates
+of birth, death and infant death rates are obtained as the ratios of the ‘estimated births to
+estimated population’, ‘estimated deaths to estimated population’ and ‘estimated infant
+deaths to estimated births’ respectively expressed in terms of per thousand.
+Organization
+1.19 From 1995, the SRS is being implemented mainly through the Directorates of
+Census Operations in both rural and urban areas. However, in the States of Kerala and
+Maharashtra the implementation of field work and their monitoring for rural units has
+been entrusted to the Directorate of Economics & Statistics of the respective State
+Government and the urban units to the Directorate of Census Operations.
+1.20 For continuous enumeration, there is a resident part-time enumerator for each of
+the sample unit, who is usually an anganwadi worker/teacher and is paid honorarium for
+this work. The independent retrospective half-yearly surveys are carried out by the
+full-time supervisors who are the regular staff of the State Directorate of Census
+Operations. One supervisor is usually assigned a set of 10 to 12 sample units for
+conducting half-yearly surveys. Each State headquarters have a complement of staff
+necessary for planning and organizing various field operations, imparting training to the
+field staff, effecting proper supervision and control, ensuring regular flow of returns from
+the field, forwarding of various returns to the Office of the Registrar General, India and
+for undertaking certain minimum tabulations.
+1.21 At the National level, the Vital Statistics Division of the office of the Registrar
+General, India coordinates the implementation work, formulates and prescribes necessary
+standards, provides necessary instructions and guidance, undertakes tabulation, analysis
+and dissemination of data.
+Training and Supervision
+1.22 Before the commencement of work, requisite training is imparted to the
+enumerators to make them understand their role and responsibility. This is followed by
+trainings at periodic intervals to clarify the doubts and also to keep the enumerators update
+with the improvements introduced in the system from time to time. Besides, they are also
+provided with a manual of instructions translated into regional languages for day-to-day
+consultation to remove the difficulties in course of work. Supervisors are also given
+necessary training with a view to enabling them to carry out the half-yearly surveys
+properly and efficiently. They are also provided with a manual of instructions for this
+purpose. In addition, various State officials associated with the implementation of the SRS
+are also given necessary training. There is a manual for the staff of the State headquarters
+which provides detailed instructions and guidance with regard to the various stages of
+work involved at the State level. The manual is very comprehensive and covers all
+aspects of the system.
+1.23 Supervision of the field work is an important component of SRS. The
+supervisory level officials such as the Investigator, Assistant Director, Deputy Director,
+Joint Director and Director undertake this. Officers at the State headquarters undertake
+visits to sample units and inspect the work at the field level. Officers of Vital Statistics
+Division in the headquarters also undertake surprise checks and visits in SRS units for
+quality control.
+7

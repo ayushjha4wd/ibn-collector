@@ -1,0 +1,39 @@
+2.6 Percentage share of population in the selected age groups for bigger States/UTs by
+residence and sex are given in Statements 4 to 7. Statement 4 gives the percentage of population
+below 5 years of age. At the National level, 6.8 percent population in urban areas constitutes
+below 5 years of age as against 8.6 percent for rural areas. Sex differences in the share of child
+population at the national level are negligible both in rural and urban areas. The difference in the
+share of male child population to female child is maximum (about 1 percent higher) in rural areas
+of Uttarakhand. Among the bigger States/UTs, the percentage of child population in rural areas
+varies from 5.3 in Telangana to 11.9 in Bihar. In urban areas, such variation is from 5.4 in
+Himachal Pradesh to 10.6 in Uttarakhand. Chart 4 shows the pictorial presentation of percentage
+of child population for bigger States/UTs.
+Statement 4
+Percentage of Population in the age group 0-4 years to Total Population by sex and residence, India
+and bigger States/UTs, 2018
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 8.0 8.2 7.8 8.6 8.8 8.4 6.8 6.9 6.6
+Andhra Pradesh 5.6 5.6 5.7 5.8 5.7 5.8 5.4 5.4 5.4
+Assam 8.8 8.9 8.6 9.1 9.3 9.0 6.9 6.9 6.8
+Bihar 11.5 11.8 11.2 11.9 12.1 11.6 9.1 9.4 8.9
+Chhattisgarh 9.0 9.1 9.0 9.5 9.5 9.4 7.6 7.7 7.5
+Delhi 6.5 6.6 6.5 6.5 6.0 7.1 6.5 6.6 6.5
+Gujarat 7.5 7.7 7.2 7.9 8.2 7.6 6.9 7.1 6.7
+Haryana 8.2 8.5 7.9 8.6 9.0 8.1 7.6 7.7 7.4
+Himachal Pradesh 6.2 6.4 6.0 6.3 6.5 6.1 5.4 5.3 5.5
+Jammu & Kashmir 6.4 6.6 6.2 6.8 7.0 6.7 5.6 5.9 5.3
+Jharkhand 9.1 9.2 8.9 9.8 10.0 9.6 6.9 7.0 6.8
+Karnataka 7.2 7.4 7.1 7.3 7.5 7.2 7.0 7.2 6.9
+Kerala 6.7 7.1 6.3 6.9 7.2 6.6 6.4 6.9 5.9
+Madhya Pradesh 9.4 9.4 9.4 9.9 9.8 9.9 8.1 8.2 7.9
+Maharashtra 7.6 7.9 7.4 8.3 8.6 7.9 6.9 7.0 6.8
+Odisha 7.3 7.4 7.1 7.4 7.5 7.2 6.9 6.9 6.8
+Punjab 6.1 6.2 6.0 6.2 6.3 6.2 5.9 6.0 5.7
+Rajasthan 9.2 9.5 8.9 9.7 10.1 9.3 7.7 7.8 7.6
+Tamil Nadu 6.3 6.4 6.1 6.8 7.0 6.6 5.8 5.9 5.7
+Telangana 5.9 6.1 5.7 5.3 5.3 5.2 6.9 7.2 6.5
+Uttar Pradesh 8.5 8.7 8.2 9.0 9.3 8.7 6.9 7.1 6.6
+Uttarakhand 10.5 10.9 10.2 10.5 11.0 10.1 10.6 10.6 10.6
+West Bengal 7.0 7.1 6.9 7.5 7.7 7.4 5.7 5.8 5.7
+15

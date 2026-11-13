@@ -1,0 +1,39 @@
+4.9 Statement 44 given below provides the per cent distribution of deaths by broad
+age groups for India and bigger States/UTs. At the National level, 11.9 per cent of the
+deaths are of infant deaths (<1 year) whereas 53.7 percent of the deaths pertain to
+persons aged 60 years and above. Toddlers (1-4 years) accounts for 1.5 per cent of the
+deaths. The percentage of infant deaths to total deaths varies from a low 2.6 per cent in
+Kerala to a high of 20.2 per cent in Bihar. Percentage contribution of deaths from
+person’s 60 years and above varies from 47.8 in Madhya Pradesh to 70.7 in Kerala. The
+percentage distribution of deaths to total deaths, by residence, sex and age-group at the
+National level and for the bigger States/UTs are given in Table 10.
+Statement 44
+Per cent distribution of deaths by broad age groups, India and bigger States/UTs,
+2015
+India and bigger Broad age-groups
+States/UTs <1 1-4 0-4 5-14 15-59 60+
+India 11.9 1.5 13.4 2.0 30.9 53.7
+Andhra Pradesh 8.8 0.4 9.2 1.0 36.1 53.8
+Assam 14.7 3.7 18.4 3.2 29.4 48.9
+Bihar 20.2 2.2 22.4 1.9 24.4 51.3
+Chhattisgarh 12.6 1.8 14.4 1.3 31.8 52.4
+Delhi 8.3 0.9 9.3 0.8 35.5 54.5
+Gujarat 11.2 1.6 12.7 2.3 33.2 51.7
+Haryana 12.5 2.0 14.5 1.2 32.2 52.1
+Himachal Pradesh 10.3 0.6 11.0 1.0 25.0 63.0
+Jammu & Kashmir 8.6 0.5 9.1 1.4 32.6 56.9
+Jharkhand 13.1 2.3 15.3 2.5 29.4 52.7
+Karnataka 7.5 0.8 8.3 1.8 33.1 56.7
+Kerala 2.6 0.2 2.9 0.8 25.7 70.7
+Madhya Pradesh 16.8 3.2 20.0 2.4 29.7 47.8
+Maharashtra 5.8 0.8 6.6 2.0 33.1 58.3
+Odisha 11.6 2.0 13.6 2.4 29.5 54.5
+Punjab 5.6 0.9 6.4 1.6 35.3 56.7
+Rajasthan 16.1 2.1 18.3 1.9 29.5 50.3
+Tamil Nadu 4.1 0.3 4.4 1.8 32.5 61.3
+Telangana 9.2 0.1 9.3 1.0 35.0 54.7
+Uttar Pradesh 17.0 1.4 18.4 2.4 30.6 48.7
+Uttarakhand 9.4 1.5 11.0 1.2 31.0 56.9
+West Bengal 6.8 0.9 7.7 1.4 31.5 59.3
+Note: Total may not add up to 100 due to rounding off.
+133

@@ -1,0 +1,40 @@
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2011
+Rajasthan
+Indicators Total Rural Urban
+Child mortality rate 15 16 9
+Under-five mortality rate 64 70 38
+Infant mortality rate 52 57 32
+Neo-natal mortality rate 37 41 19
+Early neo-natal mortality rate 29 32 14
+Late neo-natal mortality rate 8 9 5
+Post neo-natal mortality rate 15 15 13
+Peri-natal mortality rate 34 38 19
+Still birth rate 5 6 5
+Table 8
+Age-specific death rate by sex and residence, 2011
+Tamil Nadu
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 22.3 21.3 23.4 25.0 24.4 25.7 18.9 17.4 20.5
+1-4 0.7 0.5 0.9 0.9 0.6 1.2 0.5 0.4 0.5
+0-4 5.0 4.7 5.4 5.6 5.2 6.1 4.2 4.0 4.5
+5-9 0.5 0.6 0.5 0.7 0.7 0.7 0.3 0.4 0.2
+10-14 0.5 0.5 0.5 0.6 0.5 0.8 0.2 0.4 0.0
+15-19 1.4 1.3 1.5 1.3 1.0 1.6 1.5 1.6 1.4
+20-24 1.7 2.0 1.5 1.9 1.8 2.0 1.4 2.2 0.8
+25-29 1.9 2.2 1.6 2.0 2.3 1.7 1.7 2.2 1.4
+30-34 1.9 2.2 1.7 2.4 2.6 2.2 1.4 1.7 1.1
+35-39 2.1 3.0 1.3 2.9 4.4 1.5 1.2 1.4 1.0
+40-44 4.2 5.1 3.4 4.5 5.4 3.7 3.9 4.8 2.9
+45-49 5.6 8.3 2.9 6.4 8.7 4.2 4.7 7.9 1.3
+50-54 8.1 11.5 4.6 8.3 11.9 4.5 7.9 10.9 4.8
+55-59 12.1 15.8 9.0 12.1 16.3 8.9 12.1 15.2 9.2
+60-64 19.0 22.5 15.5 20.8 27.0 14.8 16.6 16.8 16.4
+65-69 31.8 38.7 25.4 38.4 45.7 31.7 21.6 28.0 15.7
+70-74 48.3 57.9 39.7 52.6 64.2 41.9 42.4 48.9 36.9
+75-79 69.6 75.0 65.0 69.4 78.1 62.0 69.9 70.2 69.7
+80-84 97.2 98.5 96.2 97.1 105.2 89.4 97.4 88.8 104.3
+85+ 155.6 162.1 150.9 137.1 141.8 133.8 186.0 194.6 179.5
+All ages 7.4 8.3 6.4 8.1 9.2 6.9 6.4 7.1 5.7
+(Crude death rate)

@@ -1,0 +1,37 @@
+4.12 The percentage change in the average level of infant mortality between 2005-07
+and 2015-17 is given below in Statement 47. During this period, IMR, at the National
+level, declined by 39.2 percent. Among the bigger States/UTs, the decline varies from
+52.4 percent in Jammu & Kashmir to 21.4 percent in Uttarakhand. In the rural areas,
+decline in IMR varies from 52.8 percent in Jammu & Kashmir to 27.5 percent in
+Kerala. In urban areas, the highest decline in IMR during the period has been 55.3
+percent in Tamil Nadu.
+Statement 47
+Percent change in average Infant Mortality Rates between 2005-07 and 2015-17
+by residence, India and bigger States/UTs
+India and Total Rural Urban
+Bigger States/UTs 2005- 2015- % 2005- 2015- % 2005- 2015- %
+07 17 Change 07 17 Change 07 17 Change
+India 57.1 34.7 -39.2 62.2 38.6 -37.9 38.7 23.9 -38.2
+Andhra Pradesh* 55.8 32.8 -41.2 61.9 36.8 -40.5 38.3 24.6 -35.8
+Assam 67.0 45.0 -32.8 69.6 47.4 -31.9 40.8 22.7 -44.4
+Bihar 59.6 38.6 -35.2 60.9 39.1 -35.8 45.5 34.6 -24.0
+Chhattisgarh 61.1 39.4 -35.5 62.9 41.2 -34.5 50.3 31.5 -37.4
+Delhi 36.0 17.4 -51.7 42.0 21.2 -49.5 35.0 17.0 -51.4
+Gujarat 52.8 31.2 -40.9 61.6 38.3 -37.8 36.4 20.6 -43.4
+Haryana 57.4 33.0 -42.5 61.9 35.4 -42.8 44.8 27.4 -38.8
+Himachal Pradesh 48.5 25.0 -48.5 50.2 25.3 -49.6 23.6 17.2 -27.1
+Jammu & Kashmir 51.0 24.3 -52.4 53.4 25.2 -52.8 38.4 22.0 -42.7
+Jharkhand 49.1 30.2 -38.5 51.9 32.1 -38.2 32.2 22.5 -30.1
+Karnataka 48.2 25.5 -47.1 53.4 27.9 -47.8 36.5 21.4 -41.4
+Kerala 14.1 10.5 -25.5 14.9 10.8 -27.5 11.4 10.3 -9.6
+Madhya Pradesh 74.0 47.8 -35.4 78.6 51.4 -34.6 51.9 32.9 -36.6
+Maharashtra 35.1 19.6 -44.2 41.4 24.1 -41.8 25.7 13.8 -46.3
+Odisha 73.1 43.6 -40.4 75.5 45.2 -40.1 53.1 33.9 -36.2
+Punjab 43.8 21.5 -50.9 48.0 23.2 -51.7 36.1 18.9 -47.6
+Rajasthan 66.6 40.9 -38.6 73.2 44.9 -38.7 41.3 28.2 -31.7
+Tamil Nadu 36.4 17.4 -52.2 38.9 20.3 -47.8 32.9 14.7 -55.3
+Uttar Pradesh 71.1 43.4 -39.0 74.8 46.0 -38.5 52.3 34.4 -34.2
+Uttarakhand 44.3 34.8 -21.4 54.5 34.9 -36.0 21.9 34.5 57.5
+West Bengal 57.1 24.9 -34.1 39.6 25.3 -36.1 30.0 22.8 -24.0
+* Andhra Pradesh includes Telangana.
+142

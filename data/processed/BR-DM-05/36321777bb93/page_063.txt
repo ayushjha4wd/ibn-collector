@@ -1,0 +1,29 @@
+3.10 Changes in the average level of GFR between 2000-2002 and 2010-2012 for India and
+bigger States are shown below in Statement 19. At the all India level, a decline of 18.0 per cent
+in GFR has been registered during the decade and it varies from 18.0 per cent in rural to 16.0
+per cent in urban areas. Among the bigger States, the percentage decline in GFR varies from
+25.5 in Punjab to 10.1 in Kerala.
+Statement 19
+Percent change in average GFR (General fertility rate) between
+2000-02 and 2010-12 by residence, India and bigger States
+India and bigger Total Rural Urban
+States 2000- 2010- % 2000- 2010- % 2000-2010- %
+02 12 Change 02 12 Change 02 12 Change
+India 99.8 81.8 -18.0 109.1 89.5 -18.0 74.4 62.5 -16.0
+Andhra Pradesh 78.0 61.9 -20.6 80.9 64.3 -20.5 69.8 56.5 -19.1
+Assam 100.9 82.8 -17.9 105.6 88.6 -16.1 63.3 51.9 -18.0
+Bihar 133.8 110.6 -17.3 138.9 115.6 -16.8 98.2 78.5 -20.1
+Gujarat 94.3 84.3 -10.6 103.5 91.5 -11.6 76.3 67.2 -11.9
+Haryana 106.5 81.2 -23.8 112.7 86.4 -23.3 85.2 70.0 -17.8
+Himachal Pradesh 75.8 57.6 -24.0 77.2 59.7 -22.7 59.2 38.1 -35.6
+Karnataka 80.3 66.3 -17.4 86.8 70.9 -18.3 66.2 58.5 -11.6
+Kerala 59.5 53.5 -10.1 60.4 54.1 -10.4 57.0 51.6 -9.5
+Madhya Pradesh 128.1 103.7 -19.0 140.5 112.6 -19.9 85.1 72.4 -14.9
+Maharashtra 80.0 62.1 -22.4 84.0 67.4 -19.8 73.9 55.8 -24.5
+Odisha 89.0 73.0 -18.0 91.7 76.9 -16.1 69.6 50.8 -27.0
+Punjab 79.9 59.5 -25.5 84.6 62.1 -26.6 66.8 55.4 -17.1
+Rajasthan 129.0 102.5 -20.5 136.9 109.3 -20.2 94.5 82.3 -12.9
+Tamil Nadu 67.8 56.3 -17.0 71.2 58.1 -18.4 61.2 54.0 -11.8
+Uttar Pradesh 140.3 108.2 -22.9 147.9 114.1 -22.9 107.4 85.5 -20.4
+West Bengal 76.8 58.5 -23.8 86.8 65.6 -24.4 49.7 40.3 -18.9
+40

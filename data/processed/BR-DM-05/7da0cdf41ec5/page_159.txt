@@ -1,0 +1,36 @@
+4.10 The percentage share of infant deaths to total deaths by residence is shown below
+in Statement 45 for India and bigger States/UTs. At the National level, such share in the
+year 2016 is 10.9 percent and varies from 12.2 percent in rural areas to 7.4 percent in
+urban areas. In rural areas, Kerala registered 2.0, the lowest percentage share of infant
+deaths as compared to 17.9 in Madhya Pradesh. In urban areas, the variation is from 1.8
+percent in Kerala to 14.1 percent in Uttar Pradesh.
+Statement 45
+Percentage of Infant Deaths to total deaths by residence
+India and bigger States/UTs, 2016
+India and bigger
+Total Rural Urban
+States/UTs
+India 10.9 12.2 7.4
+Andhra Pradesh 8.1 8.2 7.8
+Assam 14.0 14.9 6.7
+Bihar 16.8 17.6 11.2
+Chhattisgarh 12.0 12.6 9.2
+Delhi 6.8 9.1 6.8
+Gujarat 10.1 12.8 5.9
+Haryana 11.5 12.3 9.7
+Himachal Pradesh 3.9 4.0 2.7
+Jammu & Kashmir 7.7 8.3 6.2
+Jharkhand 12.0 13.1 8.1
+Karnataka 6.4 6.4 6.3
+Kerala 1.9 2.0 1.8
+Madhya Pradesh 16.4 17.9 11.1
+Maharashtra 5.2 5.6 4.4
+Odisha 10.5 11.0 7.6
+Punjab 5.2 5.3 4.9
+Rajasthan 16.5 17.6 12.3
+Tamil Nadu 4.1 4.3 3.8
+Telangana 8.8 8.8 9.0
+Uttar Pradesh 16.5 17.1 14.1
+Uttarakhand 9.4 9.8 7.9
+West Bengal 6.6 7.6 4.3
+135

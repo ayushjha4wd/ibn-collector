@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2016
+Haryana
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 39.7 39.4 40.0 43.3 41.2 46.1 31.9 35.2 28.4
+1-4 1.6 1.0 2.3 2.0 1.4 2.7 0.7 0.0 1.5
+0-4 9.2 8.6 9.9 10.3 9.5 11.2 6.8 6.5 7.2
+5-9 0.6 0.4 0.9 0.5 0.4 0.6 0.9 0.4 1.6
+10-14 0.7 0.8 0.7 0.8 0.7 1.0 0.5 0.8 0.0
+15-19 1.0 0.7 1.4 1.3 0.9 1.7 0.5 0.3 0.7
+20-24 1.3 1.7 0.9 1.7 2.0 1.3 0.6 1.1 0.0
+25-29 1.9 2.3 1.3 2.5 2.8 2.2 0.8 1.5 0.0
+30-34 2.5 3.2 1.6 2.4 2.7 1.9 2.7 4.1 1.0
+35-39 2.4 3.4 1.2 2.5 3.7 1.2 2.1 3.0 1.2
+40-44 4.2 5.7 2.6 5.2 7.1 3.1 2.5 3.2 1.8
+45-49 4.8 5.8 3.7 6.2 7.8 4.3 2.6 2.6 2.7
+50-54 7.4 7.9 6.9 9.0 9.8 8.1 5.2 5.1 5.2
+55-59 9.9 11.5 8.3 11.0 13.7 8.5 8.3 8.6 8.0
+60-64 21.3 24.5 17.9 20.0 24.0 15.8 23.6 25.3 21.6
+65-69 27.0 30.9 23.0 29.5 36.3 22.8 22.6 21.9 23.3
+70-74 43.9 58.7 29.8 43.3 59.4 28.1 45.1 57.1 33.7
+75-79 46.9 55.4 38.7 38.9 46.7 31.5 65.4 75.0 55.8
+80-84 83.1 98.5 67.5 79.5 96.3 62.2 90.6 103.3 78.3
+85+ 182.3 214.0 156.0 166.0 175.6 156.8 235.7 395.2 153.9
+All ages 5.9 6.5 5.2 6.3 7.0 5.5 5.1 5.5 4.5
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2016
+Haryana
+Indicators Total Rural Urban
+Child mortality rate 9 10 7
+Under-five mortality rate 37 41 29
+Infant mortality rate 33 35 27
+Neo-natal mortality rate 22 24 16
+Early neo-natal mortality rate 16 18 11
+Late neo-natal mortality rate 6 6 5
+Post neo-natal mortality rate 11 11 11
+Peri-natal mortality rate 21 23 17
+Still birth rate 5 5 6
+275

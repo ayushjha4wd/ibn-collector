@@ -56,6 +56,7 @@ echo "== run 3 (portal publishes a revised PDF)"
 python3 "$HERE/make_fixtures.py" "$SITE" 2 >/dev/null
 $C >/dev/null
 check "revised PDF saved as new version, old kept" '[ "$(find $IBN_ROOT/data/raw -name "Vital_Stats_2023*.pdf" | wc -l)" = 4 ]'
+check "--resume skips file rows already saved" '$C --resume --dry-run | grep -q "Resuming: 1 file row(s) already saved"'
 
 echo "== manual registration"
 echo "fake tabled report" > "$WORK/report.pdf"

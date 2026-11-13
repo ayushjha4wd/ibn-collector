@@ -1,0 +1,39 @@
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2011
+Uttar Pradesh
+Indicators Total Rural Urban
+Child mortality rate 18 19 14
+Under-five mortality rate 73 77 54
+Infant mortality rate 57 60 41
+Neo-natal mortality rate 40 43 23
+Early neo-natal mortality rate 30 32 17
+Late neo-natal mortality rate 10 11 5
+Post neo-natal mortality rate 17 17 18
+Peri-natal mortality rate 35 37 21
+Still birth rate 5 6 4
+Table 8
+Age-specific death rate by sex and residence, 2011
+West Bengal
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 34.6 32.1 37.4 36.4 33.3 39.8 27.4 27.0 27.9
+1-4 1.6 1.8 1.5 1.9 2.1 1.7 0.7 0.7 0.7
+0-4 7.8 7.5 8.1 8.4 8.0 8.7 5.5 5.4 5.6
+5-9 0.5 0.7 0.3 0.6 0.8 0.3 0.3 0.5 0.0
+10-14 0.9 0.6 1.1 1.0 0.8 1.2 0.4 0.0 0.9
+15-19 1.0 0.9 1.1 1.0 0.8 1.2 1.1 1.2 1.1
+20-24 1.2 1.3 1.2 1.4 1.6 1.3 0.7 0.3 1.1
+25-29 1.5 1.8 1.3 1.5 1.6 1.3 1.7 2.2 1.1
+30-34 1.8 2.4 1.2 1.7 2.2 1.3 2.1 2.9 1.1
+35-39 2.0 2.5 1.6 2.2 2.6 1.8 1.6 2.3 1.0
+40-44 3.1 4.1 2.1 3.3 4.2 2.2 2.8 3.9 1.8
+45-49 4.2 5.3 3.0 4.0 4.7 3.2 4.7 6.5 2.6
+50-54 7.4 8.6 5.7 7.9 8.5 7.0 6.5 8.8 3.3
+55-59 11.0 13.7 8.9 11.1 14.0 9.0 10.8 13.1 8.7
+60-64 19.3 20.9 17.4 21.0 23.2 18.3 15.8 16.2 15.3
+65-69 32.0 34.7 29.0 37.4 40.3 34.4 20.9 23.7 17.8
+70-74 48.6 54.6 43.0 49.1 56.5 42.7 47.8 51.5 43.9
+75-79 70.3 76.5 64.9 72.6 76.1 69.6 65.9 77.2 55.1
+80-84 101.9 121.7 84.3 101.9 110.4 94.5 101.8 142.0 65.8
+85+ 172.4 177.7 168.5 168.6 158.7 176.7 178.7 213.7 156.2

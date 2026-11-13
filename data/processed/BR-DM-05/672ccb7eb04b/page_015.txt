@@ -1,0 +1,37 @@
+38. Percent change in average GFR (General Fertility Rate) between, 65
+2006-08 and 2016-18 by residence, India and bigger States/UTs
+39. ASFRs (Age-specific fertility rates) by residence, India, 2018 67
+40 Age specific fertility rates, India: 2006-08 and 2016-18 69
+41 Per cent change in age specific fertility rates between 2006-08 and 70
+2016-18, India -RURAL
+42 Per cent change in age specific fertility rates between 2006-08 and 71
+2016-18, India -URBAN
+43 Per cent change in age specific fertility rates by residence between 72
+2006-08 and 2016-18, India
+44. Per cent distribution of cumulative fertility by residence, 2018 75
+45. Mean age of fertility, India and bigger states/UTs, 2018 77
+46. TFR (Total fertility rate) by residence, India and bigger States/UTs, 79
+2018
+47. Distribution of bigger States/UTs by values of TFR (Total fertility 80
+rate) for rural and urban areas, 2018
+48. Total fertility rate (TFR) between 2006-08 and 2016-18, India and 82
+bigger States/UTs
+49. Total fertility rate (TFR) between 2006-08 and 2016-18, India and 83
+bigger States/UTs - RURAL
+50. Total fertility rate (TFR) between 2006-08 and 2016-18, India and 84
+bigger States/UTs - URBAN
+51. Per cent change in average Total fertility rate (TFR) between 2006-08 85
+and 2016-18 by residence, India and bigger States/UTs
+52. Gross reproduction rate (GRR) by residence, India and bigger 87
+states/UTs, 2018
+53. Age specific marital fertility rates (ASMFRs) by residence, India, 89
+2018
+54. Total marital fertility rate (TMFRs) by residence, India and bigger 92
+states/UTs, 2018
+55. Average Total Marital fertility rate (TMFR) between 2006-08 and 94
+2016-18, India and bigger States/UTs
+56. Average Total Marital fertility rate (TMFR) between 2006-08 and 95
+2016-18, India and bigger States/UTs -RURAL
+57. Average Total Marital fertility rate (TMFR) between 2006-08 and 96
+2016-18, India and bigger States/UTs - URBAN
+xv

@@ -1,0 +1,36 @@
+2.7 Percentage of population of age less than 15 years for India and bigger States/UTs by
+sex and residence is given below in Statement 5. At the National level, 28.1 percent of rural
+population in the year 2017 is below 15 years of age against 23.1 percent for urban areas.
+Percentage of population below 15 years of age in rural areas varies from 20.2 in Andhra
+Pradesh to 35.6 in Bihar. In urban areas, it varies from 18.2 in Jammu & Kashmir to 29.7 in
+Bihar. Chart 5 gives the pictorial presentation of percentage of persons below 15 years of age
+for bigger States/UTs by residence.
+Statement 5
+Percentage of Population in the age group 0-14 years to Total Population by sex and
+residence, India and bigger States/UTs, 2017
+India and bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 26.5 27.0 25.9 28.1 28.6 27.5 23.1 23.7 22.5
+Andhra Pradesh 20.2 20.3 20.1 20.2 20.4 20.1 20.2 20.3 20.0
+Assam 28.1 28.5 27.8 29.4 29.8 29.0 20.9 21.1 20.8
+Bihar 34.8 35.2 34.4 35.6 36.0 35.2 29.7 29.9 29.4
+Chhattisgarh 28.7 28.9 28.4 29.7 29.8 29.6 25.3 25.9 24.8
+Delhi 24.4 24.4 24.3 23.9 23.6 24.4 24.4 24.4 24.3
+Gujarat 25.5 26.2 24.8 27.0 27.7 26.3 23.7 24.5 22.8
+Haryana 26.7 27.7 25.4 27.6 28.5 26.4 25.2 26.4 23.7
+Himachal Pradesh 22.4 23.5 21.3 22.6 23.8 21.4 20.5 20.5 20.5
+Jammu & Kashmir 21.7 22.3 21.0 23.3 23.9 22.6 18.2 18.9 17.5
+Jharkhand 30.2 30.8 29.5 31.7 32.5 30.8 25.5 25.6 25.4
+Karnataka 23.7 24.2 23.2 23.9 24.4 23.4 23.4 23.9 22.9
+Kerala 21.7 23.3 20.3 22.2 23.8 20.7 21.2 22.8 19.8
+Madhya Pradesh 30.0 30.1 29.8 31.3 31.2 31.3 26.4 27.2 25.6
+Maharashtra 24.5 25.2 23.7 26.4 27.2 25.5 22.2 22.7 21.6
+Odisha 24.4 24.6 24.1 24.8 25.0 24.6 22.5 22.9 22.1
+Punjab 21.2 21.9 20.3 21.4 22.2 20.4 20.8 21.4 20.2
+Rajasthan 29.5 30.5 28.5 30.8 31.8 29.7 25.8 26.7 25.0
+Tamil Nadu 21.0 21.5 20.4 22.4 23.0 21.7 19.7 20.1 19.3
+Telangana 21.3 21.7 21.0 20.4 20.7 20.1 22.8 23.2 22.4
+Uttar Pradesh 29.5 30.1 29.0 30.8 31.3 30.3 25.6 26.3 24.9
+Uttarakhand 29.6 30.6 28.5 30.3 31.6 28.9 27.7 28.0 27.4
+West Bengal 23.0 23.2 22.9 24.8 24.9 24.6 19.1 19.2 19.1
+17

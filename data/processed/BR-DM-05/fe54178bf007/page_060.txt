@@ -1,0 +1,39 @@
+2.14 Statement 11 given below presents the marital distribution of female population
+age 15 years and above by residence. At the National level, 68.1 percent of married
+females exists in age 15+ and 68.6 percent comes under rural areas. Among the bigger
+States/UTs, percentage of such married female varies from 61.3 in Jammu & Kashmir to
+72.1 in Haryana. The percentage of never married female varies from 18.6 in Kerala to
+29.2 in Uttar Pradesh. The maximum percentage of Widowed/Divorced/Separated females
+is 12.1 in Kerala and the minimum 4.7 in Haryana. Chart 17, 18 and 19 shows the
+distribution of female population aged 15 year and above by marital status of India and
+bigger States/UTs for Total, Rural and Urban areas respectively.
+Statement 11
+Percentage distribution of Female age 15+ by Marital Status and residence
+India and bigger States/UTs, 2015
+India and Never married Married W/D/S
+bigger States/UTs Total Rural Urban Total Rural Urban Total Rural Urban
+India 23.9 23.5 24.7 68.1 68.6 67.1 8.0 7.9 8.2
+Andhra Pradesh 19.8 18.7 22.7 70.8 71.6 69.0 9.3 9.8 8.4
+Assam 25.4 25.3 25.9 67.0 67.3 65.5 7.6 7.4 8.5
+Bihar 25.6 25.4 26.6 69.8 70.2 67.3 4.6 4.4 6.1
+Chhattisgarh 23.2 22.5 25.2 66.9 67.1 66.1 9.9 10.3 8.7
+Delhi 27.2 25.1 27.3 65.9 68.0 65.8 6.9 6.9 6.9
+Gujarat 21.3 20.8 22.0 69.4 69.7 69.1 9.3 9.5 9.0
+Haryana 23.2 22.9 23.7 72.1 72.5 71.3 4.7 4.6 5.0
+Himachal Pradesh 21.3 20.8 26.4 68.7 68.8 66.9 10.1 10.4 6.7
+Jammu & Kashmir 32.4 32.6 31.8 61.3 61.3 61.4 6.3 6.1 6.8
+Jharkhand 25.5 25.1 26.7 67.8 68.3 66.4 6.7 6.7 6.9
+Karnataka 23.1 22.5 24.1 66.3 65.7 67.3 10.6 11.8 8.6
+Kerala 18.6 18.4 18.8 69.3 70.3 68.2 12.1 11.3 13.0
+Madhya Pradesh 23.0 21.8 26.1 69.3 70.5 66.4 7.7 7.7 7.6
+Maharashtra 23.1 22.4 24.1 68.4 69.2 67.4 8.4 8.3 8.5
+Odisha 25.5 25.4 26.2 64.6 64.8 63.9 9.9 9.9 9.9
+Punjab 24.6 24.3 24.9 69.0 68.8 69.2 6.5 6.9 5.8
+Rajasthan 22.1 21.5 23.6 70.9 71.5 69.3 7.0 7.0 7.1
+Tamil Nadu 21.4 21.4 21.4 68.4 67.5 69.2 10.2 11.1 9.5
+Telangana 23.4 21.9 25.9 67.7 68.1 67.2 8.9 10.0 6.9
+Uttar Pradesh 29.2 28.2 32.3 65.3 66.4 62.0 5.5 5.4 5.8
+Uttarakhand 27.0 26.3 28.9 63.3 63.3 63.3 9.7 10.4 7.8
+West Bengal 19.0 18.6 19.8 71.2 72.1 69.3 9.8 9.2 10.9
+Note: Total may not add to 100 due to rounding off. W/D/S- Widowed/Divorced/Separated
+35

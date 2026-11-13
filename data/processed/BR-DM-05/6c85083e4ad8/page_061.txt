@@ -1,0 +1,29 @@
+3.10 Changes in the average level of GFR between 2001-2003 and 2011-2013 for India and
+bigger States are shown below in Statement 19. At the all India level, a decline of 17.8 per cent
+in GFR has been registered during the decade and it varies from 17.6 per cent in rural to 15.9
+per cent in urban areas. Among the bigger States, the percentage decline in GFR varies from
+25.3 in Punjab to 7.9 in Kerala.
+Statement 19
+Percent change in average GFR (General Fertility Rate) between
+2001-03 and 2011-13 by residence, India and bigger States
+India and bigger Total Rural Urban
+States 2001- 2011- % 2001- 2011- % 2001- 2011- %
+03 13 Change 03 13 Change 03 13 Change
+India 97.3 80.0 -17.8 106.0 87.3 -17.6 72.9 61.3 -15.9
+Andhra Pradesh 76.1 61.4 -19.3 78.9 63.7 -19.3 68.1 56.3 -17.3
+Assam 98.4 80.7 -18.0 102.9 86.2 -16.2 62.0 51.1 -17.6
+Bihar 129.7 107.4 -17.2 134.4 112.1 -16.6 95.1 76.6 -19.5
+Gujarat 93.4 82.6 -11.6 102.8 89.7 -12.7 74.7 65.7 -12.0
+Haryana 104.9 79.6 -24.1 110.8 84.5 -23.7 84.2 69.0 -18.1
+Himachal Pradesh 73.9 56.3 -23.8 75.2 58.3 -22.5 58.2 37.4 -35.7
+Karnataka 79.2 64.8 -18.2 85.4 69.1 -19.1 65.4 57.5 -12.1
+Kerala 58.3 53.7 -7.9 59.2 54.6 -7.8 55.5 50.8 -8.5
+Madhya Pradesh 124.9 101.4 -18.8 136.5 110.1 -19.3 83.3 70.6 -15.2
+Maharashtra 78.0 61.2 -21.5 81.5 66.5 -18.4 72.6 54.6 -24.8
+Odisha 86.2 71.1 -17.5 88.7 74.8 -15.7 68.3 49.7 -27.2
+Punjab 77.9 58.2 -25.3 82.3 60.5 -26.5 65.4 54.4 -16.8
+Rajasthan 125.5 99.6 -20.6 132.8 106.0 -20.2 92.5 80.6 -12.9
+Tamil Nadu 66.4 55.8 -16.0 69.4 57.5 -17.1 60.3 53.7 -10.9
+Uttar Pradesh 136.1 104.5 -23.2 143.1 109.9 -23.2 105.6 83.3 -21.1
+West Bengal 75.1 56.8 -24.4 84.3 63.5 -24.7 49.4 39.3 -20.4
+40

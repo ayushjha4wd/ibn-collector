@@ -1,0 +1,39 @@
+3.16 The difference in the pattern of child bearing can be measured in terms of the mean age
+of fertility, which describes the age pattern of fertility of synthetic cohort of hypothetical group
+of women viewed as having, in their lifetime, similar fertility experience recorded in a calendar
+year. The mean age of fertility has been calculated from the age specific fertility rates. The
+associated standard deviations are also shown. The States having lower values of standard
+deviation [obviously] recorded higher concentration of fertility about the mean age as
+compared to those with higher values. Statement 23 below shows the mean age of fertility for
+India and bigger States. At the National level, the mean age of fertility is 26.9 years and varies
+from 24.2 years in West Bengal to 28.7 years in Jammu & Kashmir and Uttar Pradesh with
+standard deviation 5.7, 5.2, 5.2 and 6.3 respectively.
+Statement 23
+Mean age of Fertility and associated Standard Deviation,
+India and bigger States, 2014
+India and bigger Mean age of fertility Standard deviation
+States Total Rural Urban Total Rural Urban
+India 26.9 26.9 27.1 5.7 5.8 5.7
+Andhra Pradesh 25.3 25.2 25.8 4.8 4.7 4.9
+Assam 25.8 25.8 26.6 5.4 5.3 5.6
+Bihar 27.8 27.7 28.8 5.5 5.4 6.4
+Chhattisgarh 26.3 26.4 26.2 5.7 5.8 5.4
+Delhi 26.8 26.1 26.8 4.9 4.7 4.9
+Gujarat 26.7 26.3 27.5 5.3 5.1 5.5
+Haryana 26.4 26.0 27.2 5.0 4.5 5.7
+Himachal Pradesh 26.2 26.1 27.0 4.5 4.5 4.5
+Jammu & Kashmir 28.7 28.9 28.3 5.2 5.3 5.1
+Jharkhand 28.3 28.4 27.9 6.6 6.6 6.5
+Karnataka 26.0 25.3 27.2 5.1 4.4 5.9
+Kerala 26.4 26.2 26.5 4.7 4.6 4.8
+Madhya Pradesh 26.6 26.4 27.3 5.8 5.9 5.7
+Maharashtra 25.6 24.7 26.8 4.9 4.4 5.5
+Odisha 27.4 27.4 27.1 5.9 5.9 6.0
+Punjab 27.0 26.6 27.7 5.1 4.8 5.5
+Rajasthan 26.9 27.1 26.5 6.1 6.2 5.8
+Tamil Nadu 25.9 25.4 26.3 5.2 4.9 5.4
+Telangana 26.4 26.4 26.4 5.5 5.6 5.2
+Uttar Pradesh 28.7 28.7 28.6 6.3 6.3 6.1
+Uttarakhand 27.3 27.1 28.0 5.2 5.2 5.3
+West Bengal 24.2 24.1 25.0 5.2 5.1 5.2
+47

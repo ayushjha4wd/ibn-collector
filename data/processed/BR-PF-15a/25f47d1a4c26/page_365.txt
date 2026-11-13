@@ -1,0 +1,36 @@
+AnnexeS—GeneRAL InDICATORS (GI)
+Annex-GI.1: Area, Forest Area, Population, Sex Ratio, Urbanization Rate and Literacy Rate as
+per Census 2011 and FSI 2019
+SN Name of the State Area Population Sex Urbanization Literacy Forest Area
+(’000 sq km) (million) (females per (%) (%) (sq km)
+1000 males)
+1 Andhra Pradesh 162.923 49.577 993 33.5 67.0 29137
+2 Arunachal Pradesh 83.743 1.384 938 22.7 65.4 66688
+3 Assam 78.438 31.206 958 14.1 72.2 28327
+4 Bihar 94.163 104.099 918 11.3 61.8 7306
+5 Chhattisgarh 135.192 25.545 991 23.2 70.3 55611
+6 Goa 3.702 1.459 973 62.2 88.7 2237
+7 Gujarat 196.244 60.440 919 42.6 78.0 14857
+8 Haryana 44.212 25.351 879 34.8 75.6 1602
+9 Himachal Pradesh 55.673 6.865 972 10.0 82.8 15434
+10 Jammu & Kashmir 222.236 12.541 889 27.2 67.2 23612
+11 Jharkhand 79.716 32.988 949 24.1 66.4 23611
+12 Karnataka 191.791 61.095 973 38.6 75.4 38575
+13 Kerala 38.852 33.406 1084 47.7 94.0 21144
+14 Madhya Pradesh 308.252 72.627 931 27.6 69.3 77482
+15 Maharashtra 307.713 112.374 929 45.2 82.3 50778
+16 Manipur 22.327 2.856 985 30.2 79.2 16847
+17 Meghalaya 22.429 2.967 989 20.1 74.4 17119
+18 Mizoram 21.081 1.097 976 51.5 91.3 18006
+19 Nagaland 16.579 1.979 931 29.0 79.6 12486
+20 Odisha 155.707 41.974 979 16.7 72.9 51619
+21 Punjab 50.362 27.743 895 37.5 75.8 1849
+22 Rajasthan 342.239 68.548 928 24.9 66.1 16630
+23 Sikkim 7.096 0.611 890 25.0 81.4 3342
+24 Tamil Nadu 130.060 72.147 996 48.5 80.1 26364
+25 Telangana 112.122 35.004 0 0.0 N.A 20582
+26 Tripura 10.486 3.674 960 26.2 87.2 7726
+27 Uttar Pradesh 240.928 199.812 912 22.3 67.7 14806
+28 Uttarakhand 53.483 10.086 963 30.6 78.8 24303
+29 West Bengal 88.752 91.276 950 31.9 76.3 16902
+All States/India 3276.501 1190.732 943 31.1 73.0 704982

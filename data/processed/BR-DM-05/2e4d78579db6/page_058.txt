@@ -1,0 +1,31 @@
+3.8 The Statement 17 below presents the sex ratio for the age group 0-4. The sex ratio
+for the age group 0-4 for all India is 914. It varies from 916 in rural areas to 908 in urban
+areas. The maximum sex ratio of 1018 has been estimated in Chhattisgarh and the
+minimum of 836 in Haryana. For rural areas, the minimum sex ratio of 833 has been
+observed in Punjab and the maximum, 1035 in Chhattisgarh. In the urban areas, the
+maximum sex ratio is observed in West Bengal (970) and the minimum, in Haryana (831).
+Statement 17
+Sex ratio of child (age group 0-4), India and bigger States, 2009-2011
+India and bigger States Total Rural Urban
+India 914 916 908
+Andhra Pradesh 943 951 926
+Assam 935 933 955
+Bihar 920 920 921
+Chhattisgarh 1018 1035 928
+Delhi 881 865 885
+Gujarat 895 912 864
+Haryana 836 837 831
+Himachal Pradesh 942 942 938
+Jammu & Kashmir 872 875 859
+Jharkhand 915 920 891
+Karnataka 946 951 938
+Kerala 961 965 949
+Madhya Pradesh 934 935 928
+Maharashtra 900 898 904
+Odisha 947 949 930
+Punjab 850 833 879
+Rajasthan 880 882 872
+Tamil Nadu 943 940 946
+Uttar Pradesh 878 877 886
+West Bengal 971 971 970
+36

@@ -1,0 +1,39 @@
+2.12 Persons below 10 years of age, in the SRS, are being treated as unmarried. Marital
+distribution of population would be more meaningful if such percentages are worked out
+for persons of age 10 years and above. Statement 9 given below provides percentage
+distribution of population for age 10 years and above by marital status and sex for India
+and bigger States/UTs. At the National level, the percent share of married population is
+57.1. Among the bigger States/UTs Uttarakhand (52.4) recorded the lowest percentage of
+married population whereas the highest percentage was recorded for Andhra Pradesh
+(62.5). Chart 11, 12 and 13 shows the distribution of population aged 10 year and above
+by marital status of India and bigger States/UTs for Person, Male and Female respectively.
+Statement 9
+Percentage distribution of Population age 10+ by Marital Status and sex
+India and bigger States/UTs, 2015
+India and bigger Never married Married W/D/S
+States/UTs Total Male Female Total Male Female Total Male Female
+India 38.4 43.8 32.6 57.1 54.1 60.3 4.5 2.1 7.1
+Andhra Pradesh 31.9 37.0 26.7 62.5 60.4 64.8 5.5 2.6 8.6
+Assam 40.4 45.7 34.7 55.4 52.5 58.7 4.2 1.8 6.7
+Bihar 42.1 46.7 37.1 55.1 51.6 59.0 2.8 1.7 3.9
+Chhattisgarh 37.1 41.4 32.7 57.2 55.8 58.6 5.7 2.8 8.7
+Delhi 40.3 44.5 35.6 55.9 53.7 58.3 3.8 1.8 6.1
+Gujarat 35.2 40.2 29.9 59.5 57.3 61.9 5.3 2.5 8.3
+Haryana 38.1 43.8 31.4 59.1 54.5 64.4 2.8 1.7 4.2
+Himachal Pradesh 34.2 40.0 28.6 60.0 57.7 62.2 5.8 2.3 9.1
+Jammu & Kashmir 43.2 47.5 38.4 52.9 50.3 55.9 3.9 2.2 5.7
+Jharkhand 41.1 46.2 35.5 55.3 52.1 58.7 3.7 1.7 5.8
+Karnataka 38.0 45.2 30.4 56.4 53.0 60.1 5.6 1.8 9.6
+Kerala 32.9 40.9 25.6 60.6 57.6 63.3 6.5 1.5 11.1
+Madhya Pradesh 38.7 43.8 33.2 56.7 53.5 60.1 4.6 2.7 6.7
+Maharashtra 37.7 43.6 31.2 57.8 54.6 61.2 4.5 1.8 7.5
+Odisha 38.3 42.8 33.7 56.2 54.9 57.5 5.5 2.3 8.8
+Punjab 37.8 43.5 31.2 58.2 54.2 62.9 4.0 2.4 5.9
+Rajasthan 37.2 42.4 31.6 58.9 55.8 62.2 3.9 1.8 6.2
+Tamil Nadu 34.8 40.9 28.4 59.4 56.6 62.3 5.9 2.5 9.3
+Telangana 36.1 41.5 30.5 58.8 56.3 61.5 5.0 2.2 8.0
+Uttar Pradesh 43.9 48.8 38.6 52.6 48.9 56.6 3.5 2.3 4.8
+Uttarakhand 42.3 48.8 35.6 52.4 49.0 55.9 5.3 2.2 8.5
+West Bengal 33.7 39.8 27.2 61.2 58.5 64.0 5.2 1.7 8.8
+Note: Total may not add to 100 due to rounding off. W/D/S- Widowed/Divorced/Separated
+27

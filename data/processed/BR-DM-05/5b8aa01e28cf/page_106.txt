@@ -1,0 +1,35 @@
+4.17 The death rates for children below age 5 by residence are given below in
+Statement 52 separately for males and females. At the National level, child mortality rate
+is estimated at 10.6 and it varies from 12.1 in rural areas to 6.4 in urban areas. Among the
+bigger States, this varies from 2.7 in Kerala to 15.7 in Madhya Pradesh. The female
+children have higher death rates than male children in all States except in Tamil Nadu,
+Gujarat, Himachal Pradesh and Bihar.
+Statement 52
+Estimated Death Rates for Children aged 0-4 years by sex and residence
+India and bigger States, 2014
+India and bigger Total Rural Urban
+States Total Male Female Total Male Female Total Male Female
+India 10.6 10.0 11.2 12.1 11.5 12.8 6.4 6.1 6.7
+Andhra Pradesh 10.3 10.1 10.6 11.3 11.3 11.4 7.7 7.1 8.3
+Assam 14.9 14.2 15.7 16.0 15.3 16.9 6.0 5.8 6.3
+Bihar 12.2 12.4 12.1 12.6 12.7 12.5 9.0 9.2 8.6
+Chhattisgarh 11.7 10.4 13.0 12.5 10.9 14.1 8.4 8.5 8.3
+Delhi 4.6 4.3 5.0 8.8 7.7 10.0 4.5 4.2 4.8
+Gujarat 10.0 10.2 9.8 12.6 13.0 12.1 6.3 6.2 6.4
+Haryana 9.3 8.8 9.8 10.4 9.5 11.5 7.2 7.6 6.6
+Himachal Pradesh 10.8 13.2 8.2 11.2 13.6 8.6 5.4 7.7 2.8
+Jammu & Kashmir 8.2 7.8 8.5 8.6 8.0 9.4 6.6 7.3 5.7
+Jharkhand 10.1 9.2 11.2 11.1 9.9 12.4 5.9 6.0 5.7
+Karnataka 6.9 6.6 7.2 7.8 7.4 8.2 5.3 5.2 5.4
+Kerala 2.7 2.4 3.1 2.9 2.4 3.4 2.6 2.3 2.9
+Madhya Pradesh 15.7 14.2 17.3 17.9 16.4 19.6 8.3 7.3 9.4
+Maharashtra 4.5 4.5 4.6 5.2 5.1 5.4 3.2 3.2 3.2
+Odisha 13.3 12.9 13.8 14.5 13.9 15.2 7.1 7.7 6.4
+Punjab 6.3 5.5 7.2 7.0 6.1 8.3 5.1 4.6 5.5
+Rajasthan 12.2 11.2 13.4 13.6 12.3 15.1 7.4 7.2 7.6
+Tamil Nadu 4.5 4.6 4.3 5.3 5.5 5.0 3.6 3.7 3.6
+Telangana 9.7 9.2 10.2 12.0 11.7 12.4 6.6 6.1 7.1
+Uttar Pradesh 15.6 14.4 17.0 16.5 15.4 17.8 11.8 10.4 13.5
+Uttarakhand 5.7 5.2 6.3 5.7 5.3 6.2 5.7 4.8 6.7
+West Bengal 6.0 5.5 6.6 6.6 5.9 7.4 4.2 4.5 4.0
+83

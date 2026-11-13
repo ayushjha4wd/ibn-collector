@@ -1,0 +1,36 @@
+2.7 Percentage of population of age less than 15 years for India and bigger States/UTs by
+sex and residence is given below in Statement 5. At the National level, 28.9 percent of rural
+population in the year 2015 is below 15 years of age against 23.9 percent for urban areas.
+Percentage of population below 15 years of age in rural areas varies from 20.8 in Andhra
+Pradesh and Telengana to 35.6 in Bihar. In urban areas, it varies from 17.7 in Jammu &
+Kashmir to 30.2 in Bihar. Chart 5 gives the pictorial presentation of percentage of persons
+below 15 years of age for bigger States/UTs by residence.
+Statement 5
+Percentage of Population in the age group 0-14 years to Total Population by sex and
+residence, India and bigger States/UTs, 2015
+India and bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 27.3 27.9 26.7 28.9 29.4 28.3 23.9 24.5 23.3
+Andhra Pradesh 21.0 21.1 20.8 21.0 21.2 20.8 20.9 21.1 20.7
+Assam 28.8 29.1 28.4 30.1 30.5 29.7 21.5 21.8 21.3
+Bihar 34.9 35.2 34.5 35.6 36.0 35.2 30.2 30.5 29.9
+Chhattisgarh 29.2 29.3 29.0 30.3 30.3 30.3 25.8 26.4 25.2
+Delhi 26.1 26.0 26.2 25.3 25.1 25.6 26.1 26.0 26.2
+Gujarat 26.2 27.0 25.4 27.8 28.6 27.0 24.2 25.1 23.3
+Haryana 27.1 28.2 25.8 28.0 29.0 26.7 25.6 26.8 24.2
+Himachal Pradesh 23.3 24.5 22.0 23.4 24.8 22.1 21.3 21.5 21.1
+Jammu & Kashmir 22.4 23.1 21.7 24.0 24.6 23.3 17.7 18.4 16.9
+Jharkhand 30.5 31.0 30.0 32.0 32.6 31.3 26.0 26.1 26.0
+Karnataka 24.6 25.3 23.8 24.8 25.5 24.1 24.2 24.9 23.4
+Kerala 22.3 23.9 20.8 22.7 24.2 21.2 21.9 23.6 20.4
+Madhya Pradesh 30.4 30.6 30.1 31.7 31.8 31.6 26.8 27.4 26.0
+Maharashtra 25.4 26.2 24.6 27.3 28.1 26.3 23.0 23.6 22.4
+Odisha 25.9 26.0 25.7 26.4 26.5 26.2 23.3 23.7 22.8
+Punjab 22.0 22.8 21.1 22.4 23.3 21.2 21.6 22.1 21.0
+Rajasthan 30.2 31.2 29.0 31.5 32.6 30.3 26.3 27.3 25.4
+Tamil Nadu 21.9 22.4 21.4 23.2 23.9 22.5 20.7 21.0 20.4
+Telangana 22.0 22.5 21.6 21.1 21.5 20.8 23.5 24.0 23.0
+Uttar Pradesh 30.6 31.1 30.0 31.9 32.4 31.3 26.6 27.3 25.8
+Uttarakhand 29.9 30.9 28.9 30.6 31.9 29.3 28.0 28.2 27.7
+West Bengal 23.9 24.0 23.8 25.7 25.8 25.6 19.8 19.8 19.8
+17

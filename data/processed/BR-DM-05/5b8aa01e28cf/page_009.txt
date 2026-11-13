@@ -1,0 +1,35 @@
+Page
+30 Percentage change in average Total Marital Fertility rate (TMFR) 56
+between 2002-04 and 2012-14 by residence, India and bigger
+States
+31 Percentage female population in the age group 15-49 by level of 57
+education, India and bigger States, 2014
+32 GFR (General fertility rate) by level of education of women, India 58
+and bigger States, 2014
+33 ASFR (Age specific fertility rate) by level of education of women 59
+and residence, India, 2014
+34 TFR (Total fertility rate) by level of education of women, India 60
+and bigger States, 2014
+35 Percentage distribution of current live births by birth order, India 62
+and bigger States, 2014
+36 Percentage distribution of current live births by birth order and 63
+residence, India and bigger States, 2014
+37 Percentage distribution of second and higher order live births by 64
+interval, India and bigger States, 2014
+38 Percentage distribution of second and higher order live births by 65
+interval and residence, India and bigger States, 2014
+39 Percentage distribution of live births by type of medical attention 66
+received by the mother at delivery by residence, India and bigger
+States, 2014
+Mortality Indicators
+40 CDR (Crude death rate) by residence, India and bigger States, 68
+2014
+41 Percentage change in average crude death rate between 2002-04 70
+and 2012-14, by residence, India and bigger States
+42 CDR (Crude death rate) by sex and residence, India, 2014 72
+43 CDR (Crude death rate) by sex, India and bigger States, 2014 72
+44 Percentage distribution of deaths by broad age groups, India and 73
+bigger States, 2014
+45 Percentage of infant deaths to total deaths by residence, India and 74
+bigger States, 2014
+xi

@@ -1,0 +1,49 @@
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+2 Hazaribagh Plateau 347 02 Chatra
+349 04 Giridih
+350 05 Deoghar
+351 06 Godda
+352 07 Sahibganj
+353 08 Pakur
+354 09 Dhanbad
+355 10 Bokaro
+360 15 Hazaribagh
+361 16 Ramgarh
+362 17 Dumka
+363 18 Jamtara
+348 03 Kodarma
+21 Odisha 1 Coastal 377 08 Baleshwar
+378 09 Bhadrak
+379 10 Kendrapara
+380 11 Jagatsinghapur
+381 12 Cuttack
+382 13 Jajapur
+385 16 Nayagarh
+386 17 Khordha
+387 18 Puri
+2 Southern 388 19 Ganjam
+389 20 Gajapati
+390 21 Kandhamal
+391 22 Baudh
+392 23 Subarnapur
+393 24 Balangir
+394 25 Nuapada
+395 26 Kalahandi
+396 27 Rayagada
+397 28 Nabarangapur
+398 29 Koraput
+399 30 Malkangiri
+3 Northern 370 01 Bargarh
+371 02 Jharsuguda
+372 03 Sambalpur
+373 04 Debagarh
+374 05 Sundargarh
+375 06 Kendujhar
+376 07 Mayurbhanj
+383 14 Dhenkanal
+384 15 Anugul
+329

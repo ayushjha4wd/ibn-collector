@@ -1,0 +1,23 @@
+RAJASTHAN RJ
+RJ-5
+RJ-4.C: Outstanding Debt as % of GSDP RJ-4.D: Committed Expenditure as a % of Revenue
+Expenditure
+Note: Committed expenditure includes salaries, interest
+payments, and pensions
+RJ-4.E: OTR as % of GSDP RJ-4.F: NTR as % of GSDP
+RJ-4.G: Capital Expenditure to GSDP Ratio RJ-4.H: Key Fiscal Indicators—State vs GS
+Fiscal indicators (2018–19) State GS
+Per Capita GSDP in Rs per annum 1,23,343 1,41,099
+Indicators as a percentage of GSDP
+TRR 14.6 13.4
+OTR 6.1 6.4
+NTR 2.0 1.1
+TE 19.9 16.1
+ES 5.0 3.1
+SS 7.0 5.4
+GS 5.8 4.7
+Committed Expenditure 9.7 5.8
+Capital Expenditure 2.2 2.5
+FD 3.7 2.5
+RD 3.1 0.2
+OD 33.0 25.0

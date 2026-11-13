@@ -1,0 +1,35 @@
+Birth interval
+3.34 The percentage distribution of second and higher order live births by interval
+between current and previous live birth is shown below in Statement 38 for India and bigger
+States for the year 2013. At the National level, 1.8 per cent of the live births occur within
+one year from the previous live birth. Such percentage varies from 0.2 in Kerala to 2.9 in
+Chhattisgarh. The percentage of births beyond three years of birth interval from the
+previous live birth for India is 40.7. It varies from 31.0 in Madhya Pradesh to 65.9 in
+Kerala.
+Statement 38
+Percentage distribution of second and higher order live births by interval,
+India and bigger States, 2013
+India and bigger States Interval between current and previous live birth ( in months)
+10-12 12-24 24-36 36+
+India 1.8 28.0 29.5 40.7
+Andhra Pradesh 0.9 33.3 31.0 34.8
+Assam 1.5 17.8 22.9 57.8
+Bihar 1.4 32.6 30.8 35.2
+Chhattisgarh 2.9 26.0 33.5 37.7
+Delhi 0.6 22.2 23.5 53.7
+Gujarat 2.6 26.8 29.4 41.2
+Haryana 1.8 29.9 31.0 37.4
+Himachal Pradesh 1.9 30.9 27.3 39.9
+Jammu & Kashmir 1.3 22.3 27.0 49.4
+Jharkhand 2.5 24.1 29.4 44.0
+Karnataka 0.6 31.3 33.7 34.3
+Kerala 0.2 12.0 21.9 65.9
+Madhya Pradesh 2.2 30.9 35.9 31.0
+Maharashtra 1.1 28.8 30.2 40.0
+Odisha 0.9 16.6 26.8 55.7
+Punjab 1.7 26.8 28.6 42.9
+Rajasthan 2.8 32.8 29.0 35.5
+Tamil Nadu 0.8 26.6 30.4 42.2
+Uttar Pradesh 2.2 29.2 28.2 40.4
+West Bengal 1.1 17.8 24.5 56.5
+64

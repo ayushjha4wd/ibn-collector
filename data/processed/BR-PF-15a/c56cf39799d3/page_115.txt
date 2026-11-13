@@ -1,0 +1,29 @@
+Chapter 6 : Annex
+resources. Given the State's SDRF allocation, its area, population, and capacity and efficiency, it
+provides the most appropriate reference.
+5. Area and population have been given weightage of 15 per cent each. Using the SDRF
+allocation of Maharashtra in 2019-20, we have calculated (i) a per-capita allocation based on the
+reference State's total allocation and (ii) a per-square kilometre allocation based on the reference
+State's total allocation. The unit value has then been applied to the respective population and area
+Scoring Scheme (Disasters)
+of each of the States, and 15 per cent of both the values has further been calculated to assign a total
+Disasters High Medium Low of 30 per cent weightage to area and population (A + P ).
+15 15
+Floods 15.00 10.00 5.00
+6. The resulting values in step-2 and step-5 have been added for each State
+Drought 15.00 10.00 5.00 (W = AE + A + P ). Thereafter, this value (W) has been multiplied by the Disaster Risk Index
+70 15 15
+Cyclone 15.00 10.00 5.00 (DRI) scores (detailed in Annex 6.2A) for each corresponding State (Y = W * DRI). Finally, the
+product of these two values (Y) has been added to the sum total of values obtained in step-2 and
+Earthquake 15.00 10.00 5.00
+step-5 (Z = Y + W = W * DRI + W) to arrive at the base value for each of the states. From the base
+Others 10.00
+value, the allocation for 2020-21 has been calculated after considering the standard 5 per cent
+annual inflation.
+Scoring System Poverty
+7. An additional allocation of 11 per cent has been provided for ten North-Eastern and
+Low - 10.00 Below 13% Himalayan States to pay greater attention to infrastructure resilience in these States in view of the
+Medium - 20.00 Between 13% and 26% continuous disruption of their transport network by flash floods, landslides and other mountain
+hazards.
+High - 30.00 Between 26% and 40%
+101

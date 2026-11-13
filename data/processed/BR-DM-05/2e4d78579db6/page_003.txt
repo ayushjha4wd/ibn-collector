@@ -1,0 +1,49 @@
+P R E F A C E
+The Sample Registration System (SRS) in India is the largest demographic survey in
+the world covering about 1.5 million households and 7.35 million population. It has
+continued to be the main source of information on fertility and mortality indicators both at
+the State and National levels. Apart from the large sample size and geographical spread in
+most of the Districts, the system has a unique feature of dual recording, which involves
+collection of data through two different procedures viz., continuous enumeration and
+retrospective half-yearly surveys. The continuous enumeration and retrospective surveys are
+followed by the process of matching of the two records and subsequent field verification of
+unmatched and partially matched events. The system provides a cross check on the correctness
+and completeness of the events of birth and death listed by the two independent functionaries.
+2. Based on the dual record system, the SRS has been providing reliable estimates of
+fertility and mortality on a regular basis from 1971 onward. It includes data on population
+composition by broad age groups, sex and marital status, fertility and mortality levels, for India
+and bigger States (with population 10 million and above) separately for rural and urban areas.
+As per the recommendations of the Technical Committee, from 1990 onward tabulations on
+certain items of demographic interest such as mean age at effective marriage for females,
+interval between current and previous live birth and also distribution of live births by birth order
+have continued to form part of the SRS report. From 2000, the sex ratio at birth and from 2002,
+the sex ratio of child (age-group 0-4) have been included in this Report. Moreover, in order to
+facilitate effective tracking of Millennium Development Goals (MDGs) on under-five mortality,
+the estimates of under-five mortality for India and bigger States separately for rural and urban
+also by sex have been introduced in this Report since 2008.
+3. The present Report is the eighth in the series that has been prepared based on data
+collected from new SRS sample units selected on the 2001 Census frame. Apart from the
+fertility and mortality indicators, this Report includes data on crude birth rate, crude death rate
+and infant mortality rates at Natural Division (group of contiguous districts) level for rural areas
+of a State. In the present Report, an executive summary containing important findings has been
+added to enhance its utility. For those who are interested in trend analysis, the National level
+trends for few core indicators have been presented since 2004 (the base year of new frame).
+Detailed State-level tables on these indicators for 2006-2011 have also been added to provide a
+glimpse of the trends. Henceforth, these additions would become a regular feature of the Report.
+With the modification of the system and consistent efforts of SRS Division and the Directorates
+of Census Operations, it has been our endeavor to release the report by year end. However,
+adhering to this timeline during the Census 2011 period was a big challenge. Nevertheless, we
+have succeeded in restricting the delay to a few months only.
+4. The SRS has been a joint effort of the Central and State Governments. This study has
+been made possible with the active involvement of staff and officers of the Directorates of
+Economics & Statistics of Kerala and Maharashtra as well as the staff and officers of the
+Directorates of Census Operations, Map Division and the SRS Wing of the Vital Statistics
+Division at the headquarters. I am thankful to all of them. I must specially place on record my
+appreciation of the efforts put in by Shri S.S.A. Jafri and Shri Jaspal Singh, Deputy Directors,
+Smt Gracy James, Assistant Director, Shri Jagat Singh, S.I. Grade-I, Shri Brijesh Kumar and
+Shri Ravi Kant, S.I Grade- II, Smt. Prabha Agarwal and Shri R.S. Kar, Data Entry Operators, in
+the preparation of this Report supervised by Shri Rohit Bhardwaj, Deputy Registrar General
+under the overall guidance of Dr. Vijay P. Goel, Deputy Director General.
+New Delhi Dr. C. Chandramouli
+February, 2013 Registrar General & Census Commissioner, India
+v

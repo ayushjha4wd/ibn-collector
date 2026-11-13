@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2015
+Delhi
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 16.5 16.3 16.7 33.8 49.7 23.7 16.1 15.8 16.5
+1-4 0.6 0.2 1.0 0.0 0.0 0.0 0.6 0.2 1.0
+0-4 4.3 4.0 4.7 6.5 7.2 5.8 4.2 3.9 4.7
+5-9 0.2 0.4 0.0 0.8 1.4 0.0 0.2 0.4 0.0
+10-14 0.1 0.2 0.0 0.0 0.0 0.0 0.1 0.2 0.0
+15-19 1.0 1.0 1.1 0.8 0.0 1.9 1.0 1.0 1.1
+20-24 0.8 0.5 1.1 0.6 0.9 0.0 0.8 0.5 1.1
+25-29 1.4 1.6 1.3 1.0 1.9 0.0 1.4 1.6 1.3
+30-34 0.8 1.1 0.4 0.8 1.5 0.0 0.8 1.1 0.4
+35-39 1.7 1.9 1.4 0.0 0.0 0.0 1.7 2.0 1.4
+40-44 2.0 2.2 1.8 1.3 2.4 0.0 2.0 2.2 1.8
+45-49 3.4 4.3 2.3 9.5 17.3 0.0 3.3 4.0 2.4
+50-54 3.9 4.8 2.8 5.7 6.0 5.1 3.9 4.8 2.8
+55-59 8.2 8.7 7.7 10.6 7.8 14.0 8.2 8.7 7.5
+60-64 9.8 11.8 7.6 12.7 14.3 10.9 9.7 11.7 7.5
+65-69 18.6 22.9 14.2 22.5 25.8 18.8 18.5 22.8 14.1
+70-74 29.2 31.0 27.3 27.5 25.9 29.4 29.2 31.1 27.2
+75-79 47.8 58.5 37.3 46.9 55.0 40.9 47.8 58.6 37.2
+80-84 91.1 109.1 77.7 113.7 105.7 120.6 90.3 109.2 76.4
+85+ 214.5 305.5 175.8 201.0 187.8 208.3 215.1 312.2 174.5
+All ages 3.6 3.8 3.3 4.3 4.4 4.2 3.5 3.8 3.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2015
+Delhi
+Indicators Total Rural Urban
+Child mortality rate 4 7 4
+Under-five mortality rate 20 27 20
+Infant mortality rate 18 27 18
+Neo-natal mortality rate 14 20 13
+Early neo-natal mortality rate 9 12 9
+Late neo-natal mortality rate 4 8 4
+Post neo-natal mortality rate 4 8 4
+Peri-natal mortality rate 20 12 20
+Still birth rate 11 0 11
+273

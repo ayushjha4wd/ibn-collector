@@ -1,0 +1,55 @@
+REFERENCES AND DATA SOURCES
+Indicator Short source Detailed citation
+reference
+Macroeconomic Indicators
+GSDP MOSPI GSDP Series, Base 2011–12, as on 31 July 2020, National
+Statistical Office, Ministry of Statistics and Programme
+Implementation, Government of India.
+Sectoral contribution to GSDP MOSPI www.mospi.gov.in
+measured by Gross State National Statistical Office, Ministry of Statistics and
+Value Added (GSVA) and Net Programme Implementation, Government of India.
+State Value Added (NSVA) by
+economic activities
+Per capita GSDP MOSPI www.mospi.gov.in
+National Statistical Office, Ministry of Statistics and
+Programme Implementation, Government of India.
+Population Census 2011 GOI (2011), Census of India 2011, Office of the Registrar
+General and Census Commissioner of India, Ministry of
+MOSPI Home Affairs, Government of India.
+MoSPI estimates (2011–12 to 2018–19)
+Total Fertility Rate NFHS 2/3/4 NFHS-2
+GOI (2000): National Family Health Survey 1998–99, led
+by Ministry of Health and Family Welfare, Government of
+India.
+NFHS-3
+GOI (2007), National Family Health Survey 2005–06, led
+by Ministry of Health and Family Welfare, Government of
+India.
+NFHS-4
+GOI (2017), National Family Health Survey 2015–16, led
+by Ministry of Health and Family Welfare, Government of
+India.
+Socioeconomic, Education, and Health indicators
+SDG Index SDG Index GOI (2019), SDG India Index and Dashboard 2019–20,
+NITI Aayog, Government of India.
+Literacy rate Census 2011 GOI (2011), Census of India 2011, Office of the Registrar
+General and Census Commissioner of India, Ministry of
+Home Affairs, Government of India.
+Life Expectancy SRS 2013–2017 GOI (2013 to 2017), Sample Registration System,
+Bulletin, Office of the Registrar General and Census
+Commissioner of India, Ministry of Home Affairs,
+Government of India.
+Pupil–teacher ratio (Primary) DISE 2016–17 NIEPA (2017), Elementary Education in India: Where Do
+We Stand?, State Report Cards 2016–17, National Institute
+of Educational Planning and Administration, New Delhi.
+Underweight children (%) NFHS-4 GOI (2017), National Family Health Survey 2015–16, led
+by Ministry of Health and Family Welfare, Government of
+India.
+Stunting among children (%) NFHS-4 Ibid.
+Anaemia among children (%) NFHS-4 Ibid.
+Underweight women (%) NFHS-4 Ibid.
+Anaemia among women (%) NFHS-4 Ibid.
+Infant Mortality Rate (deaths SRS 2018 GOI (2018), Sample Registration System, Statistical
+per 1,000 live births) Report 2018, Office of the Registrar General and Census
+Commissioner of India, Ministry of Home Affairs,
+Government of India.

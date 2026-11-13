@@ -1,0 +1,30 @@
+Component/Condition
+""
+MANDATORY
+WARD LEVEL M1 Door to door collection
+M2 Segregation at Ward level
+M3 Sweeping
+M4 Litter Bins
+M5 Storage Bins
+CITY LEVEL M6 Waste Processing- Wet Waste
+M7 Waste processing Capacity-Wet Waste
+M8 Waste Processing Capacity- Wet Waste
+M9 Waste Processing Capacity – Dry Waste
+M10 Grievance Redressal
+ESSENTIAL
+WARD LEVEL E1 Bulk Waste Generator
+E2 Penalty/Spot Fines
+CITY LEVEL E3 Segregation at City Level
+E4 User Charges
+E5 Plastic Ban
+E6 Construction and Demolition (C&D) Waste-Collection
+E7 Scientific Landfill- Availability & Use
+E8 Scientific Landfill-Waste disposed
+E9 (A) No visible solid waste in water bodies and storm water drains
+E9 (B) Screening of Nallahs
+DESIRABLE
+WARD LEVEL D1 Sustainability
+CITY LEVEL D2 On-site wet waste processing
+"D3 C&D waste-Storage, Segregation, processing, Recycling"
+D4 C&D Waste-Use of materials
+D5 Dumpsite Remediation

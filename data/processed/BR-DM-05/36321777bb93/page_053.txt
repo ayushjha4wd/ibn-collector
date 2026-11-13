@@ -1,0 +1,35 @@
+3.5 Based on the figures in the Statement 14 given below, the graphical representation of
+birth rate of bigger States by residence is depicted in Chart 8 and the distribution of bigger
+States by levels of birth rate in rural and urban areas is presented in Chart 9. The CBR at
+national level is 21.6 which varies from 23.1 in rural and 17.4 in urban areas. Andhra Pradesh,
+Delhi, Himachal Pradesh, Jammu & Kashmir, Karnataka, Kerala, Maharashtra, Punjab, Tamil
+Nadu and West Bengal are the major States having birth rate below 20 both in rural and urban
+areas. On the other hand, Madhya Pradesh have the highest birth rate in rural areas (28.5) and
+Uttar Pradesh has the highest in urban areas (23.5) followed by Rajasthan (22.1). The lowest
+CBR was recorded in rural areas (15.1) of Kerala and in urban areas (11.0) of Himachal
+Pradesh.
+Statement 14
+CBR (Crude birth rate) by residence, India and bigger States, 2012
+India and bigger States Total Rural Urban
+India 21.6 23.1 17.4
+Andhra Pradesh 17.5 17.9 16.6
+Assam 22.5 23.7 15.6
+Bihar 27.7 28.4 21.6
+Chhattisgarh 24.5 26.0 18.0
+Delhi 17.3 19.1 17.0
+Gujarat 21.1 22.5 18.7
+Haryana 21.6 22.6 19.2
+Himachal Pradesh 16.2 16.7 11.0
+Jammu & Kashmir 17.6 18.8 12.8
+Jharkhand 24.7 26.1 18.7
+Karnataka 18.5 19.4 16.9
+Kerala 14.9 15.1 14.2
+Madhya Pradesh 26.6 28.5 19.8
+Maharashtra 16.6 17.4 15.5
+Odisha 19.9 20.8 14.6
+Punjab 15.9 16.5 14.8
+Rajasthan 25.9 27.0 22.1
+Tamil Nadu 15.7 15.8 15.6
+Uttar Pradesh 27.4 28.4 23.5
+West Bengal 16.1 17.8 11.5
+30

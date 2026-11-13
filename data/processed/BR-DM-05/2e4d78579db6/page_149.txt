@@ -1,0 +1,45 @@
+Table 4
+Fertility indicators by level of education of women, 2011
+India
+Indicators Age Educational level
+group Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any formal primary X XII and
+education above
+Total
+Age specific fertility rates 15-19 67.7 25.9 90.3 93.3 43.2 19.8 13.0 12.2 0.0
+20-24 256.6 181.5 245.6 265.8 239.5 196.4 148.1 97.0 101.0
+25-29 180.5 142.2 159.6 158.4 153.2 144.4 136.5 116.8 132.1
+30-34 92.2 57.2 75.3 56.3 50.9 53.7 53.5 59.5 72.8
+35-39 37.8 17.5 34.1 22.1 17.2 14.7 12.6 15.0 18.6
+40-44 14.1 3.9 10.4 4.6 4.0 3.3 2.8 3.1 2.1
+45-49 4.2 1.3 6.5 1.3 1.6 0.6 0.3 1.1 0.1
+General fertility rate 86.7 78.7 91.9 104.9 91.8 74.8 64.6 62.9 72.8
+Total fertility rate 3.3 2.1 3.1 3.0 2.5 2.2 1.8 1.5 1.6
+Rural
+Age specific fertility rates 15-19 72.4 29.7 97.2 103.4 46.7 21.6 14.7 14.5 0.0
+20-24 264.7 201.8 246.2 279.3 249.4 204.5 158.4 116.5 120.9
+25-29 185.2 151.7 163.5 166.1 158.0 150.9 145.0 126.5 143.8
+30-34 96.3 57.4 71.3 57.4 53.0 56.8 52.9 62.8 69.9
+35-39 39.9 19.4 33.7 23.5 18.2 16.7 13.1 17.4 22.6
+40-44 15.1 5.4 12.0 5.6 4.3 4.8 4.7 7.1 4.0
+45-49 4.7 1.8 7.1 1.5 1.9 1.0 0.7 1.2 0.3
+General fertility rate 90.8 87.8 94.7 114.9 98.9 80.2 70.3 74.5 91.7
+Total fertility rate 3.4 2.3 3.2 3.2 2.7 2.3 1.9 1.7 1.8
+Urban
+Age specific fertility rates 15-19 39.4 14.8 49.0 46.3 28.9 13.4 9.1 9.2 0.0
+20-24 209.4 135.9 242.3 206.2 203.9 172.4 127.7 73.9 88.1
+25-29 152.5 126.1 142.0 131.9 139.8 130.2 124.1 106.8 126.6
+30-34 67.7 57.0 92.3 52.5 45.4 47.7 54.3 56.6 74.0
+35-39 24.9 14.6 35.9 17.9 14.8 11.2 12.0 13.2 17.3
+40-44 8.9 1.8 4.8 2.0 3.4 1.3 1.1 0.8 1.7
+45-49 1.9 0.6 4.4 0.7 1.0 0.1 0.1 1.1 0.1
+General fertility rate 63.8 61.6 79.6 71.5 71.5 61.7 55.2 51.2 65.1
+Total fertility rate 2.5 1.8 2.9 2.3 2.2 1.9 1.6 1.3 1.5
+Andhra Pradesh
+Indicators Age Educational level
+group Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any formal primary X XII and
+education above
+Total

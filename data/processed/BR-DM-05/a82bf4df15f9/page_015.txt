@@ -1,0 +1,35 @@
+35. GFR (General Fertility Rate) between 2005-07 and 2015-17, India and 62
+bigger States/UTs
+36. GFR (General Fertility Rate) between 2005-07 and 2015-17, India and 63
+bigger States/UTs -RURAL
+37. GFR (General Fertility Rate) between 2005-07 and 2015-17, India and 64
+bigger States/UTs - URBAN
+38. Percent change in average GFR (General Fertility Rate) between, 65
+2005-07 and 2015-17 by residence, India and bigger States/UTs
+39. ASFRs (Age-specific fertility rates) by residence, India, 2017 67
+40 Age specific fertility rates, India: 2005-07 and 2015-17 69
+41 Per cent change in age specific fertility rates between 2005-07 and 70
+2015-17, India -RURAL
+42 Per cent change in age specific fertility rates between 2005-07 and 71
+2015-17, India -URBAN
+43 Per cent change in age specific fertility rates by residence between 72
+2005-07 and 2015-17, India
+44. Per cent distribution of cumulative fertility by residence, 2017 75
+45. Mean age of fertility, India and bigger states/UTs, 2017 77
+46. TFR (Total fertility rate) by residence, India and bigger States/UTs, 79
+2017
+47. Distribution of bigger States/UTs by values of TFR (Total fertility 80
+rate) for rural and urban areas, 2017
+48. Total fertility rate (TFR) between 2005-07 and 2015-17, India and 82
+bigger States/UTs
+49. Total fertility rate (TFR) between 2005-07 and 2015-17, India and 83
+bigger States/UTs - RURAL
+50. Total fertility rate (TFR) between 2005-07 and 2015-17, India and 84
+bigger States/UTs - URBAN
+51. Per cent change in average Total fertility rate (TFR) between 2005-07 85
+and 2015-17 by residence, India and bigger States/UTs
+52. Gross reproduction rate (GRR) by residence, India and bigger 87
+states/UTs, 2017
+53. Age specific marital fertility rates (ASMFRs) by residence, India, 89
+2017
+xv

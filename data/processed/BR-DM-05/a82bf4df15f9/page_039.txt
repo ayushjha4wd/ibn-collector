@@ -1,0 +1,49 @@
+Data collection
+1.24 In the baseline survey, which is conducted jointly by both the enumerator and
+the supervisor, the data is being collected in Forms 1, 2 and 3 and Form 0 is also filled
+at the end of survey in a unit. The baseline survey is a decennial exercise which takes
+place after availability of new frame through latest census. The data collection in the
+field is carried out by the enumerators for continuous enumeration and supervisors for
+retrospective survey. Half Yearly Survey is conducted by the full-time supervisor. In
+Half Yearly Survey, besides updating the Forms 1, 2 and 3, the details of births and
+deaths occurred in the sample units in the reference period are also collected in Forms 9
+and 10 respectively.
+Introduction of Automation in SRS
+1.25 The quality of data collection is of paramount importance in any survey
+especially in Sample Registration System considering its focus on data of births, deaths,
+infant deaths, details of pregnancy etc which are to be collected with utmost care.
+Towards fulfilling this objective, dual record system has been in practice in SRS apart
+from other quality measures in the field. To take the credibility and efficiency of the
+field survey to greatest heights, it was the endeavor of the Office of the Registrar, India,
+to implement full automation in Sample Registration System. Accordingly from
+Baseline 2014 onwards the entire process of data collection and processing has been
+automated. This pioneering step of a paper-less survey, for the first time in the history
+of SRS, can be viewed as greatly contributed to the recent Digital India initiatives of
+the Government of India.
+1.26 In the automated procedure, the supervisor is now carrying a hand held device
+to the sample units and the data is collected directly to the machine saving time and
+cost of survey with efficiency. A dedicated server is installed at all the Directorates of
+Census Operations (DCO)to enable the activities like file creation, download and
+upload of files, generation of various Forms etc. The Directorate of Census Operation
+after finalizing the data directly uploads it on the central server which makes the system
+almost paper less as there is no need to send finalized results in paper format. At the
+Head Quarters validations are undertaken before preparing the vital rates.
+SRS Forms and their flow
+1.27 For collecting information on population and vital events various
+forms/schedules have been prescribed under the SRS. Depending upon various
+operations under the system, the following 17 types of forms are in use:
+A. Baseline Survey Forms
+Form 1: House List
+Form 2: Household Schedule
+Form 3: Pregnancy Status of women
+B. Continuous Enumeration Forms
+Form 4: Outcome of Pregnancy recorded by Enumerator (January-June/July-December)
+Form 5: Deaths recorded by Enumerator (January-June/July-December)
+Form 6: Monthly report of Outcome of Pregnancy
+Form 7: Monthly report of Deaths
+C. Half yearly Survey Forms
+Form 9: Outcome of Pregnancy recorded by Supervisor (January-June/July-December)
+Form 10: Deaths recorded by Supervisor (January-June/July-December)
+Form 15: Distribution of usual resident population by age, sex and marital status
+(as on 1st July/1st January)
+7

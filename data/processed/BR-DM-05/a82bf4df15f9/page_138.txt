@@ -1,0 +1,43 @@
+Birth order
+3.31 Information on order of the live birth and interval between current and previous live
+births are also collected in SRS from 1990 onwards. These provide useful information on
+spacing of children and level of fertility. The estimated percentages on order of live birth and
+birth interval for India and bigger States/UTs are given in Tables 5, 6 and 7. Based on these
+tables, State-wise comparative Statements are presented below.
+3.32 The percentage distribution of live births by birth order for India and bigger States/UTs
+for the year 2017 is presented below in Statement 35. It is observed 48.3 percent of the current
+live births in India are first order births, and 30.0 percent of total births are second order births.
+The fourth and higher order births account for 8.8 percent of the total births. Among the bigger
+States/UTs, the percentage share of first order birth varies from 32.9 percent in Bihar to 65.9
+percent in West Bengal. On the other hand, the percentage share of fourth and higher order
+births varies from 0.7 percent in Tamil Nadu to 19.3 percent in Bihar. Chart 63 shows the
+percentage distribution of current live births by birth order for India and bigger States/UTs.
+Statement 35
+Percentage distribution of current live births by Birth Order,
+India and bigger States/UTs, 2017
+India and bigger Birth order
+States/UTs 1st 2nd 3rd 4th & above
+India 48.3 30.0 12.9 8.8
+Andhra Pradesh 63.0 29.8 6.2 1.1
+Assam 51.5 29.5 13.3 5.7
+Bihar 32.9 27.9 19.8 19.3
+Chhattisgarh 39.7 36.3 17.0 7.0
+Delhi 59.6 25.8 9.7 5.0
+Gujarat 63.5 25.0 7.8 3.8
+Haryana 44.9 34.1 13.0 8.0
+Himachal Pradesh 53.7 34.5 8.5 3.3
+Jammu & Kashmir 60.6 23.8 9.5 6.1
+Jharkhand 43.4 30.5 15.0 11.1
+Karnataka 50.2 35.9 10.4 3.5
+Kerala 46.4 38.0 12.2 3.5
+Madhya Pradesh 40.5 34.7 14.8 10.1
+Maharashtra 55.7 31.9 9.0 3.3
+Odisha 47.4 35.3 11.6 5.7
+Punjab 62.9 27.2 7.9 2.1
+Rajasthan 46.4 28.2 15.5 10.0
+Tamil Nadu 54.4 38.2 6.7 0.7
+Telangana 60.5 32.7 4.1 2.7
+Uttar Pradesh 43.4 26.9 16.1 13.6
+Uttarakhand 43.8 34.6 13.6 7.9
+West Bengal 65.9 23.7 7.2 3.2
+106

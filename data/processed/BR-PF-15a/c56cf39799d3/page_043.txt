@@ -1,0 +1,33 @@
+Chapter 3 : Towards Cooperative Federalism: Vertical and Horizontal Devolution
+States with higher TFR will be scored lower. Better performance in reduction of TFR also serves
+as an indirect indicator for better outcomes in health (especially maternal and child health) as well
+as education. Hence, this criterion also rewards States with better outcomes in those important
+sectors of human capital. Since this is an important performance criterion to reward efforts made
+by States in controlling their population and achieving better human capital outcomes in
+education and health, we have decided to assign a total weight of 12.5 per cent. Annex 3.1 gives
+full details of the methodology and the calculations for this criterion.
+Tax Effort
+3.30 The FC-X, FC-XI and FC-XII have used tax efforts of States as a criterion in the
+devolution formula to reward State's own tax performance. Many States have suggested
+inclusion of tax performance criteria to incentivise States with higher efficiency of tax collection.
+This Commission is of the view that the inclusion of tax effort as a criterion will reward the States
+with higher tax collection efficiency and, at the same time, will also encourage all States to be
+more tax efficient.
+3.31 The tax effort of States is computed by first calculating the average of per capita own tax
+revenue of a State over three years and its per capita GSDP over the same three years, and then
+taking the ratio thereof. This ratio has been scaled by the population of the State. Annex 3.5 gives
+the calculation table. A total weight of 2.5 per cent has been assigned to this criterion.
+3.32 The criteria and the weights attached to them for determining horizontal sharing of taxes
+along with weights assigned to each criterion is summarised in Table 3.3. The End Note to this
+chapter gives the methodology and mathematical expressions for computing inter se horizontal
+shares of all States.
+Table 3.3: Criteria and Weights Assigned for Horizontal Devolution
+Criteria W eight (%)
+Population 15.0
+Area 15.0
+Forest and Ecology 10.0
+Income Distance 45.0
+Demographic Performance 12.5
+Tax Effort 2.5
+100.0
+29

@@ -1,0 +1,48 @@
+Statement 2
+Number of sample units and population covered
+India, States and Union Territories, 2016
+India/States/ Union Territories Number of sample units Population covered (in'000)
+Total Rural Urban Total Rural Urban
+India 8779 4909 3870 7708 5674 2033
+Bigger States/UTs
+1. Andhra Pradesh 326 198 128 321 260 61
+2. Assam 300 90 210 215 106 109
+3. Bihar 330 200 130 360 283 76
+4. Chhattisgarh 158 73 85 114 70 44
+5. Delhi 199 10 189 128 15 114
+6. Gujarat 478 231 247 416 289 127
+7. Haryana 256 144 112 235 182 53
+8. Jammu & Kashmir* 276 174 102 225 182 44
+9. Jharkhand 212 91 121 150 90 60
+10. Karnataka 511 361 150 491 411 80
+11. Kerala 280 175 105 359 307 51
+12. Madhya Pradesh 449 285 164 399 303 96
+13. Maharashtra 662 306 356 501 340 161
+14. Odisha 405 290 115 347 288 59
+15. Punjab 249 130 119 202 142 60
+16. Rajasthan 350 236 114 314 259 55
+17. Tamil Nadu 545 235 310 504 327 177
+18. Telangana 224 121 103 206 153 53
+19. Uttar Pradesh 500 328 172 505 406 99
+20. Uttarakhand 375 195 180 285 181 104
+21. West Bengal 555 304 251 534 408 126
+Smaller States
+1. Arunachal Pradesh 65 50 15 40 30 10
+2. Goa 95 45 50 85 63 22
+3. Himachal Pradesh 210 155 55 116 91 25
+4. Manipur 165 120 45 146 120 26
+5. Meghalaya 130 95 35 79 60 19
+6. Mizoram 45 25 20 35 24 11
+7. Nagaland 50 35 15 30 23 6
+8. Sikkim 65 50 15 60 49 11
+9. Tripura 90 65 25 105 90 14
+Union Territories
+1. Andaman & Nicobar Islands 55 37 18 45 36 9
+2. Chandigarh 40 5 35 30 10 21
+3. Dadra & Nagar Haveli 35 15 20 40 27 13
+4. Daman & Diu 25 15 10 27 21 6
+5. Lakshadweep 14 2 12 12 3 9
+6. Puducherry 55 18 37 48 26 21
+Note:1. ‘Total’ population may not add up to ‘Rural’ and ‘Urban’ population due to rounding.
+* : Estimate of Jammu & Kashmir excludes the Ladakh Valley Natural Division.
+5

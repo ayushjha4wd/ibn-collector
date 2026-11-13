@@ -1,0 +1,34 @@
+AnnexeS—GeneRAL InDICATORS
+GI-3
+Annex-GI.3: Total Fertility Rate
+SN Name of the State NFHS–2 NFHS–3 NFHS–4
+1 Andhra Pradesh 2.3 1.8 1.8
+2 Arunachal Pradesh 2.5 3.0 2.1
+3 Assam 2.3 2.4 2.2
+4 Bihar 3.7 4.0 3.4
+5 Chhattisgarh 2.8 2.6 2.2
+6 Goa 1.8 1.8 1.7
+7 Gujarat 2.7 2.4 2.0
+8 Haryana 2.9 2.7 2.1
+9 Himachal Pradesh 2.1 1.9 1.9
+10 Jammu & Kashmir 2.7 2.4 2.0
+11 Jharkhand 2.8 3.3 2.6
+12 Karnataka 2.1 2.1 1.8
+13 Kerala 2.0 1.9 1.6
+14 Madhya Pradesh 3.3 3.1 2.3
+15 Maharashtra 2.5 2.1 1.9
+16 Manipur 3.0 2.8 2.6
+17 Meghalaya 4.6 3.8 3.0
+18 Mizoram 2.9 2.9 2.3
+19 Nagaland 3.8 3.7 2.7
+20 Odisha 2.5 2.4 2.1
+21 Punjab 2.2 2.0 1.6
+22 Rajasthan 3.8 3.2 2.4
+23 Sikkim 2.8 2.2 1.2
+24 Tamil Nadu 2.2 1.8 1.7
+25 Telangana NA NA 1.8
+26 Tripura 1.9 2.2 1.7
+27 Uttar Pradesh 4.1 3.8 2.7
+28 Uttarakhand 2.6 2.6 2.1
+29 West Bengal 2.3 2.3 1.8
+All States/India 2.9 2.7 2.2

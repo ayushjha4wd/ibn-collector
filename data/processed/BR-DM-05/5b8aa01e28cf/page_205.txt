@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2014
+Jharkhand
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 35.4 33.4 37.5 37.4 34.6 40.4 26.0 27.9 24.0
+1-4 2.7 2.3 3.1 3.2 2.7 3.7 0.5 0.4 0.5
+0-4 10.1 9.2 11.2 11.1 9.9 12.4 5.9 6.0 5.7
+5-9 0.5 0.5 0.5 0.6 0.6 0.7 0.0 0.0 0.0
+10-14 0.8 1.2 0.3 0.8 1.4 0.2 0.5 0.7 0.3
+15-19 1.4 2.1 0.5 1.6 2.6 0.4 0.6 0.3 1.0
+20-24 1.5 2.5 0.5 1.7 2.7 0.6 1.0 1.7 0.3
+25-29 2.6 3.2 2.1 2.7 3.0 2.3 2.5 3.7 1.3
+30-34 2.2 1.5 3.1 2.3 1.7 3.0 1.9 0.8 3.2
+35-39 2.8 2.3 3.4 2.9 2.1 3.6 2.8 2.6 2.9
+40-44 4.0 3.0 5.0 4.0 2.6 5.5 4.1 4.3 3.9
+45-49 4.2 3.8 4.5 3.8 3.6 4.0 5.2 4.3 6.1
+50-54 9.8 6.1 14.7 9.7 5.8 14.9 10.1 6.7 14.2
+55-59 13.4 14.8 12.3 13.0 13.7 12.4 14.6 17.0 12.1
+60-64 18.8 19.2 18.3 18.9 17.8 20.1 18.4 23.2 13.2
+65-69 22.8 19.0 26.8 22.8 19.0 26.4 22.9 18.9 28.2
+70-74 43.6 42.2 44.9 48.0 44.1 51.7 29.6 36.6 21.8
+75-79 69.3 91.2 48.3 82.1 109.3 56.3 37.1 46.8 27.5
+80-84 150.0 133.2 167.1 164.2 150.3 179.3 104.9 70.3 133.3
+85+ 238.8 289.5 190.0 280.2 320.9 238.5 145.9 211.4 91.0
+All ages 5.9 5.8 6.0 6.2 6.0 6.4 5.0 5.1 4.8
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2014
+Jharkhand
+Indicators Total Rural Urban
+Child mortality rate 10 11 6
+Under-five mortality rate 44 49 24
+Infant mortality rate 34 37 22
+Neo-natal mortality rate 25 27 15
+Early neo-natal mortality rate 21 23 9
+Late neo-natal mortality rate 4 4 5
+Post neo-natal mortality rate 9 9 8
+Peri-natal mortality rate 24 27 12
+Still birth rate 3 3 3
+184

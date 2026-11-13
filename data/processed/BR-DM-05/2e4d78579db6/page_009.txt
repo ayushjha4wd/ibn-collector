@@ -1,0 +1,35 @@
+Page
+31 Percentage change in average Total Marital Fertility rate (TMFR) 56
+between 1999-01 and 2009-11 by residence, India and bigger States
+32 Percentage female population in the age group 15-49 by level of 57
+education, India and bigger States, 2011
+33 GFR (General fertility rate) by level of education of women, India 58
+and bigger States, 2011
+34 ASFR (Age specific fertility rate) by level of education of women 59
+and residence, India, 2011
+35 TFR (Total fertility rate) by level of education of women, India and 60
+bigger States, 2011
+36 Percentage distribution of current live births by birth order, India and 62
+bigger States, 2011
+37 Percentage distribution of current live births by birth order and 63
+residence, India and bigger States, 2011
+38 Percentage distribution of second and higher order live births by 64
+interval, India and bigger States, 2011
+39 Percentage distribution of second and higher order live births by 65
+interval and residence, India and bigger States, 2011
+40 Percentage distribution of live births by type of medical attention 66
+received by the mother at delivery by residence, India and bigger
+States, 2011
+Mortality Indicators
+41 CDR (Crude death rate) by residence, India and bigger States, 68
+2011
+42 Percentage change in average crude death rate between 1999-01 70
+and 2009-11, by residence, India and bigger States
+43 CDR (Crude death rate) by sex and residence, India, 2011 72
+44 CDR (Crude death rate) by sex, India and bigger States, 2011 72
+45 Percentage distribution of deaths by broad age groups, India and 73
+bigger States, 2011
+46 Percentage of infant deaths to total deaths by residence, India and 74
+bigger States, 2011
+Page
+xi

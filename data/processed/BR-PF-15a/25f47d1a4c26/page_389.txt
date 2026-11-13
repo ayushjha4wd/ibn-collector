@@ -1,0 +1,38 @@
+AnnexeS—FinAnciAl inDicATORS (Fi)
+FI-17
+Annex-FI.17: Expenditure on Health Sector (Revenue + Capital) : 2018–19
+Expenditure on Health Per Capita Health
+SN Name of the State Sector as % to Total Expenditure
+Expenditure (Rs)
+1 Andhra Pradesh 4.9 1441
+2 Arunachal Pradesh 6.1 6937
+3 Assam 6.8 1360
+4 Bihar 5.0 616
+5 Chhattisgarh 5.1 1303
+6 Goa 7.2 6207
+7 Gujarat 6.1 1478
+8 Haryana 4.3 1422
+9 Himachal Pradesh 6.5 3074
+10 Jammu & Kashmir 6.9 3145
+11 Jharkhand 5.4 913
+12 Karnataka 4.7 1429
+13 Kerala 5.9 2048
+14 Madhya Pradesh 4.5 947
+15 Maharashtra 4.3 1069
+16 Manipur 5.3 1813
+17 Meghalaya 9.1 3055
+18 Mizoram 6.2 4907
+19 Nagaland 5.0 2968
+20 Odisha 5.2 1308
+21 Punjab 4.1 1059
+22 Rajasthan 6.3 1552
+23 Sikkim 6.2 6165
+24 Tamil Nadu 5.5 1653
+25 Telangana 4.2 1405
+26 Tripura 7.0 2340
+27 Uttar Pradesh 4.9 807
+28 Uttarakhand 5.4 1878
+29 West Bengal 5.3 983
+All States 5.2 1218
+Genl. States 5.0 1148
+NE & HS 6.5 2256

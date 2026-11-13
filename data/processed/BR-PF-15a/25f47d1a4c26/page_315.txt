@@ -1,0 +1,103 @@
+TR-1.A: Overview
+TR-1.B: Growth rate of GSDP (at current prices, %) TR-1.C: Per capita GSDP (at current prices)
+140 25.0
+125
+120 20.4 101 111 20.0
+100 93
+140 14.2 25.0
+1 1
+6
+8 0 2
+0
+0 0 0 2 4 6 8
+0
+0 0 0 0 1 1 1
+5 6
+8 0 2 4
+2 0
+0 0 0 0 5 1
+5
+2 1
+8
+.
+5
+6 1 5
+2
+1 8 .6 61
+5
+81
+8
+1 6 . 6 6 8 .9 16
+6
+1 .
+8
+4 9 1 .2 67.97 1 27 9 4 07 3 . . 2 4
+8
+7
+.
+7
+7
+1 2 8 9 0 0 . 3 1 7 .4
+9.6
+1 1 9 1 0 . 1 6 1 1 2
+9
+.
+.
+1 9 1
+6
+1 22 1 5.9 1 12. 1 9
+1
+1 2 2
+0
+5 0 5
+.
+. .
+0
+0 0
+0
+5 1 1
+.
+. 0 5
+0
+0 . . 0 0
+1
+1 2 2
+0
+5 0 5
+.
+. . .
+0
+0 0 0
+40 8.7
+1 1 2 4 0 0 2 0 0 2 4 0 0 0 20.4 101 111 125 2 2 0 5 . . 0 0 0 5 . . 0 0 0 5 . . 0 0
+100 93
+P1e4r.2 Capita GSDP (Rs thousand)
+80 11.6 16.9 77 12.9 15.0
+Tripura 60 52 58 68 Per Capita GSDP 9 . ( 6 Annual Grow 1 t 0 h .0 %)
+8.7
+40 Per Capita GSDP (Rs thousand)
+Per Capita GSDP (Rs thousand)
+5.0
+20 Per Capita GSDP (Annual Growth %)
+Tripura Per Capita GSDP (Annual Growth %)
+Tripura 0 0.0
+TR-1.D: GSDP Current, 2011–12 series (Rs crore) TR-1.E: Sectoral Contribution to GSDP
+(at current prices, %)
+Share (%) of
+State All NEHS Per Capita GSDP (Rs thousand)
+State in NEHS
+Per Capita GSDP (Annual Growth %)
+2011–12 19 ,T2r0ip8ura 5,03,182 3.8
+2012–13 21,663 5,63,081 3.9
+2013–14 25,593 6,37,264 4.0
+2014–15 29,533 6,95,474 4.3
+2015–16 35,938 7,88,321 4.6
+2016–17 39,479 8,67,648 4.6 Primary Tertiary Net taxes
+2017–18 43,716 9,74,240 4.5
+2018–19 49,845 10,82,901 4.6 Primar P y rimary Tertiar T y ertiary Net ta N xe e s t taxes
+Primary Tertiary Net taxes
+State
+Overview
+Macroeconomic
+Indicators
+TRIPURA

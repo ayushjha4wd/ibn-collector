@@ -1,0 +1,42 @@
+Birth order
+3.31 Information on order of the live birth and interval between current and previous live
+births are also collected in SRS from 1990 onwards. These provide useful information on
+spacing of children and level of fertility. The estimated percentages on order of live birth and
+birth interval for India and bigger States/UTs are given in Tables 5, 6 and 7. Based on these
+tables, two State-wise comparative Statements are presented below.
+3.32 The percentage distribution of live births by birth order for India and bigger States/UTs
+for the year 2015 is presented below in Statement 35. It is observed 48.6 percent of the current
+live births in India are first order births, and 28.5 percent of total births are second order births.
+The fourth and higher order births account for 9.4 percent of the total births. Among the bigger
+States/UTs, the percentage share of first order birth varies from 36.7 percent in Bihar to 63.8
+percent in Delhi. On the other hand, the percentage share of fourth and higher order births
+varies from 1.0 percent in Tamil Nadu to 18.2 percent in Bihar.
+Statement 35
+Percentage distribution of current live births by Birth Order,
+India and bigger States/UTs, 2015
+India and bigger Birth order
+States/UTs 1st 2nd 3rd 4th & above
+India 48.6 28.5 13.4 9.4
+Andhra Pradesh 63.7 28.2 6.9 1.2
+Assam 52.9 26.0 13.5 7.5
+Bihar 36.7 24.2 20.9 18.2
+Chhattisgarh 44.7 33.6 13.7 8.0
+Delhi 63.8 23.8 8.6 3.9
+Gujarat 55.4 30.6 9.8 4.2
+Haryana 50.6 31.6 12.4 5.4
+Himachal Pradesh 60.3 31.1 6.5 2.1
+Jammu & Kashmir 55.7 25.7 11.7 6.8
+Jharkhand 38.3 31.9 18.5 11.2
+Karnataka 53.4 33.0 10.7 2.8
+Kerala 49.0 37.1 11.3 2.7
+Madhya Pradesh 42.7 31.8 15.2 10.3
+Maharashtra 51.0 34.7 10.4 3.9
+Odisha 50.3 32.2 11.8 5.8
+Punjab 61.2 26.8 9.5 2.5
+Rajasthan 46.0 28.6 14.8 10.6
+Tamil Nadu 56.1 36.6 6.3 1.0
+Telangana 56.0 32.2 9.2 2.7
+Uttar Pradesh 44.8 23.2 15.5 16.5
+Uttarakhand 45.1 31.6 14.2 9.2
+West Bengal 62.3 25.4 9.1 3.3
+106

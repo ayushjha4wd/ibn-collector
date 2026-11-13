@@ -1,0 +1,43 @@
+3.29 Statement 34 below presents, at the National level, age specific fertility rates by
+level of education of women separately for rural and urban areas. The data reveals marked
+rural-urban differences with the rural areas generally reporting higher levels of fertility than
+the urban areas for all age groups. Fertility attains the peak in the age-group 20-24 years
+both in the rural and urban areas except for the women having education level 12th and
+above. 'Illiterate' women have higher levels of age-specific fertility rates both in the rural
+and urban areas than the 'Literate'. Within the 'Literate' group there is a general decline in
+the fertility rates with the increase in the educational status both in the rural and urban areas,
+barring a few exceptions.
+Statement 34
+Age specific fertility rate by level of education of women and residence,
+India, 2012
+Age Educational level of women
+group Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any primary X XII and
+formal above
+education
+Total
+15-19 71.7 26.6 76.5 86.1 41.8 20.8 13.9 16.4 0.0
+20-24 247.8 178.8 254.4 261.5 232.5 198.4 141.7 98.1 109.8
+25-29 185.6 143.2 163.2 161.2 152.1 146.0 133.9 123.1 133.6
+30-34 81.9 55.2 78.1 49.8 51.5 52.0 51.6 54.6 72.8
+35-39 33.5 17.2 37.1 16.8 17.7 15.1 13.7 15.6 19.2
+40-44 12.5 4.5 11.4 5.9 3.7 3.9 3.6 2.8 3.9
+45-49 3.5 0.8 3.0 1.5 0.9 0.4 0.4 0.0 0.3
+Rural
+15-19 77.4 30.5 80.0 93.6 44.6 23.2 15.5 21.4 0.0
+20-24 256.5 197.6 255.5 268.7 241.0 209.9 152.4 114.7 123.9
+25-29 191.5 151.8 161.1 166.4 156.2 154.1 140.8 132.8 142.8
+30-34 85.6 55.6 77.9 51.5 54.7 53.1 51.8 56.0 74.0
+35-39 36.2 18.7 40.7 17.9 19.2 15.5 14.9 16.6 21.4
+40-44 13.7 5.6 11.8 7.3 3.9 4.9 4.8 2.1 8.2
+45-49 3.8 1.2 3.7 2.0 1.0 0.4 0.7 0.0 1.2
+Urban
+15-19 38.1 15.2 44.8 49.2 29.9 12.8 10.2 9.2 0.0
+20-24 196.6 134.0 247.2 226.6 199.9 162.4 119.2 76.9 99.5
+25-29 153.0 128.1 174.0 142.4 140.2 128.1 123.5 112.8 128.7
+30-34 60.6 54.5 79.1 44.0 42.9 49.7 51.2 53.2 72.3
+35-39 17.5 14.9 20.7 13.6 14.2 14.2 12.3 14.8 18.5
+40-44 6.2 2.9 9.8 2.2 3.4 2.4 2.4 3.2 2.8
+45-49 1.8 0.3 0.2 0.4 0.7 0.5 0.1 0.0 0.1
+59

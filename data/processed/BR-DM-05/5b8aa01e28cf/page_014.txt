@@ -1,0 +1,38 @@
+Number of deaths in a particular age-group
+Age-specific mortality = ---------------------------------------------------- x 1000
+rate (ASMR) Mid-year population of the same age-group
+Under-five Mortality Rate = The under-five mortality is the probability ( q ) that a child
+5 0
+born in a specific year or time period will die before reaching
+the age of five, subject to current age specific mortality rates.
+It is expressed as a rate per 1,000 live births.
+Number of infant deaths during the year
+Infant mortality rate = ------------------------------------------------ x 1000
+(IMR) Number of live births during the year
+Infant mortality rate comprises of two parts viz. Neo-natal mortality rate and Post neo-natal
+mortality rate. The neo-natal mortality rate also comprises of two parts viz. Early neo-natal
+mortality rate and late neo-natal mortality rate. These are defined as:
+Number of infant deaths of < than 29 days
+during the year
+Neo-natal mortality = ------------------------------------------------------- x 1000
+rate (NMR) Number of live births during the year
+Number of infant deaths of < than 7 days
+during the year
+Early neo-natal = ---------------------------------------------------- x 1000
+mortality rate Number of live births during the year
+Number of infant deaths of 7 days to < than 29 days
+during the year
+Late neo-natal = -----------------------------------------------------------x 1000
+mortality rate Number of live births during the year
+Number of infant deaths of 29 days to < than
+one year during the year
+Post neo-natal = --------------------------------------------------- x 1000
+mortality rate (PNMR) Number of live births during the year
+Number of still births and infant deaths of
+< than 7 days during the year
+Peri-natal mortality = -------------------------------------------------------------- x 1000
+rate (PMR) Number of live births and still births during the year
+Number of still births during the year
+Still birth rate = -------------------------------------------------------------- x 1000
+(SBR) Number of live births and still births during the year
+xvi

@@ -1,0 +1,36 @@
+3.28 Statement 32 below presents the estimates of General Fertility Rate (GFR) by
+educational status of the women for India and bigger States/UTs. It is apparent from the
+Statement that there is a difference between the GFRs of the Illiterate and Literate women
+with the latter depicting lower levels of GFR, both at the National and State level.
+Statement 32
+General Fertility Rate by level of education of women, India and bigger States/UTs, 2016
+India and Educational level of women
+bigger States/UTs Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any primary X XII and
+formal above
+education
+India 75.2 74.6 67.7 85.4 84.8 74.2 68.9 70.2 73.2
+Andhra Pradesh 32.1 61.4 36.5 44.9 62.3 64.1 78.7 59.4 49.9
+Assam 54.3 81.6 49.7 82.0 103.5 79.3 79.0 79.8 65.8
+Bihar 119.6 100.6 127.1 132.1 108.1 80.8 89.3 91.6 91.1
+Chhattisgarh 53.7 88.8 59.9 132.3 110.2 93.3 64.2 73.5 79.2
+Delhi 39.6 57.0 28.9 92.8 65.7 61.8 60.9 56.9 46.3
+Gujarat 52.7 78.4 95.2 124.5 94.6 84.0 59.4 56.3 58.6
+Haryana 65.3 80.0 65.9 94.4 96.8 78.3 68.4 75.8 81.2
+Himachal Pradesh 22.4 58.6 26.5 46.8 38.2 41.7 56.6 69.9 76.5
+Jammu & Kashmir 45.2 55.4 40.5 97.7 67.9 60.2 53.1 45.6 52.0
+Jharkhand 82.2 85.4 99.0 93.6 97.5 71.6 86.2 89.2 75.0
+Karnataka 35.3 63.8 25.3 57.7 70.7 69.9 63.5 60.3 65.6
+Kerala 1.6 51.8 5.4 5.2 12.5 30.4 43.4 70.6 79.7
+Madhya Pradesh 81.4 98.2 76.4 134.5 124.8 98.6 74.3 75.2 83.9
+Maharashtra 31.4 60.1 42.8 39.9 57.4 64.0 67.1 62.1 55.3
+Odisha 52.3 69.3 61.0 72.3 80.0 75.3 61.3 61.1 56.3
+Punjab 40.3 57.2 50.2 63.1 69.0 62.3 55.4 52.0 48.5
+Rajasthan 88.0 90.5 68.7 124.7 126.0 113.3 63.5 55.8 78.2
+Tamil Nadu 13.0 55.3 19.6 33.3 39.0 47.1 62.2 58.3 78.6
+Telangana 39.4 63.2 31.2 57.0 70.7 63.8 69.1 66.3 70.5
+Uttar Pradesh 98.3 97.3 87.6 111.3 93.1 91.4 90.2 104.6 111.9
+Uttarakhand 62.0 63.6 61.8 71.2 66.0 61.8 51.9 64.4 74.8
+West Bengal 32.5 56.4 34.9 57.6 67.1 56.5 59.9 54.6 45.2
+99

@@ -1,0 +1,35 @@
+2.15 Statement 13 given below provides the mean age at effective marriage of female
+by residence for India and bigger States. At the National level, the mean age at effective
+marriage for female in the year 2013 is 21.3 years and varies from 21.0 years in rural areas
+to 22.5 years in urban areas. Among the bigger States, the mean age varies from 20.3
+years in Chhatisgarh to 24.4 years in Jammu & Kashmir. Chart 7 shows the female mean
+age at effective marriage for India for the year 2013.
+Statement 13
+Mean Age at Effective Marriage of Female by residence,
+India and bigger States, 2013
+India and Age at effective marriage
+bigger States Total Rural Urban
+< 18 18-20 21+ All < 18 18-20 21+ All < 18 18-20 21+ All
+Ages Ages Ages
+India 16.5 19.2 23.6 21.3 16.5 19.1 23.3 21.0 16.6 19.3 24.1 22.5
+Andhra Pradesh 16.8 19.2 22.8 20.7 16.8 19.1 22.6 20.3 16.8 19.4 23.2 21.8
+Assam 16.2 19.0 24.1 21.4 16.2 19.0 23.9 21.1 16.0 19.2 25.3 23.4
+Bihar 16.4 19.1 23.4 21.1 16.4 19.1 23.2 21.0 16.2 19.2 24.6 22.4
+Chhattisgarh 16.8 18.9 23.4 20.3 16.8 18.9 23.2 20.0 17.0 19.2 24.0 21.7
+Delhi 16.8 19.3 24.1 22.8 17.0 19.2 23.1 21.8 16.5 19.3 24.2 23.0
+Gujarat 16.6 19.4 23.5 21.6 16.7 19.3 23.0 21.0 16.5 19.5 24.1 22.7
+Haryana 16.1 19.3 23.1 21.1 16.0 19.3 22.7 20.7 16.8 19.3 23.8 22.4
+Himachal Pradesh 17.0 19.6 23.3 22.5 17.0 19.6 23.2 22.4 17.0 19.5 24.5 24.0
+Jammu & Kashmir 16.3 19.5 25.1 24.4 16.4 19.6 24.9 24.1 16.0 19.3 26.1 25.8
+Jharkhand 16.6 19.2 23.3 20.5 16.6 19.2 23.0 20.2 17.0 19.3 24.0 21.9
+Karnataka 16.7 19.1 23.8 21.3 16.7 19.1 23.5 20.9 16.6 19.0 24.2 22.2
+Kerala 16.5 19.2 24.6 23.1 16.6 19.2 24.6 22.9 15.0 19.3 24.8 23.8
+Madhya Pradesh 16.8 19.0 23.2 20.6 16.8 19.0 22.7 20.2 16.7 19.2 24.0 22.2
+Maharashtra 16.7 19.1 23.3 21.1 16.8 19.1 22.5 20.4 16.7 19.1 24.3 22.5
+Odisha 16.4 19.1 24.0 21.4 16.4 19.1 23.8 21.2 16.4 19.2 24.7 22.9
+Punjab 17.0 19.4 23.6 22.7 17.0 19.4 23.5 22.5 17.0 19.4 23.7 22.9
+Rajasthan 16.5 19.2 22.8 20.7 16.5 19.2 22.6 20.4 16.5 19.4 23.2 21.6
+Tamil Nadu 16.7 19.3 23.8 22.4 16.5 19.3 23.6 22.1 16.9 19.4 24.1 22.8
+Uttar Pradesh 16.3 19.3 23.7 21.6 16.4 19.2 23.6 21.4 15.3 19.4 24.2 22.9
+West Bengal 16.7 19.0 23.5 20.7 16.7 19.0 22.9 20.2 16.9 19.1 24.4 22.1
+27

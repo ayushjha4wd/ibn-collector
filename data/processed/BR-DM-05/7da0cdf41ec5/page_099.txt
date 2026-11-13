@@ -1,0 +1,38 @@
+3.16 The percentage distribution of cumulative fertility by woman's age is shown below in
+Statement 22 for India and bigger States/UTs for the year 2016. The cumulative fertility for a
+specific age group has been worked out by adding the ASFRs up to that age group. The
+percentage share of fertility by woman in the age group 15-19 varies from 0.7 in Uttarakhand
+to 7.4 in West Bengal. By the age 34, the percentage share of cumulative fertility varies from
+82.0 in Jammu & Kashmir to 96.1 in Haryana. The percentage share in cumulative fertility for
+women by the age 39 years varies from 92.8 in Jammu & Kashmir to 99.0 in Tamil Nadu and
+Telangana. Chart 44 gives percentage cumulative age specific fertility rate for India by
+residence.
+Statement 22
+Percentage distribution of cumulative fertility by age group,
+India and bigger States/UTs, 2016
+India and bigger 15-19 15-24 15-29 15-34 15-39 15-44 15-49
+States/UTs
+India 2.5 36.5 74.9 92.3 97.9 99.5 100.0
+Andhra Pradesh 2.7 44.4 84.0 95.3 98.5 99.4 100.0
+Assam 4.2 38.5 75.0 92.5 98.7 99.5 100.0
+Bihar 1.9 33.6 72.8 92.9 98.6 99.8 100.0
+Chhattisgarh 3.2 43.6 80.3 93.8 98.7 99.7 100.0
+Delhi 0.9 27.1 71.7 92.8 97.9 99.6 100.0
+Gujarat 1.8 36.1 77.2 93.2 98.0 99.6 100.0
+Haryana 1.6 37.6 80.6 96.1 98.5 99.6 100.0
+Himachal Pradesh 2.5 33.1 73.6 90.9 98.3 99.7 100.0
+Jammu & Kashmir 1.0 15.8 54.5 82.0 92.8 98.0 100.0
+Jharkhand 2.5 36.9 72.1 90.3 97.1 99.4 100.0
+Karnataka 1.6 35.5 78.2 94.7 98.7 99.7 100.0
+Kerala 1.7 29.1 68.4 91.9 98.6 99.8 100.0
+Madhya Pradesh 2.7 40.0 79.3 93.4 98.3 99.6 100.0
+Maharashtra 2.3 37.8 77.8 93.7 98.3 99.4 100.0
+Odisha 2.2 34.8 74.6 92.5 97.7 99.5 100.0
+Punjab 1.3 27.9 69.4 89.9 96.4 98.9 100.0
+Rajasthan 3.1 42.0 76.9 92.6 98.1 99.6 100.0
+Tamil Nadu 1.6 32.8 75.3 94.4 99.0 99.7 100.0
+Telangana 1.6 38.3 81.8 95.6 99.0 99.6 100.0
+Uttar Pradesh 1.9 31.9 69.1 89.1 96.4 99.1 100.0
+Uttarakhand 0.7 29.3 74.2 93.1 98.1 99.5 100.0
+West Bengal 7.4 53.8 83.4 95.0 98.4 99.6 100.0
+74

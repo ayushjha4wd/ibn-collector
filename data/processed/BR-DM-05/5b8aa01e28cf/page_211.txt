@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2014
+Punjab
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 27.4 26.2 28.9 29.8 28.6 31.4 23.6 22.5 25.1
+1-4 0.8 0.2 1.6 1.1 0.3 2.2 0.4 0.0 0.8
+0-4 6.3 5.5 7.2 7.0 6.1 8.3 5.1 4.6 5.5
+5-9 0.3 0.5 0.1 0.3 0.5 0.2 0.2 0.4 0.0
+10-14 0.5 0.6 0.5 0.3 0.2 0.4 0.8 1.1 0.5
+15-19 1.2 1.1 1.4 1.1 0.6 1.7 1.4 1.8 0.9
+20-24 1.2 1.6 0.8 0.9 1.4 0.3 1.7 1.9 1.5
+25-29 1.6 2.0 1.1 1.7 2.4 0.9 1.5 1.5 1.4
+30-34 2.0 2.1 1.8 2.2 2.4 2.0 1.8 1.8 1.7
+35-39 3.0 3.1 2.8 3.5 3.8 3.0 2.3 2.2 2.6
+40-44 3.9 4.8 2.9 4.4 5.2 3.5 3.2 4.1 2.2
+45-49 5.4 6.1 4.6 6.6 7.1 6.0 3.9 4.8 2.9
+50-54 8.4 9.3 7.4 9.6 11.0 7.9 7.0 7.2 6.8
+55-59 11.2 12.3 9.8 13.4 14.1 12.6 8.4 10.1 6.4
+60-64 14.9 18.3 11.6 17.7 21.5 14.1 10.8 13.7 7.8
+65-69 24.6 27.6 21.3 27.8 30.5 25.0 20.0 23.6 16.2
+70-74 31.6 35.0 28.3 33.7 37.2 30.3 28.4 31.6 25.1
+75-79 39.1 43.0 35.2 40.0 44.6 35.5 37.4 40.0 34.7
+80-84 78.9 86.3 70.8 77.5 80.3 74.3 82.3 100.7 63.3
+85+ 152.7 190.0 120.7 140.0 171.6 112.1 191.5 249.5 145.8
+All ages 6.4 6.8 5.8 7.2 7.6 6.7 5.2 5.7 4.6
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2014
+Punjab
+Indicators Total Rural Urban
+Child mortality rate 6 7 5
+Under-five mortality rate 27 30 22
+Infant mortality rate 24 26 21
+Neo-natal mortality rate 14 14 14
+Early neo-natal mortality rate 10 10 10
+Late neo-natal mortality rate 4 4 5
+Post neo-natal mortality rate 10 12 6
+Peri-natal mortality rate 15 15 16
+Still birth rate 6 5 6
+190

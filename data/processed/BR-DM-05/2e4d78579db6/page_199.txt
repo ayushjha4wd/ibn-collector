@@ -1,0 +1,39 @@
+Neo-natal mortality rate 28 32 18
+Early neo-natal mortality rate 24 27 14
+Late neo-natal mortality rate 5 5 5
+Post neo-natal mortality rate 16 16 16
+Peri-natal mortality rate 32 37 20
+Still birth rate 9 10 6
+Table 8
+Age-specific death rate by sex and residence, 2011
+Himachal Pradesh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 37.4 37.7 37.0 37.5 39.1 35.9 35.3 15.1 52.8
+1-4 2.2 1.9 2.6 2.2 1.8 2.6 2.3 2.9 1.6
+0-4 9.3 8.9 9.7 9.4 9.2 9.5 8.1 4.8 11.5
+5-9 0.2 0.4 0.0 0.2 0.4 0.0 0.0 0.0 0.0
+10-14 0.6 0.7 0.5 0.6 0.8 0.4 0.5 0.0 1.0
+15-19 0.8 1.1 0.4 0.6 0.9 0.4 2.1 3.0 0.9
+20-24 1.3 1.4 1.2 1.4 1.5 1.3 0.0 0.0 0.0
+25-29 2.4 3.3 1.6 2.5 3.4 1.7 1.6 2.6 0.8
+30-34 1.4 1.7 1.2 1.5 1.7 1.3 0.9 1.8 0.0
+35-39 2.5 2.7 2.3 2.8 3.0 2.5 0.4 0.0 0.8
+40-44 3.1 5.3 1.0 3.3 5.8 1.1 1.4 1.8 0.9
+45-49 3.0 3.6 2.4 2.9 3.3 2.5 3.9 5.6 2.1
+50-54 5.9 8.3 3.5 6.1 8.9 3.3 4.6 4.0 5.4
+55-59 6.6 7.8 5.6 6.7 8.1 5.5 6.2 5.4 7.2
+60-64 14.5 17.5 11.4 15.0 18.3 11.6 9.4 10.1 8.3
+65-69 28.6 36.7 20.7 30.0 39.1 21.3 11.5 9.7 13.4
+70-74 37.8 45.6 30.3 39.4 48.0 31.1 17.6 15.4 19.6
+75-79 66.7 71.0 62.8 69.7 74.2 65.6 33.0 34.9 31.4
+80-84 105.8 118.7 94.1 110.4 121.1 100.8 42.2 86.3 0.0
+85+ 116.2 116.9 115.6 118.3 114.8 121.3 79.2 155.1 18.2
+All ages 6.7 7.7 5.7 7.0 8.1 6.0 3.6 4.1 3.1
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2011
+Himachal Pradesh
+Indicators Total Rural Urban
+Child mortality rate 9 9 8
+Under-five mortality rate 46 47 36

@@ -1,0 +1,52 @@
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+4 Southern 165 34 Jalaun
+166 35 Jhansi
+167 36 Lalitpur
+168 37 Hamirpur
+169 38 Mahoba
+170 39 Banda
+171 40 Chitrakoot
+5 Southern Upper Ganga Plain 142 11 Bulandshahr
+143 12 Aligarh
+144 13 Mahamaya Nagar (Hathras)
+145 14 Mathura
+146 15 Agra
+147 16 Firozabad
+148 17 Mainpuri
+149 18 Budaun
+150 19 Bareilly
+151 20 Pilibhit
+152 21 Shahjahanpur
+153 22 Kheri
+159 28 Farrukhabad
+160 29 Kannauj
+161 30 Etawah
+162 31 Auraiya
+201 70 Etah
+202 71 Kanshiram Nagar
+10 Bihar 1 Northern 203 01 Pashchim Champaran
+204 02 Purba Champaran
+205 03 Sheohar
+206 04 Sitamarhi
+207 05 Madhubani
+208 06 Supaul
+209 07 Araria
+210 08 Kishanganj
+211 09 Purnia
+212 10 Katihar
+213 11 Madhepura
+214 12 Saharsa
+215 13 Darbhanga
+216 14 Muzaffarpur
+217 15 Gopalganj
+218 16 Siwan
+219 17 Saran
+220 18 Vaishali
+221 19 Samastipur
+222 20 Begusarai
+223 21 Khagaria
+229

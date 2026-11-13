@@ -1,0 +1,34 @@
+3.7 The Statement 16 below presents sex ratio at birth during the period 2010-12. The
+sex ratio at birth for the country for the period 2010-12 (3-years average) has been estimated
+as 908. At National level, it is 909 in rural area and 904 in urban area. Among the bigger
+States, the sex ratio at birth varies from 979 in Chhattisgarh to 857 in Haryana. In the rural
+areas, the highest and the lowest sex ratio at birth are in the States of Chhattisgarh (986) and
+Punjab (856) respectively. The sex ratio in urban areas varies from 979 in Kerala to 852 in
+Haryana. Chart 10 depicts the variation in sex ratio by residence among bigger States in the
+country.
+Statement 16
+Sex ratio (female per 1000 male) at birth by residence,
+India and bigger States, 2010-2012
+India and bigger States Total Rural Urban
+India 908 909 904
+Andhra Pradesh 914 911 923
+Assam 922 924 905
+Bihar 909 911 891
+Chhattisgarh 979 986 933
+Delhi 884 892 882
+Gujarat 909 922 885
+Haryana 857 859 852
+Himachal Pradesh 939 941 904
+Jammu & Kashmir 895 895 894
+Jharkhand 918 929 856
+Karnataka 950 958 935
+Kerala 966 963 979
+Madhya Pradesh 921 920 927
+Maharashtra 896 882 917
+Odisha 948 952 921
+Punjab 863 856 875
+Rajasthan 893 900 868
+Tamil Nadu 928 934 920
+Uttar Pradesh 874 872 883
+West Bengal 944 940 960
+34

@@ -1,0 +1,51 @@
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+22 Chhatisgarh 1 Northern Chhattisgarh 400 01 Koriya
+401 02 Surguja
+2 Mahanadi Basin 402 03 Jashpur
+403 04 Raigarh
+404 05 Korba
+405 06 Janjgir - Champa
+406 07 Bilaspur
+407 08 Kabeerdham
+408 09 Rajnandgaon
+409 10 Durg
+410 11 Raipur
+411 12 Mahasamund
+412 13 Dhamtari
+3 Southern Chhattisgarh 413 14 Uttar Bastar Kanker
+414 15 Bastar
+415 16 Narayanpur
+416 17 Dakshin Bastar Dantewada
+417 18 Bijapur
+23 Madhya Pradesh 1 Vindhya 424 07 Tikamgarh
+425 08 Chhatarpur
+426 09 Panna
+429 12 Satna
+430 13 Rewa
+431 14 Umaria
+460 43 Shahdol
+461 44 Anuppur
+462 45 Sidhi
+463 46 Singrauli
+2 Central 427 10 Sagar
+428 11 Damoh
+443 26 Vidisha
+444 27 Bhopal
+445 28 Sehore
+446 29 Raisen
+3 Malwa 432 15 Neemuch
+433 16 Mandsaur
+434 17 Ratlam
+435 18 Ujjain
+436 19 Shajapur
+437 20 Dewas
+438 21 Dhar
+439 22 Indore
+442 25 Rajgarh
+464 47 Jhabua
+465 48 Alirajpur
+330

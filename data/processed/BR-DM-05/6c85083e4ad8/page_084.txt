@@ -1,0 +1,36 @@
+3.33 Statement 37 below presents the percentage distribution of current live birth by birth
+order and residence for India and bigger States. It may be observed that the percentage of
+current live births for ‘first’ and ‘second’ order taken together is generally higher for urban
+areas if compared to the rural areas for bigger States except Delhi. For ‘third’, ‘fourth &
+above’ order live births, the percentage contribution at National level is significantly higher
+in rural areas (26.1) compared to urban areas (16.4).
+Statement 37
+Percentage distribution of current live births by Birth Order and residence,
+India and bigger States, 2013
+India and bigger Birth order
+States
+Rural Urban
+1st 2nd 3rd 4th & 1st 2nd 3rd 4th &
+above above
+India 42.1 31.8 14.4 11.7 48.7 34.8 10.3 6.1
+Andhra Pradesh 49.5 41.4 7.9 1.1 48.2 43.2 7.2 1.4
+Assam 48.1 27.7 13.1 11.1 59.3 28.9 7.4 4.3
+Bihar 34.7 27.5 17.8 19.9 42.6 27.1 14.4 15.9
+Chhattisgarh 37.6 35.2 17.7 9.5 45.7 36.9 12.9 4.5
+Delhi 48.1 32.8 12.7 6.3 48.4 31.8 12.0 7.8
+Gujarat 45.2 29.9 14.0 10.9 50.3 32.5 11.9 5.3
+Haryana 44.6 34.4 12.1 8.9 45.2 38.0 12.2 4.6
+Himachal Pradesh 50.5 36.3 8.1 5.0 50.7 39.1 7.9 2.3
+Jammu & Kashmir 41.9 31.1 14.7 12.3 50.5 35.8 10.6 3.1
+Jharkhand 37.1 29.8 18.1 15.0 46.3 31.1 14.5 8.1
+Karnataka 44.5 36.5 14.2 4.8 50.5 35.7 10.3 3.5
+Kerala 48.0 38.0 11.5 2.5 51.3 39.1 8.3 1.4
+Madhya Pradesh 40.0 33.2 14.9 11.8 46.3 33.1 12.6 8.1
+Maharashtra 48.2 35.4 11.8 4.6 47.1 37.0 10.5 5.3
+Odisha 44.5 34.2 12.6 8.7 50.7 35.9 10.1 3.3
+Punjab 53.9 33.5 9.3 3.3 57.6 30.8 7.2 4.5
+Rajasthan 37.4 29.3 16.1 17.2 43.2 34.0 13.5 9.3
+Tamil Nadu 50.1 39.1 8.9 1.9 53.0 41.3 5.0 0.6
+Uttar Pradesh 38.2 29.9 16.8 15.1 45.2 33.5 10.9 10.4
+West Bengal 56.4 29.9 8.4 5.3 61.5 27.7 7.3 3.4
+63

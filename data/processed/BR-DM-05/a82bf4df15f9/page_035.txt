@@ -1,0 +1,50 @@
+1.10 Continuous enumeration: The enumerator maintains a Birth Record (Form 4)
+and a Death Record (Form 5) in respect of his/her area. The enumerator is expected to
+record all births and deaths occurring within the sample unit, as well as those of the usual
+residents occurring outside the sample unit. The events in respect of visitors occurring
+within the sample unit are also listed, but these are not taken into account while
+calculating rates. Thus, the events to be netted by the enumerator are those pertaining to:
+(i) usual residents inside the sample unit; (ii) usual residents outside the sample unit; (iii)
+in-migrants present; (iv) in-migrants absent; and (v) visitors inside the sample unit.
+1.11 For ensuring complete netting, the enumerator uses different sources to get
+information of the occurrence of vital events in the sample unit. These include the help of
+the village priest, barber, village headman, midwife and such other functionaries. The
+enumerators maintain contact with these informants at frequent intervals and collects
+information about the occurrence of births and deaths. On being informed about the
+occurrence of an event, the enumerator visits the concerned household and records the
+prescribed particulars. The enumerator also keeps in touch with other socially important
+persons and visits local or nearby hospitals, nursing homes, cremation or burial grounds,
+at frequent intervals to keep updated about the occurrence of events. Besides, enumerator
+maintains and updates a list of all women in the reproductive span along with their
+pregnancy status, which helps in better netting of all the births. Despite all these efforts,
+the enumerator may miss information about some of the events and is, therefore, required
+to visit all the households once a month in urban area and once in a quarter in rural areas
+so as to ensure that all the events have been recorded.
+1.12 Half-yearly survey: Half-yearly survey is carried out independently in each
+sample unit by a full-time supervisor. The supervisor belonging to the statistical cadre of
+the State Census Directorates (either a Compiler or a Sr. Compiler or a Statistical
+Investigator or any suitable official) visits each household in the sample unit and records
+the particulars of births and deaths in Forms 9 & 10 respectively in respect of all the usual
+residents and visitors (only those occurring within the sample unit) which had occurred
+during the half-yearly period (January-June or July-December) under reference.
+Simultaneously, the house-list, the household schedule and the pregnancy status of women
+are updated by making entries of changes, if any. While carrying out this survey the
+supervisor does not have access to the birth and death records of the enumerator for the
+same periods which are withdrawn from the field before the supervisor’s visit for the half
+yearly survey. The Half Yearly Surveys are retrospective in nature and therefore the first
+HYS for reference period January-June of a year takes place in July- November period of
+that year and the Second HYS pertaining to July-December of a year takes place in
+January-May of the subsequent Year.
+1.13 Matching: On completion of the half-yearly survey, the events captured in the
+Forms 9 & 10 (filled-in by the supervisors) are compared with those in the Forms 4 & 5
+(filled-in by the enumerators). This is done at the office of Directorate of Census
+Operations for all States except for rural areas of Kerala and Maharashtra, where it is done
+at the Directorate of Economics and Statistics of the respective States. Selected important
+entries in the enumerator's and supervisor's record are matched item by item and events
+are classified as fully matched, partially matched and unmatched. The items generally
+considered for matching for birth events are: Identification code of the head of
+Household and mother, Relationship of the mother to head, date of live birth, month in
+case of still birth/abortion, sex in case of live birth /still birth and the items considered
+for death events are: identification code of the head of household and mother in infant
+death, relationship of the deceased to head, date of death and sex of the deceased.
+3

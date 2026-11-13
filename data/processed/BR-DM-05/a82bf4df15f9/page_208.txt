@@ -1,0 +1,35 @@
+4.21 Death rates for persons aged 60 years and above by sex and residence are given
+below in Statement 56. At the National level, death rate in this age group is estimated
+to be 42.3 and males have higher mortality rate (44.7) than females (39.8). This
+difference exists in both rural and urban areas. The death rate for this age group,
+among the bigger States/UTs, varies from 28.3 in Jammu & Kashmir to 52.2 in Bihar
+and Chhattisgarh.
+Statement 56
+Death Rates for persons aged 60 years and above by
+sex and residence, India and bigger States/UTs, 2017
+India and bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 42.3 44.7 39.8 45.2 48.7 41.7 36.4 36.9 35.9
+Andhra Pradesh 41.9 43.0 40.6 43.6 45.9 41.1 36.7 34.5 39.1
+Assam 43.1 44.8 41.0 45.6 48.5 42.1 32.6 30.2 35.6
+Bihar 52.2 49.3 55.4 54.9 52.7 57.3 39.1 33.5 45.9
+Chhattisgarh 52.2 57.7 47.3 53.3 58.9 48.4 47.8 53.1 43.0
+Delhi 29.2 32.6 25.6 29.1 32.7 25.3 29.2 32.6 25.6
+Gujarat 41.9 46.5 37.8 42.6 50.9 35.4 40.9 40.6 41.2
+Haryana 39.3 44.0 34.5 41.7 48.2 35.2 35.0 36.5 33.3
+Himachal Pradesh 41.2 47.0 35.9 42.2 48.2 36.7 27.4 31.2 23.2
+Jammu & Kashmir 28.3 31.5 24.9 30.0 32.8 27.0 25.0 28.8 20.9
+Jharkhand 45.3 39.4 51.1 49.4 41.1 57.3 34.0 35.0 32.9
+Karnataka 45.0 47.0 43.2 51.6 57.1 46.7 33.3 30.2 36.6
+Kerala 40.6 46.2 36.0 41.9 48.2 36.7 39.2 44.0 35.3
+Madhya Pradesh 45.0 48.4 41.7 46.2 50.2 42.2 41.9 43.6 40.3
+Maharashtra 39.3 40.6 38.0 41.2 42.7 39.8 36.3 37.5 34.9
+Odisha 41.9 44.0 39.6 42.2 45.0 39.2 39.8 37.7 42.0
+Punjab 39.5 42.2 36.7 41.6 44.7 38.3 36.1 38.2 33.8
+Rajasthan 41.7 49.6 35.0 42.9 53.5 34.0 38.5 39.4 37.8
+Tamil Nadu 38.7 40.4 37.0 43.5 45.4 41.6 34.5 36.1 32.7
+Telangana 46.2 47.1 45.3 48.0 50.6 45.3 42.0 39.0 45.4
+Uttar Pradesh 43.9 48.4 39.4 46.2 51.8 40.7 37.0 38.5 35.5
+Uttarakhand 44.2 54.6 35.1 45.0 58.0 33.9 41.8 44.1 39.4
+West Bengal 39.7 40.9 38.5 43.3 46.5 40.3 34.1 33.0 35.4
+176

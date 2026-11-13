@@ -1,0 +1,35 @@
+3.14 The fertility pattern by age groups in different States is presented below in Statement
+21. Except for Jammu & Kashmir , Kerala, Bihar, Gujarat, Uttarakhand and Uttar Pradesh
+where fertility reached its peak in the age group 25-29, the highest fertility in all the other
+bigger States has been attained in the age group 20-24. Fertility, however, declines from age
+30 in all the bigger States. The ASFR in the younger age group 15-19 varies from 4.3 in
+Jammu & Kashmir to 55.9 in Assam. In the age group 30-34, the variation in the level of
+ASFR is from 24.3 in West Bengal to 141.8 in Uttar Pradesh. The rural-urban levels in
+ASFR for bigger States are shown in Table 3.
+Statement 21
+ASFRs (Age Specific Fertility Rates), India and bigger States, 2014
+India and bigger States 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+India 27.3 174.9 143.7 76.6 26.4 10.5 3.6
+Andhra Pradesh 19.7 185.3 98.4 33.7 11.1 5.5 0.0
+Assam 55.9 169.5 149.0 69.3 22.2 3.2 0.7
+Bihar 19.0 207.7 211.8 138.9 45.3 15.2 2.2
+Chhattisgarh 41.0 206.8 149.3 73.4 25.9 11.6 2.3
+Delhi 9.9 130.8 124.8 56.5 13.5 4.9 0.8
+Gujarat 30.8 157.4 164.7 78.1 20.6 6.7 1.8
+Haryana 18.7 177.3 174.6 56.6 15.3 7.3 2.5
+Himachal Pradesh 12.8 138.9 129.4 46.5 9.6 2.1 0.5
+Jammu & Kashmir 4.3 84.0 122.6 99.2 21.7 7.6 2.6
+Jharkhand 32.1 166.9 164.6 109.2 48.6 21.1 11.6
+Karnataka 10.5 182.6 115.1 38.2 13.9 4.9 3.1
+Kerala 19.6 133.8 142.3 62.4 9.0 2.5 0.7
+Madhya Pradesh 40.0 225.7 170.6 85.0 28.5 12.7 5.7
+Maharashtra 16.7 194.7 96.0 41.7 12.9 4.2 1.4
+Odisha 24.2 141.3 133.6 70.9 30.0 11.2 3.2
+Punjab 7.6 128.2 123.4 56.2 16.1 4.0 2.5
+Rajasthan 43.7 204.1 156.5 90.1 35.0 16.6 4.1
+Tamil Nadu 32.3 134.1 112.1 48.5 11.1 3.7 1.2
+Telangana 18.4 152.8 119.1 50.9 10.5 5.1 5.7
+Uttar Pradesh 24.4 175.9 199.1 141.8 56.5 27.3 8.7
+Uttarakhand 13.7 132.7 155.7 76.2 19.8 7.5 2.3
+West Bengal 45.5 175.3 58.9 24.3 8.9 3.4 1.6
+44

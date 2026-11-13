@@ -1,0 +1,13 @@
+Table 5
+Percentage distribution of live births by order of birth, 2015
+Birth Total Rural Urban
+order Total Males Females Total Males Females Total Males Females
+India
+1 48.6 49.0 48.1 46.5 47.0 45.9 54.4 54.6 54.1
+2 28.5 28.4 28.7 27.9 27.7 28.1 30.3 30.2 30.3
+3 13.4 13.1 13.7 14.5 14.2 15.0 10.3 10.3 10.3
+4 5.6 5.6 5.6 6.5 6.6 6.3 3.2 3.0 3.4
+5+ 3.9 3.8 3.9 4.6 4.6 4.6 1.8 1.9 1.8
+Total 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+Note : Total may not add up to 100 due to rounding off.
+252

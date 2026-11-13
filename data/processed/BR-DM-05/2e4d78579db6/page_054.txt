@@ -1,0 +1,34 @@
+3.6 Statement 15 below provides the percentage change in average crude birth rate between
+the periods 1999-01 and 2009-11 for India and bigger States separately for rural and urban
+areas. At the national level, the rate of decline in birth rate is 14.0 per cent. The rate of decline
+in average birth rate varies from 24.2 per cent in Himachal Pradesh to 13.3 per cent in Bihar.
+Such decline in rural areas is from 23.7 per cent in Himachal Pradesh to 12.5 per cent in
+Assam. In urban areas, the decline ranges from 32.5 per cent in Himachal Pradesh to 8.4 per
+cent in Rajasthan. In Kerala, the average crude birth rate in rural areas is nearly same as in the
+urban areas during 2009-11.
+Statement 15
+Percent change in average crude birth rate between 1999-01 and 2009-11 by
+residence, India and bigger States
+India and Total Rural Urban
+bigger States 1999- 2009- % 1999- 2009- % 1999- 2009- %
+01 11 Change 01 11 Change 01 11 Change
+India 25.8 22.2 -14.0 27.4 23.7 -13.5 20.6 18.0 -12.6
+Andhra Pradesh 21.3 17.9 -16.0 21.7 18.3 -15.7 20.2 16.8 -16.8
+Assam 27.0 23.2 -14.1 27.9 24.4 -12.5 18.7 15.8 -15.5
+Bihar* 31.6 27.4 -13.3 32.5 28.3 -12.9 24.7 20.9 -15.4
+Gujarat 25.2 21.8 -13.5 26.8 23.3 -13.1 21.8 19.4 -11.0
+Haryana 26.8 22.3 -16.8 27.9 23.3 -16.5 23.1 19.8 -14.3
+Himachal Pradesh 22.3 16.9 -24.2 22.8 17.4 -23.7 16.9 11.4 -32.5
+Karnataka 22.2 19.2 -13.5 23.5 20.2 -14.0 19.1 17.4 -8.9
+Kerala 17.7 14.9 -15.8 17.8 14.9 -16.3 17.3 14.7 -15.0
+Madhya Pradesh* 31.2 26.8 -14.1 33.1 28.6 -13.6 23.4 20.0 -14.5
+Maharashtra 21.0 17.1 -18.6 21.3 17.7 -16.9 20.3 16.4 -19.2
+Odisha 24.0 20.5 -14.6 24.5 21.4 -12.7 20.1 15.2 -24.4
+Punjab 21.4 16.6 -22.4 22.4 17.2 -23.2 18.6 15.5 -16.7
+Rajasthan 31.2 26.7 -14.4 32.5 27.9 -14.2 24.9 22.8 -8.4
+Tamil Nadu 19.2 16.0 -16.7 19.8 16.2 -18.2 18.0 15.8 -12.2
+Uttar Pradesh* 32.5 27.8 -14.5 33.7 28.8 -14.5 27.2 23.7 -12.9
+West Bengal 20.6 16.8 -18.4 22.9 18.6 -18.8 14.1 11.8 -16.3
+* Bihar, Madhya Pradesh and Uttar Pradesh include Jharkhand, Chhattisgarh, and Uttarakhand
+respectively.
+32

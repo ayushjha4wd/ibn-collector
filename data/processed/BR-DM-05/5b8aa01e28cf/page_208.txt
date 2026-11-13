@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2014
+Madhya Pradesh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 56.2 52.4 60.7 63.6 60.2 67.4 32.8 28.1 38.5
+1-4 3.4 2.3 4.5 4.2 2.8 5.7 0.6 0.7 0.5
+0-4 15.7 14.2 17.3 17.9 16.4 19.6 8.3 7.3 9.4
+5-9 1.2 1.2 1.2 1.2 1.0 1.5 1.2 1.8 0.4
+10-14 1.4 1.4 1.4 1.5 1.5 1.4 1.1 1.0 1.3
+15-19 1.6 2.0 1.1 1.8 2.3 1.2 1.0 1.1 0.8
+20-24 1.9 2.1 1.6 2.0 2.1 1.9 1.5 2.0 1.0
+25-29 2.5 2.5 2.5 2.8 2.5 3.0 2.0 2.5 1.4
+30-34 2.2 2.8 1.6 2.3 2.6 1.9 2.1 3.0 1.0
+35-39 3.3 4.4 2.1 3.6 4.7 2.4 2.6 3.5 1.6
+40-44 3.6 4.5 2.7 4.0 4.7 3.4 2.6 4.0 1.0
+45-49 5.0 6.8 3.2 5.0 7.2 2.6 5.1 5.8 4.4
+50-54 10.9 13.5 7.9 11.6 15.7 7.1 9.4 9.0 9.8
+55-59 12.2 16.5 8.5 12.9 17.9 8.9 10.4 13.4 7.4
+60-64 20.8 23.6 17.5 22.0 25.1 18.3 17.5 19.4 15.4
+65-69 32.9 40.4 25.9 36.3 45.9 27.3 23.9 25.7 22.1
+70-74 50.7 57.5 44.0 54.1 66.1 42.9 40.7 34.7 47.4
+75-79 86.3 91.2 81.9 84.4 89.6 79.7 92.0 95.7 88.5
+80-84 157.8 173.0 144.1 169.5 183.9 156.8 126.7 145.0 109.2
+85+ 270.0 299.8 247.2 278.9 307.1 256.1 244.3 275.9 223.8
+All ages 7.8 8.3 7.2 8.4 9.0 7.8 6.0 6.4 5.6
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2014
+Madhya Pradesh
+Indicators Total Rural Urban
+Child mortality rate 16 18 8
+Under-five mortality rate 65 72 37
+Infant mortality rate 52 57 35
+Neo-natal mortality rate 35 39 22
+Early neo-natal mortality rate 26 29 17
+Late neo-natal mortality rate 9 10 5
+Post neo-natal mortality rate 17 18 13
+Peri-natal mortality rate 31 33 23
+Still birth rate 5 4 6
+187

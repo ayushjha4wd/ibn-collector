@@ -1,0 +1,45 @@
+Statement 1
+Number of sample units at different replacement period
+Residence 1969-70 1977-78 1983-85 1993-95 2004 2014
+Rural 2432 3684 4176 4436 4433 4961
+Urban 1290 1738 1846 2235 3164 3892
+Total 3722 5422 6022 6671 7597 8853
+1.5 The earlier sample was based on the reliability of birth rate at the State level,
+whereas the 2004 and 2014 sample is estimated using IMR reliability at natural division
+level. The present report ‘SRS Statistical Report, 2017’ is based on the latest sample
+from Census 2011 frame.
+1.6 The main objective of SRS is to provide reliable estimates of birth rate, death rate
+and infant mortality rate at the natural division level for major States and at the State
+level for smaller States. Natural divisions are National Sample Survey (NSS) classified
+group of contiguous administrative districts with distinct geographical and other natural
+characteristics. It also provides data for other measures of fertility and mortality
+including total fertility, infant and child mortality rate at higher geographical levels.
+Structure of the Sample Registration System
+1.8 The main components of SRS are:
+(i) Base-line survey of the sample units to obtain demographic details of the usual
+resident population of the sample areas;
+(ii) Continuous (longitudinal) enumeration of vital events pertaining to usual resident
+population by the enumerator;
+(iii) Independent retrospective half-yearly surveys for recording births and deaths
+which occurred during the half-year under reference and up-dating the Houselist,
+Household schedule and the list of women in the reproductive age group along
+with their pregnancy status by the Supervisor;
+(iv) Matching of events recorded during continuous enumeration and those listed in
+course of half- yearly survey;
+(v) Field verification of unmatched and partially matched events; and
+(vi) Filling of Verbal Autopsy Forms for finalized deaths.
+1.9 Baseline Survey: The base-line survey is carried out prior to the start of
+continuous enumeration. This involves preparation of a notional map of the area to be
+surveyed, house numbering and house listing and filling of a household schedule. The
+supervisor prepares a notional map with the help of the enumerator showing important
+landmarks and location of the houses to be covered in the sample unit. Subsequently, a
+list of houses/households to be covered by the sample in the House List (Form-1) is
+prepared and the Household Schedule (Form-2) is filled in. In the Household Schedule
+(Form-2), the residential status and other demographic particulars of each individual
+residing in the household viz. identification code, name, sex, date of birth, age,
+educational/marital status and relation to head of household, etc. are recorded. The
+inmates of public institutions like hotels, inns, schools and hospitals are excluded, but
+households living permanently within the compound of such institutions are covered. A
+list of all women in the reproductive span along with their pregnancy status is also
+prepared in Form 3 at the time of the base line survey.
+2

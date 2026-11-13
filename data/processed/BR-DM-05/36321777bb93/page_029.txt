@@ -1,0 +1,47 @@
+Statement 2
+Number of sample units and population covered
+India, States and Union Territories, 2012
+India/States/ Number of sample units Population covered (in'000)
+Union territories Total Rural Urban Total Rural Urban
+1 2 3 4 5 6 7
+India 7,597 4,433 3,164 7439 5453 1986
+Bigger States
+Andhra Pradesh 375 235 140 416 324 92
+Assam 300 90 210 227 99 128
+Bihar 330 200 130 380 310 70
+Chhattisgarh 130 40 90 110 46 64
+Delhi 200 10 190 170 22 149
+Gujarat 365 215 150 371 290 81
+Haryana 210 100 110 220 139 80
+Jammu & Kashmir 260 150 110 228 179 49
+Jharkhand 170 60 110 122 66 56
+Karnataka 480 330 150 440 358 83
+Kerala 250 150 100 356 290 67
+Madhya Pradesh 340 220 120 332 257 74
+Maharashtra 485 250 235 415 282 134
+Odisha 405 290 115 348 280 69
+Punjab 250 150 100 249 181 68
+Rajasthan 350 250 100 349 297 53
+Tamil Nadu 465 250 215 482 342 141
+Uttar Pradesh 500 350 150 593 490 103
+West Bengal 555 310 245 617 448 169
+Smaller States
+Arunachal Pradesh 60 45 15 37 23 14
+Goa 85 43 42 84 59 25
+Himachal Pradesh 190 140 50 99 71 28
+Manipur 150 110 40 140 115 25
+Meghalaya 120 90 30 72 54 18
+Mizoram 40 20 20 32 18 14
+Nagaland 45 33 12 37 29 8
+Sikkim 60 45 15 68 56 12
+Tripura 80 60 20 116 104 13
+Uttarakhand 150 100 50 118 87 31
+Union Territories
+Andaman & Nicobar Islands 50 34 16 40 30 10
+Chandigarh 35 5 30 36 11 24
+Dadra & Nagar Haveli 30 22 8 42 37 5
+Daman & Diu 20 13 7 28 24 5
+Lakshadweep 12 6 6 15 10 4
+Puducherry 50 17 33 48 27 21
+Note: ‘Total’ population may not add up to ‘Rural’ and ‘Urban’ population due to rounding.
+6

@@ -1,0 +1,52 @@
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+09 Uttar Pradesh 1 Northern Upper Ganga Plain 132 01 Saharanpur
+133 02 Muzaffarnagar
+134 03 Bijnor
+135 04 Moradabad
+136 05 Rampur
+137 06 Jyotiba Phule Nagar
+138 07 Meerut
+139 08 Baghpat
+140 09 Ghaziabad
+141 10 Gautam Buddha Nagar
+2 Central 154 23 Sitapur
+155 24 Hardoi
+156 25 Unnao
+157 26 Lucknow
+158 27 Rae Bareli
+163 32 Kanpur Dehat
+164 33 Kanpur Nagar
+172 41 Fatehpur
+176 45 Bara Banki
+3 Eastern 173 42 Pratapgarh
+174 43 Kaushambi
+175 44 Allahabad
+177 46 Faizabad
+178 47 Ambedkar Nagar
+179 48 Sultanpur
+180 49 Bahraich
+181 50 Shrawasti
+182 51 Balrampur
+183 52 Gonda
+184 53 Siddharthnagar
+185 54 Basti
+186 55 Sant Kabir Nagar
+187 56 Mahrajganj
+188 57 Gorakhpur
+189 58 Kushinagar
+190 59 Deoria
+191 60 Azamgarh
+192 61 Mau
+193 62 Ballia
+194 63 Jaunpur
+195 64 Ghazipur
+196 65 Chandauli
+197 66 Varanasi
+198 67 Sant Ravidas Nagar (Bhadohi)
+199 68 Mirzapur
+200 69 Sonbhadra
+228

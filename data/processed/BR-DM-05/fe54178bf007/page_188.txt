@@ -1,0 +1,36 @@
+4.18 The Under-five mortality rates by residence are given below in Statement 53
+separately for males and females. At the National level, under-five mortality rate is
+estimated at 43 and it varies from 48 in rural areas to 28 in urban areas. Among the
+bigger States/UTs, it varies from 13 in Kerala to 62 in Assam. All the bigger States/UTs
+have higher Under-five mortality rates of female than that of male except Himachal
+Pradesh, Madhya Pradesh, Odisha and Punjab.
+Statement 53
+Under-Five Mortality Rates (U5MR) by sex and residence,
+India and bigger States/UTs, 2015
+India & bigger Total Rural Urban
+States/UTs
+Total Male Female Total Male Female Total Male Female
+India 43 40 45 48 46 50 28 26 31
+Andhra Pradesh 39 37 42 43 42 44 29 25 35
+Assam 62 58 66 65 62 70 27 25 29
+Bihar 48 43 54 48 43 54 47 40 56
+Chhattisgarh 48 45 51 51 47 55 35 36 34
+Delhi 20 18 23 27 27 28 20 18 22
+Gujarat 39 38 41 47 49 45 26 21 33
+Haryana 43 41 46 47 44 51 36 34 37
+Himachal Pradesh 33 34 32 33 34 32 26 34 16
+Jammu & Kashmir 28 25 31 28 25 32 24 25 24
+Jharkhand 39 35 44 43 38 48 26 25 26
+Karnataka 31 31 32 35 34 35 25 25 26
+Kerala 13 12 14 14 12 16 11 12 11
+Madhya Pradesh 62 63 61 67 68 65 43 43 43
+Maharashtra 24 21 26 29 26 33 15 15 16
+Odisha 56 56 55 59 59 59 37 41 34
+Punjab 27 27 26 30 31 29 21 21 22
+Rajasthan 50 44 56 55 49 62 31 29 33
+Tamil Nadu 20 20 21 25 25 25 16 15 18
+Telangana 34 33 35 37 38 37 28 26 30
+Uttar Pradesh 51 49 53 54 52 56 40 37 42
+Uttarakhand 38 36 41 35 32 39 47 48 47
+West Bengal 30 28 31 31 29 33 26 26 26
+164

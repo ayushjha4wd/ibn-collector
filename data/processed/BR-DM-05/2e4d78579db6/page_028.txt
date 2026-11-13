@@ -1,0 +1,22 @@
+towns/cities with population 5 lakh or more under stratum III and four metro cities of
+Delhi, Mumbai, Chennai and Kolkata as separate strata viz. stratum IV. The sampling
+unit in urban area is a Census Enumeration Block. The Census Enumeration Blocks
+within each size stratum were ordered by the female literacy rate based on the Census
+2001 data, and three equal size substrata were established. The sample Census
+Enumeration Block within each substratum was selected at random with equal
+probability. A simple random sample of these enumeration blocks have been selected
+within each sub-strata without replacement from each of the size classes of towns/cities in
+each State/Union Territory.
+Sample size
+1.17 The Infant Mortality is the decisive indicator for estimation of sample size at
+Natural Division, the ultimate level for estimation and dissemination of indicators for
+rural areas. The permissible level of error has been taken as 10 prse (percentage relative
+standard error) at Natural Division level for rural areas and 10 prse at State level for
+urban areas, in respect of major States having population more than 10 million as per
+Census 2001. For minor States, 15 prse has been fixed at the total State level. By and
+large the above criteria has been followed, however, there have been a few exceptions,
+on account of operational constraints. Based on the above criteria, the number of units
+has been increased from 6671 to 7597 (4433 in rural and 3164 in urban areas). State-
+ment 2 shows the number of sample units and population covered in 2011, separately for
+rural and urban areas of all the States and Union Territories.
+5

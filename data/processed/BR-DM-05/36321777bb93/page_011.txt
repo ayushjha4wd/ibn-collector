@@ -1,0 +1,37 @@
+LIST OF CHARTS
+Page
+1. Flow chart 9
+2. Percentage distribution of population by broad age-groups and 13
+residence, India, 2012
+3. Percentage of child population (0-4 years) to total population by 15
+residence, India and bigger States, 2012
+4. Percentage of population age 0-14 years to total population by 17
+residence, India and bigger States, 2012
+5. Percentage of population age 15-59 years to total population by 19
+residence, India and bigger States, 2012
+6 Percentage of population age 60+ to total population by residence, 21
+India and bigger States, 2012
+7. Mean age at effective marriage of female by residence, India, 2012 28
+8. CBR (Crude birth rate) by residence, India and bigger States, 2012 31
+9. Distribution of bigger States by values of birth rate for rural and urban 33
+areas, 2012
+10. Sex ratio at birth by residence, India and bigger States, 2010-2012 35
+11. GFR (General fertility rate) by residence, India and bigger States, 2012 38
+12. Distribution of bigger States by values of GFR (General fertility rate) 39
+for rural and urban areas, 2012
+13. ASFRs (Age-specific fertility rates) by residence, India, 2012 42
+14. Percentage cumulative ASFRs by residence, India, 2012 46
+15. TFR (Total fertility rate) by residence, India and bigger States, 2012 49
+16. Distribution of bigger States by values of TFR (Total fertility rate) for 50
+rural and urban areas, 2012
+17. TFR (Total fertility rate) by level of education of women by residence, 61
+India, 2012
+18. CDR (Crude death rate) by residence, India and bigger States, 2012 69
+19. Distribution of bigger States by values of death rate for rural and urban 71
+areas, 2012
+20. IMR (Infant mortality rate) by residence, India and bigger States, 2012 76
+21. Distribution of bigger States by IMR (Infant mortality rate) for rural 77
+and urban areas, 2012
+22 U5MR (Under-five Mortality Rate) by residence, India and bigger States, 85
+2012
+xiii

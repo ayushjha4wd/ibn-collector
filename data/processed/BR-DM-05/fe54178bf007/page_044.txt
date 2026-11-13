@@ -1,0 +1,37 @@
+2.8 Statement 6 given below provides percentage of population in the working age
+group 15-59 years for India and bigger States/UTs by sex and residence. At the National
+level, the age group 15-59 contributes 62.9 percent in rural areas and 67.7 percent
+population in urban areas. In rural areas the percentage varies from 57.8 in Bihar to 69.0 in
+Telangana. In urban areas the same varies from 61.5 in Bihar to 71.2 percent in Jammu &
+Kashmir. Chart 6 gives the pictorial presentation of percentage of population in the age
+group 15-59 years by residence. Chart 6 gives the pictorial presentation of percentage of
+persons 15-59 years of age for bigger States/UTs by residence.
+Statement 6
+Percentage of Population in the working age group 15-59 years by sex and residence,
+India and bigger States/UTs, 2015
+India and bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 64.4 64.1 64.7 62.9 62.6 63.1 67.7 67.2 68.2
+Andhra Pradesh 69.3 68.7 69.8 68.6 68.0 69.2 71.0 70.6 71.4
+Assam 64.4 63.9 65.1 63.5 63.0 64.0 69.9 68.9 70.9
+Bihar 58.3 57.9 58.8 57.8 57.4 58.3 61.5 60.8 62.2
+Chhattisgarh 63.7 64.1 63.3 62.4 62.9 61.9 67.7 67.7 67.8
+Delhi 67.0 67.5 66.5 68.1 69.0 66.9 67.0 67.4 66.5
+Gujarat 65.2 65.2 65.2 63.3 63.3 63.2 67.6 67.4 67.8
+Haryana 65.3 64.7 66.0 64.3 63.8 64.8 67.0 66.2 68.0
+Himachal Pradesh 65.6 64.6 66.5 65.2 64.1 66.2 69.8 69.6 70.0
+Jammu & Kashmir 67.9 67.5 68.4 66.8 66.3 67.3 71.2 70.8 71.7
+Jharkhand 62.7 62.4 63.1 61.5 61.0 62.0 66.7 66.8 66.7
+Karnataka 67.2 66.9 67.4 66.5 66.3 66.7 68.2 67.8 68.7
+Kerala 64.6 63.7 65.3 64.0 63.2 64.8 65.1 64.3 65.9
+Madhya Pradesh 62.4 62.4 62.5 61.1 61.3 60.9 66.1 65.5 66.7
+Maharashtra 65.3 64.9 65.7 62.5 62.3 62.8 69.0 68.4 69.6
+Odisha 64.4 64.1 64.7 63.6 63.4 63.9 68.0 67.5 68.5
+Punjab 67.7 67.5 67.9 66.5 66.3 66.8 69.3 69.1 69.4
+Rajasthan 62.4 62.0 62.8 61.1 60.8 61.6 66.1 65.7 66.5
+Tamil Nadu 67.6 67.3 67.9 66.0 65.7 66.3 69.1 68.8 69.5
+Telangana 69.5 69.0 70.0 69.0 68.6 69.3 70.3 69.6 71.1
+Uttar Pradesh 62.4 62.1 62.7 61.0 60.8 61.2 66.6 66.1 67.1
+Uttarakhand 61.0 60.7 61.3 59.7 59.3 60.2 64.4 64.4 64.4
+West Bengal 67.1 66.9 67.3 66.4 66.7 66.2 68.6 67.6 69.7
+19

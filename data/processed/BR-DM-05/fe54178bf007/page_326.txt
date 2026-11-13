@@ -1,0 +1,46 @@
+Table 11
+Birth rate, death rate and infant mortality rate by NSSO natural Division, 2015
+Estimated vital rates
+No. of Sample Units
+Name of the Number Infant
+Bigger States
+natural Division of ND Birth rate Death rate mortality
+Total Rural Urban rate
+Jharkhand Ranchi Plateau 1 119 51 68 22.9 5.5 31
+Hazaribagh Plateau 2 93 40 53 24.0 6.0 33
+Total 212 91 121 23.5 5.8 32
+Orissa Coastal 1 193 138 55 18.7 7.2 37
+Southern 2 137 98 39 20.0 7.9 47
+Northern 3 75 54 21 18.9 7.8 57
+Total 405 290 115 19.2 7.6 46
+Chattisgarh Northern Chhattisgarh1 53 24 29 24.0 8.2 43
+Mahanadi Basin 2 71 33 38 22.9 7.3 40
+Southern Chhattisgarh3 34 16 18 24.6 7.9 39
+Total 158 73 85 23.2 7.5 41
+Madhya Pradesh Vindhya 1 66 35 31 27.8 8.3 52
+Central 2 79 45 34 22.4 6.5 42
+Malwa 3 67 41 26 25.8 7.6 54
+South 4 90 59 31 22.9 7.4 40
+South Western 5 94 66 28 23.8 6.5 42
+Northern 6 53 39 14 28.6 8.2 61
+Total 449 285 164 25.5 7.5 50
+Gujarat South Eastern 1 78 53 25 22.6 5.8 38
+Plains Northern 2 116 53 63 19.7 6.3 32
+Dry areas 3 122 51 71 21.9 7.0 36
+Saurashtra 4 162 74 88 17.4 5.9 25
+Total 478 231 247 20.4 6.1 33
+Maharashtra Coastal 1 179 28 151 16.2 5.2 14
+Inland Western 2 95 65 30 15.3 5.4 18
+Inland Northern 3 83 46 37 18.8 5.6 19
+Inland Central 4 79 40 39 18.2 5.9 25
+Inland Eastern 5 142 73 69 14.7 6.7 31
+Eastern 6 84 54 30 14.2 7.7 26
+Total 662 306 356 16.3 5.8 21
+Telangana Inland North Western1 111 46 65 17.6 6.5 34
+Inland North Eastern 2 113 75 38 18.0 6.6 34
+Total 224 121 103 17.8 6.5 34
+Andhra Pradesh Coastal Northern 1 115 73 42 15.9 7.0 38
+Coastal Southern 2 115 67 48 16.9 7.3 36
+Inland Southern 3 96 58 38 17.6 7.0 37
+Total 326 198 128 16.8 7.1 37
+304

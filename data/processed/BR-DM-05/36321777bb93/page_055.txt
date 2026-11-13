@@ -1,0 +1,33 @@
+3.6 Statement 15 below provides the percentage change in average crude birth rate between
+the periods 2000-02 and 2010-12 for India and bigger States separately for rural and urban
+areas. At the national level, the rate of decline in birth rate is 14.2 per cent. The rate of decline
+in average birth rate varies from 23.6 per cent in Punjab to 9.6 per cent in Gujarat. Such
+decline in rural areas is from 23.5 per cent in Punjab to 10.1 per cent in Gujarat. In urban areas,
+the decline ranges from 33.3 per cent in Himachal Pradesh to 8.9 per cent in Rajasthan. In
+Kerala and Tamil Nadu, the average crude birth rate in rural areas is nearly same as in the
+urban areas during 2010-12.
+Statement 15
+Percent change in average crude birth rate between 2000-02 and 2010-12 by
+residence, India and bigger States
+India and Total Rural Urban
+bigger States 2000- 2010- % 2000- 2010- % 2000-2010- %
+02 12 Change 02 12 Change 02 12 Change
+India 25.4 21.8 -14.2 27.1 23.4 -13.7 20.3 17.7 -12.8
+Andhra Pradesh 21.0 17.6 -16.2 21.4 18.0 -15.9 19.7 16.6 -15.7
+Assam 26.8 22.8 -14.9 27.8 24.0 -13.7 18.5 15.6 -15.7
+Bihar* 31.3 27.1 -13.4 32.3 28.0 -13.3 24.2 20.7 -14.5
+Gujarat 25.0 22.6 -9.6 26.7 24.0 -10.1 21.3 18.8 -11.7
+Haryana 26.8 21.9 -18.3 27.8 22.9 -17.6 22.9 19.5 -14.8
+Himachal Pradesh 21.3 16.5 -22.5 21.7 17.1 -21.2 16.8 11.2 -33.3
+Karnataka 22.1 18.8 -14.9 23.4 19.8 -15.4 19.0 17.2 -9.5
+Kerala 17.3 14.9 -13.9 17.5 15.1 -13.7 16.9 14.5 -14.2
+Madhya Pradesh* 30.9 27.2 -12.0 32.9 29.0 -11.9 23.1 20.3 -12.1
+Maharashtra 20.7 16.8 -18.8 21.0 17.4 -17.1 20.1 15.9 -20.9
+Odisha 23.7 20.2 -14.8 24.2 21.0 -13.2 19.8 14.8 -25.3
+Punjab 21.2 16.2 -23.6 22.1 16.9 -23.5 18.4 15.2 -17.4
+Rajasthan 31.0 26.3 -15.2 32.4 27.4 -15.4 24.7 22.5 -8.9
+Tamil Nadu 19.0 15.8 -16.8 19.6 15.9 -18.9 17.8 15.7 -11.8
+Uttar Pradesh* 32.2 27.4 -14.9 33.2 28.3 -14.8 27.0 23.3 -13.7
+West Bengal 20.6 16.4 -20.4 22.8 18.2 -20.2 14.0 11.6 -17.1
+* Bihar, Madhya Pradesh and Uttar Pradesh include Jharkhand, Chhattisgarh, and Uttarakhand respectively.
+32

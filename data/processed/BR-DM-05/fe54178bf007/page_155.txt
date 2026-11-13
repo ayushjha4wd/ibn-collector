@@ -1,0 +1,31 @@
+4.8 Crude death rates for males and females in the bigger States/UTs are shown
+below in Statement 43. It is observed that male death rate exceeds female death rate in
+all bigger States/UTs except Bihar and Jharkhand where male death rate is lower by 0.2
+and 0.8 point respectively than the female death rate.
+Statement 43
+Crude Death Rate by sex, India and bigger States/UTs, 2015
+India and bigger States/UTs Total Males Females
+India 6.5 6.9 6.1
+Andhra Pradesh 7.1 7.8 6.4
+Assam 7.1 7.7 6.4
+Bihar 6.2 5.8 6.6
+Chhattisgarh 7.5 7.9 7.0
+Delhi 3.6 3.8 3.3
+Gujarat 6.1 6.6 5.6
+Haryana 6.1 6.6 5.4
+Himachal Pradesh 6.6 8.1 5.1
+Jammu & Kashmir 4.9 5.7 4.0
+Jharkhand 5.8 5.7 5.9
+Karnataka 6.6 7.0 6.3
+Kerala 6.6 7.6 5.7
+Madhya Pradesh 7.5 8.1 6.9
+Maharashtra 5.8 6.0 5.5
+Odisha 7.6 8.5 6.7
+Punjab 6.2 6.5 5.7
+Rajasthan 6.3 6.9 5.7
+Tamil Nadu 6.7 7.6 5.8
+Telangana 6.5 7.1 6.0
+Uttar Pradesh 7.2 7.3 7.1
+Uttarakhand 6.4 7.2 5.6
+West Bengal 5.9 6.3 5.5
+131

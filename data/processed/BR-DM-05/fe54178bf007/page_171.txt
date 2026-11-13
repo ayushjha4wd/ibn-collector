@@ -1,0 +1,39 @@
+4.13 Statement 48 given below presents the neo-natal (less than 29 days) mortality rate
+and the percentage of neo-natal deaths to infant deaths for the year 2015 both at the
+National and State levels. At the National level, the neo-natal mortality rate is 25 and
+ranges from 15 in urban areas to 29 in rural areas. Among the bigger States/UTs,
+neo-natal mortality ranges from 35 in Odisha to 6 in Kerala. The percentage of neo-natal
+deaths to total infant deaths is 67.8 per cent at the National level and varies from 59.8 per
+cent in urban areas to 69.6 per cent in rural areas. Among the bigger States/UTs,
+Uttarakhand 80.9 registered the highest percentage of neo-natal deaths to infant deaths and
+the lowest in Kerala 52.1.
+Statement 48
+Neo-Natal Mortality Rates and percentage share of Neo-Natal Deaths to Infant
+Deaths by residence, India and bigger States, 2015
+India and Neo-natal mortality rate Percentage of Neo-natal death
+Bigger States/UTs to Infant deaths
+Total Rural Urban Total Rural Urban
+India 25 29 15 67.8 69.6 59.8
+Andhra Pradesh 24 29 12 65.5 70.7 44.6
+Assam 25 26 14 52.9 52.7 55.6
+Bihar 28 29 20 67.0 69.7 44.9
+Chhattisgarh 27 28 21 65.7 65.7 65.6
+Delhi 14 20 13 75.4 71.4 75.6
+Gujarat 23 29 15 70.5 70.3 71.0
+Haryana 24 26 19 65.7 67.2 61.6
+Himachal Pradesh 19 19 14 69.1 68.8 78.2
+Jammu & Kashmir 20 21 16 76.2 78.2 65.6
+Jharkhand 23 25 15 72.1 72.7 68.0
+Karnataka 19 24 11 69.2 78.1 48.6
+Kerala 6 8 4 52.1 63.8 37.2
+Madhya Pradesh 34 37 21 68.1 69.1 62.2
+Maharashtra 15 19 10 71.3 72.8 67.3
+Odisha 35 36 25 74.9 75.4 69.7
+Punjab 13 14 13 59.2 56.6 64.1
+Rajasthan 30 34 15 69.8 71.7 58.0
+Tamil Nadu 14 17 10 73.2 78.7 65.9
+Telangana 23 27 17 69.1 72.1 62.1
+Uttar Pradesh 31 34 20 67.0 69.2 56.5
+Uttarakhand 28 24 37 80.9 79.5 83.6
+West Bengal 18 18 15 67.5 68.6 63.2
+147

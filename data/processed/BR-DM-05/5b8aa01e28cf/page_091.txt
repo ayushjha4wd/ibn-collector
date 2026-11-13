@@ -1,0 +1,35 @@
+4.5 Crude Death Rate (Statement 40) at the National level for 2014 is 6.7 per thousand
+population and it varies from 7.3 in rural areas to 5.5 in urban areas. Among the bigger
+States, it varies from 3.8 in Delhi to 7.9 in Odisha. The States having death rate higher
+than or equal to the National level are Himachal Pradesh 6.7, Telangana 6.7,Karnataka
+6.8, Tamil Nadu 7.0, Assam 7.2, Andhra Pradesh 7.3, Uttar Pradesh 7.4 , Chhattisgarh
+7.7, Madhya Pradesh 7.8 and Odisha 7.9. Distribution of bigger States by level of CDR
+in rural and urban areas is shown in Chart 19. The estimated age-specific death rate by sex
+and residence for India and bigger States has been detailed in Table 8.
+Statement 40
+CDR (Crude Death Rates) by residence, India and bigger States, 2014
+India and bigger States Total Rural Urban
+India 6.7 7.3 5.5
+Andhra Pradesh 7.3 8.1 5.0
+Assam 7.2 7.6 5.3
+Bihar 6.2 6.4 5.2
+Chhattisgarh 7.7 8.3 5.8
+Delhi 3.8 4.4 3.8
+Gujarat 6.2 6.6 5.7
+Haryana 6.1 6.6 5.4
+Himachal Pradesh 6.7 6.9 4.0
+Jammu & Kashmir 5.1 5.4 4.5
+Jharkhand 5.9 6.2 5.0
+Karnataka 6.8 7.8 5.1
+Kerala 6.6 6.8 6.5
+Madhya Pradesh 7.8 8.4 6.0
+Maharashtra 6.0 6.8 4.8
+Odisha 7.9 8.2 6.4
+Punjab 6.4 7.2 5.2
+Rajasthan 6.4 6.8 5.3
+Tamil Nadu 7.0 7.9 6.2
+Telangana 6.7 7.8 4.9
+Uttar Pradesh 7.4 8.0 5.8
+Uttarakhand 6.0 6.3 5.2
+West Bengal 6.1 6.0 6.4
+68

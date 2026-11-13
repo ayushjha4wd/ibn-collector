@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2014
+Tamil Nadu
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 21.3 21.6 21.1 23.5 23.8 23.2 18.7 18.9 18.6
+1-4 0.4 0.5 0.3 0.6 0.7 0.4 0.2 0.2 0.2
+0-4 4.5 4.6 4.3 5.3 5.5 5.0 3.6 3.7 3.6
+5-9 0.3 0.2 0.4 0.3 0.1 0.6 0.3 0.4 0.2
+10-14 0.4 0.3 0.4 0.3 0.2 0.3 0.5 0.5 0.5
+15-19 0.7 0.8 0.4 0.9 1.0 0.7 0.4 0.6 0.2
+20-24 1.0 1.1 0.8 1.2 1.5 1.0 0.7 0.7 0.7
+25-29 1.0 1.4 0.6 1.4 1.9 0.9 0.5 0.8 0.2
+30-34 1.5 2.0 1.0 2.0 2.5 1.4 1.2 1.7 0.6
+35-39 2.6 3.1 2.0 3.6 4.1 3.2 1.7 2.3 1.0
+40-44 3.9 4.3 3.5 5.2 5.8 4.5 2.8 3.0 2.6
+45-49 5.6 6.4 4.7 6.9 8.2 5.7 4.3 4.8 3.7
+50-54 7.6 8.8 6.4 10.7 11.6 9.7 5.3 6.5 4.1
+55-59 11.2 13.3 9.3 11.6 14.4 9.3 10.7 12.2 9.2
+60-64 15.2 16.7 13.7 17.0 19.4 14.6 13.5 14.3 12.7
+65-69 24.2 27.8 20.5 23.4 28.0 18.8 25.2 27.6 22.6
+70-74 39.7 44.7 34.8 40.8 47.7 34.1 38.7 42.0 35.4
+75-79 71.2 82.6 60.0 67.3 78.9 56.4 76.4 87.3 65.0
+80-84 140.7 160.1 122.0 162.6 172.5 152.3 121.5 148.4 97.5
+85+ 287.0 359.5 229.7 271.5 314.6 233.6 305.4 420.9 225.6
+All ages 7.0 7.9 6.2 7.9 8.8 7.0 6.2 7.0 5.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2014
+Tamil Nadu
+Indicators Total Rural Urban
+Child mortality rate 4 5 4
+Under-five mortality rate 21 26 17
+Infant mortality rate 20 23 16
+Neo-natal mortality rate 14 18 10
+Early neo-natal mortality rate 11 14 7
+Late neo-natal mortality rate 3 4 3
+Post neo-natal mortality rate 6 5 6
+Peri-natal mortality rate 16 21 11
+Still birth rate 5 7 4
+192

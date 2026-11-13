@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2014
+West Bengal
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 27.6 24.8 30.8 31.6 27.7 36.0 17.3 17.5 17.1
+1-4 0.4 0.4 0.4 0.5 0.4 0.5 0.1 0.3 0.0
+0-4 6.0 5.5 6.6 6.6 5.9 7.4 4.2 4.5 4.0
+5-9 0.4 0.4 0.5 0.4 0.4 0.3 0.5 0.2 0.9
+10-14 0.5 0.4 0.6 0.4 0.3 0.5 0.8 0.7 0.8
+15-19 0.8 0.7 0.9 0.7 0.6 0.8 1.0 0.9 1.1
+20-24 1.1 1.2 1.0 1.0 1.2 0.9 1.3 1.4 1.1
+25-29 1.2 1.3 1.0 1.0 1.1 0.8 1.5 1.6 1.5
+30-34 1.7 2.1 1.3 1.6 2.0 1.1 2.0 2.3 1.7
+35-39 2.2 2.8 1.6 2.0 2.5 1.5 2.6 3.3 1.8
+40-44 3.5 4.2 2.6 3.3 4.0 2.4 3.8 4.5 3.1
+45-49 5.1 5.9 4.2 5.2 6.1 4.1 5.0 5.6 4.2
+50-54 7.7 8.5 6.7 9.0 9.4 8.4 5.7 6.9 4.5
+55-59 10.8 12.9 8.7 11.6 14.6 8.9 9.4 10.4 8.3
+60-64 16.3 18.5 14.0 17.4 20.8 14.2 14.3 15.0 13.5
+65-69 24.5 24.7 24.3 26.2 27.0 25.2 21.8 21.0 22.7
+70-74 38.0 40.8 35.3 40.6 43.3 38.2 33.9 37.2 30.2
+75-79 69.8 73.8 66.2 76.9 82.2 72.7 58.6 62.3 54.7
+80-84 143.9 151.4 136.4 166.0 182.9 150.3 113.4 111.9 115.1
+85+ 282.4 356.7 228.1 327.8 392.0 277.2 212.6 295.9 158.8
+All ages 6.1 6.5 5.6 6.0 6.3 5.6 6.4 7.0 5.8
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2014
+West Bengal
+Indicators Total Rural Urban
+Child mortality rate 6 7 4
+Under-five mortality rate 30 32 25
+Infant mortality rate 28 30 24
+Neo-natal mortality rate 19 20 15
+Early neo-natal mortality rate 15 16 11
+Late neo-natal mortality rate 5 5 4
+Post neo-natal mortality rate 9 9 9
+Peri-natal mortality rate 18 18 15
+Still birth rate 3 3 4
+196

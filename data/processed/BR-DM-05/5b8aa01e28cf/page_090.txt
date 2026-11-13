@@ -1,0 +1,29 @@
+CHAPTER – 4
+ESTIMATES OF MORTALITY INDICATORS
+Mortality is one of the basic components of population change and the related
+data is essential for demographic studies and public health administration. It is the
+principal ingredient for population projections and life tables. Information on death events
+recorded in SRS is used to estimate mortality indicators. The various measures of
+mortality published under SRS are Crude Death Rate (CDR), Under-five Mortality Rate
+(U5MR), Infant Mortality Rate (IMR) and its components, Age Specific Mortality Rates
+(ASMR), Still Birth Rate (SBR) and Peri-Natal Mortality Rate (PMR).
+4.2 SRS has continued to provide data for estimating various mortality measures since
+its inception. The crude death rate at all India level has declined significantly from 14.9 to
+12.5 during 1971 to 1981 and thereafter from 9.8 to 6.7 during 1991 to 2014. The decline
+has been steeper in rural areas as compared to urban areas. The infant mortality rate,
+which plays an important role in health planning, has shown a considerable decline from
+129 per 1000 live births in 1971 to 110 in 1981 and from 80 in 1991 to 39 in 2014. The
+child mortality rate has depicted a perceptible decline from 51.9 in 1971 to 41.2 in 1981
+and from 26.5 in 1991 to 10.6 in 2014. In 2014, about 42.6 percent of the deaths were
+institutional and 57.4 percent received medical attention other than in institutions.
+4.3 Apart from the all India scenario, this chapter presents data on mortality
+indicators for bigger States by sex, residence and broad age groups. Besides Under-five
+mortality rate, it includes data on infant mortality and its component viz., neo-natal
+mortality and post neo-natal, peri-natal mortality and their changes over the last decade.
+It also includes data on medical attention before death. Chart 18 depicts crude death rate
+by residence, India and bigger States, 2014.
+4.4 Apart from the mortality indicators at State and National levels, this report also
+includes estimates of death rates at sub-State, viz. NSS Natural Division Level. The Table
+11 in the annexure to this report contains data on death rate and infant mortality rate
+besides birth rate for 56 Natural Divisions of 22 bigger States.
+67

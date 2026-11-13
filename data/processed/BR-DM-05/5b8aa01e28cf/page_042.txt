@@ -1,0 +1,36 @@
+2.7 Statement 6 given below provides percentage of population in the working age
+group 15-59 years for India and bigger States by sex and residence. At the National level,
+the age group 15-59 contributes 62.5 percent in rural areas and 67.4 percent population in
+urban areas. In rural areas the percentage varies from 57.5 in Bihar to 68.6 in Telangana.
+In urban areas the same varies from 62.6 in Bihar to 70.7 percent in Andhra Pradesh.
+Chart 5 gives the pictorial presentation of percentage of population in the age group 15-59
+years by residence.
+Statement 6
+Percentage of Population in the working age group 15-59 years by sex and residence,
+India and bigger States, 2014
+India and bigger Total Rural Urban
+States Total Male Female Total Male Female Total Male Female
+India 64.1 63.8 64.4 62.5 62.3 62.8 67.4 67.0 67.8
+Andhra Pradesh 68.8 68.2 69.4 68.0 67.4 68.7 70.7 70.2 71.1
+Assam 64.2 63.7 64.6 63.1 62.7 63.7 70.0 69.9 70.1
+Bihar 58.2 57.8 58.7 57.5 57.1 58.0 62.6 62.3 63.0
+Chhattisgarh 63.3 63.6 62.9 62.0 62.4 61.6 67.5 67.5 67.5
+Delhi 66.6 67.0 66.1 67.7 68.6 66.6 66.6 67.0 66.1
+Gujarat 64.8 64.8 64.9 62.9 62.9 62.9 67.3 67.1 67.4
+Haryana 64.9 64.3 65.7 63.9 63.4 64.6 66.6 65.8 67.6
+Himachal Pradesh 65.2 64.2 66.2 64.8 63.7 65.9 69.4 69.2 69.6
+Jammu & Kashmir 67.4 66.9 67.8 66.0 65.6 66.5 70.4 69.9 70.8
+Jharkhand 62.1 61.8 62.5 60.8 60.4 61.3 66.3 66.3 66.3
+Karnataka 66.7 66.5 66.9 66.0 65.9 66.1 67.9 67.4 68.4
+Kerala 64.4 63.5 65.1 63.8 63.0 64.5 65.0 64.1 65.8
+Madhya Pradesh 61.9 61.9 61.9 60.5 60.7 60.3 65.6 65.1 66.2
+Maharashtra 64.6 64.2 65.1 62.1 61.8 62.4 68.4 67.8 69.1
+Odisha 63.6 63.3 64.0 62.8 62.5 63.2 67.5 67.1 67.9
+Punjab 67.1 66.9 67.3 66.1 65.9 66.4 68.4 68.2 68.5
+Rajasthan 62.0 61.7 62.3 60.7 60.5 61.1 65.6 65.3 66.0
+Tamil Nadu 67.2 66.9 67.6 65.6 65.3 66.0 68.8 68.5 69.1
+Telangana 69.1 68.5 69.6 68.6 68.2 69.0 69.8 69.0 70.6
+Uttar Pradesh 62.1 61.8 62.4 60.7 60.5 60.9 66.3 65.8 66.9
+Uttarakhand 60.3 60.0 60.7 59.1 58.6 59.6 63.7 63.6 63.8
+West Bengal 67.4 67.5 67.4 66.5 66.8 66.2 69.5 69.0 70.1
+19

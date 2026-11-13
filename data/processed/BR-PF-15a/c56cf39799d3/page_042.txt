@@ -1,0 +1,39 @@
+Fifteenth Finance Commission
+IX to 62.5 per cent by the FC-XI. This criterion is to make the devolution formula more equalising
+and progressive, and provides higher devolution to States with lower per capita income (and
+lower own tax capacity). Here, per capita gross state domestic product (GSDP) is used as a proxy
+for the distance between States in tax capacity. Poorer States with low per capita income also have
+higher expenditure needs to provide for comparable services. Hence, the income distance
+criterion helps in providing for two-sided equalisation.
+3.26 Almost all the States have suggested retaining the income distance criterion in the
+horizontal devolution formula. Horizontal equity is thus an important redistributive aspect which
+can be achieved through this criterion. Hence, this Commission has retained the income
+distance criterion with a weight of 45 per cent.
+3.27 Income distance has been calculated using methodology similar to what was adopted by
+the FC-XIV. A three-year average (2015-16 to 2017-18) per capita comparable GSDP has been
+taken for all the States. Income distance has been computed by taking the distance from the State
+having the highest per capita GSDP. In this case, Goa has the highest per capita GSDP followed
+by Sikkim. Since they are very small and atypical States, to avoid distortions, the State with the
+third highest per capita GSDP – Haryana – has been taken as the benchmark to avoid distortions.
+Distance of per capita GSDP of each State from Haryana's per capita GSDP has been calculated.
+Goa, Sikkim and Haryana have been assigned the income distance as calculated for the State with
+the fourth highest per capita GSDP – Himachal Pradesh. Such distance has been scaled by the
+population (Census 2011) of each State and then the share of each State has been computed. It is
+noted that the most of the lower per capita income States are also the more populous States.
+Therefore, use of population scaling of income distance becomes progressive. Annex 3.4 gives
+details of the methodology and the calculation table for the Income Distance criteria.
+Performance-based Criteria
+Demographic Performance
+3.28 All the previous Finance Commissions since the FC-VI (1974-79) have been mandated to
+use the population data of the 1971 Census while recommending their awards. After almost four
+decades, we are mandated to use the population data of the most recent Census for making our
+recommendations. As mentioned earlier, some States had raised serious concerns about this.
+However, use of the latest census data and sudden change of underlying data after four decades
+should not unfairly put at a disadvantage some States which have performed well on the national
+objective of demographic management. Hence, we have decided to recommend a new
+performance-based criterion to reward States who have performed well on the demography front.
+3.29 This Commission recommends a criterion of demographic performance by using a
+measure of the total fertility rate (TFR) data of all States. This criterion has been computed by
+using the reciprocal of TFR of each State, scaled by the population data of Census 1971. States
+which have achieved lower TFR will be scored higher on demographic performance whereas
+28

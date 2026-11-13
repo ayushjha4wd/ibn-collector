@@ -1,0 +1,41 @@
+Table 11
+Birth rate, Death rate and Infant mortality rate by NSSO natural division, 2011
+Bigger States Name of the Number Number Estimated vital rates
+natural division of ND of units Birth rate Death rate Infant mortality rate
+Andhra Pradesh Inland Northern 4 58 17.9 8.7 50
+Coastal 1 63 17.0 8.6 47
+Inland Southern 2 59 18.2 8.4 46
+South Western 3 55 20.6 7.1 42
+Total 235 17.8 8.5 47
+Assam Plain Western 1 44 25.2 8.2 57
+Plain Eastern 2 46 22.4 8.7 59
+Total 90 24.0 8.4 58
+Bihar Northern 1 104 29.8 6.9 48
+Central 2 96 26.2 6.8 40
+Total 200 28.4 6.9 45
+Gujarat Dry Area 1 38 25.6 6.2 58
+Plain Northern 3 46 22.0 8.3 54
+South Eastern 2 58 24.1 8.0 45
+Sourashtra 4 73 19.9 5.8 34
+Total 215 22.9 7.4 48
+Haryana Eastern 1 48 22.0 7.1 44
+Western 2 52 24.5 6.9 54
+Total 100 22.9 7.0 48
+Jammu & Kashmir Jhelam Valley 1 44 18.5 6.1 52
+Outer Hills 2 63 20.9 4.4 32
+Mountainous 3 43 18.3 6.2 31
+Total 150 19.1 5.7 43
+Karnataka Inland Northern 3 50 22.5 7.6 41
+Inland Southern 4 63 17.5 9.2 42
+Inland Eastern 2 97 14.4 7.7 31
+Coastal & Ghats 1 120 14.2 6.3 15
+Total 330 19.7 8.0 39
+Kerala Northern 1 36 18.0 6.1 14
+Southern 2 114 13.6 7.9 12
+Total 150 15.4 7.1 13
+Madhya Pradesh Malwa 2 41 27.2 8.1 62
+Vindhya 6 28 32.2 8.6 72
+Central 1 29 28.3 11.6 75
+Northern 3 36 29.6 8.5 63
+South 4 41 27.8 8.7 50
+South Western 5 45 25.9 7.3 46

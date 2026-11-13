@@ -1,0 +1,51 @@
+4.12 The percentage change in the average level of infant mortality between 1999-01
+and 2009-11 is given below in Statement 48. During this period, IMR, at the National
+level, declined by 30.9 per cent. Among the bigger States, the decline varies from 51.3
+per cent in Tamil Nadu to 5.4 per cent in Kerala. In the rural areas, decline in IMR varies
+from 53.3 per cent in Tamil Nadu to 2.3 per cent in Kerala. The decline in IMR varies
+from 43.6 per cent in Rajasthan to 12.5 per cent in Andhra Pradesh in urban areas. IMR in
+urban areas of Assam & Karnataka have shown an increase, which may be attributed to
+sampling fluctuation.
+Statement 48
+Per cent change in average Infant mortality rates between 1999-01 and 2009-2011
+by residence, India and bigger States
+India and Total Rural Urban
+Bigger States 1999- 2009- % 1999- 2009- % 1999- 2009- %
+01 11 Change 01 11 Change 01 11 Change
+India
+68.0 47.0 -30.9 73.7 51.3 -30.4 43.3 31.3 -27.7
+Andhra Pradesh
+65.7 46.0 -30.0 74.3 50.7 -31.8 37.7 33.0 -12.5
+Assam
+75.0 58.0 -22.7 78.0 60.7 -22.2 35.0 35.7 2.0
+Bihar*
+62.3 47.7 -23.4 63.3 48.7 -23.1 53.3 36.7 -31.1
+Gujarat
+61.7 44.3 -28.2 69.0 51.3 -25.7 44.0 30.0 -31.8
+Haryana
+67.0 47.7 -28.8 69.0 51.0 -26.1 56.7 38.0 -33.0
+Himachal Pradesh
+58.7 41.0 -30.2 60.3 41.7 -30.8 35.7 28.3 -20.7
+Karnataka
+57.7 38.0 -34.1 68.7 43.0 -37.4 24.7 28.3 14.6
+Kerala
+13.0 12.3 -5.4 13.3 13.0 -2.3 13.0 10.0 -23.1
+Madhya Pradesh*
+87.7 62.0 -29.3 93.7 66.3 -29.2 54.0 42.3 -21.7
+Maharashtra
+47.0 28.0 -40.4 56.3 33.7 -40.1 30.7 19.7 -35.8
+Odisha
+94.3 61.0 -35.3 97.7 63.0 -35.5 64.0 43.0 -32.8
+Punjab
+52.3 34.0 -35.0 56.0 37.3 -33.4 38.0 28.0 -26.3
+Rajasthan
+80.0 55.3 -30.9 83.7 61.0 -27.1 58.0 32.7 -43.6
+Tamil Nadu
+50.7 24.7 -51.3 56.3 26.3 -53.3 37.3 22.3 -40.2
+Uttar Pradesh*
+83.3 60.0 -28.0 87.0 63.0 -27.6 64.3 43.7 -32.0
+West Bengal
+51.3 32.0 -37.6 54.3 33.0 -39.2 38.0 26.0 -31.6
+* Bihar includes Jharkhand, Madhya Pradesh includes Chhattisgarh and Uttar Pradesh includes
+Uttarakhand.
+78

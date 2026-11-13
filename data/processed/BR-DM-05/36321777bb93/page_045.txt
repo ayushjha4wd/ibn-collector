@@ -1,0 +1,37 @@
+2.11 Persons below 10 years of age, in the SRS, are being treated as unmarried. Marital
+distribution of population would be more meaningful if such percentages are worked out
+for persons of age 10 years and above. Statement 9 given below provides percentage
+distribution of population for age 10 years and above by marital status and sex for India
+and bigger States. At the National level, the percent share of married population is 57.9.
+Among the bigger States Jammu & Kashmir (50.6) recorded the lowest percentage of
+married population whereas the highest percentage was recorded for Andhra Pradesh
+(61.8).
+Statement 9
+Percentage distribution of population age 10+ by marital status and sex
+India and bigger States, 2012
+India and bigger Never married Married W/D/S
+States Total Male Female Total Male Female Total Male Female
+India 35.7 41.2 30.0 57.9 55.9 59.8 6.4 2.8 10.1
+Andhra Pradesh 30.0 35.8 24.1 61.8 61.3 62.3 8.2 2.9 13.6
+Assam 39.7 45.1 34.2 54.0 52.5 55.6 6.2 2.4 10.2
+Bihar 38.6 43.5 33.5 56.9 53.6 60.3 4.5 2.9 6.2
+Chhattisgarh 32.8 37.0 28.7 60.0 59.6 60.4 7.1 3.4 10.9
+Delhi 38.0 41.8 33.6 57.5 55.9 59.3 4.5 2.3 7.1
+Gujarat 32.2 36.8 27.4 61.2 59.8 62.7 6.6 3.4 9.9
+Haryana 34.7 40.5 28.2 59.8 56.8 63.1 5.6 2.7 8.7
+Himachal Pradesh 34.3 40.6 28.4 58.6 56.4 60.7 7.0 3.0 10.9
+Jammu & Kashmir 44.5 48.5 40.2 50.6 48.6 52.7 4.9 2.9 7.0
+Jharkhand 38.8 43.6 33.8 56.2 54.0 58.4 5.0 2.4 7.8
+Karnataka 33.7 41.1 26.3 58.0 56.9 59.0 8.3 2.0 14.6
+Kerala 30.9 38.5 24.0 60.5 59.7 61.3 8.6 1.8 14.7
+Madhya Pradesh 35.1 39.9 30.0 59.0 56.7 61.4 5.9 3.3 8.7
+Maharashtra 31.4 37.2 25.4 61.6 60.4 62.9 7.0 2.5 11.7
+Odisha 34.6 39.7 29.6 58.1 57.3 59.0 7.3 3.1 11.4
+Punjab 36.6 42.1 30.6 57.4 54.7 60.4 6.0 3.2 8.9
+Rajasthan 35.4 40.4 30.0 59.3 57.1 61.6 5.4 2.6 8.3
+Tamil Nadu 31.1 37.4 24.8 59.9 59.6 60.1 9.1 3.0 15.1
+Uttar Pradesh 42.5 47.6 37.0 52.4 49.0 56.2 5.1 3.4 6.9
+West Bengal 32.9 39.0 26.6 60.4 59.1 61.9 6.6 1.9 11.5
+W/D/S- Widowed/Divorced/Separated
+Note: Total may not add to 100 due to rounding off.
+23

@@ -1,0 +1,35 @@
+4.11 Statement 47 given below presents Infant Mortality Rate (IMR) by sex and
+residence for the year 2012 for India and bigger States. Infant Mortality Rate is defined
+as the infant deaths (less than one year) per thousand live births. At the National level,
+IMR is reported to be 42 and varies from 46 in rural areas to 28 in urban areas. Among
+the bigger States, it varies from 12 in Kerala to 56 in Madhya Pradesh. Female infants
+experienced a higher mortality than male infants in all States. Chart 20 provides the
+values of IMR by residence for India and bigger States. Distribution of bigger States
+by level of IMR in rural and urban areas is shown in Chart 21. The estimates on child
+and infant mortality indicators by residence have been detailed in Table 9.
+Statement 47
+Infant mortality rates by sex and residence, India and bigger States, 2012
+India and bigger Total Rural Urban
+States Total Males Females Total Males Females Total Males Females
+India 42 41 44 46 45 48 28 26 29
+Andhra Pradesh 41 40 43 46 45 47 30 27 33
+Assam 55 54 57 58 57 60 33 31 35
+Bihar 43 42 45 44 43 46 34 33 36
+Chhattisgarh 47 46 47 48 47 49 39 38 39
+Delhi 25 24 26 36 35 37 23 22 23
+Gujarat 38 36 39 45 44 47 24 23 25
+Haryana 42 41 44 46 44 48 33 32 34
+Himachal Pradesh 36 35 38 37 36 38 25 22 27
+Jammu & Kashmir 39 38 40 41 40 42 28 27 30
+Jharkhand 38 36 39 39 38 41 27 24 30
+Karnataka 32 30 34 36 35 37 25 22 28
+Kerala 12 10 13 13 11 14 9 8 10
+Madhya Pradesh 56 54 59 60 58 62 37 35 39
+Maharashtra 25 24 26 30 30 31 17 16 19
+Odisha 53 52 54 55 53 56 39 38 40
+Punjab 28 27 29 30 29 31 24 22 26
+Rajasthan 49 47 51 54 52 56 31 29 33
+Tamil Nadu 21 21 22 24 23 25 18 17 19
+Uttar Pradesh 53 52 55 56 54 57 39 37 41
+West Bengal 32 31 33 33 32 35 26 25 27
+75

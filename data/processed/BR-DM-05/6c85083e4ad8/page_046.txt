@@ -1,0 +1,40 @@
+2.14 In addition to the marital status of male and female, information on the number of
+females who got effectively married during the reference period of six months of each half
+yearly survey is also being collected in the SRS from 1990. Based on the information on
+the number of females, who got effectively married during the last one year, mean age at
+effective marriage for female has been worked out. Statement 12 given below presents
+percentage distribution of such females by age at effective marriage separately for rural
+and urban areas. The percentage of females who got effectively married before reaching
+18 years of age is 2.2 at the National level and varies from 0.2 in Punjab to 6.5 in
+Jharkhand. Percentage of female marrying at 21 years and above is 56.3 at the National
+level and varies from 35.2 in Chhattisgarh to 90.4 in Jammu & Kashmir. About half of the
+rural female, at the National level, marry between 18 and 20 years of age compared to
+about one-third in urban areas.
+Statement 12
+Percentage of Female by age at Effective Marriage and by residence
+India and bigger States, 2013
+India and bigger Total Rural Urban
+States <18 18-20 21+ All <18 18-20 21+ All <18 18-20 21+ All
+ages ages ages
+India 2.2 41.6 56.3 100.0 2.6 46.7 50.7 100.0 1.0 26.7 72.3 100.0
+Andhra Pradesh 1.5 51.2 47.3 100.0 1.8 58.9 39.3 100.0 0.6 30.9 68.4 100.0
+Assam 2.0 44.0 54.1 100.0 2.2 47.0 50.8 100.0 0.2 25.4 74.4 100.0
+Bihar 3.2 41.9 54.9 100.0 3.2 43.4 53.4 100.0 2.8 29.3 68.0 100.0
+Chhattisgarh 1.2 63.6 35.2 100.0 1.2 67.2 31.5 100.0 0.8 42.6 56.6 100.0
+Delhi 0.4 21.3 78.3 100.0 1.6 26.5 71.9 100.0 0.2 20.4 79.4 100.0
+Gujarat 2.0 36.9 61.1 100.0 3.0 43.9 53.0 100.0 0.3 25.3 74.4 100.0
+Haryana 1.6 43.0 55.4 100.0 1.9 50.9 47.3 100.0 1.0 25.2 73.8 100.0
+Himachal Pradesh 0.9 18.0 81.1 100.0 0.9 18.7 80.5 100.0 1.0 7.1 91.9 100.0
+Jammu & Kashmir 0.3 9.3 90.4 100.0 0.3 10.5 89.2 100.0 0.5 2.9 96.7 100.0
+Jharkhand 6.5 52.4 41.0 100.0 7.7 55.2 37.1 100.0 0.6 38.7 60.6 100.0
+Karnataka 1.3 43.9 54.8 100.0 1.2 50.4 48.4 100.0 1.5 30.0 68.5 100.0
+Kerala 2.1 20.3 77.6 100.0 2.6 22.3 75.2 100.0 0.5 13.7 85.8 100.0
+Madhya Pradesh 0.6 56.1 43.3 100.0 0.7 63.7 35.6 100.0 0.4 32.1 67.5 100.0
+Maharashtra 2.4 43.7 53.9 100.0 2.7 52.5 44.9 100.0 1.8 26.1 72.2 100.0
+Odisha 2.8 41.7 55.4 100.0 3.1 44.4 52.5 100.0 1.1 25.7 73.2 100.0
+Punjab 0.2 18.6 81.2 100.0 0.2 20.4 79.4 100.0 0.2 15.5 84.3 100.0
+Rajasthan 2.0 50.1 47.9 100.0 2.2 54.9 42.9 100.0 1.4 36.2 62.5 100.0
+Tamil Nadu 1.6 24.3 74.1 100.0 1.8 26.6 71.5 100.0 1.3 20.8 77.9 100.0
+Uttar Pradesh 2.4 37.3 60.4 100.0 2.8 40.3 57.0 100.0 0.6 23.0 76.4 100.0
+West Bengal 3.6 51.0 45.4 100.0 4.3 57.2 38.5 100.0 1.7 34.4 63.9 100.0
+26

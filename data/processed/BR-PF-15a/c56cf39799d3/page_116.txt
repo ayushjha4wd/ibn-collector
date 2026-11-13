@@ -1,0 +1,47 @@
+Fifteenth Finance Commission
+Annex 6.2A
+(Annex 6.2, point 6)
+Disaster Risk Index (DRI) for States
+1. The DRI has been developed through a quantitative exercise assigning scores to the
+Scoring Scheme (Disasters) probability of hazards striking States and the extent of vulnerability. Based on these two
+parameters, a composite score has been developed for each State, leading to an index which ranks
+Disasters High Medium Low
+States based on the risk scores.
+Floods 15.00 10.00 5.00
+2. Hazards refer to physical events - earthquake, cyclone, floods, drought and other risks
+Drought 15.00 10.00 5.00
+events. Hazards, by themselves, do not lead to disasters. When hazards interact with people, their
+Cyclone 15.00 10.00 5.00
+communities and economic activities, it results in a disaster event. The interaction of hazards and
+Earthquake 15.00 10.00 5.00
+society is influenced by the people's socio-economic vulnerability. Vulnerability refers to the
+Others 10.00
+diminished capacity of an individual or group to anticipate, cope with, resist and recover from the
+impact of a natural or man-made hazard. Vulnerability includes both income and non-income
+dimensions, and could encompass conditions such as poor housing, informal jobs, social
+Scoring System Poverty
+isolation and remote terrains in which the people live. Vulnerability is, therefore, a key factor
+Low - 10.00 Below 13%
+explaining the severity and impact of a disaster.
+Medium - 20.00 Between 13% and 26%
+3. DRI could also be developed based on actual occurrences of disasters and their socio-
+High - 30.00 Between 26% and 40%
+economic impacts. However, due to an absence of a disaster database at the national level,
+developing a risk index of greater complexity and accuracy has been found to be difficult. The
+national hazard zonation and risk exposure maps have been used to assign scores to the
+probability of hazards at the State level. Such a categorisation provides a State-level hazard score
+which could be easily understood.
+4. As hazards and vulnerability come together to constitute a disaster, a score of 70, out of a
+total of 100, has been assigned to hazards, since these are the main drivers of disasters. In
+addition, any hazard event is likely to have a serious impact, given the population density, the
+level of infrastructure and economic activities in India. Vulnerability, captured also through area
+and population, has, thus, been assigned a lower score of 30.
+5. There are four major hazards which affect different parts of the country - floods, drought,
+cyclone and earthquake. The DRI assigns a maximum score of 15 to each of these four hazards,
+constituting a total of 60. Depending upon the level of probability of a hazard, States have been
+assigned the scores of 0, 5, 10 and 15 in an increasing order. In addition, all States have their share
+of smaller hazards, which affect communities on a local basis. In view of their continuous
+impacts, all States have been assigned an equal score of 10 for these smaller hazards, bringing the
+maximum score to 70.
+6. The scores for different hazards have been assigned on the basis of the following analysis:
+102

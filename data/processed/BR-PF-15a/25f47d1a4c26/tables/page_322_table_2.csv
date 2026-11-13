@@ -1,0 +1,8 @@
+S.No.,Criteria,Suggested Weights (%)
+i),Population,10
+ii),Demographic Change,10
+iii),Income Distance,50
+iv),Area,5
+v),Forest Cover,10
+vi),Accessibility and Availability of Infrastructure,5
+vii),International Border,10

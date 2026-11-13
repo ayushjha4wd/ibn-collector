@@ -1,0 +1,47 @@
+4.7 Statement 42 given below presents the estimated Crude Death Rate for India by
+residence separately for males and females. It is observed that female death rate is
+lower than male death rate both in rural and urban areas.
+Statement 42
+Crude Death Rate by sex and residence, India, 2014
+Residence Total Males Females
+Total 6.7 7.1 6.2
+Rural 7.3 7.7 6.7
+Urban 5.5 5.9 5.1
+4.8 Crude death rates for males and females in the bigger States are shown below in
+Statement 43. It is observed that male death rate exceeds female death rate in all bigger
+States except Jharkhand where male death rate is lower by 0.2 point than the female
+death rate.
+Statement 43
+Crude Death Rate by sex, India and bigger States, 2014
+India and bigger States Total Males Females
+India 6.7 7.1 6.2
+Andhra Pradesh 7.3 8.0 6.5
+Assam 7.2 7.8 6.6
+Bihar
+6.2 6.3 6.1
+Chhattisgarh
+7.7 8.1 7.3
+Delhi 3.8 4.3 3.4
+Gujarat 6.2 6.7 5.6
+Haryana 6.1 6.7 5.5
+Himachal Pradesh 6.7 8.2 5.1
+Jammu & Kashmir
+5.1 6.0 4.2
+Jharkhand
+5.9 5.8 6.0
+Karnataka 6.8 7.1 6.4
+Kerala 6.6 7.6 5.8
+Madhya Pradesh 7.8 8.3 7.2
+Maharashtra 6.0 6.6 5.3
+Odisha
+7.9 8.8 7.0
+Punjab
+6.4 6.8 5.8
+Rajasthan 6.4 7.0 5.8
+Tamil Nadu 7.0 7.9 6.2
+Telangana 6.7 7.3 6.1
+Uttar Pradesh 7.4 7.5 7.3
+Uttarakhand 6.0 6.9 5.1
+West Bengal
+6.1 6.5 5.6
+72

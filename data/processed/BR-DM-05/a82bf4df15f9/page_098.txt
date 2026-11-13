@@ -1,0 +1,22 @@
+Fertility by age of women
+3.11 Age of women is an important factor affecting the fertility levels. On the basis of
+data on births to women by specific age groups in the reproductive span 15-49 years as
+available from SRS, age specific fertility rates have been calculated. Statement 19 below
+presents the age specific fertility rates for India by residence.
+3.12 The data reveals that fertility in all the age groups is higher in rural areas than in
+urban areas. This distribution of age-specific fertility by residence is presented in chart 39.
+The fertility reaches the peak in the age group 25-29 and declines thereafter, irrespective of
+the place of residence. ASFR curve for urban areas falls under the ASFR curve of rural
+areas. Both Rural and Urban ASFR curves have declined very steeply after attaining peak
+for age 25-29.
+Statement 19
+ASFRs (Age Specific Fertility Rates) by residence, India, 2017
+Age Groups Total Rural Urban
+15-19 13.0 14.9 8.5
+20-24 137.1 153.2 101.9
+25-29 157.1 171.4 130.4
+30-34 84.3 90.1 74.1
+35-39 30.1 33.6 23.8
+40-44 10.9 12.9 7.3
+45-49 3.3 3.9 2.3
+66

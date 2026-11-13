@@ -1,0 +1,28 @@
+Page
+47 IMR (Infant mortality rate) by sex and residence, India and bigger 75
+States, 2013
+48 Percentage change in average IMR (Infant mortality rate) 78
+between 2001-03 and 2011-13 by residence, India and bigger
+States
+49 Neo-natal mortality rate and percentage share of neo-natal deaths 79
+to infant deaths by residence, India and bigger States, 2013
+50 Early neo-natal mortality rate and percentage share of early neo- 80
+natal deaths to infant deaths by residence, India and bigger States,
+2013
+51 Peri-natal mortality rate and Still birth rates by residence, 81
+India and bigger States, 2013
+52 Percentage of deaths in the age group 0-4 years to total deaths by 82
+residence, India and bigger States, 2013
+53 Estimated death rate for children age 0-4 years by sex and 83
+residence, India and bigger States, 2013
+54 Under-five Mortality Rate by sex and residence, India and bigger 84
+States, 2013
+55 Death rates for children age 5-14 years by sex and residence, India 86
+and bigger States, 2013
+56 Death rate for persons age 15-59 years by sex and residence, India 87
+and bigger States, 2013
+57 Death rate for persons age 60 years and above by sex and 88
+residence, India and bigger States, 2013
+58 Percentage distribution of deaths by type of medical attention 89
+received before death by residence, India and bigger States, 2013
+xii

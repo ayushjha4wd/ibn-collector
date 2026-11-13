@@ -1,0 +1,39 @@
+3.15 The percentage distribution of cumulative fertility by woman's age is shown below in
+Statement 22 for India and bigger States for the year 2014. The cumulative fertility for a
+specific age group has been worked out by adding the ASFRs up to that age group. The
+percentage share of fertility by woman in the age group 15-19 varies from 1.2 in Jammu &
+Kashmir to 13.1 in West Bengal. By the age 34, the percentage share of cumulative fertility
+varies from 89.9 in Jharkhand to 97.3 in Himachal Pradesh. The percentage share in
+cumulative fertility for women by the age 39 years varies from 96.4 in Jharkhand to 99.5 in
+Assam and Himachal Pradesh. At the national level, less than 2 per cent fertility is from
+women aged 40 years and above. Chart 14 gives percentage cumulative age specific fertility
+rate for India by residence.
+Statement 22
+Percentage distribution of cumulative fertility by age group,
+India and bigger States, 2014
+India and bigger 15-19 15-24 15-29 15-34 15-39 15-44 15-49
+States
+India 6.1 48.5 80.1 93.8 98.1 99.6 100.0
+Andhra Pradesh 4.6 57.9 87.7 96.2 98.9 100.0 100.0
+Assam 11.6 52.6 83.2 96.2 99.5 99.9 100.0
+Bihar 4.1 41.9 76.1 93.3 98.5 99.8 100.0
+Chhattisgarh 8.0 55.1 83.0 94.2 98.2 99.7 100.0
+Delhi 2.5 41.8 81.6 96.2 99.0 99.9 100.0
+Gujarat 6.4 43.8 80.7 95.3 98.8 99.8 100.0
+Haryana 3.8 49.7 87.0 96.3 98.7 99.7 100.0
+Himachal Pradesh 2.9 46.9 85.4 97.3 99.5 99.9 100.0
+Jammu & Kashmir 1.2 28.5 70.0 93.8 98.3 99.6 100.0
+Jharkhand 7.3 42.4 73.4 89.9 96.4 98.8 100.0
+Karnataka 2.4 55.6 87.4 95.9 98.6 99.5 100.0
+Kerala 5.0 40.1 79.5 96.7 99.2 99.8 100.0
+Madhya Pradesh 7.5 54.3 82.7 94.6 98.1 99.5 100.0
+Maharashtra 4.2 60.6 86.5 96.2 99.0 99.8 100.0
+Odisha 5.9 44.5 78.1 93.0 98.1 99.6 100.0
+Punjab 1.9 42.7 81.3 95.3 98.8 99.5 100.0
+Rajasthan 9.0 53.2 80.5 93.4 97.9 99.6 100.0
+Tamil Nadu 7.6 47.2 82.7 96.1 98.9 99.8 100.0
+Telangana 4.5 49.6 84.2 95.8 98.2 99.2 100.0
+Uttar Pradesh 5.1 40.3 73.3 90.3 96.8 99.3 100.0
+Uttarakhand 3.8 41.2 79.5 95.4 98.8 99.8 100.0
+West Bengal 13.1 72.6 90.5 96.8 99.0 99.7 100.0
+45

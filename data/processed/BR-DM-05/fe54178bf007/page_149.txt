@@ -1,0 +1,59 @@
+4.6 Statement 41 given below shows the percentage change in the level of Crude
+Death Rate between the period 2003-05 and 2013-15 for India and bigger States/UTs.
+During this period CDR in India has declined by 13.0 per cent. Among the bigger
+States/UTs, decline in CDR varies from 22.5 per cent in Jharkhand to 2.9 per cent in
+Himachal Pradesh. In Kerala, average CDR have shown marginal increase during 2003-05
+to 2013-15 period, which could possibly be due to the changes in age structure of the
+population.
+Statement 41
+Percent change in average Crude Death Rate between 2003-05 and 2013-2015,
+by residence, India and bigger States/UTs
+India and Total Rural Urban
+bigger States/UTs 2003- 2013- % 2003- 2013- % 2003- 2013- %
+05 15 Change 05 15 Change 05 15 Change
+India
+7.7 6.7 -13.0 8.3 7.3 -12.0 5.9 5.5 -6.8
+Andhra Pradesh*
+7.4 7.1 -4.1 8.2 8.0 -2.4 5.4 5.0 -7.4
+Assam
+8.9 7.4 -16.9 9.3 7.7 -17.2 5.7 5.3 -7.0
+Bihar
+8.0 6.3 -21.3 8.2 6.5 -20.7 6.1 5.3 -13.1
+Chhattisgarh
+8.1 7.7 -4.9 8.7 8.3 -4.6 6.7 5.8 -13.4
+Delhi
+4.8 3.8 -20.8 5.5 4.4 -20.0 4.7 3.8 -19.1
+Gujarat
+7.2 6.3 -12.5 8.0 6.8 -15.0 5.9 5.6 -5.1
+Haryana
+6.8 6.2 -8.8 7.1 6.5 -8.5 5.9 5.5 -6.8
+Himachal Pradesh
+6.9 6.7 -2.9 7.1 6.9 -2.8 4.7 4.0 -14.9
+Jammu & Kashmir
+5.6 5.1 -8.9 5.8 5.3 -8.6 5.1 4.5 -11.8
+Jharkhand
+8.0 6.2 -22.5 8.6 6.5 -24.4 5.4 5.0 -7.4
+Karnataka
+7.1 6.8 -4.2 7.8 7.8 0.0 5.5 5.1 -7.3
+Kerala
+6.3 6.7 6.3 6.2 6.8 9.7 6.3 6.5 3.2
+Madhya Pradesh
+9.3 7.8 -16.1 10.1 8.3 -17.8 6.5 6.0 -7.7
+Maharashtra
+6.7 6.0 -10.4 7.5 6.8 -9.3 5.6 4.8 -14.3
+Odisha
+9.6 8.0 -16.7 10.0 8.3 -17.0 6.8 6.3 -7.4
+Punjab
+6.7 6.4 -4.5 7.1 7.2 1.4 5.8 5.2 -10.3
+Rajasthan
+7.2 6.4 -11.1 7.5 6.8 -9.3 6.2 5.4 -12.9
+Tamil Nadu
+7.5 7.0 -6.7 8.3 7.9 -4.8 6.2 6.2 0.0
+Uttar Pradesh
+9.0 7.4 -17.8 9.6 7.9 -17.7 6.7 5.8 -13.4
+Uttarakhand
+7.0 6.2 -11.4 8.2 6.5 -20.7 4.8 5.2 8.3
+West Bengal
+6.4 6.1 -4.7 6.5 6.0 -7.7 6.3 6.4 1.6
+* Andhra Pradesh includes Telangana.
+125

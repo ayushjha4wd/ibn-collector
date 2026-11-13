@@ -1,0 +1,37 @@
+3.15 The fertility pattern by age groups in different States is presented below in Statement
+21. Except for Andhra Pradesh, Chhattisgarh, Maharashtra and West Bengal where fertility
+reached its peak in the age group 20-24 and Jammu & Kashmir where fertility reached its
+peak in the age group 30-34 , the highest fertility in all the other bigger States/UTs has been
+attained in the age group 25-29. Fertility, however, declines from age 30 in all the bigger
+States/UTs, except Jammu & Kashmir where it declines from age 35. The ASFR in the
+younger age group 15-19 varies from 3.2 in Delhi to 36.1 in West Bengal. In the age group
+30-34, the variation in the level of ASFR is from 38.5 in Andhra Pradesh to 156.2 in Bihar.
+The rural-urban levels in ASFR for bigger States/UTs are shown in Table 3.
+Statement 21
+ASFRs (Age Specific Fertility Rates), India and bigger States/UTs, 2017
+India and bigger 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+States/UTs
+India 13.0 137.1 157.1 84.3 30.1 10.9 3.3
+Andhra Pradesh 10.7 136.7 121.7 38.5 9.0 3.1 1.9
+Assam 23.6 121.8 146.9 101.5 42.2 11.3 7.1
+Bihar 14.0 164.9 229.8 156.2 48.6 21.9 7.5
+Chhattisgarh 15.8 182.7 165.1 81.9 28.0 8.3 1.7
+Delhi 3.2 84.0 125.2 63.2 21.2 6.2 1.8
+Gujarat 10.9 148.6 165.4 74.1 22.5 6.9 3.0
+Haryana 3.9 125.9 185.5 92.5 25.7 7.9 3.5
+Himachal Pradesh 12.8 90.5 125.7 74.1 22.7 2.1 0.4
+Jammu & Kashmir 3.6 44.7 91.3 100.1 59.0 18.5 5.6
+Jharkhand 13.9 151.5 175.0 100.3 40.4 19.6 4.3
+Karnataka 8.7 118.7 130.9 62.0 18.2 4.9 2.8
+Kerala 11.8 101.2 129.7 74.2 23.0 2.6 0.5
+Madhya Pradesh 17.5 189.7 209.5 85.1 29.3 10.2 1.8
+Maharashtra 9.1 127.4 122.0 60.2 15.9 5.0 1.7
+Odisha 10.0 119.6 138.1 71.8 24.6 8.1 2.7
+Punjab 6.0 86.9 122.6 70.4 26.2 6.8 5.5
+Rajasthan 14.9 172.9 183.6 91.7 33.6 15.2 4.4
+Tamil Nadu 10.6 115.8 124.8 52.8 11.2 1.5 1.0
+Telangana 7.3 126.5 129.7 48.7 12.0 4.2 2.5
+Uttar Pradesh 7.8 141.3 210.6 136.7 64.8 27.1 5.0
+Uttarakhand 7.3 105.2 147.7 71.8 29.0 7.1 4.1
+West Bengal 36.1 127.5 79.7 48.5 12.4 5.5 2.9
+73

@@ -1,0 +1,48 @@
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+07 Delhi 1 Delhi 090 01 North West
+091 02 North
+092 03 North East
+093 04 East
+094 05 New Delhi
+095 06 Central
+096 07 West
+097 08 South West
+098 09 South
+08 Rajasthan 1 Western 101 03 Bikaner
+113 15 Jodhpur
+114 16 Jaisalmer
+115 17 Barmer
+116 18 Jalor
+117 19 Sirohi
+118 20 Pali
+2 North Eastern 104 06 Alwar
+105 07 Bharatpur
+106 08 Dhaulpur
+107 09 Karauli
+108 10 Sawai Madhopur
+109 11 Dausa
+110 12 Jaipur
+119 21 Ajmer
+120 22 Tonk
+122 24 Bhilwara
+3 Southern 123 25 Rajsamand
+124 26 Dungarpur
+125 27 Banswara
+130 32 Udaipur
+4 South Eastern 121 23 Bundi
+126 28 Chittaurgarh
+127 29 Kota
+128 30 Baran
+129 31 Jhalawar
+131 33 Pratapgarh
+5 Northern 99 01 Ganganagar
+100 02 Hanumangarh
+102 04 Churu
+103 05 Jhunjhunun
+111 13 Sikar
+112 14 Nagaur
+323

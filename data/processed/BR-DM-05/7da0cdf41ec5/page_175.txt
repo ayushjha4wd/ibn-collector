@@ -1,0 +1,43 @@
+4.14 Early neo-natal mortality rate i.e. number of infant deaths less than seven days
+of life per thousand live births forms an important component of infant mortality rate
+and more specifically of the neo-natal mortality rate. Statement 49 given below
+presents the early neo-natal mortality rate along with the percentage of early neo-natal
+deaths to the total infant deaths. At the National level, the early neo-natal mortality rate
+for the year 2016 has been estimated at 18 and ranges from 21 in rural areas to 11 in
+urban areas. Among the bigger States/UTs, Kerala 4 and Madhya Pradesh, Odisha and
+Uttarakhand with 24 are the extremes. The percentage of early neo-natal deaths to the
+total infant deaths during the year 2016, at the National level, has been 53.2 and it
+varies from 54.8 in rural areas to 45.8 in urban areas. In this indicator, in most of the
+States, rural proportion is relatively higher than the urban proportion except for Delhi,
+and Punjab. Among the bigger States/UTs the percentage for total, varies from 40.5 in
+Kerala to 62.9 in Uttarakhand.
+Statement 49
+Early Neo-Natal Mortality rates and percentage share of Early Neo-Natal Deaths
+to Infant Deaths by residence, India and bigger States/UTs, 2016
+India and Early neo-natal mortality Percentage of Early neo-natal
+Bigger States/UTs rate deaths to Infant deaths
+Total Rural Urban Total Rural Urban
+India 18 21 11 53.2 54.8 45.8
+Andhra Pradesh 18 21 8 52.0 56.3 34.6
+Assam 18 19 8 41.2 41.4 36.8
+Bihar 21 22 13 56.4 57.4 44.5
+Chhattisgarh 21 22 17 53.4 53.3 53.8
+Delhi 9 8 9 53.5 33.3 54.3
+Gujarat 16 20 11 54.3 53.1 58.0
+Haryana 16 18 11 48.1 50.7 40.7
+Himachal Pradesh 10 11 9 42.3 42.2 46.8
+Jammu & Kashmir 15 17 11 62.5 67.1 46.1
+Jharkhand 17 19 9 59.1 61.6 44.5
+Karnataka 13 17 7 54.5 62.0 35.3
+Kerala 4 5 3 40.5 51.0 28.6
+Madhya Pradesh 24 26 16 51.2 51.8 48.0
+Maharashtra 11 13 7 55.4 56.1 53.8
+Odisha 24 25 17 54.0 54.5 48.9
+Punjab 9 8 9 42.8 37.3 53.7
+Rajasthan 22 25 14 53.8 55.2 47.0
+Tamil Nadu 9 12 6 53.0 59.3 44.6
+Telangana 16 19 9 50.5 56.1 37.5
+Uttar Pradesh 23 26 14 53.5 55.9 42.1
+Uttarakhand 24 26 19 62.9 62.4 65.0
+West Bengal 13 14 11 52.5 53.2 49.9
+151

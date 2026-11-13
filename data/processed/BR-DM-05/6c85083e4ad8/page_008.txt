@@ -1,0 +1,34 @@
+Page
+Fertility Indicators
+14 CBR (Crude birth rate) by residence, India and bigger States, 2013 30
+15 Percent change in average crude birth rate between 2001-03 and 32
+2011-13 by residence, India and bigger States
+16 Sex ratio (female per 1000 male) at birth by residence, India and 34
+bigger States 2011-13
+17 Sex ratio of child (age group 0-4 years) during the period 2011-13, 36
+India and bigger States
+18 GFR (General fertility rate) by residence, India and bigger States, 37
+2013
+19 Percentage change in average GFR (General fertility rate) between 40
+2001-03 and 2011-13, by residence, India and bigger States
+20 ASFRs (Age specific fertility rates) by residence, 2013 41
+21 Percentage change in age specific fertility rates by residence 43
+between 2001-03 and 2011-13, India
+22 ASFRs (Age specific fertility rates), India and bigger States, 2013 44
+23 Percentage distribution of cumulative fertility by age group, 45
+India and bigger States, 2013
+24 Mean age of fertility and associated standard deviation, India and 47
+bigger States, 2013
+25 TFR (Total fertility rate) by residence, India and bigger States, 48
+2013
+26 Percentage change in average TFR (Total fertility rate) between 51
+2001-03 and 2011-13 by residence, India and bigger States
+27 GRR (Gross reproduction rate) by residence, India and bigger 52
+States, 2013
+28 ASMFRs (Age specific marital fertility rates) by residence, India 53
+2013
+29 ASMFRs (Age specific marital fertility rates) India and bigger 54
+States, 2013
+30 TMFRs (Total marital fertility rates) by residence, India and bigger 55
+States, 2013
+x

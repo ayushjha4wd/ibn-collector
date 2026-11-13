@@ -1,0 +1,6 @@
+S.No.,Criteria,Suggested Weights (%)
+i),Population adjusted for minorities and backward sections,27.5
+ii),Area adjusted with locational complexities,7.5
+iii),Income distance (scaled using 1971 Population),50.0
+iv),Fiscal discipline,7.5
+v),Distance from Index for Social Progress,7.5

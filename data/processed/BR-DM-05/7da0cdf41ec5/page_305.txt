@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2016
+Odisha
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 39.3 40.1 38.4 42.7 43.5 41.8 22.5 24.0 20.8
+1-4 2.2 1.9 2.5 2.2 1.8 2.7 1.7 2.1 1.2
+0-4 12.2 12.1 12.2 13.0 12.8 13.3 7.5 8.3 6.7
+5-9 1.0 0.4 1.6 1.1 0.4 1.9 0.2 0.4 0.0
+10-14 0.7 0.8 0.7 0.7 0.7 0.7 0.8 1.3 0.3
+15-19 1.2 0.9 1.5 1.4 1.0 1.8 0.5 0.9 0.0
+20-24 1.5 1.5 1.5 1.5 1.5 1.5 1.3 1.2 1.5
+25-29 1.8 2.6 1.1 1.9 2.7 1.2 1.3 2.1 0.5
+30-34 2.1 2.4 1.7 2.3 2.7 1.9 1.0 1.3 0.7
+35-39 2.4 3.1 1.7 2.5 3.1 2.0 1.7 3.0 0.3
+40-44 4.3 5.5 3.0 4.9 6.3 3.2 2.2 2.2 2.1
+45-49 4.3 5.4 3.0 4.2 5.4 2.9 4.7 5.5 3.7
+50-54 8.2 8.6 7.8 8.4 8.7 8.0 7.5 8.2 6.7
+55-59 11.9 13.6 9.9 12.6 14.5 10.4 8.6 9.5 7.7
+60-64 17.7 18.8 16.6 17.8 19.0 16.4 17.6 17.8 17.4
+65-69 30.5 34.9 25.4 29.6 34.1 24.5 35.9 39.7 31.4
+70-74 42.8 43.1 42.5 44.6 46.6 42.5 32.3 22.1 42.0
+75-79 76.1 84.3 68.3 75.9 87.8 64.9 76.8 65.5 89.1
+80-84 107.4 121.4 94.2 107.8 123.8 92.3 104.8 105.0 104.7
+85+ 189.1 203.0 175.3 193.6 205.7 181.0 163.0 184.1 147.8
+All ages 7.8 8.5 7.1 8.1 8.9 7.3 6.1 6.4 5.8
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2016
+Odisha
+Indicators Total Rural Urban
+Child mortality rate 12 13 8
+Under-five mortality rate 50 52 38
+Infant mortality rate 44 46 34
+Neo-natal mortality rate 32 33 24
+Early neo-natal mortality rate 24 25 17
+Late neo-natal mortality rate 8 9 7
+Post neo-natal mortality rate 12 12 10
+Peri-natal mortality rate 37 38 25
+Still birth rate 13 14 9
+283

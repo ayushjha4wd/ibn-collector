@@ -1,0 +1,42 @@
+Chapter 6 : Annex
+Flood Score
+i) The data on floods has been compiled based on the flood-prone areas estimated by
+Rashtriya Barh Ayog (RBA) and the extent of flood-prone areas reported by States to the
+Eleventh Five-Year Plan Working Group. After presenting the data on flood-prone areas
+in lakh hectares in absolute numbers, this area has also been estimated in relation to the
+total area of the State. States where floods affect more than 20 per cent of the total area are
+Scoring Scheme (Disasters)
+assigned a score of 15, while States where between 10 and 20 per cent of the total area is
+Disasters High Medium Low affected are assigned a score of 10. The remaining States with less than 10 per cent of the
+Floods 15.00 10.00 5.00 area affected have been assigned a score of 51.
+Drought 15.00 10.00 5.00 ii) Arunachal Pradesh has been included as a high score flood-prone State, even
+Cyclone 15.00 10.00 5.00 though the flood-affected areas remain less than 10 per cent of the total land. This
+exception is made as the river Brahmaputra (which is known as river Siang in Arunachal
+Earthquake 15.00 10.00 5.00
+Pradesh) flows through the State upon its entry into India. When the Brahmaputra is
+Others 10.00
+flooded, which happens almost every year, it inundates Arunachal Pradesh before it enters
+Assam. The other exception is Tamil Nadu, which has experienced heavy floods in the
+Scoring System Poverty recent past and has been assigned a score of 10.
+Low - 10.00 Below 13% iii) Among the bifurcated States, we could not get data on flood-affected areas in
+Medium - 20.00 Between 13% and 26% Uttarakhand, Jharkhand and Chhattisgarh. However, Uttarakhand is flooded due to a
+large network of rivers in the Himalayas. The state experienced massive floods in 2014.
+High - 30.00 Between 26% and 40%
+Further, when the adjacent country of Nepal is flooded, these floods inundate and affect
+Uttarakhand as well. Uttarakhand has, therefore, been assigned a high score of 15 for
+being a flood-prone state. On the other hand, Jharkhand and Chhattisgarh are not known
+for incidence of heavy floods. These two States have been assigned a lower score of 5.
+iv) All the hill States experience incidence of floods, but these are mostly flash floods
+which affect these States for a small duration of time. Due to the terrain, the runoff is fast
+and these States are not exposed to the risk of riverine flooding to which the States
+situated in major river basins are exposed. However, the flash floods cause a lot of damage
+to infrastructure.
+Drought Score
+v) According to the Manual for Drought Management, 2016 produced by Ministry
+of Agriculture and Farmers Welfare (http://agricoop.nic.in/sites/default/files
+/Manual%20Drought%202016.pdf), about 68 per cent of cropped area is vulnerable to
+drought, of which 33 per cent receives less than 750 mm of mean annual rainfall and is
+classified as “chronically drought-prone”, while 35 per cent of the cropped area which
+receives mean annual rainfall of 750-1125 mm is classified as “drought-prone”. The
+1https://ndma.gov.in/images/guidelines/flood.pdf
+103

@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-DM-05/2026-11-13/Corrigendum_to_SRS_Reports.pdf",
+  "raw_sha256": "04e3f41129a113be3292dc05c7e5b5d460880b00fa93a158cfc2168cead8e861",
+  "source_id": "BR-DM-05",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/44371/download/48039",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:38:43+00:00",
+  "obtained_on": null,
+  "kind": "pdf",
+  "outputs": [
+    "data/processed/BR-DM-05/04e3f41129a1/page_001.txt",
+    "data/processed/BR-DM-05/04e3f41129a1/tables/page_001_table_1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

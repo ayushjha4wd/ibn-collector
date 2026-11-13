@@ -1,0 +1,39 @@
+4.11 Statement 46 given below presents Infant Mortality Rate (IMR) by sex and
+residence for the year 2015 for India and bigger States/UTs. Infant Mortality Rate is
+defined as the infant deaths (less than one year) per thousand live births. At the
+National level, IMR is reported to be 37 and varies from 41 in rural areas to 25 in urban
+areas. Among the bigger States/UTs, it varies from 12 in Kerala to 50 in Madhya
+Pradesh. Female infants experienced a higher mortality than male infants in all States
+except Himachal Pradesh and Madhya Pradesh where both are the same. Chart 82
+provides the values of IMR by residence for India and bigger States/UTs. Distribution
+of bigger States by level of IMR in rural and urban areas is shown in Chart 85. The
+estimates on child and infant mortality indicators by residence have been detailed in
+Table 9.
+Statement 46
+Infant Mortality Rates by sex and residence, India and bigger States/UTs, 2015
+India and bigger Total Rural Urban
+States/UTs Total Males Females Total Males Females Total Males Females
+India 37 35 39 41 40 43 25 23 28
+Andhra Pradesh 37 36 38 41 41 42 26 25 28
+Assam 47 47 47 50 50 50 25 24 26
+Bihar 42 36 50 42 36 49 44 37 52
+Chhattisgarh 41 40 41 43 42 43 32 31 33
+Delhi 18 18 19 27 27 28 18 17 19
+Gujarat 33 33 34 41 41 42 21 20 22
+Haryana 36 36 37 39 38 41 30 30 30
+Himachal Pradesh 28 28 27 28 28 28 18 22 11
+Jammu & Kashmir 26 25 27 27 25 28 24 25 23
+Jharkhand 32 30 35 35 32 38 22 23 20
+Karnataka 28 26 30 30 28 32 23 22 25
+Kerala 12 10 13 13 11 15 10 10 11
+Madhya Pradesh 50 51 48 54 56 52 34 34 35
+Maharashtra 21 19 22 26 24 28 14 12 15
+Odisha 46 45 47 48 47 49 35 37 34
+Punjab 23 22 24 24 23 25 20 18 22
+Rajasthan 43 40 47 48 44 52 27 26 28
+Tamil Nadu 19 19 19 22 23 22 16 15 17
+Telangana 34 33 34 37 38 37 27 26 28
+Uttar Pradesh 46 44 48 48 48 49 36 30 42
+Uttarakhand 34 31 38 31 27 35 44 44 45
+West Bengal 26 25 28 27 25 28 24 23 25
+137

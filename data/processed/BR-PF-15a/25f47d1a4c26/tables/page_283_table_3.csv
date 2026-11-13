@@ -1,0 +1,6 @@
+S.No.,Criteria,Suggested Weights (%)
+i),Population (Census 2011),20
+ii),Area,20
+iii),Income Distance,30
+iv),Population Control,20
+v),Forest Cover,10

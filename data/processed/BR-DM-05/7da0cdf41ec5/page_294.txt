@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2016
+Chhattisgarh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 44.5 43.8 45.3 47.4 46.6 48.2 33.3 33.1 33.5
+1-4 3.2 3.1 3.3 4.0 3.9 4.1 0.1 0.0 0.3
+0-4 12.0 12.0 12.1 13.2 13.2 13.2 7.3 7.4 7.3
+5-9 0.5 0.3 0.7 0.5 0.3 0.6 0.5 0.0 1.1
+10-14 0.7 0.5 0.8 0.3 0.4 0.2 2.0 1.0 3.0
+15-19 1.3 1.2 1.3 1.6 1.5 1.7 0.1 0.2 0.0
+20-24 1.8 1.8 1.7 1.9 2.3 1.4 1.4 0.1 2.7
+25-29 2.7 3.0 2.3 2.7 2.7 2.7 2.5 3.9 1.0
+30-34 3.3 3.7 2.9 3.0 3.7 2.3 4.1 3.8 4.3
+35-39 3.8 4.0 3.5 3.6 4.2 3.1 4.2 3.6 4.8
+40-44 4.5 4.1 5.0 5.4 4.4 6.4 2.1 3.2 0.9
+45-49 6.1 9.3 2.9 6.4 9.2 3.8 5.0 9.8 0.3
+50-54 11.7 12.1 11.2 13.1 12.8 13.5 7.8 10.2 5.1
+55-59 14.6 19.6 10.1 15.2 19.2 11.7 12.9 20.6 4.7
+60-64 17.5 20.6 14.3 18.7 22.6 14.5 13.3 12.9 13.7
+65-69 29.5 31.4 27.8 31.1 34.1 28.5 23.4 21.1 25.4
+70-74 65.2 86.7 50.7 63.7 90.2 47.4 71.3 76.5 66.2
+75-79 100.6 115.4 88.8 99.2 127.1 78.2 106.9 73.2 141.8
+80-84 190.5 221.9 166.7 202.6 243.3 172.2 155.5 162.2 150.2
+85+ 292.0 308.9 282.5 279.4 252.6 296.1 340.3 612.8 238.7
+All ages 7.4 7.8 7.0 7.8 8.3 7.3 6.2 6.4 5.9
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2016
+Chhattisgarh
+Indicators Total Rural Urban
+Child mortality rate 12 13 7
+Under-five mortality rate 49 53 32
+Infant mortality rate 39 41 31
+Neo-natal mortality rate 26 27 20
+Early neo-natal mortality rate 21 22 17
+Late neo-natal mortality rate 5 6 3
+Post neo-natal mortality rate 13 13 11
+Peri-natal mortality rate 31 32 27
+Still birth rate 10 11 10
+272

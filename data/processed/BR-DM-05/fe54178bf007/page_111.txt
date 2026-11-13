@@ -1,0 +1,34 @@
+3.21 Another refined measure of fertility which accounts for future mothers is the Gross
+Reproduction Rate (GRR). It measures the average number of female children a woman is
+expected to give birth during her entire reproductive span conforming to the age specific
+fertility rates (ASFRs) for a given year, if there is no mortality. The estimated value of GRR
+for India in the year 2015 is 1.1 and varies from 0.8 in urban areas to 1.2 in rural areas. Values
+of GRR by residence for India and bigger States/UTs for the year 2015 are presented below in
+Statement 26.
+Statement 26
+GRR (Gross Reproduction Rate) by residence, India and bigger States/UTs, 2015
+India and bigger States/UTs Total Rural Urban
+India 1.1 1.2 0.8
+Andhra Pradesh 0.8 0.9 0.7
+Assam 1.0 1.1 0.7
+Bihar 1.6 1.6 1.2
+Chhattisgarh 1.2 1.3 0.8
+Delhi 0.8 0.7 0.8
+Gujarat 1.0 1.1 0.8
+Haryana 1.0 1.0 0.9
+Himachal Pradesh 0.8 0.8 0.5
+Jammu & Kashmir 0.8 0.9 0.5
+Jharkhand 1.3 1.4 0.9
+Karnataka 0.9 0.9 0.7
+Kerala 0.9 0.9 0.9
+Madhya Pradesh 1.3 1.4 1.0
+Maharashtra 0.8 0.9 0.8
+Odisha 1.0 1.0 0.7
+Punjab 0.8 0.8 0.8
+Rajasthan 1.2 1.3 1.0
+Tamil Nadu 0.8 0.8 0.8
+Telangana 0.8 0.9 0.7
+Uttar Pradesh 1.5 1.6 1.2
+Uttarakhand 0.9 0.9 0.8
+West Bengal 0.8 0.8 0.6
+86

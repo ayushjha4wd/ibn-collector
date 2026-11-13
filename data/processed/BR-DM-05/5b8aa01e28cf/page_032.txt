@@ -1,0 +1,34 @@
+Form 16: Distribution of Female population by broad age groups and levels of
+education (as on 1st July/1st January)
+Form 17: Number of females who got married
+by age at effective marriage (January-June/July-December)
+D. Compilation/Tabulation Forms
+Form 8: Consolidated monthly report on births and deaths
+Form 11: Finalised list of Outcome of Pregnancy (January-June/July-December)
+Form 12: Finalised list of Deaths (January-June/July-December)
+Form 13: Results of the HYS for Outcome of Pregnancy (January-June/July-December)
+Form 14: Results of the HYS for Deaths (January-June/July-December)
+1.31 The enumerator records the details of each birth and death event occurred
+during the reference period in Forms 4 and 5 respectively on a continuous basis. A
+monthly report on births and deaths (Forms 6 and 7) is required to be sent by the
+enumerators to the State headquarters in the first week of the following month. The
+relevant entries of birth and death records in monthly report are copied from six monthly
+records and sent to the State headquarter. On the basis of the monthly reports received
+from the sample units, the State headquarters are required to prepare a consolidated
+monthly report (Form 8) and forward the same to the Office of the Registrar General,
+India by the end of the following month. The monthly reports for the individual units
+remain at the State headquarters. The supervisor records the details of each birth and
+death event occurring during the six-month reference period in Forms 9 and 10 re-
+spectively. After matching of each birth and death event recorded in Forms 4 and 5 with
+those in Forms 9 and 10 and verification of partially and unmatched events in the field,
+finalized Forms 11 and 12 are prepared after necessary corrections and inclusion of
+additional events recorded during the survey. These forms are sent to the Office of the
+Registrar General, India along with the half-yearly survey results in Forms 13, 14, 15, 16
+and 17. The processes of matching, re verification, generation of Forms 11 to 17 are now
+automated leading to less time consumption for data processing and more time for data
+collection in the field leading to improvement in quality of data. Flow chart of SRS
+returns is shown in Chart 1. Due to automation most of the errors in terms of wrong
+classification of sex or invalid coding, not legible details are taken care of. We do not get
+birth and death without sex classification or without essential details as the application
+does not allow for such omission /commission.
+9

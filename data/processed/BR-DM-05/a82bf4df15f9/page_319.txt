@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2017
+Uttar Pradesh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 63.4 58.4 69.4 65.4 61.7 70.0 55.1 44.7 66.9
+1-4 1.1 1.0 1.3 1.3 1.1 1.5 0.5 0.6 0.5
+0-4 13.1 12.3 14.1 13.7 13.1 14.3 10.9 8.9 13.4
+5-9 1.0 0.8 1.3 1.1 0.8 1.4 0.6 0.5 0.8
+10-14 0.8 0.6 1.1 1.0 0.6 1.4 0.3 0.5 0.0
+15-19 1.2 1.0 1.5 1.4 1.1 1.8 0.6 0.7 0.6
+20-24 1.3 1.2 1.4 1.4 1.3 1.5 1.0 1.1 0.9
+25-29 1.7 1.5 2.0 2.0 1.9 2.1 1.0 0.4 1.6
+30-34 2.6 2.4 2.8 2.7 2.5 3.0 2.1 2.0 2.2
+35-39 3.6 4.0 3.3 3.9 4.1 3.7 2.9 3.6 2.0
+40-44 5.3 5.9 4.8 5.7 6.6 4.8 4.3 3.8 4.8
+45-49 6.5 7.3 5.7 7.4 8.1 6.7 4.1 5.1 3.1
+50-54 10.7 11.6 9.8 11.8 12.2 11.2 8.4 10.1 6.6
+55-59 19.2 24.4 14.7 21.1 27.2 16.1 14.9 18.7 10.9
+60-64 21.6 25.2 17.9 23.3 26.9 19.6 16.8 20.4 13.0
+65-69 31.9 35.9 27.9 34.4 38.3 30.4 24.7 28.9 20.4
+70-74 48.3 53.0 43.6 47.8 54.3 41.6 50.0 49.5 50.5
+75-79 63.1 73.5 53.3 64.8 74.8 55.5 57.2 69.2 45.8
+80-84 126.2 130.7 121.6 138.3 148.0 128.6 86.9 76.2 98.1
+85+ 196.3 223.2 175.8 191.9 228.9 160.9 213.2 193.4 223.4
+All ages 6.7 6.9 6.5 7.2 7.4 7.0 5.4 5.5 5.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2017
+Uttar Pradesh
+Indicators Total Rural Urban
+Child mortality rate 13 14 11
+Under-five mortality rate 46 49 35
+Infant mortality rate 41 44 33
+Neo-natal mortality rate 30 33 18
+Early neo-natal mortality rate 23 26 14
+Late neo-natal mortality rate 6 7 4
+Post neo-natal mortality rate 12 11 14
+Peri-natal mortality rate 26 29 18
+Still birth rate 3 3 4
+288

@@ -1,0 +1,41 @@
+3.33 Statement 36 below presents the percentage distribution of current live births by
+birth order and residence for India and bigger States/UTs. It may be observed that the
+percentage of current live births for ‘first’ and ‘second’ order taken together is generally
+higher for urban areas if compared to the rural areas for bigger States/UTs except Delhi,
+Himachal Pradesh, Jharkhand, Maharashtra, Punjab, Telangana and West Bengal. For
+‘third’, ‘fourth & above’ order live births, the percentage contribution at National level is
+significantly higher in rural areas (24.4) compared to urban areas (15.0). Charts 64 and 65
+depict the percentage distribution of current live births by birth order for rural and urban
+areas respectively.
+Statement 36
+Percentage distribution of current live births by Birth Order and residence,
+India and bigger States/UTs, 2016
+India and bigger Birth order
+States/UTs
+Rural Urban
+1st 2nd 3rd 4th & 1st 2nd 3rd 4th &
+above above
+India 47.5 28.1 13.9 10.5 55.8 29.2 10.0 5.0
+Andhra Pradesh 59.6 32.2 7.2 1.0 64.7 29.2 5.0 1.2
+Assam 48.3 28.2 14.8 8.6 59.6 29.1 8.8 2.6
+Bihar 33.9 26.1 20.3 19.7 41.1 27.6 17.8 13.5
+Chhattisgarh 43.8 35.3 13.8 7.1 45.6 39.6 11.7 3.1
+Delhi 65.5 26.5 6.0 2.0 67.1 19.4 9.5 3.9
+Gujarat 66.7 19.4 8.3 5.5 74.7 17.7 5.5 2.1
+Haryana 46.7 31.8 13.4 8.1 54.6 31.8 10.1 3.5
+Himachal Pradesh 60.8 30.9 5.6 2.6 54.4 35.9 8.1 1.6
+Jammu & Kashmir 77.0 13.5 6.0 3.5 88.0 7.9 3.9 0.2
+Jharkhand 46.0 30.2 15.5 8.3 44.0 31.8 15.8 8.3
+Karnataka 49.5 35.5 11.5 3.4 53.9 35.9 8.3 1.9
+Kerala 47.4 37.7 11.8 3.2 48.9 38.6 10.2 2.3
+Madhya Pradesh 41.3 31.3 16.1 11.3 50.9 30.1 12.5 6.4
+Maharashtra 53.6 33.2 9.9 3.3 52.5 33.3 10.1 4.0
+Odisha 49.8 32.8 11.4 6.1 56.9 30.5 8.9 3.7
+Punjab 61.1 27.5 9.8 1.6 60.7 27.7 9.1 2.6
+Rajasthan 43.1 30.4 14.8 11.7 45.1 31.5 14.3 9.1
+Tamil Nadu 53.9 36.3 8.4 1.4 55.2 38.7 5.5 0.6
+Telangana 59.4 30.0 8.0 2.7 59.4 30.0 8.0 2.7
+Uttar Pradesh 43.4 23.4 16.6 16.6 52.9 25.8 12.5 8.8
+Uttarakhand 44.8 34.9 12.6 7.7 50.1 31.3 12.1 6.5
+West Bengal 66.2 24.8 6.6 2.4 66.0 21.6 7.2 5.2
+108

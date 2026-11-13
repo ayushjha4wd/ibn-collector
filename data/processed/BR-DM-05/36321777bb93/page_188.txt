@@ -1,0 +1,40 @@
+Table 8
+Age-specific death rate by sex and residence, 2012
+Gujarat
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 43.8 42.4 45.4 52.3 50.3 54.5 27.8 27.7 27.8
+1-4 2.5 2.4 2.7 2.8 3.1 2.5 2.0 1.0 3.1
+0-4 10.9 10.5 11.3 12.9 12.7 13.1 7.1 6.4 7.9
+5-9 0.7 1.0 0.4 0.6 0.9 0.2 0.9 1.1 0.6
+10-14 0.6 0.6 0.6 0.7 0.6 0.8 0.6 0.8 0.3
+15-19 1.4 1.3 1.4 2.0 1.9 2.0 0.3 0.2 0.3
+20-24 1.6 2.0 1.2 1.7 2.4 1.1 1.4 1.5 1.3
+25-29 1.9 2.6 1.1 2.1 3.2 0.9 1.6 1.8 1.4
+30-34 1.9 2.6 1.0 2.4 3.3 1.4 1.2 1.8 0.6
+35-39 3.0 4.3 1.7 3.7 5.8 1.6 2.1 2.2 2.0
+40-44 3.5 4.2 2.6 4.1 5.6 2.5 2.5 2.3 2.7
+45-49 5.5 6.9 4.0 5.5 6.8 4.1 5.5 7.0 3.9
+50-54 8.4 11.0 5.7 10.3 14.5 5.9 5.6 5.8 5.3
+55-59 14.1 18.7 10.1 15.0 20.0 10.7 12.9 16.8 9.0
+60-64 18.5 23.3 13.4 20.2 24.3 16.1 15.3 21.6 8.3
+65-69 27.4 35.7 20.0 28.6 39.5 18.9 25.0 28.6 21.9
+70-74 44.7 46.9 42.9 46.4 50.3 43.4 41.5 41.2 41.8
+75-79 60.3 62.2 59.0 62.6 63.3 62.1 56.7 60.3 53.9
+80-84 111.5 137.4 92.1 100.8 123.9 85.4 127.4 154.4 103.4
+85+ 135.4 143.8 130.8 116.2 99.5 125.6 169.1 225.2 139.6
+All ages 6.6 7.3 5.9 7.3 8.2 6.3 5.6 5.9 5.2
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2012
+Gujarat
+Indicators Total Rural Urban
+Child mortality rate 11 13 7
+Under-five mortality rate 48 56 32
+Infant mortality rate 38 45 24
+Neo-natal mortality rate 28 33 17
+Early neo-natal mortality rate 21 24 15
+Late neo-natal mortality rate 7 9 2
+Post neo-natal mortality rate 10 12 7
+Peri-natal mortality rate 28 30 23
+Still birth rate 7 6 8

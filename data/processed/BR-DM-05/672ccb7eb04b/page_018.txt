@@ -1,0 +1,29 @@
+103. Under-five Mortality Rates (U5MR) by sex, India & bigger 166
+States/UTs, 2018- RURAL
+104. Under-five Mortality Rates (U5MR) by sex, India & bigger 167
+States/UTs, 2018-URBAN
+105. Death rates for children aged 5-14 years by sex, India and bigger 169
+States/UTs, 2018
+106. Death rates for children aged 5-14 years by sex, India and bigger 170
+States/UTs, 2018 - RURAL
+107. Death rates for children aged 5-14 years by sex, India and bigger 171
+States/UTs, 2018 - URBAN
+108. Death rates for Persons aged 15-59 years by sex, India and bigger 173
+States/UTs, 2018
+109. Death rates for Persons aged 15-59 years by sex, India and bigger 174
+States/UTs, 2018 - RURAL
+110. Death rates for Persons aged 15-59 years by sex, India and bigger 175
+States/UTs, 2018 - URBAN
+111. Death rates for Persons aged 60 years and above by sex, India and 177
+bigger States/UTs, 2018
+112. Death rates for Persons aged 60 years and above by sex, India and 178
+bigger States/UTs, 2018 - RURAL
+113. Death rates for Persons aged 60 years and above by sex, India and 179
+bigger States/UTs, 2018 - URBAN
+114. Distribution of deaths by Type of Medical Attention received before 181
+death, India & bigger States/UTs, 2018
+115. Distribution of deaths by Type of Medical Attention received before 182
+death, India & bigger States/UTs, 2018 - RURAL
+116. Distribution of deaths by Type of Medical Attention received before 183
+death, India & bigger States/UTs, 2018 - URBAN
+xviii

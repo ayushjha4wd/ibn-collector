@@ -1,0 +1,42 @@
+Total 220 28.8 8.7 63
+Maharashtra Inland Eastern 4 37 16.7 7.4 53
+Eastern 2 29 14.7 9.5 40
+Inland Central 6 28 20.2 5.9 25
+Inland Northern 3 43 22.2 7.5 23
+Coastal 1 60 15.1 9.4 24
+Inland Western 5 53 14.6 6.8 26
+Total 250 17.3 7.3 30
+Odisha Southern 3 67 26.3 10.2 73
+Northern 2 112 19.7 8.8 58
+Coastal 1 111 18.6 8.0 45
+Total 290 21.0 8.8 58
+Punjab Northern 1 85 16.7 8.2 38
+Southern 2 65 17.0 6.4 26
+Total 150 16.8 7.5 33
+Rajasthan Southern 3 61 29.7 7.9 70
+South Eastern 2 65 24.6 7.6 71
+Western 4 68 28.4 7.3 54
+North Eastern 1 56 26.8 6.1 51
+Total 250 27.4 7.0 57
+Tamil Nadu Inland 3 47 14.0 6.9 22
+Southern 4 71 16.6 8.5 30
+Coastal Northern 2 67 16.9 8.2 25
+Coastal 1 65 15.9 8.4 19
+Total 250 16.0 8.1 24
+Uttar Pradesh Central 1 80 25.9 9.5 72
+Eastern 4 100 28.6 8.2 56
+Western 3 95 30.4 7.9 59
+Southern 2 75 25.1 7.8 72
+Total 350 28.8 8.3 60
+West Bengal Himalayan 3 77 18.1 6.5 31
+Eastern Plains 2 60 20.9 6.1 38
+Western Plains 4 76 17.7 6.0 32
+Central Plains 1 97 16.3 6.1 30
+Total 310 18.1 6.1 33
+Birth rate, Death rate and Infant mortality rates for
+metro cities Chennai, Delhi, Kolkata and Mumbai, 2009-11
+Birth rate Death rate Infant mortality rate
+Chennai 15.5 5.1 21
+Delhi 18.1 4.4 32
+Kolkata 9.8 6.5 19
+Mumbai 15.0 5.9 20

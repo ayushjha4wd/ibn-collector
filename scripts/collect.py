@@ -37,8 +37,8 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (IST, PROVENANCE, RAW, ROOT, TOOL_VERSION, append_jsonl, known_hashes,  # noqa: E402
-                    load_manifest, make_read_only, now_stamps, problem_with, safe_name, sha256_file)
+from common import (IST, PROVENANCE, RAW, ROOT, TOOL_VERSION, append_jsonl, flagged, known_hashes,  # noqa: E402
+                    load_manifest, make_read_only, now_stamps, problem_with, read_jsonl, safe_name, sha256_file)
 
 USER_AGENT = f"Mozilla/5.0 (compatible; {TOOL_VERSION}; India By Numbers public-data collector)"
 KEEP_HEADERS = ("content-type", "content-length", "last-modified", "etag", "content-disposition")
@@ -229,6 +229,9 @@ def main(argv=None):
     ap.add_argument("--retries", type=int, default=3)
     ap.add_argument("--ca-bundle", help="custom CA bundle (some government sites have incomplete chains)")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--resume", action="store_true",
+                    help="skip file rows whose URL was already saved and is still on disk "
+                         "(to continue an interrupted run without downloading again)")
     args = ap.parse_args(argv)
 
     ctx = ssl.create_default_context(cafile=args.ca_bundle) if args.ca_bundle else ssl.create_default_context()
@@ -247,6 +250,16 @@ def main(argv=None):
         sources = [s for s in sources if s["source_id"] in set(args.only)]
     if args.priority is not None:
         sources = [s for s in sources if s["priority"] and int(s["priority"]) <= args.priority]
+    resumed = 0
+    if args.resume:
+        bad = flagged()
+        done = {(r["source_id"], r["url"]) for r in read_jsonl(PROVENANCE)
+                if r.get("status") == "saved" and r.get("role") == "file" and r["stored_path"] not in bad
+                and (ROOT / r["stored_path"]).exists()}
+        before = len(sources)
+        sources = [s for s in sources if not (s["mode"] == "file" and (s["source_id"], s["url"]) in done)]
+        resumed = before - len(sources)
+        print(f"Resuming: {resumed} file row(s) already saved, {len(sources)} to go")
 
     import datetime as dt
     started = dt.datetime.now(dt.timezone.utc)

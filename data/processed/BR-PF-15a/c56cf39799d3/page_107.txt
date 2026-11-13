@@ -1,0 +1,37 @@
+Chapter 5 : Annex
+Annex 5.4
+(Para 5.3: xii)
+State Wise Cantonment Boards
+Sl. No. Name of State Name of Population
+Cantonment figure as per
+census 2011
+1 Bihar Danapur 28149
+2 Gujarat Ahmedabad 14345
+3 Haryana Ambala 55370
+4 Himachal Pradesh Bakloh 1805
+Dagshai 2904
+Dalhousie 3549
+Jutogh 2062
+Kasauli 3885
+Khasyol 12028
+Subathu 3685
+5 Jharkhand Ramgarh 88781
+6 Karnataka Belgaum 19411
+7 Kerala Cannanore 4798
+8 Madhya Pradesh Jabalpur 72257
+Mhow 69281
+Morar 48464
+Pachmarhi 12062
+Saugor 32475
+9 Maharashtra Ahmednagar 28986
+Aurangabad 18051
+Dehu Road 48961
+Deolali 54027
+Kamptee 12457
+Kirkee 70399
+Pune 71831
+10 Meghalaya Shillong 11919
+11 Punjab Amritsar 10410
+Ferozepur 53199
+Jalandhar 47845
+93

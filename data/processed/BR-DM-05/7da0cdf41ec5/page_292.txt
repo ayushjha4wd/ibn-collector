@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2016
+Assam
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 40.1 37.0 43.7 46.8 43.4 50.8 11.1 10.5 11.8
+1-4 3.0 2.1 4.1 3.3 2.3 4.5 0.3 0.0 0.7
+0-4 12.5 11.2 14.0 13.6 12.1 15.2 4.7 4.5 4.9
+5-9 1.0 0.6 1.4 1.0 0.5 1.6 0.6 0.8 0.4
+10-14 0.6 0.5 0.7 0.5 0.5 0.6 0.7 0.4 1.2
+15-19 1.0 1.1 0.9 1.0 1.1 0.9 0.9 0.7 1.1
+20-24 2.1 2.1 2.0 2.3 2.3 2.2 0.6 0.7 0.6
+25-29 2.1 2.3 1.9 2.3 2.5 2.1 0.8 1.0 0.6
+30-34 2.2 2.8 1.6 2.4 3.1 1.7 1.0 1.3 0.8
+35-39 2.9 3.6 2.1 3.0 3.5 2.4 2.6 4.2 0.8
+40-44 5.2 6.0 4.1 5.3 6.0 4.5 4.2 5.9 2.3
+45-49 5.2 6.0 4.2 5.2 6.1 4.0 5.2 5.7 4.8
+50-54 11.4 12.6 9.8 12.8 14.0 11.2 6.1 6.8 5.5
+55-59 14.4 18.4 10.2 15.3 20.4 10.3 10.6 11.5 9.4
+60-64 22.2 26.9 16.9 23.8 30.4 16.8 15.5 14.3 17.1
+65-69 34.4 41.7 26.1 38.2 46.8 28.8 17.7 21.0 13.3
+70-74 42.5 39.4 46.5 44.7 40.9 49.8 32.6 32.8 32.2
+75-79 60.0 59.0 61.0 63.2 62.5 64.0 42.7 40.9 44.8
+80-84 124.7 128.5 120.1 133.3 136.7 129.4 84.9 93.8 72.3
+85+ 173.4 197.3 148.0 190.9 227.8 152.0 104.0 79.3 131.5
+All ages 6.7 7.4 6.0 7.1 7.8 6.3 4.9 5.5 4.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2016
+Assam
+Indicators Total Rural Urban
+Child mortality rate 13 14 5
+Under-five mortality rate 52 56 23
+Infant mortality rate 44 46 22
+Neo-natal mortality rate 23 24 13
+Early neo-natal mortality rate 18 19 8
+Late neo-natal mortality rate 5 5 5
+Post neo-natal mortality rate 20 22 9
+Peri-natal mortality rate 20 21 13
+Still birth rate 2 2 5
+270

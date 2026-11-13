@@ -1,0 +1,39 @@
+3.30 Total fertility rates by education levels of the women for India and bigger States are
+presented below in Statement 35. At the National level, total fertility rate for the women
+having educational status 'Illiterate' for 2012 is 3.2. This is much higher than the 'Literate'
+group of women. Among the 'Literate' (2.1), there is a gradual decline of TFR with the
+increase in the level of education. Chart 17 presents, at the National level, total fertility rate
+by level of education of women separately for rural and urban areas for the year 2012. The
+TFR by levels of education of the women for India and bigger States by place of residence
+are given in Table-4.
+Statement 35
+Total fertility rate by level of education of women, India and bigger States, 2012
+India and Educational level of women
+Bigger States Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any primary X XII and
+formal above
+education
+India 3.2 2.1 3.1 2.9 2.5 2.2 1.8 1.6 1.7
+Andhra Pradesh 1.8 1.9 3.6 2.5 2.1 2.1 1.8 1.1 1.6
+Assam 3.2 2.2 2.5 3.1 3.0 2.4 1.7 1.2 1.4
+Bihar 4.6 2.5 3.0 2.8 2.7 2.7 2.0 1.6 2.1
+Chhattisgarh 2.8 2.7 3.4 3.5 3.1 2.7 2.1 1.9 1.9
+Delhi 2.7 1.6 1.8 2.2 2.4 1.7 1.5 1.1 1.3
+Gujarat 3.0 2.2 1.3 3.3 2.6 2.2 1.5 1.4 1.5
+Haryana 2.9 2.1 2.8 2.3 2.6 2.3 1.9 1.8 2.0
+Himachal Pradesh 1.7 1.7 0.8 2.6 1.6 1.4 1.9 1.8 1.9
+Jammu & Kashmir 2.9 1.6 3.3 2.9 2.4 2.0 1.6 1.2 1.3
+Jharkhand 3.7 2.3 2.4 3.2 2.6 2.2 1.9 1.7 1.6
+Karnataka 2.2 1.9 3.6 2.9 2.4 2.1 1.7 1.5 1.5
+Kerala 1.6 1.8 3.4 1.6 1.5 1.7 1.7 2.0 2.3
+Madhya Pradesh 3.2 2.8 6.4 4.6 3.3 2.5 2.0 1.7 1.8
+Maharashtra 1.6 1.8 3.6 1.7 1.9 2.3 1.7 1.5 1.4
+Odisha 2.9 2.0 3.2 2.5 2.3 2.0 1.5 1.4 1.4
+Punjab 2.0 1.7 2.3 2.0 1.8 1.7 1.7 1.4 1.7
+Rajasthan 3.6 2.5 4.1 3.7 2.8 2.6 1.7 1.5 1.6
+Tamil Nadu 1.0 1.7 0.0 1.6 1.8 1.9 1.8 1.6 1.9
+Uttar Pradesh 4.0 2.9 4.4 3.6 3.4 2.9 2.6 2.0 2.1
+West Bengal 1.8 1.7 1.8 2.6 2.0 1.5 1.4 1.2 1.3
+Note: 0.0 denotes negligible
+60

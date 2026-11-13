@@ -1,0 +1,40 @@
+3.17 The difference in the pattern of child bearing can be measured in terms of the mean age
+of fertility, which describes the age pattern of fertility of synthetic cohort of hypothetical group
+of women viewed as having, in their lifetime, similar fertility experience recorded in a calendar
+year. The mean age of fertility has been calculated from the age specific fertility rates. The
+associated standard deviations are also shown. The States having lower values of standard
+deviation [obviously] recorded higher concentration of fertility about the mean age as
+compared to those with higher values. Statement 23 below shows the mean age of fertility for
+India and bigger States/UTs. At the National level, the mean age of fertility is 28.1 years and
+varies from 26.1 years in West Bengal to 31.6 years in Jammu & Kashmir with standard
+deviation 5.6, 5.5 and 6.4 respectively. Chart 45 shows the mean age of fertility of India and
+bigger States/UTs by residence.
+Statement 23
+Mean age of Fertility and associated Standard Deviation,
+India and bigger States/UTs, 2016
+India and bigger Mean age of fertility Standard deviation
+States/UTs Total Rural Urban Total Rural Urban
+India 28.1 28.0 28.3 5.6 5.6 5.4
+Andhra Pradesh 26.5 26.4 26.9 5.1 5.2 5.1
+Assam 27.8 27.7 28.6 5.6 5.6 5.9
+Bihar 28.5 28.5 28.5 5.2 5.2 5.4
+Chhattisgarh 27.2 27.1 27.7 5.3 5.2 5.4
+Delhi 28.5 29.1 28.5 5.3 6.3 5.3
+Gujarat 27.8 27.6 28.1 5.3 5.5 4.9
+Haryana 27.5 27.2 28.2 4.9 4.8 5.1
+Himachal Pradesh 27.9 27.9 29.0 5.4 5.5 5.3
+Jammu & Kashmir 31.6 31.6 31.7 6.4 6.5 6.4
+Jharkhand 28.6 28.6 28.6 5.9 6.0 5.5
+Karnataka 27.6 27.2 28.3 5.0 4.9 5.2
+Kerala 28.0 27.9 28.0 5.0 5.1 4.8
+Madhya Pradesh 27.7 27.5 28.5 5.4 5.4 5.4
+Maharashtra 27.5 26.9 28.3 5.3 5.1 5.5
+Odisha 28.2 28.2 28.1 5.6 5.6 5.6
+Punjab 28.9 28.7 29.3 5.9 5.9 5.9
+Rajasthan 27.9 27.8 28.1 5.6 5.7 5.2
+Tamil Nadu 27.5 27.3 27.8 4.9 4.9 4.9
+Telangana 27.1 26.7 27.9 4.9 4.6 5.2
+Uttar Pradesh 29.5 29.6 29.2 6.0 6.1 5.7
+Uttarakhand 28.6 28.4 29.3 5.3 5.1 5.9
+West Bengal 26.1 25.9 26.8 5.5 5.4 5.8
+76

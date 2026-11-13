@@ -1,0 +1,24 @@
+Table 3
+Fertility Indicators, 2013
+Indicators Age group Total Rural Urban
+India
+Age specific fertility rates 15-19 28.1 31.7 16.5
+20-24 194.3 212.8 142.2
+25-29 149.7 159.9 125.6
+30-34 63.9 66.8 57.1
+35-39 22.0 24.4 15.8
+40-44 7.4 9.2 3.2
+45-49 2.0 2.4 1.1
+Age specific marital fertility rates 15-19 270.4 268.6 282.3
+20-24 334.0 340.7 308.5
+25-29 177.2 183.6 160.5
+30-34 68.9 71.4 62.9
+35-39 23.6 26.2 17.1
+40-44 8.1 10.1 3.5
+45-49 2.3 2.8 1.3
+Crude birth rate 21.4 22.9 17.3
+General fertility rate 78.5 85.5 60.5
+Total fertility rate 2.3 2.5 1.8
+Gross reproduction rate 1.1 1.2 0.8
+General marital fertility rate 112.5 121.3 89.1
+Total marital fertility rate 4.4 4.5 4.2

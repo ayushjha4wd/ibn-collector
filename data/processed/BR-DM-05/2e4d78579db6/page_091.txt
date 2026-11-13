@@ -1,0 +1,33 @@
+4.5 Crude Death Rate (Statement 41) at the National level for 2011 is 7.1 per thousand
+population and it varies from 7.6 in rural areas to 5.7 in urban areas. Among the bigger
+States, it varies from 4.3 in Delhi to 8.5 in Odisha. The States having death rate higher
+than or equal to the National level are Andhra Pradesh (7.5), Assam (8.0), Chhattisgarh
+(7.9), Karnataka (7.1), Madhya Pradesh (8.2), Odisha (8.5), Uttar Pradesh (7.9), and Tamil
+Nadu (7.4). Distribution of bigger States by level of CDR in rural and urban areas is
+shown in Chart 19. The estimated age-specific death rate by sex and residence for India
+and bigger States has been detailed in Table 8.
+Statement 41
+CDR (Crude death rates) by residence, India and bigger States, 2011
+India and bigger States Total Rural Urban
+India 7.1 7.6 5.7
+Andhra Pradesh 7.5 8.5 5.2
+Assam 8.0 8.4 5.6
+Bihar 6.7 6.9 5.5
+Chhattisgarh 7.9 8.3 6.1
+Delhi 4.3 4.7 4.3
+Gujarat 6.7 7.4 5.7
+Haryana 6.5 7.0 5.3
+Himachal Pradesh 6.7 7.0 3.6
+Jammu & Kashmir 5.5 5.7 4.7
+Jharkhand 6.9 7.3 5.2
+Karnataka 7.1 8.0 5.4
+Kerala 7.0 7.1 6.6
+Madhya Pradesh 8.2 8.7 6.1
+Maharashtra 6.3 7.3 5.1
+Odisha 8.5 8.8 6.5
+Punjab 6.8 7.5 5.6
+Rajasthan 6.7 7.0 5.8
+Tamil Nadu 7.4 8.1 6.4
+Uttar Pradesh 7.9 8.3 6.1
+West Bengal 6.2 6.1 6.5
+68

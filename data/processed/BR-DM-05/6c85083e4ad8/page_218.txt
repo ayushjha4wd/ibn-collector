@@ -1,0 +1,38 @@
+Bigger states Name of the natural Number Number Estimated vital rates
+division of ND of units Birth rate Death rate Infant mortality rate
+Madhya Pradesh Malwa 2 41 26.6 7.9 54
+Vindhya 6 28 32.3 8.6 66
+Central 1 29 27.3 10.9 64
+Northern 3 36 28.5 8.1 53
+South 4 41 26.7 8.4 48
+South Western 5 45 25.1 7.0 44
+Total 220 28.2 8.5 57
+Maharashtra Inland Eastern 4 37 16.3 8.2 54
+Eastern 2 29 14.1 8.6 34
+Inland Central 6 28 19.7 6.6 30
+Inland Northern 3 43 21.8 6.6 21
+Coastal 1 60 14.7 8.8 21
+Inland Western 5 53 15.6 6.0 21
+Total 250 17.2 7.1 29
+Orissa Southern 3 67 25.5 9.6 66
+Northern 2 112 18.4 8.7 52
+Coastal 1 111 19.0 8.1 41
+TToottaall 229900 2200..55 88..77 5533
+Punjab Nothern 1 85 16.2 8.0 30
+Southern 2 65 16.4 6.7 25
+Total 150 16.3 7.5 28
+Rajasthan Southern 3 61 28.5 8.0 63
+South Eastern 2 65 23.7 7.3 64
+Western 4 68 27.3 6.8 49
+North Eastern 1 56 26.6 6.2 46
+Total 250 26.7 6.8 51
+Tamil Nadu Inland 3 47 14.4 7.3 23
+Southern 4 71 15.6 8.4 25
+Coastal Northern 2 67 16.4 8.0 25
+Coastal 1 65 15.7 8.5 21
+Total 250 15.7 8.1 24
+Uttar Pradesh Central 1 80 25.0 9.3 65
+Eastern 4 100 28.0 7.8 48
+Western 3 95 29.7 7.8 53
+Southern 2 75 24.7 7.8 62
+Total 350 28.1 8.1 53

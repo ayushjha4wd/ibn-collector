@@ -1,0 +1,42 @@
+58. Percent change in average Total Marital fertility rate (TMFR) between 97
+2006-08 and 2016-18, India and bigger States/UTs
+59. Age specific fertility rate by level of education of women, India, 2018 101
+60. Age specific fertility rate by level of education of women, India, 2018 102
+-RURAL
+61. Age specific fertility rate by level of education of women, India, 2018 103
+-URBAN
+62. Total fertility rate by level of education of women, India, 2018 105
+63. Percentage distribution of current live births by birth order, 2018 107
+64. Percentage distribution of current live births by birth order - RURAL 109
+65. Percentage distribution of current live births by birth order - URBAN 110
+66. Percentage distribution of second and higher order live births by 112
+interval, 2018
+67. Percentage distribution of second and higher order live births by 114
+interval- RURAL
+68. Percentage distribution of second and higher order live births by 115
+interval-URBAN
+69. Distribution of live births by type of Medical Attention received by the 117
+mother at delivery
+70. Distribution of live births by type of Medical Attention received by the 118
+mother at delivery - RURAL
+71. Distribution of live births by type of Medical Attention received by the 119
+mother at delivery - URBAN
+72. CDR (Crude death rate) by residence, India and bigger States/UTs, 123
+2018
+73. Distribution of bigger States/UTs by values of death rate for rural and 124
+urban areas, 2018
+74. Average Death rate between 2006-08 and 2016-18, India and bigger 126
+States/UTs
+75. Average Death rate between 2006-08 and 2016-18, India and bigger 127
+States/UTs -RURAL
+76. Average Death rate between 2006-08 and 2016-18, India and bigger 128
+States/UTs - URBAN
+77. Per cent change in average death rates between 2006-08 and 2016-18, 129
+India and bigger States/UTs
+78. Crude death rates by sex and residence, India, 2018 130
+79. Crude death rates by sex, India and bigger States/UTs, 2018 132
+80. Distribution of deaths by broad age groups India and bigger 134
+States/UTs, 2018
+81. Percentage of Infant deaths to total deaths by residence, 2018 136
+82. Infant mortality rates by sex, India and major states, 2018 138
+xvi

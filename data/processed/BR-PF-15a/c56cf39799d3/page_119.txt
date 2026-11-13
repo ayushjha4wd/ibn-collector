@@ -1,0 +1,42 @@
+Chapter 6 : Annex
+xi) The cyclones on the east and west coast are becoming more frequent due to the
+impact of climate change, which is changing the risk profile of these States. These scores,
+therefore, need to be reviewed on a periodic basis.
+Earthquakes Score
+xii) The Bureau of Indian Standards has developed a seismic map of India. According
+Scoring Scheme (Disasters)
+to this map, the Seismic Zones V and IV are high risk areas while Zones III and II are low
+Disasters High Medium Low
+seismic risk areas. The seismic map has been prepared based on the plate tectonics as well
+Floods 15.00 10.00 5.00
+as the history of seismic events in India. According to this map, all the North-East and
+Drought 15.00 10.00 5.00
+Himalayan States and some of the other states such as Bihar, Gujarat and Maharashtra are
+Cyclone 15.00 10.00 5.00 highly prone to earthquake risks. These States are assigned the highest score of 15. West
+Earthquake 15.00 10.00 5.00 Bengal and Uttar Pradesh are exposed to moderate seismic risks, and hence they are
+Others 10.00 assigned the score of 10. The remaining States have been assigned low risk score of 5.5
+xiii) In addition to these four hazards, there is a residual category of other hazards. This
+category includes State-specific hazards such as landslides, windstorms, hailstorm,
+Scoring System Poverty
+cloudbursts, lightning, etc. As all the States have their share of minor hazards which have
+Low - 10.00 Below 13%
+considerable local impacts, all of them have been assigned a uniform score of 10.
+Medium - 20.00 Between 13% and 26%
+High - 30.00 Between 26% and 40%
+7. The vulnerability score has been assigned based on the below poverty line population of
+each State in 2011-12 (Tendulkar Methodology). States with a poverty rate of 26 per cent and
+above have been assigned the highest score of 30, and those having poverty rate below 13 per cent
+are given a score of 10. The rest of the States having poverty rates between 13 per cent and 26 per
+cent have been assigned the intermediate score of 20. The reorganised States of Andhra Pradesh
+and Telangana have been assigned scores by assuming their poverty rate as that of undivided
+Andhra Pradesh in 2011-12.
+A Summary of this scoring scheme is as follows:
+Scoring Scheme (Disasters)
+Disasters High Medium Low Scoring System Poverty
+Floods 15.00 10.00 5.00 Low - 10.00 Below 13%
+Drought 15.00 10.00 5.00 Medium - 20.00 Between 13% and 26%
+Cyclone 15.00 10.00 5.00 High - 30.00 Between 26% and 40%
+Earthquake 15.00 10.00 5.00
+Others 10.00
+5http://pib.nic.in/newsite/mbErel.aspx?relid=168661
+105

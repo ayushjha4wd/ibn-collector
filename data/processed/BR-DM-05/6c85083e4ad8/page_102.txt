@@ -1,0 +1,39 @@
+4.15 Statement 51 given below presents the peri-natal mortality rate and still birth rate
+for the year 2013, by residence, for India and bigger States. Peri-natal mortality rate
+(PMR) is defined as the number of still births and infant deaths of less than 7 days per one
+thousand live births (LB) and still births (SB) taken together during the year. The still birth
+rate (SBR) is estimated as the ratio of the number of still births per one thousand live
+births (LB) and still births (SB) during the year. At the National level, peri-natal mortality
+rate has been estimated to be 26 and ranges from 28 in rural areas to 16 in urban areas.
+Among the bigger States, Kerala (9) and Odisha (35) are the two extremes. The estimate
+of still birth rate for the year 2013, at the National level is 4. Among the bigger States, the
+highest level of still birth rate has been estimated for Karnataka (12) and the lowest for
+Bihar and Jharkhand (0). Still births are extremely difficult to capture and there is a room
+for considerable improvement in netting the events.
+Statement 51
+Peri-Natal Mortality Rates and Still Birth Rates by residence,
+India and bigger States, 2013
+India and Peri-natal mortality rate Still birth rate
+Bigger States Total Rural Urban Total Rural Urban
+India 26 28 16 4 4 5
+Andhra Pradesh 27 33 11 6 6 4
+Assam 28 30 10 7 7 4
+Bihar 23 25 7 0 0 0
+Chhattisgarh 33 34 32 9 9 10
+Delhi 17 21 17 6 8 6
+Gujarat 24 27 19 4 4 5
+Haryana 28 31 18 8 9 6
+Himachal Pradesh 28 29 14 11 12 3
+Jammu & Kashmir 29 31 15 5 6 3
+Jharkhand 22 24 9 0 0 0
+Karnataka 30 36 18 12 14 8
+Kerala 9 10 8 5 5 5
+Madhya Pradesh 33 34 24 5 5 6
+Maharashtra 18 21 14 6 5 6
+Odisha 35 36 25 7 7 5
+Punjab 18 17 20 7 6 8
+Rajasthan 29 33 16 4 4 4
+Tamil Nadu 18 23 12 7 9 5
+Uttar Pradesh 29 31 16 1 1 2
+West Bengal 20 20 17 3 3 5
+81

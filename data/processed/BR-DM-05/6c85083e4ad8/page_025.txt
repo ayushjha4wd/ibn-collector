@@ -1,0 +1,50 @@
+the State Census Directorates (either a Compiler or a Sr. Compiler or a Statistical
+Investigator or any suitable official) visits each household in the sample unit and records
+the particulars of births and deaths in Forms 9 & 10 respectively in respect of all the usual
+residents and visitors (only those occurring within the sample unit) which had occurred
+during the half-yearly period (January-June or July-December) under reference.
+Simultaneously, the house-list, the household schedule and the pregnancy status of
+married women is updated by making entries of changes, if any. While carrying out this
+survey the supervisor does not have access to the birth and death records of the
+enumerator for the same periods which are withdrawn from the field before the
+supervisor’s visit for the half yearly survey.
+1.13 Matching: On completion of the half-yearly survey, the events captured in the
+Forms 9 & 10 (filled-in by the supervisors) are compared with those in the Forms 4 & 5
+(filled-in by the enumerators). This is done at the office of Directorate of Census
+Operations for all States except for rural areas of Kerala and Maharashtra, where it is done
+at the Directorate of Economics and Statistics of the respective States. Selected important
+entries in the enumerator's and supervisor's record are matched item by item and events
+are classified as fully matched, partially matched and unmatched. The items generally
+considered for matching of birth events are: Identification code of the head of Household
+and mother, Relationship of the mother to head, date of live birth, month in case of still
+birth/abortion, sex in case of live birth /still birth and the items considered for death
+events are: identification code of the head of household and mother (in case of infant
+death), relationship of the deceased to head, date of death and sex of the deceased.
+1.14 Field verification of unmatched and partially matched events: Every
+unmatched or partially matched event is verified by a visit to the concerned household.
+This is done either by a third person or jointly by the supervisor and the enumerator,
+depending upon the availability of staff.
+Sample design
+1.15 The Sample design adopted for SRS is a uni-stage stratified simple random
+sample without replacement except in stratum II (larger villages) of rural areas, where two
+stage stratification has been applied. In rural areas of bigger States (population with ten
+million or more as per Census 2001), the NSS natural division is the first level of
+geographical stratification. The stratification in rural areas has been done on size of
+villages with villages having population less than 2,000 forming Stratum I and villages
+with population 2,000 or more forming Stratum II. Smaller villages with population
+less than 200 were excluded from the sampling frame in such a manner that the total
+population of villages so excluded did not exceed 2 per cent of the total population of
+the State. The number of sample villages in each Natural Division was allocated to
+Stratum-I and Stratum-II proportionally to their size (population). The villages within
+each size stratum were ordered by the female literacy rate based on the Census 2001
+data, and three equal size substrata were established. The sample villages within each
+substratum were selected at random with equal probability. In the case of villages of
+Stratum II, each sample village with a population of 2,000 or more was subdivided into
+two or more segments in a way that none of the segments cut across the Census
+Enumeration Blocks (CEBs) and the population of each segment formed by grouping
+the contiguous CEBs was approximately equal and did not exceed 2000. A frame of
+segments was then prepared and the selection of a segment was done at random at the
+second sampling stage for the SRS enumeration.
+1.16 In urban areas, the categories of towns/cities have been divided into four strata
+based on the size classes in contrast to the six strata in the earlier sampling frame.
+4

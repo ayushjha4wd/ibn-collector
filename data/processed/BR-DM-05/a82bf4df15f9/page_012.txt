@@ -1,0 +1,28 @@
+Page
+46 IMR (Infant mortality rate) by sex and residence, India and bigger 137
+States/UTs, 2017
+47 Percentage change in average IMR (Infant mortality rate) between 142
+2005-07 and 2015-17 by residence, India and bigger States/UTs
+48 Neo-natal mortality rate and percentage share of neo-natal deaths 147
+to infant deaths by residence, India and bigger States/UTs, 2017
+49 Early neo-natal mortality rate and percentage share of early neo- 151
+natal deaths to infant deaths by residence, India and bigger
+States/UTs, 2017
+50 Peri-natal mortality rate and Still birth rates by residence, 155
+India and bigger States/UTs, 2017
+51 Percentage of deaths in the age group 0-4 years to total deaths by 158
+residence, India and bigger States/UTs, 2017
+52 Estimated death rate for children age 0-4 years by sex and 160
+residence, India and bigger States/UTs, 2017
+53 Under-five Mortality Rate by sex and residence, India and bigger 164
+States/UTs, 2017
+54 Death rates for children age 5-14 years by sex and residence, India 168
+and bigger States/UTs, 2017
+55 Death rate for persons age 15-59 years by sex and residence, India 172
+and bigger States/UTs, 2017
+56 Death rate for persons age 60 years and above by sex and 176
+residence, India and bigger States/UTs, 2017
+57 Percentage distribution of deaths by type of medical attention 180
+received before death by residence, India and bigger States/UTs,
+2017
+xii

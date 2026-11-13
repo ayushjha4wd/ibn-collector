@@ -1,0 +1,51 @@
+Fifteenth Finance Commission
+Annex 6.2
+(Para 6.4: viii)
+Methodology for Determination of State Level Allocations of Disaster
+Management
+1. We have adopted a methodology for allocating resources to States for disaster
+Scoring Scheme (Disasters) management, which could be considered as change with continuity with respect to the
+methodology adopted by previous Finance Commissions. The revised methodology retains the
+Disasters High Medium Low
+importance assigned to the expenditures incurred by States on disaster management. In addition,
+Floods 15.00 10.00 5.00
+it introduces weightages for area, population and risk profile of individual States to arrive at the
+Drought 15.00 10.00 5.00
+final allocation for each State.
+Cyclone 15.00 10.00 5.00
+2. For calculating the figures related to expenditure on disaster relief, the States' expenditure
+Earthquake 15.00 10.00 5.00
+booked under major head (MH) 2245 for the past seven years (2011-12 to 2017-18) has been
+Others 10.00
+considered. Some states debit a part of the expenditure on disasters directly from the SDRF
+maintained in the Public Account. We have added this expenditure to MH-2245. The NDRF
+releases for each year have, then, been subtracted from these values. The resultant expenditure
+Scoring System Poverty
+data has, thereafter, been adjusted for inflation and an average expenditure has been determined
+Low - 10.00 Below 13%
+for each state. We have assigned 70 per cent weightage to expenditure, that is, 70 per cent of
+Medium - 20.00 Between 13% and 26%
+average expenditure for each state (AE ) has been taken for further calculation.
+70
+High - 30.00 Between 26% and 40%
+3. For apportioning expenditure between the reorganised States of Andhra Pradesh and
+Telangana for the period 2011-12 to 2014-15 (up to June 1, the date of bifurcation), we have
+adopted the methodology similar to the one suggested by the FC-XIV. The expenditure of
+erstwhile undivided Andhra Pradesh, along with district-wise expenditure has been obtained for
+the period 2011-12 to 2014-15 (up to June 1) from the Accountant General, Andhra Pradesh.
+From the district-wise expenditure, the share of expenditure for the reorganised States of Andhra
+Pradesh and Telangana has been calculated for each of these years, which has then been used to
+apportion common expenditure booked through transfer entries and under the Pay and Accounts
+Officer, Hyderabad in the same ratio between these two States. The NDRF releases to erstwhile
+united Andhra Pradesh during the same period have been apportioned in the same ratio between
+the reorganised States of Andhra Pradesh and Telangana.
+4. The State of Maharashtra has been taken as a reference State for arriving at the figures related
+to the weightage given to population and area of States on the basis of several considerations.
+First, Maharashtra has the highest SDRF allocation in 2019-20 (last year of FC-XIV allocations).
+Second, as Maharashtra is neither the largest State of India nor the most populous, it provides a
+good statistical fit for working out the unit value. Third, Maharashtra is exposed to multiple
+hazards in different geographical settings. It has the largest urban sprawl in the country, which is
+exposed to various hazards. Many of its districts are in rain shadow areas, making them highly
+drought-prone. Floods, landslides and earthquakes affect the State on a regular basis. The State,
+known for better governance, has responded to these risk events with considerable efficiency and
+100

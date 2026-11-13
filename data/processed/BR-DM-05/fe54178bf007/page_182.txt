@@ -1,0 +1,35 @@
+4.16 Percent share of deaths to children below age five to total deaths by residence for
+India and bigger States/UTs is shown below in Statement 51. At the National level, such
+percentage is 13.4 and it varies from 15.0 in rural areas to 8.9 in urban areas. Among the
+bigger States/UTs, the variation is from 2.9 in Kerala to 22.4 in Bihar. In rural areas, it
+varies from 3.1 in Kerala to 22.9 in Bihar, and in urban areas, it is 2.6 in Kerala to 18.8 in
+Bihar.
+Statement 51
+Percentage of Deaths in the age group 0-4 years to total Deaths
+by residence, India and bigger States/UTs, 2015
+India and bigger States/UTs Total Rural Urba
+n
+India 13.4 15.0 8.9
+Andhra Pradesh 9.2 9.1 9.2
+Assam 18.4 19.7 7.9
+Bihar 22.4 22.9 18.8
+Chhattisgarh 14.4 15.1 11.3
+Delhi 9.3 11.3 9.2
+Gujarat 12.7 15.9 8.2
+Haryana 14.5 16.2 11.2
+Himachal Pradesh 11.0 11.2 6.8
+Jammu & Kashmir 9.1 10.0 6.0
+Jharkhand 15.3 16.8 9.8
+Karnataka 8.3 8.4 8.2
+Kerala 2.9 3.1 2.6
+Madhya Pradesh 20.0 21.7 13.8
+Maharashtra 6.6 7.4 5.0
+Odisha 13.6 14.5 8.4
+Punjab 6.4 6.7 5.9
+Rajasthan 18.3 19.8 12.5
+Tamil Nadu 4.4 5.0 3.7
+Telangana 9.3 9.1 9.7
+Uttar Pradesh 18.4 19.1 15.4
+Uttarakhand 11.0 9.7 15.0
+West Bengal 7.7 9.2 4.7
+158

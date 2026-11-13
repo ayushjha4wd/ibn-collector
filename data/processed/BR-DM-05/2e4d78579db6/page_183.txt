@@ -1,0 +1,11 @@
+Birth interval Punjab Chandigarh
+in months Total Rural Urban Total Rural Urban
+10-12 1.4 1.7 0.8 0.5 0.0 0.6
+12-18 9.1 10.8 6.1 6.3 8.0 6.0
+18-24 9.0 11.1 5.2 11.1 17.0 10.2
+24-30 10.2 12.8 5.8 18.4 8.0 19.9
+30-36 10.6 11.1 9.7 14.0 15.2 13.9
+36+ 59.7 52.5 72.4 49.7 51.8 49.4
+Total 100.0 100.0 100.0 100.0 100.0 100.0
+Birth interval Haryana Delhi
+in months Total Rural Urban Total Rural Urban

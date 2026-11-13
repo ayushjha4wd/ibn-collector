@@ -1,0 +1,40 @@
+FC-XV Volume IV, The STaTeS
+GI-2
+Annex-GI.2: Health and Social Indicators as per nFHS 2015–16
+% Women % Household
+Stunting Anaemia % Household IMR
+Name Underweight whose BMI Institutional with improved
+SN Among Among with Toilet (SRS
+of the State Children is below Deliveries source of
+Children Women Facility 2018)
+Normal Drinking Water
+1 Andhra Pradesh 31.9 31.4 17.6 60.0 91.5 72.7 61.3 29.0
+2 Arunachal Pradesh 19.4 29.4 8.5 43.2 52.2 87.5 90.8 37.0
+3 Assam 29.8 36.4 25.7 46.0 70.6 83.8 88.9 41.0
+4 Bihar 43.9 48.3 30.4 60.3 63.8 98.2 33.5 32.0
+5 Chhattisgarh 37.7 37.6 26.7 47.0 70.2 91.1 41.3 41.0
+6 Goa 23.8 20.1 14.7 31.3 96.9 96.3 89.1 7.0
+7 Gujarat 39.3 38.5 27.2 54.9 88.5 90.9 71.0 28.0
+8 Haryana 29.4 34.0 15.8 62.7 80.4 91.6 89.8 30.0
+9 Himachal Pradesh 21.2 26.3 16.2 53.5 76.4 94.9 85.7 19.0
+10 Jammu & Kashmir 16.6 27.4 12.1 49.4 85.6 89.2 79.3 22.0
+11 Jharkhand 47.8 45.3 31.5 65.2 61.9 77.7 30.0 30.0
+12 Karnataka 35.2 36.2 20.7 44.8 94.0 89.3 65.8 23.0
+13 Kerala 16.1 19.7 9.7 34.3 99.8 94.3 99.2 7.0
+14 Madhya Pradesh 42.8 42.0 28.4 52.5 80.8 84.7 42.8 48.0
+15 Maharashtra 36.0 34.4 23.5 48.0 90.3 91.5 71.2 19.0
+16 Manipur 13.8 28.9 8.8 26.4 69.1 41.6 98.7 11.0
+17 Meghalaya 28.9 43.8 12.1 56.2 51.4 67.9 92.4 33.0
+18 Mizoram 12.0 28.1 8.4 24.8 79.7 91.4 99.1 5.0
+19 Nagaland 16.7 28.6 12.3 27.9 32.8 80.6 98.3 4.0
+20 Odisha 34.4 34.1 26.5 51.0 85.3 88.8 35.0 40.0
+21 Punjab 21.6 25.7 11.7 53.5 90.5 99.1 92.9 20.0
+22 Rajasthan 36.7 39.1 27.0 46.8 84.0 85.5 54.0 37.0
+23 Sikkim 14.2 29.6 6.4 34.9 94.7 97.6 99.7 7.0
+24 Tamil Nadu 23.8 27.1 14.6 55.0 98.9 90.6 61.7 15.0
+25 Telangana 28.4 28.0 22.9 56.6 91.5 77.9 69.0 27.0
+26 Tripura 24.1 24.3 18.9 54.5 79.9 87.3 97.9 27.0
+27 Uttar Pradesh 39.5 46.3 25.3 52.4 67.8 96.4 45.8 43.0
+28 Uttarakhand 26.6 33.5 18.4 45.2 68.6 92.9 82.9 31.0
+29 West Bengal 31.6 32.5 21.3 62.5 75.2 94.6 74.9 22.0
+All States/India 35.8 38.4 22.9 53.1 78.9 89.9 61.1 32.0

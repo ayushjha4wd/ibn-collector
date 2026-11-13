@@ -1,0 +1,30 @@
+LIST OF STATEMENTS
+Page
+General
+1 Number of sample units at different replacement period 2
+2 Number of sample units and population covered, India, States and 6
+union territories, 2011
+Population Composition
+3 Percentage distribution of population by broad age groups to 12
+total population by sex and residence, India, 2011
+4 Percentage of population in the age group 0-4 years to total 14
+population by sex and residence, India and bigger States, 2011
+5 Percentage of population in the age group 0-14 years to total 16
+population by sex and residence, India and bigger States, 2011
+6 Percentage of population in the age group 15-59 years to total 18
+population by sex and residence, India and bigger States, 2011
+7 Percentage of population in the age group 60 years and above to 20
+total population by sex and residence, India and bigger States, 2011
+8 Percentage distribution of population by marital status and sex, India 22
+and bigger States, 2011
+9 Percentage distribution of population age 10+ by marital status and 23
+sex, India and bigger States, 2011
+10 Percentage distribution of female age 10+ by marital status and 24
+residence, India and bigger States, 2011
+11 Percentage distribution of female age 15+ by marital status and 25
+residence, India and bigger States, 2011
+12 Percentage of females by age at effective marriage and by 26
+residence, India and bigger States, 2011
+13 Mean age at effective marriage of female by residence, India and 27
+bigger States, 2011
+ix
