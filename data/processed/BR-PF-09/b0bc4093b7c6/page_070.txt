@@ -1,0 +1,31 @@
+monitoring and supervision, collection of reports and data and even
+dissemination of orders and information. The issue is more acute in case of the
+PRIs, particularly the GPs on account of their numbers and geographical
+spread. As a result, it is well-nigh impossible to get authentic and accurate
+figures of expenditure and progress of schemes from them through manual
+channels. The only means of overcoming these challenges is use of IT
+extensively in the affairs of PRIs and ULBs.
+8. During 2015-20, a total sum of Rs 38,210.79 cr was transferred to the local
+bodies by the State and Central Governments through devolution and grants.
+On an average, a GP received Rs 65 lakh per annum during this period. In
+addition, money came for some state and central schemes as well. The fund
+flows are likely to double during 2020-25. In this scenario, if the desired result
+of expenditure over State’s development through local bodies is to be
+achieved, it is absolutely necessary to develop a comprehensive IT system that
+would capture and make available in real time financial figures, scheme data,
+manpower reports, etc from the local bodies to the government and also act
+as a vehicle for dissemination of Government orders, policies and fund
+allocations.
+9. Some beginnings have been made in this direction. Under the Mission Mode
+Project ‘e-Panchayat’ of Govt of India, NIC has developed 12 software
+applications known as Panchayat Enterprise Suite (PES). PRD has started
+working on the following applications of PES through Bihar Gram Swaraj
+Yojana Society (BGSYS) under the World Bank funded Bihar Panchayat
+Strengthening Project (BPSP):
+a. Local Govt Directory: Captures details of local govt and maps GPs with
+Assembly and Parliamentary Constituencies
+b. Area Profiler: Captures geographic, demographic, infrastructural,
+natural resources and socio-economic data
+c. Plan Plus: For preparation of perspective, annual and action plans
+19
+Page 62

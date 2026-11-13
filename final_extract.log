@@ -1,0 +1,6 @@
+Skipping 376 flagged file(s) (see flag.py)
+[           ok] BR-PF-09   data/raw/BR-PF-09/2026-11-13/index__1.html  (0 outputs)
+[           ok] BR-PF-09   data/raw/BR-PF-09/2026-11-13/SFC6_Rep-Part_3.pdf  (425 outputs)
+[           ok] BR-PF-16   data/raw/BR-PF-16/2026-11-13/bihar-budget-analysis-2026-27__1.html  (21 outputs)
+
+Extraction: already_done=148, ok=3

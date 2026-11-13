@@ -5,7 +5,7 @@ files untouched, and record where and when each file came from. The first manife
 covers 24 Bihar-priority sources from the Bihar catalogue (IDs match
 `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`).
 
-**Results of the first run (13 Nov 2026): see [REPORT.md](REPORT.md).**
+**Final report (13 Nov 2026): [REPORT.md](REPORT.md). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
 
 ## Quick start
 
@@ -15,6 +15,7 @@ python scripts/collect.py --dry-run    # see what would run
 python scripts/collect.py --priority 1 # download priority-1 sources
 python scripts/extract.py              # build machine-readable copies
 python scripts/verify.py               # confirm originals are unchanged; writes inventory.csv
+python scripts/analyse.py              # describe every file; writes data/analysis/ (files.csv, summary.json, FILES.md)
 ```
 
 Run `bash tests/run_test.sh` to check everything works offline (fake portal on localhost; the summary line gives the number of checks).

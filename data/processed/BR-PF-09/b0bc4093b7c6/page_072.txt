@@ -1,0 +1,27 @@
+valuable tool to monitor whether the PRIs are holding meetings as per
+schedule and acting upon the decisions taken. This too should be rolled out all
+over the state in PRIs at all three levels. The Modules of PES should be used at
+all PRIs.
+15. PRD would need to initiate concerted action to ensure that the bouquet of
+softwares is deployed swiftly across the State and for this to happen, following
+would need to be done:
+a. Identify an existing organisation or create a new organisation to
+develop, own, operate, maintain and propagate a comprehensive IT
+system for PRIs. The organisation should have IT professionals with
+requisite skills and may be designated as the Local Body IT Agency
+(LBITA). PRD can take a cue from the Kerala IT Mission which is an IT
+organisation created by the Govt of Kerala exclusively to develop,
+manage and operate IT system for PRIs and ULBs of that State.
+b. The IT system should have at least the following modules:
+i. Plan formulation, approval and monitoring
+ii. Online repository of Acts, Rules, Govt orders/ circulars/
+guidelines pertaining to local bodies
+iii. Financial Management System
+iv. Double entry accrual based accounting system
+v. Revenue and License System
+vi. Payroll and HR System
+vii. Module for recording agenda, minutes and follow-up actions of
+meetings
+viii. Disbursement of social welfare pensions
+21
+Page 64

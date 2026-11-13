@@ -1,0 +1,29 @@
+d. ActionSoft: For monitoring physical and financial outcomes of schemes
+e. National Asset Directory: Captures details of assets created
+f. National Panchayat Portal: Dynamic web-site for each Panchayat
+g. MIS Application Result Framework: For uploading agenda notes,
+minutes and follow up of decisions taken
+10. PriaSoft Module of PES is meant to capture expenditure data of schemes
+implemented by the three levels of PRIs. Use of this module was abandoned
+in 2015-16 and a separate software called Gram Panchayat Management
+System (GPMS) was commissioned by BGSYS. This software is an integrated
+solution covering accounting, audit and budgeting for GPs. The pilot phase of
+software deployment has been completed in 330 GPs and the software is
+currently being rolled out in 3,186 GPs of 12 districts.
+11. For online monitoring of the Panchayat Sarkar Bhawans under construction,
+e-PMS software is being used.
+12. NIC has developed the Panchayat NishchaySoft software which is being used
+to monitor physical and financial progress of the two Nishchay schemes under
+implementation by local bodies, namely “Har Ghar Nal Ka Jal” and “Ghar Tak
+Pakki Gali Naaliyan”.
+13. The overview above reveals that software currently being used has some gaps.
+(Annex-6) There is no software for human resource management, payroll
+system, office management, online repository of acts, rules and government
+circulars, disbursement of pensions and scholarships, etc.
+14. The GPMS is a software that needs to be quickly rolled out all over the state
+as it will enable better financial management in the PRIs. It will also enable the
+PRD and Finance Department to monitor use of funds by the PRIs. The
+software should be versatile enough to drill down to fetch data of any
+individual PRI. Similarly, the MIS Application Result Framework can be a
+20
+Page 63

@@ -1,0 +1,99 @@
+== dry run
+PASS  dry run writes nothing (no log, no raw folder)
+== run 1
+[         SAVED] T-PAGE     http://127.0.0.1:8765/index.html  data/raw/T-PAGE/2026-11-13/index.html
+[         SAVED] T-PAGE     http://127.0.0.1:8765/reports/Vital%20Stats%202023.pdf  data/raw/T-PAGE/2026-11-13/Vital_Stats_2023.pdf
+[         SAVED] T-PAGE     http://127.0.0.1:8765/reports/state_finances.xlsx  data/raw/T-PAGE/2026-11-13/state_finances.xlsx
+[         SAVED] T-PAGE     http://127.0.0.1:8765/reports/gst.csv  data/raw/T-PAGE/2026-11-13/gst.csv
+[       BLOCKED] T-PAGE     http://127.0.0.1:8765/reports/rbi_table.xlsx  bot-check or block page: Please enable JavaScript to view the page content. Your support ID is: 1234. What code is in the image?
+[         SAVED] T-FILE     http://127.0.0.1:8765/reports/Vital%20Stats%202023.pdf  data/raw/T-FILE/2026-11-13/Vital_Stats_2023.pdf
+[         ERROR] T-404      http://127.0.0.1:8765/nope.pdf  HTTP 404
+[SKIPPED_MANUAL] T-MAN        Needs login
+
+Run 2026-11-13T083327Z: blocked=1, error=1, saved=5, skipped_manual=1
+Provenance log: /tmp/tmp.QhhfEgvMNj/ibn/data/provenance.jsonl
+Some responses were bot-check or block pages, not files; see 'blocked' records. Download those by hand and add them with register_manual.py --dir.
+PASS  page snapshot + 3 linked files + direct file saved (5)
+PASS  off-pattern link not fetched
+PASS  404 logged as error
+PASS  manual source logged as skipped
+PASS  originals are read-only
+PASS  download time recorded in UTC and IST
+PASS  CAPTCHA page served for an .xlsx link logged as blocked
+PASS  CAPTCHA page not kept in data/raw
+== link cleanup
+PASS  two URLs in one href become two links
+PASS  spaces in a relative href are encoded
+PASS  existing %XX escapes and query strings kept
+== run 2 (nothing changed upstream)
+PASS  no new copies on unchanged re-run
+PASS  unchanged files logged
+== run 3 (portal publishes a revised PDF)
+PASS  revised PDF saved as new version, old kept
+== manual registration
+registered  data/raw/T-MAN/2026-11-13/report.pdf  sha256=0b80c00d64c4…
+
+1 registered, 0 already present, 0 refused
+PASS  manual file registered once
+PASS  rejects path-like --obtained-on (../x)
+PASS  rejects malformed --obtained-on (13-11-2026)
+PASS  rejects impossible date (2026-02-30)
+PASS  rejects path-like --source-id
+PASS  nothing written outside data/raw/<id>/<date>
+PASS  collect rejects path-like source_id in manifest
+== folder dates use IST
+PASS  raw folders named with IST date
+== connection dropped mid-download
+PASS  dropped download logged as error
+PASS  no .part- temp files left behind
+== extract
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/index.html  (1 outputs)
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/Vital_Stats_2023.pdf  (2 outputs)
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/state_finances.xlsx  (2 outputs)
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/gst.csv  (1 outputs)
+[           ok] T-FILE     data/raw/T-FILE/2026-11-13/Vital_Stats_2023.pdf  (2 outputs)
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/Vital_Stats_2023__1.pdf  (2 outputs)
+[           ok] T-PAGE     data/raw/T-PAGE/2026-11-13/state_finances__1.xlsx  (2 outputs)
+[           ok] T-FILE     data/raw/T-FILE/2026-11-13/Vital_Stats_2023__1.pdf  (2 outputs)
+[not_extracted] T-MAN      data/raw/T-MAN/2026-11-13/report.pdf  (0 outputs)  unsupported type: other
+
+Extraction: not_extracted=1, ok=8
+PASS  PDF table extracted to CSV
+PASS  Excel sheets extracted
+PASS  cp1252 CSV re-encoded to UTF-8
+PASS  HTML table extracted
+PASS  sidecar links back to raw sha256 and URL
+== extract again
+Extraction: already_done=9
+PASS  extraction not repeated (exactly 8 ok, 1 not_extracted)
+== flag a bad original saved by an older version (like the Nov 2026 RBI files)
+PASS  flag --auto is a dry run by default
+FLAGGED  T-OLD      1 file(s)
+  e.g. data/raw/T-OLD/2026-11-13/table.XLSX: bot-check or block page: Please enable JavaScript. Your support ID is: 99.
+
+1 file(s) flagged; files are kept in data/raw.
+PASS  flag --auto finds the bot-check original (and only it)
+PASS  flagged file kept, unchanged, in data/raw
+PASS  extract skips flagged files
+PASS  flag --path needs --reason
+PASS  flag --path records reason
+== register a folder of hand-downloaded files
+REFUSED (not a real file)  captcha.xlsx: bot-check or block page: Please enable JavaScript to view the page content. Your support ID is: 1234
+registered  data/raw/T-DIR/2026-11-13/t1.csv  sha256=492d5ea49605…
+registered  data/raw/T-DIR/2026-11-13/t2.csv  sha256=d1be73dc2616…
+
+2 registered, 0 already present, 1 refused
+PASS  folder registration exits non-zero when a file is refused
+PASS  real files registered, CAPTCHA page refused
+== verify
+Checked 12 original files (10 valid, 2 flagged invalid); inventory written to data/inventory.csv
+All originals intact.
+PASS  inventory marks flagged files invalid with reason
+PASS  verify passes on untouched originals
+PASS  inventory.csv written
+== tamper with one original
+PASS  verify detects modified original
+PASS  extract refuses changed raw file
+PASS  verify reports leftover partial files
+
+45 passed, 0 failed
