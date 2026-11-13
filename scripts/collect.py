@@ -190,7 +190,9 @@ def run_source(src: dict, args, ctx, run_id: str) -> list[dict]:
         append_jsonl(PROVENANCE, rec)
         return [rec]
 
-    first = store(sid, url, "file" if mode == "file" else "page_snapshot", None, None, args, ctx, run_id)
+    # For a file row, keep the row's title (e.g. the census table name) as the link text.
+    first = store(sid, url, "file" if mode == "file" else "page_snapshot", None,
+                  src.get("title") if mode == "file" else None, args, ctx, run_id)
     out = [first]
     if mode != "page" or first["status"] in ("error", "blocked"):
         return out

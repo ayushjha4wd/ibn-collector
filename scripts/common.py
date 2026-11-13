@@ -50,8 +50,13 @@ def read_jsonl(path: Path) -> list[dict]:
 def load_manifest(path: Path) -> list[dict]:
     with open(path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
+    # A source may have several rows only when they are all "file" rows with different URLs
+    # (e.g. one row per census table); anything else repeated is a mistake.
     ids = [r["source_id"] for r in rows]
-    dupes = {i for i in ids if ids.count(i) > 1}
+    dupes = {i for i in ids if ids.count(i) > 1
+             and not all(r["mode"] == "file" for r in rows if r["source_id"] == i)}
+    pairs = [(r["source_id"], r["url"]) for r in rows]
+    dupes |= {sid for sid, u in pairs if pairs.count((sid, u)) > 1}
     if dupes:
         raise SystemExit(f"Duplicate source_id in manifest: {sorted(dupes)}")
     for r in rows:

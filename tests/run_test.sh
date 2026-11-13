@@ -72,6 +72,15 @@ check "nothing written outside data/raw/<id>/<date>" '[ -z "$(find $IBN_ROOT -na
 printf "source_id,title,mode,url,link_pattern,max_files,priority,notes\n../evil,Bad,file,http://127.0.0.1:$PORT/index.html,,,1,\n" > "$WORK/bad.csv"
 check "collect rejects path-like source_id in manifest" '! python3 $REPO/scripts/collect.py --manifest $WORK/bad.csv --delay 0 >/dev/null 2>&1 && [ ! -e "$IBN_ROOT/data/evil" ]'
 
+H="source_id,title,mode,url,link_pattern,max_files,priority,notes"
+printf "$H\nT-M,a,file,http://x/1.xls,,,1,\nT-M,b,file,http://x/2.xls,,,1,\n" > "$WORK/multi_ok.csv"
+printf "$H\nT-M,a,page,http://x/1,,,1,\nT-M,b,page,http://x/2,,,1,\n" > "$WORK/multi_page.csv"
+printf "$H\nT-M,a,file,http://x/1.xls,,,1,\nT-M,b,file,http://x/1.xls,,,1,\n" > "$WORK/multi_same.csv"
+LM="import sys; sys.path.insert(0, '$REPO/scripts'); from common import load_manifest; from pathlib import Path"
+check "several file rows for one source are allowed" 'python3 -c "$LM; load_manifest(Path(\"$WORK/multi_ok.csv\"))"'
+check "repeated page rows for one source are refused" '! python3 -c "$LM; load_manifest(Path(\"$WORK/multi_page.csv\"))" 2>/dev/null'
+check "the same source and URL twice is refused" '! python3 -c "$LM; load_manifest(Path(\"$WORK/multi_same.csv\"))" 2>/dev/null'
+
 echo "== folder dates use IST"
 IST_DATE="$(python3 -c "import datetime as d;print(d.datetime.now(d.timezone(d.timedelta(hours=5,minutes=30))).date())")"
 check "raw folders named with IST date" '[ -d "$IBN_ROOT/data/raw/T-FILE/$IST_DATE" ]'
