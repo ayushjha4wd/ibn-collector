@@ -13,12 +13,13 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import DATA, PROVENANCE, RAW, ROOT, read_jsonl, sha256_file  # noqa: E402
+from common import DATA, PROVENANCE, RAW, ROOT, flagged, read_jsonl, sha256_file  # noqa: E402
 
 
 def main():
     recs = [r for r in read_jsonl(PROVENANCE) if r.get("status") in {"saved", "manual"}]
     logged = {r["stored_path"]: r for r in recs}
+    bad = flagged()
     problems = []
     for path, r in logged.items():
         p = ROOT / path
@@ -38,15 +39,20 @@ def main():
     with open(inv, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["source_id", "stored_path", "sha256", "bytes", "source_url", "parent_page",
-                    "downloaded_at_utc", "downloaded_at_ist", "obtained_on (manual)", "method", "http_last_modified"])
+                    "downloaded_at_utc", "downloaded_at_ist", "obtained_on (manual)", "method", "http_last_modified",
+                    "valid", "flag_reason"])
         for r in sorted(recs, key=lambda r: (r["source_id"], r["stored_path"])):
+            fl = bad.get(r["stored_path"])
             w.writerow([r["source_id"], r["stored_path"], r["sha256"], r.get("bytes"),
                         r.get("final_url") or r.get("url"), r.get("parent_url"),
                         r.get("retrieved_at_utc"), r.get("retrieved_at_ist"), r.get("obtained_on"),
                         "manual" if r["status"] == "manual" else "download",
-                        (r.get("headers") or {}).get("last-modified")])
+                        (r.get("headers") or {}).get("last-modified"),
+                        "no" if fl else "yes", fl["reason"] if fl else ""])
 
-    print(f"Checked {len(logged)} original files; inventory written to {inv.relative_to(ROOT)}")
+    n_bad = sum(p in bad for p in logged)
+    print(f"Checked {len(logged)} original files ({len(logged) - n_bad} valid, {n_bad} flagged invalid); "
+          f"inventory written to {inv.relative_to(ROOT)}")
     for kind, path in problems:
         print(f"  {kind.upper():>9}: {path}")
     print("All originals intact." if not problems else f"{len(problems)} problem(s) found.")

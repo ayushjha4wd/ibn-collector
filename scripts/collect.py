@@ -37,7 +37,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (IST, PROVENANCE, RAW, ROOT, TOOL_VERSION, append_jsonl, known_hashes,  # noqa: E402
-                    load_manifest, make_read_only, now_stamps, safe_name, sha256_file)
+                    load_manifest, make_read_only, now_stamps, problem_with, safe_name, sha256_file)
 
 USER_AGENT = f"Mozilla/5.0 (compatible; {TOOL_VERSION}; India By Numbers public-data collector)"
 KEEP_HEADERS = ("content-type", "content-length", "last-modified", "etag", "content-disposition")
@@ -150,6 +150,12 @@ def store(source_id: str, url: str, role: str, parent_url: str | None, link_text
     tmp: Path = meta.pop("tmp")
     digest = sha256_file(tmp)
     size = tmp.stat().st_size
+    problem = problem_with(tmp, meta["final_url"], is_page=(role == "page_snapshot"))
+    if problem:  # e.g. a CAPTCHA page served in place of a PDF: not an original, don't keep it
+        tmp.unlink()
+        rec = {**base, **meta, "status": "blocked", "sha256": digest, "bytes": size, "error": problem}
+        append_jsonl(PROVENANCE, rec)
+        return rec
     seen = known_hashes(source_id)
     if digest in seen:
         tmp.unlink()
@@ -185,7 +191,7 @@ def run_source(src: dict, args, ctx, run_id: str) -> list[dict]:
 
     first = store(sid, url, "file" if mode == "file" else "page_snapshot", None, None, args, ctx, run_id)
     out = [first]
-    if mode != "page" or first["status"] == "error":
+    if mode != "page" or first["status"] in ("error", "blocked"):
         return out
 
     html_path = ROOT / first["stored_path"]
@@ -243,7 +249,10 @@ def main(argv=None):
         time.sleep(args.delay if not args.dry_run else 0)
     print(f"\nRun {run_id}: " + ", ".join(f"{k}={v}" for k, v in sorted(totals.items())))
     print(f"Provenance log: {PROVENANCE}")
-    return 1 if totals.get("error") else 0
+    if totals.get("blocked"):
+        print("Some responses were bot-check or block pages, not files; see 'blocked' records. "
+              "Download those by hand and add them with register_manual.py --dir.")
+    return 1 if totals.get("error") or totals.get("blocked") else 0
 
 
 if __name__ == "__main__":

@@ -26,11 +26,15 @@ ws.append(["Bihar", 2.5, 3.1])
 wb.create_sheet("Notes").append(["Figures in Rs lakh crore (fixture)"])
 wb.save(site / "reports" / "state_finances.xlsx")
 
+(site / "reports" / "rbi_table.xlsx").write_text(  # what RBI served in the Nov 2026 run
+    "<!DOCTYPE html><html><body>Please enable JavaScript to view the page content. "
+    "Your support ID is: 1234. What code is in the image?</body></html>", encoding="utf-8")
 (site / "reports" / "gst.csv").write_bytes("state,collection\nBihar,32801\n".encode("cp1252"))
 (site / "index.html").write_text("""<html><body><h1>Reports</h1>
 <a href="reports/Vital%20Stats%202023.pdf">Vital statistics 2023</a>
 <a href="/reports/state_finances.xlsx">State finances</a>
 <a href="reports/gst.csv">GST</a>
+<a href="reports/rbi_table.xlsx">RBI table (bot-check page)</a>
 <a href="https://example.org/elsewhere.html">Not a file</a>
 <table><tr><th>Year</th><th>Report</th></tr><tr><td>2023</td><td>Vital stats</td></tr></table>
 </body></html>""", encoding="utf-8")

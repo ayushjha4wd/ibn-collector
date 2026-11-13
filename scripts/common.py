@@ -76,10 +76,68 @@ def make_read_only(path: Path) -> None:
     os.chmod(path, 0o444)
 
 
-def known_hashes(source_id: str) -> dict[str, str]:
-    """sha256 -> stored path for everything already saved for this source."""
+def flagged() -> dict[str, dict]:
+    """stored_path -> latest flag record ("invalid" status) from the provenance log."""
     out = {}
     for rec in read_jsonl(PROVENANCE):
-        if rec.get("source_id") == source_id and rec.get("status") in {"saved", "manual"}:
+        if rec.get("status") == "invalid":
+            out[rec["stored_path"]] = rec
+    return out
+
+
+def known_hashes(source_id: str) -> dict[str, str]:
+    """sha256 -> stored path for valid files already saved for this source."""
+    bad = flagged()
+    out = {}
+    for rec in read_jsonl(PROVENANCE):
+        if (rec.get("source_id") == source_id and rec.get("status") in {"saved", "manual"}
+                and rec["stored_path"] not in bad):
             out[rec["sha256"]] = rec["stored_path"]
     return out
+
+
+# ---- content checks -------------------------------------------------------
+FILE_EXT = re.compile(r"\.(pdf|xlsx|xlsm|xls|csv|zip|docx?|ods)(\?|#|$)", re.I)
+CHALLENGE = re.compile(r"enable javascript|support id|captcha|are (?:you )?a human|request rejected|"
+                       r"access denied|unusual traffic|bot verification", re.I)
+
+
+def sniff(path: Path) -> str:
+    """What the bytes actually are: pdf, zip (xlsx/docx), ole (xls/doc), html, or other."""
+    with open(path, "rb") as f:
+        head = f.read(1024)
+    if head.startswith(b"%PDF"):
+        return "pdf"
+    if head.startswith(b"PK\x03\x04"):
+        return "zip"
+    if head.startswith(b"\xd0\xcf\x11\xe0"):
+        return "ole"
+    low = head.lstrip(b"\xef\xbb\xbf \t\r\n").lower()
+    if low.startswith((b"<!doctype html", b"<html", b"<head", b"<script")) or b"<html" in low[:300]:
+        return "html"
+    return "other"
+
+
+def expects_file(url: str) -> bool:
+    """True if the URL names a document/data file, so an HTML response means something went wrong."""
+    import urllib.parse
+    return bool(FILE_EXT.search(urllib.parse.urlparse(url).path + "?"))
+
+
+def visible_text(path: Path, limit: int = 300) -> str:
+    import html as _html
+    t = path.read_text(encoding="utf-8", errors="replace")
+    t = re.sub(r"(?is)<(script|style)\b.*?</\1>", " ", t)
+    return " ".join(_html.unescape(re.sub(r"<[^>]+>", " ", t)).split())[:limit]
+
+
+def problem_with(path: Path, url: str, is_page: bool) -> str | None:
+    """Reason the downloaded content isn't what was asked for, or None if it looks right."""
+    kind = sniff(path)
+    if kind == "html":
+        text = visible_text(path, 2000)
+        if CHALLENGE.search(text) and (not is_page or len(text) < 1500):
+            return f"bot-check or block page: {text[:200]}"
+        if not is_page and expects_file(url):
+            return f"HTML page returned for a file link: {text[:200]}"
+    return None

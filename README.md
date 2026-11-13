@@ -52,14 +52,33 @@ To add a source, add a row. URLs marked "to verify" in the catalogue may need fi
 
 ## Manual sources
 
-Seven sources need a login, a form, a captcha or a JavaScript-only site: CFMS, eGramSwaraj, the caste survey report, Census 2011 tables, Mission Antyodaya, electoral roll statistics and LGD. Download these by hand, then register them so they get the same treatment as automatic downloads:
+Nine sources need a login, a form, a CAPTCHA or a JavaScript-only site: CFMS, eGramSwaraj, the caste survey report, Census 2011 tables, Mission Antyodaya, electoral roll statistics, LGD, and the two RBI publications (BR-PF-13, BR-PF-14), which show a CAPTCHA to scripts. Download these in a browser, then register them so they get the same treatment as automatic downloads:
 
 ```bash
+# one file
 python scripts/register_manual.py --source-id BR-DM-01 --file ~/Downloads/report.pdf \
     --url "https://where-it-came-from" --obtained-on 2026-11-13 --note "context"
+# a whole folder (e.g. all RBI tables saved into one folder)
+python scripts/register_manual.py --source-id BR-PF-14 --dir ~/Downloads/rbi_handbook \
+    --url "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook+of+Statistics+on+Indian+States" \
+    --obtained-on 2026-11-13 --note "Saved from browser"
 ```
 
-The file is copied (your copy is untouched), hashed, made read-only and logged.
+Each file is copied (your copy is untouched), hashed, made read-only and logged. A file that is really a CAPTCHA or error page is refused.
+
+## Bot-check pages and flagging bad originals
+
+Some sites answer scripts with a CAPTCHA or block page instead of the file. `collect.py` now checks the content of every download. If an HTML page comes back for a `.pdf`/`.xlsx`/`.csv` link, or a page looks like a bot check, it is logged as `blocked` and **not** saved. The run then exits with code 1 and tells you to download those files by hand.
+
+Files saved before this check existed (368 RBI CAPTCHA pages in the 13 Nov 2026 run), or files from the wrong page, are handled with `flag.py`. Flagging never deletes or moves anything. It appends an `invalid` record to the provenance log; flagged files are then skipped by `extract.py`, marked `valid=no` with the reason in `inventory.csv`, and ignored for duplicate detection.
+
+```bash
+python scripts/flag.py --auto            # dry run: what looks like a bot-check page or HTML-for-a-file
+python scripts/flag.py --auto --apply
+python scripts/flag.py --path data/raw/... --reason "off-target: ..." --apply
+```
+
+Anything in `data/processed/` that was extracted from a flagged file is derived output and can be deleted.
 
 ## What extraction does and doesn't do
 
@@ -82,4 +101,9 @@ These are faithful machine-readable copies, not cleaned datasets. Cleaning and s
 
 * Uses only the Python standard library for downloading, so `collect.py` runs anywhere with Python 3.9+.
 * It waits 1.5 s between requests by default (`--delay`). Some government sites have incomplete TLS certificate chains. Pass `--ca-bundle` rather than turning off verification.
+* **Run from an Indian connection.** In the 13 Nov 2026 run (from outside India), most Bihar state sites failed:
+  * `dse.bihar.gov.in` and `7thsfc.bihar.gov.in` reset the connection.
+  * `state.bihar.gov.in` sent an incomplete certificate chain.
+  * `budget.bihar.gov.in`'s certificate had expired. That one can only be fixed by the site, so download its documents by hand until it's renewed.
+* For `state.bihar.gov.in`, build a CA bundle containing the missing intermediate certificate: open the site in a browser, export the intermediate certificate, then append it to your system's CA file. Pass the result with `--ca-bundle`.
 * Keep `data/` out of git if it gets large, but always keep `provenance.jsonl` with the files it describes.

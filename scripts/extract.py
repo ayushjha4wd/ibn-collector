@@ -24,10 +24,14 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (EXTRACTIONS, PROCESSED, PROVENANCE, ROOT, TOOL_VERSION, append_jsonl,  # noqa: E402
+from common import (EXTRACTIONS, PROCESSED, PROVENANCE, ROOT, TOOL_VERSION, append_jsonl, flagged,  # noqa: E402
                     now_stamps, read_jsonl, safe_name, sha256_file)
 
-EXTRACTOR_VERSION = "extract/0.1"
+EXTRACTOR_VERSION = "extract/0.2"
+
+
+class NotExtracted(Exception):
+    """The file is fine but this extractor can't turn it into tables or text."""
 
 
 def kind_of(path: Path, content_type: str) -> str:
@@ -95,9 +99,12 @@ def extract_html(src: Path, out: Path) -> list[str]:
     import pandas as pd
     html = src.read_text(encoding="utf-8", errors="replace")
     try:
-        tables = pd.read_html(io.StringIO(html))
+        # lxml only: pandas' fallback parser needs html5lib + bs4, which we don't require.
+        tables = pd.read_html(io.StringIO(html), flavor="lxml")
     except ValueError:  # no tables
         return []
+    except Exception as e:  # malformed markup lxml can't recover from
+        raise NotExtracted(f"HTML tables not readable: {type(e).__name__}: {str(e)[:120]}")
     (out / "tables").mkdir(parents=True, exist_ok=True)
     files = []
     for k, df in enumerate(tables, start=1):
@@ -114,7 +121,12 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     done = {r["raw_sha256"] for r in read_jsonl(EXTRACTIONS) if r.get("status") in {"ok", "not_extracted"}}
+    bad = flagged()
     saved = [r for r in read_jsonl(PROVENANCE) if r.get("status") in {"saved", "manual"}]
+    skipped_flagged = sum(r["stored_path"] in bad for r in saved)
+    saved = [r for r in saved if r["stored_path"] not in bad]
+    if skipped_flagged:
+        print(f"Skipping {skipped_flagged} flagged file(s) (see flag.py)")
     if args.only:
         saved = [r for r in saved if r["source_id"] in set(args.only)]
     counts: dict[str, int] = {}
@@ -139,6 +151,8 @@ def main(argv=None):
                            "html": lambda: extract_html(src, out)}.get(kind, lambda: None)()
                 status, err = ("ok", None) if outputs is not None else ("not_extracted", f"unsupported type: {kind}")
                 outputs = outputs or []
+            except NotExtracted as e:
+                status, outputs, err = "not_extracted", [], str(e)
             except Exception as e:
                 status, outputs, err = "error", [], f"{type(e).__name__}: {e}"
             side = {"raw_path": rec["stored_path"], "raw_sha256": rec["sha256"], "source_id": rec["source_id"],

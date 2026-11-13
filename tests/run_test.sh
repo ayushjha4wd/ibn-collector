@@ -39,6 +39,8 @@ check "404 logged as error" 'grep -q "\"status\": \"error\"" $P'
 check "manual source logged as skipped" 'grep -q skipped_manual $P'
 check "originals are read-only" '[ -z "$(find $IBN_ROOT/data/raw -type f -perm -u+w)" ]'
 check "download time recorded in UTC and IST" 'grep -q retrieved_at_ist $P'
+check "CAPTCHA page served for an .xlsx link logged as blocked" '[ "$(grep rbi_table $P | grep -c "\"status\": \"blocked\"")" = 1 ]'
+check "CAPTCHA page not kept in data/raw" '[ -z "$(find $IBN_ROOT/data/raw -name "rbi_table*")" ]'
 
 echo "== link cleanup"
 L="import sys; sys.path.insert(0, '$REPO/scripts'); from collect import clean_links as c"
@@ -95,7 +97,37 @@ echo "== extract again"; python3 "$REPO/scripts/extract.py" | tail -1
 X="$IBN_ROOT/data/extractions.jsonl"
 check "extraction not repeated (exactly 8 ok, 1 not_extracted)" '[ "$(grep -c "\"status\": \"ok\"" $X)" = 8 ] && [ "$(grep -c not_extracted $X)" = 1 ]'
 
+echo "== flag a bad original saved by an older version (like the Nov 2026 RBI files)"
+LEG="data/raw/T-OLD/2026-11-13/table.XLSX"
+mkdir -p "$IBN_ROOT/$(dirname $LEG)"
+printf '<!DOCTYPE html><html><body>Please enable JavaScript. Your support ID is: 99.</body></html>' > "$IBN_ROOT/$LEG"
+chmod 444 "$IBN_ROOT/$LEG"
+python3 -c "
+import sys; sys.path.insert(0,'$REPO/scripts')
+from common import *; from pathlib import Path
+append_jsonl(PROVENANCE, {'source_id':'T-OLD','url':'https://x.in/table.XLSX','role':'linked_file','status':'saved',
+  'sha256':sha256_file(ROOT/'$LEG'),'bytes':1,'stored_path':'$LEG','retrieved_at_utc':'2026-11-13T07:00:00+00:00'})"
+F="python3 $REPO/scripts/flag.py"
+$F --auto >/dev/null
+check "flag --auto is a dry run by default" '! grep -q "\"status\": \"invalid\"" $P'
+$F --auto --apply
+check "flag --auto finds the bot-check original (and only it)" '[ "$(grep -c "\"status\": \"invalid\"" $P)" = 1 ]'
+check "flagged file kept, unchanged, in data/raw" '[ -f "$IBN_ROOT/$LEG" ]'
+check "extract skips flagged files" 'python3 $REPO/scripts/extract.py | grep -q "Skipping 1 flagged" && ! grep -q T-OLD $X'
+OFF="$(find $IBN_ROOT/data/raw/T-PAGE -name "gst*.csv" | head -1 | sed "s#$IBN_ROOT/##")"
+check "flag --path needs --reason" '! $F --path $OFF >/dev/null 2>&1'
+$F --path "$OFF" --reason "off-target test" --apply >/dev/null
+check "flag --path records reason" 'grep -q "off-target test" $P'
+
+echo "== register a folder of hand-downloaded files"
+mkdir -p "$WORK/browser"; printf 'a,b\n1,2\n' > "$WORK/browser/t1.csv"; printf 'c\n3\n' > "$WORK/browser/t2.csv"
+cp "$SITE/reports/rbi_table.xlsx" "$WORK/browser/captcha.xlsx"
+python3 "$REPO/scripts/register_manual.py" --source-id T-DIR --dir "$WORK/browser" --obtained-on 2026-11-13 --url https://x.in/p
+check "folder registration exits non-zero when a file is refused" '! python3 $REPO/scripts/register_manual.py --source-id T-DIR --dir $WORK/browser --obtained-on 2026-11-13 >/dev/null'
+check "real files registered, CAPTCHA page refused" '[ "$(grep T-DIR $P | grep -c "\"status\": \"manual\"")" = 2 ] && [ -z "$(find $IBN_ROOT/data/raw/T-DIR -name "captcha*")" ]'
+
 echo "== verify"; python3 "$REPO/scripts/verify.py"
+check "inventory marks flagged files invalid with reason" 'grep T-OLD $IBN_ROOT/data/inventory.csv | grep -q ",no,bot-check"'
 check "verify passes on untouched originals" 'python3 $REPO/scripts/verify.py >/dev/null'
 check "inventory.csv written" '[ -s $IBN_ROOT/data/inventory.csv ]'
 
