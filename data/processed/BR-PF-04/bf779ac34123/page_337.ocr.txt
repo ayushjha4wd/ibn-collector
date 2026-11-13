@@ -1,0 +1,41 @@
+functional modules: (i) Asset Information System, (ii) Engineering Information System, (iii)
+Hydro-Meteorological Information System, (iv) Basin Information System, (v) Store Material
+Information System, (vi) Analysis and Planning Tool, (vii) Document Management System, (viii)
+Community Participation System, (ix) Scheme Monitoring System, (x) Flood Risk Information
+System, (xi) Asset Monitoring System, (xii) Data Editing System, and (xiii) Admin Control
+System.
+
+Mathematical Modelling Center (MMC) : Presently at MMC, flood forecasting is being done
+with a lead time of 72 hours and 120 hours (in developing phase) for five river basins, namely
+Gandak, Bagmati-Adhwara, Kosi, Mahananda and Ganga during monsoons (June to October).
+The MMC has also carried out various other studies, like the Study of Kamla Embankment Breach
+which occurred in 2019, study of spur design in Sikarhatta-~ Manjhari Low Bund, etc. on the basis
+of which project has been formulated and is under implementation by the Water Resources
+Department,
+
+Flood Forecasting Models : Precise and reliable forecasting is important for flood warning, flood
+control planning, and rehabilitation. After the establishment of MMC, the flood forecasting is
+being done for major north Bihar rivers in terms of water level and discharge at various locations
+inside Bihar. These flood forecasting models use Rainfall data (observed as well as forecast),
+observed water level and discharge at various locations, cross-section of the river, evaporation data
+and other hydrological data as input. These operational flood forecasting models in Bihar continue
+to be developed, based on the availability of quality input.
+
+River Behaviour Analysis : Characteristics of the rivers are largely determined by the
+geomorphological characteristics of boundary materials ic. bank and bed materials, its terrain
+slope, topography, geology, physiography, tectonics and seismicity. An in-depth understanding of
+the morphology and behaviour of the river is thus a pre-requisite for a scientific and rational
+approach to address different problems of the river, and for proper planning and designing of water
+resources projects. For river behaviour analysis, time-series satellite images and historical maps
+are great sources to understand the planform changes of a river. The River Behaviour Analysis
+tool for conducting a morphological study of the Kosi river system was developed in 2017. This
+has been helpful in planning river training works and anti-erosion control schemes aimed at
+sustaining flood protection since then. Presently, a morphological study of the Gandak River is
+ongoing for development of the river behaviour analysis tool for this river,
+
+Bihar e-system for Flood & Irrigation Quick Response App ; BeFIQR is a web, tablet, and
+smartphone App developed on the initiative of the Mathematical Modelling Center (MMC).
+Introduced in 2023, the App provides jurisdiction-based information for flood and irrigation
+management, It generates real-time alerts using data from sources such as departmental RTDAS
+
+280

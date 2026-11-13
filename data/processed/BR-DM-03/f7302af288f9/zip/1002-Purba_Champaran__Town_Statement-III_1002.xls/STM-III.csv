@@ -1,0 +1,37 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Raxaul Bazar  (Nagar Parishad),34,,,BD,,4,5500,3,0,"T,HP",OHT(5000),Yes,4810,20,1202,3,3
+2,Sugauli (NP),42,,,BD,,0,5000,0,0,"HP,UW",(),"No,MOTIHARI(23)",800,1,75,200,0
+3,Dhaka (NP),26,,,BD,,1115,51,13,0,"TW/B,HP",BWP(),"No,MOTIHARI(25)",2000,4,325,0,300
+4,Motihari (Nagar Parishad),82,,,BD,,9000,10950,65,2650,"TW,HP",OHT(5860),Yes,12186,122,3250,385,900
+5,Areraj (NP),33,OD,,,,0,2000,99,0,"TK/P,UW",-15000,"No,MOTIHARI(30)",1511,2,0,0,0
+6,Kesaria (NP),19,,,BD,,0,287,6,0,"HP,HP",(),"No,MOTIHARI(52)",168,0,72,92,587
+7,Chakia (NP),35,,,BD,,0,1680,10,10,"TU,HP",PT(),"No,MOTIHARI(32)",1215,4,250,15,0
+8,Pakri Dayal (NP),11,,,BD,,500,50,3,100,"TW/B,HP",OHT(50),Yes,255,0,26,0,0
+9,Madhuban (NP),11,OD,,,,0,200,16,0,"TU,UW",PT(),"No,PAKRIDAYAL(20)",215,0,2,0,0
+10,Mehsi (NP),14,,,BD,,100,1200,10,200,"HP,",(),"No,MOTIHARI(40)",1500,0,20,0,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

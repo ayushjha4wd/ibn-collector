@@ -1,0 +1,30 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Banmankhi Bazar (NP),19,,,BD,,20,400,46,11,"HP,",(),Yes,1449,13,153,5,2
+2,Purnia (M Corp.),250,OD,,,,5000,11200,176,16800,"TW/B,","(),HP()",Yes,24054,754,7243,12,421
+3,Kasba (NP),70,,,BD,,800,1400,16,1800,"HP,",(),Yes,2500,250,12,116,110
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

@@ -1,0 +1,42 @@
+VanApp Mobile App for Plantation and Nursery Monitoring : Since its introduction in 2019,
+the mobile App has been instrumental in enabling online integrated monitoring of plantation,
+nursery, and soil moisture conservation (SMC) activities. Developed to assist the supervisory
+officials, the App ensures real-time tracking and accountability for forestry and conservation
+projects.
+
+Bird Ringing Monitoring System (BRMS) Mobile App : The Bird Ringing Monitoring System
+(BRMS) mobile App is a tool designed in 2023 to collect critical data on migratory birds, focusing
+on their survival, productivity, and movement patterns. It plays a vital role in tracking bird
+populations and informing conservation strategies, This App is a crucial step towards leveraging
+technology for sustainable wildlife management and fostering a deeper understanding of avian
+ecosystems.
+
+Nursery Management Information System : The Nursery Management Information System
+(NMIS) is a digital platform designed in 2023 to manage and monitor various aspects of nurseries,
+including contact details, plant inventory, nursery area and other operational data, It ensures
+streamlined management, transparency and better planning for afforestation and green initiatives.
+The NMIS helps in maintaining a comprehensive database of nurseries and their assets, enabling
+efficient resource allocation and improved monitoring. It supports data-driven decision-making
+for effective management of plants and nursery operations. This system not only improves nursery
+management but also strengthens afforestation programmes by ensuring efficient use of resources
+and timely monitoring of plantation efforts.
+
+Application for Issuing Non-Forest Land/Distance from Forest Area Certificates : This
+application was designed in 2022 to streamline the process of issuing Non-Forest Land Certificates
+and Distance from Forest Area Certificates. Developed under the ‘Ease of Doing Business*
+initiative, it simplifies compliance with regulatory requirements for individuals and businesses,
+ensuring transparency and efficiency in land-use permissions and forest area reporting.
+
+Web Portal for Wood-Based Industry Registration ; In 2022, an application was developed to
+facilitate the registration of individuals and enterprises in the wood-based industries sector seeking
+subsidies under the Bihar Wood-Based Industries Promotion Policy, 2020. This initiative
+streamlines the registration process and promotes investment and modernization within the sector,
+This application is a step forward in fostering a sustainable business ecosystem, enhancing industry
+standards, and generating employment in Bihar's wood-based industries.
+
+National Transit Pass System (NTPS) : In 2023, the state adopted the National Transit Pass
+System (NTPS) to facilitate the smooth and transparent transportation of timber and forest
+produce. By becoming the fifth state in the country to implement this system, the state has taken a
+significant step toward modernizing forest governance and reducing regulatory delays. The
+
+282

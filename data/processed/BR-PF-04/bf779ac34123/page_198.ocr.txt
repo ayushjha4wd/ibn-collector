@@ -1,0 +1,46 @@
+The Bihar government recognizes the importance of both large-scale industries and small and
+informal enterprises in shaping the economic landscape. While large industries offer high-scale
+production and employment, small and marginal enterprises are critical in driving local economic
+activities and providing grassroots employment opportunities. Understanding the dynamics of
+industrial growth in Bihar thus requires a dual focus on both formal and informal sectors, This
+chapter aims to explore the trajectory of industrial growth in Bihar by utilizing data from the
+Annual Survey of Industries (ASI) and the Annual Survey of Unincorporated Sector Enterprises
+(ASUSE), These datasets provide valuable insights into the performance and challenges of both
+formal industries and small-scale manufacturing activities, highlighting the complexities of
+fostering industrial growth in a state like Bihar. Moreover, the role of government policies in
+promoting industrialization, particularly those targeting youth entrepreneurship and small
+enterprise development, will be discussed.
+
+In the structural composition of any economy, the secondary sector consists of mining and
+quarrying; manufacturing; electricity, gas, water supply, and other utility services; and
+construction, Over the years, construction has been the most important activity in Bihar,
+Construction activities grew at the rate of 22 percent between 2021-22 and 2022-23. It contributed
+50.2 percent of the GSDP of the secondary sector, followed by manufacturing. In 2022-23, the
+manufacturing sector contributed 37.0 percent of the GSDP of the secondary sector, In other
+words, construction and manufacturing were the drivers of the secondary sector growth in Bihar.
+
+Table 4.1 ; Annual Growth Rate of Secondary Sector in Bihar at Constant (2011-12) Prices
+(2018-19 to 2023-24)
+
+(in percent)
+Secondary sector Gross State
+ver pa Manufacturing} EGWUS | Construction roa | per
+2018-19 | 144.5 | -13 53,9 9.2 8.4 10.9
+2019-20 275.5 2.8 7.0 1.0 5.4 44
+2020-21 -84.7 13.9 "1.7 -7.0 51.7 -7.4
+2021-22 17.6 3.8 3.1 18.0 | 99 | 3.0
+2022-23 (P) 192.9 -6.0 33.0 22.0 11.8 | 98 |
+2023-24 (0) 21.1 | a | | 18.0 | | 11. | 1.1 84 | 92 |
+
+Note : EGWUS = Electricity, gas, water supply & other utility services
+P = Provisional estimate, Q = Quick estimate
+Source : Directorate of Economics and Statistics, GoB
+The contribution of the secondary sector to the Gross State Value Added (GSVA) across the states
+of India is presented in Table 4.2. The secondary sector in Bihar has continued contributing
+approximately one-fifth of GSVA for many years now. In 12 out of 18 states mentioned in Table
+4.2, the contribution of the secondary sector to GSVA was less than 30 percent. In these states, the
+contribution of the secondary sector to GSVA has stagnated at below 30 percent level over a long
+period. Specifically, the contribution of the secondary sector to GSVA in Telangana was the lowest
+at 19.8 percent, followed by Bihar at 21.5 percent in 2023-24,
+
+141

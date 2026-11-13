@@ -1,0 +1,40 @@
+I-GRAM (Integrated GIS-based Road Assets Management System) : This is a GIS-based
+project which aims to digitise the data of various roads under the Road Construction Department
+and display that on I-GRAM. Road alignment and details of Expressways, NH, SH and MDR roads
+are available on 1-GRAM, which can be obtained on a GIS Map with different layers viz. State,
+District, Habitations, Urban Local Bodies Location, Habitation Boundary, Railway, Airport,
+Industrial Area, ete.
+
+Output and Performance-based Road Assets Maintenance Contract (OPRMC) : It is a
+Preventive Maintenance Policy, under which the responsibility of maintaining the Service Level
+and International Roughness Index (IRI) of roads is given to the contractor for a particular time.
+Under this policy, along with the road crust, other road furniture like shoulder drainage, vegetation
+and signage, etc. are also maintained. Under this system, a total of 9064 kms of roads were
+successfully maintained in the first phase (2013 to 2018) at the cost of Rs, 2579 crore. Further,
+more than 13,000 kms of roads are being maintained at a cost of Rs. 6655 crore in the second phase
+(2019 to 2026), The State government took a new step for real-time monitoring and reporting of
+road maintenance work in July, 2022 through its Control and Command Centre. At present, the
+maintenance work of a total of 1282 roads (9817 kms) is being monitored through this Centre at
+the Headquarter level and 11 Superintending Engineers, 44 Executive Engineers, 116 Assistant
+Engineers and 217 Junior Engineers are inspecting the task.
+
+Contractor e-Registration ; It was introduced in 2016 for the re-registration of contractors and
+provides them with a digital platform where they can easily apply for their registration and pay the
+required fee. They can also download their registration certificate from the portal after their
+application gets approved.
+
+Online Management, Monitoring and Accounting System (OMMAS) : It is a web-based
+system for monitoring of schemes related to Pradhan Mantri Gram Sadak Yojana (PMGSY). This
+facilitates planning, scheduling, monitoring, tracking and execution of the scheme. OMMAS
+comprises master data, rural road plan, proposal, tendering, execution, quality monitoring, receipt
+and payments and maintenance module. A citizen can track the day-to-day progress of the scheme.
+
+Anurakshan App : Bihar Rural Roads Maintenance Policy, 2018 has been implemented for an
+effective management of rural road assets. Using this mobile App, roads are inspected by field
+officers, duly capturing and geo-tagging photographs of five components, namely — Carriageway,
+Shoulder and Embankment, Cross Drainage including Culverts and Bridges, Road Signage, and
+Vegetation. Based on the captured field data, quarterly inspection and payment are generated using
+weightage percentage reduction for every component of the scoring matrix. Accordingly. quarterly
+allotment is generated online through the MIS web service. Apart from Anurakshan App, the Rural
+Works Department has also developed the Bihar Rural Road Routine Maintenance System
+266

@@ -1,0 +1,62 @@
+32256	1035-Nawada/Appendix_I_1035.xls
+27648	1035-Nawada/Appendix_IA_1035.xls
+27648	1035-Nawada/Appendix_IB_1035.xls
+27648	1035-Nawada/Appendix_IC_1035.xls
+35840	1035-Nawada/Appendix_II_1035.xls
+27136	1035-Nawada/Appendix_V_1035.xls
+1628160	1035-Nawada/Appendix_VD_1035.xls
+27136	1035-Nawada/Appendix_VI_1035.xls
+123904	1035-Nawada/Appendix_VIIA_1035.xls
+123904	1035-Nawada/Appendix_VIIB_1035.xls
+22528	1035-Nawada/T01_1035.xls
+33280	1035-Nawada/T02_1035.xls
+18944	1035-Nawada/T03_1035.xls
+19968	1035-Nawada/T04_1035.xls
+29184	1035-Nawada/T05_1035.xls
+28672	1035-Nawada/T06_1035.xls
+28672	1035-Nawada/T07_1035.xls
+28160	1035-Nawada/T08_1035.xls
+32768	1035-Nawada/T09_1035.xls
+29696	1035-Nawada/T10_1035.xls
+37376	1035-Nawada/T11_1035.xls
+28672	1035-Nawada/T12_1035.xls
+33280	1035-Nawada/T13_1035.xls
+27136	1035-Nawada/T14_1035.xls
+26112	1035-Nawada/T15_1035.xls
+32256	1035-Nawada/T16_1035.xls
+26112	1035-Nawada/T17_1035.xls
+26624	1035-Nawada/T18_1035.xls
+25600	1035-Nawada/T19_1035.xls
+32768	1035-Nawada/T20_1035.xls
+28672	1035-Nawada/T21_1035.xls
+18944	1035-Nawada/T22_1035.xls
+27648	1035-Nawada/T23_1035.xls
+28672	1035-Nawada/T24_1035.xls
+26624	1035-Nawada/T25_1035.xls
+27136	1035-Nawada/T26_1035.xls
+28672	1035-Nawada/T27_1035.xls
+26624	1035-Nawada/T28_1035.xls
+27136	1035-Nawada/T29_1035.xls
+32768	1035-Nawada/T30_1035.xls
+32768	1035-Nawada/T31_1035.xls
+29184	1035-Nawada/T32_1035.xls
+33792	1035-Nawada/T33_1035.xls
+33280	1035-Nawada/T34_1035.xls
+29696	1035-Nawada/T35_1035.xls
+41472	1035-Nawada/T36_1035.xls
+39424	1035-Nawada/T37_1035.xls
+33792	1035-Nawada/T38_1035.xls
+37376	1035-Nawada/T39_1035.xls
+37888	1035-Nawada/T40_1035.xls
+19968	1035-Nawada/T41_1035.xls
+35840	1035-Nawada/T42_1035.xls
+37376	1035-Nawada/T43_1035.xls
+25600	1035-Nawada/T44_1035.xls
+17920	1035-Nawada/T45_1035.xls
+31232	1035-Nawada/Town Statement-I_1035.xls
+40448	1035-Nawada/Town Statement-II_1035.xls
+43008	1035-Nawada/Town Statement-III_1035.xls
+39936	1035-Nawada/Town Statement-IV_1035.xls
+39424	1035-Nawada/Town Statement-V_1035.xls
+29696	1035-Nawada/Town Statement-VI_1035.xls
+29696	1035-Nawada/Town Statement-VII_1035.xls

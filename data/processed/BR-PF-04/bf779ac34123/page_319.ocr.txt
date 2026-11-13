@@ -1,0 +1,42 @@
+bail orders, and records of proceedings from the Supreme Court are transmitted to the jail
+administration for compliance and due execution. All prisons of Bihar are taking timely action on
+the Supreme Court's directions received via JCN e-mail ID through the FASTER System.
+
+e-Sakshya Platform
+
+The e-Sakshya platform is suite of e-Sakshya mobile application for recording of process,
+Sakshya locker for storage and bundle of APIs for authentication and data exchange. e-Sakshya
+mobile App is intended to record the process for three purposes:
+
+(i) Scene of Crime Videography — Bharatiya Nagarik Suraksha Sanhita 173;
+(ii) Search and Seizure Videography — Bharatiya Nagarik Suraksha Sanhita 105; and,
+(iii) Search by Police Officer Videography Bharatiya Nagarik Suraksha Sanhita 185.
+
+e-challan : Violation of traffic rules is captured by camera and after entry of vehicle number or
+Driving Licence, e-challan is issued after selection of offence. These cameras capture photographs
+and videos of traffic violations and are linked to the Vahan and Sarathi Portal of the National
+Informatics Centre (NIC). Hand-held Devices (HHD) have been given to the police personnel to
+issue e-challan against traffic violations in real time. With the help of hand-held devices, the traffic
+police collect fines from violators in real time through debit cards, credit cards, and UPI. It
+introduces transparency in issuing challan on the spot and facilitates online payments. A sum of
+Rs. 120 crore has been collected through e-challans to 19 lakh traffic violators till September,
+2024.
+
+iRAD & eDAR:: Integrated Road Accident Database- Electronic Detail Accident Report (iRAD-
+eDAR) project provides an integrated digital platform for all stakeholders and collects real-time
+accident data in the entire country to analyse the causes of crashes and helps in devising safety
+interventions to reduce accidents and fatalities. The State government rolled out this platform in
+Bihar in January 2022 and 32,725 accident cases have been registered so far and 2877 cases
+proceeded to e-DAR, It covers 40 police district administrations, 1237 police stations, and 3084
+field office users. It integrates all the divisions and subdivisions of road agencies right from NH to
+Village Road. Also, 38 District Transport Offices and more than 76 MVIs are registered in the
+system for motor vehicle inspection, More than 146 hospitals and 2975 patients are registered in
+iRAD. A total of 14,394 training sessions have been organized throughout the state for 39,560
+participants.
+
+e-Detection : The Bihar Transport Department has rolled out an e-Detection system in all 32 toll
+plazas of Bihar. The toll gates of NHAI have been integrated with the portal. The objective is to
+keep a check on vehicles plying without valid documents. The system, based on Fastag, identifies
+the vehicles plying without Insurance Certificate, PUC. Fitness and Tax whenever they drive
+
+262

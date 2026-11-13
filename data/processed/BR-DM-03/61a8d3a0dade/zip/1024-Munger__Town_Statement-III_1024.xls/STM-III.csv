@@ -1,0 +1,34 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Munger (M Corp.),197,OD,,,,12200,3825,418,3262,"TU,",OHT(11356),Yes,12307,1135,1364,78,332
+2,Paria (CT),7,OD,,,,100,5,18,10,"HP,UW",(),"No,MUNGER(17)",500,0,87,12,118
+3,Jamalpur (Nagar Parishad),65,,,BD,,226,70,426,6047,"CW,UW",(),"No,MUNGER(8)",6563,172,912,72,278
+4,Kharagpur (NP),50,OD,,,,0,500,93,0,"CW,TW",(),"No,MUNGER(36)",6000,100,550,200,50
+5,Asarganj (CT),4,,,BD,,0,1080,0,0,"CW,UW",(),"No,MUNGER(50)",3501,14,14,0,0
+6,Gazipur (CT),4,,,BD,,0,1500,27,500,"TW/B,UW",OHT(65),"No,TARAPUR(1)",450,0,0,0,0
+7,Tarapur (CT),4,,,BD,,0,1390,0,450,"TW/B,UW",(),Yes,856,27,144,0,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

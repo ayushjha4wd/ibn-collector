@@ -1,0 +1,10 @@
+STATEMENT - VII,,,,,,,,,,,,,,,,,,,
+"Civic and other amenities in Slums, 2009",,,,,,,,,,,,,,,,,,,
+Sr.No.,Class and name of town,Name of the slum,Is it notified,No. of households (approximate),Population of the Slum (approximate),Paved roads (in kms.),System of drainage,,,,Number of latrines,,,,Community,No. of tap points/ public hydrants installed for supply of protected water ,Electricity (Number of connections),,
+,,,,,,,Open ,Closed,Both (Open & Closed),Nil,Private,,,,,,Domestic,Road lighting (points),Others
+,,,,,,,,,,,Pit System,Flush/ Pour Flush (Water borne),Service,Others,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+1,"IV,Hathua (CT)",HATHUA,No,95,686,2,,,,Nil,75,10,0,19,0,1,45,0,0
+2,"III,Mirganj (NP)",Ward No Fifteen,No,200,1850,1,,,BD,,0,0,0,100,1,20,102,32,0
+3,"III,Mirganj (NP)",Ward No. Five,No,200,1850,2,,,BD,,0,20,0,0,0,7,100,32,0
+4,"III,Mirganj (NP)",Ward No two,No,200,1500,1,,,BD,,0,0,0,100,1,7,180,32,0

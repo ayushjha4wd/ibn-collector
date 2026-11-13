@@ -1,0 +1,33 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Shahpur (NP),4,OD,,,,0,22001,8,0,"R/C,",OHT(454),"No,ARRAH(35)",965,0,0,0,0
+2,Arrah (M Corp.),104,,,BD,,124,30081,198,0,"TU,UW",OHT(5000),Yes,21876,37,3142,926,433
+3,Koilwar (NP),19,,,BD,,0,533,1,0,"TW/B,BWT",OHT(110),"No,ARRAH(16)",1225,15,198,1,2
+4,Behea (NP),21,OD,,,,0,1000,4,0,"TU,",(),"No,BEHEA(25)",1000,10,15,25,0
+5,Jagdishpur (NP),10,OD,,,,0,1650,41,0,"TU,",(),"No,ARRAH(33)",2352,0,8,5,0
+6,Piro (NP),10,OD,,,,0,634,0,0,"TW/B,BWT",OHT(90),"No,ARRAH(42)",750,25,187,1,2
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

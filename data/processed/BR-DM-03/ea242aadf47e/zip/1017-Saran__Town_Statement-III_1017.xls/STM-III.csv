@@ -1,0 +1,33 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Revelganj (NP),22,OD,,,,0,680,38,5,"OHT,R/C",TT(220),"No,CHHAPRA(16)",980,0,110,85,6
+2,Chapra (Nagar Parishad),128,,,BD,,0,10356,104,33,"TW/B,",OHT(7000),Yes,17089,95,2541,968,0
+3,Sanrha (CT),7,,,BD,,0,1200,2,0,"OHT,",(),"No,CHAPRA(2)",1750,13,15,14,0
+4,Marhaura (NP),21,,,BD,,0,1500,2,0,"OHT,R/C",(),"No,CHHAPRA(26)",1040,9,152,55,6
+5,Dighwara (NP),28,,,BD,,0,1700,25,0,"OHT,R/C",(),"No,CHHAPRA(30)",9000,1,200,24,0
+6,Sonepur (NP),48,,,BD,,0,2240,50,78,"TU,HP",OHT(324),"No,HAJIPUR(4)",5430,0,85,88,45
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

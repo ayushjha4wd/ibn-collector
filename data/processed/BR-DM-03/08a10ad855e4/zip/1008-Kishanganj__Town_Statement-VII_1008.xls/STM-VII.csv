@@ -1,0 +1,38 @@
+STATEMENT - VII,,,,,,,,,,,,,,,,,,,
+"Civic and other amenities in Slums, 2009",,,,,,,,,,,,,,,,,,,
+Sr.No.,Class and name of town,Name of the slum,Is it notified,No. of households (approximate),Population of the Slum (approximate),Paved roads (in kms.),System of drainage,,,,Number of latrines,,,,Community,No. of tap points/ public hydrants installed for supply of protected water ,Electricity (Number of connections),,
+,,,,,,,Open ,Closed,Both (Open & Closed),Nil,Private,,,,,,Domestic,Road lighting (points),Others
+,,,,,,,,,,,Pit System,Flush/ Pour Flush (Water borne),Service,Others,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+1,"IV,Thakurganj (NP)",FARA WARI,No,120,960,3,,,,Nil,0,50,0,0,0,0,105,0,0
+2,"IV,Thakurganj (NP)",GANDHI NAGAR,No,143,755,2,OD,,,,0,0,0,0,0,0,103,0,0
+3,"IV,Thakurganj (NP)",BHAT DHALA,No,199,861,1,OD,,,,0,30,0,0,0,0,170,0,1
+4,"IV,Thakurganj (NP)",Shakhtala Gandhinagar Pharobari,No,145,920,2.8,,,BD,,0,14,0,50,1,0,102,1,0
+5,"IV,Thakurganj (NP)",KHELRA PATTI,No,165,906,3,,CD,,,0,10,0,0,0,0,135,0,0
+6,"III,Bahadurganj (NP)",Begi,No,656,3145,1.4,,,BD,,75,0,0,0,0,0,25,0,0
+7,"II,Kishanganj (Nagar Parishad)",Lahra Phulwari Ward No Two,No,80,400,5,,,,Nil,0,4,15,0,0,0,15,2,0
+8,"II,Kishanganj (Nagar Parishad)",Ward No Tweleve,No,100,500,5,,,,Nil,0,40,0,0,0,0,20,4,0
+9,"II,Kishanganj (Nagar Parishad)",Ward No nine,No,200,1200,1,,,,Nil,0,50,0,0,0,0,40,4,0
+10,"II,Kishanganj (Nagar Parishad)",Nepalgarh,No,300,1700,2,,,,Nil,0,15,0,0,0,0,250,25,0
+11,"II,Kishanganj (Nagar Parishad)",Tanti Basti Ward No Six,No,250,1500,5,,,,Nil,0,15,0,0,0,0,150,6,0
+12,"II,Kishanganj (Nagar Parishad)",Madhav Nagar Ward Five,No,225,1100,5,,,,Nil,4,0,25,0,0,0,150,2,0
+13,"II,Kishanganj (Nagar Parishad)",Chauchan Toli,No,200,1100,5,,,,Nil,0,15,0,0,0,0,100,5,0
+14,"II,Kishanganj (Nagar Parishad)",Kalam Muni Ward No Eighteen,No,100,500,5,,,,Nil,0,50,0,0,1,0,25,5,0
+15,"II,Kishanganj (Nagar Parishad)",Kajlamani  Paswan Toli Ward No. Two,No,125,750,0.5,,,,Nil,0,40,0,0,0,0,40,5,0
+16,"II,Kishanganj (Nagar Parishad)",Ward One Uttarpali,No,70,350,5,,,,Nil,0,50,0,0,0,0,50,3,0
+17,"II,Kishanganj (Nagar Parishad)",Ward One Motiuddin pur Pathar Bsti,No,150,900,1,,,,Nil,0,20,0,0,0,50,5,5,0
+18,"II,Kishanganj (Nagar Parishad)",Nawav Ganj,No,150,900,5,,,,Nil,0,10,0,0,0,0,100,5,0
+19,"II,Kishanganj (Nagar Parishad)",Gandhinagar Ward No fourteen,No,125,600,5,,,,Nil,0,20,0,0,0,0,25,5,0
+20,"II,Kishanganj (Nagar Parishad)",Garivan Mohall Ward No Sixteen,No,100,500,5,OD,,,,0,75,0,0,1,0,75,3,0
+21,"II,Kishanganj (Nagar Parishad)",Halim Chowk Ward No Nineteen,No,200,800,5,,,,Nil,0,50,0,0,0,0,50,5,0
+22,"II,Kishanganj (Nagar Parishad)",Khagra Chaprasi Tola Ward No. Twenty Two,No,100,500,5,,,,Nil,0,30,0,0,0,0,20,5,0
+23,"II,Kishanganj (Nagar Parishad)",Matya Basti Ward No Twent Three,No,60,300,1,,,,Nil,0,20,0,0,0,0,4,20,0
+24,"II,Kishanganj (Nagar Parishad)",Malath basti Ward No. Twenty Four,No,100,500,5,,,,Nil,0,5,0,0,0,0,10,2,0
+25,"II,Kishanganj (Nagar Parishad)",Naya Basti Ward No Twenty eight,No,90,450,1,,,,Nil,0,20,0,0,0,0,10,2,0
+26,"II,Kishanganj (Nagar Parishad)",PAswan Tola Ward No Twenty NINE,No,100,500,1,,,,Nil,0,10,0,0,1,0,20,4,0
+27,"II,Kishanganj (Nagar Parishad)",Pothina Theka Ward No Thirty One,No,200,1100,5,,,,Nil,0,50,0,0,0,0,50,5,0
+28,"II,Kishanganj (Nagar Parishad)",Paswan Tola Khagra Ward No Thirty Two,No,100,450,5,,,,Nil,0,20,0,0,0,0,40,5,0
+29,"II,Kishanganj (Nagar Parishad)",MachhMara Fakir Tola Khagra WArd No Thirty three,No,100,500,5,,,,Nil,0,10,0,0,0,0,20,4,0
+30,"II,Kishanganj (Nagar Parishad)",juljali Paswan Tola Ward No Thirty three,No,100,500,5,,,,Nil,0,20,0,0,0,0,40,5,0
+31,"II,Kishanganj (Nagar Parishad)",Mushahar Basti Ward No thirty,No,150,750,5,,,,Nil,0,40,0,0,0,0,20,4,0
+32,"II,Kishanganj (Nagar Parishad)",Kagjiya Mohalla,No,250,1500,1,OD,,,,0,15,0,0,2,0,125,5,0

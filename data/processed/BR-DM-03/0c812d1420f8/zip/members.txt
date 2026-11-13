@@ -1,0 +1,62 @@
+33792	1004-Sitamarhi/Appendix_I_1004.xls
+27648	1004-Sitamarhi/Appendix_IA_1004.xls
+27648	1004-Sitamarhi/Appendix_IB_1004.xls
+28160	1004-Sitamarhi/Appendix_IC_1004.xls
+62976	1004-Sitamarhi/Appendix_II_1004.xls
+27648	1004-Sitamarhi/Appendix_V_1004.xls
+1352704	1004-Sitamarhi/Appendix_VD_1004.xls
+27648	1004-Sitamarhi/Appendix_VI_1004.xls
+115712	1004-Sitamarhi/Appendix_VIIA_1004.xls
+115712	1004-Sitamarhi/Appendix_VIIB_1004.xls
+22528	1004-Sitamarhi/T01_1004.xls
+34816	1004-Sitamarhi/T02_1004.xls
+18944	1004-Sitamarhi/T03_1004.xls
+19968	1004-Sitamarhi/T04_1004.xls
+29184	1004-Sitamarhi/T05_1004.xls
+29184	1004-Sitamarhi/T06_1004.xls
+28672	1004-Sitamarhi/T07_1004.xls
+28160	1004-Sitamarhi/T08_1004.xls
+33792	1004-Sitamarhi/T09_1004.xls
+29696	1004-Sitamarhi/T10_1004.xls
+37376	1004-Sitamarhi/T11_1004.xls
+29184	1004-Sitamarhi/T12_1004.xls
+34304	1004-Sitamarhi/T13_1004.xls
+27648	1004-Sitamarhi/T14_1004.xls
+26112	1004-Sitamarhi/T15_1004.xls
+32256	1004-Sitamarhi/T16_1004.xls
+26624	1004-Sitamarhi/T17_1004.xls
+26624	1004-Sitamarhi/T18_1004.xls
+26112	1004-Sitamarhi/T19_1004.xls
+34304	1004-Sitamarhi/T20_1004.xls
+29184	1004-Sitamarhi/T21_1004.xls
+18944	1004-Sitamarhi/T22_1004.xls
+27648	1004-Sitamarhi/T23_1004.xls
+29184	1004-Sitamarhi/T24_1004.xls
+26624	1004-Sitamarhi/T25_1004.xls
+27648	1004-Sitamarhi/T26_1004.xls
+29184	1004-Sitamarhi/T27_1004.xls
+26624	1004-Sitamarhi/T28_1004.xls
+27136	1004-Sitamarhi/T29_1004.xls
+33792	1004-Sitamarhi/T30_1004.xls
+33792	1004-Sitamarhi/T31_1004.xls
+30208	1004-Sitamarhi/T32_1004.xls
+34816	1004-Sitamarhi/T33_1004.xls
+34816	1004-Sitamarhi/T34_1004.xls
+31232	1004-Sitamarhi/T35_1004.xls
+42496	1004-Sitamarhi/T36_1004.xls
+40448	1004-Sitamarhi/T37_1004.xls
+33792	1004-Sitamarhi/T38_1004.xls
+37376	1004-Sitamarhi/T39_1004.xls
+37888	1004-Sitamarhi/T40_1004.xls
+19968	1004-Sitamarhi/T41_1004.xls
+36352	1004-Sitamarhi/T42_1004.xls
+37888	1004-Sitamarhi/T43_1004.xls
+25600	1004-Sitamarhi/T44_1004.xls
+17920	1004-Sitamarhi/T45_1004.xls
+32768	1004-Sitamarhi/Town Statement-I_1004.xls
+40960	1004-Sitamarhi/Town Statement-II_1004.xls
+44032	1004-Sitamarhi/Town Statement-III_1004.xls
+40960	1004-Sitamarhi/Town Statement-IV_1004.xls
+40448	1004-Sitamarhi/Town Statement-V_1004.xls
+30208	1004-Sitamarhi/Town Statement-VI_1004.xls
+33792	1004-Sitamarhi/Town Statement-VII_1004.xls

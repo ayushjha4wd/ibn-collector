@@ -1,0 +1,35 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Ramnagar (NP),34,OD,,,,500,2200,23,0,"TW/B,HP",OHT(100),"No,BETTIAH(50)",2990,8,350,1,0
+2,Narkatiaganj (Nagar Parishad),46,OD,,,,1020,1,3,6,"TW/B,",BWP(35),"No,BETTIAH(40)",3300,6,15,97,57
+3,Bagaha (Nagar Parishad),97,,,BD,,0,2507,44,0,"TW/B,HP",OHT(980),Yes,3200,14,200,220,0
+4,Chanpatia (NP),28,OD,,,,0,3660,68,0,"TW/B,",BWP(),"No,BETTIAH(19)",1050,1,45,440,5
+5,Bettiah (Nagar Parishad),100,,,BD,,1000,8000,69,0,"TW/B,HP",OHT(980),Yes,19500,60,600,55,0
+6,Tola Mansaraut (CT),17,OD,,,,0,152,0,0,"HP,",(),"No,BETTIAH(3)",266,4,0,0,0
+7,Kargahia Purab (CT),50,OD,,,,0,205,0,0,"HP,",(),"No,BETTIAH(5)",414,0,0,0,0
+8,Hat Saraiya (CT),5,OD,,,,300,300,0,0,"HP,",(),"No,BETTIAH(3)",226,0,5,1,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

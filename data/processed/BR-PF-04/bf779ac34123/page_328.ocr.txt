@@ -1,0 +1,48 @@
+an application. The environmental monitoring reports are also uploaded on the Board’s website.
+The ambient air quality is monitored through 35 Continuous Ambient Air Quality Monitoring
+System (CAAQMS) in the state and linked with CPCB/BSPCB servers. The related data are
+disseminated in public domain through CPCB/BSPCB servers as well as a mobile App called
+Sameer,
+
+E-governance in Road Transport Sector : The Transport Department has adopted digital
+governance to overcome the problem of coordination in regional offices and headquarters. The
+major initiatives of the Department include — (i) M-Parivahan, (1) Digi-Locker, (iii) Vahan, (iv)
+Sarathi, (v) OGRAS, (vi) Online Permit Services, (vii) Online License Services (Pollution Centre,
+Fitness Centre, Petro] Pumps & Motor Driving Training Institute), and (viii) E-Challan system.
+
+Table 7.3 : Achievement of Transport Sector in Bihar through E-Governance
+
+Servi Process Time Process Time at
+Key Services ५
+Earlier present
+
+Issuance of Driving License 30-60 Days 5-10 Days
+Registration of vehicles 30-90 Days 1-3 Days
+Issue of permits | month-! year 1-30 Days
+Collection of tax 1-7 Days Online
+Challan for Traffic Violations ?
+& Deposits 7-30 Days Online
+Delivery of RC/DL Card 7 days-3 Months — =
+
+Source: Transport Department, GoB
+
+Ontine Platform for Cultural Programmes in Bihar ; An innovative online platform has been
+launched by the Department of Art, Culture, and Youth, Bihar, to organize cultural programs,
+workshops, seminars, and events. It is designed to connect multiple stakeholders and artists, this
+platform serves as a unified hub for the state's three premier cultural academies namely ; Bhartiya
+Nritya Kala Mandir, Bihar Lalit Kala Academy, and Bihar Sangeet Natak Academy for fostering
+greater accessibility, collaboration, and cultural enrichment across Bihar.
+
+7.4 Enabling Fiscal Governance
+
+Economic development is highly dependent on efficient financial management. The
+Comprehensive Financial Management System (CFMS) needs a sound public finance
+management and technological innovations play a significant role in achieving the same. Keeping
+this in mind, the State government works with a robust Public Finance Management System
+(PFMS), right from the stage of budget planning to that of execution.
+
+Comprehensive Financial Management System (CFMS): CFMS has been rolled out to
+strengthen public finance management of the state, digitalize such operations, encourage electronic
+transactions, and thus ensure that there is just a single source of truth. The system makes a
+
+271

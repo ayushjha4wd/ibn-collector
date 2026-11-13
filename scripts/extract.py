@@ -34,6 +34,27 @@ EXTRACTOR_VERSION = "extract/0.3"
 SUPPORTED = {"pdf", "xlsx", "xls", "csv", "html", "zip"}
 
 
+def _tolerate_xls_defined_names() -> None:
+    """Let xlrd open .xls files whose *defined names* (named ranges) it can't evaluate.
+
+    Some Census 2011 District Census Handbook tables (T42, T43) carry a named-range formula
+    that makes xlrd stop with an AssertionError before it reads any cells. Named ranges hold
+    no data, so skipping them is safe; the cells are read normally.
+    """
+    import xlrd.book
+    if getattr(xlrd.book.Book.names_epilogue, "_ibn_tolerant", False):
+        return
+    original = xlrd.book.Book.names_epilogue
+
+    def names_epilogue(self):
+        try:
+            original(self)
+        except AssertionError:
+            pass
+    names_epilogue._ibn_tolerant = True
+    xlrd.book.Book.names_epilogue = names_epilogue
+
+
 class NotExtracted(Exception):
     """The file is fine but this extractor can't turn it into tables or text."""
 
@@ -79,6 +100,8 @@ def extract_pdf(src: Path, out: Path) -> list[str]:
 
 def extract_excel(src: Path, out: Path, engine: str | None) -> list[str]:
     import pandas as pd
+    if engine is None:
+        _tolerate_xls_defined_names()
     files = []
     (out / "sheets").mkdir(parents=True, exist_ok=True)
     sheets = pd.read_excel(src, sheet_name=None, header=None, dtype=str, engine=engine)
@@ -94,6 +117,7 @@ def extract_zip(src: Path, out: Path) -> list[str]:
     import io
     import zipfile
     import pandas as pd
+    _tolerate_xls_defined_names()
     files = []
     base = out / "zip"
     base.mkdir(parents=True, exist_ok=True)
@@ -173,6 +197,8 @@ def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--only", nargs="*", help="source_ids to extract (default: all)")
     ap.add_argument("--force", action="store_true", help="re-extract even if already done (new folder version)")
+    ap.add_argument("--retry-partial", action="store_true",
+                    help="re-extract zips with members marked NOT READ in zip/members.txt, into the same folder")
     args = ap.parse_args(argv)
 
     log = read_jsonl(EXTRACTIONS)
@@ -190,7 +216,10 @@ def main(argv=None):
     counts: dict[str, int] = {}
     for rec in saved:
         src = ROOT / rec["stored_path"]
-        if not args.force and (rec["sha256"] in done or (
+        members = PROCESSED / rec["source_id"] / rec["sha256"][:12] / "zip" / "members.txt"
+        retry = (args.retry_partial and rec["sha256"] in done and members.exists()
+                 and "NOT READ" in members.read_text(encoding="utf-8"))
+        if not args.force and not retry and (rec["sha256"] in done or (
                 rec["sha256"] in unsupported_before and src.exists()
                 and kind_of(src, (rec.get("headers") or {}).get("content-type", "")) not in SUPPORTED)):
             counts["already_done"] = counts.get("already_done", 0) + 1

@@ -1,0 +1,41 @@
+GIS mapping to track real-time events and resources across regions and helps manage disaster
+responses. DSS allows responders to submit reports digitally, reducing paperwork. Overall, DSS
+improves response times and coordination for effective disaster management.
+
+WRD Scheme Implementation and Monitoring System (WSIMS) : WRD Scheme
+Implementation and Monitoring System (WSIMS) is designed and developed for monitoring of
+physical and financial progress of the ongoing schemes of the Department, The activities involved
+in planning, approval, tendering, job award, work agreement, physical progress and financial
+progress of schemes have been taken care of by this software. Modules developed in WSIMS are
+Administrative Approval & Technical Sanction, BOQ Sanction, and contractor details, Tender
+Details, Work Agreement, Fund Allotment, Physical Progress Entry, Financial Progress Entry,
+Physical Progress Report and Financial Progress Report, Reports can be generated date wise and
+month wise for the ongoing schemes.
+
+Physical Modelling Centre (PMC) at Birpur : With the help of the World Bank-assisted Bihar
+Kosi Basin Development Project (BK BDP), the government is setting up a Physical Modelling
+Centre (PMC) at Birpur (Supaul) as ‘Centre of Excellence’ (CoE) for Research and Development
+under the Water Resources Department, The major objectives of the PMC are: (i) to study hydraulic
+properties of rivers, (ii) to study hydraulic structure & its effect, (iii) to study morphological
+behaviour of rivers, river meandering & channel activation, (iv) to support in designing appropriate
+projects for flood protection & anti-erosion works, and (v) to study other complex behaviour of
+rivers. The various components of functioning of the PMC are Administrative Building, Workshop
+and Laboratory, Water Circulatory System, Kosi River Model, Kosi Barrage Model, Four Model
+Trays and Store Room.
+
+Real-Time Data Acquisition System (RTDAS) : The goal of the real-time hydro-met system in
+Bihar is to manage flood control measures in the region in a better way, which can protect the local
+population and agricultural interest along the river systems. The system also aims to support
+irrigation schemes in Bihar. To get real-time data, RTDAS has been established to get the Hyrdo-
+met data through real-time communication system under the World Bank-funded Bihar Kosi Basin
+Development Project (BKBDP) and the World Bank-assisted Central Sector Scheme- National
+Hydrology Project (NHP),
+
+Bihar Embankment Asset Management System (BEAMS) : BEAMS is a GIS-based web portal,
+under which a master module is developed by populating the embankment and its important assets
+(Bridge, Anti-flood Sluice Gates, etc). Hydro-meteorological data under the Gandak basin, which
+has the important data of all river basins in Bihar, will be populated in future and an integrated
+Embankment Asset Management System for all river basins in Bihar will be developed, The main
+objective of BEAMS is to help the Department with maintenance and monitoring of flood
+management and flood-fighting activities of the embankments and their assets. It consists of 13
+279

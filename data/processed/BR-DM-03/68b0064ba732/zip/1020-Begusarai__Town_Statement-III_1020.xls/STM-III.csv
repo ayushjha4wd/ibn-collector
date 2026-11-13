@@ -1,0 +1,37 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Mansur Chak (CT),5,OD,,,,150,10,2,60,"HP,",(),"No,TEGHRA(20)",50,0,0,20,0
+2,Barauni (Nagar Parishad),25,,CD,,,110,221,9,115,"OHT,UW",(),Yes,7500,20,254,150,0
+3,Teghra (NP),13,OD,,,,105,211,0,101,"OHT,UW",(),Yes,3500,0,150,58,0
+4,Bihat (Nagar Parishad),14,,,BD,,450,250,44,0,"OHT,UW",(),Yes,4000,8,150,50,100
+5,Malhipur (CT),12,,,BD,,0,415,973,0,"OHT,HP",(),"No,BEGUSARAI(10)",500,0,23,30,225
+6,Nurpur (CT),13,OD,,,,50,23,9,0,"OHT,HP",(),"No,BEGUSARAI(12)",250,0,10,15,174
+7,Begusarai (M Corp.) ,49,,,BD,,0,50,188,0,"OHT,UW",(),Yes,9104,42,1829,7,0
+8,Laruara (CT),6,OD,,,,164,13,39,56,"HP,",(),"No,BEGUSARAI(5)",100,0,0,0,0
+9,Bakhri (NP),7,,,BD,,0,0,73,0,"TU,HP",PT(),"No,BEGUSARAI(16)",450,0,0,0,0
+10,Balia (NP),27,,,BD,,215,1115,17,0,"TU,HP",PT(30),"No,BEGUSARAI(20)",3660,0,100,138,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

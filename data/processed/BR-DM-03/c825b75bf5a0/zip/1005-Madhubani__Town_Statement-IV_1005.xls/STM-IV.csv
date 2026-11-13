@@ -1,0 +1,14 @@
+STATEMENT - IV,,,,,,,,,,,,,
+"Medical Facilities, 2009",,,,,,,,,,,,,
+Sr.No.,Name of Town,No. of Medical facilities* (with number of beds in brackets),,,,,,,,,,Charitable Hospital/Nursing Home  (Numbers),Medicine Shop (Numbers)
+,,Hospitals  (Allopathic & Others),Dispensaries / Health Center,Family Welfare Center,Maternity and Child Welfare Center,Maternity Homes,T.B.Hospital/ Clinic,Nursing Homes,Veterinary Hospital ,Mobile Health Clinic,Others etc.,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+1,Jainagar (NP),32 Kms.,1(16),1(0),1(0),1(12),1(0),32 Kms.,1(0),70 Kms.,N.A.,0,105
+2,Madhubani (Nagar Parishad),1(175),1 Kms.,1(0),1(0),1(0),1(25),4(40),1(0),65 Kms.,N.A.,0,28
+3,Madhubani (CT),1 Kms.,1 Kms.,1 Kms.,1(0),1(0),1(0),6 Kms.,1 Kms.,65 Kms.,N.A.,1,3
+4,Satghara (CT),9 Kms.,9 Kms.,1(0),9 Kms.,9 Kms.,9 Kms.,9 Kms.,9 Kms.,65 Kms.,N.A.,0,1
+5,Jhanjharpur (NP),1(50),11 Kms.,1(0),1(0),1(2),1(0),10 Kms.,1(0),70 Kms.,N.A.,2,7
+6,Ghoghardiha (NP),70 Kms.,1(6),1(20),1(0),1(4),2(0),70 Kms.,1(0),75 Kms.,N.A.,1,5
+,,,,,,,,,,,,,
+"*If a medical facility is not available in the town,nearest place distance from the town where facility is available has been given",,,,,,,,,,,,,
+*N.A.:Not Available,,,,,,,,,,,,,

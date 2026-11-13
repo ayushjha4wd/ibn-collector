@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/PCA_CDB-1019-F-Census.xlsx",
+  "raw_sha256": "ccb23377904961822f4f6e7088d8618c68b3e99b2e4c546c3b07b22eb4f66745",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/40900/download/44531",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:41:20+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/ccb233779049/sheets/EB-1019.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

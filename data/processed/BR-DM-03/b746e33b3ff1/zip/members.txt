@@ -1,0 +1,60 @@
+33280	1022-Bhagalpur/Appendix_I_1022.xls
+27648	1022-Bhagalpur/Appendix_IA_1022.xls
+27648	1022-Bhagalpur/Appendix_IB_1022.xls
+27648	1022-Bhagalpur/Appendix_IC_1022.xls
+43008	1022-Bhagalpur/Appendix_II_1022.xls
+27136	1022-Bhagalpur/Appendix_V_1022.xls
+1832960	1022-Bhagalpur/Appendix_VD_1022.xls
+27136	1022-Bhagalpur/Appendix_VI_1022.xls
+125952	1022-Bhagalpur/Appendix_VIIA_1022.xls
+125952	1022-Bhagalpur/Appendix_VIIB_1022.xls
+23040	1022-Bhagalpur/T01_1022.xls
+34304	1022-Bhagalpur/T02_1022.xls
+19456	1022-Bhagalpur/T03_1022.xls
+20480	1022-Bhagalpur/T04_1022.xls
+29184	1022-Bhagalpur/T05_1022.xls
+28672	1022-Bhagalpur/T06_1022.xls
+28672	1022-Bhagalpur/T07_1022.xls
+28672	1022-Bhagalpur/T08_1022.xls
+33280	1022-Bhagalpur/T09_1022.xls
+29696	1022-Bhagalpur/T10_1022.xls
+37376	1022-Bhagalpur/T11_1022.xls
+29696	1022-Bhagalpur/T12_1022.xls
+33792	1022-Bhagalpur/T13_1022.xls
+27648	1022-Bhagalpur/T14_1022.xls
+26112	1022-Bhagalpur/T15_1022.xls
+32256	1022-Bhagalpur/T16_1022.xls
+26624	1022-Bhagalpur/T17_1022.xls
+26624	1022-Bhagalpur/T18_1022.xls
+26112	1022-Bhagalpur/T19_1022.xls
+33792	1022-Bhagalpur/T20_1022.xls
+28672	1022-Bhagalpur/T21_1022.xls
+18944	1022-Bhagalpur/T22_1022.xls
+28160	1022-Bhagalpur/T23_1022.xls
+28672	1022-Bhagalpur/T24_1022.xls
+26624	1022-Bhagalpur/T25_1022.xls
+27648	1022-Bhagalpur/T26_1022.xls
+29184	1022-Bhagalpur/T27_1022.xls
+26624	1022-Bhagalpur/T28_1022.xls
+27648	1022-Bhagalpur/T29_1022.xls
+33792	1022-Bhagalpur/T30_1022.xls
+33280	1022-Bhagalpur/T31_1022.xls
+31232	1022-Bhagalpur/T32_1022.xls
+34816	1022-Bhagalpur/T33_1022.xls
+34304	1022-Bhagalpur/T34_1022.xls
+32256	1022-Bhagalpur/T35_1022.xls
+41984	1022-Bhagalpur/T36_1022.xls
+39936	1022-Bhagalpur/T37_1022.xls
+33792	1022-Bhagalpur/T38_1022.xls
+37376	1022-Bhagalpur/T39_1022.xls
+37888	1022-Bhagalpur/T40_1022.xls
+19968	1022-Bhagalpur/T41_1022.xls
+36352	1022-Bhagalpur/T42_1022.xls
+37888	1022-Bhagalpur/T43_1022.xls
+18432	1022-Bhagalpur/T45_1022.xls
+33280	1022-Bhagalpur/Town Statement-I_1022.xls
+41472	1022-Bhagalpur/Town Statement-II_1022.xls
+44032	1022-Bhagalpur/Town Statement-III_1022.xls
+41472	1022-Bhagalpur/Town Statement-IV_1022.xls
+40960	1022-Bhagalpur/Town Statement-V_1022.xls
+30720	1022-Bhagalpur/Town Statement-VI_1022.xls

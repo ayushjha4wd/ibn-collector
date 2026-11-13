@@ -1,0 +1,62 @@
+33280	1018-Vaishali/Appendix_I_1018.xls
+27648	1018-Vaishali/Appendix_IA_1018.xls
+27648	1018-Vaishali/Appendix_IB_1018.xls
+27648	1018-Vaishali/Appendix_IC_1018.xls
+51200	1018-Vaishali/Appendix_II_1018.xls
+27136	1018-Vaishali/Appendix_V_1018.xls
+2387968	1018-Vaishali/Appendix_VD_1018.xls
+27136	1018-Vaishali/Appendix_VI_1018.xls
+173568	1018-Vaishali/Appendix_VIIA_1018.xls
+173568	1018-Vaishali/Appendix_VIIB_1018.xls
+23040	1018-Vaishali/T01_1018.xls
+34304	1018-Vaishali/T02_1018.xls
+18944	1018-Vaishali/T03_1018.xls
+20480	1018-Vaishali/T04_1018.xls
+29184	1018-Vaishali/T05_1018.xls
+28672	1018-Vaishali/T06_1018.xls
+28672	1018-Vaishali/T07_1018.xls
+27648	1018-Vaishali/T08_1018.xls
+33280	1018-Vaishali/T09_1018.xls
+29696	1018-Vaishali/T10_1018.xls
+37376	1018-Vaishali/T11_1018.xls
+28672	1018-Vaishali/T12_1018.xls
+33792	1018-Vaishali/T13_1018.xls
+27648	1018-Vaishali/T14_1018.xls
+26112	1018-Vaishali/T15_1018.xls
+32256	1018-Vaishali/T16_1018.xls
+26112	1018-Vaishali/T17_1018.xls
+26624	1018-Vaishali/T18_1018.xls
+25600	1018-Vaishali/T19_1018.xls
+34304	1018-Vaishali/T20_1018.xls
+29184	1018-Vaishali/T21_1018.xls
+18944	1018-Vaishali/T22_1018.xls
+27136	1018-Vaishali/T23_1018.xls
+28672	1018-Vaishali/T24_1018.xls
+26624	1018-Vaishali/T25_1018.xls
+26624	1018-Vaishali/T26_1018.xls
+29184	1018-Vaishali/T27_1018.xls
+26624	1018-Vaishali/T28_1018.xls
+26624	1018-Vaishali/T29_1018.xls
+33792	1018-Vaishali/T30_1018.xls
+33280	1018-Vaishali/T31_1018.xls
+28672	1018-Vaishali/T32_1018.xls
+34304	1018-Vaishali/T33_1018.xls
+34304	1018-Vaishali/T34_1018.xls
+29184	1018-Vaishali/T35_1018.xls
+41984	1018-Vaishali/T36_1018.xls
+40448	1018-Vaishali/T37_1018.xls
+33792	1018-Vaishali/T38_1018.xls
+37376	1018-Vaishali/T39_1018.xls
+37888	1018-Vaishali/T40_1018.xls
+19968	1018-Vaishali/T41_1018.xls
+35840	1018-Vaishali/T42_1018.xls
+37376	1018-Vaishali/T43_1018.xls
+25600	1018-Vaishali/T44_1018.xls
+17408	1018-Vaishali/T45_1018.xls
+30720	1018-Vaishali/Town Statement-I_1018.xls
+39936	1018-Vaishali/Town Statement-II_1018.xls
+42496	1018-Vaishali/Town Statement-III_1018.xls
+39424	1018-Vaishali/Town Statement-IV_1018.xls
+38400	1018-Vaishali/Town Statement-V_1018.xls
+29184	1018-Vaishali/Town Statement-VI_1018.xls
+27648	1018-Vaishali/Town Statement-VII_1018.xls

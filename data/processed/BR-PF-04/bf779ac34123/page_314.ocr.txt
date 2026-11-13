@@ -1,0 +1,64 @@
+CHAKRA : This application was handed over to STF, Bihar by CID (prohibition) that has been
+operational since January 2023, The important features of the CHAKRA App include powered
+criminal registration and a search platform for Bihar Police. Further, a criminal database prepared
+on the basis of face recognition, gang analysis and such advanced features are used for criminal
+identification, criminal history, speedy arrest, effective crime prevention, detection and control. It
+also assists the police in analysing the connection between different criminals, criminal networks
+and gang analysis. During the last five years, nearly 10 lakh criminals’ data have been uploaded
+to the system.
+
+Cyber Security : A total of 70,057 complaints of financial fraud were registered till November
+2024. After verifying these frauds, 3668 FIRs were lodged, Cyber cells in different district and
+cyber police stations received 15.72 lakh calls regarding cybercrime. A total of 560 cybercriminals
+have been arrested. The Economic and Cyber Crime wing has developed ‘Cyber Prahar’ for raids
+and arrests of cybercriminals.
+
+ERSS (Emergency Response Support System) Dial 112 : In order to provide prompt and
+integrated 24x7 emergency services for public safety in a stipulated time across the state, a
+centralised command centre for ERSS operation has been established to connect with field ERVs
+(Emergency Response Vehicles) and officers from ranks such as SHO, Dy SP, and SP have been
+provisioned for the purpose. Wireless and GPS equipment have been installed across the EVRs,
+Following is the process of E RSS:
+
+Chart 7.2 : ERSS Process
+
+=) ti कि
+
+Feedback initiated at Centralized
+command & control center
+
+Citizen in distress: Citizen
+contact through mobile/
+landline? SMS/ email / SOS -
+
+Gs
+
+Feedback: Ability to
+take feedback trom makes distinction
+the caller between emergency aed
+non-emergency calls and
+—" =
+छः ० *) Call closure: Call taking हे and
+Gener: assessment:
+and an ability to grade GD Call details tec
+attend next call calls and create [77] by call takers
+event
+olf A rn sc oem &
+b A at scene:
+bas = Dis: ४ Ability ६
+गे Tossing yiate dispatch कक |
+वि 1८410/%/ to action ERVs and SHOs Use of computer aided
+Piatatied We ehvs respective * — application
+DCC and concerned SHO. digital map
+
+First point of contact:
+
+MOT; Mobile Data Terminal
+
+SOPs: Well-defined SOPs for each critical step to ensure swift response to emergency
+
+situations
+
+Source ; Department of Home, GoB
+
+257

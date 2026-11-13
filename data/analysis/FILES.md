@@ -18,7 +18,7 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [Bihar_Economic_Survey_2024-25_English.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 57.1 | 638 | – | 638 | 0 | 0 |
+| [Bihar_Economic_Survey_2024-25_English.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 57.1 | 638 | – | 638 | 339 | 1172 |
 | [Bihar_Economic_Survey_2024-25_Hindi.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 53.4 | 634 | – | 634 | 0 | 0 |
 
 ## BR-PF-05: Bihar Finance Accounts Vol I & II - AG (A&E) Bihar
@@ -27,12 +27,12 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [account-report-Finance-Vol-I-2021-22-Bihar-English-14-12-2022-1-06437f697c65e70-62725007.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-I-2021-22-Bihar-English-14-12-2022-1-06437f697c65e70-62725007.pdf) | FY 2021-22 | pdf | 1.1 | 72 | 56 | 11 | 0 | 57 |
-| [account-report-Finance-Vol-II-2021-22-Bihar-English-14-12-2022-06437f6d9889694-56493467.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-II-2021-22-Bihar-English-14-12-2022-06437f6d9889694-56493467.pdf) | FY 2021-22 | pdf | 3.9 | 474 | 463 | 7 | 0 | 1171 |
+| [account-report-Finance-Vol-I-2021-22-Bihar-English-14-12-2022-1-06437f697c65e70-62725007.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-I-2021-22-Bihar-English-14-12-2022-1-06437f697c65e70-62725007.pdf) | FY 2021-22 | pdf | 1.1 | 72 | 56 | 11 | 2 | 59 |
+| [account-report-Finance-Vol-II-2021-22-Bihar-English-14-12-2022-06437f6d9889694-56493467.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-II-2021-22-Bihar-English-14-12-2022-06437f6d9889694-56493467.pdf) | FY 2021-22 | pdf | 3.9 | 474 | 463 | 7 | 2 | 1173 |
 | [account-report-Finance-Vol-I-2022-23-English-09-12-2023-065e01c767cb444-27138595.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-I-2022-23-English-09-12-2023-065e01c767cb444-27138595.pdf) | FY 2022-23 | pdf | 1.4 | 72 | 53 | 8 | 0 | 62 |
 | [account-report-Finance-Vol-II-2022-23-English-09-12-2023-065e01c4a8212a3-53815950.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-Vol-II-2022-23-English-09-12-2023-065e01c4a8212a3-53815950.pdf) | FY 2022-23 | pdf | 4.7 | 506 | 491 | 4 | 0 | 1226 |
-| [account-report-Finance-2023-24-Vol-I-Bihar-English-067e4ed3e544e15-90011438.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-2023-24-Vol-I-Bihar-English-067e4ed3e544e15-90011438.pdf) | FY 2023-24 | pdf | 0.9 | 76 | 60 | 9 | 0 | 64 |
-| [account-report-Finance-2023-24-Vol-II-Bihar-English-067e4ed97ed7ec8-78418916.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-2023-24-Vol-II-Bihar-English-067e4ed97ed7ec8-78418916.pdf) | FY 2023-24 | pdf | 8.5 | 526 | 511 | 6 | 0 | 1174 |
+| [account-report-Finance-2023-24-Vol-I-Bihar-English-067e4ed3e544e15-90011438.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-2023-24-Vol-I-Bihar-English-067e4ed3e544e15-90011438.pdf) | FY 2023-24 | pdf | 0.9 | 76 | 60 | 9 | 2 | 66 |
+| [account-report-Finance-2023-24-Vol-II-Bihar-English-067e4ed97ed7ec8-78418916.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Finance-2023-24-Vol-II-Bihar-English-067e4ed97ed7ec8-78418916.pdf) | FY 2023-24 | pdf | 8.5 | 526 | 511 | 6 | 2 | 1176 |
 | [account-report-Account-Volume-I-ENGLISH-2024-25-BIHAR-31-01-2026-069a011be9935a9-80886549.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Account-Volume-I-ENGLISH-2024-25-BIHAR-31-01-2026-069a011be9935a9-80886549.pdf) | FY 2024-25 | pdf | 5.2 | 75 | 56 | 7 | 0 | 67 |
 | [account-report-Account-Volume-II-BIHAR-ENGLISH-2024-25-31-01-2026-069a013611b9233-45674079.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Account-Volume-II-BIHAR-ENGLISH-2024-25-31-01-2026-069a013611b9233-45674079.pdf) | FY 2024-25 | pdf | 11.4 | 535 | 546 | 3 | 0 | 1303 |
 
@@ -42,9 +42,9 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [account-report-Appropriation-Accounts-2021-22-English-14-12-2022-06437f709818533-18877445.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-Accounts-2021-22-English-14-12-2022-06437f709818533-18877445.pdf) | FY 2021-22 | pdf | 1.9 | 368 | 469 | 8 | 0 | 210 |
-| [account-report-Appropriation-2022-23-Bihar-English-09-12-2023-065e01b10e6a339-49817125.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-2022-23-Bihar-English-09-12-2023-065e01b10e6a339-49817125.pdf) | FY 2022-23 | pdf | 2.6 | 408 | 512 | 8 | 0 | 223 |
-| [account-report-Appropriation-Accounts-2023-24-Bihar-English-067e4e719913f07-47374419.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-Accounts-2023-24-Bihar-English-067e4e719913f07-47374419.pdf) | FY 2023-24 | pdf | 15.0 | 508 | 622 | 7 | 0 | 259 |
+| [account-report-Appropriation-Accounts-2021-22-English-14-12-2022-06437f709818533-18877445.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-Accounts-2021-22-English-14-12-2022-06437f709818533-18877445.pdf) | FY 2021-22 | pdf | 1.9 | 368 | 469 | 8 | 2 | 212 |
+| [account-report-Appropriation-2022-23-Bihar-English-09-12-2023-065e01b10e6a339-49817125.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-2022-23-Bihar-English-09-12-2023-065e01b10e6a339-49817125.pdf) | FY 2022-23 | pdf | 2.6 | 408 | 512 | 8 | 2 | 225 |
+| [account-report-Appropriation-Accounts-2023-24-Bihar-English-067e4e719913f07-47374419.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Appropriation-Accounts-2023-24-Bihar-English-067e4e719913f07-47374419.pdf) | FY 2023-24 | pdf | 15.0 | 508 | 622 | 7 | 2 | 261 |
 | [account-report-Account-Appropriation-ENGLISH-2024-25-31-01-2026-069a010c8c7dfe5-87006509.pdf](https://d1jmc0u14z2tmp.cloudfront.net/uploads/state_accounts_report/account-report-Account-Appropriation-ENGLISH-2024-25-31-01-2026-069a010c8c7dfe5-87006509.pdf) | FY 2024-25 | pdf | 14.2 | 545 | 658 | 5 | 0 | 306 |
 
 ## BR-PF-05c: Bihar Monthly Key Indicators - AG (A&E) Bihar
@@ -139,7 +139,7 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | [5th-SFC-Volume-I.pdf](https://state.bihar.gov.in/finance/cache/12/Documents/5th-SFC-Volume-I.pdf) | – | pdf | 9.4 | 202 | 269 | 2 | 0 | 631 |
 | [SFC6_Rep-Part_1_and_2.pdf](https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%201%20and%202.pdf) | – | pdf | 10.3 | 236 | 206 | 10 | 0 | 379 |
-| [SFC6_Rep-Part_3.pdf](https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%203.pdf) | – | pdf | 79.3 | 377 | 48 | 270 | 0 | 67 |
+| [SFC6_Rep-Part_3.pdf](https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%203.pdf) | – | pdf | 79.3 | 377 | 48 | 270 | 265 | 202 |
 
 ## BR-PF-12: GST statistics (all states incl. Bihar)
 
@@ -210,6 +210,513 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 | [Budget_Analysis_2026-27-Bihar.pdf](https://prsindia.org/files/budget/budget_state/bihar/2026/Budget_Analysis_2026-27-Bihar.pdf) | FY 2026-27 | pdf | 0.7 | 9 | 13 | 0 | 0 | 66 |
 | [16th_FC_Report_Summary.pdf](https://prsindia.org/files/policy/policy_committee_reports/16th_FC_Report_Summary.pdf) | – | pdf | 0.6 | 4 | 1 | 0 | 0 | 3 |
 
+## BR-DM-02: Census 2011 tables - Bihar
+
+500 file(s), 316.7 MB.
+
+| File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
+| --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| [DDW_PCA1903_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6520/download/9597) | 1903 | excel | 0.7 | 1 | – | – | – | 24 |
+| [PCA_CDB-1903-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41008/download/44639) | 1903 | excel | 0.6 | 1 | – | – | – | 1242 |
+| [PCA_SC1903_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41591/download/45222) | 1903 | excel | 0.0 | 1 | – | – | – | 4 |
+| [PCA_ST1903_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42148/download/45779) | 1903 | excel | 0.0 | 1 | – | – | – | 4 |
+| [DDW-HH1905-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8350/download/11462) | 1905 | excel | 0.3 | 3 | – | – | – | 28 |
+| [Rdir_2001_MDDS_10.xls](https://censusindia.gov.in/nada/index.php/catalog/7049/download/10161) | 2001 | excel | 8.8 | 1 | – | – | – | 47 |
+| [Udir_2001_MDDS_10.xls](https://censusindia.gov.in/nada/index.php/catalog/7084/download/10196) | 2001 | excel | 0.2 | 2 | – | – | – | 8 |
+| [DDW-HH2005C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8384/download/11496) | 2005 | excel | 0.2 | 3 | – | – | – | 21 |
+| [2011-F01-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/3802/download/6879) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F01SC-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/3838/download/6915) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F01ST-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/3866/download/6943) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F02-10-MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/3901/download/6978) | 2011 | excel | 3.2 | 1 | – | – | – | 384 |
+| [2011-F03-10_MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/3937/download/7014) | 2011 | excel | 3.2 | 1 | – | – | – | 384 |
+| [2011-F05-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4009/download/7086) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F05SC-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4045/download/7122) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F05ST-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4073/download/7150) | 2011 | excel | 0.2 | 3 | – | – | – | 48 |
+| [2011-F06-10-MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/4108/download/7185) | 2011 | excel | 3.0 | 1 | – | – | – | 384 |
+| [2011-F07-10_MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/4144/download/7221) | 2011 | excel | 3.0 | 1 | – | – | – | 384 |
+| [2011-F09-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4216/download/7293) | 2011 | excel | 0.1 | 3 | – | – | – | 30 |
+| [2011-F09SC-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4252/download/7329) | 2011 | excel | 0.1 | 3 | – | – | – | 30 |
+| [2011-F09ST-1000-Rev4-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/4280/download/7357) | 2011 | excel | 0.1 | 3 | – | – | – | 30 |
+| [2011-F10-10-MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/4315/download/7392) | 2011 | excel | 1.9 | 1 | – | – | – | 240 |
+| [2011-F11-10_MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/4351/download/7428) | 2011 | excel | 1.9 | 1 | – | – | – | 240 |
+| [DDW-HH01-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7119/download/10231) | 2011 | excel | 0.4 | 3 | – | – | – | 9 |
+| [DDW-HH01CITY-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7217/download/10329) | 2011 | excel | 0.0 | 3 | – | – | – | 1 |
+| [DDW-HH01SC-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7155/download/10267) | 2011 | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH01ST-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7183/download/10295) | 2011 | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH02-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7248/download/10360) | 2011 | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH02CITY-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7282/download/10394) | 2011 | excel | 0.0 | 3 | – | – | – | 1 |
+| [DDW-HH05-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7316/download/10428) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW-HH05CITY-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7351/download/10463) | 2011 | excel | 0.1 | 3 | – | – | – | 6 |
+| [DDW-HH06-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7382/download/10494) | 2011 | excel | 0.3 | 1 | – | – | – | 30 |
+| [DDW-HH06CITY-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7417/download/10529) | 2011 | excel | 0.1 | 1 | – | – | – | 10 |
+| [DDW-HH08-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7451/download/10563) | 2011 | excel | 0.1 | 3 | – | – | – | 18 |
+| [DDW-HH08SC-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7487/download/10599) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW-HH08ST-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7515/download/10627) | 2011 | excel | 0.1 | 3 | – | – | – | 18 |
+| [DDW-HH10-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7553/download/10665) | 2011 | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-HH11-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7589/download/10701) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW-HH11SC-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7625/download/10737) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW-HH11ST-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7653/download/10765) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW-HH12-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7688/download/10800) | 2011 | excel | 0.1 | 3 | – | – | – | 18 |
+| [DDW-HH12A-1000-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/7724/download/10836) | 2011 | excel | 0.2 | 3 | – | – | – | 18 |
+| [DDW_PCA1001_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6394/download/9471) | 2011 | excel | 0.9 | 1 | – | – | – | 1 |
+| [DDW_PCA1002_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6395/download/9472) | 2011 | excel | 0.8 | 1 | – | – | – | 0 |
+| [DDW_PCA1003_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6396/download/9473) | 2011 | excel | 0.1 | 1 | – | – | – | 0 |
+| [DDW_PCA1004_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6397/download/9474) | 2011 | excel | 0.5 | 1 | – | – | – | 1 |
+| [DDW_PCA1005_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6398/download/9475) | 2011 | excel | 0.7 | 1 | – | – | – | 2 |
+| [DDW_PCA1006_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6399/download/9476) | 2011 | excel | 0.3 | 1 | – | – | – | 0 |
+| [DDW_PCA1007_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6400/download/9477) | 2011 | excel | 0.4 | 1 | – | – | – | 0 |
+| [DDW_PCA1008_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6401/download/9478) | 2011 | excel | 0.4 | 1 | – | – | – | 0 |
+| [DDW_PCA1009_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6402/download/9479) | 2011 | excel | 0.7 | 1 | – | – | – | 0 |
+| [DDW_PCA1010_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6403/download/9480) | 2011 | excel | 0.8 | 1 | – | – | – | 0 |
+| [DDW_PCA1011_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6404/download/9481) | 2011 | excel | 0.3 | 1 | – | – | – | 4 |
+| [DDW_PCA1012_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6405/download/9482) | 2011 | excel | 0.3 | 1 | – | – | – | 0 |
+| [DDW_PCA1013_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6406/download/9483) | 2011 | excel | 0.7 | 1 | – | – | – | 1 |
+| [DDW_PCA1014_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6407/download/9484) | 2011 | excel | 1.0 | 1 | – | – | – | 1 |
+| [DDW_PCA1015_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6408/download/9485) | 2011 | excel | 0.8 | 1 | – | – | – | 0 |
+| [DDW_PCA1016_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6409/download/9486) | 2011 | excel | 0.8 | 1 | – | – | – | 2 |
+| [DDW_PCA1017_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6410/download/9487) | 2011 | excel | 1.0 | 1 | – | – | – | 0 |
+| [DDW_PCA1018_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6411/download/9488) | 2011 | excel | 0.8 | 1 | – | – | – | 2 |
+| [DDW_PCA1019_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6412/download/9489) | 2011 | excel | 0.7 | 1 | – | – | – | 0 |
+| [DDW_PCA1020_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6413/download/9490) | 2011 | excel | 0.6 | 1 | – | – | – | 0 |
+| [DDW_PCA1021_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6414/download/9491) | 2011 | excel | 0.2 | 1 | – | – | – | 0 |
+| [DDW_PCA1022_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6415/download/9492) | 2011 | excel | 0.8 | 1 | – | – | – | 1 |
+| [DDW_PCA1023_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6416/download/9493) | 2011 | excel | 1.0 | 1 | – | – | – | 2 |
+| [DDW_PCA1024_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6417/download/9494) | 2011 | excel | 0.5 | 1 | – | – | – | 1 |
+| [DDW_PCA1025_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6418/download/9495) | 2011 | excel | 0.3 | 1 | – | – | – | 2 |
+| [DDW_PCA1026_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6419/download/9496) | 2011 | excel | 0.2 | 1 | – | – | – | 0 |
+| [DDW_PCA1027_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6420/download/9497) | 2011 | excel | 0.6 | 1 | – | – | – | 51 |
+| [DDW_PCA1028_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6421/download/9498) | 2011 | excel | 1.0 | 1 | – | – | – | 1 |
+| [DDW_PCA1029_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6422/download/9499) | 2011 | excel | 0.7 | 1 | – | – | – | 0 |
+| [DDW_PCA1030_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6423/download/9500) | 2011 | excel | 0.6 | 1 | – | – | – | 0 |
+| [DDW_PCA1031_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6424/download/9501) | 2011 | excel | 0.8 | 1 | – | – | – | 0 |
+| [DDW_PCA1032_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6425/download/9502) | 2011 | excel | 1.1 | 1 | – | – | – | 1 |
+| [DDW_PCA1033_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6426/download/9503) | 2011 | excel | 1.0 | 1 | – | – | – | 0 |
+| [DDW_PCA1034_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6427/download/9504) | 2011 | excel | 1.5 | 1 | – | – | – | 1 |
+| [DDW_PCA1035_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6428/download/9505) | 2011 | excel | 0.6 | 1 | – | – | – | 0 |
+| [DDW_PCA1036_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6429/download/9506) | 2011 | excel | 0.8 | 1 | – | – | – | 0 |
+| [DDW_PCA1037_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6430/download/9507) | 2011 | excel | 0.3 | 1 | – | – | – | 0 |
+| [DDW_PCA1038_2011_MDDS_with_UI.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6431/download/9508) | 2011 | excel | 0.2 | 1 | – | – | – | 0 |
+| [HLPCA-10203-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9501/download/12613) | 2011 | excel | 1.3 | 3 | – | – | – | 1565 |
+| [HLPCA-10204-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9502/download/12614) | 2011 | excel | 1.3 | 3 | – | – | – | 1513 |
+| [HLPCA-10205-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9503/download/12615) | 2011 | excel | 0.2 | 3 | – | – | – | 221 |
+| [HLPCA-10206-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9504/download/12616) | 2011 | excel | 0.8 | 3 | – | – | – | 940 |
+| [HLPCA-10207-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9505/download/12617) | 2011 | excel | 1.0 | 3 | – | – | – | 1174 |
+| [HLPCA-10208-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9506/download/12618) | 2011 | excel | 0.5 | 3 | – | – | – | 609 |
+| [HLPCA-10209-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9507/download/12619) | 2011 | excel | 0.7 | 3 | – | – | – | 818 |
+| [HLPCA-10210-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9508/download/12620) | 2011 | excel | 0.7 | 3 | – | – | – | 819 |
+| [HLPCA-10211-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9509/download/12621) | 2011 | excel | 1.0 | 3 | – | – | – | 1233 |
+| [HLPCA-10212-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9510/download/12622) | 2011 | excel | 1.1 | 3 | – | – | – | 1428 |
+| [HLPCA-10213-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9511/download/12623) | 2011 | excel | 0.4 | 3 | – | – | – | 497 |
+| [HLPCA-10214-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9512/download/12624) | 2011 | excel | 0.4 | 3 | – | – | – | 511 |
+| [HLPCA-10215-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9513/download/12625) | 2011 | excel | 1.0 | 3 | – | – | – | 1213 |
+| [HLPCA-10216-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9514/download/12626) | 2011 | excel | 1.6 | 3 | – | – | – | 1862 |
+| [HLPCA-10217-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9515/download/12627) | 2011 | excel | 1.3 | 3 | – | – | – | 1525 |
+| [HLPCA-10218-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9516/download/12628) | 2011 | excel | 1.3 | 3 | – | – | – | 1562 |
+| [HLPCA-10219-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9517/download/12629) | 2011 | excel | 1.5 | 3 | – | – | – | 1746 |
+| [HLPCA-10220-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9518/download/12630) | 2011 | excel | 1.3 | 3 | – | – | – | 1556 |
+| [HLPCA-10221-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9519/download/12631) | 2011 | excel | 1.1 | 3 | – | – | – | 1250 |
+| [HLPCA-10222-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9520/download/12632) | 2011 | excel | 0.7 | 3 | – | – | – | 860 |
+| [HLPCA-10223-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9521/download/12633) | 2011 | excel | 0.3 | 3 | – | – | – | 314 |
+| [HLPCA-10224-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9522/download/12634) | 2011 | excel | 0.9 | 3 | – | – | – | 1144 |
+| [HLPCA-10225-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9523/download/12635) | 2011 | excel | 1.4 | 3 | – | – | – | 1773 |
+| [HLPCA-10226-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9524/download/12636) | 2011 | excel | 0.6 | 3 | – | – | – | 675 |
+| [HLPCA-10227-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9525/download/12637) | 2011 | excel | 0.4 | 3 | – | – | – | 441 |
+| [HLPCA-10228-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9526/download/12638) | 2011 | excel | 0.3 | 3 | – | – | – | 330 |
+| [HLPCA-10229-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9527/download/12639) | 2011 | excel | 1.0 | 3 | – | – | – | 1357 |
+| [HLPCA-10230-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9528/download/12640) | 2011 | excel | 1.5 | 3 | – | – | – | 1749 |
+| [HLPCA-10231-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9529/download/12641) | 2011 | excel | 1.0 | 3 | – | – | – | 1164 |
+| [HLPCA-10232-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9530/download/12642) | 2011 | excel | 0.8 | 3 | – | – | – | 933 |
+| [HLPCA-10233-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9531/download/12643) | 2011 | excel | 1.1 | 3 | – | – | – | 1399 |
+| [HLPCA-10234-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9532/download/12644) | 2011 | excel | 1.6 | 3 | – | – | – | 1938 |
+| [HLPCA-10235-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9533/download/12645) | 2011 | excel | 1.5 | 3 | – | – | – | 1876 |
+| [HLPCA-10236-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9534/download/12646) | 2011 | excel | 2.3 | 3 | – | – | – | 2860 |
+| [HLPCA-10237-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9535/download/12647) | 2011 | excel | 0.9 | 3 | – | – | – | 1087 |
+| [HLPCA-10238-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9536/download/12648) | 2011 | excel | 1.1 | 3 | – | – | – | 1420 |
+| [HLPCA-10239-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9537/download/12649) | 2011 | excel | 0.5 | 3 | – | – | – | 615 |
+| [HLPCA-10240-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9538/download/12650) | 2011 | excel | 0.3 | 3 | – | – | – | 339 |
+| [HLPCA-19329-2011_H14_census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9627/download/12739) | 2011 | excel | 1.0 | 3 | – | – | – | 1301 |
+| [HLPCASC-10000-2011_HH_14_Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9246/download/12358) | 2011 | excel | 1.3 | 3 | – | – | – | 1740 |
+| [HLPCAST-10000-2011_HH_14_Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/9274/download/12386) | 2011 | excel | 1.3 | 3 | – | – | – | 1740 |
+| [PCA_SC1001_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41519/download/45150) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1002_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41520/download/45151) | 2011 | excel | 0.1 | 1 | – | – | – | 0 |
+| [PCA_SC1003_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41521/download/45152) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1004_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41522/download/45153) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1005_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41523/download/45154) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1006_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41524/download/45155) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1007_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41525/download/45156) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1008_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41526/download/45157) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1009_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41527/download/45158) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1010_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41528/download/45159) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1011_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41529/download/45160) | 2011 | excel | 0.0 | 1 | – | – | – | 3 |
+| [PCA_SC1012_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41530/download/45161) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1013_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41531/download/45162) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1014_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41532/download/45163) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1015_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41533/download/45164) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1016_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41534/download/45165) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1017_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41535/download/45166) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1018_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41536/download/45167) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1019_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41537/download/45168) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1020_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41538/download/45169) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1021_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41539/download/45170) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1022_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41540/download/45171) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1023_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41541/download/45172) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1024_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41542/download/45173) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1025_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41543/download/45174) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1026_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41544/download/45175) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1027_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41545/download/45176) | 2011 | excel | 0.0 | 1 | – | – | – | 4 |
+| [PCA_SC1028_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41546/download/45177) | 2011 | excel | 0.1 | 1 | – | – | – | 0 |
+| [PCA_SC1029_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41547/download/45178) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1030_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41548/download/45179) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1031_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41549/download/45180) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1032_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41550/download/45181) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1033_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41551/download/45182) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1034_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41552/download/45183) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1035_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41553/download/45184) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1036_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41554/download/45185) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1037_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41555/download/45186) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_SC1038_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/41556/download/45187) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1001_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42049/download/45680) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1002_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42050/download/45681) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1003_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42051/download/45682) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1004_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42052/download/45683) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1005_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42053/download/45684) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1006_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42054/download/45685) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1007_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42055/download/45686) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1008_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42056/download/45687) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1009_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42057/download/45688) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1010_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42058/download/45689) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1011_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42059/download/45690) | 2011 | excel | 0.0 | 1 | – | – | – | 3 |
+| [PCA_ST1012_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42060/download/45691) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1013_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42061/download/45692) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1014_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42062/download/45693) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1015_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42063/download/45694) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1016_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42064/download/45695) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1017_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42065/download/45696) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1018_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42066/download/45697) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1019_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42067/download/45698) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1020_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42068/download/45699) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1021_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42069/download/45700) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1022_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42070/download/45701) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1023_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42071/download/45702) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1024_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42072/download/45703) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1025_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42073/download/45704) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1026_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42074/download/45705) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1027_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42075/download/45706) | 2011 | excel | 0.0 | 1 | – | – | – | 4 |
+| [PCA_ST1028_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42076/download/45707) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1029_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42077/download/45708) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1030_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42078/download/45709) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1031_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42079/download/45710) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1032_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42080/download/45711) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1033_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42081/download/45712) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1034_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42082/download/45713) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1035_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42083/download/45714) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1036_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42084/download/45715) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1037_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42085/download/45716) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [PCA_ST1038_2011_MDDS_DDW.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42086/download/45717) | 2011 | excel | 0.0 | 1 | – | – | – | 0 |
+| [SC-10-00-008-2011-DDW.XLS](https://censusindia.gov.in/nada/index.php/catalog/1867/download/4944) | 2011 | excel | 0.8 | 3 | – | – | – | 2175 |
+| [SC-10-00-01-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1650/download/4727) | 2011 | excel | 0.3 | 3 | – | – | – | 450 |
+| [SC-10-00-02-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1681/download/4758) | 2011 | excel | 0.3 | 3 | – | – | – | 600 |
+| [SC-10-00-03-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1712/download/4789) | 2011 | excel | 0.3 | 3 | – | – | – | 450 |
+| [SC-10-00-04-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1743/download/4820) | 2011 | excel | 0.3 | 3 | – | – | – | 600 |
+| [SC-10-00-05-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1774/download/4851) | 2011 | excel | 0.4 | 3 | – | – | – | 1350 |
+| [SC-10-00-06-DDW-2011.XLSX](https://censusindia.gov.in/nada/index.php/catalog/1805/download/4882) | 2011 | excel | 7.8 | 3 | – | – | – | 96930 |
+| [SC-10-00-08A-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1898/download/4975) | 2011 | excel | 1.0 | 3 | – | – | – | 75 |
+| [SC-10-00-09-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1929/download/5006) | 2011 | excel | 0.4 | 3 | – | – | – | 1425 |
+| [SC-10-00-09A-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1960/download/5037) | 2011 | excel | 6.1 | 3 | – | – | – | 19872 |
+| [SC-10-00-10-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/1991/download/5068) | 2011 | excel | 0.3 | 3 | – | – | – | 1200 |
+| [SC-10-00-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/2115/download/5192) | 2011 | excel | 0.1 | 1 | – | – | – | 100 |
+| [SC-1000-007-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/1836/download/4913) | 2011 | excel | 0.5 | 1 | – | – | – | 1500 |
+| [SC-1000-011-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/2022/download/5099) | 2011 | excel | 0.1 | 1 | – | – | – | 400 |
+| [SC-1000-012-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/2053/download/5130) | 2011 | excel | 0.1 | 1 | – | – | – | 400 |
+| [SC-1000-013-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/2084/download/5161) | 2011 | excel | 0.1 | 1 | – | – | – | 250 |
+| [ST-10-00-008-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/11673/download/14786) | 2011 | excel | 1.1 | 3 | – | – | – | 2958 |
+| [ST-10-00-01-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11463/download/14576) | 2011 | excel | 0.4 | 3 | – | – | – | 612 |
+| [ST-10-00-014-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11898/download/15011) | 2011 | excel | 0.1 | 3 | – | – | – | 306 |
+| [ST-10-00-014A-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12513/download/15626) | 2011 | excel | 0.0 | 3 | – | – | – | 34 |
+| [ST-10-00-02-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11493/download/14606) | 2011 | excel | 0.5 | 3 | – | – | – | 816 |
+| [ST-10-00-03-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11523/download/14636) | 2011 | excel | 0.4 | 3 | – | – | – | 612 |
+| [ST-10-00-04-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11553/download/14666) | 2011 | excel | 0.5 | 3 | – | – | – | 816 |
+| [ST-10-00-05-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11583/download/14696) | 2011 | excel | 0.5 | 3 | – | – | – | 1836 |
+| [ST-10-00-06-DDW-2011.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11613/download/14726) | 2011 | excel | 5.2 | 3 | – | – | – | 68598 |
+| [ST-10-00-08A-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11703/download/14816) | 2011 | excel | 1.1 | 3 | – | – | – | 102 |
+| [ST-10-00-09-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11733/download/14846) | 2011 | excel | 0.6 | 3 | – | – | – | 1938 |
+| [ST-10-00-09A-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11763/download/14876) | 2011 | excel | 5.9 | 3 | – | – | – | 19257 |
+| [ST-10-00-10-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/11793/download/14906) | 2011 | excel | 0.5 | 3 | – | – | – | 1632 |
+| [ST-10-00-15-DDW-2011.XLSX](https://censusindia.gov.in/nada/index.php/catalog/12542/download/15655) | 2011 | excel | 0.6 | 3 | – | – | – | 1048 |
+| [ST-10-00-16-DDW-2011.XLSX](https://censusindia.gov.in/nada/index.php/catalog/12572/download/15685) | 2011 | excel | 0.3 | 3 | – | – | – | 4218 |
+| [ST-10-01-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12074/download/15187) | 2011 | excel | 0.1 | 3 | – | – | – | 243 |
+| [ST-10-02-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12075/download/15188) | 2011 | excel | 0.1 | 3 | – | – | – | 225 |
+| [ST-10-03-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12076/download/15189) | 2011 | excel | 0.1 | 3 | – | – | – | 108 |
+| [ST-10-04-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12077/download/15190) | 2011 | excel | 0.1 | 3 | – | – | – | 207 |
+| [ST-10-05-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12078/download/15191) | 2011 | excel | 0.1 | 3 | – | – | – | 252 |
+| [ST-10-06-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12079/download/15192) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-07-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12080/download/15193) | 2011 | excel | 0.1 | 3 | – | – | – | 243 |
+| [ST-10-08-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12081/download/15194) | 2011 | excel | 0.1 | 3 | – | – | – | 270 |
+| [ST-10-09-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12082/download/15195) | 2011 | excel | 0.1 | 3 | – | – | – | 225 |
+| [ST-10-10-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12083/download/15196) | 2011 | excel | 0.1 | 3 | – | – | – | 288 |
+| [ST-10-11-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12084/download/15197) | 2011 | excel | 0.1 | 3 | – | – | – | 198 |
+| [ST-10-12-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12085/download/15198) | 2011 | excel | 0.1 | 3 | – | – | – | 153 |
+| [ST-10-13-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12086/download/15199) | 2011 | excel | 0.1 | 3 | – | – | – | 234 |
+| [ST-10-14-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12087/download/15200) | 2011 | excel | 0.1 | 3 | – | – | – | 243 |
+| [ST-10-15-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12088/download/15201) | 2011 | excel | 0.1 | 3 | – | – | – | 243 |
+| [ST-10-16-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12089/download/15202) | 2011 | excel | 0.1 | 3 | – | – | – | 225 |
+| [ST-10-17-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12090/download/15203) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-18-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12091/download/15204) | 2011 | excel | 0.1 | 3 | – | – | – | 198 |
+| [ST-10-19-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12092/download/15205) | 2011 | excel | 0.1 | 3 | – | – | – | 207 |
+| [ST-10-20-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12093/download/15206) | 2011 | excel | 0.1 | 3 | – | – | – | 189 |
+| [ST-10-21-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12094/download/15207) | 2011 | excel | 0.1 | 3 | – | – | – | 162 |
+| [ST-10-22-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12095/download/15208) | 2011 | excel | 0.1 | 3 | – | – | – | 234 |
+| [ST-10-23-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12096/download/15209) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-24-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12097/download/15210) | 2011 | excel | 0.1 | 3 | – | – | – | 225 |
+| [ST-10-25-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12098/download/15211) | 2011 | excel | 0.1 | 3 | – | – | – | 207 |
+| [ST-10-26-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12099/download/15212) | 2011 | excel | 0.1 | 3 | – | – | – | 144 |
+| [ST-10-27-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12100/download/15213) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-28-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12101/download/15214) | 2011 | excel | 0.1 | 3 | – | – | – | 270 |
+| [ST-10-29-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12102/download/15215) | 2011 | excel | 0.1 | 3 | – | – | – | 207 |
+| [ST-10-30-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12103/download/15216) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-31-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12104/download/15217) | 2011 | excel | 0.1 | 3 | – | – | – | 207 |
+| [ST-10-32-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12105/download/15218) | 2011 | excel | 0.1 | 3 | – | – | – | 261 |
+| [ST-10-33-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12106/download/15219) | 2011 | excel | 0.1 | 3 | – | – | – | 189 |
+| [ST-10-34-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12107/download/15220) | 2011 | excel | 0.1 | 3 | – | – | – | 234 |
+| [ST-10-35-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12108/download/15221) | 2011 | excel | 0.1 | 3 | – | – | – | 225 |
+| [ST-10-36-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12109/download/15222) | 2011 | excel | 0.1 | 3 | – | – | – | 261 |
+| [ST-10-37-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12110/download/15223) | 2011 | excel | 0.1 | 3 | – | – | – | 216 |
+| [ST-10-38-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12111/download/15224) | 2011 | excel | 0.1 | 3 | – | – | – | 180 |
+| [ST-1000-007-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/11643/download/14756) | 2011 | excel | 0.6 | 1 | – | – | – | 2040 |
+| [ST-1000-011-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/11823/download/14936) | 2011 | excel | 0.2 | 1 | – | – | – | 544 |
+| [ST-1000-012-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/11848/download/14961) | 2011 | excel | 0.2 | 1 | – | – | – | 544 |
+| [ST-1000-013-2011-ddw.XLS](https://censusindia.gov.in/nada/index.php/catalog/11873/download/14986) | 2011 | excel | 0.1 | 1 | – | – | – | 340 |
+| [ST-19-03-14-DDW-2011.XLS](https://censusindia.gov.in/nada/index.php/catalog/12200/download/15313) | 2011 | excel | 0.1 | 3 | – | – | – | 333 |
+| [10_A-2_Bihar.xls](https://censusindia.gov.in/nada/index.php/catalog/43343/download/47021) | – | excel | 0.1 | 1 | – | – | – | 1 |
+| [A3-Appendix_1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/6882/download/9995) | – | excel | 0.1 | 1 | – | – | – | 3 |
+| [CITY-1000-D03-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10941/download/14053) | – | excel | 2.4 | 1 | – | – | – | 1015 |
+| [DDW-1000-C07.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10645/download/13757) | – | excel | 1.8 | 3 | – | – | – | 336 |
+| [DDW-1000B-01-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/12607/download/15720) | – | excel | 0.5 | 1 | – | – | – | 48 |
+| [DDW-1000B-01SC-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/12643/download/15756) | – | excel | 0.2 | 1 | – | – | – | 21 |
+| [DDW-1000B-01ST-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/12671/download/15784) | – | excel | 0.2 | 1 | – | – | – | 21 |
+| [DDW-1000B-03.xlsx](https://censusindia.gov.in/nada/index.php/catalog/12708/download/15821) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000B-03SC.xlsx](https://censusindia.gov.in/nada/index.php/catalog/12744/download/15857) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000B-03ST.xlsx](https://censusindia.gov.in/nada/index.php/catalog/12772/download/15885) | – | excel | 0.1 | 1 | – | – | – | 24 |
+| [DDW-1000B-09.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13109/download/16222) | – | excel | 0.3 | 1 | – | – | – | 24 |
+| [DDW-1000B-11-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13182/download/16295) | – | excel | 0.5 | 1 | – | – | – | 45 |
+| [DDW-1000B-11SC-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13218/download/16331) | – | excel | 0.0 | 1 | – | – | – | 45 |
+| [DDW-1000B-11ST-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13246/download/16359) | – | excel | 0.0 | 1 | – | – | – | 45 |
+| [DDW-1000B-13-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13282/download/16395) | – | excel | 0.5 | 1 | – | – | – | 48 |
+| [DDW-1000B-13SC-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13318/download/16431) | – | excel | 0.5 | 1 | – | – | – | 48 |
+| [DDW-1000B-13ST-Census.xls](https://censusindia.gov.in/nada/index.php/catalog/13346/download/16459) | – | excel | 0.5 | 1 | – | – | – | 48 |
+| [DDW-1000B-15.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2834/download/5911) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000B-16.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2870/download/5947) | – | excel | 0.3 | 1 | – | – | – | 48 |
+| [DDW-1000B-28.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13964/download/17077) | – | excel | 0.3 | 1 | – | – | – | 33 |
+| [DDW-1000C-02-fer3-MDDS.xls](https://censusindia.gov.in/nada/index.php/catalog/10311/download/13423) | – | excel | 0.6 | 1 | – | – | – | 60 |
+| [DDW-1000C-02A.xls](https://censusindia.gov.in/nada/index.php/catalog/10410/download/13522) | – | excel | 0.4 | 1 | – | – | – | 45 |
+| [DDW-1000C-02SC-fer3-MDDS.xls](https://censusindia.gov.in/nada/index.php/catalog/10347/download/13459) | – | excel | 0.6 | 1 | – | – | – | 60 |
+| [DDW-1000C-02SCA.xls](https://censusindia.gov.in/nada/index.php/catalog/10446/download/13558) | – | excel | 0.4 | 1 | – | – | – | 45 |
+| [DDW-1000C-02ST-fer3-MDDS.xls](https://censusindia.gov.in/nada/index.php/catalog/10375/download/13487) | – | excel | 0.6 | 1 | – | – | – | 60 |
+| [DDW-1000C-02STA.xls](https://censusindia.gov.in/nada/index.php/catalog/10474/download/13586) | – | excel | 0.4 | 1 | – | – | – | 45 |
+| [DDW-1000C-03.xlsx](https://censusindia.gov.in/nada/index.php/catalog/10509/download/13621) | – | excel | 0.1 | 1 | – | – | – | 21 |
+| [DDW-1000C-04.xls](https://censusindia.gov.in/nada/index.php/catalog/10546/download/13658) | – | excel | 0.4 | 1 | – | – | – | 48 |
+| [DDW-1000C-04SC.xls](https://censusindia.gov.in/nada/index.php/catalog/10582/download/13694) | – | excel | 0.4 | 1 | – | – | – | 48 |
+| [DDW-1000C-04ST.xls](https://censusindia.gov.in/nada/index.php/catalog/10610/download/13722) | – | excel | 0.4 | 1 | – | – | – | 48 |
+| [DDW-1000C-06.XLSX](https://censusindia.gov.in/nada/index.php/catalog/2262/download/5339) | – | excel | 2.1 | 1 | – | – | – | 384 |
+| [DDW-1000C-08.xlsx](https://censusindia.gov.in/nada/index.php/catalog/44795/download/48468) | – | excel | 0.9 | 1 | – | – | – | 87 |
+| [DDW-1000C-08A.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2398/download/5475) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000C-08SC.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2332/download/5409) | – | excel | 0.8 | 1 | – | – | – | 87 |
+| [DDW-1000C-08SCA.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2432/download/5509) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000C-08ST.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2366/download/5443) | – | excel | 0.7 | 1 | – | – | – | 87 |
+| [DDW-1000C-08STA.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2466/download/5543) | – | excel | 0.2 | 1 | – | – | – | 24 |
+| [DDW-1000C-10.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2499/download/5576) | – | excel | 0.6 | 1 | – | – | – | 72 |
+| [DDW-1000C-10SC.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2533/download/5610) | – | excel | 0.6 | 1 | – | – | – | 72 |
+| [DDW-1000C-10ST.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2567/download/5644) | – | excel | 0.5 | 1 | – | – | – | 72 |
+| [DDW-1000C-11.xlsx](https://censusindia.gov.in/nada/index.php/catalog/2599/download/5676) | – | excel | 0.7 | 1 | – | – | – | 69 |
+| [DDW-1000C-12.xls](https://censusindia.gov.in/nada/index.php/catalog/2641/download/5718) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-12A.xls](https://censusindia.gov.in/nada/index.php/catalog/2740/download/5817) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-12SC.xls](https://censusindia.gov.in/nada/index.php/catalog/2677/download/5754) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-12SCA.xls](https://censusindia.gov.in/nada/index.php/catalog/2776/download/5853) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-12ST.xls](https://censusindia.gov.in/nada/index.php/catalog/2705/download/5782) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-12STA.xls](https://censusindia.gov.in/nada/index.php/catalog/2804/download/5881) | – | excel | 0.5 | 3 | – | – | – | 48 |
+| [DDW-1000C-13.xls](https://censusindia.gov.in/nada/index.php/catalog/1441/download/4518) | – | excel | 0.6 | 1 | – | – | – | 103 |
+| [DDW-1000C-13SC.xls](https://censusindia.gov.in/nada/index.php/catalog/1475/download/4552) | – | excel | 0.6 | 1 | – | – | – | 103 |
+| [DDW-1000C-13ST.xls](https://censusindia.gov.in/nada/index.php/catalog/1509/download/4586) | – | excel | 0.6 | 1 | – | – | – | 103 |
+| [DDW-1000C-14.xls](https://censusindia.gov.in/nada/index.php/catalog/1546/download/4623) | – | excel | 0.1 | 2 | – | – | – | 19 |
+| [DDW-1000C-14SC.xls](https://censusindia.gov.in/nada/index.php/catalog/1580/download/4657) | – | excel | 0.1 | 2 | – | – | – | 19 |
+| [DDW-1000C-14ST.xls](https://censusindia.gov.in/nada/index.php/catalog/1614/download/4691) | – | excel | 0.1 | 2 | – | – | – | 19 |
+| [DDW-1000C-15.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11405/download/14518) | – | excel | 0.4 | 1 | – | – | – | 57 |
+| [DDW-B0121-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13617/download/16730) | – | excel | 0.2 | 2 | – | – | – | 45 |
+| [DDW-B04-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43046/download/46714) | – | excel | 0.8 | 3 | – | – | – | 42 |
+| [DDW-B04SC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43082/download/46750) | – | excel | 0.4 | 3 | – | – | – | 18 |
+| [DDW-B04ST-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43110/download/46778) | – | excel | 0.4 | 3 | – | – | – | 18 |
+| [DDW-B0519-1000-NIC-FINAL.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13482/download/16595) | – | excel | 1.0 | 3 | – | – | – | 165 |
+| [DDW-B06-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43145/download/46813) | – | excel | 0.9 | 3 | – | – | – | 42 |
+| [DDW-B0620-1000-NIC-FINAL.XLSX](https://censusindia.gov.in/nada/index.php/catalog/13518/download/16631) | – | excel | 1.7 | 3 | – | – | – | 390 |
+| [DDW-B06SC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43181/download/46849) | – | excel | 0.4 | 3 | – | – | – | 18 |
+| [DDW-B06ST-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/43209/download/46877) | – | excel | 0.4 | 3 | – | – | – | 18 |
+| [DDW-B07-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/13007/download/16120) | – | excel | 0.5 | 3 | – | – | – | 24 |
+| [DDW-B0720sc-1000-NIC-FINAL.XLSX](https://censusindia.gov.in/nada/index.php/catalog/13554/download/16667) | – | excel | 1.0 | 3 | – | – | – | 330 |
+| [DDW-B07SC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/13043/download/16156) | – | excel | 0.5 | 3 | – | – | – | 24 |
+| [DDW-B07ST-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/13071/download/16184) | – | excel | 0.5 | 3 | – | – | – | 24 |
+| [DDW-B0820st-1000-NIC-FINAL.XLSX](https://censusindia.gov.in/nada/index.php/catalog/13582/download/16695) | – | excel | 0.4 | 3 | – | – | – | 231 |
+| [DDW-B10-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/13146/download/16259) | – | excel | 0.7 | 1 | – | – | – | 63 |
+| [DDW-B18-1000-nic-final.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43244/download/46912) | – | excel | 3.2 | 3 | – | – | – | 747 |
+| [DDW-B18SC-1000-nic-final.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43280/download/46948) | – | excel | 2.0 | 3 | – | – | – | 714 |
+| [DDW-B18ST-1000-nic-final.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43308/download/46976) | – | excel | 0.9 | 3 | – | – | – | 580 |
+| [DDW-B24-1000-Final.XLSX](https://censusindia.gov.in/nada/index.php/catalog/13658/download/16771) | – | excel | 0.6 | 3 | – | – | – | 117 |
+| [DDW-B25A-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13694/download/16807) | – | excel | 1.7 | 3 | – | – | – | 579 |
+| [DDW-B25B-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13793/download/16906) | – | excel | 1.3 | 3 | – | – | – | 554 |
+| [DDW-B25SCA-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13730/download/16843) | – | excel | 1.1 | 3 | – | – | – | 525 |
+| [DDW-B25SCB-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13829/download/16942) | – | excel | 0.8 | 3 | – | – | – | 455 |
+| [DDW-B25STA-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13758/download/16871) | – | excel | 0.5 | 3 | – | – | – | 434 |
+| [DDW-B25STB-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13857/download/16970) | – | excel | 0.3 | 3 | – | – | – | 340 |
+| [DDW-B26-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/13892/download/17005) | – | excel | 5.0 | 3 | – | – | – | 1638 |
+| [DDW-B27-1000-Final.XLSX](https://censusindia.gov.in/nada/index.php/catalog/13928/download/17041) | – | excel | 1.6 | 1 | – | – | – | 234 |
+| [DDW-C16-STMT-MDDS-1000.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10196/download/13308) | – | excel | 1.5 | 1 | – | – | – | 343 |
+| [DDW-C16-TOWN-STMT-MDDS-1000.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10236/download/13348) | – | excel | 0.6 | 3 | – | – | – | 234 |
+| [DDW-C17-1000.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10272/download/13384) | – | excel | 0.1 | 3 | – | – | – | 1706 |
+| [DDW-C20-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43379/download/47083) | – | excel | 0.3 | 1 | – | – | – | 39 |
+| [DDW-C20SC-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43415/download/47119) | – | excel | 0.3 | 1 | – | – | – | 39 |
+| [DDW-C20ST-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43443/download/47147) | – | excel | 0.2 | 1 | – | – | – | 39 |
+| [DDW-F04-MDDS-1000.XLS](https://censusindia.gov.in/nada/index.php/catalog/3973/download/7050) | – | excel | 2.8 | 1 | – | – | – | 336 |
+| [DDW-F08-MDDS-1000.XLS](https://censusindia.gov.in/nada/index.php/catalog/4180/download/7257) | – | excel | 2.6 | 1 | – | – | – | 336 |
+| [DDW-F12-MDDS-1000.XLS](https://censusindia.gov.in/nada/index.php/catalog/4387/download/7464) | – | excel | 1.7 | 1 | – | – | – | 210 |
+| [DDW-FHH-TAB01-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/2911/download/5988) | – | excel | 0.3 | 3 | – | – | – | 33 |
+| [DDW-FHH-TAB01C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/2947/download/6024) | – | excel | 0.3 | 3 | – | – | – | 33 |
+| [DDW-FHH-TAB01T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/2975/download/6052) | – | excel | 0.3 | 3 | – | – | – | 33 |
+| [DDW-FHH-TAB02-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3010/download/6087) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB02C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3046/download/6123) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB02T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3074/download/6151) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB03-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3109/download/6186) | – | excel | 0.8 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB03C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3145/download/6222) | – | excel | 0.7 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB03T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3173/download/6250) | – | excel | 0.7 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB04-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3208/download/6285) | – | excel | 0.7 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB04C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3244/download/6321) | – | excel | 0.6 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB04T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3272/download/6349) | – | excel | 0.6 | 3 | – | – | – | 96 |
+| [DDW-FHH-TAB05-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3307/download/6384) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB05C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3343/download/6420) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB05T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3371/download/6448) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB06-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3406/download/6483) | – | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-FHH-TAB06C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3442/download/6519) | – | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-FHH-TAB06T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3470/download/6547) | – | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-FHH-TAB07-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3505/download/6582) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB07C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3541/download/6618) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB07T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3569/download/6646) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB08-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3604/download/6681) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB08C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3640/download/6717) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB08T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3668/download/6745) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB09-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3703/download/6780) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB09C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3739/download/6816) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-FHH-TAB09T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/3767/download/6844) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH0101-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7756/download/10868) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HH0201C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7790/download/10902) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH0301T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7824/download/10936) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH0402A-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7855/download/10967) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HH0502AC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7889/download/11001) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH0602AT-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7923/download/11035) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH0702B-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7954/download/11066) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HH0802BC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/7988/download/11100) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH0902BT-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8022/download/11134) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH1002C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8053/download/11165) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HH1102CC-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8087/download/11199) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH1202CT-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8121/download/11233) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH1303-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8152/download/11264) | – | excel | 0.4 | 3 | – | – | – | 44 |
+| [DDW-HH1403C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8186/download/11298) | – | excel | 0.3 | 3 | – | – | – | 33 |
+| [DDW-HH1503T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8220/download/11332) | – | excel | 0.3 | 3 | – | – | – | 33 |
+| [DDW-HH1604-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8251/download/11363) | – | excel | 1.0 | 3 | – | – | – | 128 |
+| [DDW-HH1704C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8285/download/11397) | – | excel | 0.7 | 3 | – | – | – | 96 |
+| [DDW-HH1804T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8319/download/11431) | – | excel | 0.7 | 3 | – | – | – | 96 |
+| [DDW-HH2105T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8418/download/11530) | – | excel | 0.2 | 3 | – | – | – | 21 |
+| [DDW-HH2206-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8449/download/11561) | – | excel | 1.7 | 3 | – | – | – | 40 |
+| [DDW-HH2306C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8483/download/11595) | – | excel | 0.1 | 3 | – | – | – | 12 |
+| [DDW-HH2406T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8517/download/11629) | – | excel | 0.1 | 3 | – | – | – | 12 |
+| [DDW-HH2507-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8548/download/11660) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HH2607C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8582/download/11694) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH2707T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8616/download/11728) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH2808-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8647/download/11759) | – | excel | 0.5 | 3 | – | – | – | 10 |
+| [DDW-HH2908C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8681/download/11793) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH3008T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8715/download/11827) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH3109-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8746/download/11858) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HH3209C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8780/download/11892) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH3309T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8814/download/11926) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH3410-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8845/download/11957) | – | excel | 3.3 | 3 | – | – | – | 80 |
+| [DDW-HH3510C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8879/download/11991) | – | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-HH3610T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8913/download/12025) | – | excel | 0.2 | 3 | – | – | – | 24 |
+| [DDW-HH3711-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8944/download/12056) | – | excel | 11.7 | 3 | – | – | – | 320 |
+| [DDW-HH3811C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/8978/download/12090) | – | excel | 0.6 | 3 | – | – | – | 96 |
+| [DDW-HH3911T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9012/download/12124) | – | excel | 0.6 | 3 | – | – | – | 96 |
+| [DDW-HH4012-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9043/download/12155) | – | excel | 0.5 | 3 | – | – | – | 10 |
+| [DDW-HH4112C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9077/download/12189) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH4212T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9111/download/12223) | – | excel | 0.1 | 3 | – | – | – | 3 |
+| [DDW-HH4313-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9142/download/12254) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HH4413C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9176/download/12288) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HH4513T-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9210/download/12322) | – | excel | 0.0 | 3 | – | – | – | 3 |
+| [DDW-HL0101-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9944/download/13056) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HL0202-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/9980/download/13092) | – | excel | 0.1 | 3 | – | – | – | 4 |
+| [DDW-HL0303A-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/10016/download/13128) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HL0403B-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/10052/download/13164) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HL0503C-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/10088/download/13200) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW-HL0604-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/10124/download/13236) | – | excel | 4.5 | 3 | – | – | – | 110 |
+| [DDW-HL0705-1000.xls](https://censusindia.gov.in/nada/index.php/catalog/10160/download/13272) | – | excel | 0.4 | 3 | – | – | – | 10 |
+| [DDW10C-01_MDDS.XLS](https://censusindia.gov.in/nada/index.php/catalog/11366/download/14479) | – | excel | 0.6 | 1 | – | – | – | 10 |
+| [DS-1000-D01-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10676/download/13788) | – | excel | 0.3 | 1 | – | – | – | 127 |
+| [DS-1000-D01A-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10712/download/13824) | – | excel | 1.3 | 1 | – | – | – | 747 |
+| [DS-1000-D02-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10748/download/13860) | – | excel | 2.7 | 1 | – | – | – | 852 |
+| [DS-1000-D02SC-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10781/download/13893) | – | excel | 0.2 | 1 | – | – | – | 30 |
+| [DS-1000-D02ST-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10814/download/13926) | – | excel | 0.2 | 1 | – | – | – | 30 |
+| [DS-1000-D03-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10845/download/13957) | – | excel | 10.6 | 1 | – | – | – | 3630 |
+| [DS-1000-D03SC-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10878/download/13990) | – | excel | 1.1 | 1 | – | – | – | 150 |
+| [DS-1000-D03ST-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10911/download/14023) | – | excel | 0.9 | 1 | – | – | – | 150 |
+| [DS-1000-D04-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10999/download/14111) | – | excel | 5.9 | 1 | – | – | – | 855 |
+| [DS-1000-D05-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11035/download/14147) | – | excel | 5.9 | 1 | – | – | – | 855 |
+| [DS-1000-D06-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11071/download/14183) | – | excel | 4.9 | 1 | – | – | – | 855 |
+| [DS-1000-D07-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11107/download/14219) | – | excel | 1.3 | 1 | – | – | – | 228 |
+| [DS-1000-D10-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11143/download/14255) | – | excel | 0.6 | 1 | – | – | – | 99 |
+| [DS-1000-D11-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11178/download/14290) | – | excel | 0.2 | 1 | – | – | – | 0 |
+| [DS-1000-D11SC-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11211/download/14323) | – | excel | 0.1 | 1 | – | – | – | 0 |
+| [DS-1000-D11ST-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11244/download/14356) | – | excel | 0.1 | 1 | – | – | – | 0 |
+| [DS-1000-D13-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/11277/download/14389) | – | excel | 3.5 | 1 | – | – | – | 675 |
+| [PCA_CDB-1001-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40882/download/44513) | – | excel | 0.8 | 1 | – | – | – | 1 |
+| [PCA_CDB-1002-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40883/download/44514) | – | excel | 0.7 | 1 | – | – | – | 0 |
+| [PCA_CDB-1003-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40884/download/44515) | – | excel | 0.1 | 1 | – | – | – | 0 |
+| [PCA_CDB-1004-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40885/download/44516) | – | excel | 0.5 | 1 | – | – | – | 1 |
+| [PCA_CDB-1005-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40886/download/44517) | – | excel | 0.6 | 1 | – | – | – | 2 |
+| [PCA_CDB-1006-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40887/download/44518) | – | excel | 0.3 | 1 | – | – | – | 0 |
+| [PCA_CDB-1007-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40888/download/44519) | – | excel | 0.4 | 1 | – | – | – | 0 |
+| [PCA_CDB-1008-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40889/download/44520) | – | excel | 0.4 | 1 | – | – | – | 0 |
+| [PCA_CDB-1009-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40890/download/44521) | – | excel | 0.7 | 1 | – | – | – | 0 |
+| [PCA_CDB-1010-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40891/download/44522) | – | excel | 0.8 | 1 | – | – | – | 0 |
+| [PCA_CDB-1011-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40892/download/44523) | – | excel | 0.3 | 1 | – | – | – | 4 |
+| [PCA_CDB-1012-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40893/download/44524) | – | excel | 0.3 | 1 | – | – | – | 0 |
+| [PCA_CDB-1013-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40894/download/44525) | – | excel | 0.7 | 1 | – | – | – | 1 |
+| [PCA_CDB-1014-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40895/download/44526) | – | excel | 1.0 | 1 | – | – | – | 1 |
+| [PCA_CDB-1015-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40896/download/44527) | – | excel | 0.8 | 1 | – | – | – | 0 |
+| [PCA_CDB-1016-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40897/download/44528) | – | excel | 0.8 | 1 | – | – | – | 2 |
+| [PCA_CDB-1017-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40898/download/44529) | – | excel | 0.9 | 1 | – | – | – | 0 |
+| [PCA_CDB-1018-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40899/download/44530) | – | excel | 0.8 | 1 | – | – | – | 2 |
+| [PCA_CDB-1019-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40900/download/44531) | – | excel | 0.7 | 1 | – | – | – | 0 |
+| [PCA_CDB-1020-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40901/download/44532) | – | excel | 0.6 | 1 | – | – | – | 0 |
+| [PCA_CDB-1021-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40902/download/44533) | – | excel | 0.2 | 1 | – | – | – | 0 |
+| [PCA_CDB-1022-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40903/download/44534) | – | excel | 0.7 | 1 | – | – | – | 1 |
+| [PCA_CDB-1023-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40904/download/44535) | – | excel | 1.0 | 1 | – | – | – | 2 |
+| [PCA_CDB-1024-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40905/download/44536) | – | excel | 0.4 | 1 | – | – | – | 1 |
+| [PCA_CDB-1025-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40906/download/44537) | – | excel | 0.2 | 1 | – | – | – | 2 |
+| [PCA_CDB-1026-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40907/download/44538) | – | excel | 0.2 | 1 | – | – | – | 0 |
+| [PCA_CDB-1027-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40908/download/44539) | – | excel | 0.6 | 1 | – | – | – | 4 |
+| [PCA_CDB-1028-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40909/download/44540) | – | excel | 0.8 | 1 | – | – | – | 1 |
+| [PCA_CDB-1029-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40910/download/44541) | – | excel | 0.6 | 1 | – | – | – | 0 |
+| [PCA_CDB-1030-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40911/download/44542) | – | excel | 0.6 | 1 | – | – | – | 0 |
+| [PCA_CDB-1031-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40912/download/44543) | – | excel | 0.8 | 1 | – | – | – | 0 |
+| [PCA_CDB-1032-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40913/download/44544) | – | excel | 1.0 | 1 | – | – | – | 1 |
+| [PCA_CDB-1033-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40914/download/44545) | – | excel | 0.9 | 1 | – | – | – | 0 |
+| [PCA_CDB-1034-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40915/download/44546) | – | excel | 1.5 | 1 | – | – | – | 1 |
+| [PCA_CDB-1035-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40916/download/44547) | – | excel | 0.6 | 1 | – | – | – | 0 |
+| [PCA_CDB-1036-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40917/download/44548) | – | excel | 0.7 | 1 | – | – | – | 0 |
+| [PCA_CDB-1037-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40918/download/44549) | – | excel | 0.3 | 1 | – | – | – | 0 |
+| [PCA_CDB-1038-F-Census.xlsx](https://censusindia.gov.in/nada/index.php/catalog/40919/download/44550) | – | excel | 0.2 | 1 | – | – | – | 0 |
+| [RL-1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/11330/download/14443) | – | excel | 8.3 | 1 | – | – | – | 108 |
+| [SC-10-PCA-A10-APPENDIX.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42891/download/46559) | – | excel | 0.2 | 1 | – | – | – | 72 |
+| [SC-1000-PCA-A-10-ddw.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42922/download/46590) | – | excel | 0.1 | 1 | – | – | – | 72 |
+| [ST-10-PCA-A11-APPENDIX.xlsx](https://censusindia.gov.in/nada/index.php/catalog/43009/download/46677) | – | excel | 0.2 | 1 | – | – | – | 99 |
+| [ST-1000-PCA-A-11-ddw.xlsx](https://censusindia.gov.in/nada/index.php/catalog/42949/download/46617) | – | excel | 0.2 | 1 | – | – | – | 99 |
+| [UA-1000-D03-MDDS.XLSX](https://censusindia.gov.in/nada/index.php/catalog/10970/download/14082) | – | excel | 1.3 | 1 | – | – | – | 210 |
+
 ## BR-DM-16: Population Projections 2011-2036 (Technical Group)
 
 1 file(s), 11.5 MB.
@@ -224,7 +731,7 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [2023.pdf](https://dc.crsorgi.gov.in/assets/download/Annual-Reports/crs/2023.pdf) | 2023 | pdf | 4.5 | 181 | 148 | 8 | 1 | 92 |
+| [2023.pdf](https://dc.crsorgi.gov.in/assets/download/Annual-Reports/crs/2023.pdf) | 2023 | pdf | 4.5 | 181 | 148 | 8 | 6 | 93 |
 
 ## BR-PF-15: 16th Finance Commission report (2026-31), Bihar evaluation and datasets
 
@@ -232,22 +739,22 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [Accounts_in_Arrear_of_SPSEs_in_various_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Accounts%20in%20Arrear%20of%20SPSEs%20in%20various%20States.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Bihar.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Bihar.pdf) | – | pdf | 3.8 | – | – | 0 | 0 | 0 |
-| [FC16_ULB_Data_Dump_Cityfinance.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/FC16%20ULB%20Data%20Dump%20Cityfinance.xlsx) | – | excel | 10.4 | – | – | – | – | 0 |
-| [Financial_Data_of_SPSEs_in_various_State.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Financial%20Data%20of%20SPSEs%20in%20various%20State.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Horizontal_Devolution.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Horizontal%20Devolution.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Rural_Urban_transition_data.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Rural%20Urban%20transition%20data.xlsx) | – | excel | 0.1 | – | – | – | – | 0 |
-| [Salary_Data.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Salary%20Data.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Sector-wise_Profit_and_Losses_of_SPSEs_in_various_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector-wise%20Profit%20and%20Losses%20of%20SPSEs%20in%20various%20States.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Sector_wise_Subsidies_and_Transfers.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector%20wise%20Subsidies%20and%20Transfers.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [State_Finance_Accounts_-_Revenue_and_Expenditure.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finance%20Accounts%20-%20Revenue%20and%20Expenditure.xlsx) | – | excel | 53.4 | – | – | – | – | 0 |
-| [State_Finances_-_Key_Fiscal_Indicators.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finances%20-%20Key%20Fiscal%20Indicators.xlsx) | – | excel | 0.5 | – | – | – | – | 0 |
-| [Time_series_of_transfer_of_resources_from_Centre_to_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Time%20series%20of%20transfer%20of%20resources%20from%20Centre%20to%20States.xlsx) | – | excel | 0.1 | – | – | – | – | 0 |
-| [Trends_in_expenditure_-_Centre.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Trends%20in%20expenditure%20-%20Centre.xlsx) | – | excel | 0.1 | – | – | – | – | 0 |
-| [Type_wise_Subsidies_and_Transfers.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Type%20wise%20Subsidies%20and%20Transfers.xlsx) | – | excel | 0.0 | – | – | – | – | 0 |
-| [Vol1-Main-Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf) | – | pdf | 7.4 | – | – | 0 | 0 | 0 |
-| [Vol2-Annexures.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol2-Annexures.pdf) | – | pdf | 5.8 | – | – | 0 | 0 | 0 |
+| [Accounts_in_Arrear_of_SPSEs_in_various_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Accounts%20in%20Arrear%20of%20SPSEs%20in%20various%20States.xlsx) | – | excel | 0.0 | 2 | – | – | – | 1 |
+| [Bihar.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/studies/evaluation/Bihar.pdf) | – | pdf | 3.8 | 222 | 214 | 0 | 0 | 1016 |
+| [FC16_ULB_Data_Dump_Cityfinance.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/FC16%20ULB%20Data%20Dump%20Cityfinance.xlsx) | – | excel | 10.4 | 2 | – | – | – | 1878 |
+| [Financial_Data_of_SPSEs_in_various_State.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Financial%20Data%20of%20SPSEs%20in%20various%20State.xlsx) | – | excel | 0.0 | 2 | – | – | – | 1 |
+| [Horizontal_Devolution.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Horizontal%20Devolution.xlsx) | – | excel | 0.0 | 1 | – | – | – | 1 |
+| [Rural_Urban_transition_data.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Rural%20Urban%20transition%20data.xlsx) | – | excel | 0.1 | 24 | – | – | – | 1 |
+| [Salary_Data.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Salary%20Data.xlsx) | – | excel | 0.0 | 1 | – | – | – | 1 |
+| [Sector-wise_Profit_and_Losses_of_SPSEs_in_various_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector-wise%20Profit%20and%20Losses%20of%20SPSEs%20in%20various%20States.xlsx) | – | excel | 0.0 | 1 | – | – | – | 1 |
+| [Sector_wise_Subsidies_and_Transfers.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector%20wise%20Subsidies%20and%20Transfers.xlsx) | – | excel | 0.0 | 1 | – | – | – | 9 |
+| [State_Finance_Accounts_-_Revenue_and_Expenditure.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finance%20Accounts%20-%20Revenue%20and%20Expenditure.xlsx) | – | excel | 53.4 | 4 | – | – | – | 13 |
+| [State_Finances_-_Key_Fiscal_Indicators.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finances%20-%20Key%20Fiscal%20Indicators.xlsx) | – | excel | 0.5 | 2 | – | – | – | 0 |
+| [Time_series_of_transfer_of_resources_from_Centre_to_States.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Time%20series%20of%20transfer%20of%20resources%20from%20Centre%20to%20States.xlsx) | – | excel | 0.1 | 6 | – | – | – | 0 |
+| [Trends_in_expenditure_-_Centre.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Trends%20in%20expenditure%20-%20Centre.xlsx) | – | excel | 0.1 | 3 | – | – | – | 0 |
+| [Type_wise_Subsidies_and_Transfers.xlsx](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Type%20wise%20Subsidies%20and%20Transfers.xlsx) | – | excel | 0.0 | 1 | – | – | – | 4 |
+| [Vol1-Main-Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol1-Main-Report.pdf) | – | pdf | 7.4 | 364 | 154 | 18 | 0 | 57 |
+| [Vol2-Annexures.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/reports/Vol2-Annexures.pdf) | – | pdf | 5.8 | 228 | 202 | 4 | 0 | 54 |
 
 ## BR-PF-15a: 15th Finance Commission reports (2020-21 and 2021-26)
 
@@ -255,16 +762,77 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [XV-FC-Volume_IV-The_States.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf) | – | pdf | 116.3 | – | – | 0 | 0 | 0 |
-| [XV-FC_-VOL_II_Annexes.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC%20-VOL%20II%20Annexes.pdf) | – | pdf | 3.1 | – | – | 0 | 0 | 0 |
-| [XVFC_202021_Report_English_Web.pdf](https://fincomindia.nic.in/asset/pdf/commission-reports/XVFC_202021%20Report_English_Web.pdf) | – | pdf | 16.8 | – | – | 0 | 0 | 0 |
-| [XVFC_VOL_I_Main_Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XVFC%20VOL%20I%20Main%20Report.pdf) | – | pdf | 31.1 | – | – | 0 | 0 | 0 |
+| [XV-FC-Volume_IV-The_States.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf) | – | pdf | 116.3 | 392 | 968 | 24 | 0 | 91 |
+| [XV-FC_-VOL_II_Annexes.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC%20-VOL%20II%20Annexes.pdf) | – | pdf | 3.1 | 396 | 308 | 1 | 0 | 136 |
+| [XVFC_202021_Report_English_Web.pdf](https://fincomindia.nic.in/asset/pdf/commission-reports/XVFC_202021%20Report_English_Web.pdf) | – | pdf | 16.8 | 128 | 212 | 5 | 0 | 16 |
+| [XVFC_VOL_I_Main_Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XVFC%20VOL%20I%20Main%20Report.pdf) | – | pdf | 31.1 | 446 | 185 | 23 | 0 | 44 |
 
-## BR-DM-05: Sample Registration System - Statistical Reports
+## BR-DM-03: District Census Handbooks 2011 - Bihar
 
-2 file(s), 24.3 MB.
+40 file(s), 116.1 MB.
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [SRS_STAT_2011.pdf](https://censusindia.gov.in/nada/index.php/catalog/34790/download/38478) | 2011 | pdf | 14.9 | – | – | 0 | 0 | 0 |
-| [SRS_STAT_2012.pdf](https://censusindia.gov.in/nada/index.php/catalog/34791/download/38479) | 2012 | pdf | 9.4 | – | – | 0 | 0 | 0 |
+| [DH_2011_1001-Pashchim_Champaran.zip](https://censusindia.gov.in/nada/index.php/catalog/296/download/835) | 2011 | zip | 1.1 | – | – | – | – | 2 |
+| [DH_2011_1002-Purba_Champaran.zip](https://censusindia.gov.in/nada/index.php/catalog/300/download/851) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1003-Sheohar.zip](https://censusindia.gov.in/nada/index.php/catalog/314/download/907) | 2011 | zip | 0.5 | – | – | – | – | 0 |
+| [DH_2011_1004-Sitamarhi.zip](https://censusindia.gov.in/nada/index.php/catalog/316/download/915) | 2011 | zip | 0.8 | – | – | – | – | 4 |
+| [DH_2011_1005-Madhubani.zip](https://censusindia.gov.in/nada/index.php/catalog/286/download/795) | 2011 | zip | 0.9 | – | – | – | – | 9 |
+| [DH_2011_1006-Supaul.zip](https://censusindia.gov.in/nada/index.php/catalog/320/download/931) | 2011 | zip | 0.7 | – | – | – | – | 0 |
+| [DH_2011_1007-Araria.zip](https://censusindia.gov.in/nada/index.php/catalog/248/download/643) | 2011 | zip | 0.7 | – | – | – | – | 0 |
+| [DH_2011_1008-Kishanganj.zip](https://censusindia.gov.in/nada/index.php/catalog/280/download/771) | 2011 | zip | 0.7 | – | – | – | – | 0 |
+| [DH_2011_1009-Purnia.zip](https://censusindia.gov.in/nada/index.php/catalog/302/download/859) | 2011 | zip | 0.9 | – | – | – | – | 0 |
+| [DH_2011_1010-Katihar.zip](https://censusindia.gov.in/nada/index.php/catalog/276/download/755) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1011-Madhepura.zip](https://censusindia.gov.in/nada/index.php/catalog/284/download/787) | 2011 | zip | 0.6 | – | – | – | – | 47 |
+| [DH_2011_1012-Saharsa.zip](https://censusindia.gov.in/nada/index.php/catalog/306/download/875) | 2011 | zip | 0.6 | – | – | – | – | 0 |
+| [DH_2011_1013-Darbhanga.zip](https://censusindia.gov.in/nada/index.php/catalog/264/download/707) | 2011 | zip | 0.9 | – | – | – | – | 4 |
+| [DH_2011_1014-Muzaffarpur.zip](https://censusindia.gov.in/nada/index.php/catalog/290/download/811) | 2011 | zip | 1.2 | – | – | – | – | 4 |
+| [DH_2011_1015-Gopalganj.zip](https://censusindia.gov.in/nada/index.php/catalog/268/download/723) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1016-Siwan.zip](https://censusindia.gov.in/nada/index.php/catalog/318/download/923) | 2011 | zip | 1.1 | – | – | – | – | 8 |
+| [DH_2011_1017-Saran.zip](https://censusindia.gov.in/nada/index.php/catalog/310/download/891) | 2011 | zip | 1.1 | – | – | – | – | 0 |
+| [DH_2011_1018-Vaishali.zip](https://censusindia.gov.in/nada/index.php/catalog/322/download/939) | 2011 | zip | 1.1 | – | – | – | – | 8 |
+| [DH_2011_1019-Samastipur.zip](https://censusindia.gov.in/nada/index.php/catalog/308/download/883) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1020-Begusarai.zip](https://censusindia.gov.in/nada/index.php/catalog/256/download/675) | 2011 | zip | 0.8 | – | – | – | – | 0 |
+| [DH_2011_1021-Khagaria.zip](https://censusindia.gov.in/nada/index.php/catalog/278/download/763) | 2011 | zip | 0.5 | – | – | – | – | 0 |
+| [DH_2011_1022-Bhagalpur.zip](https://censusindia.gov.in/nada/index.php/catalog/258/download/683) | 2011 | zip | 0.9 | – | – | – | – | 4 |
+| [DH_2011_1023-Banka.zip](https://censusindia.gov.in/nada/index.php/catalog/254/download/667) | 2011 | zip | 1.1 | – | – | – | – | 8 |
+| [DH_2011_1024-Munger.zip](https://censusindia.gov.in/nada/index.php/catalog/288/download/803) | 2011 | zip | 0.7 | – | – | – | – | 4 |
+| [DH_2011_1025-Lakhisarai.zip](https://censusindia.gov.in/nada/index.php/catalog/282/download/779) | 2011 | zip | 0.6 | – | – | – | – | 8 |
+| [DH_2011_1026-Sheikhpura.zip](https://censusindia.gov.in/nada/index.php/catalog/312/download/899) | 2011 | zip | 0.5 | – | – | – | – | 6 |
+| [DH_2011_1027-Nalanda.zip](https://censusindia.gov.in/nada/index.php/catalog/292/download/819) | 2011 | zip | 0.9 | – | – | – | – | 679 |
+| [DH_2011_1028-Patna.zip](https://censusindia.gov.in/nada/index.php/catalog/298/download/843) | 2011 | zip | 1.0 | – | – | – | – | 6 |
+| [DH_2011_1029-Bhojpur.zip](https://censusindia.gov.in/nada/index.php/catalog/260/download/691) | 2011 | zip | 0.9 | – | – | – | – | 0 |
+| [DH_2011_1030-Buxar.zip](https://censusindia.gov.in/nada/index.php/catalog/262/download/699) | 2011 | zip | 0.8 | – | – | – | – | 0 |
+| [DH_2011_1031-Kaimur__Bhabua_.zip](https://censusindia.gov.in/nada/index.php/catalog/274/download/747) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1032-Rohtas.zip](https://censusindia.gov.in/nada/index.php/catalog/304/download/867) | 2011 | zip | 1.2 | – | – | – | – | 2 |
+| [DH_2011_1033-Aurangabad.zip](https://censusindia.gov.in/nada/index.php/catalog/252/download/659) | 2011 | zip | 1.1 | – | – | – | – | 0 |
+| [DH_2011_1034-Gaya.zip](https://censusindia.gov.in/nada/index.php/catalog/266/download/715) | 2011 | zip | 1.6 | – | – | – | – | 4 |
+| [DH_2011_1035-Nawada.zip](https://censusindia.gov.in/nada/index.php/catalog/294/download/827) | 2011 | zip | 0.9 | – | – | – | – | 13 |
+| [DH_2011_1036-Jamui.zip](https://censusindia.gov.in/nada/index.php/catalog/270/download/731) | 2011 | zip | 1.0 | – | – | – | – | 0 |
+| [DH_2011_1037-Jehanabad.zip](https://censusindia.gov.in/nada/index.php/catalog/272/download/739) | 2011 | zip | 0.6 | – | – | – | – | 0 |
+| [DH_2011_1038-Arwal.zip](https://censusindia.gov.in/nada/index.php/catalog/250/download/651) | 2011 | zip | 0.5 | – | – | – | – | 0 |
+| [DH_2011_DCHB_Town_Release_1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/296/download/837) | 2011 | excel | 0.5 | 3 | – | – | – | 952 |
+| [DH_2011_DCHB_Village_Release_1000.xlsx](https://censusindia.gov.in/nada/index.php/catalog/296/download/836) | 2011 | excel | 81.8 | 3 | – | – | – | 49326 |
+
+## BR-DM-05: Sample Registration System - Statistical Reports
+
+16 file(s), 169.9 MB.
+
+| File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
+| --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| [SRS_STAT_2011.pdf](https://censusindia.gov.in/nada/index.php/catalog/34790/download/38478) | 2011 | pdf | 14.9 | 256 | 15 | 40 | 0 | 102 |
+| [SRS_STAT_2012.pdf](https://censusindia.gov.in/nada/index.php/catalog/34791/download/38479) | 2012 | pdf | 9.4 | 234 | 15 | 19 | 0 | 100 |
+| [SRS_STAT_2013.pdf](https://censusindia.gov.in/nada/index.php/catalog/34788/download/38476) | 2013 | pdf | 7.4 | 240 | 6 | 19 | 0 | 99 |
+| [SRS_STAT_2014.pdf](https://censusindia.gov.in/nada/index.php/catalog/34787/download/38475) | 2014 | pdf | 8.9 | 257 | 10 | 18 | 0 | 98 |
+| [SRS_STAT_2015.pdf](https://censusindia.gov.in/nada/index.php/catalog/44371/download/48038) | 2015 | pdf | 8.4 | 351 | 10 | 112 | 0 | 100 |
+| [SRS_STAT_2016.pdf](https://censusindia.gov.in/nada/index.php/catalog/44372/download/48040) | 2016 | pdf | 11.6 | 356 | 14 | 112 | 0 | 96 |
+| [SRS_STAT_2017.pdf](https://censusindia.gov.in/nada/index.php/catalog/44373/download/48042) | 2017 | pdf | 9.6 | 366 | 10 | 122 | 0 | 94 |
+| [SRS_STAT_2018.pdf](https://censusindia.gov.in/nada/index.php/catalog/44374/download/48044) | 2018 | pdf | 10.5 | 359 | 11 | 121 | 0 | 97 |
+| [SRS_STAT_2019.pdf](https://censusindia.gov.in/nada/index.php/catalog/44375/download/48046) | 2019 | pdf | 9.9 | 355 | 14 | 114 | 0 | 97 |
+| [SRS_STAT_2020.pdf](https://censusindia.gov.in/nada/index.php/catalog/44376/download/48048) | 2020 | pdf | 13.4 | 334 | 124 | 3 | 0 | 104 |
+| [SRS_STAT_2021.pdf](https://censusindia.gov.in/nada/index.php/catalog/45556/download/49753) | 2021 | pdf | 15.4 | 362 | 1577 | 6 | 0 | 119 |
+| [SRS_STAT_2022.pdf](https://censusindia.gov.in/nada/index.php/catalog/45570/download/49767) | 2022 | pdf | 15.4 | 363 | 1663 | 6 | 0 | 121 |
+| [Corrigendum_to_SRS_Reports_2023.pdf](https://censusindia.gov.in/nada/index.php/catalog/46172/download/51429) | 2023 | pdf | 0.0 | 1 | – | 0 | 0 | 0 |
+| [SRS_STAT_2023.pdf](https://censusindia.gov.in/nada/index.php/catalog/46172/download/50420) | 2023 | pdf | 14.1 | 362 | 36 | 6 | 0 | 116 |
+| [SRS_STAT_2024.pdf](https://censusindia.gov.in/nada/index.php/catalog/47152/download/51396) | 2024 | pdf | 20.7 | 363 | 42 | 7 | 0 | 127 |
+| [Corrigendum_to_SRS_Reports.pdf](https://censusindia.gov.in/nada/index.php/catalog/44371/download/48039) | – | pdf | 0.3 | 1 | 1 | 0 | 0 | 0 |

@@ -1,0 +1,43 @@
+capability and enhance the management and reporting efficiency of the CFMS application, the
+Finance Department has planned to include several other interfaces: HRMS, e-Labharthi, NPCI.
+E-KYC, ete. with the CFMS application and aid in attaining a 360-degree coverage of expenditure
+management in the state.
+
+Value Added Tax Management Information System (VATMIS) : The VATMIS is a web-based
+application software, which provides an integrated computerized solution to the Commercial
+Taxes Department for administration of various taxes, like Value Added Tax, Central Sales Tax,
+Luxury Tax, Electricity Duty, Advertisement Tax, Entertainment Tax and Professional Tax.
+
+GST Single Sign-On ; GSTSSO is an integrated platform designed to streamline the access and
+management of various GST-related applications. Key platforms hosted on GSTSSO include GST
+Prime, Comprehensive e-Waybill Analytics, e-Waybill MIS, and e-Invoice Analytics, each of
+
+which plays a crucial role in the tax administration system.
+
+GAIN Portal (GST Analytics and Intelligence Network) : Earlier known as BIFA Portal, it has
+been developed by BIFA Unit-GSTN for the use of DGGI, CGST and SGST officials. It envisages
+detection of tax evasion by its ability to display complex networks of suppliers and do an analysis
+of connected transactions. The focus areas of this tool are primarily Gap Analysis, Network
+Analysis, Anomaly Detection, Identification of Inconsistent Behaviour, Revenue Analysis and
+Predictive Modelling.
+
+e-Stamping : This provides e-stamping facility to the citizens through a secure electronic way to
+generate e-Stamp certificates. The Stamp certificate so generated will have unique identification
+number and security features that will eliminate the counterfeits. As a part of Citizen Services and
+to have a digital strategy to ensure a fast and hassle-free payment process, the departmental in-
+house ‘e-Stamping’ is required in the new e-Registration Solution which, in turn, makes handling
+this mandatory procedure convenient, every time a party executes a deed/contract.
+
+e-Registration
+
+The e-Registration facility for land transactions has been gradually rolled out to the public from
+July 29, 2024, which is now available in all 137 offices in the State, This initiative allows the
+public to apply for land registration from their homes and can automatically calculate the value
+of their land, Through this new software, users will receive real-time updates on their
+application status, land category information, and applicable fees thereof. The system also
+incorporates e-K YC (Aadhaar Authentication) for the concerned parties and is integrated with
+the Land Revenue and Reforms Department's platform. For individuals in land transactions,
+the registration process requires only one visit to the office for getting their photographs,
+fingerprints, and signing the agreement.
+
+273

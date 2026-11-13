@@ -1,0 +1,43 @@
+Delivered (like Take Home Ration and Hot Cooked Meal, Vaccination for Infants and Pregnant
+Women), (iii) Growth Measurement (monitor nutritional indicators like Stunting, Wasting and
+Underweight prevalence), (iv) Pre-school Education (Early Childhood Care and Education), and
+(v) Home Visit Alerts.
+
+Aangan App for Supervision & Monitoring of All AWCs by Lady Supervisors & CDPOs :
+This application is used during the inspection done by Lady Supervisors and CDPOs. The
+inspection report is instantly uploaded on the Aangan Dashboard on the NIC Server which
+provides Real-Time data on how many Anganwadi Centers are opening, how many are providing
+Supplementary Nutrition, how many children are present, etc. It is also used to record the
+attendance of Anganwadi Workers and Helpers, and upload the vouchers of purchases done for
+the Supplementary Nutrition Programme (SNP). Based on this attendance and uploaded vouchers,
+the Anganwadi Workers are paid their honorarium through DBT and the SNP fund is sent to the
+Bank account of the Anganwadi Vikas Samiti.
+
+Food and Civil Supplies : The State government provides for a sound public distribution system
+(PDS) with the help of ICT solutions. The system includes various modules to improve the
+mechanism of PDS for the benefit of the citizens of the state. These modules are: Fair Price Shop
+Management System (FPSMS), Ration Card Management System (RCMS), Cashless Payment,
+Integration of Weighing Scale with e-POS device, Aadhaar-enabled PDS (AePDS), Grievance
+Redressal System, One Nation One Ration Card (ONORC), Supply Chain Management, GPS-
+enabled Vehicle Tracking system, etc, An overview of ¢-PDS is shown in Chart 7.8,
+
+Chart 7.8 : Overview of e-PDS
+
+am cri
+0३ \ ७० ९ ७० 2.
+ba ina FPS =) 50,109 Fair Price Pe says
+implemented in using POS
+8.42 crore the State. a a
+Beneficiaries
+—= हू
+0) 8 ७9?7४ ९७) "6
+Implemented inked with the Integrated with
+Supply Chain DigiLocker App JanParichay 2)
+=) and Ayustinan Pehchaan - Single
+System across Shorat Scheme Sign-on
+State,
+
+Source ; National Informatics Centre, Patna
+
+276
+

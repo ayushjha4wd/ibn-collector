@@ -1,0 +1,44 @@
+factors, especially the access to telecommunication, internet connectivity, online authentication
+i.e. Aadhaar seeding, etc. In this backdrop, the State government has been continuously
+strengthening the ICT infrastructure right from the headquarters to districts to blocks to panchayats
+and lastly to the villages. Table 7.1 presents the status of the ICT infrastructure of Bihar and India
+The table includes tele-density and internet density, apart from Gram Panchayats onboard for
+e-gram swaraj. In order to access the majority of e-governance programmes, services and
+entitlements (Direct Benefit Transfers), the State government has been making faster progress in
+taking all gram panchayats on board. The table also indicates that every third person in Bihar has
+internet access. It is important to note that all the panchayats have been onboarded for digital
+
+access.
+
+Table 7.1 : Coverage of Basic ICT Infrastructure in Bihar and India (as of March, 2024)
+
+siti Internet Panchayat
+State | Tele-Density Density | Onboard (%)
+Bihar | 55.59 | | 42.1 | | 100
+All-India 85,69 68.19 | 98a |
+
+Source : Telecom Regulatory Authority of India and Press Information Bureau, Gol
+Some of the important initiatives of the IT Department of the state are discussed below:
+
+Bihar State Data Centre (BSDC 2.0) and DR (Disaster Recovery) : The BSDC facilitates the
+State government to provide efficient, secure and reliable digital services from across its
+departments to citizens. The BSDC 2.0 is now operational and is a Tier-II] compliant data centre
+with 99.982 percent uptime and hosts 305 applications of the different departments. It is equipped
+with 6200 cores capacity, 64000 RAM capacity and 2.6 petabyte storage capacity, and has multi-
+layer security. It has the provision of a Disaster Recovery (DR) site. The objective of the DR-cum-
+BCP (Business Continuity Programme) is to recover and restore data and operations when the
+primary data centre becomes unavailable. Till September, 2024, a total of 150 applications hosted
+at SDC have been provisioned with DR.
+
+Bihar State Wide Area Network (BSWAN 2.0) : It is a network highway that provides
+uninterrupted Voice, Video and Data connectivity services to the offices of the State government.
+BSWAN 2.0 connects Government Offices (450), District Headquarters (38), and Block Offices
+(528) through a high-speed network that supports efficient and transparent service delivery to
+citizens, As of September, 2024, a total of 611 Points of Presence (PoP) have been established. It
+is important to note here that continuing its thrust on network reach and accessibility, the State
+government has approved BSWAN 3.0 to scale-up the network to the Panchayat level.
+
+Secretariat Local Area Network : The objective of the SecLAN is to enhance and strengthen the
+
+existing Secretariat Network that serves as the backbone for communications throughout the
+254

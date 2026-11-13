@@ -1,0 +1,37 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Naugachhia (NP),28,,,BD,,6000,120,80,0,"TU,",OHT(20),"No,BHAGALPUR(30)",2000,114,61,278,0
+2,Colgong (NP),29,,,BD,,0,0,3,0,"OHT,",OHT(100),Yes,5000,1000,500,200,0
+3,Colgong (CT),8,,,BD,,0,0,0,0,"TU,",(),"No,BHAGALPUR(10)",100,0,0,0,0
+4,Sabour (CT),5,,,BD,,0,0,15,0,"TU,",(),"No,BHAGALPUR(5)",1300,0,0,0,0
+5,Nurpur (CT),6,OD,,,,0,0,0,0,"R/C,",PT(265),"No,BHAGALPUR(6)",1500,20,0,0,0
+6,Sultanganj (Nagar Parishad),24,,,BD,,0,1350,900,0,"TW/B,",OHT(378.54),Yes,4001,50,310,2,18
+7,Bhagalpur (M Corp.),150,,,BD,,0,38340,355,0,"R/C,",OHT(378.54),Yes,41670,1614,8604,2600,30
+8,Habibpur (CT),15,,,BD,,4,4,4,10,"HP,",(),"No,BHAGALPUR(5)",2000,12,0,40,0
+9,Puraini (CT),12,,,BD,,200,0,10,0,"UW,HP",(),"No,BHAGALPUR(10)",200,6,0,0,56
+10,Shahjangi (CT),4,,,BD,,35,0,5,0,"HP,",(),"No,BHAGALPUR(6)",145,15,0,52,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

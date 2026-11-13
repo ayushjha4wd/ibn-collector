@@ -1,0 +1,17 @@
+STATEMENT-II,,,,,,,,,,,
+"Physical Aspects and Location of Towns, 2009",,,,,,,,,,,
+Sr.  No.,Name of town,Physical aspects,,,Name of and road distance (in kms.) from,,,,,Railway station,Bus route
+,,Rainfall (in mm),Temperature            (in centigrade),,State HQ.,District HQ.,Sub-Division/ Taluk/ Tahsil / Police station/ Development  Block/ Island HQ.,   Nearest city with population of one lakh and more,Nearest city with population of five lakh and more,,
+,,,,,,,,,,,
+,,,Maximum,Minimum,,,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12
+1,Koath (NP),1443,44,5,PATNA (121),SASARAM (55),DAWATH (7),ARRAH (55),PATNA (121),BIKRAMGANJ (15),DAWATH (7)
+2,Bikramganj (NP),783,44,6,PATNA (120),SASARAM (42),BIKRAMGANJ (0),ARRAH (70),PATNA (120),BIKRAMGANJ (0),BIKRAMGANJ (0)
+3,Nasriganj (NP),866,36,9,PATNA (200),SASARAM (40),NASRIGANJ (0),ARRAH (80),PATNA (200),DEHRI (23),NASRIGANJ (0)
+4,Nokha (NP),1032,42,5,PATNA (145),SASARAM (22),NOKHA (0),ARRAH (70),PATNA (145),GARH NOKHA (0),NOKHA (0)
+5,Bhardua (CT),755,38,9,PATNA (150),SASARAM (28),CHENARI (7),ARRAH (75),PATNA (150),KUDRA (18),BHARDUA (0)
+6,Chanari (CT),755,38,9,PATNA (194),SASARAM (28),CHENARI (0),ARRAH (75),PATNA (194),KUDRA (22),CHENARI (0)
+7,Sasaram (Nagar Parishad),950,45,5,PATNA (170),SASARAM (1),SASARAM (1),ARRAH (100),PATNA (170),SASARAM (0),SASARAM (0)
+8,Dehri (Nagar Parishad),1015,45,5,PATNA (175),SASARAM (18),DEHRI (0),ARRAH (90),PATNA (175),DEHRI ON SON (0),DEHRI (0)
+9,Saraiya (CT),1050,45,5,PATNA (180),SASARAM (28),TILOTHU (1),ARRAH (100),PATNA (180),DEHRI ON SON (17),DEHRI (0)
+10,Telkap (CT),900,45,6,PATNA (230),SASARAM (50),ROHATS (7),ARRAH (120),PATNA (230),DEHRI (50),TELKAP (0)

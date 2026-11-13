@@ -1,98 +1,109 @@
-# IBN Collector: Final Task 3 Data Collection Report
+# IBN Collector: Task 3 Data Collection Report
 
-13 November 2026 · Final run `2026-11-13T083340Z` (14:03 IST)
+13 November 2026 · `ayushjha4wd/ibn-collector`
 
-The IBN collector downloads India By Numbers source datasets, keeps the original files untouched and records where and when each one came from. After running every script end to end, it holds **140 verified data files (236.8 MB) from 9 of the 26 Bihar catalogue sources**: 89 PDFs with 6,361 pages and 51 Excel workbooks with 95 sheets. Every file is traceable to its URL, download time and sha256 hash, and every one has been extracted to machine-readable CSV or text. The other 17 sources are blocked by the portals (10) or need a person to download them (7).
+Task 3 asked for the datasets catalogued in Tasks 1 and 2 to be downloaded, with original files kept, download dates recorded, source references kept, originals never edited by hand, and repeatable scripts wherever practical. All five requirements are met by the scripts, and the collector now covers **all 41 sources in the Bihar catalogue**.
 
-- Per-file catalogue: [data/analysis/FILES.md](data/analysis/FILES.md) (every file, its period, pages, tables and links)
+It holds **721 verified data files (1.23 GB) from 16 collection entries, covering 12 of the 41 catalogue sources**, plus the national CRS 2023 report. That is 117 PDFs (14,905 pages), 566 Excel workbooks (1,144 sheets) and 38 District Census Handbook archives (2,344 district tables). Every file is traceable to its URL, download time and sha256 hash, every one has been extracted to CSV or text, and all 1,112 saved originals still match their recorded hashes. Of the other 29 catalogue sources, 11 are blocked by the websites themselves, 14 need a person (a login, form, CAPTCHA or on-screen-only report) and 4 have nothing to collect.
+
+- Every file, with its period, pages, tables and link: [data/analysis/FILES.md](data/analysis/FILES.md)
 - Machine-readable: [data/analysis/files.csv](data/analysis/files.csv), [data/analysis/summary.json](data/analysis/summary.json), [data/inventory.csv](data/inventory.csv)
 
-## 1. How the final run was done
+## 1. Done and still to do
 
-All scripts were run in order on 13 November 2026, against the live portals for the collection step and offline for everything else.
-
-| Step | Command | Result |
+| | Done | Still to do |
 | --- | --- | --- |
-| 1. Offline tests | `bash tests/run_test.sh` | 45 of 45 checks passed ([log](final_tests.log)) |
-| 2. Collect | `python scripts/collect.py` | 26 sources tried: 144 files unchanged since the earlier runs, 3 new, 10 errors, 9 manual sources skipped ([log](final_collect.log)) |
-| 3. Check for bad files | `python scripts/flag.py --auto` | 0 new bad files (the 376 found earlier stay flagged) |
-| 4. Extract | `python scripts/extract.py` | 3 new files extracted, 148 already done, 0 errors ([log](final_extract.log)) |
-| 5. Verify | `python scripts/verify.py` | 527 originals checked, all intact; 151 valid, 376 flagged ([log](final_verify.log)) |
-| 6. Analyse | `python scripts/analyse.py` | Wrote `files.csv`, `summary.json` and `FILES.md` in `data/analysis/` |
+| Toolkit | Collect, extract, OCR, verify, flag, analyse and register-by-hand scripts; 52 offline tests, all passing | Nothing required |
+| Catalogue coverage | All 41 Bihar sources are in the manifest, each either automated or marked manual with the reason | India-wide catalogue (66 sources) is not yet in a manifest |
+| Public finance | State accounts (4 years), Monthly Key Indicators (Apr 2021 – Jun 2026), GST (10 years), Economic Survey 2024-25, Green Budget, all three SFC reports, 15th and 16th Finance Commission, PRS | Budget documents and FRBM disclosures (expired certificate), RBI publications (bot check), CAG audit reports and Monthly Civil Accounts (CAG server errors) |
+| Demographics | 500 Census 2011 tables, District Census Handbooks for all 38 districts, SRS reports 2011–2024, population projections, CRS 2023 | Statistics-directorate reports (site unreliable), NFHS (expired certificate), PLFS, HCES, HMIS, Mission Antyodaya, caste survey |
+| Extraction | Text and tables from every PDF; every Excel sheet and zipped table to CSV; OCR has read 624 of 2,446 scanned pages so far | Finish OCR: `python scripts/ocr.py` resumes where it stopped |
 
-## 2. Results by source
+## 2. Status of every Bihar catalogue source
 
-| Source | Dataset | Status | Data files | Size (MB) | Period covered |
+| ID | Dataset | Status | Data files | MB | Notes |
 | --- | --- | --- | ---: | ---: | --- |
-| BR-PF-05c | Bihar Monthly Key Indicators (AG Bihar) | Collected | 69 | 46.0 | Apr 2021 – Jun 2026 |
-| BR-PF-12 | GST statistics, all states | Collected | 53 | 5.9 | FY 2017-18 – FY 2026-27 |
-| BR-PF-05 | Bihar Finance Accounts Vol I & II (AG Bihar) | Collected | 8 | 37.2 | FY 2021-22 – FY 2024-25 |
-| BR-PF-05b | Bihar Appropriation Accounts (AG Bihar) | Collected | 4 | 33.7 | FY 2021-22 – FY 2024-25 |
-| BR-PF-16 | PRS Bihar Budget Analysis 2026-27 | Collected | 2 | 1.4 | FY 2026-27 |
-| BR-PF-09 | Bihar State Finance Commission reports | Partly collected (1 of 3 reports) | 1 | 79.3 | 6th SFC, Part 3 |
-| BR-PF-05a | Bihar Accounts at a Glance 2024-25 | Collected | 1 | 17.3 | FY 2024-25 |
-| BR-DM-16 | Population Projections 2011-2036 | Collected | 1 | 11.5 | 2011–2036 (published 2019) |
-| DM-11 | Vital Statistics of India, CRS 2023 | Collected | 1 | 4.5 | 2023 |
-| BR-PF-13 | RBI State Finances: A Study of Budgets | Blocked (bot check); now manual | 0 | | |
-| BR-PF-14 | RBI Handbook of Statistics on Indian States | Blocked (bot check); now manual | 0 | | |
-| BR-PF-01 | Bihar State Budget documents | Blocked (expired certificate) | 0 | | |
-| BR-PF-02 | Bihar Green Budget 2024-25 | Blocked (certificate chain) | 0 | | |
-| BR-PF-04 | Bihar Economic Survey | Blocked (certificate chain) | 0 | | |
-| BR-PF-22 | Bihar District Domestic Product 2011-12 | Blocked (certificate chain) | 0 | | |
-| BR-DM-06 | Bihar Annual Vital Statistics Reports | Blocked (certificate chain) | 0 | | |
-| BR-DM-09 | NFHS Bihar fact sheets | Blocked (certificate chain) | 0 | | |
-| BR-PF-07 | CAG State Finances Audit Report 2026 | Blocked (connection reset) | 0 | | |
-| BR-DM-08 | Bihar Statistical Handbook 2020 | Blocked (502 from site) | 0 | | |
-| BR-PF-10 | Bihar CFMS treasury system | Manual (login) | 0 | | |
-| BR-PF-19 | eGramSwaraj panchayat reports | Manual (on-screen only) | 0 | | |
-| BR-DM-01 | Bihar Caste-Based Survey 2022-23 | Manual (no stable URL) | 0 | | |
-| BR-DM-02 | Census 2011 tables, Bihar | Manual (JavaScript site) | 0 | | |
-| BR-DM-12 | Mission Antyodaya, Bihar | Manual (form) | 0 | | |
-| BR-DM-14 | Bihar electoral roll statistics | Manual (published stats only) | 0 | | |
-| BR-XC-03 | Local Government Directory, Bihar | Manual (CAPTCHA) | 0 | | |
+| BR-PF-01 | Bihar State Budget | Blocked |  |  | Expired certificate |
+| BR-PF-02 | Bihar thematic budgets — Outcome, Gender, Green and Child Budget | Collected | 1 | 12.4 | Green Budget 2024-25 only; outcome, gender and child budgets have no links on the budget portal |
+| BR-PF-03 | Disclosures under the Bihar Fiscal Responsibility and Budget Managemen | Blocked |  |  | Expired certificate (same site as BR-PF-01) |
+| BR-PF-04 | Bihar Economic Survey | Collected | 2 | 110.5 | Economic Survey 2024-25, English and Hindi; earlier years are on Google Drive |
+| BR-PF-05 | Bihar Finance Accounts, Appropriation Accounts and Accounts at a Glanc | Collected | 13 | 88.1 |  |
+| BR-PF-06 | Bihar Monthly Key Indicators | Partly collected | 69 | 46.0 | Monthly Key Indicators collected (as BR-PF-05c); Monthly Civil Accounts page returned 504 |
+| BR-PF-07 | CAG State Finances Audit Report — Bihar | Blocked |  |  | Site resets connections from outside India |
+| BR-PF-08 | CAG Local Bodies audit reports — Bihar | Blocked |  |  | CAG page returned HTTP 500 |
+| BR-PF-09 | Bihar State Finance Commission reports | Collected | 3 | 99.0 |  |
+| BR-PF-10 | Comprehensive Financial Management System | Manual |  |  | Login required; register any public report with register_manual.py |
+| BR-PF-11 | Commercial Taxes Department, Bihar — revenue data | Manual |  |  | Checked Nov 2026: the department site publishes no revenue data files (only a helpline PDF). Use GST statistics (BR-PF-12) and the Monthly Key Indicat |
+| BR-PF-12 | GST statistics — Bihar | Collected | 53 | 5.9 |  |
+| BR-PF-13 | RBI State Finances: A Study of Budgets — Bihar statements | Blocked |  |  | Bot check (RBI); download in a browser |
+| BR-PF-14 | RBI Handbook of Statistics on Indian States — Bihar series | Blocked |  |  | Bot check (RBI); download in a browser |
+| BR-PF-15 | Finance Commission — Bihar devolution and grants | Collected | 20 | 249.1 |  |
+| BR-PF-16 | PRS Bihar Budget Analysis | Collected | 2 | 1.4 |  |
+| BR-PF-17 | Open Budgets India — Bihar budget datasets | Manual |  |  | Site returned HTTP 520 (behind a bot-protection layer) in Nov 2026; download Bihar datasets by hand |
+| BR-PF-18 | CityFinance — Bihar urban local bodies | Manual |  |  | JavaScript app with no file links; the 16th FC ULB data dump (BR-PF-15) contains CityFinance data for all states |
+| BR-PF-19 | eGramSwaraj — Bihar panchayat accounts and plans | Manual |  |  | On-screen reports; export manually or write a dedicated scraper later |
+| BR-PF-20 | Panchayati Raj Department, Bihar | Manual |  |  | Publishes orders and notices, not datasets; /prd returned 404 in Nov 2026 |
+| BR-PF-21 | Urban Development and Housing Department, Bihar | Manual |  |  | Checked Nov 2026: orders and notices only, no data files |
+| BR-PF-22 | State and District Domestic Product estimates, Bihar | Blocked |  |  | Statistics directorate site unreliable; district GDP is also in the Economic Survey (BR-PF-04) |
+| BR-DM-01 | Bihar Caste-Based Survey 2022-23 | Manual |  |  | No stable official URL; register the tabled report PDF manually with its origin |
+| BR-DM-02 | Census 2011 — Bihar tables | Collected | 500 | 316.7 |  |
+| BR-DM-03 | District Census Handbooks — Bihar | Collected | 40 | 116.1 |  |
+| BR-DM-04 | Census of India 2027 — Bihar | Manual |  |  | Not yet published (Nov 2026) |
+| BR-DM-05 | Sample Registration System | Collected | 16 | 169.9 |  |
+| BR-DM-06 | Bihar Annual Vital Statistics Report | Blocked |  |  | Statistics directorate site unreliable |
+| BR-DM-07 | Monthly district CRS returns | Blocked |  |  | Statistics directorate site unreliable |
+| BR-DM-08 | Bihar Statistical Handbook | Blocked |  |  | Statistics directorate site unreliable |
+| BR-DM-09 | National Family Health Survey — Bihar | Blocked |  |  | Expired certificate (rchiips.org) |
+| BR-DM-10 | Periodic Labour Force Survey — Bihar estimates | Manual |  |  | mospi.gov.in is a JavaScript app with no file links; download the PLFS annual report by hand. Microdata needs registration |
+| BR-DM-11 | Household Consumption Expenditure Survey — Bihar estimates | Manual |  |  | mospi.gov.in is a JavaScript app; download the HCES report by hand. Microdata needs registration |
+| BR-DM-12 | Mission Antyodaya — Bihar villages and gram panchayats | Manual |  |  | Download form asks for name and purpose |
+| BR-DM-13 | Socio Economic and Caste Census 2011 — Bihar | Manual |  |  | View-only portal; returned 502 in Nov 2026 |
+| BR-DM-14 | Bihar electoral rolls — Special Intensive Revision 2025 | Manual |  |  | Use published statistics only; not name-level rolls |
+| BR-DM-15 | HMIS — Bihar districts and facilities | Manual |  |  | Reports are generated on screen; connection reset in Nov 2026. Download by hand |
+| BR-DM-16 | Population projections — Bihar | Collected | 1 | 11.5 |  |
+| BR-XC-01 | Bihar DataLab | Manual |  |  | JavaScript app; login and API described as planned (Nov 2026) |
+| BR-XC-02 | Bihar e-Statistics portal | Manual |  |  | Redirects to a login page (Nov 2026) |
+| BR-XC-03 | Local Government Directory — Bihar units | Manual |  |  | Download form with captcha; data.gov.in API is an alternative |
 
-Sizes count data files only; the 11 saved portal pages they were linked from are kept as well but not counted.
+The manifest also has rows that split a catalogue source into separate collections: BR-PF-05a (Accounts at a Glance), BR-PF-05b (Appropriation Accounts), BR-PF-05c (Monthly Key Indicators, catalogue BR-PF-06) and BR-PF-15a (15th Finance Commission). DM-11 is the national CRS 2023 report from the India-wide catalogue.
 
-## 3. What was collected, source by source
+## 3. What was collected
 
-**State accounts from the Accountant General (A&E), Bihar: 82 files, 134 MB.** This is the core fiscal dataset.
-- *Monthly Key Indicators (BR-PF-05c):* a complete monthly series, all 63 months from April 2021 to June 2026, plus 6 preliminary and supplementary March year-end editions. Each is about 18 pages of receipts, expenditure and deficit figures against the budget estimate.
-- *Finance Accounts (BR-PF-05):* Volumes I and II for four years, FY 2021-22 to FY 2024-25. Volume II runs to 474–535 pages per year of detailed statements.
-- *Appropriation Accounts (BR-PF-05b):* the same four years, grant by grant.
-- *Accounts at a Glance 2024-25 (BR-PF-05a):* the 53-page summary of the year.
+**State accounts from the Accountant General (A&E), Bihar: 82 files, 134 MB.**
+- Monthly Key Indicators: every month from April 2021 to June 2026 (63 months) plus 6 preliminary and supplementary March editions.
+- Finance Accounts Vol I and II and Appropriation Accounts, FY 2021-22 to FY 2024-25; Accounts at a Glance 2024-25.
 
-**GST statistics (BR-PF-12): 53 files covering all states, Bihar included.**
+**State budget and planning: 6 files, 222 MB.**
+- Bihar Economic Survey 2024-25 in English and Hindi (1,272 pages; includes district GDP).
+- Green Budget 2024-25.
+- 5th State Finance Commission report Vol I and 6th SFC report Parts 1–3.
 
-| Series | Files | Years |
-| --- | ---: | --- |
-| State-wise GST collection | 10 | FY 2017-18 – FY 2026-27 |
-| GSTR-1 returns filed | 10 | FY 2017-18 – FY 2026-27 |
-| GSTR-3B returns filed | 10 | FY 2017-18 – FY 2026-27 |
-| IGST settlement to states | 10 | FY 2017-18 – FY 2026-27 |
-| E-way bill data | 9 | FY 2018-19 – FY 2026-27 |
-| Registrations, gross and net tax collection, 9-year report, pre-GST revenue | 4 | Single files |
+**Finance Commissions: 20 files, 249 MB.** The 16th FC report (2026-31) with annexures, its evaluation of Bihar's state finances, and its 13 all-state Excel datasets (horizontal devolution, key fiscal indicators, state finance accounts, salaries, subsidies, state enterprises, urban local bodies). The 15th FC's 2020-21 report and Volumes I, II and IV (The States). Volume IV is 116 MB, over GitHub's 100 MB file limit, so it is kept out of git; `config/not_in_git.txt` gives its URL and hash.
 
-52 of the 53 files mention Bihar. The exception, `Gross_Net_Tax_collection.xlsx`, is an all-India total, so Bihar's figures must come from the state-wise files.
+**GST statistics: 53 files, all states.** State-wise collections, GSTR-1 and GSTR-3B returns and IGST settlement for FY 2017-18 to FY 2026-27, e-way bill data from FY 2018-19, plus registrations and summary reports.
 
-**Other sources.**
-- *6th State Finance Commission report, Part 3 (BR-PF-09):* 377 pages, newly collected in the final run. Parts 1–2 and the 5th SFC report failed (see section 7).
-- *PRS Bihar Budget Analysis 2026-27 (BR-PF-16):* the 9-page analysis plus PRS's 4-page summary of the 16th Finance Commission report.
-- *Population Projections 2011–2036 (BR-DM-16):* the Technical Group report, 268 pages, with state tables including Bihar.
-- *Vital Statistics of India, CRS 2023 (DM-11):* the national report, 181 pages, with state tables.
+**Census 2011: 540 files, 433 MB.**
+- 500 tables whose title names Bihar: Primary Census Abstract (state and district), houselisting and household amenities, scheduled castes and tribes, workers, migration, religion and mother tongue.
+- District Census Handbooks for all 38 districts: each district's tables (about 60 per district, 2,344 in all) and the state-wide village and town data files (the village file is 82 MB, with every village in Bihar).
+
+**Other demographics.** SRS Statistical Reports 2011–2024 (state birth, death, fertility and mortality rates; 4,560 pages), population projections 2011–2036 and the national CRS 2023 report.
 
 ## 4. Extraction analysis
 
-All 140 data files were extracted without error. The extracted copies are faithful, not cleaned: headers and units still need standardising in a later step.
-
 | Measure | Value |
 | --- | ---: |
-| PDF pages extracted to text | 6,361 |
-| Ruled tables found in PDFs and saved as CSV | 8,106 |
-| Excel sheets saved as CSV | 95 |
-| PDF pages with no extractable text | 381 (6%) |
-| Data files that mention Bihar | 139 of 140 |
+| Data files extracted | 721 of 721 |
+| PDF pages extracted to text | 14,905 |
+| Ruled tables found in PDFs and saved as CSV | 14,451 |
+| Excel sheets saved as CSV (including inside zips) | 3,488 |
+| Scanned PDF pages with no text layer | 2,446 |
+| Scanned pages read by OCR (13 Nov, still running) | 624 |
 
-**Scanned pages need OCR.** 270 of the 381 pages with no text are in one file: the 6th SFC report, Part 3, where 72% of pages are scanned images. Its text and tables are mostly missing until OCR is added. Every other file has at most 11 such pages.
+Excel sheets: 1,144 from workbooks plus 2,344 from the handbook archives.
+
+**Scanned pages.** 2,446 pages have no text layer. Most are in the English Economic Survey 2024-25, which is an image-only PDF, the SRS reports for 2015–2019 (about 110–120 scanned pages each) and the 6th SFC report Part 3. `ocr.py` reads them with Tesseract in English and Hindi and saves the text beside the normal output; OCR text can contain misreadings, so use it to find figures and check them against the original.
+
+**Bihar coverage.** Every file from Bihar's own sources (state accounts, budget, SFC) mentions Bihar, except the English Economic Survey, which has no text layer until OCR reads it. National datasets were kept whole: GST, SRS and Finance Commission files cover all states. 119 of the 500 census files never name Bihar because they are district Primary Census Abstract files identified by census code (for example `PCA1002` is a Bihar district). Filter Bihar out at the cleaning stage.
 
 ## 5. What the data shows: an example
 
@@ -111,57 +122,59 @@ The June 2026 Monthly Key Indicators give Bihar's position after the first quart
 
 By June the state had used 98% of its budgeted net borrowing but received under 3% of its budgeted revenue, partly because no share of union taxes had been recorded yet. Capital spending was running at a little over half last year's pace.
 
-## 6. Collection runs
+## 6. Problems found and how they were fixed
 
-| Run (IST) | Saved | Unchanged | Errors | What happened |
-| --- | ---: | ---: | ---: | --- |
-| 13 Nov, 12:18 | 8 | 0 | 76 | First run; most file hosts not yet allowed by the network |
-| 13 Nov, 12:31 | 62 | 2 | 1 | GST and CAG file hosts allowed |
-| 13 Nov, 12:43 | 454 | 1 | 0 | Fixed CAG and RBI pages; 368 RBI downloads later found to be bot-check pages |
-| 13 Nov, 14:03 (final) | 3 | 144 | 10 | Full re-run: nothing had changed upstream; 1 new SFC report and 2 updated portal pages |
+| Problem | Fix |
+| --- | --- |
+| RBI served a bot-check page instead of 368 spreadsheets and PDFs | `collect.py` checks every download's content and refuses bot-check or HTML pages served for a file link. The 368 files are flagged invalid, kept for the record and excluded from extraction. RBI is now a manual download |
+| 8 unrelated PDFs came from an over-broad CAG link pattern | Flagged invalid; the manifest now points at CAG's three report pages |
+| `state.bihar.gov.in` leaves an intermediate certificate out of its chain | `config/extra-intermediates.pem` holds the public Sectigo certificate, checked against a trusted root. Verification stays on |
+| The same site redirects in a loop without its session cookie | `collect.py` keeps cookies within a run |
+| The Economic Survey is served only through a form | Fetched by a short script and added with `register_manual.py`, which records how it was obtained |
+| censusindia.gov.in is a JavaScript site | `census_manifest.py` lists Bihar's files through the census catalogue's public API and drops repeats, such as the 82 MB village file linked from every handbook page |
+| District Census Handbooks come as zip archives | `extract.py` reads spreadsheets inside a zip in memory; member names cannot write outside the output folder |
+| Two handbook tables per district (T42, T43) crashed the Excel reader | `extract.py` skips their broken named-range definitions, which hold no data, and reads the cells |
+| Extracting a 116 MB PDF ran out of memory | `extract.py` releases each page after reading it |
+| The cloud machine restarted mid-download | `collect.py --resume` continued without downloading again; `verify.py` found all originals intact |
+| One original is over GitHub's 100 MB file limit | Kept out of git and listed in `config/not_in_git.txt`; `verify.py` reports it as NOT IN GIT |
 
-The final run shows the collector is repeatable. 144 files came back byte-identical and were logged as `unchanged`, not saved again. No file appears twice in the collection.
+## 7. Still to do
 
-## 7. Data quality issues and how they were handled
+1. **From a machine in India**, run `python scripts/collect.py`. That retries the statistics directorate (BR-PF-22, BR-DM-06, BR-DM-07, BR-DM-08) and the CAG audit report (BR-PF-07), and the CAG pages that returned server errors (BR-PF-06, BR-PF-08).
+2. **Download by hand and register** with `register_manual.py`:
+   - RBI publications (BR-PF-13, BR-PF-14).
+   - Bihar budget documents and FRBM disclosures (BR-PF-01, BR-PF-03) and NFHS (BR-DM-09) while their certificates are expired.
+   - Login, form or on-screen sources: CFMS, eGramSwaraj, Open Budgets India, PLFS, HCES, HMIS, Mission Antyodaya, electoral roll statistics, SECC, LGD, DataLab, e-Statistics.
+   - The caste survey report, which has no stable official URL.
+3. **India-wide catalogue.** Add the 66 India-wide sources to a manifest the same way.
+4. **Next stage (cleaning).** The extracted CSVs are faithful copies, not cleaned data. Standardising state and district names, LGD codes and units belongs in a separate step that reads from `data/processed/`.
 
-- **RBI bot check.** RBI's site answered with a JavaScript challenge page instead of the 368 spreadsheets and PDFs it linked to, and an early version saved those pages under `.xlsx` and `.pdf` names. The collector now checks every download's content and refuses HTML or bot-check pages served for a file link. The 368 files are flagged invalid, kept for the record, and excluded from extraction. The two RBI sources are now manual.
-- **Off-target files.** 8 unrelated PDFs (citizen charter, pension guidelines and similar) came from an over-broad link pattern on the old CAG page. They are flagged invalid; the manifest now points at the three report pages.
-- **Changing portal pages.** The SFC and PRS pages changed between runs, so new snapshots were saved alongside the old ones. That is expected: snapshots record what each page linked to at the time.
-- **Partial source.** BR-PF-09 links its reports from two hosts. One report downloaded; one is on `state.bihar.gov.in` (certificate chain) and one reset the connection.
-
-## 8. Not yet collected
-
-| Cause | Sources | Next step |
-| --- | --- | --- |
-| Incomplete certificate chain | BR-PF-02, BR-PF-04, BR-PF-22, BR-DM-06, BR-DM-09, 1 BR-PF-09 report | Re-run with `--ca-bundle` that includes the missing Sectigo intermediate certificate |
-| Connection reset or 502 | BR-PF-07, BR-DM-08, 1 BR-PF-09 report | Re-run from a machine in India |
-| Expired certificate | BR-PF-01 | Retry once the site renews it, or download by hand |
-| Bot check (RBI) | BR-PF-13, BR-PF-14 | Download in a browser, then `register_manual.py --dir` |
-| Login, form, CAPTCHA or JavaScript-only site | BR-PF-10, BR-PF-19, BR-DM-01, BR-DM-02, BR-DM-12, BR-DM-14, BR-XC-03 | Download by hand, then `register_manual.py` |
-
-`dse.bihar.gov.in` refused connections in the first run but answered in the final run with an incomplete certificate chain. So BR-PF-22 and BR-DM-06 now need the CA bundle, not a different location.
-
-## 9. Task 3 requirements
+## 8. Task 3 requirements
 
 | Requirement | How it is met |
 | --- | --- |
-| Preserve original files | Files are saved byte for byte and made read-only. Nothing is overwritten: a revised file is kept alongside the old one. Cut-off downloads and bot-check pages are rejected. |
-| Record download dates | Every attempt is logged with the time in UTC and IST, plus the server's Last-Modified and ETag headers where sent. Folders are named by the IST date of the run. |
-| Maintain source references | Each record holds the catalogue source ID, requested and final URL, linking page, link text, size and sha256. `inventory.csv` and `FILES.md` list them per file. |
-| Avoid manually modifying originals | Extraction writes only to `data/processed/` and re-checks each original's hash first. `verify.py` found all 527 originals intact. Bad files are flagged, never edited or deleted. |
-| Repeatable extraction scripts | One command per stage. The final re-run saved nothing twice and extracted only the 3 new files. |
+| Preserve original files | Files are saved byte for byte and made read-only. Nothing is overwritten: a revised file is kept alongside the old one. Cut-off downloads and bot-check pages are rejected. Bad files are flagged, never deleted |
+| Record download dates | Every attempt is logged with the time in UTC and IST, plus the server's Last-Modified and ETag headers where sent. 10 collection runs are recorded in `data/provenance.jsonl` |
+| Maintain source references | Each record holds the catalogue source ID, requested and final URL, linking page, link text (for census files, the table name), size and sha256. `inventory.csv` and `FILES.md` list them per file |
+| Avoid manually modifying originals | Extraction and OCR write only to `data/processed/`, after re-checking each original's hash. `verify.py` found all 1,112 originals intact |
+| Repeatable extraction scripts | One command per stage; re-runs skip unchanged files and finished work, and `--resume` continues an interrupted download |
 
-## 10. Reproducing this report
+## 9. Reproducing this
 
-Install Python 3.9 or later and `pip install -r requirements.txt`, then run:
+Install Python 3.9 or later, `pip install -r requirements.txt`, and for OCR `apt-get install tesseract-ocr tesseract-ocr-hin poppler-utils`. Then:
 
 ```bash
 bash tests/run_test.sh
 python scripts/collect.py
+python scripts/census_manifest.py
+python scripts/census_manifest.py --groups srs --out config/manifest_srs.csv
+python scripts/collect.py --manifest config/manifest_census.csv
+python scripts/collect.py --manifest config/manifest_srs.csv
 python scripts/flag.py --auto --apply
 python scripts/extract.py
+python scripts/ocr.py
 python scripts/verify.py
 python scripts/analyse.py
 ```
 
-`analyse.py` regenerates every number in sections 2–4 from the logs and extracted files. A run from an Indian network with a CA bundle for the Sectigo chain should add most of the blocked sources.
+`analyse.py` regenerates every number in sections 2–4 from the logs and extracted files.

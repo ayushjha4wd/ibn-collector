@@ -1,0 +1,44 @@
+The DISCOMs made efforts to address the issue of Aggregate Technical and Commercial (AT&C)
+loss and gradually moving towards reduction in AT&C loss from 45 percent in 2011-12 to 21.74
+percent in 2023-24 (Chart 8.9). The two DISCOMs are striving hard to bring down the AT&C loss
+further to 15 percent.
+
+Chart 8.9 ; Aggregate Technical & Commercial Losses (in percent)
+
+SSS Ss
+8 vA 43.0% 42.0% 41.0% i%
+९ 35.0
+37.0% =
+
+24.0%
+
+21.7%
+
+Source : Department of Energy, GoB
+
+8.7 Transmission
+
+In order to improve the power supply position, the State government has adopted various measures
+for capacity enhancement, improvement in the Transmission & Distribution (T&D) network and
+energy conservation. The robust transmission system supports the increasing requirement of
+generation and distribution. To meet the growing demands of power, there is a requirement for a
+strong and reliable network of inter-state as well as intra-state transmission. The existing
+transmission system, therefore, needs to be strengthened with a proper planning. The required
+capacity for 24-hour power supply for 2024-25 and 2025-26 is presented in Table 8.11. The
+transmission network is being continuously strengthened over the last two decades to reduce the
+T&D loss. The grid substations grew by almost three times from 45 in 2005 to 170 in 2024, while
+the length of transmission line has increased by more than 4 times, from 5000 CMS to 20393 CMS
+during the same period (Chart 8.10), Further, a total of 14888 MW has been evacuated in 2024,
+compared to only 1000 MW in 2005 (Chart 8.11),
+
+Table 811 : Projected Required Capacity for Power
+
+Transformation Available Capacity in MVA at
+Peak Demand | Capacity needed {220/132 KV
+Year (MW) to meet Peak |400/220132[7६ 43945. | 132/33 KV
+Demand (MW) | KY level KV level level
+2024-25 8908 6030 3000 15120 20190
+2025-26 9743 17540 4000 15520 20290
+
+Source : Department of Energy, GoB
+304

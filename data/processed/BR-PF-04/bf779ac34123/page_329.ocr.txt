@@ -1,0 +1,45 @@
+provision for effective financial control, monitoring and reliability in reporting and recalibration
+of regulatory and institutional framework. Rationalization of DDO offices has been done and their
+number has been brought down from 12,000 to 8,000. Now, a visit to the treasury is not required
+for submission of bills, vouchers, and payments. Digital signature is legally valid for transactions.
+Also, the Auditor General interface has been enabled to render treasury accounts online with the
+provision for real-time audit, Letter of Credit (LoC) System and Cheque system have been replaced
+with a regular budget allotment system, This has resulted in integrated work accounts at the
+Divisional Office, online expenditure management and accounting by the treasury, direct debit
+from the account in RBI that reduces reconciliation issues, online submission of life certificates
+by pensioners through Jeevan Pramaan integration, and contributions to the NPS being uploaded
+in NSDL on a daily basis to avoid any delays. Integration with RBI's e-Kuber has reduced the
+processing time for payments by direct transfer to the bank account of the beneficiary/payee, thus
+eliminating the need for frequent treasury visits. The claim processing time has been reduced from
+30-45 days to just 3 days.
+
+All government accounts are progressively being brought under the Treasury's control, resulting
+in minimal idle cash, including the deposit of idle cash, to the tune of Rs. 6000 crore. Online budget
+preparation and authorization of budget estimates have effectively reduced the budget preparation
+time from 3-4 months to nearly | month, Also, it facilitates timely Budget Allotment as the budget
+is available for allotment/sub- allotment on the very first day of a Financial Year. Online reporting
+eliminates the need for maintenance of multiple physical registers i.e. allotment register,
+expenditure register, payment register, etc, It also helps in identification of ghost
+employees/pensioners due to the controls and checks introduced in the application. Audit Trail of
+every action, including data created/modified/deleted, records or details of modification, note
+sheets or remarks entered/modified, documents uploaded or removed, is maintained in the
+application. Finally, it facilitates the online auto surrender of budgets at the end of a financial year.
+
+The Finance Department is also gradually progressing to achieve a fully automated, workflow-
+driven, and all-inclusive PFMS, and, therefore, the Department has already initiated actions for
+stabilization and sustenance of the rolled-out CFMS application by CFMS 2.0, which shall broadly
+cover the following additional functions: (1) Pensioners’ Digitization, (ii) Cash (Ways & Means)
+& Debt Management, (iii) Revenue Management, (iv) Audit Management System, (v) Asset
+Management System, (vi) Grievance Management, (vii) Business Intelligence/OLAP Tools, and
+(viii) PFMS (SNA SPARSH) integration.
+
+Further, the integration activities between CFMS 2.0, RBI and PFMS is also initiated and targeted
+
+according to be completed by February, 2025. Authorization from the Accountant General has
+
+been obtained for opening the SLS accounts with RBI. For payment processing, the cyber treasury
+
+has been implemented in CFMS. The development related to the Implementing Agency, etc., is in
+
+progress and is targeted to be completed by March 2025. Additionally, to improve the functional
+272

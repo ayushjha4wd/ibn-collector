@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-DM-03/2026-11-13/DH_2011_DCHB_Village_Release_1000.xlsx",
+  "raw_sha256": "389c5dbc8c0547ec9e181ea8e9d81c2ee70b5f52c377416cd7b9cbfb4f1426c1",
+  "source_id": "BR-DM-03",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/296/download/836",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:43:03+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-03/389c5dbc8c05/sheets/Village_Data_1000.csv",
+    "data/processed/BR-DM-03/389c5dbc8c05/sheets/Hamlet_Data_1000.csv",
+    "data/processed/BR-DM-03/389c5dbc8c05/sheets/Misc_Information.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

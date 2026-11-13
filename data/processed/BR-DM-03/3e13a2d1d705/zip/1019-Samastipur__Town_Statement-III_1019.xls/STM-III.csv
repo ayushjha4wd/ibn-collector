@@ -1,0 +1,34 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Bhagirathpur (CT),8,OD,,,,25,410,2,0,"R/C,OHT",(),"No,SAMASTIPUR(5)",400,0,1,0,0
+2,Mathurapur (CT),7,OD,,,,0,51,1,0,"TW,OHT",(),"No,SAMASTIPUR(1)",2050,2,150,30,0
+3,Samastipur (Nagar Parishad + OG),45,,CD,,,0,9020,63,762,"TU,",OHT(710),Yes,8901,227,2602,3,0
+4,Dharampur (CT),6,OD,,,,0,90,455,0,"OHT,",OHT(),"No,SAMASTIPUR(2)",317,0,18,0,1
+5,Bhuindhara (CT),5,OD,,,,275,115,325,0,"HP,",(),"No,SAMASTIPUR(2)",215,1,23,0,0
+6,Dalsinghsarai (NP),15,,CD,,,0,2927,0,0,"TW/B,OHT","BWP(454),OHT(364)",Yes,1434,196,410,432,4
+7,Rosera (NP),17,OD,,,,0,2010,0,100,"TU,",OHT(450),"No,SAMASTIPUR(24)",2000,10,250,150,0
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

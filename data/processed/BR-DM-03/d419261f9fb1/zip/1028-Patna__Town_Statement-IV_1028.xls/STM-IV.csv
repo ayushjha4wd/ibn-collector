@@ -1,0 +1,30 @@
+STATEMENT - IV,,,,,,,,,,,,,
+"Medical Facilities, 2009",,,,,,,,,,,,,
+Sr.No.,Name of Town,No. of Medical facilities* (with number of beds in brackets),,,,,,,,,,Charitable Hospital/Nursing Home  (Numbers),Medicine Shop (Numbers)
+,,Hospitals  (Allopathic & Others),Dispensaries / Health Center,Family Welfare Center,Maternity and Child Welfare Center,Maternity Homes,T.B.Hospital/ Clinic,Nursing Homes,Veterinary Hospital ,Mobile Health Clinic,Others etc.,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+1,Maner (NP),2(18),1(6),1(0),1(0),1(2),12 Kms.,12 Kms.,1(0),35 Kms.,12 Kms.,0,5
+2,Dinapur Nizamat (Nagar Parishad),15 Kms.,1(2),1(0),15 Kms.,15 Kms.,15 Kms.,15 Kms.,15 Kms.,15 Kms.,15 Kms.,0,60
+3,Dinapur Cantonment (CB),1(60),1(0),1(0),10 Kms.,10 Kms.,14 Kms.,1(10),14 Kms.,14 Kms.,N.A.,0,16
+4,Khagaul (Nagar Parishad),2(154),2(7),1(0),10 Kms.,10 Kms.,1(8),10 Kms.,10 Kms.,10 Kms.,10 Kms.,0,12
+5,Saidpura (CT),1 Kms.,1 Kms.,1 Kms.,1 Kms.,1 Kms.,1 Kms.,2(12),1 Kms.,10 Kms.,N.A.,0,4
+6,Patna (M Corp. + OG),12(2117),2(0),1(27),1(33),2(0),1(40),20(800),2(0),4(0),N.A.,2,4515
+7,Pataliputra Housing Colony (CT),6 Kms.,6 Kms.,6 Kms.,1(0),5 Kms.,5 Kms.,6 Kms.,6 Kms.,6 Kms.,N.A.,25,50
+8,Phulwari Sharif (Nagar Parishad),1(68),2(84),1(6),17(16),1(6),1(2),4(40),1(0),6 Kms.,6 Kms.,4,25
+9,Nohsa (CT),3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,1(10),3 Kms.,15 Kms.,3 Kms.,0,5
+10,Kurthaur (CT),10 Kms.,1(0),1(0),10 Kms.,10 Kms.,10 Kms.,10 Kms.,10 Kms.,10 Kms.,10 Kms.,0,2
+11,Bihta (NP),1(50),1(0),1(0),4(3),1(3),15 Kms.,4(20),1(0),5 Kms.,N.A.,0,25
+12,Pareo (CT),36 Kms.,1 Kms.,10 Kms.,1 Kms.,1 Kms.,3 Kms.,1 Kms.,10 Kms.,1(0),N.A.,0,0
+13,Naubatpur (NP),30 Kms.,1(6),1(0),30 Kms.,30 Kms.,30 Kms.,30 Kms.,1(0),30 Kms.,30 Kms.,0,4
+14,Bikram (NP),35 Kms.,1(6),1(0),32 Kms.,1(6),35 Kms.,30 Kms.,1(0),35 Kms.,35 Kms.,0,4
+15,Janpur (CT),10 Kms.,1(0),1(0),10 Kms.,10 Kms.,10 Kms.,10 Kms.,3 Kms.,84 Kms.,10 Kms.,0,3
+16,Masaurhi (Nagar Parishad),30 Kms.,1(36),1(0),30 Kms.,1(4),30 Kms.,30 Kms.,1(0),30 Kms.,1(0),4,80
+17,Fatwah (NP),25 Kms.,1(10),1(0),1(0),3(2),1(0),1(5),1(0),0(3),25 Kms.,4,15
+18,Khusrupur (NP),1(6),1(6),1(0),1(3),1(3),3 Kms.,1(5),1(0),31 Kms.,N.A.,0,9
+19,Bakhtiarpur (NP),1(6),1(25),1(1),50 Kms.,1(1),50 Kms.,4(20),1(0),50 Kms.,3 Kms.,1,20
+20,Barh (Nagar Parishad),1(72),1(6),64 Kms.,1(40),1(40),1(0),6(55),1(0),64 Kms.,64 Kms.,7,73
+21,Mokameh (Nagar Parishad),25 Kms.,1(30),1(0),1(4),1(4),1(0),1(100),1(0),90 Kms.,N.A.,0,15
+22,Dariapur (CT),10 Kms.,7 Kms.,7 Kms.,1(0),10 Kms.,10 Kms.,1(5),5 Kms.,90 Kms.,5 Kms.,0,4
+,,,,,,,,,,,,,
+"*If a medical facility is not available in the town,nearest place distance from the town where facility is available has been given",,,,,,,,,,,,,
+*N.A.:Not Available,,,,,,,,,,,,,

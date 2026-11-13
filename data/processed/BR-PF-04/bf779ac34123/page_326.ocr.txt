@@ -1,0 +1,41 @@
+Better land records eased the way for land acquisition, mutation, tax payment and finally gave
+shape to new development projects. The modern land records system of the state bolsters the Single
+Window System for investors. Another latest ICT intervention has significantly facilitated the
+Mutation of lands acquired by the government. This step has resulted in realizing big projects
+related to Railway Tracks, Airports, Highways, Office Complexes, ete in the state.
+
+Agriculture and Allied Sectors
+
+Agriculture Single Window : The primary goal of this project is to address inefficiencies and
+transparency issues in the previous system, creating a single transparent window for
+communication and information exchange. The system incorporates a four-layer verification
+process involving the Panchayat, Block, District, and Headquarters levels. This structure ensures
+thorough validation and reduces the average processing time from 90 to 15 days. Farmers can
+submit requests online or through 45,000+ VLE centres/cybercafés, reducing the need for physical
+visits and paperwork. Payments are directly credited to Aadhaar-linked bank accounts, reducing
+issues related to payment retums by 90 percent. Automated SMS alerts keep beneficiaries
+informed of their request status and updates throughout the process, improving transparency and
+communication. A comprehensive dashboard and MIS facilitate real-time monitoring and
+reporting of agricultural schemes, including procurement, seed testing, and weather updates. A
+digitized database of two crore registered farmers is maintained, allowing for better management
+and evaluation of agricultural schemes.
+
+Here is a comprehensive list of major vendors and their products used in the development and
+implementation of the Single Integrated Platform for Direct Benefit Transfer (DBT) in
+Government Subsidy Schemes. The new system has led to a substantial increase in the assistance
+transferred, i.c. from Rs. 1,700 crore to Rs. 16,000 crore. The number of subsidy requests has
+surged from 6 lakh to 16 lakh, and the financial aid distributed has seen a ten-fold increase. This
+demonstrates the system’s effectiveness in scaling up operations to meet the growing demands of
+farmers and improving their economic well-being.
+
+BIHAN App : The platform has optimized crop target projections, monitored pest incidences,
+tracked pesticide consumption, and provided market price analyses. It has also assessed cold
+storage infrastructure needs and streamlined the allocation of seeds and fertilizers, ensuring
+sustainable practices and enhanced productivity. It has different modules: (i) Crop Target, (ii) Crop
+Coverage and Productivity, (iii) Cold Storage, (iv) Agriculture Seed Performance, (v) Horticulture
+Seed Performance, (vi) Seed Variety, (vii) Seed Requirements Analysis, (viii) Horticulture
+Produce (Honey and Mushroom), (ix) Agri Asset Structure, (x) Farm Machinery, (xi) Organic
+Farming, (xii) Agriculture Marketing Information System, (xiii) Pest Surveillance, (xiv) Pesticide
+Usage Data, (xv) Capacity Building, (xvi) Geo-fencing, (xvii) Agriculture Cluster, (xviii) Combine
+Harvester Pass, and (xix) Farmer Outreach Services.
+269

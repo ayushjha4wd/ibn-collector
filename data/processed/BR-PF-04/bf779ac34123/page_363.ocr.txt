@@ -1,0 +1,41 @@
+several automation related initiatives are: (i) Sub-station Automation System (SAS) for fully
+automated grids; (ii) evacuate around 750 MW renewable energy; (iii) Geographical Information
+System (GIS) mapping of all its operational including under-construction Grid Sub-stations; (iv)
+Upgraded Unified Load Dispatch and Communication (ULDC): (v) Supervisory Control and Data
+Acquisition (SCADA) system installed in State Level Dispatch Center (SLDC); (vi) Optical fiber
+link has been established throughout the transmission network for ensuring faster communication
+of real-time data flow; (vii) Enterprise Resource Planning (ERP) for intra-state power transmission
+business; (viii) Availability-based Tariff (ABT) Meters; (ix) use of High Temperature and Low
+Sag (HTLS) Conductors; (x) Replacement of Earth wires and Power-line Carrier Communication
+(PLCC) equipment of old lines with Optical Ground Wire (OPGW) on hotlines; (xi) Capacitor
+Banks and Reactors are installed for automatic compensation of reactive power to reduce
+Transmission loss; (xii) Cyber security; and, (xiii) Uses of drones for line survey. Apart from these,
+Monopole/ Narrow Base Tower are being used in Transmission lines which has the benefit of: (i)
+Less right-of-way, (1) Better visual appearance, (iii) Less area requirement in congested areas, (iv)
+Less components for faster installation, (v) Lower Installation Cost, (vi) Design flexibility for easy
+installation, (vii) Better reliability even in extreme weather conditions, (viii) Less expenses on
+maintenance and repairs, and (ix) Better safety for future.
+
+8.8 Power Sector Schemes
+Central Government Schemes
+
+To extend the electricity supply coverage throughout the state, the Central government recently
+initiated several programmes in Bihar. Six of them have already been completed, which are —
+
+(i) Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY),
+
+(ii) Rural Electrification-Deen Dayal Upadhyaya Gram Jyoti Yojana (RE-DDUGJY); erstwhile
+Rajiv Gandhi Grameen Vidyutikaran Yojana (RGGVY) during 2007-12 (Phase Il) and
+2012-17,
+
+(iii) Restructured Accelerated Power Development and Reforms Program (R-APDRP), for
+strengthening of system with IT implementation,
+
+(iv) Integrated Power Development Scheme (IPDS),
+(v) Real-Time Data Acquisition System (RT-DAS) &
+(vi) Pradhan Mantri Sahaj Bijlee Har Ghar Yojana (SAUBHAGYA).
+
+Recently, two new schemes namely: (i) Grid-Connected Rooftop (GCRT) Solar Power Plant, and
+(ii) Loss Reduction component of Revamped Distribution Sector Scheme (RDSS) are under
+
+306

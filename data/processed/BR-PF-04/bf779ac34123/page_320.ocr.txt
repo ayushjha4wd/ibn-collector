@@ -1,0 +1,44 @@
+through a NH toll plaza. The vehicle information is then transmitted to the e-Detection software.
+Later on, the vehicle data is compared with the data on the NIC's Vahan database for identifying
+vehicles with invalid documents. The objective is to keep a check on vehicles plying without valid
+documents, the State Government has developed an e-detection portal. For a vehicle to ply on a
+public road, it is mandatory to have valid documents like registration certificate, fitness certificate,
+insurance, PuCC, valid driving license etc. The toll gates of NHAI have been integrated with the
+portal,
+
+Table 7.2: Challan Payment Collection Summary through
+e-Detection as of September, 2024
+
+Challan Particulars Values
+Total Challans issued 48965
+Challan Amount Generated (in Rs. lakh) 3189.51
+Challans Paid 4535
+Challans Amount Paid (in Rs. lakh) 364.79
+Challans Pending 44430
+Challan Amount Pending (in Rs. lakh) 2824.72
+
+Source : Department of Transport, (08
+
+Child Labour Tracking System (CLTS) : It is a web-based tracking system launched in 2016
+which facilitates the monitoring of rescued child labours and their rehabilitation. After the release
+of the child labour, a sum of Rs. 3000 is provided as immediate assistance by the Labour Resources
+Department. According to the order of Hon*ble Supreme Court, a sum of Rs. 5000 by the State
+Government and Rs. 20,000 from the accused employer is deposited in District Rehabilitation-
+cum-welfare fund. In addition to this after entry on CLTS portal, for each eligible rescued child
+labour an amount of Rs. 25,000 from the CM Relief Fund is provided as F.D / annuity. A total of
+2912 child labours have received assistance of Rs. 25,000 per child labour from CMRF through
+this annuity scheme. The total number of entry of child labours in CLTS is 10,039 (as on 31-10-
+2024). Dhawa Dal App has been launched to monitor the activities of Dhawa Dals constituted in
+every district for rescue of child labours.
+
+e-Office : The e-Office aims to support governance using more effective and transparent inter and
+intra-government processes. This system involves all stages of working in a file, including the
+diary noting of inward receipts, creation of files, movement of receipts and files and finally, the
+archival of records. With this system, the movement of receipts and files becomes seamless and
+there is more transparency in the system since each and every action taken on a file is recorded
+electronically. This simplifies decision making, as all the required information is available at a
+single point. It envisions a paperless office, with increased transparency, efficiency and
+accountability of the organization. E-Office has been functioning smoothly across the departments,
+selected districts and subsidiaries across the state since 2015,
+
+263

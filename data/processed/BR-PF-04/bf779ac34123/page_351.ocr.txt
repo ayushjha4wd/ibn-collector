@@ -1,0 +1,46 @@
+Table 8.5 : Existing Tied-up Capacity (2023 and 2024)
+
+March, 2023 (Figures in MW) March, 2024 (Figures in MW)
+Ownership | Thermal Hydro RES | Grand | Thermal |... Hydro RES | Grand
+(Coal) | (Renewable) | (MNRE) | Total (Coal) | (Renewable) | (MNRE) | Total
+State | 0 | 54 242 296 oo | 54 202 256
+Private/IPPs 488 | 0 | | 0 | 488 488 | _0 | oO | 0 488
+Central 6220 771 1459 8450 6426 771 1602 8799
+Total 6708 | as 1701 | 9234 | | 6914 | | ४25 | 1804. 9543
+
+Note; RES = Renewable Energy , MNRE = Ministry of New und Renewable Energy
+Source; Department of Energy, (103
+
+The Generating Units of the Central Sector supplying power to Bihar are located cither in Bihar or
+in the adjoining states. The details of these existing and planned Generating Units are given in
+Appendix Table A 8,2.
+
+The following are upcoming thermal power projects in Bihar to meet the present and future demand
+for electricity:
+
+Power Project in Buxar: M/s Satluj Jal Vidyut Nigam Ltd. (SJVNL) is the executing agency for
+the construction of a green field power project at Chausa (Buxar), having 2 units of 660 MW each.
+Its foundation stone was laid in March, 2019, The work is under progress and Unit | is expected
+to be commissioned in 2024-25. Unit 2 is scheduled to be commissioned by 2025-26. As per the
+Power Purchase Agreement (PPA), DISCOMs of Bihar will get 85 percent of the generated power
+from this project.
+
+Ultra-Mega Power Project (Banka): A proposal has been prepared to set up an Ultra Mega Power
+Project in Banka, with a capacity of around 4000 MW, for which 2500 acres of land has already
+been earmarked, The Central Water Commission has approved the allocation of 120 Cusecs of
+water (1 Cusec = flow of 28.317 litres of water per second) from the Ganga river. The Power
+Finance Corporation (PFC) has incorporated two Special Purpose Vehicles (SPV) to carry out the
+pre-award project activities. The Union Ministry of Power has allocated Pirpainti and Barahat Coal
+Blocks for the project. Bihar will get 2000 MW of power from this project.
+
+B. Non-Conventional (Renewable Energy)
+
+In order to address the issues of climate change and global warming, renewable energy stands out
+as a feasible solution for preserving the environment for future generations. However, Bihar faces
+limitations in the availability of natural resources for generating renewable energy. Due to its
+geographical position in the plains, the potential for hydroelectric power production is quite low,
+Likewise, ideal locations for setting up wind turbines to generate electricity are typically found
+offshore, in coastal regions, on rounded hilltops, or in open valleys with strong and consistent wind
+currents. As a result, the state also cannot take full advantage of wind energy for power generation.
+
+294

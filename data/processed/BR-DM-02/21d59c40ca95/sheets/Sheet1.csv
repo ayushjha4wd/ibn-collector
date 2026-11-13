@@ -1,0 +1,41 @@
+ST-14 APPENDIX-2011,,,,,,,,,,,,,,,
+DETAILS OF RELIGIONS SHOWN UNDER 'OTHER RELIGIONS AND PERSUASIONS' IN MAIN TABLE ST-14,,,,,,,,,,,,,,,
+(FOR EACH TRIBE SEPARATELY),,,,,,,,,,,,,,,
+Table name,State Code,State Name,ST Code,ST Name,Religion Code,Religion Name,Total,,,Rural,,,Urban,,
+,,,,,,,P,M,F,P,M,F,P,M,F
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+ST014A,10,STATE - BIHAR 10,500,All Schedule Tribes,000000,All other religions and persuasions,10865,5499,5366,10226,5174,5052,639,325,314
+ST014A,10,STATE - BIHAR 10,501,"Asur, Agaria",000000,All other religions and persuasions,1,1,0,1,1,0,0,0,0
+ST014A,10,STATE - BIHAR 10,501,"Asur, Agaria",999999,Other religion unclassified,1,1,0,1,1,0,0,0,0
+ST014A,10,STATE - BIHAR 10,502,Baiga,000000,All other religions and persuasions,1,0,1,1,0,1,0,0,0
+ST014A,10,STATE - BIHAR 10,502,Baiga,999999,Other religion unclassified,1,0,1,1,0,1,0,0,0
+ST014A,10,STATE - BIHAR 10,509,Chero,000000,All other religions and persuasions,2,2,0,2,2,0,0,0,0
+ST014A,10,STATE - BIHAR 10,509,Chero,999999,Other religion unclassified,2,2,0,2,2,0,0,0,0
+ST014A,10,STATE - BIHAR 10,511,Gond,000000,All other religions and persuasions,46,22,24,46,22,24,0,0,0
+ST014A,10,STATE - BIHAR 10,511,Gond,999999,Other religion unclassified,46,22,24,46,22,24,0,0,0
+ST014A,10,STATE - BIHAR 10,513,Ho,000000,All other religions and persuasions,19,10,9,0,0,0,19,10,9
+ST014A,10,STATE - BIHAR 10,513,Ho,999999,Other religion unclassified,19,10,9,0,0,0,19,10,9
+ST014A,10,STATE - BIHAR 10,515,"Kharia, Dhelki Kharia, Dudh Kharia, Hill Kharia",000000,All other religions and persuasions,4,1,3,4,1,3,0,0,0
+ST014A,10,STATE - BIHAR 10,515,"Kharia, Dhelki Kharia, Dudh Kharia, Hill Kharia",999999,Other religion unclassified,4,1,3,4,1,3,0,0,0
+ST014A,10,STATE - BIHAR 10,516,Kharwar,000000,All other religions and persuasions,19,6,13,19,6,13,0,0,0
+ST014A,10,STATE - BIHAR 10,516,Kharwar,999999,Other religion unclassified,19,6,13,19,6,13,0,0,0
+ST014A,10,STATE - BIHAR 10,518,"Kisan, Nagesia",000000,All other religions and persuasions,8,2,6,6,2,4,2,0,2
+ST014A,10,STATE - BIHAR 10,518,"Kisan, Nagesia",999999,Other religion unclassified,8,2,6,6,2,4,2,0,2
+ST014A,10,STATE - BIHAR 10,521,"Lohara, Lohra",000000,All other religions and persuasions,29,14,15,29,14,15,0,0,0
+ST014A,10,STATE - BIHAR 10,521,"Lohara, Lohra",999999,Other religion unclassified,29,14,15,29,14,15,0,0,0
+ST014A,10,STATE - BIHAR 10,524,"Munda, Patar",000000,All other religions and persuasions,33,19,14,26,16,10,7,3,4
+ST014A,10,STATE - BIHAR 10,524,"Munda, Patar",999999,Other religion unclassified,33,19,14,26,16,10,7,3,4
+ST014A,10,STATE - BIHAR 10,525,"Oraon, Dhangar (Oraon)",000000,All other religions and persuasions,4141,2122,2019,3565,1830,1735,576,292,284
+ST014A,10,STATE - BIHAR 10,525,"Oraon, Dhangar (Oraon)",701124,Oraon,72,39,33,7,3,4,65,36,29
+ST014A,10,STATE - BIHAR 10,525,"Oraon, Dhangar (Oraon)",701146,Sarna,4057,2076,1981,3552,1823,1729,505,253,252
+ST014A,10,STATE - BIHAR 10,525,"Oraon, Dhangar (Oraon)",999999,Other religion unclassified,12,7,5,6,4,2,6,3,3
+ST014A,10,STATE - BIHAR 10,527,Santal,000000,All other religions and persuasions,6196,3108,3088,6169,3094,3075,27,14,13
+ST014A,10,STATE - BIHAR 10,527,Santal,701142,Santal,346,183,163,345,183,162,1,0,1
+ST014A,10,STATE - BIHAR 10,527,Santal,701146,Sarna,5782,2885,2897,5762,2876,2886,20,9,11
+ST014A,10,STATE - BIHAR 10,527,Santal,999999,Other religion unclassified,68,40,28,62,35,27,6,5,1
+ST014A,10,STATE - BIHAR 10,532,Tharu,000000,All other religions and persuasions,4,1,3,4,1,3,0,0,0
+ST014A,10,STATE - BIHAR 10,532,Tharu,999999,Other religion unclassified,4,1,3,4,1,3,0,0,0
+ST014A,10,STATE - BIHAR 10,990,Generic Tribes etc.,000000,All other religions and persuasions,362,191,171,354,185,169,8,6,2
+ST014A,10,STATE - BIHAR 10,990,Generic Tribes etc.,701146,Sarna,347,181,166,339,175,164,8,6,2
+ST014A,10,STATE - BIHAR 10,990,Generic Tribes etc.,999999,Other religion unclassified,15,10,5,15,10,5,0,0,0
+Note  :-  'Other religion unclassified'  includes 'other religions' returned by less than fifty males or females.,,,,,,,,,,,,,,,

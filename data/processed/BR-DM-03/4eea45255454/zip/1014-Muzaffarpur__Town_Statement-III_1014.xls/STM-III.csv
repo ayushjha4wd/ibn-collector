@@ -1,0 +1,36 @@
+STATEMENT - III,,,,,,,,,,,,,,,,,,
+"Civic and other Amenities, 2009",,,,,,,,,,,,,,,,,,
+Sr.No.,Name of Town,Road length (in kms.),System of drainage,,,,Number of latrines,,,,Protected water supply,,Fire fighting service*,Electrification (Number of connections),,,,
+,,,Open (OD),Closed (CD),Both -Open & Closed (BD),Nil,Pit System,Flush/Pour Flush (Water borne),Service,Others,Source of supply (Codes) @,System of storage with capacity in kilo litres (along with Codes) @,,Domestic,Industrial,Commercial,Road lighting (points),Others
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+1,Sahebganj (NP),11,,CD,,,0,1147,2,4350,"TW/B,OHT",(),"No,MUZAFFARPUR(62)",3100,0,550,100,150
+2,Motipur (NP),21,,,BD,,0,1300,43,0,"HP,CW",(),Yes,2800,2,200,40,25
+3,Kanti (NP),29,,,BD,,0,1200,24,150,"TW/B,CW",OHT(1000),Yes,2100,2,108,2,0
+4,Damodarpur (CT),24,OD,,,,0,900,1,0,"TWT,OHT",HP(),"No,MUZAFFARPUR(6)",900,2,0,24,10
+5,Muzaffarpur (M Corp.),122,,,BD,,42017,0,201,0,"TW/B,CW",OHT(5000),Yes,41900,1508,16200,5084,0
+6,Dumari urf Damodarpur Shahjahan (CT),8,OD,,,,0,0,1,0,"HP,CW",(),"No,MUZAFFARPUR(8)",350,0,0,0,0
+7,Majhauli Khetal (CT),8,,CD,,,100,300,40,50,"HP,",(),"No,MUZAFFARPUR(3)",400,0,0,0,0
+8,Yehiapur (CT),8,OD,,,,0,1000,0,0,"HP,",(),"No,MUZAFFARPUR(5)",1000,200,0,0,0
+9,Shekhpura (CT),6,,,BD,,0,0,0,0,"HP,CW",(),"No,MUZAFFARPUR(7)",2000,10,19,40,20
+,,,,,,,,,,,,,,,,,,
+"*In case this service is not available in the town,  the name of the nearest place and its distance from the town where facility is available  has been given",,,,,,,,,,,,,,,,,,
+@Two major source only,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Abbreviation,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TT: Tap water from treated source,,,,,,,,,,,,,,,,,,
+TU:Tap water from un-treated source,,,,,,,,,,,,,,,,,,
+CW: Covered well,,,,,,,,,,,,,,,,,,
+UW: Un-covered well,,,,,,,,,,,,,,,,,,
+HP:Hand pump,,,,,,,,,,,,,,,,,,
+TW/B:Tubewell /Borehole,,,,,,,,,,,,,,,,,,
+RW:Rainwater,,,,,,,,,,,,,,,,,,
+S:Spring,,,,,,,,,,,,,,,,,,
+TK/P/L:Tank/Pond/Lake ,,,,,,,,,,,,,,,,,,
+O:Others,,,,,,,,,,,,,,,,,,
+OHT:Over head Tank,,,,,,,,,,,,,,,,,,
+SR:Service Reservoir,,,,,,,,,,,,,,,,,,
+RIG:River Infiltration Gallery,,,,,,,,,,,,,,,,,,
+BWP:Bore Well Pumping system,,,,,,,,,,,,,,,,,,
+PT:Pressure Tank,,,,,,,,,,,,,,,,,,
+"N\A,NA,N.A.: Not Avialable",,,,,,,,,,,,,,,,,,

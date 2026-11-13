@@ -1,0 +1,38 @@
+CHAPTER - VII
+E-GOVERNANCE
+
+Abstract
+
+In order to promote e-Governance in a holistic manner, various policy initiatives and projects
+have been undertaken by the State Government to deliver good governance and development
+with socio-economic justice. The fundamental objectives of the State Government in terms of
+E-Governance are to achieve excellence with innovation in public administration and
+development with inclusive growth, equality and fairness. The government machinery has been
+strengthened with many ICT initiatives for delivering good governance. The Emergency
+Response Support System is effectively operational in the state. The control and command
+centre receives around 68,000 calls per day. The response time of the ERSS team is 15 minutes,
+which rescues people in an emergency, Several e-governance initiatives are adopted hy the
+Transport Department, which enhance the transparency and efficiency in service delivery as
+well as save money and time of the applicant. E-Shikshakosh serves as a single centralized
+dynamic platform for monitoring all key parameters to ensure the effective delivery of quality
+education to all the schools in the state, Another digital initiative of the state government,
+‘BHAVYA ., is a one-stop digital platform that supports everyday functions at the government
+health facilities of Bihar and streamlines the OPD and IPD functionalities, right from a
+patient's registration till discharge. The land record management system, public distribution
+system, direct benefit transfers and many other initiatives relevant to citizens of the state are
+focus areas in this chapter.
+
+E-Governance, or electronic governance, refers to the use of digital technologies and information
+systems to enhance the efficiency, transparency, accountability, and accessibility of government
+services and processes. By leveraging tools such as the internet, mobile applications, and data
+analytics, e-Governance transforms traditional governance mechanisms to better meet the needs
+of citizens, businesses, and government stakeholders. It encompasses various dimensions,
+including government-to-citizen (G2C), government-to-business (G2B), and government-to-
+government (G2G) interactions.
+
+7.1 ICT Infrastructure: Foundation for E-Governance
+
+The Information and Communications Technology (ICT) is essential to deliver good governance
+using digital technologies. The e-governance penetration and success are also determined by many
+
+253

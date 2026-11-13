@@ -1,0 +1,62 @@
+35328	1027-Nalanda/Appendix_I_1027.xls
+28160	1027-Nalanda/Appendix_IA_1027.xls
+28160	1027-Nalanda/Appendix_IB_1027.xls
+28160	1027-Nalanda/Appendix_IC_1027.xls
+41984	1027-Nalanda/Appendix_II_1027.xls
+27648	1027-Nalanda/Appendix_V_1027.xls
+1678848	1027-Nalanda/Appendix_VD_1027.xls
+27648	1027-Nalanda/Appendix_VI_1027.xls
+130560	1027-Nalanda/Appendix_VIIA_1027.xls
+130560	1027-Nalanda/Appendix_VIIB_1027.xls
+24064	1027-Nalanda/T01_1027.xls
+35840	1027-Nalanda/T02_1027.xls
+18944	1027-Nalanda/T03_1027.xls
+19968	1027-Nalanda/T04_1027.xls
+29696	1027-Nalanda/T05_1027.xls
+29184	1027-Nalanda/T06_1027.xls
+28672	1027-Nalanda/T07_1027.xls
+28160	1027-Nalanda/T08_1027.xls
+34304	1027-Nalanda/T09_1027.xls
+30208	1027-Nalanda/T10_1027.xls
+37376	1027-Nalanda/T11_1027.xls
+29184	1027-Nalanda/T12_1027.xls
+35328	1027-Nalanda/T13_1027.xls
+28160	1027-Nalanda/T14_1027.xls
+26112	1027-Nalanda/T15_1027.xls
+32256	1027-Nalanda/T16_1027.xls
+26112	1027-Nalanda/T17_1027.xls
+27136	1027-Nalanda/T18_1027.xls
+25600	1027-Nalanda/T19_1027.xls
+35840	1027-Nalanda/T20_1027.xls
+29696	1027-Nalanda/T21_1027.xls
+18944	1027-Nalanda/T22_1027.xls
+27648	1027-Nalanda/T23_1027.xls
+29184	1027-Nalanda/T24_1027.xls
+26624	1027-Nalanda/T25_1027.xls
+27136	1027-Nalanda/T26_1027.xls
+29696	1027-Nalanda/T27_1027.xls
+26624	1027-Nalanda/T28_1027.xls
+27136	1027-Nalanda/T29_1027.xls
+35328	1027-Nalanda/T30_1027.xls
+34816	1027-Nalanda/T31_1027.xls
+29696	1027-Nalanda/T32_1027.xls
+36352	1027-Nalanda/T33_1027.xls
+35840	1027-Nalanda/T34_1027.xls
+30208	1027-Nalanda/T35_1027.xls
+43008	1027-Nalanda/T36_1027.xls
+41472	1027-Nalanda/T37_1027.xls
+33792	1027-Nalanda/T38_1027.xls
+37376	1027-Nalanda/T39_1027.xls
+37888	1027-Nalanda/T40_1027.xls
+20480	1027-Nalanda/T41_1027.xls
+36352	1027-Nalanda/T42_1027.xls
+37376	1027-Nalanda/T43_1027.xls
+25600	1027-Nalanda/T44_1027.xls
+17920	1027-Nalanda/T45_1027.xls
+31744	1027-Nalanda/Town Statement-I_1027.xls
+40448	1027-Nalanda/Town Statement-II_1027.xls
+43008	1027-Nalanda/Town Statement-III_1027.xls
+40448	1027-Nalanda/Town Statement-IV_1027.xls
+39936	1027-Nalanda/Town Statement-V_1027.xls
+29696	1027-Nalanda/Town Statement-VI_1027.xls
+30208	1027-Nalanda/Town Statement-VII_1027.xls

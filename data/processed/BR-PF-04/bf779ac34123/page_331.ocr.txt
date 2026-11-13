@@ -1,0 +1,43 @@
+Property Tax System : It is a mobile and web-based application that provides a digital interface
+to make property assessments, pay property tax, generate payment receipts and monitor tax
+collection in Patna Municipal Corporation. It can be used by the citizens, Urban Local Body (ULB)
+counter and field employees, and ULB Administrators to accomplish their specific tasks, Its
+features include: (1) Registration, Login and Creation of User Profile, (ii) Filling an Assessment
+for a Property, (iii) Searching for a Property, (iv) Modifications to a Property, (v) Generate
+Demand Notice, (vi) Payment collection and Receipts, (vii) Dashboards and Reports, and (viii)
+General Features. It facilitates online payment.
+
+7.5 Ease of Public Service Delivery Mechanism
+
+e-Shikshakosh ; The education value chain in Bihar runs on several independent systems in bulk
+data through yarious information systems like Shaala Siddhi, BEST, UDISE+, Online Medha soft
+Platform for DBT, etc. The State government has an integrated digital platform called e-
+Shikshakosh to ensure the robust governance of schools and effective service delivery. It serves as
+a single centralized dynamic platform for monitoring all key parameters to ensure the effective
+delivery of quality education to all the schools in the state. It also serves as a two-way
+communication platform to address issues and grievances of schools, and education officials at
+multiple levels.
+
+It has different modules : (i) Master Module (to manage the data of State, District, Block, Village
+& Panchayats), (ii) School Management Module (managing the details of teachers and students),
+(iii) Teacher Management Module (for managing various sub-modules such as the Teacher
+Registration and Approval, Update Service Status, Teacher Deputation, Promotion and Transfer,
+Industrial Training, Leave, Training, and MIS Report in the application), (iv) Grievance
+Management Module (help Teachers and Public register their grievances), (vy) Student
+Management Module (maintains and manages all the Academic details, Achievements, and
+Progression of the Student), (vi) User Management Module, (vii) Mid-Day Meal Management
+Module (maintains and manages the details of items available in the daily menu), (viii) Committee
+Management Module (maintains all the details of the School Committees such as Member details,
+Meetings, Committee Reconstitution, and Bank Details), (ix) Grant and Fund Management
+Module, (x) Holiday Management Module, (xi) Notification Management Module, (xii) Online
+assessment and Question bank, (xiii) School Inventory Module, (xiv) Library Inventory Module,
+(xv) School Monitoring and (xvi) Selfie Based Teacher Attendance through Mobile App.
+
+Reproductive and Child Health (RCH) Software : One of the prime focuses of the National
+Health Mission (NHM) is to reduce Infant Mortality Rate (IMR) and Maternal Mortality Ratio
+(MMR) and ensure quality services to pregnant women and children across the country. Capturing
+information in an integrated reporting system is important for any evidence-based decision-
+making. In light of the above, this portal was developed to capture information on all RCH-related
+services, including family planning, maternal health, child health and immunization. Application
+
+274

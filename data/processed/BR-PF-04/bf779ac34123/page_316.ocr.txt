@@ -1,0 +1,27 @@
+completed in Court Rooms at 68 locations and 4631 units of CCTV Cameras have been installed
+in district courts. e-Court fee and e-Stamping through Stock Holding Corporation are functional at
+all district courts, including the High Court.
+
+CIS HC ; It is functional in the Patna High Court and CIS 3.2 is functional in all 79 locations of
+Bihar. The Patna High Court was the first to start this facility from October, 2022. The Buxar
+Judgeship has been chosen as a pilot district for implementation of CIS 4.0. Migration of CIS 3.2
+to CIS 4.0 is also ongoing and the same will be completed within a month in all the Judgeships of
+Bihar.
+
+e-Filing ; Almost all cases and documents are being e-filed in the Patna High Court, since 2020,
+and since 2023 in the District Courts of Bihar. More than 4 lakh cases have been done on the
+e-filing portal, including the Test and Live Server. The total number of Ld. Advocates registered
+on the e-filing portal are more than 8000, Steps are being taken to encourage the lawyers to e-file
+
+their cases.
+
+Integrated Criminal Justice System (ICJS) ; With the aid of the ICJS platform, the metadata of
+the First Information Reports (FIR) and Chargesheets can be accessed by courts. Currently, all the
+District and Sub-Divisional courts of Bihar are consuming the metadata related to FIRs as well as
+Chargesheets from Police Stations across the state. Till date, a total of 13.60 lakh FIRs and 2.45
+lakh Chargesheets’ data have been made available on the CIS application.
+
+Chart 7.4 : Overview of ICJS as of November, 2024
+
+Source : Department of Law, GoB
+259

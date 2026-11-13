@@ -1,0 +1,12 @@
+STATEMENT - IV,,,,,,,,,,,,,
+"Medical Facilities, 2009",,,,,,,,,,,,,
+Sr.No.,Name of Town,No. of Medical facilities* (with number of beds in brackets),,,,,,,,,,Charitable Hospital/Nursing Home  (Numbers),Medicine Shop (Numbers)
+,,Hospitals  (Allopathic & Others),Dispensaries / Health Center,Family Welfare Center,Maternity and Child Welfare Center,Maternity Homes,T.B.Hospital/ Clinic,Nursing Homes,Veterinary Hospital ,Mobile Health Clinic,Others etc.,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+1,Darbhanga (M Corp.),2(1230),3 Kms.,1(20),3 Kms.,3 Kms.,1(20),5 Kms.,2(0),72 Kms.,N.A.,1,232
+2,Padri (CT),3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,3 Kms.,70 Kms.,N.A.,1,100
+3,Benipur (Nagar Parishad),2(81),1(6),1(15),1(0),4 Kms.,1(0),6 Kms.,1(0),70 Kms.,N.A.,0,100
+4,Bahadurpur (CT),1 Kms.,1(10),1(0),1(0),1(0),1(0),12 Kms.,1 Kms.,70 Kms.,0.5 Kms.,0,2
+,,,,,,,,,,,,,
+"*If a medical facility is not available in the town,nearest place distance from the town where facility is available has been given",,,,,,,,,,,,,
+*N.A.:Not Available,,,,,,,,,,,,,

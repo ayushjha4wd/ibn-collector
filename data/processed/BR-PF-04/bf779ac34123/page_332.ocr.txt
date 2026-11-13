@@ -1,0 +1,45 @@
+facilitates timely delivery of all components of antenatal, postnatal and delivery services and
+tracking of children for complete immunization services. In addition, the ANMOL App is being
+used for real-time reporting on RCH Portal by 16,868 ANMs using tablets, out of which 79.29
+percent ANMs are active users of the App. On a pro rata basis, 55.68 percent Pregnant Women
+and 57.22 percent Children were registered on the RCH Portal during 2024-25 (till October),
+
+Mukhyamantri Digital Health Yojana (MDHY) ; It is also Known as BHAVYA (Bihar Health
+Application Visionary Yojna for All), BHAVYA is a one-stop digital platform that supports
+everyday functions at the government health facilities of Bihar and streamlines the OPD and IPD
+functionalities, right from a patient's registration till discharge. It even automates community
+health initiatives through standardized workflows across the state. The implemented platform
+includes more than 20 different modules such as patient registration, OPD & IPD management,
+doctor’s scheduling and roster management, pharmacy, radiology, and lab information modules,
+all operational across the state. The platform is also integrated with the legacy or existing
+standalone applications used by the State government, creating a unified HIMS. Not only the
+operations but the performance of these facilities, medical professionals, the region's health profile.
+and the outcomes are monitored at the State/District Command-and-Control Centre (CCC).
+
+IT System with Quality Monitoring System Software : It was initiated in 2017 for online
+monitoring of the programme and ensure that all aspects of the rural potable water supply and
+sanitation facilities and services programme in the state are systematically monitored and feedback
+used for correcting deficiencies. Additionally, a report provides a summary of new hand pump
+installations and repair and maintenance activities documented through the mobile application.
+
+Social Security Pension MIS : SSPMIS is a web-based application envisaged to keep track of the
+entire social security beneficiary sanctioning process, which includes addition, deletion and
+integration through assigning a code to each beneficiary for its unique identification leading to
+effective utilization of funds. This application is being used for nearly one crore beneficiaries of
+different social security pension schemes of the Central and State governments.
+
+E-labharthi Portal : The database of all pensioners is maintained on the E-labarthi portal and
+monthly DBT is done through PFMS from this portal. Pension payment is being made to 107.65
+lakh pensioners.
+
+E-Suvidha Portal ; Through the E-suvidha portal payments are made under the Chief Minister
+Family Benefit Scheme, Kabir Antyeshti Anudan Yojana, Bihar Shatabdi Leper Welfare Scheme,
+Chief Minister Disables Marriage Grant Scheme and Inter-caste Mariage Grant Scheme. Data of
+National Family Benefit Scheme beneficiaries obtained from the District Social Security Cell is
+also accepted and sent to the NSAP-PPS for payment.
+
+Poshan Tracker ; Technology under Poshan Tracker is being leveraged for dynamic identification
+of stunting, wasting, under-weight prevalence among children and last-mile tracking of nutrition
+service delivery. The features include: (i) Real-Time recording and Monitoring, (ii) Services
+
+275

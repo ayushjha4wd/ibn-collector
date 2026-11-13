@@ -1,0 +1,38 @@
+(Real Time Data Acquisition System) and SCADA stations, and shares key information on water
+levels, forecasts from WRD and other critical sources. The App enhances data accessibility for
+officials, with a focus on visualizing information for more efficient decision-making. The overall
+objective is to analyze the probable causes of frequent flooding in an area, challenges associated
+with inundations and develop plan for flood management projects in that area. Field survey work
+has been completed and modelling is under progress.
+
+7.7 Green Initiatives
+
+The Department of Environment, Forest and Climate Change has adopted several
+e-Governance initiatives to enhance its efficiency, transparency and public engagement. These
+programmes leverage technology to streamline processes and support sustainable development.
+
+Forest Management Information System (FMIS) : This system is a micro-level approach of
+managing the Forest Plantations, Nurseries, Welfare Schemes covered under Joint Forest
+Management, Forest Offences, Wildlife Activities, Accounting-Budgeting, Human Resource
+Management System and Eco-Tourism Development in the state through ICT use of integrated
+Web, GIS and Mobile technologies. The project implementation covers all 8 circles, 28 divisions
+and 110 range offices of the department. Several e-governance projects have been implemented
+by the Department.
+
+Chart 7.9 : Features of Forest Management Information System
+
+Wet
+Applications
+
+Development
+
+Source : Department of Forest, GoB
+
+Bihar-VanMitra App : The Bihar-VanMitra App is a user-friendly digital platform that serves as
+a one-stop solution for individuals, farmers, NGOs, industries, PSUs and government officials to
+access forestry-related services. It streamlines processes like pit-digging, plant requests and
+plantation site management, promoting afforestation and environmental sustainability. The Bihar-
+VanMitra App is an innovative step toward sustainable development, making afforestation efforts
+more efficient and inclusive while contributing to Bihar’s environmental goals,
+
+281

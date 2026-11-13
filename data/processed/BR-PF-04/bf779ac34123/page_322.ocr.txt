@@ -1,0 +1,43 @@
+The Sewa Itihas portal manages government officers’ details such as their Name, Service Cadre,
+Category, Pay Scale, Grade, Civil List/ Seniority, Working Status with all Posting details and
+Additional Charges. It covers all Cadre Services of the state.
+
+Panchayat Nishchay Soft : The physical and financial progress of any scheme of the Panchayati
+Raj Department can be tracked. Panchayat Sarkar Bhawans’ progress status, Solar Strectlight
+scheme, Audit and Accounts Module, Technical Module, ete. will be added gradually. In addition
+to this, the ranking system of TAs, Accountants, BPROs and DPROs based on their work
+performance will also be monitored.
+
+e-Panchayat : The e-Panchayat, Bihar software is developed for facilitating payments under the
+Sixth State Finance Commission (SFC) awards. All scheme-related payments under the 6th SFC
+will be through the REAT module of PFMS. For processing payments to Labours, Vendors and
+Contractors, it becomes necessary to integrate with the e-Panchayat, Bihar Portal. All the payments
+under the 6th SFC for the three-tier PRI system (Zila Parishad, Panchayat Samiti and Gram
+Panchayat) will be made via this very portal after PFMS verification. Further, the Audit and UC
+module will also be integrated to this e-Panchayat, Bihar portal,
+
+7.3 Promotion of Economic Development
+
+E-governance provides opportunities to investors through a single window system, e-auction,
+e-bidding, and e-clearance. However, the government monitors and evaluates its infrastructure
+projects through PMIS, provides transparent bidding and public procurement; digitalise land
+records; provides transparent financial support to farmers, supports entrepreneurs and labourers;
+facilitates ease of doing business; etc. E-governance programmes in the state provide a platform
+to connect all stakeholders (i.e. government, houscholds, bankers, businesses houses) and help
+them interact in a better way to improve the economy.
+
+Physical Infrastructure
+
+Project Management Information System (PMIS) ; In order to monitor real-time progress of the
+ongoing projects, infrastructure sectors like roads and bridges, building construction, power
+infrastructure, etc. utilises the PMIS. It includes a project’s scope management, cost management,
+time management, quality management, communications management and its online monitoring.
+Online project monitoring helps to supervise the project's execution progress as planned. In case
+of an issuc in the project plan, PMIS helps to review the requirements to make sure that the project
+has met its goals and objectives. It also organizes the information collected over the course of the
+project for performance review and productivity analysis. PMIS now provides exact real-time
+location of road projects of any scheme on Google Maps. PMIS open dashboard is now available
+and all information related to road statistics can be seen here. Also, physical and financial
+
+information with graphical view of road projects are available on this dashboard.
+265

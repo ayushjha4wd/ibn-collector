@@ -1,0 +1,671 @@
+State Code,State Name,District Code,District Name,Sub District Code,Sub District Name,Town Code,Town Name,Total Population of Town,Town Class ,Slum Name ,Is it notified Yes(1)/No(2) ?,No. of Households (approximate),Slum Population (approximate),Paved Roads (in km.),System of Drainage Open-1/Closed-2/Both-3/No-4 ?,Private Latrines-Pit (Number),Private Latrines-Flush/Pour Flush (Number),Private Latrines-Service (Number),Private Latrines-Others (Number),Private Latrines-Community (Number),No. of Tap points/Public Hydtrants installed for Protected Water Supply,Electricity-Domestic Connection (Numbers),Electricity-Road Lighting Connection (Numbers),Electricity-Others Connection (Numbers) 
+10,BIHAR,203,Pashchim Champaran,01014,Ramnagar,801277,Ramnagar (NP),48411,III,ansik harijan tola,2,300,1500,1,1,75,10,0,0,0,0,0,0,0
+10,BIHAR,203,Pashchim Champaran,01017,Narkatiaganj,801278,Narkatiaganj (Nagar Parishad),49507,III,M. Hurdiya,2,50,250,1,1,20,,,,1,,40,27,37
+10,BIHAR,203,Pashchim Champaran,01019,Bagaha,801279,Bagaha (Nagar Parishad),112634,III,NO NAME,2,2,0,0,2,0,0,0,0,0,0,0,0,0
+10,BIHAR,203,Pashchim Champaran,01025,Chanpatia,801280,Chanpatia (NP),27095,III,Domtoli.,2,310,1650,3,1,4,4,4,4,4,0,256,0,0
+10,BIHAR,203,Pashchim Champaran,01028,Bettiah,801281,Bettiah (Nagar Parishad),132209,I,Jagjivan ram,2,5488,27740,6,1,500,50,2,,,5,1000,20,0
+10,BIHAR,204,Purba Champaran,01031,Raxaul,801282,Raxaul Bazar  (Nagar Parishad),55536,III,Bara Parerva,2,100,1000,5,3,,20,,,,,100,,
+10,BIHAR,204,Purba Champaran,01045,Areraj,801286,Areraj (NP),26014,III,Areraj Harijan Tola  Ward No.One,2,77,624,,4,,,,10,0,20,5,0,0
+10,BIHAR,204,Purba Champaran,01047,Kesaria,801287,Kesaria (NP),18984,III,"Baisarva,Sarangpur,Hamidpur,Kesaria",2,237,700,4,3,,25,,,,,200,92,172
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Six,2,250,1500,1,1,,20,,50,20,42,150,2,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No fifteen,2,350,2000,3,1,,20,,15,,3,250,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Thirteen Kota Bajar,2,800,3000,1,1,,70,,50,,3,600,6,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Twelve Kota Bajar,2,350,1800,2,1,,15,,30,,,43,200,4
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No ELEVEN Chamar Toli,2,225,1100,2,1,,20,,25,,,200,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Nine,2,250,900,3,1,,16,,50,,53,200,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Seven,2,250,1500,2,,,20,,50,,3,200,2,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward no.Sixteen,2,150,500,2,1,,10,,50,,2,100,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No five,2,600,2200,3,1,,30,,50,,4,250,2,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No four,2,500,2800,3,1,,20,,200,,3,200,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No One,2,600,3500,2,1,,30,,15,,3,400,2,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Two,2,400,2500,4,1,250,,,50,,3,,250,2
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No One,2,500,3000,3,1,,25,,150,,3,300,2,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Eight,2,90,550,3,1,,5,,40,,2,30,20,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No twenty four,2,400,2000,4,1,,25,,50,,3,200,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Waed No. Twenty Seven,2,160,700,2,1,,10,,25,1,3,100,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Twenty Six,2,225,1300,2,1,150,,25,,,3,100,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No fourteen,2,600,1900,3,1,,25,,150,,3,300,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No. twenty four,2,400,2000,4,1,,25,,50,,3,200,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Seventeen RingBandh,2,250,1000,3,1,,20,,50,,,225,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward no.twenty three Bhabedpur,2,175,1000,3,1,,10,,25,,3,125,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Twenty Two Muslimbadi naya tola,2,150,1000,2,1,,12,,25,,2,125,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward teenty,2,300,1600,3,1,,20,,50,,3,200,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Twenty,2,450,2300,3,1,,35,,50,,3,300,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Nineteen,2,200,1200,3,1,,15,,10,,2,150,3,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Ward No Eighteen Domba Pagri,2,250,1400,2,1,,20,,50,,4,150,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,801295,Sitamarhi (Nagar Parishad),67818,II,Sitamarhi,2,300,1900,4,1,,20,,25,,3,175,4,
+10,BIHAR,206,Sitamarhi,01074,Dumra,219626,Rajopatti urf Kota Bazar (CT),14631,V,Kota Bajar,2,250,2000,,4,10,2,,,,5,,5,
+10,BIHAR,207,Madhubani,01083,Jainagar,801298,Jainagar (NP),21782,IV,Mehtar Tola Ward no Thirteen,2,125,750,2,4,,10,,3,,,25,7,
+10,BIHAR,207,Madhubani,01083,Jainagar,801298,Jainagar (NP),21782,IV,Anandpur Ward No Ten,2,125,750,1.5,4,10,,,2,,,25,8,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,Yaav Mohalla Ward no twenty Six,2,400,2000,2,1,,65,,,,,72,16,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,Goa Pokhar Ward No Twent four,2,300,1500,1.5,4,,38,,,,,55,17,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,Sanghat Mohall Ward No twenty three,2,175,900,2,4,,34,,,,,42,10,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,RAdhonagar Ward No Twenttwo,2,250,1250,2,4,,42,,,,,45,12,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,Dhunia Tola Bulia Tola,2,175,850,1.5,4,,32,,,,,36,12,
+10,BIHAR,207,Madhubani,01093,Madhubani,801299,Madhubani (Nagar Parishad),75736,II,Bhagabati sthan Ward No. one,2,150,750,1.5,4,,22,,,,,35,10,
+10,BIHAR,208,Supaul,01102,Basantpur,801303,Birpur (NP),19932,IV,Laheri Tola,2,125,550,1,4,,,25,100,1,,20,2,
+10,BIHAR,208,Supaul,01102,Basantpur,801303,Birpur (NP),19932,IV,Mushari Tola,2,105,500,4,1,,,25,100,1,,20,1,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Eight,2,992,4651,0.1,3,,,,82,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Fifteen,2,241,1225,0.1,3,,,,80,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Fourteen,2,200,1028,0.1,3,,,,70,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. thirteen,2,303,1507,0.1,3,,,,80,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Eleven,2,700,3450,,,,,,,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Sixteen,2,250,1180,0.1,3,,,,70,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Nine,2,877,4635,0.1,3,,,,82,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. twelve,2,15,102,1,3,0,0,0,8,0,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Seven,2,781,3500,0.1,3,,,,75,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Six,2,505,2106,0.1,3,,,,80,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Five,2,960,4804,0.1,3,,,,80,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Three,2,580,2503,0.1,3,,,,83,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Two,2,381,2100,0.1,3,,,,80,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Ten,2,700,3450,0.1,3,,,,79,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. One,2,361,1700,0.1,3,,,,81,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Seventeeen,2,710,3671,0.1,3,,,,80,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Eighteen,2,430,2345,0.1,3,,,,80,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Nineteen,2,430,2402,0.1,3,,,,80,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Twenty,2,467,2255,0.1,3,,,,75,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Twentyone,2,212,1098,0.1,3,,,,71,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Twntytwo,2,80,467,0.1,3,,,,25,1,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Twenty three,2,39,315,0.1,3,,,,11,,,,,
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Twnty Four,2,315,1570,1,3,0,0,0,80,0,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. five,2,254,1396,1,3,0,0,0,78,1,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Twenty Six,2,280,1542,1,3,0,0,0,80,1,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Twenty Seven,2,546,2865,1,3,0,0,0,79,1,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Twenty Eight,2,445,2210,1,3,0,0,0,80,1,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No.Twenty Nine,2,518,2905,1,3,0,0,0,80,1,0,0,0,0
+10,BIHAR,209,Araria,01116,Araria,801307,Araria (Nagar Parishad),79021,II,Ward No. Seventeeen,2,710,3671,0.1,3,,,,80,,,,,
+10,BIHAR,210,Kishanganj,01123,Thakurganj,801308,Thakurganj (NP),18348,IV,FARA WARI,2,120,960,3,4,0,50,0,0,0,0,105,0,0
+10,BIHAR,210,Kishanganj,01123,Thakurganj,801308,Thakurganj (NP),18348,IV,GANDHI NAGAR,2,143,755,2,1,0,0,0,0,0,0,103,0,0
+10,BIHAR,210,Kishanganj,01123,Thakurganj,801308,Thakurganj (NP),18348,IV,BHAT DHALA,2,199,861,1,1,0,30,0,0,0,0,170,0,1
+10,BIHAR,210,Kishanganj,01123,Thakurganj,801308,Thakurganj (NP),18348,IV,Shakhtala Gandhinagar Pharobari,2,145,920,2.8,3,,14,,50,1,,102,1,
+10,BIHAR,210,Kishanganj,01123,Thakurganj,801308,Thakurganj (NP),18348,IV,KHELRA PATTI,2,165,906,3,2,0,10,0,0,0,0,135,0,0
+10,BIHAR,210,Kishanganj,01125,Bahadurganj,801309,Bahadurganj (NP),36993,III,Begi,2,656,3145,1.4,3,75,,,,,,25,,
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Lahra Phulwari Ward No Two,2,80,400,5,4,0,4,15,0,0,0,15,2,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Ward No Tweleve,2,100,500,5,4,0,40,0,0,0,0,20,4,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Ward No nine,2,200,1200,1,4,0,50,0,0,0,0,40,4,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Nepalgarh,2,300,1700,2,4,0,15,0,0,0,0,250,25,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Tanti Basti Ward No Six,2,250,1500,5,4,0,15,0,0,0,0,150,6,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Madhav Nagar Ward Five,2,225,1100,5,4,4,0,25,0,0,0,150,2,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Chauchan Toli,2,200,1100,5,4,0,15,0,0,0,0,100,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Kalam Muni Ward No Eighteen,2,100,500,5,4,0,50,0,0,1,0,25,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Kajlamani  Paswan Toli Ward No. Two,2,125,750,0.5,4,,40,,,,,40,5,
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Ward One Uttarpali,2,70,350,5,4,,50,,,,,50,3,
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Ward One Motiuddin pur Pathar Bsti,2,150,900,1,4,,20,,,,50,5,5,
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Nawav Ganj,2,150,900,5,4,0,10,0,0,0,0,100,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Gandhinagar Ward No fourteen,2,125,600,5,4,0,20,0,0,0,0,25,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Garivan Mohall Ward No Sixteen,2,100,500,5,1,0,75,0,0,1,0,75,3,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Halim Chowk Ward No Nineteen,2,200,800,5,4,0,50,0,0,0,0,50,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Khagra Chaprasi Tola Ward No. Twenty Two,2,100,500,5,4,0,30,0,0,0,0,20,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Matya Basti Ward No Twent Three,2,60,300,1,4,0,20,0,0,0,0,4,20,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Malath basti Ward No. Twenty Four,2,100,500,5,4,0,5,0,0,0,0,10,2,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Naya Basti Ward No Twenty eight,2,90,450,1,4,0,20,0,0,0,0,10,2,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,PAswan Tola Ward No Twenty NINE,2,100,500,1,4,0,10,0,0,1,0,20,4,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Pothina Theka Ward No Thirty One,2,200,1100,5,4,0,50,0,0,0,0,50,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Paswan Tola Khagra Ward No Thirty Two,2,100,450,5,4,0,20,0,0,0,0,40,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,MachhMara Fakir Tola Khagra WArd No Thirty three,2,100,500,5,4,0,10,0,0,0,0,20,4,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,juljali Paswan Tola Ward No Thirty three,2,100,500,5,4,0,20,0,0,0,0,40,5,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Mushahar Basti Ward No thirty,2,150,750,5,4,0,40,0,0,0,0,20,4,0
+10,BIHAR,210,Kishanganj,01127,Kishanganj,801310,Kishanganj (Nagar Parishad),105782,II,Kagjiya Mohalla,2,250,1500,1,1,0,15,0,0,2,0,125,5,0
+10,BIHAR,211,Purnia,01128,Banmankhi,801311,Banmankhi Bazar (NP),30336,III,Ward No.Mushahri Adibasi tola,2,255,1300,1,4,,,,,1,,8,,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No two Bheria Rahika,2,200,1000,,1,,15,,,,,71,7,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No four Teja tola,2,800,4000,,1,,14,,,,,13,10,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No three Mahipal Nagar,2,125,625,,1,,12,,,,,71,10,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No threeTeja tola,2,200,1000,,1,,14,,,,,72,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No three teja tola,2,200,1000,,1,,14,,,,,71,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No three teja tola,2,200,1000,,1,,14,,,,,7,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No five peon quarter,2,300,1500,,1,,15,,,,,70,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No three Shamsher ganj,2,350,1400,,1,,14,,,,,71,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No five  Nepali tola,2,300,1500,,1,,15,,,,,72,12,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No two Refuge colony,2,400,2000,,1,,15,,,,,68,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No two dumri khal,2,350,1400,,1,,15,,,,,70,10,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No two Harijan yila,2,300,1500,,1,,14,,,,,71,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No one Hirdayganj,2,500,2450,,1,,13,,,,,69,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No one uraon tola,2,250,1000,,1,,14,,,,,71,9,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No one Santhali tola,2,300,1500,,1,,15,,,,,70,12,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,Sial Para sabdal Tola,2,300,1500,,1,,12,,,,,142,12,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No three uraon tola,2,250,1000,,1,,14,,,,,70,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven Laliyahi Indira Nagar,2,200,1000,,1,,14,,,,,70,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  twenty six chaudhry mohalla saifganj,2,70,280,,1,,29,,,,,31,2,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No TWENTY SIX CHAUDHRY MOHALL Husainabad,2,200,800,,1,,15,,,,,71,12,0
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No Twenty Six  CHAUDRY MUHALLA,2,200,800,,1,,14,,,,,73,9,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  twenty six Chaudhray tola,2,150,600,,1,,18,,,,,25,3,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  twenty four paswantola,2,125,500,,,,15,,,,,70,7,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward NoTwenty one Vevakanand Colony,2,60,300,,1,,23,,,,,,18,1
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No four Bihan Tola,2,110,550,,1,,10,,,,,72,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven B ehind Adarsh Shcool,2,200,1000,,1,,10,,,,,70,11,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No twenty Seven,2,95,380,,1,,15,,,,,5,9,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven Liyahi,2,800,4000,,1,,15,,,,,73,12,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven Barmasia Kurma Tola,2,100,500,,1,,16,,,,,26,3,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven Barmasia Paswan tola,2,60,300,,1,,12,,,,,8,1,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven Shitla Sthan,2,300,1500,,1,,16,,,,,73,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Six Chauhan tola,2,80,400,,1,,30,,,,,21,7,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Six Shikar tola,2,200,1000,,1,,14,,,,,71,13,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Six Dhangar toli,2,100,500,,1,,10,,,,,71,10,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No five Near Harisahnkar Naik,2,100,500,,1,,15,,,,,71,8,
+10,BIHAR,212,Katihar,01151,Katihar,801314,Katihar (M Corp. + OG),240838,III,ward No  Seven driver Chamar Toli,2,300,1500,,1,,14,,,,,72,12,
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Kashipur,2,368,1119,,3,,24,,65,1,,238,1,11
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Jairampur,2,518,1200,1.1,3,,34,,65,1,,240,1,11
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Murli Ganj Tola,2,519,1206,1.1,3,,35,,77,1,,245,1,11
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Murligag tola,2,520,1200,1,3,,34,,77,1,,245,1,12
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Ambedkar Tola,2,510,1202,,3,,38,,78,1,,224,1,12
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Domtola,2,520,1200,1,3,,37,,81,1,,245,1,11
+10,BIHAR,213,Madhepura,01164,Murliganj,801317,Murliganj (NP),28691,III,Gharkari Tola,2,500,1300,1.1,3,,32,,80,1,,245,1,12
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no.thirty nine,2,48,275,,4,10,20,,15,,1,40,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no five,2,91,500,,4,40,20,,30,,1,20,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No. Twenty Six Bhartiynagar,2,194,1309,,4,40,30,,102,,1,10,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No. Twenty Eight,2,62,329,,4,25,25,,,,1,15,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.thirty five Bsirghati,2,69,360,,4,15,20,,,14,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.thirty five Santnagr,2,114,618,,4,24,,,90,,1,7,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No. thirtyfive Bhairghati,2,119,780,,4,25,,,94,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Thuditola,2,51,248,,4,,,,50,,1,,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty seven,2,65,310,1,4,60,,,,5,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no.thirty seven,2,102,657,1,4,40,20,,,22,1,10,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No. Twenty two Alinagar,2,94,511,,1,10,30,,24,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no.thirty nine Subedari tola,2,238,1215,,4,100,10,,125,,1,20,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No Seventeen Kunwar Tola,2,92,486,,4,35,,,57,1,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.fourty,2,106,688,,4,10,,,90,,1,,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no.fourty Sharmatola,2,62,252,,4,20,,,40,,1,,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No. one,2,76,341,,4,26,,,50,,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no. three Naya Bajar,2,177,942,,4,50,10,,,,1,,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Nayabajar,2,107,623,,4,25,15,,7,,1,,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no foure Begha,2,207,1226,,4,30,2,,125,,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no.foure Begha,2,47,222,,4,15,,,15,,1,2,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no foure Begha,2,60,338,,4,12,,,18,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ramfaltola,2,439,2247,,4,150,5,,250,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty nine jhapra tola,2,139,650,,4,50,10,,70,,1,20,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,ward no thirty seven sherghati,2,97,545,5,4,40,15,0,42,0,1,10,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ramfaltola  Sah II,2,66,460,,4,30,5,,,30,1,2,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ramfal Tola III,2,12,61,,4,5,,,7,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Baigha ard No.Foure,2,57,306,,4,22,5,,30,,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Baigha Ward No. Foure,2,176,747,,4,25,2,,100,,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty one dariya ganj,2,88,492,1,4,15,10,0,13,0,1,60,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty three dumrail,2,72,353,5,4,10,10,0,50,0,1,2,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty three ramtola,2,39,199,5,4,5,5,0,25,0,1,3,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty three muslim tola,2,81,507,5,4,15,10,0,0,50,1,2,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty three dumrail harijantola,2,225,1219,1,4,100,10,0,115,0,1,3,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.Twenty Foure,2,131,699,,4,50,,,81,,1,10,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,ward no thirty six  thuthi tola,2,102,435,5,4,50,10,0,40,0,1,5,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no six kahra,2,115,591,,4,40,3,,20,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,ward no thirty eight sahrsa basti,2,79,471,5,4,10,10,0,59,0,1,30,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty eight,2,306,2102,5,4,100,50,0,156,0,1,40,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty nine koilahi,2,227,1083,5,4,100,10,0,110,0,1,20,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fourty muslim tola,2,82,415,5,4,60,0,0,20,0,1,20,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.Five,2,98,491,,4,40,15,,40,,1,15,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.Sixx,2,80,373,,4,20,2,,35,,1,5,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Shiv Puri Ramtola Ward No.Fourteen,2,74,389,,4,64,10,,,,1,10,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.Fifteen,2,124,625,,4,50,25,,40,,1,10,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward No.Sisteen Gangjala,2,209,944,1,4,100,10,,9,,1,6,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty five santnagar,2,133,1129,5,4,25,5,0,103,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty five sharmatola,2,68,399,0,4,25,25,0,15,0,1,25,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no five,2,140,765,,4,45,25,,65,,1,25,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty Harijantola,2,60,388,0,3,10,20,0,30,0,1,15,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twentyone,2,72,465,0,4,25,25,0,0,20,1,0,50,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twentytwo,2,166,1030,0,4,10,14,0,16,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward notwenty two,2,220,1241,5,4,150,50,0,20,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twentytthree batraha,2,168,634,5,4,30,13,0,8,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward notwentyfour,2,150,913,5,4,50,0,0,0,100,0,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twentyfour,2,113,528,5,4,45,10,0,68,0,0,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty four kaira,2,100,533,5,4,50,0,0,0,0,0,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no Nineteen Vidapith,2,93,379,0,4,10,70,0,13,0,0,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty five batraha ramtola,2,119,659,0,4,20,40,0,50,0,1,40,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no eighteen,2,44,211,0,4,25,15,0,4,0,1,5,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty six Bhartiya Nagar,2,145,703,5,4,45,25,0,75,0,1,25,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty sixbharti nagar,2,223,1240,5,4,50,50,0,123,0,1,25,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty seven sharda nagar,2,42,235,0,4,10,10,0,0,22,1,15,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty seven,2,69,431,0,4,15,10,0,44,0,0,1,25,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty eight,2,59,347,0,4,25,25,0,9,0,1,15,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty seven kayasth tola,2,123,572,0,4,0,10,0,23,0,1,50,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no twenty nine kayasth tola,2,114,565,0,4,0,12,0,0,14,1,50,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thity kaysth tola,2,153,869,5,4,100,10,0,13,0,1,5,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirty one sahrsa basti,2,415,2148,1,4,25,11,0,85,0,1,80,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward notwentyfive sharmatola,2,212,1198,5,4,40,10,0,100,0,1,50,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirteen paswan tola,2,222,937,5,4,50,10,0,70,0,1,20,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no six Kahra,2,217,1055,,4,20,2,,35,,1,2,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no six kahra,2,144,720,,4,25,1,,45,,1,4,,
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no seven Mirtola,2,67,355,5,1,10,20,0,7,0,1,5,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no Seven Mirtola,2,57,268,5,1,5,25,0,7,0,1,40,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no eight,2,142,774,5,3,35,12,0,80,0,1,10,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no eight gandhipath,2,151,819,5,3,40,10,0,45,0,1,15,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no nine Nayabajar,2,136,722,5,3,45,0,50,0,0,1,25,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no ten DV road,2,169,752,0,4,100,29,0,0,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no eleven,2,94,513,5,4,80,5,0,9,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no SIXTEEN VIDYAPATHINAGAR,2,122,590,0,4,15,20,0,87,1,0,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no thirteen,2,69,316,0,4,19,20,0,0,10,0,40,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no sahrsa basti jhopra tola,2,175,853,5,4,35,25,0,54,0,1,15,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fourteen shivpuri simnha,2,213,1059,5,4,100,10,0,13,0,1,10,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no foureen hathbhara,2,87,435,1,4,37,10,0,40,0,1,4,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fourteen Simraha hathbhara,2,114,578,5,4,25,25,0,0,14,1,6,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fourteen hathpara Simraha,2,89,468,5,4,49,15,0,25,0,1,6,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fifteen,2,80,411,5,4,40,20,0,20,0,1,20,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no fifteen II,2,84,420,5,2,40,15,0,25,0,1,18,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no sixteen Gangajal Kumarsingh,2,100,488,5,4,20,30,0,20,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no sixteen gangajalkumar,2,237,1100,5,4,100,10,0,37,0,1,0,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no seventeen kunvar tola,2,165,871,5,4,50,0,0,115,0,1,5,0,0
+10,BIHAR,214,Saharsa,01174,Kahara,801318,Saharsa (Nagar Parishad),156540,I,Ward no tweleve,2,67,364,5,4,67,0,0,0,0,1,0,0,0
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Kabilpur,2,149,801,0.324,4,,16,,25,,2,66,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Matarganj,2,106,540,0.151,1,,17,,38,,1,70,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Mahdhauli,2,118,624,0.257,1,,15,,71,,4,25,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Lalbag Jethimai,2,80,401,0.435,4,,25,,13,,2,30,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Lalbag,2,131,666,0.182,1,,51,,3,1,2,95,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Sahugchhi,2,76,390,0.294,1,,33,,11,,1,58,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Chunabhatti,2,1670,9810,8.751,4,,27,,738,1,23,972,,2
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Patnopatti,2,177,732,0.222,1,,29,,55,,1,91,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Shubhankarpur,2,231,1087,1.438,4,,23,,131,,1,33,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Naugarhi,2,135,708,0.576,4,,21,,42,,1,74,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Sunderpur,2,113,597,,4,,26,,16,,,95,,
+10,BIHAR,215,Darbhanga,01184,Darbhanga,801319,Darbhanga (M Corp.),296039,I,Alinagar,2,139,792,0.427,4,,20,,23,,2,67,,1
+10,BIHAR,215,Darbhanga,01184,Darbhanga,227112,Padri (CT),7566,V,Padri,2,225,700,3,1,,,,,,,,3,
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DALIT BASTI BANKROAD WARD-11,2,85,425,0,4,0,0,0,85,0,1,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BALU GHAT BADH (SULIS GATE) WARD-16,2,43,287,,4,0,8,0,35,0,19,6,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,LAKRI DAHI BADH WARD-16,2,25,185,,4,0,11,0,14,0,4,14,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,LAKRIDAHI MEN ROAD WARD-16,2,29,191,,1,0,6,0,23,0,6,6,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,AKHARA GHAT WARD-14,2,66,339,,1,0,0,0,66,0,66,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SIKANDERPUR BANDH WARD-14,2,174,892,,1,0,20,0,114,0,54,30,2,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KAMARA MOHALLA DRJI TOLA WARD-16,2,28,191,,1,0,4,0,24,0,4,14,2,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KILA BADH WARD-12,2,27,197,,1,0,2,0,20,5,4,5,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MAI STHAN GUNNIPUR,2,21,108,0,1,0,10,0,11,0,3,8,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KARBALLA DHOBI GHAT WARD-11,2,35,254,,1,5,0,0,30,0,10,16,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,YOGIYA MATH COMPANY BAG WARD-11,2,130,910,1,3,0,24,0,56,0,72,69,6,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SIKANDER PUR AMBEDKAR NAGAR- 13,2,213,1106,1,4,0,15,0,197,1,87,20,5,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DALIT TOLA IMAMGANJ WARD-18,2,185,938,1,4,0,20,0,155,0,45,20,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,GADHI NAGAR GUJRATI BASTI WARD-11,2,171,748,0,1,0,0,0,171,0,3,168,5,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MESTER TOLI WARD-20,2,30,271,0,4,0,0,0,30,1,6,30,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BAKSI CALONY WARD-08,2,29,231,,1,0,12,0,17,0,12,29,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,JUMMAMASJID CHAUK,2,27,178,,4,0,17,0,10,0,4,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BHARATMATA LANE,2,29,199,0,4,2,20,0,7,0,1,21,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,NUNPUR NAGAR BASTI-22,2,24,137,,1,2,14,0,8,0,8,18,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KURMITOLA,2,32,211,,4,0,20,0,10,0,10,12,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BRAMPOLICEGALI,2,26,141,,4,0,26,0,0,0,15,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DOMATOLI,2,27,150,0,4,0,0,0,27,0,8,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MEHTARTOLI,2,59,352,0,4,0,18,0,41,0,18,23,2,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BELA CHAPRA49,2,130,680,1,4,0,30,0,60,0,74,74,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,NUNPUR BASTI WARD-19,2,22,110,,1,0,13,0,9,0,13,13,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MAL GODAM MESTAR TOLA WARD-05,2,25,138,,3,0,0,0,25,0,8,8,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,JHITKAHIYA ROAD PASWAN TOLA WARD-1,2,32,203,0.5,1,0,15,0,0,1,6,9,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DUSHAD TOLI WARD NO.-2,2,21,100,0.5,1,0,15,0,6,0,15,15,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,"BRAHMPURA JHITKI,DALIT BASTI WAD-2",2,54,302,0.5,3,0,18,0,0,0,38,18,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BRAHMPURA JHITKI MUSLIM TOLA WARD-2,2,34,186,,1,0,15,0,9,0,20,21,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,RAHUL NAGAR WARD-2,2,25,145,,1,0,0,0,25,0,4,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,TURAHA KUMHAR BASTI WARD-3,2,27,206,0.5,1,0,18,0,9,0,6,26,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KILA BADH MEHDI HASAN ROAD WARD-4,2,76,517,,2,0,12,0,37,0,30,23,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BRAHMPURA KAHAR TOLI WARD-04,2,27,194,,1,0,0,0,27,0,2,27,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BRAHMPURA NUNPUR WARD-04,2,146,875,1,3,0,15,0,111,0,60,96,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PWD ROAD WARD-10,2,30,186,,2,0,5,0,25,0,2,3,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,JURAN CHAPRA NUNPUR,2,46,327,,1,3,9,0,34,0,21,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SATSANG GALI,2,25,142,0,1,5,5,0,15,0,8,8,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DARJI TOLA WARD-06,2,22,123,,1,0,17,0,5,0,10,5,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DALIT BUSTI WARD-6,2,20,123,,1,0,14,0,6,0,5,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SANJAY CINEMA WARD NO-06,2,25,145,,1,0,0,0,25,0,2,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,IRANI MUHALLA WARD NO-6,2,37,257,,3,0,8,0,12,0,8,7,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,GUFUR BASTI WARD-06,2,35,255,,1,0,21,0,9,0,13,25,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,dalit basti nilkanth mandir ward-06,2,63,328,,1,0,25,0,38,0,21,42,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,GOVINDPURI MUSLIM BASTI WARD-7,2,45,320,,3,3,3,0,30,0,28,5,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KASAI TOLA MARIPUR WARD-08,2,37,254,,1,3,34,0,10,0,37,37,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MALLAHTOLA MARIPUR WARD-08,2,20,98,0,3,0,4,0,16,0,4,7,4,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,FAKIRTOLA,2,22,188,1,4,5,12,0,5,0,10,15,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MARIPUR POWER HOUSE CHAUK PARISAD ROAD WARD-9,2,20,138,,3,0,0,0,20,0,3,6,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KASAI TOLA WARD-05,2,38,317,,1,0,1,0,37,0,11,2,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DUSHAD TOLI 45,2,35,140,1,1,0,0,0,35,0,5,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BIBIJONE LAN 40,2,56,392,1,4,0,26,0,2,0,8,24,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KALYANIBADA,2,46,336,,1,0,20,0,26,0,12,19,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DHOBHI TOLA GALI 41,2,47,330,0,4,0,30,0,17,0,19,44,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PASWAN TOLA 41,2,23,191,1,4,0,13,0,10,0,10,11,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MUSLIMTOLA KANHAULI DIH 41,2,58,498,1,4,0,15,0,43,0,57,45,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BHARATMATA CHAUK 42,2,42,252,1,4,0,18,0,24,0,12,19,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MAI SATHAN 42,2,56,336,1,4,0,31,0,25,0,21,13,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BINDESWARI COMPOUND 43,2,25,128,1,4,0,8,0,17,0,9,12,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,AJAD ROAD 43,2,20,108,1,4,0,0,0,20,0,4,14,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MEHTAR TOLI 44,2,42,280,0,4,0,20,0,22,0,28,32,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,NAWAB ROAD 44,2,30,176,1,4,0,4,0,26,0,4,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PANKHATOLI,2,20,107,1,1,0,12,0,8,0,8,9,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,CHANDWARA MSODA GODAM 45,2,120,630,1,4,0,40,0,80,0,40,37,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,CHATRABHUJ STHAN 40,2,30,125,1,4,0,25,0,5,0,25,25,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DHOBI DOM BUSTI 45,2,25,128,0,4,0,0,0,25,0,5,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,LAKRIDAHI ANAD BAG 45,2,26,138,1,4,0,12,0,14,0,10,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,NONIYA PATTI 45,2,29,162,1,4,0,0,0,29,0,5,4,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,RAMJANKI ROAD,2,40,191,1,4,0,16,0,24,0,5,20,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PATELNAGAR 49,2,34,201,1,1,0,18,0,16,0,12,20,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,POLICE LINE 47,2,81,452,1,4,0,20,0,61,0,27,22,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KANHAIYA MATHJ48,2,92,485,1,4,0,18,0,44,0,26,61,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KANAHIYA TOLI KE PICHE,2,56,373,1,4,0,26,0,30,0,24,46,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DURGA STHAN 48,2,42,230,1,4,0,10,0,32,0,16,24,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,KANHIYA TOLI ROAD 1,2,82,478,1,4,0,32,0,50,0,20,23,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,ST RAVIDAS 49,2,89,465,1,4,0,0,0,89,0,10,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,HAJAM TOLI44,2,26,156,1,4,0,7,0,19,0,6,16,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SATPURA POKHARIYA 32,2,150,947,1,1,0,25,0,85,0,74,81,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SAHAIBHAWAN DALITBASTI-26,2,20,88,0,4,0,6,0,14,0,6,18,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MAJHWALIYA ROAD,2,85,503,1,1,0,12,0,73,0,15,8,7,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,RASHUDPUR D.BASTI-27,2,46,250,0,4,0,8,0,38,0,35,9,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DAMUCHUCK,2,22,129,,4,0,5,0,17,0,4,7,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SHAILESHKHAN28,2,25,138,1,1,0,8,17,0,0,10,11,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SWEEPER CHAUK-28,2,33,208,1,1,0,26,0,2,0,20,21,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DHUNIYA TOLA,2,32,119,0,4,0,10,0,22,0,12,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DALITOLA HOME FOR HOMELESS,2,29,164,0,4,0,20,0,9,0,10,12,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,AUGHARIYA BAZAR 30,2,160,872,0,1,0,0,0,106,0,6,160,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MUSLIM CLUB 40,2,35,291,0,4,0,10,0,15,10,8,14,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,ATARDAH31,2,57,350,1,1,0,10,0,27,0,28,40,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,MAHARAJIPHOKAR 39,2,70,460,1,4,0,10,0,30,0,35,51,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,LIMCHAUK33,2,31,133,0,4,0,18,0,3,0,10,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,AMBEDKARNAGAR-39,2,57,385,1,3,0,10,0,17,1,21,37,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,AKLUMISTRI LANE 39,2,41,348,1,4,0,16,0,15,0,36,26,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BAHALKHANAROAD 39,2,115,761,1,4,0,15,0,55,30,40,25,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PASWAN TOLA 31,2,67,355,1,1,0,21,0,46,0,32,39,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BAHALKHANA 39,2,72,485,1,4,0,17,0,55,0,6,13,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DHANUKATOLA 33,2,23,134,1,4,0,13,0,0,0,12,4,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,SOCIETY GATE MAI STHAL37,2,25,136,1,4,0,8,0,17,0,8,8,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,PASWANTOLA 37,2,46,349,,4,0,13,0,21,0,10,32,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,CHAPMAN SCHOOL GATE,2,31,213,1,4,0,5,0,20,6,3,0,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,TATMATOLI 36,2,25,143,,4,0,15,0,10,0,9,12,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DHOBIYA TOLI 35,2,21,128,1,4,0,21,0,0,0,18,15,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,BASWARITOLA 33,2,37,228,1,4,0,17,0,20,0,25,19,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,DALIT BASTI WARD33,2,20,123,1,4,0,14,0,6,0,5,10,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,801324,Muzaffarpur (M Corp.),354462,I,NUNPUR TOLA39,2,26,181,1,1,0,20,0,6,0,14,12,0,0
+10,BIHAR,216,Muzaffarpur,01212,Musahri,229458,Shekhpura (CT),10204,V,Paswan Tola,2,30,400,1,4,,,,1,,,10,3,17
+10,BIHAR,217,Gopalganj,01221,Hathua,230711,Hathua (CT),7156,IV,HATHUA,2,95,686,2,4,75,10,0,19,0,1,45,0,0
+10,BIHAR,217,Gopalganj,01222,Uchkagaon,801326,Mirganj (NP),26240,III,Ward No Fifteen,2,200,1850,1,3,,,0,100,1,20,102,32,
+10,BIHAR,217,Gopalganj,01222,Uchkagaon,801326,Mirganj (NP),26240,III,Ward No. Five,2,200,1850,2,3,,20,0,,,7,100,32,
+10,BIHAR,217,Gopalganj,01222,Uchkagaon,801326,Mirganj (NP),26240,III,Ward No two,2,200,1500,1,3,,,0,100,1,7,180,32,
+10,BIHAR,218,Siwan,01230,Siwan,801329,Siwan (Nagar Parishad),135066,I,MALIN BASTI SIWAN,2,296,1565,1,3,0,20,0,100,2,0,90,0,0
+10,BIHAR,219,Saran,01257,Revelganj,801332,Revelganj (NP),39039,III,Goria Chhapra,2,150,1050,2,1,40,10,1,130,2,,50,40,
+10,BIHAR,219,Saran,01257,Revelganj,801332,Revelganj (NP),39039,III,Lameria,2,175,1150,2,1,40,12,2,130,2,,140,45,
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,SALEMPUR 25,2,95,480,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,CHAMAR TOLA 14,2,318,1600,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,BRAHM PUR 1,2,105,525,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,AJAYAT GANJ 1,2,210,1050,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,SHYAM CHUCK 2,2,70,420,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,MANSHUR GANJ 4,2,198,990,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,BHAGWAN BAZAR 13,2,42,252,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,NAYA BAZAR 17,2,68,340,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,CHOTI BRAHM PUR,2,166,872,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,BICHLA TEL PER,2,225,1125,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,DHOBI TOLA 30,2,30,161,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,NONIA TOLA 41,2,233,1342,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,HUSSA CHAPRA 33,2,113,680,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,JAGDUMBA STHAN 28,2,190,950,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,RAHUJA,2,105,525,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,BIN TOLI 5,2,188,1034,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,MUSLIM TOLA 11,2,99,495,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,INDRA NAGAR 31,2,85,425,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,RUPGANJ 29,2,81,486,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,CHOTI SANGAT WARD 15,2,29,145,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,RATANPUR 15,2,22,114,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,GORIYA TOLI 38,2,102,510,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,MUSLIM TOLA 34,2,90,450,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,KASHI BAZAR 10,2,115,565,1,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,BADKA TEL PER,2,306,1530,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,"chamar tola  43,44",2,94,470,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,brahmpur 2,2,135,700,1,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,bhagwan bazar 12,2,83,420,1,3,0,0,0,0,0,5,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,chotka tila math 39,2,102,510,0,3,0,0,0,0,0,1,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,daldali bazar 35,2,99,495,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01258,Chapra,801333,Chapra (Nagar Parishad),202352,I,PASWAN TOLA,2,224,1344,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,AAMUD,2,30,172,1,2,0,10,0,0,0,2,16,4,4
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,CHIRAIYA BAZAR,2,52,210,1,1,0,20,0,0,1,1,46,4,0
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,BARBUTTA,2,50,286,1,2,0,12,0,0,0,0,38,16,0
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,PAKRICHUCK,2,40,219,1,4,0,18,0,0,0,0,16,9,0
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,PRAWEJA BAD NAHUR,2,35,280,1,1,0,8,0,0,0,0,0,0,0
+10,BIHAR,219,Saran,01267,Sonepur,801336,Sonepur (NP),37776,III,Parejabad,2,150,760,2.58,3,,30,,,1,12,38,20,
+10,BIHAR,220,Vaishali,01270,Lalganj,801337,Lalganj (NP),37098,III,Salahpur,2,404,2348,0,1,12,0,0,0,1,0,0,0,0
+10,BIHAR,220,Vaishali,01283,Mahnar,801339,Mahnar Bazar (NP),48293,III,ISHHAKPUR,2,150,857,2.25,4,,,,,,10,,10,
+10,BIHAR,221,Samastipur,01285,Warisnagar,236373,Mathurapur (CT),7627,IV,,2,2649,,5,1,500,,,,,,2050,25,
+10,BIHAR,221,Samastipur,01288,Samastipur,801340,Samastipur (Nagar Parishad + OG),67925,III,Samastipur,2,1750,6758,0,3,0,25,0,125,0,0,250,9,0
+10,BIHAR,221,Samastipur,01288,Samastipur,236603,Dharampur (CT),5291,III,Dharampur,2,991,0,4,1,215,25,71,0,0,26,225,0,0
+10,BIHAR,221,Samastipur,01288,Samastipur,236604,Bhuindhara (CT),6614,IV,Harijan Basti,2,1324,,5,1,305,25,41,,,,,,
+10,BIHAR,221,Samastipur,01297,Dalsinghsarai,801341,Dalsinghsarai (NP),23862,III,Mushahri,2,796,4470,2,3,0,22,0,0,0,23,179,0,0
+10,BIHAR,222,Begusarai,01311,Teghra,801343,Barauni (Nagar Parishad),71660,IV,Shokraha,2,4180,15000,480,4,120,21,,111,,,214,,
+10,BIHAR,222,Begusarai,01311,Teghra,801344,Teghra (NP),56234,IV,Daniyalpur,2,3200,10000,500,4,105,21,,101,,,211,,
+10,BIHAR,222,Begusarai,01319,Balia,801348,Balia (NP),47550,VI,CHOTI BALIYA MOLNA CHUCK,2,400,1560,2.5,3,25,15,0,0,5,0,260,22,0
+10,BIHAR,223,Khagaria,01323,Khagaria,801349,Khagaria (Nagar Parishad),49406,III,"NEAR BUS STAND ,NEAR ADHORI STHAN",2,400,2500,2,1,0,25,0,80,0,20,200,10,4
+10,BIHAR,223,Khagaria,01323,Khagaria,801349,Khagaria (Nagar Parishad),49406,III,Dad Nagar,2,74,365,7.8,3,21,,,,1,2,,1,
+10,BIHAR,223,Khagaria,01327,Gogri,801350,Gogri Jamalpur (NP),37753,III,Latru Tola,2,69,627,0.2,1,,,,,1,,,,
+10,BIHAR,226,Munger,01358,Jamalpur,801358,Jamalpur (Nagar Parishad),105434,II,Bari Ashiquepur Jamalpur,2,72,367,1,1,3,,,2,,2,3,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Dpmasi Jodi Talab,2,37,140,,,,,,,,4,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Ghoshpur,2,129,553,,,,,,,,5,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Pachvadan Mushahri,2,114,543,5,,,,,,,5,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Dularpur,2,34,161,,,,,,,,4,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Mudla,2,119,523,0,,,,,,,5,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Ajimganj bhairam tola,2,113,558,,,,,,,,8,,,1
+10,BIHAR,226,Munger,01360,Kharagpur,801359,Kharagpur (NP),31385,III,Chamangarh,2,122,659,,,,,,,,5,,,1
+10,BIHAR,227,Lakhisarai,01368,Lakhisarai,801361,Lakhisarai (Nagar Parishad),99979,II,SANTER,2,201,1032,12,3,10,18,3,20,1,30,200,2,4
+10,BIHAR,228,Sheikhpura,01374,Sheikhpura,801363,Sheikhpura (Nagar Parishad),62927,III,Bigha Ahiapur,2,71,592,1,3,7,,1,2,1,1,10,13,
+10,BIHAR,228,Sheikhpura,01374,Sheikhpura,801363,Sheikhpura (Nagar Parishad),62927,III,Jamalpur,2,68,590,1,3,7,1,1,2,1,1,46,14,
+10,BIHAR,228,Sheikhpura,01374,Sheikhpura,801363,Sheikhpura (Nagar Parishad),62927,III,Darneshpur,2,71,591,1,3,7,1,1,2,1,1,8,15,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Gabrpar,2,277,1082,0.612,1,,,,,,3,45,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Khorampur,2,207,1305,2.5,1,1,,,,,,5,54,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Dwarka Bigha,2,69,433,,1,,,,,,5,,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Gajendra Bigha,2,66,375,,1,1,,,,,5,,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Dihrapar,2,140,987,1,1,,,,,,2,10,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Arjuntola,2,121,745,1,1,,,,,,4,10,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Madarchak,2,80,393,2,1,,,,,,2,,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Paswan Toli,2,158,1012,0.5,1,,,,,,4,65,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Mushar Toli,2,130,734,1,,,,,,,2,,,
+10,BIHAR,229,Nalanda,01390,Hilsa,801365,Hilsa (Nagar Parishad),51052,II,Miyan Bigha,2,124,776,2.5,1,,,,,2,15,,,
+10,BIHAR,229,Nalanda,01394,Rajgir,801367,Rajgir (NP),41587,III,AJAD STRU,2,60,200,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,229,Nalanda,01394,Rajgir,801367,Rajgir (NP),41587,III,DOM TOLI,2,60,100,0,3,0,0,0,0,0,1,0,0,0
+10,BIHAR,229,Nalanda,01394,Rajgir,801367,Rajgir (NP),41587,III,DOMHARI,2,50,150,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,229,Nalanda,01394,Rajgir,801367,Rajgir (NP),41587,III,LELIN NAGAR,2,200,600,0,3,0,0,0,0,0,0,0,0,0
+10,BIHAR,230,Patna,01399,Dinapur-Cum-Khagaul,801370,Dinapur Nizamat (Nagar Parishad),182429,I,Ramji chak,2,300,2000,0.5,1,,,,,,4,,2,
+10,BIHAR,230,Patna,01399,Dinapur-Cum-Khagaul,801370,Dinapur Nizamat (Nagar Parishad),182429,I,Nasriganj,2,357,1302,0.5,4,,,,,,4,,2,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Paijaw bari pahari,2,200,1000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,New Bahadurpur Road,2,100,500,,2,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Lodhipur China Kothi,2,500,2500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Yarpur Mushahri,2,40,200,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Yarpur Domkhana under bridge Near Durga Temple,2,700,3500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Jagjivan Nagar Below Chitkohra bridge,2,60,300,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Yarpur Near Sachiwalya Gumti No.One,2,600,3000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Chand Colony Gandhi Setu,2,250,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Nrw Bahadurpur Mushhari Toli,2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Kumhrar,2,60,300,,2,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Gandhinagar,2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Shivaji Park,2,70,350,2,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Kajipur Near dinkar glomber Harijan Toli,2,250,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Diwan muhallh sismahal,2,150,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Dadermandi Naya Tola Nim Ki Bhatti,2,80,400,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Meena Bajar,2,500,2500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Jagua Toli, Khara Kuan",2,125,525,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Gayatri Mandir,2,70,350,2,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,East Lohanipur,2,800,4000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Sandal Pur Ambedkar,2,600,3000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Dujra, Rajapurpul",2,200,1000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Muradpur,2,200,1000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Salimpur Ahra Domkhan,2,60,300,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Musallarpur Naya Goan,2,600,3000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Sadiqpur domkhana,2,80,400,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Hanam Par, Diwan mohallah",2,70,350,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Amarpur Deep Nagar Colony,2,150,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Bauaganj Pani Tanki Ganga Bridge Campus Colony,2,250,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Kamla Nehru Nagar, Adalatganj",2,900,4500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Ambedkar Bhawan, Nala Road",2,150,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Sipahi GahatTo Tar Ghat,2,800,4000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,SAristabad,2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,New Nazimabad,2,150,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Saidpur,2,300,1400,1,1,2,,1,,1,,,1,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Lohia Nagar,2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Chainpur Bela Chamar Toli,2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Balmikichak,2,75,375,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Punaichak Slum,2,250,750,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,"Faujdarikua,Bouli Road",2,100,500,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Dusad Toli Near City court,2,200,1000,,,,,,,,,,,
+10,BIHAR,230,Patna,01400,Patna Rural ,801373,Patna (M Corp. + OG),1684297,I,Danka Imli Colony,2,60,300,,,,,,,,,,,
+10,BIHAR,230,Patna,01402,Phulwari,801374,Phulwari Sharif (Nagar Parishad),81740,II,Chamar Toli,2,500,5000,5,1,100,,,400,1,5,200,5,200
+10,BIHAR,230,Patna,01402,Phulwari,801374,Phulwari Sharif (Nagar Parishad),81740,II,Kanhaiya Nagar,2,500,5000,5,1,,10,,250,1,5,200,4,200
+10,BIHAR,230,Patna,01402,Phulwari,801374,Phulwari Sharif (Nagar Parishad),81740,II,Naharpura,2,600,6000,10,1,200,,,400,2,6,200,4,200
+10,BIHAR,230,Patna,01404,Naubatpur,801376,Naubatpur (NP),25011,V,Ward No.Fiften,2,923,3760,,3,,,,,1,26,,,
+10,BIHAR,230,Patna,01405,Bikram,801377,Bikram (NP),22486,V,Ganga Chak,2,65,357,1.5,,,,5,,,1,45,35,
+10,BIHAR,230,Patna,01411,Fatwah,801379,Fatwah (NP),50961,III,Gandhi Nagar Maksudpur,2,125,465,0.5,3,40,62,2,1,1,,25,3,1
+10,BIHAR,230,Patna,01413,Khusrupur,801380,Khusrupur (NP),15731,IV,Bhushki,2,148,838,,1,12,,,60,,,135,50,
+10,BIHAR,230,Patna,01414,Bakhtiarpur,801381,Bakhtiarpur (NP),47897,III,Khaich Ambedkar Nagar,2,300,1500,3,3,180,0,0,120,0,0,160,100,0
+10,BIHAR,230,Patna,01414,Bakhtiarpur,801381,Bakhtiarpur (NP),47897,III,"Ragopur, Belchan, Nayatola etc",2,570,4400,3,1,20,,,,,100,100,70,
+10,BIHAR,231,Bhojpur,01421,Shahpur,801384,Shahpur (NP),17767,IV,Gopalpur Shobhi Tola,2,471,2307,,1,120,3,,,1,35,180,,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Shibpur,2,200,710,1,3,13,,,50,1,3,55,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Balbatra,2,100,700,1,3,12,75,,52,1,3,55,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Marutinagar,2,201,702,1,3,13,14,,52,1,3,51,2,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Manjhola,2,199,705,1,3,10,11,,,,,,,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Mirganj,2,200,705,1,3,13,,,50,1,3,55,2,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Chandba,2,203,705,1,3,12,,,51,1,3,56,2,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Begampur,2,200,700,1,3,13,,,50,1,3,55,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Shital Tola,2,200,700,1,3,14,,,50,1,3,55,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Jawahar Tola,2,200,700,1,3,12,,,50,1,3,48,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Anahar,2,200,700,1,3,11,,,50,1,3,52,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Bahiron,2,200,700,1,3,11,,,50,1,3,56,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Moti tola,2,200,700,1,3,12,,,50,1,3,55,1,
+10,BIHAR,231,Bhojpur,01422,Arrah,801385,Arrah (M Corp.),261430,I,Maluhipur,2,141,700,1,3,12,,,50,1,3,56,1,
+10,BIHAR,231,Bhojpur,01424,Koilwar,801386,Koilwar (NP),17725,III,Mushar Tola,2,210,630,0.5,1,,,,,,,,,
+10,BIHAR,231,Bhojpur,01424,Koilwar,801386,Koilwar (NP),17725,III,Harijan Tola,2,46,115,0.5,1,,,,,,,,,
+10,BIHAR,231,Bhojpur,01424,Koilwar,801386,Koilwar (NP),17725,III,Pasi Tola,2,168,640,0.5,1,,,,,,,,,
+10,BIHAR,231,Bhojpur,01428,Jagdishpur,801388,Jagdishpur (NP),32447,III,Harijan Tola Ward No. Four,2,75,300,0.5,1,,2,,,,,5,2,
+10,BIHAR,231,Bhojpur,01428,Jagdishpur,801388,Jagdishpur (NP),32447,III,Chamar Tola Ward No. Eighteen,2,75,276,0.5,1,,2,,,,,5,1,
+10,BIHAR,231,Bhojpur,01429,Piro,801389,Piro (NP),33785,III,Mushahar Toli,2,202,705,0.5,1,,,,,,2,,,
+10,BIHAR,231,Bhojpur,01429,Piro,801389,Piro (NP),33785,III,Dusadh Toli,2,93,325,0.5,1,,,,,,2,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO. TWENTY FIVE,2,99,350,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO SEVEN,2,76,282,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO. FOURTEEN,2,74,321,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO. FIFTEEN,2,96,329,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO. NINTEEN,2,93,352,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01440,Dumraon ,801390,Dumraon (Nagar Parishad),53618,III,WARD NO. THREE,2,70,274,1.5,1,,,,,,,,,
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,HARIJAN TOLA WARD NO. SIS,2,104,684,2,1,,25,,,,5,35,,
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,HARIJAN TOLA NAR BAJAR  WARD NO.EIGHT,2,124,894,1.5,1,10,,,,,,,,
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,GAJADHR GANJ MEHTAR TOLI  WARD NO.ELEVEN,2,181,1230,1,1,,30,,,,5,40,,
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,HARIJAN MAHIYA NAGAR NAR BAJAR WARD NO. FOURTEEN,2,80,486,1,4,10,10,3,5,0,2,15,1,0
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,HARIJAN MAHIYA NAGAR NAR BAJAR WARD NO. FIFTEEN,2,84,582,1,4,0,10,0,0,0,2,15,0,0
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,NEHRU NAGAR HARIJAN TOLI,2,137,853,15,1,0,20,0,0,0,3,20,0,0
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,KHALASI MOHALLA HARIJAN TOLI WARD NO.THERTY ONE,2,513,2974,2,1,0,10,0,0,0,10,100,0,0
+10,BIHAR,232,Buxar,01441,Buxar,801391,Buxar (Nagar Parishad),102861,II,HARIJAN MAHIYA NAR BAJAR WARD NO. FIVE,2,137,863,2.5,1,0,5,,,,,30,,
+10,BIHAR,233,Kaimur (Bhabua),01453,Bhabua,801392,Bhabua (Nagar Parishad),50179,III,Ambedkar Nagar,2,410,2714,5,3,,,,,,212,,,
+10,BIHAR,234,Rohtas,01461,Bikramganj,801394,Bikramganj (NP),48465,III,Dhangai,2,637,3955,4.5,1,,21,,,,24,165,45,
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,ALAMGANJ,2,75,361,0,1,0,33,0,42,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,GHOSHITOLA,2,145,797,0,1,0,2,0,143,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,JUKKISAHID,2,181,1011,0,1,0,35,0,46,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,COMPENY SARAI,2,32,155,,1,0,0,0,32,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,BAULIYA,2,205,930,1,1,0,0,0,205,1,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,BHARTIGANJ,2,60,481,,1,0,,0,18,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,BARADARI,2,155,839,,1,0,17,0,38,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,GANDHINIW,2,19,87,0,1,0,14,0,5,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,NARANGANJ,2,279,1666,0,1,0,26,0,53,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SHERGANJ,2,60,323,0,1,0,49,0,11,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,MURADABAD,2,73,730,,1,0,24,0,49,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,CHAUKHAND,2,58,356,,1,1,30,0,27,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,MUBARAKGANJ,2,120,620,0,1,0,43,0,77,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KILA,2,69,402,0,1,0,20,0,49,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KABIRGANJ,2,29,131,0,1,0,20,0,9,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SAHFULAGANJ,2,167,817,0,1,0,29,0,138,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,PATHAN TOLI,2,209,1122,0,1,0,15,0,104,0,3,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SULEMANGANJ,2,135,744,0,1,0,12,0,10,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,TAKIYA,2,513,2687,,1,0,21,0,299,1,3,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,DALELGANJ,2,85,512,0,1,0,0,0,85,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SWEEPER CALONY,2,117,512,0,3,0,1,0,116,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,YASHUF CHUK,2,301,1678,,1,0,18,0,233,1,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,RAMESWAR NAGAR,2,75,455,0,1,0,5,0,70,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,Mogalpur,2,300,1500,0,1,40,,10,0,2,40,175,40,2
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SAHJALALPUR,2,132,863,0,3,0,16,0,56,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,TOKIA 3,2,238,1524,,1,0,14,0,164,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,MEWADHITOLA,2,63,280,0,1,0,11,0,42,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,DOMTOLI,2,50,324,0,1,0,9,0,41,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,LASKARIGANJ,2,69,332,0,1,0,8,0,61,1,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,CHOTISHEKHPURA,2,33,177,0,1,0,13,0,0,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,DALIYA,2,154,868,0,1,0,19,0,96,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SAI TOLA,2,1170,5120,0,1,0,18,0,99,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,ADAMKHANI,2,26,159,,1,0,2,0,6,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SHOBHAGANJ,2,174,963,,1,1,12,0,53,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,GAJRADH,2,28,149,0,1,0,6,0,12,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KHIRKIGHAT,2,40,213,0,1,0,3,0,8,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SAGAR,2,251,2975,0,1,0,32,0,219,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,YADAV TOLI,2,41,203,0,1,0,31,0,10,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,PATANGALI,2,41,191,0,1,0,21,0,20,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KURAICH,2,96,693,0,1,0,27,0,72,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,LASKARIGANJ WARD-19,2,80,474,0,1,0,26,0,34,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,PRATAPGANJ,2,34,192,0,1,0,12,0,12,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,LAKHNUSARAI,2,23,105,0,1,0,10,0,13,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,GOPALGANJ,2,11,47,0,4,0,0,0,11,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KALEKHAN,2,19,103,0,2,0,11,0,8,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,MUSKAR TOLI WARDNO.39,2,108,583,0,1,0,9,0,99,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SARYUDAS(SHOBHAGANJ),2,38,185,0,1,0,9,0,29,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,FAZALGANJ,2,31,156,0,1,0,0,0,31,0,0,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KARNUSARAI,2,103,472,0,1,0,18,0,55,0,2,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,ANSARGANJ,2,9,45,0,1,0,8,0,1,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,"KAL;IM,24",2,64,370,0,1,0,27,0,37,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,KAJIPURA,2,89,497,0,1,0,17,0,52,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,GUDDI,2,71,304,0,1,0,3,0,68,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,SARIMOR,2,65,449,0,1,0,2,0,45,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,JAYKAGAO,2,22,103,0,1,0,2,0,0,0,1,0,0,0
+10,BIHAR,234,Rohtas,01471,Sasaram,801397,Sasaram (Nagar Parishad),147408,I,MUSLIMTOLA,2,16,79,0,1,0,1,0,15,0,1,0,0,0
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Seventeen Davgar Toli,2,100,800,0.5,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Two Takya Mohalla,2,85,1280,,3,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Five Guljar pur,2,70,400,2,1,0,0,0,0,0,0,0,0,0
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Three Ambedkar nagar,2,60,475,0.3,3,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Six Nil Kothi,2,80,600,0.5,4,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No.Seven Yadav Toli,2,100,600,0.6,3,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No.Eight Mehtar toli,2,70,600,0.2,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. four Paswan Tola,2,100,800,300,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Eleven,2,60,250,,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. fifteen Chamar toli,2,100,800,0.3,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No.Seventeen Patwa Toli,2,200,1000,0.3,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Eighteen Patwa toli,2,200,1200,0.3,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Twenty Dhankuta Bajar,2,150,700,0.3,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No.Twenty two Bigan Bigha,2,100,800,0.4,1,,,,,,,,,
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No. Fourten Chamar Toli,2,70,500,5,1,0,0,0,0,0,0,0,0,0
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Ward No.Twenty One Harijan Toli,2,100,900,8,1,0,0,0,0,0,0,0,0,0
+10,BIHAR,235,Aurangabad,01476,Daudnagar,801399,Daudnagar (NP),52364,III,Pachba Toli,2,70,450,0.3,1,,,,,,,,,
+10,BIHAR,236,Gaya,01488,Tikari ,801403,Tikari (NP),21324,IV,Bahlia Bigha Manjhitola,2,360,1900,,1,,,,10,1,,2,,
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BHULSANDA,2,85,650,0,1,0,15,0,0,0,0,0,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,NADARGANJ,2,125,670,0,1,33,0,0,0,0,0,85,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,Kumhar Toli,2,100,500,0,1,0,0,0,0,0,0,24,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLA WARIS,2,110,560,0,1,0,0,0,0,0,4,74,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJANTOLI RAMPUR,2,140,700,0,1,0,15,0,0,0,1,100,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,LAKHANPURA,2,230,1000,1,1,0,70,0,0,0,1,150,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,DELHA BIJAY BIGHA,2,210,1200,0,1,0,60,0,0,0,0,130,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,GEWALDIGHA 34,2,200,1000,0,1,0,0,0,0,0,2,0,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BANSHU BHIGHA,2,150,750,0,1,30,0,0,0,0,0,0,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,PITAMAHESWARI,2,121,650,0,1,20,0,0,0,0,0,30,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,KIRANI GHAT,2,112,600,0,1,0,10,0,0,0,3,93,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,MURLIDIH,2,415,2000,0,1,25,10,0,0,0,2,295,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BRAHM STHAN HARIJAN TOLA,2,115,700,0,1,0,5,0,0,0,2,65,0,2
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,PAHSI HARIJAN TOLA,2,97,520,0,1,0,20,0,0,0,2,74,1,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,GADHINAGAR PART1,2,147,810,0,1,30,30,0,0,0,0,121,1,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,SALEMPUR,2,120,610,0,1,0,5,0,0,0,0,51,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BHATBIGHA,2,150,750,0,1,0,50,0,0,0,0,114,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,NADIRAGANJ HARIJAN TOLI,2,125,670,0,1,1,35,0,0,0,0,35,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJANTOLI BARIS,2,110,560,0,1,0,0,0,0,0,4,70,1,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLI RAMPUR,2,140,700,0,1,0,15,0,0,0,1,100,1,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,KATKA CHOUK HARIJAN TOLI,2,67,410,0,1,0,0,0,0,0,0,24,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,SOUTH POLICE  LINE,2,42,278,0,1,0,0,0,0,0,0,31,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,KATARI HIL,2,310,1550,0,1,10,0,0,0,0,0,200,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLA MARAN PUR,2,110,700,0,1,0,5,0,0,0,0,58,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BHARAW STHAN,2,230,1100,0,1,0,20,0,0,0,0,191,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,MANPUR,2,24,173,0,1,0,0,0,0,0,0,16,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,GANDHINAGAR PART2,2,160,850,0,1,41,0,0,0,0,0,134,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BHAT BIGAHA,2,150,750,0,1,0,33,0,0,0,0,114,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,Ikbal Nagar,2,200,1005,,1,0,25,0,0,2,2,154,1,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,DHANIYA BAGICHA,2,245,1250,0,1,50,30,0,0,0,0,200,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,SINGRA STHAN,2,65,293,0,1,10,0,0,0,0,0,41,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,MUSTPHABAD,2,160,850,0,1,15,27,0,0,0,0,115,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,DUSHADH TOLA IMALIYACHUCK,2,39,465,0,1,10,16,0,0,0,2,25,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLA RAMNA,2,190,1000,0,1,0,10,0,0,0,1,52,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,BHUITOLI,2,30,150,0,1,0,0,0,0,0,0,29,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,TELBIGHA,2,100,700,0,1,0,40,0,0,0,2,56,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLA KUMHRAR,2,100,500,0,1,0,0,0,0,0,0,24,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,AWGOLAHARIJAN TOLA,2,100,500,0,1,0,0,0,0,0,0,0,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,HARIJAN TOLA IMALIYACHUCK,2,35,180,0,1,0,10,0,0,0,1,27,0,0
+10,BIHAR,236,Gaya,01495,Gaya Town C.D.Block,801404,Gaya (M Corp. + OG),474093,I,GOWALBIGHA2,2,82,410,0,1,0,2,0,0,0,0,17,0,0
+10,BIHAR,236,Gaya,01503,Sherghati,801405,Sherghati (NP),40666,III,Kathar,2,200,1000,1,1,25,,,,1,5,40,,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Bhaganpur,2,160,950,0.5,3,32,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Bapunagar,2,160,950,0.5,3,35,,,,,,50,13,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Janpur,2,160,960,0.54,3,35,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Tikbigha,2,160,960,0.5,3,35,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Pachhatti,2,150,950,0.5,3,33,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Rajapur,2,162,955,0.5,3,32,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Nyotapur,2,160,950,0.5,3,30,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Amwa,2,160,960,0.5,3,35,,,,,,50,12,
+10,BIHAR,236,Gaya,01505,Bodh Gaya,801406,Bodh Gaya (NP),38439,III,Surypura,2,160,960,0.5,3,35,,,,,,50,13,
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,PACHU KHANKHANAPUR,2,42,260,1,4,0,9,0,0,0,0,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,PANCHU BHULAN BIGHA,2,124,839,1,1,0,0,0,0,0,6,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,PANCHU TALAB,2,88,641,1,1,0,24,0,0,0,5,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,PANCHU GARH HARIJAN TOLA,2,160,878,1,3,0,25,0,0,0,6,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,HARIJANTOLA,2,57,261,1,1,0,12,0,0,0,2,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,DOMHATIYA,2,78,459,1,3,0,14,0,0,0,4,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,GULJARBAG,2,16,92,1,4,0,0,0,0,0,2,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,GANDHI TOLA,2,186,1100,0,1,0,24,0,0,0,6,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,NAUWA BAGI,2,165,850,1,1,0,30,0,0,0,6,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,TALAIYA BIGHA,2,153,867,1,1,0,30,0,0,0,5,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,KHAIRATIBIGHA SOUTH PART,2,50,250,,1,0,10,0,0,0,3,0,0,0
+10,BIHAR,237,Nawada,01520,Hisua,801409,Hisua (NP),32585,III,KHAIRATI BIGHA UTTARI BHAG,2,67,513,1,3,0,30,0,0,0,5,0,0,0

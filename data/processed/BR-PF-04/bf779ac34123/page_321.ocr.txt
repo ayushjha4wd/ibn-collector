@@ -1,0 +1,45 @@
+Chart 7.5 : Achievement of E-Office as of September 2024
+
+p-File Created
+147586
+
+p-File Moved
+
+on
+
+Department
+
+across
+Secretariat
+Buildings छा
+Patna 41
+
+Source: Department of Information Technology, (08
+
+e-GramSwaraj : It is one of the Panchayat Enterprise Suites under e-Panchayat Mission Mode
+Project of the Ministry of Panchayati Raj. which aims to improve transparency in decentralised
+
+planning, progress reporting and work-based accounting. The State has also rolled out this digital
+governance initiative. The different components of this e-governance programme is illustrated
+
+through Chart 7.6.
+Chart 7.6 : Mechanism of E-Gram Swaraj
+= and Accounting ha P कल प m
+4-Tiet accounting classification system ns Panchayet
+; Election Details, Elected Members,
+and reporting as me oe ५ aie
+Geo-tagging of Assets Action Plan Creation
+Mobile app based geo-tagging and photo Captures annual plan creation by
+capturing of assets to update physical allowing plan unit to take approved
+progress of asset-based activities activities as per availability of funds
+Progress and Reporting Activity Output
+To update physical and financial progress, Effective inter-modular data flow
+status of activity can be updated to ongoing, enabling smooth physical and financial
+suspended, abandoned or completed progress reporting
+
+Source: Ministry of Panchayati Raj, Gol
+
+Sewa Itihas (Service History Management) ; It is a Government to Employee application that
+allows employees and the Personnel Department to manage relevant Service History information.
+
+264

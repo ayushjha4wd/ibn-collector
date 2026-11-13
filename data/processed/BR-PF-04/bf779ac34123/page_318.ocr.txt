@@ -1,0 +1,41 @@
+T-HCBS : The Government of Bihar has approved the Scheme for installation of ‘Towers of
+Harmonious Call Blocking System’ (T-HCBS) in 15 prisons of Bihar to prevent unauthorized
+communication from prisons. The system would block incoming/outgoing calls, SMS and data
+services on prison premises. Telecom Service Providers have optimized their Radio Access
+Network in the vicinity of 15 prison complexes in Bihar.
+
+GIS mapping and Geo-fencing layers in TERA Maps for Prisons (iBhugoal) : The Latitude
+and Longitude of prisons of Bihar have been taken for GIS mapping and Geo-fencing layers and
+integrated in Tera Maps of GIS. It provides a single window for detailed information on
+topography, geography, infrastructure and socio-economic indicators. Integration of GIS and MIS
+data is achieved for planning and decision making.
+
+Mission Vihaan : This is a software application through which the prison headquarter monitors
+day-to-day activities in the prisons of Bihar.
+
+e-Aushadhi and telemedicine in prisons : e-Aushadhi is being used for providing medicines to
+prisoners and maintain the medicine stocks in prisons. In addition, Telemedicine has been
+introduced in Central Prisons of Bihar for medical diagnosis, timely treatment and medical care of
+prisoners, which also helps during the visit of prisoners to district hospitals and other hospitals.
+
+Court Case Monitoring System : The Court Case Monitoring System (CCMS) is an online
+application for Government departments to manage their case information and make updates. The
+system is used to set alerts like next date of hearing, case compliance, and case history. This system
+is integrated with the Court Information System to receive Cause lists and Final Orders.
+Additionally, CCMS works as a digital diary to simplify court case tracking, which keeps
+everything organized and easily accessible.
+
+ICJS Software Application : In order to enable seamless transfer of data and information among
+different pillars of the criminal justice system (courts, police and forensic science laboratories),
+‘Inter-operable Criminal Justice System’ (ICJS) software application has been developed. At
+present, prisons are taking prisoners’ admission through ICJS module. It is an effective tool for
+case and court management, as all the relevant information of a case will be available in real time
+for courts’ use. The ICJS enhances the productivity of the criminal justice system and also of
+prisons and correctional services, both qualitatively and quantitatively. The core target of ICJS is
+to climinate the manual entry of a person’s details and act as a facilitator to exchange the data
+across pillars like Police, Court, FSL, Prosecution and Prisons. Police personnel are being
+encouraged to use the ICJS portal more and more.
+
+FASTER System : A secured electronic communication channel has been established in all
+prisons of Bihar. Through FASTER system, e-authenticated copies of interim orders, stay orders,
+261

@@ -363,3 +363,184 @@ Skipping 376 flagged file(s) (see flag.py)
 [           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1015_2011_MDDS_with_UI.xlsx  (1 outputs)
 [           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1016_2011_MDDS_with_UI.xlsx  (1 outputs)
 [           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1017_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1018_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1019_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1020_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1021_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1022_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1023_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1024_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1025_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1026_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1027_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1028_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1029_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1030_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1031_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1032_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1033_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1034_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1035_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1036_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1037_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1038_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/DDW_PCA1903_2011_MDDS_with_UI.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-01-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-02-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-03-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-04-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-05-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-06-DDW-2011.XLSX  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-1000-007-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-008-2011-DDW.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-08A-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-09-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-09A-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-10-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-1000-011-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-1000-012-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-1000-013-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/SC-10-00-14-DDW-2011.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-01-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-02-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-03-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-04-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-05-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-06-DDW-2011.XLSX  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-1000-007-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-008-2011-ddw.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-08A-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-09-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-09A-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-10-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-1000-011-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-1000-012-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-1000-013-2011-ddw.XLS  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-014-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-01-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-02-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-03-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-04-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-05-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-06-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-07-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-08-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-09-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-10-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-11-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-12-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-13-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-14-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-15-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-16-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-17-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-18-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-19-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-20-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-21-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-22-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-23-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-24-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-25-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-26-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-27-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-28-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-29-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-30-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-31-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-32-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-33-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-34-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-35-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-36-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-37-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-38-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-19-03-14-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-014A-DDW-2011.XLS  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-15-DDW-2011.XLSX  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/ST-10-00-16-DDW-2011.XLSX  (3 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1001-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1002-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1003-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1004-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1005-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1006-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1007-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1008-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1009-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1010-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1011-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1012-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1013-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1014-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1015-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1016-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1017-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1018-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1019-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1020-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1021-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1022-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1023-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1024-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1025-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1026-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1027-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1028-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1029-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1030-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1031-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1032-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1033-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1034-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1035-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1036-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1037-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1038-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/PCA_CDB-1903-F-Census.xlsx  (1 outputs)
+[           ok] BR-DM-02   data/raw/BR-DM-02/2026-11-13/RL-1000.xlsx  (1 outputs)
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1001-Pashchim_Champaran.zip  (0 outputs)  unsupported type: other
+/usr/local/lib/python3.13/site-packages/openpyxl/worksheet/header_footer.py:48: UserWarning: Cannot parse header or footer so it will be ignored
+  warn("""Cannot parse header or footer so it will be ignored""")
+[           ok] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_DCHB_Village_Release_1000.xlsx  (3 outputs)
+[           ok] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_DCHB_Town_Release_1000.xlsx  (3 outputs)
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1002-Purba_Champaran.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1003-Sheohar.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1004-Sitamarhi.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1005-Madhubani.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1006-Supaul.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1007-Araria.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1008-Kishanganj.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1009-Purnia.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1010-Katihar.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1011-Madhepura.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1012-Saharsa.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1013-Darbhanga.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1014-Muzaffarpur.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1015-Gopalganj.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1016-Siwan.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1017-Saran.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1018-Vaishali.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1019-Samastipur.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1020-Begusarai.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1021-Khagaria.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1022-Bhagalpur.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1023-Banka.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1024-Munger.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1025-Lakhisarai.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1026-Sheikhpura.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1027-Nalanda.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1028-Patna.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1029-Bhojpur.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1030-Buxar.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1031-Kaimur__Bhabua_.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1032-Rohtas.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1033-Aurangabad.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1034-Gaya.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1035-Nawada.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1036-Jamui.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1037-Jehanabad.zip  (0 outputs)  unsupported type: other
+[not_extracted] BR-DM-03   data/raw/BR-DM-03/2026-11-13/DH_2011_1038-Arwal.zip  (0 outputs)  unsupported type: other
+
+Extraction: not_extracted=38, ok=502
+exit 0

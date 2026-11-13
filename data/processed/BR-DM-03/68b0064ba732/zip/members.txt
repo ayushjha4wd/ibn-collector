@@ -1,0 +1,62 @@
+34304	1020-Begusarai/Appendix_I_1020.xls
+28160	1020-Begusarai/Appendix_IA_1020.xls
+28160	1020-Begusarai/Appendix_IB_1020.xls
+28160	1020-Begusarai/Appendix_IC_1020.xls
+52224	1020-Begusarai/Appendix_II_1020.xls
+27648	1020-Begusarai/Appendix_V_1020.xls
+1350656	1020-Begusarai/Appendix_VD_1020.xls
+27648	1020-Begusarai/Appendix_VI_1020.xls
+103936	1020-Begusarai/Appendix_VIIA_1020.xls
+103936	1020-Begusarai/Appendix_VIIB_1020.xls
+23040	1020-Begusarai/T01_1020.xls
+34816	1020-Begusarai/T02_1020.xls
+19456	1020-Begusarai/T03_1020.xls
+19968	1020-Begusarai/T04_1020.xls
+29184	1020-Begusarai/T05_1020.xls
+29184	1020-Begusarai/T06_1020.xls
+28672	1020-Begusarai/T07_1020.xls
+28672	1020-Begusarai/T08_1020.xls
+33792	1020-Begusarai/T09_1020.xls
+30208	1020-Begusarai/T10_1020.xls
+37376	1020-Begusarai/T11_1020.xls
+29696	1020-Begusarai/T12_1020.xls
+34304	1020-Begusarai/T13_1020.xls
+27648	1020-Begusarai/T14_1020.xls
+26112	1020-Begusarai/T15_1020.xls
+32256	1020-Begusarai/T16_1020.xls
+26624	1020-Begusarai/T17_1020.xls
+27136	1020-Begusarai/T18_1020.xls
+26112	1020-Begusarai/T19_1020.xls
+35328	1020-Begusarai/T20_1020.xls
+29184	1020-Begusarai/T21_1020.xls
+18944	1020-Begusarai/T22_1020.xls
+28160	1020-Begusarai/T23_1020.xls
+29184	1020-Begusarai/T24_1020.xls
+26624	1020-Begusarai/T25_1020.xls
+27648	1020-Begusarai/T26_1020.xls
+29184	1020-Begusarai/T27_1020.xls
+26624	1020-Begusarai/T28_1020.xls
+27136	1020-Begusarai/T29_1020.xls
+34304	1020-Begusarai/T30_1020.xls
+34304	1020-Begusarai/T31_1020.xls
+31232	1020-Begusarai/T32_1020.xls
+35328	1020-Begusarai/T33_1020.xls
+35328	1020-Begusarai/T34_1020.xls
+31744	1020-Begusarai/T35_1020.xls
+42496	1020-Begusarai/T36_1020.xls
+40960	1020-Begusarai/T37_1020.xls
+33792	1020-Begusarai/T38_1020.xls
+37376	1020-Begusarai/T39_1020.xls
+37888	1020-Begusarai/T40_1020.xls
+19968	1020-Begusarai/T41_1020.xls
+36352	1020-Begusarai/T42_1020.xls
+37888	1020-Begusarai/T43_1020.xls
+25600	1020-Begusarai/T44_1020.xls
+18432	1020-Begusarai/T45_1020.xls
+33280	1020-Begusarai/Town Statement-I_1020.xls
+41472	1020-Begusarai/Town Statement-II_1020.xls
+44032	1020-Begusarai/Town Statement-III_1020.xls
+41472	1020-Begusarai/Town Statement-IV_1020.xls
+41472	1020-Begusarai/Town Statement-V_1020.xls
+30720	1020-Begusarai/Town Statement-VI_1020.xls
+27648	1020-Begusarai/Town Statement-VII_1020.xls

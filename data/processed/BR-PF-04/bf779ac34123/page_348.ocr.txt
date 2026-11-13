@@ -1,0 +1,48 @@
+Power Demand at State Periphery
+
+The estimated annual demand for 2024-25 and 2025-26 has been presented in Table 8.2 which
+shows the projected energy requirement at the state periphery, taking into account the distribution
+and transmission losses in the intra-state trajectory. The projected power requirement in the state
+is 49,438 MU for 2024-25, which is estimated to increase to 53,920 MU in 2025-26, implying a
+growth of 9,1 percent,
+
+Table 8.2 : Annual Energy and Peak Demand Requirement at State Periphery
+
+Energy requirement Peak demand लक मर
+— Asper | atsinte | Ato.734 |, At0.734 Load | acces | Munsmiission
+demand x Factor (MW) (Incl. losses
+ERE periphery | Load Factor है (percent)
+projections (MU) (MW) Agri. Load of up to (percent)
+MU) 50 percent only
+2024-25 49438 48539 8008 8670 16.17 3.0
+2025-26 53920 52428 9743 9483 15.00 3.0
+
+Source: Department of Energy, GoB
+
+Sources of Power Generation
+
+A total of 12058 MW power generation has been planned for 2024-25 through different energy
+sources. To meet the increased demand for power, the State government planned an for additional
+capacity of 1112 MW from different sources during 2025-26 (Table 8.3). These sources are - State
+Generating Stations (505), Central Generating Stations (CGS), Renewable Energy Sources
+(RNES) and long/medium-term Power Purchase Agreements (PPA) through competitive bidding,
+The additional power capacity will be either from new projects, or from those under construction,
+or from old projects, which are in the process of renovation, The estimated availability of power
+by source is shown in Chart 8.6 for 2024-25 and 2025-26,
+
+Table 8.3 : Source-wise Proposed Capacity Expansion (Figures in MW)
+
+Share in Central Generating Station (CGS)
+SGS_ | SGS NCE/
+
+Sources | Small | RNES IPPs x; C E Total
+Hydro | (Solar ete.)|Thermal| Hydro | Projects acing HURENES
+८ (Solar) (Wind)
+(Case 1)
+2024-25 54 236 7475 771 488 2130 | ७9 | 11833
+2025-26 54 236 8459 771 488 2730 | ७9 | 13437
+Note: IPP + Independent Power Producer; NCE =Non-Conventional Energy;
+
+RNES = Renewable Energy Source, Source: Department of Energy, GoB
+
+291

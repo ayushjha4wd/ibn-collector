@@ -1,0 +1,17 @@
+STATEMENT-II,,,,,,,,,,,
+"Physical Aspects and Location of Towns, 2009",,,,,,,,,,,
+Sr.  No.,Name of town,Physical aspects,,,Name of and road distance (in kms.) from,,,,,Railway station,Bus route
+,,Rainfall (in mm),Temperature            (in centigrade),,State HQ.,District HQ.,Sub-Division/ Taluk/ Tahsil / Police station/ Development  Block/ Island HQ.,   Nearest city with population of one lakh and more,Nearest city with population of five lakh and more,,
+,,,,,,,,,,,
+,,,Maximum,Minimum,,,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12
+1,Naugachhia (NP),1520,41,5,PATNA (200),BHAGALPUR (26),NAUGACHHIA (0),BHAGALPUR (26),PATNA (200),NAUGACHHIA (0),NAUGACHHIA (0)
+2,Colgong (NP),1010,37,5,PATNA (252),BHAGALPUR (31),COLGONG (0),BHAGALPUR (31),PATNA (252),COLGONG (0),COLGONG (0)
+3,Colgong (CT),1010,39,5,PATNA (253),BHAGALPUR (32),COLGONG (3),BHAGALPUR (33),PATNA (253),COLGONG (1),COLGONG (1)
+4,Sabour (CT),1140,44,5,PATNA (225),BHAGALPUR (5),SABOR (0),BHAGALPUR (5),PATNA (225),SABOR (0),SABOR (0)
+5,Nurpur (CT),1287,44,5,PATNA (125),BHAGALPUR (5),NATHNAGAR (1),BHAGALPUR (5),PATNA (125),NATHNAGAR (1),NH EIGHTY (0)
+6,Sultanganj (Nagar Parishad),1050,42,5,PATNA (208),BHAGALPUR (25),SULTAN GANJ (0),BHAGALPUR (26),PATNA (208),SULTANGANJ (0),SULTANGANJ (0)
+7,Bhagalpur (M Corp.),1435,43,7,PATNA (225),BHAGALPUR (0),BHAGALPUR (0),MUNGER (61),PATNA (225),BHAGALPUR (0),BHAGALPUR (0)
+8,Habibpur (CT),1020,45,7,PATNA (225),BHAGALPUR (5),JAGDISHPUR (15),BHAGALPUR (5),PATNA (225),BHAGALPUR (5),HABIBGANJ (0)
+9,Puraini (CT),1040,42,7,PATNA (235),BHAGALPUR (10),JAGDISHPUR (3),BHAGALPUR (10),PATNA (235),PURAINI (0),PURAINI (0)
+10,Shahjangi (CT),1040,42,6,PATNA (232),BHAGALPUR (2),JAGDISHPUR (15),BHAGALPUR (5),PATNA (232),BHAGALPUR (2),SHAHJANGI (5)

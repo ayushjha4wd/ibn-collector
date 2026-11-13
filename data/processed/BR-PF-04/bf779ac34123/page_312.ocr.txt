@@ -1,0 +1,45 @@
+Secretariat and other important government buildings in Patna. It is a high-speed and secure
+intranet, with approximately a 60-km-long optical fibre network across Patna. It provides 10
+GBPS-speed data transfer and 24x7 availability with more than 21000 nodes. To address
+increasing data security concerns, the government has approved SecLAN 3.0 that will provide the
+facility of LAN and Wi-Fi under a single project with additional 5000 LAN nodes along with an
+end-point security management tool,
+
+Bihar Aadhaar Authentication Framework (BAAF) : It is an umbrella framework that enables
+all Aadhaar-based transactions in the state and helps in identification and authentication of
+beneficiaries electronically in a safe and swift manner. It makes service delivery more efficient,
+helps remove ghost beneficiaries, and reduces leakages. More than 57 crore authentications by 14
+Sub-AUAs (State Government Department that use the facility of Aadhaar User Authentication)
+have been carried out since 2018. Further, 2 additional Sub-AUAs are likely to be added soon.
+
+Email Service : The DIT also provides free Email Services to all Departments, following the
+National Email Policy, The department currently serves more than 1.14 lakh users, of whom
+44,000 have been added in the last year.
+
+Mobile Service Delivery Gateway (MSDG) : Bihar is the leading state in terms of push SMS
+usage through MSDG. The DIT provides free of cost SMS services to all user departments and
+Public Sector Undertakings. Around 16 crore SMSs are sent per month on an average in Bihar. To
+increase multiple access channels, Unified Messaging Platforms are also being explored, including
+WhatsApp and other channels.
+
+Establishment of Blockchain as a Service Infrastructure : The IT Department has recently
+approved the project which aims to secure key transactions, documents and certificates being
+issued by various departments of the State government through immutable Blockchain-based
+security.
+
+Skilling in IT and 165 Domain : DIT is currently providing technical skills training throughout
+the state for employability of youths. The government is providing 9 different courses through its
+124 Skill Development Centres for the purpose. Till date, more than 56,010 candidates have
+received training. A total of 2200 persons received training in the financial year 2024-25 and 1838
+persons are currently under training.
+
+C-DAC Centre in Patna ; In order to facilitate adyanced training and research in ICT within the
+state, DIT has helped C-DAC to set up its Centre in Patna. C-DAC has four units — (i) Cyber
+Security and Forensics, (ii) Al Centre of Excellence, (iii) loT and Embedded Lab, and (iv) Centre
+for Advanced Data Analytics and Decisions. More than 100 students are currently receiving
+training in Emerging Tech areas.
+
+National Institute of Electronics and Information Technology (NIELIT) ; It is located at Bihta
+in Patna and is spread over 12.36 acres, The land was provided free of cost by the State
+
+255

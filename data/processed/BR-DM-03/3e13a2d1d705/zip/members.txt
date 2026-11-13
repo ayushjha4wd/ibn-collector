@@ -1,0 +1,62 @@
+35328	1019-Samastipur/Appendix_I_1019.xls
+28160	1019-Samastipur/Appendix_IA_1019.xls
+28160	1019-Samastipur/Appendix_IB_1019.xls
+28160	1019-Samastipur/Appendix_IC_1019.xls
+80384	1019-Samastipur/Appendix_II_1019.xls
+27648	1019-Samastipur/Appendix_V_1019.xls
+1896448	1019-Samastipur/Appendix_VD_1019.xls
+27648	1019-Samastipur/Appendix_VI_1019.xls
+143872	1019-Samastipur/Appendix_VIIA_1019.xls
+143872	1019-Samastipur/Appendix_VIIB_1019.xls
+23552	1019-Samastipur/T01_1019.xls
+35840	1019-Samastipur/T02_1019.xls
+19456	1019-Samastipur/T03_1019.xls
+20480	1019-Samastipur/T04_1019.xls
+29696	1019-Samastipur/T05_1019.xls
+29184	1019-Samastipur/T06_1019.xls
+28672	1019-Samastipur/T07_1019.xls
+28160	1019-Samastipur/T08_1019.xls
+34304	1019-Samastipur/T09_1019.xls
+30208	1019-Samastipur/T10_1019.xls
+37376	1019-Samastipur/T11_1019.xls
+29184	1019-Samastipur/T12_1019.xls
+35328	1019-Samastipur/T13_1019.xls
+28160	1019-Samastipur/T14_1019.xls
+26112	1019-Samastipur/T15_1019.xls
+32256	1019-Samastipur/T16_1019.xls
+26624	1019-Samastipur/T17_1019.xls
+27136	1019-Samastipur/T18_1019.xls
+26112	1019-Samastipur/T19_1019.xls
+35840	1019-Samastipur/T20_1019.xls
+29696	1019-Samastipur/T21_1019.xls
+18944	1019-Samastipur/T22_1019.xls
+27648	1019-Samastipur/T23_1019.xls
+29184	1019-Samastipur/T24_1019.xls
+26624	1019-Samastipur/T25_1019.xls
+27136	1019-Samastipur/T26_1019.xls
+29696	1019-Samastipur/T27_1019.xls
+26624	1019-Samastipur/T28_1019.xls
+27136	1019-Samastipur/T29_1019.xls
+35328	1019-Samastipur/T30_1019.xls
+34816	1019-Samastipur/T31_1019.xls
+30208	1019-Samastipur/T32_1019.xls
+36352	1019-Samastipur/T33_1019.xls
+35840	1019-Samastipur/T34_1019.xls
+30720	1019-Samastipur/T35_1019.xls
+43520	1019-Samastipur/T36_1019.xls
+41984	1019-Samastipur/T37_1019.xls
+33792	1019-Samastipur/T38_1019.xls
+37376	1019-Samastipur/T39_1019.xls
+37888	1019-Samastipur/T40_1019.xls
+20480	1019-Samastipur/T41_1019.xls
+36352	1019-Samastipur/T42_1019.xls
+37376	1019-Samastipur/T43_1019.xls
+25600	1019-Samastipur/T44_1019.xls
+17920	1019-Samastipur/T45_1019.xls
+32256	1019-Samastipur/Town Statement-I_1019.xls
+40960	1019-Samastipur/Town Statement-II_1019.xls
+43520	1019-Samastipur/Town Statement-III_1019.xls
+40448	1019-Samastipur/Town Statement-IV_1019.xls
+39936	1019-Samastipur/Town Statement-V_1019.xls
+30208	1019-Samastipur/Town Statement-VI_1019.xls
+28160	1019-Samastipur/Town Statement-VII_1019.xls

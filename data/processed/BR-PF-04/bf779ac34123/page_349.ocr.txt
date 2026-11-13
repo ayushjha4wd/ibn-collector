@@ -1,0 +1,55 @@
+Chart 8.6 : Composition of Energy by Source (in Percent)
+
+> Renewable Energy
+= Thermal
+
+Outer Doughnut is
+for 2025-26
+(Projected)
+
+Inner Doughnut is
+for 2021-22
+(Actuals)
+
+Source : Department of Energy, GoB
+
+Future Power Availability
+
+It is important to see the power demand and supply in the upcoming years from policy perspective.
+As shown in Table 8.4, the projected peak availability of power is estimated to be in a deficit of
+7.1 percent than the projected peak demand as per the state generation plan during 2024-25 and
+15.1 percent in 2025-26. However, there is surplus energy availability of 14.3 percent in 2024-25
+and 6.3 percent during 2025-26 as per the estimated energy requirement at the state periphery. The
+deficit in peak demand availability will be bridged by additional power purchase from the Energy
+Exchange.
+
+Table 8.4: Projected Surplus/ Deficit in Power
+
+Power Supply Position 2024-25 | 2025-26
+Estimated Peak Requirement with 50 percent
+agriculture load only (MW) 8670 9483
+Estimated Peak Availability as per State 7157 7463
+
+Generation Plan (MW)
+Peak demand Surplus (+) / Deficit (-) (MW) (-) 1513 | (-)2020
+
+Peak demand Surplus / Deficit (Percentage) (-) 17.5 {-) 21.3
+
+Estimated Energy Requirement at State
+Periphery (MU)
+
+Estimated Energy Availability at State
+Periphery as per State Generation Plan (MU)
+
+Energy Surplus (+) / Deficit (-) (MU) (+) 7987 | (+) 3765
+
+55690 59912
+
+63677 63677
+
+Energy Surplus (+) / Deficit (-) (Percentage) (+)14.3 (+) 63
+
+Note : 50 percent agriculture load will be supplied in rotation
+Source : Department of Energy, GoB
+
+292

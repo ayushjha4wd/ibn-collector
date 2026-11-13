@@ -1,0 +1,15 @@
+STATEMENT - IV,,,,,,,,,,,,,
+"Medical Facilities, 2009",,,,,,,,,,,,,
+Sr.No.,Name of Town,No. of Medical facilities* (with number of beds in brackets),,,,,,,,,,Charitable Hospital/Nursing Home  (Numbers),Medicine Shop (Numbers)
+,,Hospitals  (Allopathic & Others),Dispensaries / Health Center,Family Welfare Center,Maternity and Child Welfare Center,Maternity Homes,T.B.Hospital/ Clinic,Nursing Homes,Veterinary Hospital ,Mobile Health Clinic,Others etc.,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+1,Munger (M Corp.),2(196),3(0),1(0),1(20),1(5),1(0),14(140),1(0),181 Kms.,N.A.,0,163
+2,Paria (CT),19 Kms.,1(4),1(5),19 Kms.,19 Kms.,19 Kms.,19 Kms.,19 Kms.,181 Kms.,N.A.,0,2
+3,Jamalpur (Nagar Parishad),1(280),7(24),1(5),6(0),1(6),19 Kms.,19 Kms.,1(0),170 Kms.,9(10),0,19
+4,Kharagpur (NP),36 Kms.,1(10),1(0),1(0),1(0),1(2),1(5),1(0),182 Kms.,N.A.,0,5
+5,Asarganj (CT),50 Kms.,1(10),1(0),1(10),1(0),1(0),5 Kms.,5 Kms.,230 Kms.,N.A.,0,4
+6,Gazipur (CT),56 Kms.,2(30),1(10),2 Kms.,2 Kms.,1(0),20 Kms.,1(0),236 Kms.,1(0),0,8
+7,Tarapur (CT),46 Kms.,1(6),1(0),1 Kms.,1 Kms.,1 Kms.,1 Kms.,1(0),180 Kms.,N.A.,0,9
+,,,,,,,,,,,,,
+"*If a medical facility is not available in the town,nearest place distance from the town where facility is available has been given",,,,,,,,,,,,,
+*N.A.:Not Available,,,,,,,,,,,,,

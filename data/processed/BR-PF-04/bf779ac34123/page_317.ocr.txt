@@ -1,0 +1,42 @@
+NSTEP : The facility of NSTEP was started in District Courts in 2020 that enables real-time
+tracking of serving notices and summons by courts. A total of 340 smartphones for Process
+Servers/ Bailiffs have been procured and a total of 6,73,183 NSTEP Summons have been
+consumed. As of November, 2024, a total of 2,33,185 NSTEP Summons had been delivered in
+
+various Judgeships of Bihar.
+
+Multi-Level e-Sewa Kendra : Patna High Court has 4-Tier e-Sewa Kendras. All District Courts,
+Sub-Divisional Courts and courts in Panchayats can also access this facility. For taking the e-court
+initiatives to the end user at the panchayat level, the High Court has embarked upon the task. It has
+started offering e-Sewa Kendra facilities in panchayats by enabling the existing panchayat
+bhawans to cater the facility, Till date, 41 e-Sewa Kendras have been established (one in Patna
+High Court, 37 in District courts, one in Sub-divisional Court and two in Panchayats).
+
+CCTV-based Surveillance System : In order to provide overall safety and security at important
+places, the Department of Home has installed CCTV cameras to monitor the activities and prevent
+unlawful activities. It covers Secretariat Buildings in Patna such as Old Secretariat, Adhiveshan
+Bhawan, Sinchai Bhawan, Vikas Bhawan, Soochna Bhawan, Vishveshvaraiya Bhawan and
+Niyojan Bhawan. 1 also covers Vidhan Sabha (old and new Annexe Buildings). Apart from the
+Secretariat and Vidhan Sabha, the Department has also covered all Police Stations and all Court
+campuses (from the Subdivisional Courts to the High Court) with the 24/7 CCTV surveillance
+project. The system captures the details of vehicles entering and exiting the building premises,
+identifies any suspicious activity and alerts the control-cum-monitoring rooms using state-of-the-
+art technology and video analytics.
+
+e-Prisons : It is an integrated system application software for computerising all the activities
+related to prison and prisoner management in real time. It has covered the entire lifecycle of the
+prisoners in all 59 prisons of Bihar since 2016. Legacy data of prisoners have also been captured
+in e-Prisons application since 2005. There are several modules in the application for serving the
+purpose at various levels of the government. New laws — (i) Bharatiya Nyaya Sanhita, (ii)
+Bharatiya Nagarik Suraksha Sanhita, and (iii) Bharatiya Sakshya Adhiniyam have been
+incorporated in to the system. Till now, details of total 28.23 lakh prisoners haye been captured.
+
+e-Mulakat System : This system is available at all prisons of Bihar and provides citizen-centric
+services to the relatives of inmates. This includes registration for visiting an inmate and inmates’
+video conference-based Mulakat with their relatives. The portal also consists of dashboards
+showing statistical data of various prisons in the district/country. Grievances with respect to their
+wards inside the prison can also be submitted by people through this portal, which are then
+forwarded to the respective prison for action. These services are being provided to the
+relatives/advocates/doctors of the prisoners. Till now, a total of 23.28 lakh visits of prisoners’
+relatives/friends have been completed at prisons of Bihar.
+260

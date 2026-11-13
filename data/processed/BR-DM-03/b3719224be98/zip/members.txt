@@ -1,0 +1,62 @@
+28672	1025-Lakhisarai/Appendix_I_1025.xls
+26624	1025-Lakhisarai/Appendix_IA_1025.xls
+26624	1025-Lakhisarai/Appendix_IB_1025.xls
+26624	1025-Lakhisarai/Appendix_IC_1025.xls
+27648	1025-Lakhisarai/Appendix_II_1025.xls
+26624	1025-Lakhisarai/Appendix_V_1025.xls
+668160	1025-Lakhisarai/Appendix_VD_1025.xls
+26624	1025-Lakhisarai/Appendix_VI_1025.xls
+70656	1025-Lakhisarai/Appendix_VIIA_1025.xls
+70656	1025-Lakhisarai/Appendix_VIIB_1025.xls
+21504	1025-Lakhisarai/T01_1025.xls
+30208	1025-Lakhisarai/T02_1025.xls
+18944	1025-Lakhisarai/T03_1025.xls
+19968	1025-Lakhisarai/T04_1025.xls
+28160	1025-Lakhisarai/T05_1025.xls
+28160	1025-Lakhisarai/T06_1025.xls
+28672	1025-Lakhisarai/T07_1025.xls
+27648	1025-Lakhisarai/T08_1025.xls
+30720	1025-Lakhisarai/T09_1025.xls
+28672	1025-Lakhisarai/T10_1025.xls
+37376	1025-Lakhisarai/T11_1025.xls
+28672	1025-Lakhisarai/T12_1025.xls
+31232	1025-Lakhisarai/T13_1025.xls
+26624	1025-Lakhisarai/T14_1025.xls
+26112	1025-Lakhisarai/T15_1025.xls
+32256	1025-Lakhisarai/T16_1025.xls
+25600	1025-Lakhisarai/T17_1025.xls
+26112	1025-Lakhisarai/T18_1025.xls
+25600	1025-Lakhisarai/T19_1025.xls
+30208	1025-Lakhisarai/T20_1025.xls
+27648	1025-Lakhisarai/T21_1025.xls
+18944	1025-Lakhisarai/T22_1025.xls
+26624	1025-Lakhisarai/T23_1025.xls
+27648	1025-Lakhisarai/T24_1025.xls
+26624	1025-Lakhisarai/T25_1025.xls
+26624	1025-Lakhisarai/T26_1025.xls
+27648	1025-Lakhisarai/T27_1025.xls
+26624	1025-Lakhisarai/T28_1025.xls
+26624	1025-Lakhisarai/T29_1025.xls
+30208	1025-Lakhisarai/T30_1025.xls
+29696	1025-Lakhisarai/T31_1025.xls
+28160	1025-Lakhisarai/T32_1025.xls
+30720	1025-Lakhisarai/T33_1025.xls
+30720	1025-Lakhisarai/T34_1025.xls
+28672	1025-Lakhisarai/T35_1025.xls
+38912	1025-Lakhisarai/T36_1025.xls
+36864	1025-Lakhisarai/T37_1025.xls
+33792	1025-Lakhisarai/T38_1025.xls
+37376	1025-Lakhisarai/T39_1025.xls
+37888	1025-Lakhisarai/T40_1025.xls
+18944	1025-Lakhisarai/T41_1025.xls
+35840	1025-Lakhisarai/T42_1025.xls
+36864	1025-Lakhisarai/T43_1025.xls
+25600	1025-Lakhisarai/T44_1025.xls
+17408	1025-Lakhisarai/T45_1025.xls
+30208	1025-Lakhisarai/Town Statement-I_1025.xls
+39424	1025-Lakhisarai/Town Statement-II_1025.xls
+42496	1025-Lakhisarai/Town Statement-III_1025.xls
+39424	1025-Lakhisarai/Town Statement-IV_1025.xls
+38400	1025-Lakhisarai/Town Statement-V_1025.xls
+29184	1025-Lakhisarai/Town Statement-VI_1025.xls
+27136	1025-Lakhisarai/Town Statement-VII_1025.xls

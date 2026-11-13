@@ -1,0 +1,14 @@
+STATEMENT - IV,,,,,,,,,,,,,
+"Medical Facilities, 2009",,,,,,,,,,,,,
+Sr.No.,Name of Town,No. of Medical facilities* (with number of beds in brackets),,,,,,,,,,Charitable Hospital/Nursing Home  (Numbers),Medicine Shop (Numbers)
+,,Hospitals  (Allopathic & Others),Dispensaries / Health Center,Family Welfare Center,Maternity and Child Welfare Center,Maternity Homes,T.B.Hospital/ Clinic,Nursing Homes,Veterinary Hospital ,Mobile Health Clinic,Others etc.,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14
+1,Tikari (NP),26 Kms.,1(13),1(2),1(2),1(1),26 Kms.,2(4),26 Kms.,36 Kms.,N.A.,0,26
+2,Gaya (M Corp. + OG),4(470),1(0),3(60),3(80),3(0),1(6),8(100),1(0),96 Kms.,1(30),10,1000
+3,Paharpur (CT),3 Kms.,20 Kms.,20 Kms.,20 Kms.,20 Kms.,5 Kms.,20 Kms.,20 Kms.,128 Kms.,N.A.,0,0
+4,Bara (CT),26 Kms.,1(6),27 Kms.,27 Kms.,1(6),1(1),27 Kms.,1(0),150 Kms.,N.A.,0,0
+5,Sherghati (NP),30 Kms.,1(20),1(1),1(1),1(1),30 Kms.,30 Kms.,1(0),80 Kms.,N.A.,2,30
+6,Bodh Gaya (NP),1(3),1(6),1(2),1(0),1(5),15 Kms.,15 Kms.,1(0),140 Kms.,N.A.,1,8
+,,,,,,,,,,,,,
+"*If a medical facility is not available in the town,nearest place distance from the town where facility is available has been given",,,,,,,,,,,,,
+*N.A.:Not Available,,,,,,,,,,,,,

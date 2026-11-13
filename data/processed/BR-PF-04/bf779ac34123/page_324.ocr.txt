@@ -1,0 +1,44 @@
+(BRRMS) App for rural roads and bridges under the five-year routine maintenance arrangement.
+This will assess the actual maintenance condition of rural roads,
+
+Digital Governance in Power Sector : The e-governance and digital process re-engineering
+initiatives taken by BSPHCL has successfully laid the foundation for the forthcoming Al
+revolution. DISCOMs are registering profit for the first time since their inception. AT&C losses
+are dropping below 19.94 percent for 2023-24 with a net profit of Rs. 1,410 crore, consequently
+reducing the tariff by 15 paise.
+
+DISCOM Power Supply Operations & Revenue Management ; Power procurement upholds
+more than 80 percent share of the total expenses incurred by the energy utilities in the state. To
+curtail difficulties in decision-making, the SAMADHAN portal was developed as a central
+integrator of national-level grid information systems and internal databases and has been designed
+as an easy-to-use dashboard to boost up the real-time decision-making, The impacts of these
+decisions are quantified in terms of money. Coupled with Energy Payment Prioritization
+Monitoring System (EPPMS), these innovative developments have been a major contributor to the
+DISCOM's profitability. SAMEEKSHA, SAMPURN, SCADA, SANGRAHAN and Raid & FIR
+Management System RFMS are the other platforms which have been crafted to keep a check on
+leakages and losses in distribution. They also help the field teams with participatory, accountable,
+transparent, and quantified MIS systems.
+
+Digital initiatives in Transmission Company ; In the past few years, several IT & data-driven
+platforms, initiatives and projects have been implemented for efficient and real-time control over
+the system. ASBM (Automated System Balancing Mechanism), CCCC (Centralized Control &
+Command Centre), SUGAM (c-office), an ERP system based on SAP, SAMAST (Proper
+scheduling to settlement of electricity transactions transparently), SAS (Substation Automation
+System), PMIS (Project Monitoring Information System) and Online Grid Inspection Reporting
+System together bundle up to form the basket of digital innovations by the BSPTCL. The Company
+has become the first State Transmission Utility/SLDC in India to establish a dedicated Cyber
+Security Operations Centre (C-SOC),
+
+Electricity Consumer service standards improvement through IT interventions : Smart
+prepaid meters have provided consumers with data liberty to visualize, plan and control their daily
+consumption activities. Consumer is also empowered to pay as per use, get the SPM converted
+into a net meter upon rooftop solar installation without any hassle, gain financial incentives and
+many more benefits owing to this most advanced technology. SUVIDHA App, Outage
+management System (OMS), OMNI Channel Complaint Handling System (CHS) have been
+adopted as supplementary verticals to ensure ease of living. The newly developed SAMPARK
+portal is helping build trust among the citizens.
+
+IT Innovations in internal & human resource management under BSPHCL & its
+subsidiaries ; 1 is not just the technical processes that have undergone a transformation, but the
+
+267
