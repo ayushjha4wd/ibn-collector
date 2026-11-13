@@ -1,0 +1,41 @@
+Chart 2.6 C: Growth rates of major taxes: 2018-23 (%)
+140.0
+120.0
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+2018-19 2019-20 2020-21 2021-22 2022-23
+-20.0
+-40.0 SGST Taxes on Sales
+Stamp Duty & Registration Fee Taxes on Motor Vehicles
+Own Tax Revenue
+2.2.3 Impact of GST
+Before the introduction of GST, tax revenues in Bihar were collected under 7 major heads — (i) Taxes
+on Sales/Trade, etc., (ii) Stamp and Registration Fees, (iii) Taxes on Goods/Passengers, (iv) State Excise,
+(v) Taxes on Vehicles, (vi) Land Revenue, and (vii) Taxes and Duties on Electricity. Of these, the first
+three accounted for about 80 percent of the total tax revenue. Although there were some year-to-year
+variations, broadly speaking taxes on sales/trade accounts for 40 percent of the tax revenue; next in
+importance was taxes on goods/passengers, accounting for 20 percent of tax revenue; and finally,
+stamp/registration fees account for 13 percent of tax revenue. Taxes on vehicles used to account for
+about 4 percent of the total taxes. Excise used to contribute about 15 percent to the State taxes before
+prohibition was imposed. This pattern more or less defined the structure of taxation in Bihar and
+remained stable over the years until prohibition was imposed. The impact of this almost eliminated
+excise collections but resulted in the share of sales tax going up significantly - by about 10 percent.
+Though excise from the sale of alcohol is not subsumed in GST, it does not affect Bihar.
+Now GST has subsumed both VAT, except on petroleum and petroleum products and Taxes on Goods
+and Passengers. The immediate loss of revenue to the State from these two taxes is of the order of Rs.
+18000 crore (2016-17). As against this, collections from GST from the year 2017-18 (July-March) are
+shown in table 2.5.
+Table 2.5: Collections from GST in Bihar (Rs. crore)
+2017- 2018- 2019- 2020- 2021- 2022-
+18 19 20 21 22 23
+State’s Share of CGST 925 18167 17993 17789 25442 26989
+SGST 13319 16738 15801 16050 19264 23243
+Total 14244 34905 33794 33839 44706 50232
+Source:Finance accounts of respective years
+The 101st Amendment also provided for compensation to be paid to the States for loss of revenue
+arising on account of implementation of the GST for a period of five years, which has since been
+39

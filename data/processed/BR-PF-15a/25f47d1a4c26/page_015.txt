@@ -1,0 +1,46 @@
+STATES iNcludEd iN ThE vOlumE iv
+General States (GS)
+1 AP Andhra Pradesh
+2 BH Bihar
+3 CH Chhattisgarh
+4 GO Goa
+5 GJ Gujarat
+6 HR Haryana
+7 JH Jharkhand
+8 KR Karnataka
+9 KL Kerala
+10 MP Madhya Pradesh
+11 MH Maharashtra
+12 OD Odisha
+13 PB Punjab
+14 RJ Rajasthan
+15 TN Tamil Nadu
+16 TL Telangana
+17 UP Uttar Pradesh
+18 WB West Bengal
+• Comparisons of fiscal indicators before 2015–16 have been drawn with reference to 16 GS (excluding
+Andhra Pradesh and Telangana) as fiscal data is only available for the Undivided Andhra Pradesh before
+its bifurcation into Telangana and Andhra Pradesh in June 2014.
+• Comparisons of fiscal indicators 2015–16 onwards have been drawn with reference to all 18 GS.
+• In Exhibit 1.D of every state, GS includes all 18 States because Ministry of Statistics and Programme
+Implementation, Government of India released disaggregated GSDP for Telangana and Andhra Pradesh
+from 2011–12.
+North East and Himalayan States (NEHS)
+1 ArP Arunachal Pradesh
+2 AS Assam
+3 HP Himachal Pradesh
+4 MG Meghalaya
+5 MN Manipur
+6 MZ Mizoram
+7 NG Nagaland
+8 SK Sikkim
+9 TR Tripura
+10 UK Uttarakhand
+Special Mention
+1 AI All India
+Erstwhile State of Jammu and Kashmir Comparisons across NEHS indicators include
+the erstwhile State of Jammu and Kashmir because data has been analysed for the
+2 JK
+period 2011–12 to 2018–19, during which the erstwhile State of Jammu and Kashmir
+was in existence.
+3 PD Puducherry

@@ -1,0 +1,39 @@
+Chapter 3 : Setting the Context
+Table 3.9: Trends in Non Tax Revenues
+(Rs. crore)
+2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21
+(RE) (BE)
+Interest receipt 20252 20761 21868 23804 25378 16229 13574 12145 11027 11042
+Dividend 50608 53761 90435 89833 112127 123017 91361 113421 199893 155395
+and profit
+of which RBI 15009 16010 33010 52676 65896 65876 40659 68000 147988 57128*
+Petroleum 12581 14806 16525 14480 9492 10797 10879 14197 12061 14075
+Communication 17401 18902 40114 30624 56479 70241 32066 40816 58990 33027
+Road and bridges 3050 4007 5298 6103 6887 7324 9064 19866 21589 25161
+Others 17780 25118 24631 33014 40897 45223 35801 35261 41955 146316
+Total 121672 137355 198871 197858 251260 272831 192745 235706 345515 385016
+Non tax 1.4 1.4 1.8 1.6 1.8 1.8 1.1 1.2 1.7 1.7
+revenue as per
+cent to GDP
+* provisional
+Source : Union Budget, Finance accounts and GDP from NSO
+3.67 In the past, interest receipts on loans given to State Governments were an important
+component of non-tax revenue. This has declined considerably after 2005-06 when
+intermediation of the Union Government in loans given to State Governments was stopped,
+following the recommendation of the FC-XII. The interest realisation is mostly on loans of an
+earlier period.
+Non Debt Capital Receipts
+3.68 Non-debt capital receipts have two major components: recovery of loans and advances
+and disinvestment receipts. The quantum of recovery of loans declined from Rs. 18,850 crore in
+2011-12 to Rs. 15,633 crore in 2017-18. With no fresh on-lending to the States, except the back-
+to-back transfer of the loans taken for externally aided projects (EAP), the receipts under this
+head are showing a gradual declining trend. The other source of recovery of loans is from the
+public sector enterprises, for repayment of loans earlier extended.
+3.69 Disinvestment receipts account for a major share of non-debt capital receipts. The Union
+Government has adopted four methods of disinvestment: (a) minority stake sale in profit making
+CPSEs by selling shares via offer for sale; (b) initial public offering of CPSEs; (c) strategic
+disinvestment of CPSEs; and (d) exchange traded funds (ETFs)8.
+8 An ETF is a basket of stocks that reflects the composition of an index, like Nifty 50. The trading value of an ETF is based on the net asset value of
+the underlying stocks that it represents. Unlike regular open-ended mutual funds, ETFs can be bought and sold throughout the trading day like any
+other stocks. At present, the Union Government operates two ETFs: CPSE – ETF and Bharat-22 ETF
+69

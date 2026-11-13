@@ -1,0 +1,7 @@
+S.No.,Criteria,Weights (%)
+i),Income distance,10
+ii),"Population, 2011",50
+iii),Share in forest area (all types of forest),10
+iv),Population weighted by share in ST population,10
+v),Modified Census area,10
+vi),Share in Mining GSVA,10

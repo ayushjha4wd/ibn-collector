@@ -1,0 +1,43 @@
+Chapter 11: Annexure
+measures the spatial extent of flood-affected areas in each State. This indicator captures the total area
+affected (in square kilometres) and provides insights into the geographic distribution and severity of
+flood events during the period 1986 - 2022.
+Second, records of extreme rainfall occurrences were used from the India Meteorological Department
+(IMD) for the period 2011–20232. Based on IMD’s classification, a ‘heavy rainfall day’ is defined as
+one in which rainfall exceeds 64.5 mm but remains below 115.5 mm, while a ‘very heavy rainfall day’
+refers to days with rainfall exceeding 115.5 mm. The frequency of such events for each State was
+calculated over the last decade, thereby capturing the intensity and recurrence of extreme rainfall patterns
+contributing to flood risk. The scores of both these parameters are added, assigning a weight of 80 per
+cent to CWC data and 20 per cent to IMD data.
+Drought
+Drought remains one of the most pervasive and recurrent natural hazards in India, exerting far-reaching
+impacts on agriculture, water availability, rural livelihoods and food security. With nearly half of the
+country’s net sown area being rainfed, droughts pose a significant risk to agricultural productivity and
+rural incomes and can have cascading effects on broader economic growth.
+Multiple interrelated factors, including deficient seasonal rainfall, delayed onset or early withdrawal of
+the southwest monsoon, and erratic intra-seasonal rainfall distribution, typically trigger drought events
+in India.
+To assess drought hazard across States, data on the area affected by drought (in hectares) during both
+kharif and rabi cropping seasons was sourced from the Ministry of Agriculture and Farmers’ Welfare.
+The dataset spans the period from 2011 to 2024. And this metric serves as a reliable indicator of spatial
+and seasonal variability in drought exposure and provides a basis for comparative assessment of drought
+risk across States.
+Cyclone
+Cyclonic storms in India primarily originate over the Bay of Bengal and the Arabian Sea, impacting both
+the eastern and western coastlines. Given India’s extensive and densely populated coastline, the risks
+posed by tropical cyclones remain substantial.
+To quantify cyclone-related hazards, the return period (in years) for cyclonic storms passing annually
+within a 50 nautical mile radius of a given location was used. The return period refers to the expected
+frequency with which cyclonic storms of a particular intensity are likely to occur within a defined buffer
+zone. This data was obtained from the IMD which provides a probabilistic measure of cyclone exposure
+across States, and the data pertains to the period 1961-20203.
+Landslide
+Landslides constitute a major geo-hazard in India, with recurrent occurrences across the Himalayan
+region, parts of the Western Ghats, and the Northeastern States. A combination of intense rainfall,
+seismic activity, and anthropogenic factors such as deforestation, slope destabilisation and unregulated
+construction on fragile terrains typically triggers these events.
+Emerging evidence suggests that the impacts of climate change – including the intensification of rainfall
+patterns, accelerated glacial melt in mountainous regions, and an increase in the frequency of extreme
+2 https://imdpune.gov.in/cmpg/Griddata/Rainfall_25_NetCDF.html
+3 https://imdpune.gov.in/hazardatlas/cyclonenew_p1961_2020.html
+53

@@ -1,0 +1,30 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+bottom ends, giving rise to large differences in the implied devolutions to the States. To
+moderate these differences, we have modified the criterion by defining the State’s share as the
+ratio of square root of its GSDP to sum of square root of GSDP of all States. Further details on
+the implementation of the criterion are provided in the Technical Note at the end of the chapter.
+We assign a weight of 10 per cent to this criterion.
+8.96 We note that just as the per capita GSDP distance serves as a surrogate for other
+equity‑related criteria such as poverty and SDG achievements, the contribution to GDP serves
+as a surrogate for efficiency‑based criteria such as tax effort and fiscal discipline. On a per capita
+basis, the proportionately larger contribution to GDP is indicative of generally better economic
+management. Specifically concerning tax effort, we note that this criterion exhibits a limited
+variation across States. Variation in the tax‑effort weighted population shares of the States,
+which form the basis of devolution under this criterion, is determined principally by variation
+in the population shares. The correlation coefficient between tax‑effort weighted population
+shares and their population shares is 0.98 in our data. With some exceptions, the criterion
+allocates funds in the same proportion as population shares.
+Recommendation
+8.97 Based on the above criteria and weights, the Commission has worked out the shares of
+the twenty‑eight States in the portion of the divisible pool assigned to the States. These criteria,
+their assigned weights and shares of States are reported in Table 8.8 and Table 8.9 below.
+Table 8.8 Formula for Horizontal Devolution
+Criteria Weight (percentage)
+Population (2011) 17.5
+Demographic Performance 10
+Area 10
+Forest 10
+Per Capita GSDP Distance 42.5
+Contribution to GDP 10
+Total 100
+171

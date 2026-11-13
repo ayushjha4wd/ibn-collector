@@ -1,0 +1,35 @@
+Fifteenth Finance Commission
+to be integrated with the Integrated Financial Management Information System (IFMIS) of the
+State Governments (wherever it exists) and the Public Financial Management System (PFMS) of
+the CGA in the Union Government in order to generate online accounts by each rural local body,
+enable online auditing of such accounts and their consolidation at the State and all-India levels.
+7.70 To achieve this objective, the report for 2020-21 suggested a two-stage process. First, the
+integration of the PRIASoft and NMAM systems with the State-level IFMIS and, subsequently,
+with PFMS to achieve complete integration. It recommended that in 2020-21, under the guidance
+of the CAG, the concerned ministries and CGA shall develop, on a trial basis, an integrated
+account maintenance system as stated above for the States before 31 March 2021, ready for full
+roll-out from 1 April 2021.
+7.71 As a follow up on this recommendation, we interacted with all the stakeholders, namely,
+CAG, CGA, MoPR and MoHUA. It is worth mentioning that MoPR has taken prompt and
+significant steps in this regard as summarised in Box: 7.3.
+Box 7.3: Initiatives by MoPR for Auditing and Integration of Accounts
+Ÿ ·For creating an Integrated Accounts Maintenance System, the MoPR constituted, on 12 February
+2020, a technical committee for harmonisation of heads of accounts comprising representatives of
+the CAG, CGA, National Informatics Centre and the National Institute of Rural Development and
+Panchayati Raj.
+Ÿ On 15 April 2020, the MoPR initiated a programme called Audit-Online for facilitating financial
+audit of accounts of the panchayats by auditors (either state Accountant General or local fund
+auditors). The application not only facilitates the auditing of accounts but also for maintaining audit
+records that have been carried out. A draft Audit Manual has also been prepared by MoPR and shared
+with the States.
+Ÿ A roadmap has been laid for the States to complete the exercise in a time-bound manner, especially
+(a) closure of account books for the year 2019-20 in PRIASoft; (b) registration of auditors on Audit-
+Online; (c) preparation of an audit plan; (d) completion of training of officials involved in audit; and
+(d) completion of the entire exercise of online audit of panchayat accounts.
+Entry-level Condition for Availing the Grants
+7.72 As earlier mentioned, auditing of accounts and their availability online continues to be a
+pending problem. A new trend, however, is evolving with a few States experimenting by
+involving external agents like chartered accountants for audit and certification of accounts (Table
+7.7). This is an encouraging practice and more efforts in this direction are required across all State
+Governments.
+192

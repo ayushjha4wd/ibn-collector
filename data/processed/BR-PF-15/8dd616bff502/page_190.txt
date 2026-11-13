@@ -1,0 +1,36 @@
+Sixteenth Finance Commission
+causing a drastic shift in the States’ shares. We provide the details on how we implemented this
+criterion below.
+Devolution Criteria and Associated Weights
+8.84 Other than introducing the contribution to GDP as a criterion, we rely on five criteria
+that have been employed by previous FCs: population, demography, area, forest and
+per‑capita‑GSDP‑distance. In some cases, we make adjustments to the criteria that are novel,
+however. We spell out these adjustments below, with further details provided in the Technical
+Note at the end of the chapter.
+Population
+8.85 In keeping with the longstanding practice, described in the section on the devolutions by
+the past FCs, we continue to include population among the criteria. In conformity with the
+uniform recommendation by nearly all States, we implement this criterion by awarding each
+State an allocation based on its share in the Census 2011 total population of the twenty‑eight
+States. We assign a weight of 17.5 per cent to this criterion. We note here that whenever any of
+our variables are combined with population, we rely on the 2011 Census figures. In this respect,
+we have fully transitioned from the 1971 Census population to the 2011 Census population data.
+Demographic Performance
+8.86 The FC‑15 had introduced the TFR as one of the criteria for devolution. It awarded each
+State a per capita share in proportion to its inverse TFR. To convert the per capita share into
+total, it used the 1971 Census population. It reasoned that the shift from the 1971 Census
+population to the 2011 Census population in implementing the population criterion, as mandated
+by its terms of reference, had led to too large a loss in the devolution shares of States that had
+successfully arrested the growth rate of the population between 1971 and 2011. The inverse
+TFR offset some of that loss.
+8.87 The Commission deliberated the merits of this criterion at length. There are arguments
+that under the changed circumstances, the advantages of slower population growth had been
+replaced by the fears of an aging population, as exemplified by the experiences of Europe, Japan
+and China. The Commission found itself in sympathy with the view that as India travels on the
+growth path, it faces the risk of aging before it becomes rich. This could adversely impact the
+country’s growth prospects. Therefore, the justification for basing devolution on inverse TFR
+became weak over time. Accordingly, the Commission considered several alternative criteria
+that could replace it without large shifts in the States’ shares in devolution. Unfortunately, this
+effort proved unsuccessful in that the alternative criteria implied a larger shift in the shares than
+what would be desirable.
+168

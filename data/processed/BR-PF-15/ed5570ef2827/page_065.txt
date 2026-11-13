@@ -1,0 +1,61 @@
+Chapter 11: Annexure
+the highest share was scaled to twenty-five and minimum scaled at one. The derived value is exposure
+score for all the States.
+Vulnerability
+To assess State-wise vulnerability, per-capita income was considered, which is sourced from the Ministry
+of Statistics and Programme Implementation. This provides a robust and comprehensive framework for
+assessing socio-economic vulnerability across states.
+The average of per capita income for the years 2018-19 to 2023-24 (excluding COVID-19 year 2020-
+[𝑃𝑃𝑃𝑃𝐼𝐼 −𝑃𝑃𝑃𝑃𝐼𝐼]
+21) have been taken. The average values are normalised on a scale of 0 -1 using 𝑀𝑀 𝑀𝑀 𝑀𝑀 w here
+[𝑃𝑃𝑃𝑃𝐼𝐼 −𝑃𝑃𝑃𝑃𝐼𝐼 ]
+𝑀𝑀𝑀𝑀𝑀𝑀 𝑀𝑀𝐼𝐼𝑀𝑀
+Telangana has the highest per capita income and Bihar the lowest. Fifty percent of the normalised score
+is then added with 1 to arrive at the vulnerability value. Sikkim and Goa, which have a higher per capita
+income than Telangana, have been imputed a value of 1.
+Final DRI
+Finally, Disaster Risk Index arrived by multiplication of Hazard Score, Exposure Score and Vulnerability
+Score which is presented in Annexure 11.2.
+Calculation of hazard score (x) from raw values (r) is as follows
+i i
+0 𝑟𝑟 = 0
+𝑖𝑖
+⎧
+3 0 < 𝑟𝑟 ≤ 𝑃𝑃
+⎪ 𝑖𝑖 20
+⎪ 6 𝑃𝑃 < 𝑟𝑟 ≤ 𝑃𝑃
+20 𝑖𝑖 40
+𝑥𝑥 = 9 𝑖𝑖𝑖𝑖 𝑃𝑃 < 𝑟𝑟 ≤ 𝑃𝑃
+𝑖𝑖 40 𝑖𝑖 60
+⎨
+12 𝑃𝑃 < 𝑟𝑟 ≤ 𝑃𝑃
+60 𝑖𝑖 80
+⎪
+⎪ 15 𝑟𝑟 > 𝑃𝑃
+𝑖𝑖 80
+⎩
+A sample illustration of the methodology for two hazards (x and y) and three States (i, j and k) along
+with exposure and vulnerability is shown below:
+State Hazard x Hazard y Composite Population Vulnerability DRI
+Hazard Score Score Score
+(H) (E) (V)
+State i x y (cid:302) ×x + (cid:302) ×y ap v H×E×Vi
+i i x i y i i i i i
+State j x y (cid:302) ×x + (cid:302) ×y ap v H×E×V
+j j x j y j j j j j j
+State k x y (cid:302) ×x + (cid:302)×y ap v H ×E ×V
+k k x k y k k k k k k
+where,
+x = score of hazard x for State i
+i
+y = score of hazard y for State i
+i
+(cid:302) = NDMIS expenditure weights for hazard x
+x
+(cid:302) = NDMIS expenditure weights for hazard y
+y
+r = raw value of hazard for State i
+i
+P = 20th Percentile score
+20
+57

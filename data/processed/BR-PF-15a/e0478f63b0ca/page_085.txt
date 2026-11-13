@@ -1,0 +1,43 @@
+Chapter 3 : Setting the Context
+Trends of Union's Debt and Liabilities
+3.43 The Union Government's liabilities as shown in Table 3.4 include all its liabilities against
+the Consolidated Fund of India and all public account liabilities. From the Statement of Extra
+Budgetary Resources in the Union Budget, the extra budgetary resources (EBR) have been
+included for three years – from 2016-17 to 2018-19. For 2019-20 (RE) and 2020-21(BE) EBRs
+have been included as per the MTFP statement presented with the budget.
+Table 3.4: Outstanding Liabilities of the Union Government
+(percent of GDP)
+S. No. Particulars 2011-12 2012-13 2013-14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21
+(RE) (BE)
+I Public debt 39.0 39.6 39.4 39.6 40.0 38.8 38.9 38.7 40.1 40.0
+of which
+a) Internal debt 37.0 37.9 37.8 38.0 38.5 37.3 37.4 37.3 38.6 38.7
+b) External debt 1.9 1.8 1.6 1.6 1.5 1.5 1.5 1.4 1.4 1.4
+at historical rates
+II Other liabilities 12.8 11.4 11.1 10.5 10.1 9.5 9.3 9.2 8.9 8.6
+of which
+Reserve funds 1.5 1.4 1.4 1.5 1.4 1.4 1.5 1.6 1.6 1.7
+and deposits
+III Total liabilities 51.7 51.0 50.5 50.1 50.1 48.3 48.2 47.9 49.0 48.7
+(I+II)
+IV. Adjusted 53.6 53.1 52.3 50.8 51.4 49.6 49.4 49.5 50.3 50.1
+total liabilities
+of which
+a External debt at 3.7 3.3 3.3 2.9 3.0 2.7 2.6 2.5 2.4 2.3
+current exchange
+rate
+b Extra budgetary 0.1 0.1 0.5 0.7 0.8
+resources (EBR)
+Source: Union Budget for various years and GDP from NSO
+Note 1. Other Liabilities include National Small Savings Funds, State Provident Fund, other accounts such as
+special deposits of Non- Government Provident Funds and reserve funds and deposits.
+2. In Total Liabilities (row III), external debt is at historical prices.
+3. In adjusted total liabilities (row IV), external debt is at current exchange rate and cash balance has been
+adjusted. 2016-17 to 2020-21(BE) includes extra budgetary resources (fully serviced government bonds).
+MTFP figures for 2019-20 (RE) and 2020-21(BE).
+3.44 The Union Government's liabilities, at historical rates of exchange for external debt,
+stood at 47.9 per cent of GDP on 31 March 2019, as compared to 51.7 per cent on 31 March 2012,
+in line with the long term trend of decline since 2008-09, when it was 57.3 per cent. The decline
+was due to reduction in the fiscal deficit as well as the high nominal growth of GDP during the
+period between 2011-12 and 2018-19.
+59

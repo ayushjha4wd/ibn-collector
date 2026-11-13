@@ -1,0 +1,40 @@
+Chapter 11: Annexure
+There is growing evidence to suggest that the frequency and severity of hailstorm events may be
+increasing in certain regions, influenced by changes in climatic conditions. Such variability has added to
+the unpredictability of hailstorm events and amplified their impacts on climate-sensitive sectors like
+agriculture.
+For the purpose of hazard assessment, the annual number of hailstorm days across states was considered
+based on data from the IMD for the period 2011–20236. This indicator provides a consistent temporal
+measure of hailstorm exposure at the State level.
+Cold Wave
+Cold waves constitute a significant seasonal hazard in India, predominantly impacting the northern
+plains, central regions, and parts of northwestern India during the winter months. These events are
+characterised by a sudden and sustained drop in minimum temperatures, posing heightened risks to
+human health – particularly among vulnerable populations such as the elderly, children, and outdoor
+workers
+Cold wave events often coincide with dense fog conditions, compounding risks related to public health,
+transportation, and economic productivity. There is emerging evidence that climate variability has
+rendered cold wave patterns more erratic in recent years, with unpredictable onset and duration.
+For the purpose of cold wave hazard assessment, the total number of disastrous cold wave days annually
+was considered, sourced from the IMD Atlas for the period 1969–20197.
+As per the definition by the IMD, a Cold Wave is declared based on the following criteria.
+• The minimum temperature must reach (cid:148) 10°C or less in the plains, (cid:148) (cid:20)(cid:24) °C for coastal areas,
+and 0°C or less in hilly regions.
+• In addition, the departure from normal temperature (1981–2010 climatology) should be:
+o - 4.5°C to - 6.4°C for a cold wave day
+o (cid:148) - 6.4°C for a severe cold wave day
+If the above criteria are met at least at two stations in a meteorological sub-division for at least two
+consecutive days, a cold wave or severe cold wave is officially declared on the second day.
+Cloudburst
+A cloudburst is a sudden, intense rainstorm that results in more than 10 cm of rain in less than an hour
+over a small area (approximately 10 km²). A hailstorm and thunder can also accompany it. Cloudbursts
+are common in mountainous areas, especially in the Himalayas. Due to their localised nature, cloudbursts
+are hard to predict or detect but can unleash sudden, devastating rainfall, leading to flash floods and
+landslides.
+The frequency of cloud burst events has been sourced from the IMD for the period 1982 -2023.
+State Specific Disasters (Heat Wave and Lightning)
+Heatwave and lightning were considered as State-specific hazards in the present analysis, given their
+increasing frequency, intensity, and overlapping impacts across several regions of India. Over recent
+6 https://imdpune.gov.in/hazardatlas/hailnew.html
+7 https://imdpune.gov.in/hazardatlas/coldnew.html
+55

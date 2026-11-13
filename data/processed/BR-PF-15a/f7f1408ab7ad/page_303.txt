@@ -1,0 +1,12 @@
+Chapter 7 : Annex
+Elements of Air Quality Management
+Composite Performance factor for D
+S.No Reduction in (%) range in (PM ) Increase in good days (%) Performance
+98
+factor
+(From Table A) (From Table B)
+1 High High 100
+2 Low High 75
+3 High Low 50
+4 Low Low 25
+291

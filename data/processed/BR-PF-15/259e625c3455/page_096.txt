@@ -1,0 +1,48 @@
+CAGR of 12.8%. This is a significant growth rate, outpacing the average inflation rate during this period,
+which suggests real growth in government spending and expansion of government activities in Bihar.
+During this period, revenue grew from Rs. 54,466 crore to Rs. 1,83,975 crore, at a CAGR of 12.9%,
+matching the overall expenditure growth rate. In comparison the revenue of the state grew at a CAGR
+of 11.2%, from Rs. 59,566 crore to Rs. 1,72,688 crore during the same period. Within revenue
+expenditure, social services saw the highest growth (CAGR 14.4%), followed by economic services
+(CAGR 12.0%), and general services (CAGR 11.6%). Social Services have consistently claimed the largest
+share among the revenue expenditure, averaging around 38-39% in recent years. General Services
+have seen a declining share, from 26.9% in 2012-13 to 24.2% in 2022-23. Economic Services have
+maintained a relatively stable share, averaging around 17-18% in recent years.
+Capital expenditure, which represents investments in long-term assets and infrastructure, showed
+more volatility over the period. It grew from Rs. 14,740 crore in 2012-13 to Rs. 47,928 crore in 2022-
+23, at a CAGR of 12.5%, little less than revenue expenditure. However, there were significant
+fluctuations, with a peak of Rs. 33,803 crore in 2017-18 and a low of Rs. 20,080 crore in 2019-20. The
+share of capital expenditure in total expenditure has also fluctuated, peaking at 25.6% in 2015-16 and
+dropping to a low of 13.7% in 2019-20. It has since recovered to 20.7% in 2022-23.
+Capital Outlay has grown at a CAGR of 12.6%. Its share in total expenditure has varied from a peak of
+21.5% in 2016-17 and a low of 8.4% in 2019-20. It stood at 13.6% in 2022-23. Economic Services
+dominate capital outlay, though their share has decreased from 79% in 2012-13 to 70.7% in 2022-23.
+General Services increased at a CAGR of 16.3%, while Social Services grew at a CAGR of 16.2%,
+Economic Services at only 11.5%.
+The discharge of public debt has seen a dramatic increase over the period, rising from Rs. 3,070 crore
+in 2012-13 to Rs. 14,351 crore in 2022-23, at a CAGR of 16.7%. This surge is primarily driven by a
+fourfold increase in internal debt over the period, while loans and advances from the Centre increased
+two-folds. Part of it is of course due to the impact of economic challenges faced during COVID-19
+pandemic. Its share in total expenditure has increased from 4.4% in 2012-13 to 6.2% in 2022-23.
+Internal debt repayment has grown faster (CAGR 17.4%) than repayment of central loans (CAGR
+11.7%). The disbursement of loans and advances by the state government, a rather insignificant
+component of total expenditure, shows high volatility over the years. Starting at Rs. 2,086 crore in
+2012-13, it dropped to as low as Rs. 114 crore in 2016-17, before rising again to Rs. 2,057 crore in
+2022-23.
+Table 3.1: Expenditure of State Government (Rs. crore)
+2012-
+Expenditure Heads 2013-14 2014-15 2015-16 2016-17 2017-18
+13
+Revenue Expenditure, of which 54466 62477 72570 83616 94765 102623
+General Services 18645 22018 26408 27972 30607 33374
+Social Services 23107 26395 31713 35943 40737 45769
+Economic Services 12710 14060 14445 19696 23417 23476
+Grants & Contributions 4 4 4 4 4 4
+Capital Expenditure, of which 14740 17928 22128 28712 31537 33803
+Capital Outlay, of which 9585 14001 18151 23966 27208 28907
+General Services 717 1333 1749 3617 2090 2765
+Social Services 1331 1858 1674 2740 3592 4258
+Economic Services 7536 10811 14729 17609 21526 21884
+Discharge of Public Debt 3070 3120 3609 4125 4215 4654
+Internal Debt 2585 2559 2975 3423 3460 3841
+80

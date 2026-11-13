@@ -1,0 +1,47 @@
+Capital Outlay 210 58 123 04 182 09 23678 31520
+Per Capita Expenditure (Rs.)
+Social Services 4982 4625 4985 5855 6643
+Education, Sports etc. 2310 2092 2079 2598 3120
+Medical and Public Health 528 545 664 819 705
+Water Supply and Sanitation 1190 826 895 1024 1513
+Economic Services 2386 2126 2300 2628 2977
+General Services 3307 3330 3612 3765 4213
+Capital Outlay 1800 984 1423 1821 2370
+Source: Finance Accounts of the Bihar Government for respective years
+3.4 Allocative and Technical Efficiency of Expenditure- Revenue and Capital
+Allocative efficiency in government budgeting is determined by the ability to set clear priorities and
+distribute resources accordingly, ensuring no critical areas are underfunded. This approach prevents
+both resource wastage and misallocation. Technical efficiency, on the other hand, focuses on the
+optimal use of allocated funds, reflecting the productivity of public spending. Effective allocation
+requires a government to be both forward-thinking in setting goals and retrospective in evaluating
+outcomes. While allocative efficiency depends on the budgeting process itself, technical efficiency is a
+measure of government departments' capacity to utilize funds effectively.
+In resource-scarce states like Bihar, it's crucial to allocate funds realistically, considering both the needs
+and the spending capacity of each department. Ideally, budgeting should be a meticulous process.
+However, Bihar's approach has been notably lax, relying more on incremental adjustments to previous
+allocations rather than on thorough evaluations of past programs and their socio-economic impacts.
+This lack of rigorous assessment is evident in Bihar's budgetary practices.
+The imprecision in Bihar's budgeting is apparent from the significant discrepancies between budgeted
+and actual expenditures over the period, as illustrated in Table 3.11. This table highlights instances
+where savings or excesses exceeded Rs. 100 crore in any given year. These wide variations in many
+expenditure categories indicate inaccurate budget estimates, resulting in substantial under-spending
+in numerous areas and consequently, a failure to achieve intended outcomes.
+Table 3.11: Variation between Budget Estimates and Actual Receipts and Expenditure (Rs. Crore)
+2020-21 2021-22 2022-23
+Variance Variance Variance
+BE Actual BE Actual BE Actual
+(%)18 (%) (%)
+District
+703 497 -29.3 715 510 -28.7 687 553 -19.5
+Administration
+Pensions & other
+20486 19635 -4.2 21817 20258 -7.1 24252 23108 -4.7
+Retirement Benefits
+General education 34028 26318 -22.7 37076 33362 -10.0 38579 40987 6.2
+Urban Development 6637 5001 -24.6 6853 5587 -18.5 7133 5001 -29.9
+Crop Husbandry 3237 1318 -59.3 3189 1462 -54.2 3041 1806 -40.6
+Other Rural Dev.
+11563 9014 -22.0 10657 9155 -14.1 10889 9636 -11.5
+Programmes
+18 Variance = (Actual-BE)/BE*100%
+99

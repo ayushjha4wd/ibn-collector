@@ -1,0 +1,32 @@
+nagaland NG
+NG-5
+NG-4.C: Outstanding Debt as % of GSDP NG-4.D: Committed Expenditure as a % of Revenue
+Expenditure
+Note: Committed expenditure includes salaries, interest
+payments, and pensions
+NG-4.E: OTR as % of GSDP NG-4.F: NTR as % of GSDP
+NG-4.G: Capital Expenditure to GSDP Ratio NG-4.H: Key Fiscal Indicators—State vs NEHS
+Fiscal indicators (2018–19) State NEHS
+Per Capita GSDP in Rs per annum 1,29,981 1,30,427
+Indicators as a percentage of GSDP
+TRR 41.9 23.3
+OTR 3.1 5.0
+NTR 0.9 2.0
+TE 45.9 26.7
+ES 10.1 5.0
+SS 12.2 8.7
+GS 17.8 8.5
+Committed Expenditure 26.6 14.4
+Capital Expenditure 5.9 4.3
+FD 4.0 3.4
+RD –1.9 –0.9
+OD 42.7 29.6
+Nagaland Min Median Max
+6002YF 7002YF 8002YF 9002YF 0102YF 1102YF 2102YF 3102YF 4102YF 5102YF 6102YF 7102YF 8102YF 9102YF
+100 MN NG NG MZ MZ NG MZ MN NG NG MN MN ArP NG
+80
+60 SK SK SK UK UK UK UK UK UK UK
+SK SK SK UK
+40
+20 FC-XII FC-XIII FC-XIV
+0

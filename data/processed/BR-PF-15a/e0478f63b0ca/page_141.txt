@@ -1,0 +1,39 @@
+Chapter 4 : Pandemic Times: Analysis for the Future 2021-26
+Adjustments in Receipts and Expenditure
+4.57 The projection of revenue expenditure of States requires a comparable data set from the
+Finance Accounts. We needed to develop comparable State fiscal data for the base year, 2018-19,
+by making adjustments, which have been traditionally carried out by previous Finance
+Commissions, including the FC-XIV and by us in our first report. The details are as follows:
+(i) Lotteries: If net receipt from lotteries (that is, receipts on lotteries at major head
+(MH) 0075 minus expenditure MH 2075) was positive, it was added back to the receipts.
+If the net receipt from lotteries was negative, it was assumed to be zero.
+(ii) Power sector: From revenue expenditure, we deducted grants and subsidies on
+power (from MH 2801 and from any other head where it was booked). Revenue
+expenditure on account of the Ujwal DISCOM Assurance Yojana (UDAY) was also
+removed from MH 2801. For those States where the power sector is run commercially,
+the receipt on power (MH 0801) was retained. For the States where the power sector is
+run departmentally, if the net receipt on power (MH 0801-MH 2801) was negative, the
+same was taken as zero. However, if the net receipt was positive, we factored that into the
+assessment of receipts.
+(iii) Transport undertakings: For the transport sector, we carried out adjustments
+similar to those for the power sector.
+(iv) Grants in aid from the Union Government: We removed the following items of
+expenditure which were based on the Union Government grants: (a) revenue expenditure
+on account of scheme-based Central assistance and (b) grants-in-aids for local self-
+governments. The expenditure on calamity relief from MH (2245) was excluded from the
+base year. Considering that the States will have to provide a matching share in the State
+Disaster Risk Management Fund, this portion has been projected separately from 2021-
+22 onwards and added back to revenue expenditure.
+(v) Major State-specific subsidies and farm loan waiver: Food subsidy and farm
+loan waiver have been removed from the revenue expenditure of the States in 2018-19.
+(vi) IGST transfers to the States: The Integrated GST (IGST) amount transferred to
+the States in 2018-19 has been added to each State's SGST as per the ratio of an individual
+State's SGST to the all-States' SGST in 2018-19.
+(vii) Reserve fund expenditures: Revenue expenditure from the reserve funds (except
+Consolidated Sinking Fund and Guarantee Redemption Fund) has been netted out.
+(viii) Contra entry for receipts/ payments: Receipts/payments of contra-entry nature
+have been removed from both non-tax receipts and revenue expenditure. For example, in
+the case of irrigation projects, some States pay interest on capital, which may get reflected
+in own non-tax revenue as interest receipts. Entries of such a nature were adjusted to
+avoid double counting.
+115

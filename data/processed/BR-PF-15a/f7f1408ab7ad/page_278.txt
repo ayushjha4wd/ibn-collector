@@ -1,0 +1,43 @@
+Fifteenth Finance Commission
+Annex 5.2
+(para 5.17, 5.21)
+IT Return Data and National Accounts—Some indications
+It is useful to compare the income reported in income tax returns and the incomes estimated from
+the National Accounts. The two should approximate each other with appropriate adjustments.
+Because these two datasets approach incomes from different angles, perfect matching is not
+possible. The table below attempts a broad correspondence between the two datasets.
+(Rs. lakh
+A Gross Total Income reported under IT returns (before loss set-off): 2017-18
+crore)
+1 Salaries 20.0
+2 Non-salary income in the household sector (property, business, capital gains) 17.0
+3 Business and other income of the corporates 16.4
+4 Sum of all incomes reported in income tax returns (A1+A2+A3) 53.4
+Income reported in National Accounts (compensation of employees + (Rs. lakh
+B
+operating surplus/mixed income) (Rs. lakh crore): 2017-18 crore)
+1 Total income generated in public sector and private corporate sector 76.3
+Of which,
+1.a Operating surplus of private corporate sector and public sector 36.7
+1.b Compensation of employees in public sector and private corporate sector 39.6
+Operating surplus/mixed income of the self-employed in household sector
+2
+(including all business entities which are not part of corporate sector and
+excluding income generated from agriculture) 26.4
+3 B1+B2 102.7
+C Comparable Variables: (a) A1 and B.1.b; (b) A2 and B2; (c) A3 and B.1.a In per cent
+Explanations
+(A1/B1.b)*100: (Salaries captured under IT returns, divided by,
+compensation of employees in organised sector estimated by the national
+accounts)
+Indications and Caveats: In national accounts, compensation of employees
+is defined as the sum of payments by resident producers on wages and
+salaries to their employees and contributions for their employees to social
+1 security schemes. Based the ratio above, it is not correct to conclude that 50.5
+about 50 per cent of the salary income is evading taxes, because there are
+tax thresholds and a complex set of exemptions under personal income tax
+which makes any conclusion difficult. However, considering that we have
+accounted for only organised sector incomes in this ratio, it is desirable that
+the income tax base is widened and deepened through simplification of
+deductions and exemptions.
+266

@@ -1,0 +1,28 @@
+State,Hazard x,Hazard y,"Composite
+Hazard Score
+(H)","Population
+Score
+(E)","Vulnerability
+Score
+(V)",DRI
+State i,"x
+i","y
+i","(cid:302) ×x + (cid:302) ×y
+x i y i","ap
+i","v
+i","H×E×Vi
+i i"
+State j,"x
+j","y
+j","(cid:302) ×x + (cid:302) ×y
+x j y j","ap
+j","v
+j","H×E×V
+j j j"
+State k,"x
+k","y
+k","(cid:302) ×x + (cid:302)×y
+x k y k","ap
+k","v
+k","H ×E ×V
+k k k"

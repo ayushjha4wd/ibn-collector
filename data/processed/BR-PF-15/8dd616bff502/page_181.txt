@@ -1,0 +1,39 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+8.61 Under the last five FCs, the income‑distance criterion, with its progressive tilt, has been
+the basis of horizontal devolution of 45 per cent or more of the divisible pool. In addition,
+population, area, and infrastructure index also lean towards equity in varying degrees.
+Therefore, each of these five FCs has disbursed 75 per cent or more of the divisible pool based
+on equity. Forest cover is an efficiency‑based criterion, but it also carries an element of equity
+ex‑post since the seven northeastern States accounted for 25.4 per cent of India’s dense forest
+area in 2021, but only 3.8 per cent of the population as per the 2011 Census. Madhya Pradesh
+and Chhattisgarh together accounted for another 20.7 per cent of the forest area and 8.3 per cent
+of the population. The remaining three criteria - total fertility rate, tax effort, and fiscal discipline
+- are efficiency‑based but have accounted for the devolution of a relatively small proportion of
+the divisible pool.
+State‑wise Shares: Eleventh to Fifteenth Finance Commissions
+8.62 Next, we consider the shares of different States in the total share of all States in the
+divisible pool under the Eleventh to Fifteenth FCs. As a preliminary point, it is important to note
+that the States’ shares are impacted not only due to shifts in the devolution criteria applied, but
+also because of the changes in the values of underlying parameters. For instance, the per capita
+income distance of a State under the FC‑15 was not the same as under the FC‑14 because the
+per capita incomes of the States in the base years relevant to the former were different than those
+for the latter. In fact, analysis done by this Commission shows that, even if we were to retain
+the exact same criteria and associated weights as the FC‑15, the States’ shares shift significantly
+due to the updation of underlying data.
+Non‑Northeastern and Hilly States
+8.63 Table 8.4 shows the shares of non‑NEH States, classifying them into high, middle, and
+low per capita GSDP States, and listing them in order of declining per capita GSDP in current
+rupee terms in 2023‑24. We also include the population shares across all States (inclusive of
+Jammu & Kashmir) as per the 2001 and 2011 Censuses, the former for comparison with
+devolutions by FC‑11 and Twelfth Finance Commission (FC‑12), and the latter for comparison
+with devolutions by Thirteenth Finance Commission (FC‑13) to FC‑15. For FC‑15, precision
+requires recalculating the 2011 census share by excluding Jammu & Kashmir, but we eschew it
+to avoid making the data unwieldy. Until the end of FC‑13, Andhra Pradesh and Telangana
+formed a single State. Therefore, the 2011 population share of the undivided Andhra Pradesh
+should be obtained by adding the shares of the component States shown in the Table 8.4. Finally,
+the ideal comparison would be with the population shares during the award period, but given
+their wider acceptance, we opt for Census figures.
+8.64 Devolution based solely on population would award each State a share equal to its share
+of the population. Under this scheme, each State would receive the same amount per capita.
+Therefore, comparing the devolution share of a State shown in Table 8.4 for a given State with
+159

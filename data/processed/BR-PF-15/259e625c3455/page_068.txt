@@ -1,0 +1,41 @@
+Chart 2.12: Central Grants (Rs Crore)
+35000
+30000
+25000
+20000
+15000
+10000
+5000
+0
+2012- 2013- 2014- 2015- 2016- 2017- 2018- 2019- 2020- 2021- 2022-
+13 14 15 16 17 18 19 20 21 22 23
+Plan Grants/CSS Finance Commission Grants Other Transfers
+After the Planning era, Grants for Centrally Sponsored Schemes (CSS) have shown strong growth of
+67.0% over the six-year period, increasing from Rs 13312 crore in 2017-18 to Rs 22237 crore in 2021-
+22. The total plan grants including for CSS received by the state before and after 2017 has grown
+steadily, with the earlier plan grants now increasing the CSS grants.
+Other transfers show significant fluctuations over the six-year period due to factors like changes in GST
+compensation needs based on the state's GST collection, special grants or transfers in specific years to
+address particular needs or emergencies, etc.
+Share in Central Taxes:
+Table 2.17 and Chart 2.13 show Bihar’s share of Central taxes over the years. Except during 2020-21,
+this constituted more than half the total revenue receipts of Bihar. The significant drop in tax transfers
+in 2019-20 and 2020-21 can be attributed to the economic slowdown caused by the COVID-19
+pandemic, which affected overall tax collections at the national level. The substantial increase in 2021-
+22 across most tax components reflects the economic recovery post the pandemic.
+Table 2.17: Transfer of Central Taxes (Rs crore)
+2017- 2018- 2019- 2020- 2021- 2022-
+18 19 20 21 22 23
+CGST 925 18167 17993 17789 25442 26989
+IGST 6572 1450 0 0 0 0
+Corporation Tax 19936 25597 21619 18062 27179 32019
+Income Tax other than
+16834 18851 16940 18517 26661 31262
+Corporation Tax
+Customs 6570 5217 4019 3180 6776 3755
+Union Excise 6868 3467 2794 2012 3869 1178
+Service Tax 7379 673 0 258 1326 149
+Other Taxes -0.6 181 41 43 96 0
+Total Share of Central Taxes 65083 73603 63406 59861 91352 95353
+% increase over the years 10.5 13.1 -13.8 -5.6 52.6 4.4
+52

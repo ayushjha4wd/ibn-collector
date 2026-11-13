@@ -1,0 +1,41 @@
+Sixteenth Finance Commission
+up to 23.4 hours in urban areas. Per‑capita electricity consumption has increased from 957
+Kilowatt‑hour (kWh) in 2013‑14 to 1,395 kWh in 2023‑24, representing a 45.8 per cent rise2.
+13.4 While these are commendable achievements, electricity distribution within the sector
+remains plagued by technical and economic inefficiencies, as well as financial fragility. This
+chapter is primarily devoted to an assessment of the efforts made to overcome these
+inefficiencies and fragilities, as well as possible solutions. We begin with a brief introduction to
+the workings of the sector and where distribution fits within it.
+Distribution within the Electricity Sector
+13.5 The power sector has three major components: generation, transmission, and
+distribution. Electricity generation, whether it be thermal, hydro, solar, wind, or nuclear, is
+predominantly concentrated in large plants, which are generally located far away from where
+electricity users - households, businesses, and the government - are. The role of transmission is
+to deliver electricity from the generation plant to a receiving substation located near the users
+of electricity. Distribution handles the last‑mile delivery, transporting electricity from the local
+receiving substation to individual users.
+13.6 In electricity generation, the private sector has emerged as a significant player in recent
+years. Its share in the total installed capacity rose from 15.5 per cent in 20093 to 54.3 per cent
+in 20254. This increase in share has come at the expense of both the central and state public
+sector generation companies. The share of central public sector companies in total generation
+capacity declined from 33.1 per cent in 2009 to 22.5 per cent in 2025, and that of state public
+sector companies from 51.4 per cent to 23.2 per cent over the same period.
+13.7 In India, transmission is almost entirely in the public sector. Private entry is permitted,
+but it is a recent and, so far, a minor phenomenon. With substantial interstate transmission
+activity, the Union Government is the dominant player in this area. State‑level entities generally
+handle intra‑state transmission.
+13.8 Being primarily an intra‑State activity, electricity distribution is mostly performed by
+State‑level entities. For approximately the first fifty years after independence, electricity policy
+and institutional structure were governed by the Electricity (Supply) Act, 1948. Among other
+things, the Act mandated the creation of a State Electricity Board (SEB) in each State with the
+regulation and management of electricity generation, transmission, and distribution as its key
+functions. By the 1960s, the SEBs had evolved into vertically integrated monopolies,
+encompassing generation, transmission, distribution, and regulation under a single umbrella.
+2 See PIB note dated January 1, 2025, at
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2089243#:~:text=Rise%20in%20Per%20Capita%20Electricity,
+957%20kWh%20in%202013%2D14 (accessed June 15, 2025).
+3 Central Electricity Authority’s Executive summary on Power Sector, March 2009 (https://cea.nic.in/wp-
+content/uploads/2020/05/exe_summary-03-3.pdf)
+4 Central Electricity Authority’s Executive summary on Power Sector, May 2025, p.9 (https://cea.nic.in/wp-
+content/uploads/executive/2025/06/Executive_Summary_May_2025_Aztual_Updated.pdf)
+272

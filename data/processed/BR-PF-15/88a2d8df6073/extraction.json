@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Sector_wise_Subsidies_and_Transfers.xlsx",
+  "raw_sha256": "88a2d8df60736611f9e0c850002f68767a132f4e03e4a948d7275f322a6dbf0d",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Sector%20wise%20Subsidies%20and%20Transfers.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:28+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/88a2d8df6073/sheets/Sector_wise_Subsidies_and_Trans.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

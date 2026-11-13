@@ -1,0 +1,37 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+8.88 Therefore, while we are of the firm view that a reward for the lower population growth
+through TFR or other indicators must be phased out in due course from the devolution criteria,
+we have opted for a gradual transition by reducing the weight of the demographic performance
+variable from 12.5 per cent by the FC‑15 to 10 per cent. In addition, we have replaced TFR,
+which is a derived indicator from population data, with population growth, which is directly
+calculable from the Census figures. Specifically, we set the per capita devolution to a State in
+proportion to the inverse of its population growth between 1971 and 2011 Censuses. We convert
+this per capita devolution into total by multiplying it by the 2011 population. The Technical
+Note at the end of the chapter provides the precise formula.
+Area
+8.89 We have continued to include the share of a State’s area in the total area of the
+twenty‑eight States among our devolution criteria. Recent FCs have assigned every State a
+minimum share equalling two per cent in translating this criterion into practice. We noted in our
+earlier discussion that this assignment has two undesirable implications: i) with twelve States
+qualifying for the assignment, other States lose a substantial part of their actual share, and (ii)
+the assignment creates large inequity between States with an area just above two per cent and
+those with a small area and a small population in per capita terms. This Commission deliberated
+on these issues and concluded that a correction in this respect was required. Following the
+principle of gradualism and recognizing that a complete elimination or even a sharp reduction
+in the floor would have too large an impact on some small States, it opted for reducing the floor
+to 1.5 per cent. The Technical Note at the end of the chapter provides the precise formula. We
+assigned a weight of 10 per cent to this criterion.
+Forest
+8.90 During our consultations, some States had asked the Commission to include open forests
+in defining this variable. A handful of States had also recommended rewarding States for the
+expansion of the forest over a base period. We have incorporated both suggestions. The Forest
+Survey Report (FSR) defines very dense forest (VDF) cover as having a canopy density of 70
+per cent and above, moderately dense forest (MDF) cover as having the canopy density of 40-
+70 per cent, and open forest (OF) cover as having the canopy density of 10‑40 per cent. We
+define a weighted forest area by assigning a weight of 0.30 to OF, 0.65 to MDF, and 1.0 to VDF.
+These weights are the ratio of the mid‑point of the range for that category of forest to the
+mid‑point of the range for VDF. We have combined the share of weighted forest area of the
+State in the weighted forest area of all States and the share of increase in weighted forest area
+of the State in the increase in weighted forest area of all States in the ratio of 80:20 to arrive at
+the forest variable. For this purpose, the increase is calculated from 2015 to 2023 and for cases
+169

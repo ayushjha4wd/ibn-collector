@@ -1,0 +1,46 @@
+Table 7.12: Estimated Availability of Power and Energy during 2021-22 to 2025-26
+Estimated Peak Estimated Energy
+Total Capacity
+Year Availability at State Availability at State
+(MW)
+Periphery (MW) Periphery (MU)
+2021-22 7785 5465 37956
+2022-23 9424 6650 45136
+2023-24 10760 6995 57172
+2024-25 12862 8051 63677
+2025-26 12862 8051 63677
+Source: Economic Survey of the Govt. of Bihar 2023-24
+7.5.2 Overview of Power Sector Reforms in Bihar
+Bihar's power sector has had a challenging history. In the early 2000s, the state was characterized by
+severe power shortages, with per capita consumption being among the lowest in the country. The
+Bihar State Electricity Board (BSEB) was plagued by high losses, both technical and commercial, poor
+infrastructure, and financial insolvency. This situation not only hindered economic growth but also
+placed a significant burden on the state's finances through subsidies and bailouts. The need for reforms
+was critical, and in 2012, Bihar initiated a series of comprehensive restructuring of its power sector, as
+discussed below.
+1. Unbundling of the Bihar State Electricity Board
+Bihar State Electricity Board (BSEB) originally constituted under Section 5 of the Electricity Supply Act,
+1948, was unbundled under the Bihar State Electricity Reforms Transfer Scheme, 2012. In 2012, BSEB
+was unbundled into five separate entities to enhance operational efficiency and financial performance:
+1. Bihar State Power (Holding) Company Ltd. (BSPHCL): Serves as the holding company.
+2. North Bihar Power Distribution Company Ltd. (NBPDCL): Manages power distribution in
+northern Bihar.
+3. South Bihar Power Distribution Company Ltd. (SBPDCL): Manages power distribution in
+southern Bihar.
+4. Bihar State Power Generation Company Ltd. (BSPGCL): Responsible for power generation.
+5. Bihar State Power Transmission Company Ltd. (BSPTCL): Handles power transmission across
+the state.
+This restructuring aimed to decentralize operations, improve service delivery, and boost financial
+accountability. By focusing on their core functions, the newly formed entities were able to implement
+targeted measures to reduce losses and enhance performance. For instance, both NBPDCL and SBPDCL
+undertook extensive measures to reduce distribution losses, including the installation of smart meters
+and the modernization of distribution infrastructure. The implementation of smart meters and
+modernization projects helped decrease the aggregate technical and commercial (AT&C) losses by
+more than 5% during 2022-23. The AT&C Loss, which was 54.6% in 2012-13, has come down to 24.3%
+in 2022-23. The installation of smart meters in urban areas began with 23.5 lakh consumers and was
+extended to rural areas, with a target to install 1.48 crore smart prepaid meters by 2025-26. The
+distribution companies, in particular, were able to improve their revenue collection mechanisms,
+reducing the need for state subsidies and improving their profitability. The DISCOMs were reported to
+have earned a profit a for the first time of Rs. 215 crore during 2022-23 (Table 7.11). However, since
+the accounts are yet to be prepared and audited, the correct position is as yet unknown.
+190

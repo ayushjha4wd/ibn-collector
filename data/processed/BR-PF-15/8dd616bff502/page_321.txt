@@ -1,0 +1,41 @@
+Chapter 14: Containing and Making Subsidies Efficient
+14.22 Magnitude of power subsidies is greatly understated when measured by budget or
+finance accounts alone. This is because a large part of this subsidy remains off‑budget or implicit
+when provided and transforms into either debt or grant when it eventually finds its way back to
+the budget. Since State Governments subsidise many power consumers, they have an incentive
+to keep tariffs low. Additionally, DISCOMs in most States are publicly owned, and do not feel
+the same commercial pressure as their privately owned counterparts. They incur transmission
+and commercial losses due to low tariff, poor management of distribution lines, underbilling of
+electricity sold and under‑collection of billed amounts. All these factors contribute to DISCOM
+losses that are covered through borrowing from banks or other public sector entities under
+explicit or implicit State Government guarantees and are not reflected in the State budgets.
+However, as we discuss in the chapter on the power sector reforms, accumulated losses
+eventually end up on the State Government’s books in the form of added debt. This additional
+debt, in turn, contributes to the State’s debt service payments, which are reflected in its revenue
+budget3.
+Large‑Group Cash Transfers
+14.23 The component that has witnessed the steepest rise in recent years is the large‑group
+cash transfers, with a trend growth4 of 53.6 per cent over 2018‑19 to 2025‑26 BE, reaching
+₹1.96 lakh crore in 2025‑26 BE. This consists of subsidies that are not directed to a specific
+economic or social sector. With the ease and efficiency brought in by the JAM (Jan Dhan bank
+accounts, Aadhar cards, Mobile phones) trinity, an increasing share of revenue expenditure is
+being devoted to these schemes. In 2023‑24, Madhya Pradesh, Karnataka and West Bengal spent
+the highest percentage of their TRE on general cash transfer schemes, at 7.6 per cent, 7.1 per
+cent and 6.6 per cent respectively.
+14.24 Large part of the increase has happened after 2023‑24. For example, comparing the
+2025‑26 BE with the actuals of 2023‑24 reveals that the jump in large‑group cash transfers in
+Jharkhand is from 0.8 per cent of TRE to 13.0 per cent. Other States with sharp increases in
+shares of large‑group cash transfers as a percentage of total revenue expenditure in 2025‑26 BE
+over 2023‑24 are Maharashtra (6.2 per cent from 0.6 per cent) and Odisha (5.1 per cent from
+nil). If major States continue to allocate rising proportions of revenue expenditures to
+large‑group unconditional cash transfers, they will not only impose a significant burden on the
+States’ budgets but also destabilise their finances in the long run.
+Social Security Pensions
+14.25 A related set of schemes is classified under social security pensions (SSPs). These
+schemes provide pensions and welfare support to groups such as the elderly, widows, persons
+3 See the study by the Asian Development Bank in this context: “A Study of Subsidies and Transfers in India,” Submitted to the
+Sixteenth Finance Commission, Final Report, August 2025.
+4 Trend growth rate of variable y is calculated by estimating the equation ln(y) = b + g.t, where t represents the year corresponding
+to the y value, g is the estimated trend growth rate and b is a constant intercept. All growth rates in this chapter are trend growth
+rates.
+299

@@ -1,0 +1,40 @@
+Fifteenth Finance Commission
+how a transaction is to be electronically entered has been specified by a rigorous data standard for
+all levels of government and these standards are followed, generating accounts data on a
+consistent and uniform basis for all rural or urban local bodies, or integrating the accounts of the
+local governments with that of the relevant State Governments would be a fairly simple exercise
+under an IT-led financial reporting framework. We strongly recommend the specification and
+adoption of a uniform data standard for digital recording of all government transactions at the
+earliest. We recognise that States are at different stages of evolution with respect to digitisation of
+accounts with respect to local governments, and some States have more sophisticated systems
+than others. During the transition period, for these relevant States, we do not suggest regression to
+lower levels of sophistication with the capture of fewer characteristics of the underlying accounts
+data but only on the timely online availability, in the public domain, of both the accounts of the
+previous year and audited accounts of the year before previous according to formats worked out
+appropriately by the Union, State and local governments.
+7.75 With the help of modern digital infrastructure, a receipt or expenditure can have the
+necessary characterisation at the input stage itself. This will enable appropriate processing of data
+to produce the various required reports. Online entry of receipts of expenditure in real term basis
+generate unaudited accounts monthly and yearly and thus the unaudited accounts are
+automatically available at the end of the financial year.
+7.76 Since auditing is necessary to ascertain the transparency and accountability of public
+funds and this has remained an unfinished task so far, we recommend the online availability of
+both provisional accounts of the previous year and audited accounts of the year before
+previous as entry level condition to avail of the grants.
+7.77 Given the pandemic and the complexities involved in the task for auditing of accounts, in
+the first and second year of the award period (2021-22 and 2022-23), States need to ensure that at
+least 25 per cent of the rural local bodies have both their provisional accounts for the previous
+year and audited accounts for the year before the previous available online in the public domain in
+order for them to avail of the full grants in 2021-22 and 2022-23. From the third year (2023-24)
+onwards, States will receive total grants due to the rural local bodies having both provisional
+accounts of the previous year and audited accounts for the year before previous and making these
+available online. For example, if for a particular State only 35 per cent of rural local bodies have
+both provisional accounts for the year 2022-23 and audited accounts for the year 2021-22 and
+these are available online in 2023-24, then in 2023-24, the State will receive total amount due to
+these 35 per cent of the rural local bodies for the year 2023-24.
+Grants for the Year (t) for a particular State (X)6 = Grants due to the rural local bodies in
+State (X) that prepared provisional accounts for the previous year (t-1) and audited
+accounts for the year before the previous (t-2), and these accounts are available online in the
+public domain in year (t).
+6 This condition is applicable from 2023-24 onwards
+194

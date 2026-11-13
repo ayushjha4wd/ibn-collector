@@ -1,0 +1,37 @@
+Chapter 2
+Revenue Capacity: Tax and Non-Tax Revenues
+Objectives:
+ To analyze revenue trends of the Bihar Government in respect of tax and non-tax revenues;
+ To estimate the revenue capacities of the State;
+ To suggest measures to improve the Tax-GDP ratio during the last five years and to enhance the
+revenue productivity of the tax system in the State as well as the non-tax revenues from user
+charges.
+ To suggest measures to enhance revenues from user charges.
+Data Sources:
+Finance accounts for revenue data; National accounts statistics for GSDP data; Finance department
+of Bihar Government.
+Methodology:
+Trend and composition analysis; Comparison of Tax: GSFD ratio of different states; Regression
+analysis for estimation and projection.
+2.1 Summary of financial position
+During the 1980s, Bihar faced increasing deficits in its revenue, which weakened the state's finances,
+resulting in large fiscal deficits, unsustainable debt levels, and reduced government spending,
+impeding the State's growth. However, corrective measures were initiated in 2005-06 with the
+implementation of the Fiscal Responsibility and Budget Management (FRBM) Act, enabling Bihar to
+generate revenue surpluses. These surpluses were utilized to build a solid financial foundation,
+accelerating the state's economic growth, although its reliance on central funds remained high.
+Despite efforts towards fiscal consolidation until 2015-16, Bihar's financial situation has since
+deteriorated. The revenue surplus, which peaked at Rs. 12,507 crores in 2015-16, started declining
+thereafter, reaching a deficit of Rs. 1,784 crores in 2019-20 which then soared to Rs. 11,325 crores in
+2020-21. Though there was a marginal surplus of Rs. 422 crores in 2021-22, the revenue deficit
+climbed to Rs. 11,288 crores in 2022-23, caused by a faster growth in expenditure than in revenue.
+The total revenue receipts of the Bihar government have shown a consistent upward trend over the
+years, increasing from Rs. 59,566 crores in 2012-13 to Rs. 172,688 crores in 2022-23. Tax revenue has
+witnessed a steady rise, from Rs. 48,153 crores in 2012-13 to Rs. 139,528 crores in 2022-23. This
+increase can be attributed primarily to the increased devolution of central taxes, though state taxes
+also contributed.
+Non-tax revenue, which includes receipts from various sources, notably interest receipts, dividends,
+and royalties, has also shown an upward trend, albeit with fluctuations. It increased from Rs. 1,135
+crores in 2012-13 to Rs. 4,135 crores in 2022-23, indicating improved performance of state-owned
+enterprises and better resource mobilization.
+24

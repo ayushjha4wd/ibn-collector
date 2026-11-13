@@ -1,0 +1,45 @@
+1. Update property tax rates in line with UFC15 guidelines;
+2. Fully implement the 2013 Bihar Municipal Property Tax Rules;
+3. Establish a Property Tax Board as per 2013 state rules;
+4. Expand and stabilize online property tax filing and payment across all ULBs;
+5. Use GIS mapping for property assessment and asset management;
+6. Maximize revenue from sources like parking fees, trade licenses, and tower fees;
+7. Increase user charges to cover operation and maintenance costs of services; and
+8. Optimize revenue from ULB-owned properties by revising rental agreements.
+6.6.4 Expenditure Analysis of Urban Local Bodies in Bihar (2015-2020)
+Table 6.11 shows the Expenditure of All ULBs in Bihar during the period 2015-20. Over this five-year period,
+the total expenditure of all ULBs in Bihar amounted to Rs. 14,894 crore, with establishment costs and civic
+services receiving relatively smaller allocations (20% and 10% of total allocations respectively). Scheme
+expenditure dominated the ULBs' financial activities, with Rs. 4,058 crore spent on Centrally Sponsored
+Schemes (23 percent of total) and Rs. 6,328 crore spent on State Specified Schemes (47% of total) during
+this period. Together, these scheme-based expenditures accounted for 70% of the total spending.
+Table 6.11: Expenditure of All ULBs of Bihar during the period 2015-20 (Rs. crore)
+Items 2015-16 2016-17 2017-18 2018-19 2019-20 2015-20
+1 Establishment
+a) Salary 382 511 549 630 541 2613
+b) Pension
+c) Others (Daily wages
+and Administrative 125 36 62 93 74 390
+Expenditure)
+Total 507 548 610 723 614 3003
+2 O&M of Civic Services 213 273 373 300 346 1506
+3 Centrally Sponsored Schemes
+a) AMRUT 73 148 172 241 0 633
+b) Smart City 0 129 360 461 3 952
+c) SBM 113 303 212 292 89 1009
+d) NULM 26 55 1 64 53 198
+e) HFA 0 477 314 114 197 1103
+Total 211 1111 1059 1176 501 4058
+4 Support from State Budget
+a) Mukhya Mantri Nal Jal Yojna 453 633 510 540 605 2741
+b) Mukhya Mantri Nali Gali yojna 319 370 498 456 468 2111
+c) Jal Jivan Hariyali 0 0 0 0 56 56
+d) Establishment 9 12 14 18 12 65
+e) Nala Nirman 111 45 67 42 62 326
+f) Nagrik suvidha 229 88 211 292 209 1029
+Total 1122 1147 1300 1348 1411 6328
+Grand Total 2053 3080 3343 3546 2873 14894
+Source: Report of the Sixth State Finance Commission, Government of Bihar
+SSFC made several recommendations to strengthen the financial health and operational effectiveness of
+ULBs in Bihar:
+173

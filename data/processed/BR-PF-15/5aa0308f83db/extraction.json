@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Trends_in_expenditure_-_Centre.xlsx",
+  "raw_sha256": "5aa0308f83dbc884e4c78da9bff8afe9d2f2369d5d8fffab451a7ca3682a96e3",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Trends%20in%20expenditure%20-%20Centre.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:17+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/5aa0308f83db/sheets/RevExp_Centre.csv",
+    "data/processed/BR-PF-15/5aa0308f83db/sheets/CapExp_Centre.csv",
+    "data/processed/BR-PF-15/5aa0308f83db/sheets/Fisc_Centre.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

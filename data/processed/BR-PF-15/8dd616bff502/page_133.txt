@@ -1,0 +1,45 @@
+Chapter 6: Union Finances during the Award Period: An Assessment
+6.9 We need projections of nominal GDP for our base year 2025‑26 and the award period
+2026‑27 to 2031‑32. The projection exercise for 2025‑26 utilizes a dynamic factor model that
+incorporates long‑term indicators from 2005‑06 to 2024‑25. We then estimate GDP for the
+period from 2026‑27 to 2030‑31 by deploying a vector auto‑regressive (VAR) model using
+annualised key structural macroeconomic variables. Model selection is based on stability tests,
+serial correlation diagnostics, and optimal lag criteria in addition to economic theory. The
+nominal GDP growth rate projected by the model equals 11.4 per cent for 2025‑26 and ranges
+from 11.7 to 11.9 per cent for the years 2026‑27 to 2030‑31. These results are partly influenced
+by the high growth in GDP deflator during 2010‑14 (Figure 6.1).
+6.10 We noted that the Ministry of Finance, in its budget for the fiscal year 2025‑26, estimated
+a nominal GDP growth rate of 10.1 per cent. Given that our model predictions were on the high
+side due to the high growth in the GDP deflator during 2010‑14, after due deliberations, we
+adopted the Ministry’s nominal GDP growth rate for our base year, 2025‑26. Moreover, an
+average annual growth rate in nominal GDP of 11 per cent has been recorded during the period
+2012‑13 to 2023‑24, which is also the growth rate adopted by the Ministry in its projections for
+the years 2026‑27 to 2030‑31. Considering these facts, we have settled on an 11 per cent nominal
+GDP growth rate for the award period as well.
+Figure 6.1 Growth Rate of GDP Deflator
+14%
+12%
+10.5%
+10%
+8.7%
+8.4%
+7.9%
+8%
+6.2%
+6%
+4.8% 5.9%
+4.0% 3.9%
+4% 3.3%
+2.3%
+3.2% 2.4% 3.1%
+2%
+2.6%
+0%
+Source: Ministry of Statistics and Programme Implementation (MoSPI)’s published data of nominal and real
+GDP
+111
+)%
+ni(
+rotalfeD
+PDG
+11-0102 21-1102 31-2102 41-3102 51-4102 61-5102 71-6102 81-7102 91-8102 02-9102 12-0202 22-1202 32-2202 42-3202 52-4202

@@ -1,0 +1,42 @@
+Chapter 11: Financing of Disaster Management
+11.75 Historically, the machinery in the States and the Union operates relatively swiftly and
+with efficiency in organising relief and response efforts, but significant differences still exist
+between the States. While some States have integrated and automated digital systems, which
+can be effectively utilised for swift disbursal of relief during calamities, others still follow an
+extensive manual process in the identification of affected people, collecting documentary
+evidence, uploading the beneficiaries list in treasury systems, and so on, which leads to huge
+delays in the disbursal of relief during calamities.
+11.76 Capacities need to be built at a rapid pace and on scale, at the Union and the States, with
+respect to preparedness, planning and execution of mitigation works, as well as recovery and
+reconstruction. Inadequate capacity in these areas leads to delays in the formulation of
+operational and technical guidelines, preparation, submission and approval of project proposals,
+release and utilization of funds. Even after four years of institutionalising funds for mitigation
+at the State and Union levels, the utilisation of funds remains abysmal.
+11.77 Going forward, the disaster landscape should also be focused on preparedness,
+mitigation, recovery and reconstruction as much as its focus on response and relief. The
+expenditure pattern should reflect the actual need for each of these activities. Investment in
+preparedness and mitigation should be prioritised to ensure that people endure minimal impact
+from such disasters. We strongly recommend that the NDMA undertake a comprehensive
+analysis of institutional capacity gaps at all levels and propose targeted measures to strengthen
+SDMAs.
+Use of Technology in Disaster Management
+11.78 Technology has become a mainstay in effective disaster management, and it enables a
+shift from reactive and relief‑centric approaches to proactive, predictive, and preventive
+strategies. The amendment to the DM Act in 2025 enunciates a bold vision with respect to
+handling disasters by emphasising preparedness and mitigation in addition to relief and rescue.
+Embracing technological solutions is the key to realising this vision. Adopting cutting‑edge
+technologies at all stages of disaster management is imperative in the light of the growing
+frequency and intensity of disasters.
+11.79 Technological tools are indispensable not only for early warning systems and real‑time
+hazard monitoring but also for logistics management, damage assessment, relief distribution,
+and long‑term recovery planning. For instance, artificial intelligence and machine learning
+models can be used to predict flooding patterns, wildfire spread, and cyclone paths with greater
+accuracy. Similarly, geospatial technologies, remote sensing, and satellite imagery, provided by
+agencies like Indian Space Research Organisation and National Remote Sensing Centre, can
+play a critical role in vulnerability mapping and planning.
+11.80 The effective deployment of such tools, however, depends on the availability of
+high‑quality, granular, and interoperable data sets and the presence of trained personnel who
+can interpret and act on this information. It is essential that NDMA take a lead role in promoting
+open data frameworks by coordinating with key institutions and institutions of repute both in
+private and in public.
+249

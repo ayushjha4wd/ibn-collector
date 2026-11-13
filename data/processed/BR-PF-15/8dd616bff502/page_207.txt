@@ -1,0 +1,41 @@
+Chapter 9: Assessment of State Finances and Grants-in-Aid
+9.30 Arguments of States favouring RDGs are centred on fiscal constraints, mostly of a
+structural nature, high delivery costs, inadequate tax devolution and the need for equity. Some
+of the NEH States have described RDGs as a lifeline owing to sparse populations and high
+infrastructure and establishment costs, including salary expenditures. Nagaland cites special
+Constitutional provisions and argues for additional assistance in the form of RDGs. Others have
+viewed RDGs as essential support for ensuring that States start with a revenue balance every
+year, as horizontal tax devolution alone is insufficient. Odisha proposes expanding the scope of
+deficit grants to include capital account needs. Andhra Pradesh views it as essential due to
+bifurcation‑related liabilities and provisions in the Andhra Pradesh Reorganisation Act, 2014.
+Assam, while supporting RDGs in principle, suggests that a two‑stage devolution mechanism
+for the northeastern States, aligned with their fiscal needs, could obviate RDG requirements.
+Most of the RDG‑receiving States have been critical of the tapering of RDGs, requesting a
+realistic assessment of their needs.
+Views of the Union Government
+9.31 In its memorandum to the Commission, the Union Government has favoured the
+discontinuation of RDGs due to the merger of plan and non‑plan finance, as well as the increase
+in States’ share in the divisible pool by the FC‑14. It has argued that the fiscal reforms incentives
+provided by the FC‑11 and FC‑12 enabled the States to achieve fiscal consolidation and reach
+overall revenue balance. This allowed the FC‑13 to avoid recommending RDGs for the general
+category States. The scenario has reversed with the FC‑14 and FC‑15 recommending RDGs
+even for the large and high‑income States. This is despite the hike in the share of States in
+vertical devolution, partly due to a decline in States’ own revenue effort and increase in revenue
+expenditure driven by higher dependence on Union transfers. RDGs thus carry with them a
+perverse incentive and are ineffective in addressing structural gaps. The most notable
+improvement in the revenue balance is witnessed when the FCs recommend incentive
+mechanisms linked to reforms that promote fiscal prudence, like in the case of FC‑12.
+Our Approach
+9.32 The Finance Accounts from 2011‑12 to 2023‑24 constitute a key source of the data we
+employ for our assessment. Where necessary, we also use the 2024‑25 RE and 2025‑26 BE. We
+collected additional data as required from the State Governments through the State Data Portal
+of the Sixteenth Finance Commission.
+9.33 As a first step, GSDP of each State has been projected using the comparable GSDP data
+at market prices for the years 2011‑12 to 2023‑24 from the Ministry of Statistics and Programme
+Implementation (MoSPI). The elasticity of each State’s GSDP growth with respect to the
+aggregate GSDP growth of all States has been calculated by taking the ratio of a particular
+State’s trend growth rate (TGR) to the TGR of all States’ GSDP over the period from 2011‑12
+to 2023‑24. These State‑specific elasticities are then applied to the estimated nominal GDP
+growth rate to derive the GSDP growth rates of various States during the period from 2024‑25
+to 2030‑31.
+185

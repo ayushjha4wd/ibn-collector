@@ -1,0 +1,39 @@
+Chapter 5 : Resource Mobilisation
+limits may be kept at the current level for some time to build stability in tax regime and to ensure
+greater predictability and better tax planning for the taxpayer.
+Table 5. 3: Comparison of Tax Regimes Across Countries
+Country Minimum Maximum Minimum 2019 per World Bank 2019 GNI
+tax rate (%) tax rate (%) threshold level capita GNI classification (*) per capita,
+($_ppp) (PPP $) (current US$)
+United States 10.0 40.0 9275 65880 HI 65760
+Sweden 20.0 25.0 56107 57300 HI 55840
+Australia 19.0 45.0 12641 51560 HI 54910
+Netherlands 8.0 52.0 25042 59890 HI 53200
+Canada 15.0 33.0 9084 50810 HI 46370
+United Kingdom 20.0 45.0 18373 48040 HI 42370
+Japan 5.0 45.0 3815 44780 HI 41690
+South Korea 6.0 42.0 1710 43430 HI 33720
+China 3.0 45.0 12000 16740 UMI 10410
+Brazil 7.5 27.5 10139 14850 UMI 9130
+South Africa 18.0 45.0 12418 12630 UMI 6040
+Indonesia 5.0 30.0 12886 11930 UMI 4050
+Sri Lanka 4.0 24.0 9931 13230 LMI 4020
+India 5.0 30.0 11788 6960 LMI 2130
+Zambia 25.0 37.5 8621 3580 LMI 1450
+Source: Our calculations based on different country sources, IMF, OECD, World Bank
+Note: Countries like US and Canada have provincial taxes, which are not reflected in this table.
+(*) World Bank country classification is based on 2019 GNI per capita in current US$, Atlas method. Low income
+(LI): < US$1,036; Lower-middle income (LMI): US$1,036 - US$4,045; Upper-middle income (UMI): US$4,046 -
+US$12,535; High income (HI): > US$12,535
+5.17 When India has opted for moderate tax rates and thresholds at the entry levels of income,
+it is important that the tax base is properly captured. Annex 5.2 makes it clear that there is
+significant room for improvement in the tax base. This is where the recommendations of the Tax
+Administration Reform Commission (TARC), 2013, become all the more relevant. The major
+recommendations relate to:
+(i) Reviewing various exemptions under different tax laws.
+(ii) Expanding coverage of provisions relating to tax deduction at source (TDS) and
+tax collection at source (TCS) to more transactions, which leave behind an audit trail. This
+will act as a deterrent to tax evasion and aid in the collection of tax at the transaction stage
+itself.
+(iii) Closer co-ordination between agencies involved in TDS and TCS, filers of
+135

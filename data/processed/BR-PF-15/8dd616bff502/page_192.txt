@@ -1,0 +1,36 @@
+Sixteenth Finance Commission
+where there is a decrease, change is taken as zero. The Technical Note at the end of the chapter
+provides the precise formula. We assign a weight of 10 per cent to this variable.
+Per capita GSDP Distance
+8.91 This is now a well‑accepted and dominant equity variable. It is aimed at correcting for
+differences in fiscal capacity among States by devolving more to States with lower per capita
+GSDP. Most of the past FCs have set the benchmark per capita GSDP, from which the distance
+is measured, equal to the average per capita GSDP of the State with the highest average per
+capita GSDP among the large States. For this purpose, we use average per capita income of
+states over 2018‑19 to 2023‑24 excluding the COVID‑19 year of 2020‑21.
+8.92 Shifts in per capita GSDPs in recent years have resulted in very narrow gaps among the
+per capita GSDPs of the three States with the highest per capita GSDPs (excluding Goa and
+Sikkim). Therefore, the per capita GSDP distances of the States with the second and third
+highest per capita GSDPs from the one with the highest per capita GSDP become too small to
+result in any meaningful devolutions to them.
+8.93 To get around this problem, we take the average of the top three highest per capita GSDP
+States as the benchmark per capita GSDP. For this purpose, we exclude Goa and Sikkim. We
+then take the distance of the per capita GSDP of the State with the fourth‑highest per capita
+GSDP from this average. We assign this same distance to all four highest per capita GSDP
+States, as well as Goa and Sikkim. For the remaining States, we take the distance of their per
+capita GSDP from the average of the top three. Per capita devolution is set in proportion to the
+per‑capita‑GSDP‑distance so calculated. To convert this devolution into total, we multiply by
+the 2011 population of the State. The Technical Note at the end of the chapter provides the
+precise formula employed to calculate each State’s devolution. We assign a weight of 42.5 per
+cent to this criterion.
+8.94 Following the past FCs, we eschew introducing the indicators of equity, such as
+multidimensional poverty and shares of SC and ST populations in the total population, as criteria
+for devolution. The Commission concluded that per capita GSDP is a more direct measure of
+the State’s fiscal capacity to provide public services. It also correlates positively with other
+measures of equity and therefore indirectly captures them.
+Contribution to GDP
+8.95 This is a new criterion we are introducing in recognition of India’s growth ambition.
+Many States have also recommended to us the inclusion of this criterion. We define the State’s
+contribution to GDP by the share of its GSDP in all States’ GSDP. In implementing the criterion,
+however, we found that these contributions are dispersed very widely, especially at the top and
+170

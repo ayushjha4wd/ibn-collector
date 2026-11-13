@@ -1,0 +1,38 @@
+Chapter 10: Local Body Grants
+10.86 For State‑level inter se allocation, we assign a 90 per cent weight to the projected rural
+population for 20267 and 10 per cent to the total area of the State. The State wise inter se shares
+are in Annexure 10.3.
+10.87 Within each State, the distribution of grants to duly constituted RLBs of all tiers may be
+undertaken as per the latest accepted recommendations of the respective SFC. In the absence of
+the SFC recommendations, the tier‑wise distribution to RLBs may be in conformity with the
+percentages recommended in Table 10.6. The high share of Gram Panchayats has been allocated
+keeping in view their greater role and responsibilities with respect to the delivery of civic
+services.
+Table 10.6 Inter‑tier RLB Grant Sharing Within a State
+Number of Tiers GP BP DP
+Three 80 per cent 10 per cent 10 per cent
+Two 90 per cent - 10 per cent
+One 100 per cent - -
+10.88 Within a particular tier of RLB, the distribution may be as per the latest accepted SFC
+recommendations or, in the absence of SFC recommendations, based on population and area in
+the ratio 90:10. The basic grant accrues during all five years of the award period, the RLB
+performance grant accrues from the third to the fifth year and the State performance grant from
+the second to the fifth year. State‑wise shares and volumes of basic and performance
+components, divided in the ratio of 80:20, are given in Annexures 10.5, 10.6 and 10.8
+respectively. As explained later, conditionalities apply to the performance components of the
+grant.
+Allocation of the ULB Grant to States and Further Down
+10.89 In case of ULB grant, we first considered the State‑level inter se allocation of the basic
+and performance components of the grant. We will return to the allocation of the Special
+Infrastructure and Urbanization Premium grants later. For the allocation of the basic plus
+performance components among the States, we assign a weight of 90 per cent to the 2026 urban
+population and a 10 per cent weight to an index based on own‑source revenue (OSR). For the
+latter, we first calculate the ratio of the sum of OSRs across all ULBs within each State for the
+latest available 3 years, 2021‑22 to 2023‑24,8 to the sum of GSVA from secondary and tertiary
+sectors for the same three years9. We then set the share of a State within the 10 per cent of the
+total ULB grant equal to its population weighted by this ratio divided by the sum of the
+7 Population Projections for India and States 2011-2036, July 2020, as per Report of the Technical Group on Population
+Projections of Ministry of Health and Family Welfare.
+8 Data provided by the urban local bodies to FC-16 on cityfinance portal
+9 Provided by MoSPI
+215

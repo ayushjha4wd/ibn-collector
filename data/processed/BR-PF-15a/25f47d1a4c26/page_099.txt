@@ -1,0 +1,23 @@
+GUJARAT GJ
+GJ-5
+GJ-4.C: Outstanding Debt as % of GSDP GJ-4.D: Committed Expenditure as a % of Revenue
+Expenditure
+Note: Committed expenditure includes salaries, interest
+payments, and pensions
+GJ-4.E: OTR as % of GSDP GJ-4.F: NTR as % of GSDP
+GJ-4.G: Capital Expenditure to GSDP Ratio GJ-4.H: Key Fiscal Indicators—State vs GS
+Fiscal indicators (2018–19) State GS
+Per Capita GSDP in Rs per annum 2,22,487 1,41,099
+Indicators as a percentage of GSDP
+TRR 9.1 13.4
+OTR 5.3 6.4
+NTR 0.9 1.1
+TE 10.8 16.1
+ES 2.1 3.1
+SS 3.6 5.4
+GS 3.1 4.7
+Committed Expenditure 3.3 5.8
+Capital Expenditure 2.0 2.5
+FD 1.8 2.5
+RD –0.2 0.2
+OD 19.0 25.0

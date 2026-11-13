@@ -1,0 +1,41 @@
+Chart 5.4: Debt Service vs Debt Receipts (Rs. Crore)
+60000
+50000
+40000
+30000
+20000
+10000
+0
+2012- 2013- 2014- 2015- 2016- 2017- 2018- 2019- 2020- 2021- 2022-
+13 14 15 16 17 18 19 20 21 22 23
+Debt Repayment Net Interest Paid Debt Receipt
+5.3 Composition of Outstanding Public Debt
+Table 5.3 shows the composition of Bihar's outstanding public debt during the period 2012-23. The
+major part, 85.7%, of this outstanding debt at the end of 2022-23 was due to the internal loans raised
+by the state government and 14.3% was due to loans from the central government. The composition
+of outstanding debt has remained more or less the same over these years, with no significant structural
+changes over the years, except in regard to special securities issued to NSSF consequent to
+implementation of the 14th Finance Commission recommendations. The share of Central loans
+dropped in between but has risen after the covid years, almost attaining its previous level of around
+15%.
+Table 5.3: Composition of Outstanding Public Debt of Bihar Government (%)
+2012- 2013- 2014- 2015- 2016- 2017- 2018- 2019- 2020- 2021- 2022-
+13 14 15 16 17 18 19 20 21 22 23
+Internal Debt 85 86.6 88.3 90.0 91.0 91.1 90.7 91.8 90.0 87.5 85.7
+Market Loans 45.1 48.7 50.9 54.2 61.2 64.4 67.2 72.5 74.5 74.9 75.9
+Bonds 1.1 0.7 0.3 1.8 2.2 2.0 1.9 1.6 1.3 1.1 0.8
+Loans from
+Financial 5.4 6.4 6.4 6.0 5.7 5.9 6.0 5.8 5.2 4.8 4.0
+Institutions
+Special Securities
+33.3 30.7 30.7 28.1 21.9 18.7 15.6 12.0 8.9 6.7 5.0
+Issued to NSSF
+Others 0 0 0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Central Loans 15 13.4 11.7 9.9 9.0 8.9 9.3 8.2 10.0 12.5 14.3
+Non-Plan loans 0.1 0.1 0.1 0.1 0.1 0.0 0.0 0.0 0.0 0.0 0.0
+Loans for State
+14.9 13.3 11.6 9.8 8.9 0.2 0.2 0.1 0.1 0.1 0.1
+Plan Schemes
+Others 0.1 0.1 0.1 0.1 0.0 8.7 9.2 8.0 9.9 12.4 14.2
+Total Public Debt 100 100 100 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+142

@@ -1,0 +1,16 @@
+ArunAchAl PrAdesh ArP
+ArP-3
+ArP-2.E: Poverty Reduction (percentage points) between FY2005 and FY2012
+Note: Positive values on Y axis denote reduction in poverty in FY2012 over FY2005
+ArP-3.A: Persons (’000s) per Allopathic and AYuSh Doctor
+Source: GOI (2019), National Health Profile 2019, 14th Issue, Central Bureau of Health Intelligence, Directorate General of
+Health Services, Ministry of Health and Family Welfare, Government of India.
+ArP-3.B: Persons (’000s) per Sub-centre/PhC/ChC
+health
+Infrastructure
+Persons ('000s) per Sub-centre Persons ('000s) per PHC Persons ('000s) per CHCs
+Persons ('000s) per Sub-centre Persons ('000s) per PHC Persons ('000s) per CHCs
+Source: GOI (2019), National Health Profile 2019, 14th Issue, Central Bureau of Health Intelligence, Directorate General of
+Health Services, Ministry of Health and Family Welfare, Government of India.
+Persons ('000s) per Nurse Persons ('000s) per Pharmacist
+Persons ('000s) per Nurse Persons ('000s) per Pharmacist

@@ -1,0 +1,70 @@
+Chapter 9: Assessment of State Finances and Grants-in-Aid
+Figure 9.7 Relationship between RD/GSDP (percentage) with per capita Salary and
+Pension Expenditure for Non‑NEH States (2023‑2024)
+5
+PB
+4
+3 AP
+RJ
+2 WB CH KL
+TN 1 HR
+KA MH
+0 TS
+BR
+-1 MP
+UP
+GJ -2
+JH
+-3
+-4 OD
+-5
+4,000 6,000 8,000 10,000 12,000
+9.42 The base year salary expenditure of States has been calculated by first adjusting the
+actuals of 2023‑24 by taking its average with 2021‑22 and 2022‑23 expenditures compounded
+at the TGR from 2011‑12 to 2023‑24 and then applying the TGR to the adjusted actuals of
+2023‑24. For States having high salary expenditure, that is, where salary expenditure exceeds
+60 per cent of the TRE net of interest and pension in the case of NEH States and 45 per cent in
+the case of non‑NEH States, the salary expenditures during the award period has been projected
+at a growth of 5 per cent on the base year’s salary expenditure. For the remaining States, it has
+been projected to grow at 9 per cent. Pension payments have been projected to grow at State
+specific TGRs over the base year pension expenditure, calculated the same way as done for
+salaries.
+9.43 Interest payments for each year are then calculated as a product of the effective interest
+rate and the average debt stock projected for each year. The State‑wise effective interest rate has
+been calculated by dividing the interest payments for 2023‑24, for which the latest accounts are
+available, by the average debt stock of 2023‑24, estimated as the average of the debt stock at the
+beginning and end of 2023‑24. The debt stock from 2024‑25 to the end of the award period is
+calculated by allowing additional net borrowing of 3 per cent of projected GSDP per annum for
+each State.
+9.44 However, the committed expenditure is not the only cause of revenue deficit of the
+States. We carried out a detailed analysis of the discretionary expenditures of the States,
+especially that on subsidies and transfers. We present a comprehensive analysis of the same in
+Chapter 14. As observed in that chapter, there has been an acceleration in expenditure on
+subsidies and cash transfers by the State Governments, especially in the recent years. Our
+analysis shows that the expenditure on subsidies has increased from about ₹4 lakh crore in
+2018‑19 to almost ₹10 lakh crore in 2025‑26 BE. While power subsidies have been a constant
+burden on State finances and we deal with them in greater detail in Chapter 13, recent increase
+in subsidies and transfers is driven by unconditional cash transfers being given by States. These
+189
+)%(PDSG/DR
+5 PB
+4
+AP
+RJ
+3 WBCH KL TN
+2 HR
+1 KA BR MH
+0
+MP
+UP TS
+-1 GJ
+JH
+-2
+-3 OD
+-4
+-5
+- 2,000 4,000 6,000 8,000
+Per capita Salary Expenditure (₹)
+)%(PDSG/DR
+(cid:51)er capita (cid:51)ension Expenditure (₹)
+Source: Finance Accounts of States, Budget documents; population projections by MoH&FW

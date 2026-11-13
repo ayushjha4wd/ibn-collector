@@ -1,0 +1,41 @@
+Chapter 10 : Performance-based Incentives and Grants
+assessed before States are rewarded. We further recommend that for States that achieve the
+threshold level in terms of performance, the extra borrowing can be used for capital expenditure
+to upgrade distribution infrastructure.
+10.104 We had extensive discussions with a large number of stakeholders and received numerous
+suggestions on the incentive system that could be set in place to align the interests of the State
+Government with those of the distribution utilities. Some of the indicators suggested included
+implementation of corporate governance practices in DISCOMs, implementation of a public
+private partnership model, procurement of power through tariff-based competitive bidding,
+smart metering with prepaid facility, commitment to fulfill renewable purchase obligations and
+switch to DBT for the transfer of subsidy to agricultural and other consumers.
+10.105 In the course of our deliberations, we noted that the absence of up-to-date audited
+accounts is a problem in some of the DISCOMs. Most of them are registered under the
+Companies Act, 2013 and are required to file their consolidated financial statements as per a
+mandated schedule. Unless and until proper audited accounts are available, the financial
+implications of performance cannot be measured. This will make the incentive structure
+potentially susceptible to gaming. We, therefore, recommend as an entry level condition, that for
+a State to become eligible for this extra borrowing, it should ensure and certify that all DISCOMs
+in the State have up-to-date audited accounts. This implies that in determining the eligibility of a
+State in year (t), all the DISCOMs in the State should have filed their consolidated financial
+statements for the financial year (t-1) as per the statutory requirements. Unless this condition is
+fulfilled by all the DISCOMs of the State for the accounts of the previous financial year, the State
+will not be eligible for the additional borrowing. This entry level condition will only apply for the
+borrowings in the years from 2022-23 onwards. We expect that this entry level condition will
+instil discipline and actual performance will get captured to accurately reflect the ACS-ARR gap.
+10.106 In our final choice of indicators, we have restricted the number of key indicators that will
+reflect the outcome of the reforms to four. In order to maintain continuity, we chose to continue
+with all the three indicators that have been mandated by the Ministry of Finance for the year 2020-
+21: (a) reduction in AT&C losses; (b) reduction in ACS-ARR gaps; (c) reduction in payment of
+cash subsidy by adopting DBT. These had also been identified by us in our first report. We have
+expanded the third indicator to include the reduction in tariff subsidy as a percentage of revenue
+from the sale of power. This will measure the extent to which State Governments are providing
+subsidy to the power sector.
+10.107 The objective of reform should be to ensure a sustained increase in electricity
+consumption in the country, with DISCOMs in a position to improve their off-take of power. The
+three performance indicators address this core concern. Underlying the three indicators should be
+an incentive to increase the sale of metered energy, for which revenue has actually been collected.
+Non metered supply poses a challenge for accurate measurement and raises the possibility of
+including figures that do not actually represent increased energy off take but merely a juggling of
+transmission and distribution (T&D) losses. For DBT to succeed, the consumption of electricity
+319

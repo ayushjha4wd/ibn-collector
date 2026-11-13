@@ -1,0 +1,45 @@
+Sixteenth Finance Commission
+45.0 5.8
+40.0 5.6
+35.0
+5.4
+30.0
+5.2
+25.0
+5.0
+20.0
+4.8
+15.0
+4.6
+10.0
+5.0 4.4
+0.0 4.2
+82
+ERT
+fo
+egatnecreP
+PDG
+fo
+egatnecreP
+Figure 5.2 Components of Committed Expenditure of States
+(percentage of GDP)
+Interest Payments Salaries Pension
+2023-24 1.6 3.6 1.6
+2022-23 1.7 3.8 1.7
+2021-22 1.8 4.0 1.7
+2020-21 1.9 4.1 1.8
+2019-20 1.7 4.0 1.7
+2018-19 1.6 3.8 1.6
+2017-18 1.7 3.9 1.6
+2016-17 1.6 3.9 1.4
+2015-16 1.5 4.0 1.5
+2014-15 1.5 4.1 1.4
+2013-14 1.5 4.0 1.4
+2012-13 1.5 4.1 1.4
+2011-12 1.5 4.2 1.4
+- 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0
+Source: States’ Finance Accounts, States’ Budgets, CAG Audit Reports on State Finances
+Figure 5.3 Social Sector Revenue Expenditure (percentage of GDP and
+Total Revenue Expenditure)
+SSRE/TRE SSRE/GDP (RHS)
+Source: States’ Finance Accounts

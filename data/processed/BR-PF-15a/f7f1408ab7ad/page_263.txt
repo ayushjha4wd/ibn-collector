@@ -1,0 +1,97 @@
+Chapter 4 : Annex
+Annex: 4.5
+(para 4.60)
+Normatively Assessed Annual Growth Rate of Comparable GSDP
+(Per cent)
+Goa 387 GS
+group
+Kerala 167
+(a)
+Haryana 147
+Andhra Pradesh 134 GS
+group
+Tamil Nadu 133
+(b)
+Telangana 131
+Karnataka 128 GS
+group
+Punjab 124
+(c)
+Chhattisgarh 116
+Maharashtra 115
+Rajasthan 113
+Gujarat 103
+Odisha 99 GS
+group
+Madhya Pradesh 92
+(d)
+West Bengal 83
+Jharkhand 75 GS
+group
+Uttar Pradesh 70
+(e)
+Bihar 53
+Arunachal Pradesh 280 NEH
+group
+Sikkim 273
+(a)
+Mizoram 233
+Nagaland 193
+Himachal Pradesh 149
+Manipur 109 NEH
+group
+Tripura 108
+(c)
+Uttarakhand 106
+Meghalaya 104
+Assam 63 NEH
+group
+(e)
+All States
+General States
+NEH States
+GDP
+251
+setatS
+HEN
+-0.5 15.0 12.0 12.5 13.0 13.0
+-0.5 15.0 12.0 12.5 13.0 13.0
+-0.5 15.0 12.0 12.5 13.0 13.0
+-0.5 14.5 11.5 12.0 12.5 12.5
+-2.0 14.5 11.5 12.0 12.5 12.5
+-2.0 14.5 11.5 12.0 12.5 12.5
+-8.8 15.3 10.8 11.9 12.4 13.0
+-2.8 11.1 7.8 8.6 9.0 9.3
+-3.6 11.1 7.8 8.6 9.0 9.3
+-10.3 14.2 8.0 9.7 10.3 11.6
+-4.9 12.7 8.8 9.7 10.3 10.6
+-11.8 15.3 9.5 11.9 12.4 13.0
+-5.3 11.1 7.8 8.6 9.0 9.3
+-3.6 11.1 7.8 8.6 9.0 9.3
+-3.6 11.1 7.8 8.6 9.0 9.3
+-9.0 12.0 8.0 9.0 9.5 10.0
+-9.0 12.0 8.0 9.0 9.5 10.0
+-9.0 12.0 8.0 9.0 9.5 10.0
+-0.5 14.5 11.5 12.0 12.5 12.5
+-0.5 14.5 11.5 12.0 12.5 12.5
+-0.5 14.5 11.5 12.0 12.5 12.5
+-0.5 14.5 11.5 12.0 12.5 12.5
+-0.5 14.5 11.5 12.0 12.5 12.5
+-0.5 12.4 8.6 9.4 10.1 10.4
+-2.5 15.6 10.4 11.5 12.4 12.9
+-9.1 12.4 8.6 9.4 10.1 10.4
+-3.6 11.1 8.6 9.4 10.1 10.4
+-9.0 12.0 8.0 9.0 9.5 10.0
+-5.9 13.5 9.5 10.5 11.0 11.5
+-5.9 13.5 9.5 10.5 11.0 11.5
+-5.8 13.0 9.4 10.2 10.8 11.1
+-6.0 13.5 9.5 10.5 11.0 11.5
+yrogetaC
+States Per capita Groups
+revenue at
+expenditure second 2020- 2021- 2022- 2023- 2024- 2025-
+index to stage 21 22 23 24 25 26
+group
+average
+setatS
+lareneG

@@ -1,0 +1,25 @@
+Chapter 5 : Resource Mobilisation
+i. Out of two monthly returns that are required to be filed by the tax-payers, GSTR-1
+(detailed monthly return on outward supplies, matched by corresponding invoices, which
+facilitates invoice matching) and GSTR-3B, the compliance in filing of GSTR-1 has
+always been less than the filing of the self-assessed and summary GSTR-3B, through
+which taxes are paid (Figure 5.3).
+Figure 5.3: GST Returns filing as Per cent of Total Eligible Tax Payers
+Source: GSTN data as on 24 September 2020
+ii. The problem with the over-reliance on GSTR 3B has been that input tax credit
+(ITC) claims cannot be verified from this. The aggregate data on GSTR 3B also leads to
+misleading inferences like the following:
+(a) The taxable outward supplies as per the GSTR 3B return data were as high
+as Rs. 652 lakh crore in 2018-19. This can be compared to the total value of output
+of Rs. 348 lakh crore in the economy as per the national accounts, which should
+roughly be the upper limit for taxable turnover. Thus, the reporting of taxable
+turnover in GST returns on the aggregate is not consistent with the comparable
+aggregate figures from the national accounts. There is no validation within the
+system to establish consistency between taxable value and tax paid as per GSTR
+3B.
+(b) If taxable outward supplies as per the GSTR 3B are to hold good, then the
+effective GST rate, as per GSTR 3B, turns out to be 6.1 per cent, which is much
+lower than the effective rate derived from GSTR1.
+iii. Delays and non-compliance in filing returns, especially of the comprehensive
+GSTR1, makes it difficult to monitor tax evasion on a regular basis. Sample-checks of
+129

@@ -1,0 +1,34 @@
+Chapter 7: Annexure
+Item (cid:54)ources
+FC RBI Bulletin, various issues and Data Base on India Economy (DBIE) till 2022-
+Devolution 23. 2023-24 data from Union Budget. Detailed sources are mentioned in the
+sheet 'RBI Bulletin references'.
+FC Grants 1952-53 to 1981-82: FC-8 Report, Appendix 4
+1982-83 to 2001-02: FC-12 Report, Annexure 2.1 This is the only source for
+FC grants during these years and provides the grants figure as a proportion of
+Gross Revenue Resources of the center. The corresponding rupee figure,
+reported in Column C of this table, is obtained by multiplying this proportion
+by the Gross Revenue Resources as reported by the RBI in DBIE.
+2002-03 to 2015-16: Table 2.1 of successive IPFS reports (Grants under
+substantive provision of Article 275(1)). These figures are also available from
+RBI but they exhibit large differences with corresponding figures in FC-12,
+Annexure 2.1 and those in IPFS for the overlapping years across the three
+sources. In contrast, figures from IPFS and FC-12, Annexure 2.1 for available
+overlapping years match.
+2016-17 to 2023-24: Statement 18 of Expenditure Profile of Union Budget as
+IPFS reports were discontinued
+Total Grants 1952-53 to 1989-90: RBI Bulletins of various years. The detailed references are
+provided in the sheet 'RBI Bulletin references'.
+1990-91 to 2022-23: RBI Study on State Finances 2014, 2023, 2024. Appendix
+2.
+The data for 2023-24 is taken from Statement 18 of Union Budget
+Non-FC Calculated as difference between total grants and FC grants
+Grants
+GRR Database on Indian Economy, RBI. The figure is derived as a sum of Gross Tax
+Revenue and Gross Non-tax Revenue taken from HBS Table 93 (Central
+Government Receipts- Major components) of DBIE. Since the data on non-tax
+revenue is available only from 1970-71 from DBIE, the GRR figures for the
+previous years are not available
+Net Proceeds Data on divisible pool is taken from the CAG certificates for respective years
+GDP Table 1.6 of Economic Survey 2024-25
+35

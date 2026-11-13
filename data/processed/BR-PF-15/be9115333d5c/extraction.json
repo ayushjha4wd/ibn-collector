@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Salary_Data.xlsx",
+  "raw_sha256": "be9115333d5c1e8b7a880f0cab463f2dcd127002f8a73bb69b0c702761a05d84",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Salary%20Data.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:26+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/be9115333d5c/sheets/Sheet1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

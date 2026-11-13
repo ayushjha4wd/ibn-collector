@@ -1,0 +1,26 @@
+Chapter 5 : Annex
+Annex: 5.1
+(para 5.8)
+Need to Establish Consistency Between Databases
+It is important that the different macro databases are symmetrically conversant with each other.
+The lack of such correspondence precludes consistency checks, analysis and cross-fertilisation of
+databases.
+To take an instance, from the corporate income tax return, ITR6, filed by companies for the
+assessment year 2019-20, it emerges that the total revenue of all companies taken together was
+about Rs. 219 lakh crore, while the total indirect taxes paid on their outward supplies was only
+about Rs. 1.75 lakh crore. This, prima facie, suggests (rather simplistically, because there may be
+some items in total revenue that may not attract indirect taxes) that the average output tax rate is
+0.8 per cent. The total GST paid by all companies, as per ITR6, was only Rs. 0.28 lakh crore
+(Central GST plus State GST). The total taxes on inputs paid were Rs. 1.29 lakh crore, out of
+which GST paid was Rs. 0.38 lakh crore. As against this, as per the data from GSTR-3B, the gross
+GST liability on taxable supplies of corporate and non-corporate entities taken together, was Rs.
+40 lakh crore and the net tax realisation to the general government was close to Rs. 12 lakh crore
+in financial year 2018-19 (assessment year 2019-20, in the case corporate tax). Even while
+discounting the fact that non-corporate entities also contribute significantly to GST, the
+calculations above indicate that the GST database and income tax database are not totally
+compatible at present.
+What happens is that, in most cases, indirect taxes paid by companies are accounted directly in
+their balance sheets and not routed through their profit and loss statements. Therefore, indirect tax
+payment reported in the corporate tax returns do not match with actual collections realised by the
+general government. Such deficiencies in the tax information system need to be removed.
+265

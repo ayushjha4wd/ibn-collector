@@ -1,0 +1,43 @@
+progress in power supply reliability. The peak power demand increased by 49% over this period and
+energy availability by of 54%.
+Table 7.10: Improvement in Power Scenario in Bihar (2017-18 to 2022-23)
+Parameters 2017-18 2018-19 2019-20 2020-21 2021-22 2022-23
+Peak Demand
+Projection (MW) 4965 5300 5900 5995 6475 6880
+Met (MW) 4535 5139 5891 5932 6627 6738
+Peak Deficit/ Surplus
+Deficit/ Surplus (MW) (-/+) -430 -161 -9 -63 152 -142
+Percentage -9.4 -3 -0.1 -1.05 2.3 -2.06
+Energy
+Requirement Projection (MU) 30095 32257 32300 34171 36245 41102
+Availability (MU) 26788 29472 31540 34018 36245 41102
+Energy Deficit/ Surplus (MU) (-/+) -3307 -2785 -760 -153 -388 +4034
+Energy Deficit/ Surplus (%) (-/+) -12.3 -8.6 -2.4 -0.45 -1.1 +9.8
+Per Capita Consumption (kwh) 280 311 332 316 329 -
+Source: Economic Survey of the Govt. of Bihar 2023-24
+During this period, Bihar also focused on addressing its power generation capacity, particularly in the
+face of challenges inherited post the separation of Jharkhand. The state aimed to increase its capacity
+through various sources, including its own generating stations, central generating stations, and power
+purchase agreements. By 2022-23, Bihar had successfully managed to bring down its energy deficit
+and even achieved a surplus of 9.8% in energy availability, demonstrating the effectiveness of its power
+policies. Overall, the state’s efforts from 2017-18 to 2022-23 improved the power scenario due to
+improvements in both conventional and non-conventional sources of supply. The state aimed to secure
+a stable and surplus power supply by expanding its installed capacity and improving its energy
+availability at the state periphery. The year-wise and source-wise capacity expansion from 2021-22 to
+2022-23 is shown in Table 7.11.
+Table 7.11: Year-Wise and Source-Wise Details of Capacity Expansion (2021-22 to 2025-26)
+Sources SGS Small SGS Share in Central Generating Station (CGS) Total
+Hydro NCE/RNES Thermal Hydro IPP Projects NCE/RNES NCE/RNES
+(Solar etc.) (Case 1) (Solar etc.) (Wind etc.)
+2021-22 54 - 4675 754 688 890 724 7785
+2022-23 54 242 6260 771 488 910 699 9424
+Cumulative Proposed Capacity
+2023-24 54 692 6666 771 488 1390 699 10760
+2024-25 54 742 7908 771 488 2200 699 12862
+2025-26 54 742 7908 771 488 2200 699 12862
+Source: Economic Survey of the Govt. of Bihar 2023-24
+The data from Table 7.12 indicates a steady and significant increase in both power capacity and energy
+availability in Bihar from 2021-22 to 2025-26. The total installed capacity is projected to grow from
+7785 MW in 2021-22 to 12,862 MW by 2024-25, an increase of over 65% in four years. The energy
+availability was expected to grow growth by 68% over this period.
+189

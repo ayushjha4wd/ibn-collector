@@ -1,0 +1,38 @@
+Chapter 7 : Empowering Local Governments
+respective GDPs. Several factors lead to low property tax revenue in India: undervaluation,
+incomplete registers, policy inadequacy and ineffective administration. Another big challenge
+for property tax administration is the lack of accurate property tax records with the urban local
+bodies. Some of the best practices from States that can serve as a role model for other States to
+boost property taxation revenue are listed in Box 7.2.
+Box 7.2: Best Practices in Property Taxation in States
+Karnataka: AASTHI project for GIS-based property tax system
+a. Property tax valuation was changed from annual rental value assessment to a capital value method.
+b. The Revenue Departments of all the urban local bodies were computerised and a GIS-based
+property tax information system put in place.
+c. Field surveys using digitised ward maps with individual properties and unique property ID were
+conducted in over 1.5 million properties.
+d. Cadastral-level GIS maps were generated for over 200,000 square km, covering over 3.8 million
+properties in the State.
+Reform Result
+a. 1.2 million previously unassessed properties (42 per cent of the total) were brought into the tax net.
+b. Revenue increase by 30–40 per cent.
+c. Dramatic decline in citizens' complaints of calculation errors owing to the online calculations.
+d. Automation resulting in real-time data on collection of property tax by the urban local body.
+Ranchi: Optimisation of Tax Collection
+In 2014, the Ranchi Nagar Nigam entered into an agreement with a private agency for providing
+managed services for collection of tax and other charges from properties within the jurisdiction of the
+urban local body through a competitive bid process.
+a. Property tax demand notice was generated in real time using hand-held devices linked with the back
+office and banking records along with door-to-door collection through cash/cheque/demand draft
+from the assessees.
+b. An online helpline, chat, SMS, and telephonic services were set up for grievance redressal.
+Reform Result
+Property tax collection in Ranchi
+Nagar Nigam since outsourcing
+Within three years, there was a
+four-fold increase in property tax
+collection in Ranchi from Rs. 9
+crore in 2014 to Rs. 43 crore in
+2017.
+Source: Ranchi Nagar Nigam.
+185

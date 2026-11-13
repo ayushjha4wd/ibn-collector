@@ -1,0 +1,15 @@
+Chapter 7 : Annex
+STEP-5 ULB grants within each State is further divided between Million-Plus and other than Million-Plus cities based
+on their respective population.
+Population in million
+Million-Plus Cities Other than Total
+Population Million-Plus population
+14.03 (A ) 32.1(B) 46.1(C)
+Grants in Rs. crore
+Uttar Pradesh 2021-22 2022-23 2023-24 2024-25 2025-26 Total
+Total ULB Grants(D) 3550 3677 3888 4118 4199 19432
+Million-Plus # 1080 1119 1183 1253 1278 5913
+Other than Million plus## 2470 2558 2705 2865 2921 13519
+#A/C*D
+## B/C*D
+279

@@ -1,0 +1,34 @@
+Sixteenth Finance Commission
+ap = adjusted inter-se population of State i, where 𝑎𝑎𝑎𝑎 =𝑐𝑐𝑐𝑐𝑖𝑖𝑐𝑐𝑖𝑖𝑐𝑐𝑐𝑐� 𝑝𝑝𝑖𝑖 ×25�
+i 𝑖𝑖 𝑝𝑝𝑚𝑚𝑚𝑚𝑚𝑚
+p = raw population value of State i
+i
+p = maximum raw population value
+max
+v =normalized per-capita income of State i, 𝑣𝑣 =1+0.5×� 𝑃𝑃𝑃𝑃𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚−𝑃𝑃𝑃𝑃𝐼𝐼𝑖𝑖 �
+i 𝑖𝑖 𝑃𝑃𝑃𝑃𝐼𝐼𝑚𝑚𝑚𝑚𝑚𝑚−𝑃𝑃𝑃𝑃𝐼𝐼𝑚𝑚𝑖𝑖𝑚𝑚
+PCI = Per-Capita Income of State i
+i
+PCI =Maximum Per capita Income of State
+max
+PCI =Minimum Per capita Income of State
+min
+H =Composite Hazard Score of State i
+i
+E = Exposure Score of State i
+i
+V =Vulnerability Score of State i
+i
+DRI = DRI of State i
+i
+Final Allocation for State i = 204401�
+0.7∗𝐴𝐴𝐴𝐴𝑖𝑖+ 0.3∗𝐷𝐷𝐷𝐷𝐼𝐼𝑖𝑖�
+∑𝐴𝐴𝐴𝐴 ∑𝐷𝐷𝐷𝐷𝐼𝐼
+where,
+AE = Average Expenditure of State
+i
+∑𝑀𝑀𝐴𝐴 Sum of Average Expenditure of all States
+=
+∑𝐷𝐷𝐷𝐷𝐼𝐼 Sum of DRI of all States
+=
+58

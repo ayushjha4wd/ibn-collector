@@ -1,0 +1,22 @@
+. regress lntotalnontaxrevenue time
+Source SS df MS Number of obs = 22
+F(1, 20) = 301.77
+Model 18.8472489 1 18.8472489 Prob > F = 0.0000
+Residual 1.24913161 20 .06245658 R-squared = 0.9378
+Adj R-squared = 0.9347
+Total 20.0963805 21 .956970501 Root MSE = .24991
+lntotalnon~e Coefficient Std. err. t P>|t| [95% conf. interval]
+time .1458914 .0083984 17.37 0.000 .1283727 .1634101
+_cons 5.467679 .1103035 49.57 0.000 5.23759 5.697768
+.
+Total Non-Tax Revenue (Rs Crore)
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+Total Non-Tax Revenue Exponential Projection Linear Projection
+78

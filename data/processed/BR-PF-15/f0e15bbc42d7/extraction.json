@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Horizontal_Devolution.xlsx",
+  "raw_sha256": "f0e15bbc42d7620c3dd07792179fa1bf49da872c2599f73e7ade33af52435e07",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Horizontal%20Devolution.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:23+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/f0e15bbc42d7/sheets/Sheet1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

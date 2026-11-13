@@ -1,0 +1,34 @@
+Fifteenth Finance Commission
+Annex 10.3
+(para 10.63)
+Methodology for Estimating Performance-based Reward
+The total amount of performance-based grant allocated for each State is presented in Annex 10.4.
+Each of the four performance indicators will be allocated equal share (25 per cent) in the total
+performance grant. The actual grant will be based on compliance and achievements in respect of
+four parameters presented below.
+1. Model agricultural land lease law
+If a State enacts and notifies a model agricultural land lease law and undertakes modernisation of
+land records, it gets 25 per cent of the total performance based grant for agriculture once in the
+five years of the award period as each of the four parameters is given equal score.
+2. Sustainable and efficient use of water
+This goal will be based on change in groundwater table in year T as compared to the average of
+preceding decade. This will capture the effect of power tariff, crop pattern, irrigation technology
+and water conservation measures. The data on pre monsoon and post monsoon groundwater level
+in all the States is compiled by the Central Ground Water Board (CGWB) based on the water level
+in observation wells of the Board and State Governments. The CGWB also compiles and reports
+data on the distribution of observation wells in each State, according to the change in the water
+table. States should be given one year's lead time to take the required steps to earn the
+performance incentive. Thus, the total amount of incentive earmarked for sustainable water use
+to a State should be distributed over four years of our award period from 2022-23 to 2025-26 in
+equal amounts. Based on this, the following criterion is used for the distribution of incentive to
+States:
+PISWUt = (1/4th of TPISWU)*(1–Share of wells which showed decline in water table, pre
+monsoon, in year t compared to mean level of previous decade).
+Where: PISWUt is performance incentive for sustainable water use in year t=2022-23
+to 2025-26.
+TPISWU is total performance incentive for sustainable water use for the State.
+3. Promotion of agricultural exports
+Export of agricultural commodities is assigned total weight of 25 per cent. This will be linked
+to doubling of agricultural exports during the five-year award period, taking 2019-20 as
+the base year.
+338

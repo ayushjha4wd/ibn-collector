@@ -65,6 +65,9 @@ def extract_pdf(src: Path, out: Path) -> list[str]:
                 with open(t, "w", newline="", encoding="utf-8") as f:
                     csv.writer(f).writerows([[("" if c is None else c) for c in row] for row in table])
                 files.append(t)
+            # pdfplumber keeps every parsed page in memory; release each one so a
+            # 1,000-page report (e.g. the 116 MB 15th FC Vol IV) doesn't exhaust memory.
+            page.close()
     return [str(f.relative_to(ROOT)) for f in files]
 
 

@@ -1,0 +1,16 @@
+,"Box 11.1 Methodology of State Level Allocation for SDRF and SDMF
+Allocation=70% (Inter se allocation based on AE) + 30% (Inter se allocation based on DRI)
+Where:
+(cid:120) AE = Average Expenditure
+(cid:120) DRI = Disaster Risk Index
+DRI of the State i,
+(cid:2160)(cid:2174)(cid:2165) = (cid:2164) (cid:1499)(cid:2161) (cid:1499)(cid:2178)
+(cid:2191) (cid:2191) (cid:2191) (cid:2191)",
+,"(cid:120) (cid:2164) = (cid:963)(cid:2869)(cid:2868) (cid:1875) (cid:1499)(cid:1834) where (cid:1834) is the hazard score of State i for hazard k and (cid:1875) is the
+(cid:2191) (cid:3038)(cid:2880)(cid:2869) (cid:3038) (cid:3036)(cid:3038) (cid:3036)(cid:3038) (cid:3038)
+weight adopted for hazard k for each of the 10 hazards, viz floods, drought, cyclone,
+landslide, earthquake, hailstorm, cold wave, cloud burst, heatwave, lightning.
+(cid:120) (cid:2161) = Exposure of State to hazards (score based on adjusted inter se population).
+(cid:2191)
+(cid:120) (cid:2178) = Vulnerability of the States (score based on per capita income).
+(cid:2191)",

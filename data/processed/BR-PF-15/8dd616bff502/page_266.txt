@@ -1,0 +1,41 @@
+Sixteenth Finance Commission
+score for each State has been calculated based on a weighted sum of the hazard scores of that
+State for each of the disasters, where the weights have been chosen based on the proportion of
+expenditure incurred on the management of that disaster.
+11.50 The Exposure variable is based on the projected population as of October 2026, as
+estimated by the Technical Group of Population Projections 2020, constituted by the Ministry
+of Health & Family Welfare. As indicated earlier, the main elements of exposure for most
+disasters are crops and infrastructure, which are highly correlated with the population.
+Therefore, it was decided to rely on the population for measuring exposure. In addition,
+parameters like area are already included in the hazard score, as it is mostly based on indicators
+such as flood‑prone area and drought‑prone area. Therefore, reliance solely on the population
+to measure exposure avoids duplication.
+11.51 For the Vulnerability variable, it was decided to use the per‑capita income of the States
+(average from 2018‑19 to 2023‑24, leaving out the COVID‑19 year, 2020‑21) as it had a high
+correlation with many indicators of vulnerability, including poverty. It is also an indicator of
+effective per capita economic resources available to manage disaster risk and the capacity for
+prevention and mitigation of disasters. In the final step, hazard, exposure and vulnerability are
+multiplied to arrive at a DRI score for each State.
+11.52 We base 30 per cent of the allocation on the DRI and 70 per cent on the average
+expenditure of the State over the period 2011‑12 to 2023‑24, excluding the two COVID‑19
+years, 2020‑22. The base year allocation was inflated by 5 per cent each year. A detailed
+description of the methodology of the DRI, along with data sources, is provided in Annexure
+11.1. The DRI scores of each State is presented in Annexure 11.2. A brief description of our
+suggested DRI is also provided in Box 11.1.
+Box 11.1 Methodology of State Level Allocation for SDRF and SDMF
+Allocation=70% (Inter se allocation based on AE) + 30% (Inter se allocation based on DRI)
+Where:
+(cid:120) AE = Average Expenditure
+(cid:120) DRI = Disaster Risk Index
+DRI of the State i,
+(cid:2160)(cid:2174)(cid:2165) = (cid:2164) (cid:1499)(cid:2161) (cid:1499)(cid:2178)
+(cid:2191) (cid:2191) (cid:2191) (cid:2191)
+(cid:120) (cid:2164) = (cid:963)(cid:2869)(cid:2868) (cid:1875) (cid:1499)(cid:1834) where (cid:1834) is the hazard score of State i for hazard k and (cid:1875) is the
+(cid:2191) (cid:3038)(cid:2880)(cid:2869) (cid:3038) (cid:3036)(cid:3038) (cid:3036)(cid:3038) (cid:3038)
+weight adopted for hazard k for each of the 10 hazards, viz floods, drought, cyclone,
+landslide, earthquake, hailstorm, cold wave, cloud burst, heatwave, lightning.
+(cid:120) (cid:2161) = Exposure of State to hazards (score based on adjusted inter se population).
+(cid:2191)
+(cid:120) (cid:2178) = Vulnerability of the States (score based on per capita income).
+(cid:2191)
+244

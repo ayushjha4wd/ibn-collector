@@ -1,0 +1,45 @@
+Chapter 6 : Towards Cooperative Ferderalism: Balancing Equity and Efficiency
+Equity-based Criterion
+Income Distance
+6.49 Distance of per capita income
+has been used as an equity criterion in Box 6.2: Progressivity of horizontal distribution
+The Covid-19 crisis has placed a heavy burden on the health
+the devolution formula by previous
+infrastructure of States, especially those with low per capita
+Commissions, with weights assigned income which also have poorer health facilities. As the chart for
+twenty major States shows, our recommended devolution is
+in a range of 33.5 per cent (FC-IX) to
+progressive on a per capita basis, signalling that we have
+62.5 per cent (FC-XI). This criterion is recommended higher per capita tax devolution to States with
+intended to make the devolution lower per capita income.
+formula more equalising and
+progressive, so as to provide higher
+devolution to States with lower per
+capita income (and lower own tax
+capacity). Here, per capita GSDP is
+used as a proxy for the distance
+between States in tax capacity. Poorer
+States with low per capita income also
+have higher expenditure needs to
+provide for comparable services.
+Hence, the income distance criterion
+helps provide for two-sided
+equalisation.
+6.50 Almost all the States have suggested retaining of the income distance criteria in the
+horizontal devolution formula. Horizontal equity is thus an important redistributive aspect which
+can be achieved through this criterion. Hence, this Commission has retained the income distance
+criterion with a weight of 45 per cent.
+6.51 Income distance has been calculated using a methodology similar to the one that was
+adopted by the FC-XIV. A three-year average (2016-17 to 2018-19) per capita comparable GSDP
+has been taken for all the States. Income distance has been computed by taking the distance of
+each State from the State having highest per capita GSDP. In this case, Goa has the highest per
+capita GSDP followed by Sikkim. Since they are small and outlier States, the State with the third
+highest per capita GSDP – Haryana – has been taken as the benchmark to avoid distortions. The
+distance of the per capita GSDP of each State from Haryana's per capita GSDP has been
+calculated. Goa, Sikkim and Haryana have been assigned the income distance as calculated for
+the State with the fourth highest per capita GSDP - Kerala. Such distance has been scaled by the
+population (Census 2011) of each State and then the share of each State has been computed. It is
+also noted that the most of the lower per capita income States are also the more populous States.
+Therefore, use of population scaling of income distance makes it more progressive. Annex 6.4
+gives details of the methodology and the calculation table for the income distance criterion.
+161

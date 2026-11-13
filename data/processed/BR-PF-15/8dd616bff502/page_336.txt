@@ -1,0 +1,41 @@
+Sixteenth Finance Commission
+State Public Sector Enterprises
+15.4 Our data sources include General Purpose Financial Reports of CPSEs (Compliance
+Audit) for various years, prepared by the Comptroller and Auditor General (CAG) of India, as
+well as data provided to the Commission by CAG for more recent years up to 2023‑24. Our
+analysis does not include public sector banks as they are not companies registered under the
+Companies Act, 2013, and hence, not covered under the audit jurisdiction of CAG.
+15.5 The CAG classifies CPSEs and SPSEs into three categories: Government Companies
+(GCs), Statutory Corporations (SCs), and Government Controlled Other Companies (GCOCs).
+GC is defined in Section 2(45) of the Companies Act, 2013 as a company in which not less than
+51 per cent of the paid‑up share capital is held by the Union Government, or by any State
+Government or Governments, or partly by the Union Government and partly by one or more
+State Governments, and includes a company which is a subsidiary of a Government Company.
+Statutory Corporations (SCs) are companies set up under statutes enacted by the Parliament of
+India or by a State Legislature. GCOCs are companies, other than GCs and SCs, that are owned
+or controlled, directly or indirectly, by the Union Government, or by any State Government, or
+jointly by the Union Government and one or more State Governments.
+15.6 Figure 15.1 presents the total number of SPSEs across all States under these three
+categories. As on 31 March 2023, there were 1,635 SPSEs in India. GCs where the State
+Government’s stake in paid‑up capital is 51 per cent or more, account for the largest proportion
+of SPSEs. Out of total, 1,414 SPSEs (86.5 per cent) are GCs. There are 135 GCOCs and 86 SCs
+among the SPSEs. On a per‑state basis, the number of SCs works out to approximately three.
+15.7 One of the major issues concerning SPSEs is the large number of non‑operational or
+inactive enterprises. While there are some differences in how SPSEs are classified as ‘inactive’
+in audit reports of various States, by and large, inactive SPSEs can be described as those that
+have ceased to carry out their operations. Figure 15.2 provides a snapshot of active and inactive
+SPSEs across different States. Data show that as many as 308 SPSEs across all States are
+inactive as on 31 March 2023. These account for approximately 19 per cent of total SPSEs
+across all States.
+15.8 SPSEs operate across a wide spectrum of sectors, including power, manufacturing,
+agriculture and allied activities, financial services, and a range of other services, such as water
+provision, tourism and transport. Many of these enterprises function as State monopolies, while
+others operate alongside the private sector in a competitive environment. Their performance
+varies significantly across sectors and States.
+15.9 We measure the economic significance of SPSEs by the turnover‑to‑Gross State
+Domestic Product (GSDP) ratio. As on 31 March 2023, the total turnover of 1,069 SPSEs across
+all States, for which data on turnover of SPSEs are available from CAG for the year of their
+latest finali(cid:93)ed accounts, amounted to ₹14.5 lakh crore, which works out as approximately 5.7
+per cent of all States’ GSDP during 2022‑23. However, there is a wide variation in the
+contribution of SPSEs to the respective State’s GSDP.
+314

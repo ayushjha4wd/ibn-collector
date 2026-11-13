@@ -1,0 +1,44 @@
+3.2.3 Expenditure on Subsidies
+Table 3.6 shows the details of subsidies given by the Bihar state government over an eleven-year period
+from 2012-13 to 2022-23. The subsidies have shown significant fluctuations and an overall increasing
+trend during this time. The total subsidy expenditure has more than tripled, rising from Rs. 4,313 crore
+in 2012-13 to Rs. 14,828 crore in 2022-23. This substantial growth indicates an expanding role of
+government support in various sectors of the state's economy.
+The Bihar State Electricity Board (BSEB), now under the Energy Department, has been the primary
+recipient of subsidies for most of the period. In 2022-23, it accounted for 82.4% of total subsidies. This
+persistent and growing support to the energy sector underscores the critical importance of power
+infrastructure in the state's development agenda, but also raises questions about the efficiency and
+financial sustainability of the power distribution system. Performance of BSEB will be discussed later
+at an appropriate place.
+Other significant recipients of subsidies include the Industry, Food & Consumer Protection, and
+Agriculture departments. The subsidies to the Industry department have shown considerable
+variations, starting at Rs. 336 crore in 2012-13, peaking at Rs. 825 crore in 2015-16, and ending at Rs.
+1,040 crore in 2022-23. The Food & Consumer Protection department saw a significant increase from
+no subsidies in 2012-13 and 2013-14 to Rs. 630 crore in 2022-23. Subsidies to the Agriculture
+department show substantial year-to-year variations, ranging from a low of Rs. 164 crore in 2020-21
+to a high of Rs. 895 crore in 2013-14. The transport sector saw sporadic subsidy allocations, with a
+notable spike of Rs. 963 crore in 2018-19, but has since seen a significant reduction, receiving only Rs.
+96 crore in 2022-23.
+The proportion of subsidies in the state's finances has also fluctuated over the years. As a percentage
+of Revenue Receipts, subsidies have varied from a low of 2.5% in 2013-14 to a high of 11.5% in 2015-
+16, ending at 8.6% in 2022-23. Similarly, as a share of Revenue Expenditure, they have ranged from
+2.7% in 2013-14 to 12.4% in 2015-16, concluding at 8.1% in 2022-23. These fluctuations indicate
+changing fiscal priorities and challenges over the years.
+Bihar's subsidy expenditure pattern over this period reveals significant year-to-year variations but an
+overall increasing trend, with a strong focus on the energy sector. The fluctuating but generally
+increasing share of subsidies in the state's finances suggests a need for careful evaluation of their
+effectiveness and potential reforms to ensure they achieve their intended developmental goals
+without unduly straining the state's fiscal health.
+Table 3.6: Subsidies Given by State Government (Rs crore)
+Name of the Department Receiving
+2012-13 2013-14 2014-15 2015-16 2016-17
+Subsidy
+Animal Husbandry & Fisheries Resources 127 16 137 46 122
+Food & Consumer Protection 0 0 565 1331 977
+Energy (BSEB) 3193 0 0 6048 6808
+Industry 336 436 411 825 382
+Agriculture 657 895 208 593 344
+Transport 0 0 0 0 0
+Others 0 117 3307 167 124
+Total 4313 1464 4628 9010 8757
+89

@@ -1,0 +1,43 @@
+Sixteenth Finance Commission
+sold. Multiplying ACS, ARR, and ACS‑ARR by the total kWh of electricity sold yields the total
+cost, total revenue, and total loss of the DISCOM.
+Figure 13.2 Accumulated Losses for States in 2023‑24 (percentage of GSDP)
+0%
+-1%
+-2%
+-3%
+-4%
+-5%
+-6%
+-7%
+Source: PFC Report on Performance of Power Utilities 2023‑24 (Updated May 2025)
+13.49 The principal source of DISCOM revenues is from operations, including subsidy from
+the State. The State Governments subsidises certain consumers, including farmers and
+low‑income households. DISCOMs do not collect revenues from these consumers to the extent
+of the subsidy. It receives this part of the revenue from the State Government in the form of a
+subsidy. With the extent of consumer subsidisation varying greatly across States, the shares of
+revenues from operations and the subsidy in DISCOM revenues also vary significantly.
+13.50 In 2023‑24, nationally, revenues per kWh from operations and the subsidy accounted for
+71.0 per cent and 20.7 per cent of the ARR, respectively 28. Ten States 29 exhibited a
+higher‑than‑average share of the subsidy in their ARR. DISCOMS in some major States such
+as Bihar, Karnataka, Madhya Pradesh, and Punjab, are heavily reliant on subsidy income,
+accounting for 40 per cent, 35 per cent, 47 per cent and 41 per cent of their ARR, respectively.
+Five States30 report more than 15 per cent of ARR from ‘other revenues’, which is much higher
+than the national average of 8.3 per cent.
+13.51 While ACS‑ARR is a measure of a DISCOM’s economic loss per kWh of electricity
+sold, the AT&C loss represents loss due to operational inefficiency, measured in physical units
+of electricity. It measures the percentage of electricity purchased by the DISCOM for which it
+fails to collect any revenues. It is a physical measure of the effective loss of electricity in transit,
+28 Power Finance Corporation Report on Performance of Power Utilities 2023-24, May 2025.
+29 Andhra Pradesh, Bihar, Chhattisgarh, Jharkhand, Karnataka, Madhya Pradesh, Manipur, Nagaland, Punjab and Rajasthan.
+30 Arunachal Pradesh, Jharkhand, Meghalaya, Tamil Nadu and Telangana
+284
+udaN
+limaT
+nahtsajaR hsedarP
+ayhdaM
+anagnaleT dnahkrahJ hsedarP
+rattU
+alareK anayraH rahiB hsedarP
+arhdnA
+hragsittahhC dnahkarattU bajnuP akatanraK arthsarahaM

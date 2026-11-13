@@ -1,0 +1,40 @@
+Chapter 13: Reforms in the Power Sector
+Progress in the provision of electricity during the first fifty years of independence remained
+slow, with SEBs performing highly inefficiently.
+13.9 The launch of economic reforms in 1991 led the State of Odisha to take the lead in
+reforming its electricity sector by enacting the Odisha Electricity Reform Act, 1995. Soon after,
+the Union Government began its own reform process through the Electricity Regulatory
+Commissions Act, 1998. It provided for the establishment of statutorily independent Central
+Electricity Regulatory Commission (CERC) and State Electricity Regulatory Commissions
+(SERCs) for fixing electricity tariffs.
+13.10 However, it was the comprehensive Electricity Act, 2003 which kick‑started a genuine
+transformation of the sector. Among other things, this Act provided for the unbundling of SEBs
+into separate generation companies (GENCOs), transmission companies (TRANSCOs), and
+distribution companies (DISCOMs) and laid out the powers and functions of CERC and SERCs.
+The provision has led a majority of States and some Union Territories (UTs) to unbundle their
+SEBs into the three companies and delegate the responsibility for distribution to independent
+DISCOMs, with some even privatizing the latter. Of the remaining States and UTs, some have
+assigned the task of distribution to companies that additionally handle generation and
+transmission, or only generation. Only a handful of small States, UTs, and specific parts of the
+States of Kerala and Maharashtra now rely on the State power departments to handle electricity
+distribution.
+13.11 In the post‑reform era, DISCOMs occupy a unique place in the electricity supply chain.
+They serve as intermediaries between GENCOs which supply electricity, and households,
+various government entities, and businesses that consume electricity. Because generation plants
+require a large upfront investment due to indivisibilities and electricity output is spread over
+multiple decades, GENCOs require long‑term power purchase agreements (PPAs) with
+DISCOMs when committing their investments. However, if DISCOMs are heavily indebted,
+they are not a credible buyer party to such agreements. Under such circumstances, even if
+GENCOs are prepared to invest in generation and consumers are prepared to pay for electricity,
+the necessary investment would fail to occur.
+13.12 Being mostly State‑owned, DISCOMs in India do not face the same pressure to be
+efficient and cost‑effective as commercial entities do. Additionally, in many instances, SERCs
+are not strictly guided by regulatory principles to fix tariff at cost‑recovery levels. These and
+other factors to be discussed later combine to keep DISCOMs as a whole in perpetual losses,
+undermining their credibility as the buyer party to PPAs. State Governments, which own the
+DISCOMs, get around the problem by implicitly guaranteeing payments to GENCOs. However,
+over time, DISCOMs’ losses and interest payments on them accumulate. High interest rates paid
+by DISCOMs, relative to those on government debt, accentuate the problem, and eventually
+force the government to partially or wholly assume the debt. This in turn kickstarts the next
+round of losses, debt accumulation, and bailout.
+273

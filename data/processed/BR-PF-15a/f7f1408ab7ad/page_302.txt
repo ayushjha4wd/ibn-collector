@@ -1,0 +1,34 @@
+Fifteenth Finance Commission
+Annex 7.8 B
+Elements of Air Quality Management
+Parameters for assessing the Composite Performance factor for 'D’
+I. Particulate Matter
+1. Based on international practice 98 percentile value may be considered to represent the
+basic characteristics of air quality of a city and any reduction in such value defines
+improvement.
+2. Percentage reduction observed in 98 percentile value of maximum PM concentration
+(PM ) observed on all normal days of the year would be graded as following:
+98
+Table A
+S.No Reduction (%) range in (PM ) Improvement
+98
+1 15 and above High
+2 <15 Low
+3. Normal days to be defined by each city in consultation with meteorological department
+based on statistical analysis of critical Meteorological parameters for each season
+II. AQI Levels
+1. The number of days exceeding AQI (Moderate-200) out of total number of normal days
+monitored per year would be graded as under:
+2. Good days - AQI< 200;
+Table B
+S.No Increase in Good Days (%) Improvement
+1 15 and above High
+2 <15 Low
+Monitoring of AQI should include the following with suitable weights arrived at on the basis of
+source-wise cause analysis for air pollution in specific urban agglomerations:
+3. Monitoring of open waste burning and chemical traces from waste burning at landfill
+sites as well as the development of an app to allow reporting by citizens by sending
+pictures.
+4. Process-tracing of waste management in each city to identify where the breakdown in
+waste management occurs.
+290

@@ -1,0 +1,41 @@
+Fifteenth Finance Commission
+Gross State Domestic Product
+4.58 The National Statistical Office (NSO) provided the comparable estimates of gross state
+domestic product (GSDP) of States for the period 2011-12 to 2018-19. These have the advantage
+of being based on the same principles and uniform methodology of estimation across States. The
+base year for the projection of GSDP is 2018-19. We noted that GSDP numbers for 2019-20 are
+available for many States from their own calculations, but these are not certified by the NSO.
+Most of the States made these estimates the basis for their budgets for 2020-21. However, the
+economic scenario changed significantly in the last two months of 2019-20. Hence, we did not
+consider calculations made by the States for the years beyond 2018-19. To ensure uniformity in
+methods and approach, we made our own projections of GSDP from 2019-20.
+4.59 We assessed the GSDP growth of States in two stages.
+i. In stage 1, for the year 2019-20, we extrapolated the trend in GSDP growth rate
+during 2011-12 to 2018-19 for each State. While arriving at our projections of GDP for
+2020-21, at the all-India level, we made assumptions about the behaviour of broad sectors
+like agriculture, industry, public administration, defence and social services, and other
+services and assessed them separately before arriving at the aggregate GDP growth rate.
+We, however, noted that sectoral growth rates of individual States could vary around the
+national average, as in the past. To account for these differences, we assessed the
+elasticities of sectoral growth rates of States with respect to the corresponding sectoral
+growth for the aggregate of States during 2011-2019. We combined this information with
+our assessment of national growth in the sector for 2020-21 to arrive at the State-wise
+growth in the sector. This procedure was followed for each sector, before consolidating
+these and arriving at the initial estimates of aggregate GSDP growth rate for each State in
+2020-21. For the period 2021-22 to 2025-26, sharp differences in GSDP growth were
+ironed out by grouping States in six categories (four for General States and two for NEH
+States) and assigning the average growth of each group to all States within the group.
+ii. In stage 2, we made a five-fold distinction between the States in terms of their per
+capita revenue expenditure, averaged for 2017-18 and 2018-19: (a) those with per capita
+revenue expenditure at 140 per cent or more of the average for all States; (b) those with
+such expenditure between 130 per cent and 140 per cent of the all-State average; (c) those
+with such expenditure between 100 per cent and 130 per cent of the all-State average; (d)
+those with such expenditure between 80 per cent and 100 per cent of the all-State
+average; and, (e) those with such expenditure at 80 per cent or less of the all-State
+average. Higher public spending per capita, with proper allocations and efficient use,
+should also yield higher growth. Accordingly, we normatively assessed that the higher the
+per capita revenue expenditure, the higher should be the GSDP growth to support such
+higher expenditure, and vice versa. We also distinguished between the NEH States and
+general States at this stage and benchmarked them around the group average. While
+GSDP growth rates were distinguished for four categories of States (categories 'a', 'b', 'd',
+116

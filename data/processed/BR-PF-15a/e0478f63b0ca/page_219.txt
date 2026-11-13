@@ -1,0 +1,39 @@
+Chapter 7 : Empowering Local Governments
+Table 7.7: States Using Chartered Accountants for Auditing of Accounts
+States Status
+Chhattisgarh Preparation of annual account and audit of the urban local bodies are
+entrusted to chartered accountant firms and are placed before the
+general body of each urban local body for perusal.
+Madhya Pradesh Accounts are prepared and certified by the chartered accountants of
+local governments.
+Rajasthan Department of Local Fund Audit (DLFA) and chartered accountants
+certify the accounts of urban local bodies.
+Sikkim The DLFA audits the accounts of the local governments and submits a
+consolidated report to the Sikkim Legislative Assembly.
+Chartered accountants appointed by the State Government certify the
+accounts on a year to year basis.
+Source: Compiled from inputs received from CAG
+7.73 Over the last decade, there has been progress in digitising financial transactions, for
+example, through PFMS for the Union Government, and IFMIS for the States. However, the
+usability of all the data is restricted by its generation and collection by different government
+agencies and departments across all tiers of government in separate and disparate databases
+primarily for their own purposes. Data is difficult to link, compare and analyse across government
+entities due to lack of common data standards. A metadata catalogue or common data dictionary
+is not operational. Ambiguities in definition and discretionary classifications impede meaningful
+comparison and/or consolidation across levels and entities. For example, the current six-tier
+accounting classification is not standardised at levels below minor heads across the Union and the
+State Governments. As there is no standardisation of what is a programme and what is a scheme,
+minor head and scheme heads are used interchangeably. There are instances where substantive
+amounts, as much as 25 per cent of total expenditure, are booked under an omnibus minor head
+called '800-Other Expenditure', obscuring financial reporting. It is well-nigh impossible to get an
+integrated view of how much the general government (that is Union, States and local
+governments) or the government at the State level (State Government and the local governments
+in a State) or even all the local governments in a State are spending on health or education or
+salaries and wages, or generating in terms of tax revenues.
+7.74 While the country has made considerable progress in moving from a manual system of
+accounts to a digital system, the full benefits of such a move have not been reaped because of a
+lack of business process re-engineering. Digitisation is much more than putting in numbers in a
+computer that would have been manually recorded on a piece of paper otherwise. If transactions,
+like payments, are done in electronic mode, all the necessary details – the purpose, to whom, from
+where, when and how much – can be captured right at the time of data entry. Once the details of
+193

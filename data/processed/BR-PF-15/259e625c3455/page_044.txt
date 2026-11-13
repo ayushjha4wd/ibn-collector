@@ -1,0 +1,49 @@
+Capital Receipts 3.88 5.01 6.26 5.99 6.43
+Public Debt etc. 3.54 5.00 6.12 5.99 6.43
+Loans & Advances Given 0.28 0.11 0.19 0.22 0.27
+Recovery of Loan and Advances 0.35 0.01 0.14 0.00 0.01
+Capital Expenditure, of which 5.64 3.45 4.46 5.02 6.38
+Capital Outlay 3.99 2.11 3.10 3.51 4.19
+Total Expenditure 29.29 25.08 28.22 28.59 30.86
+Gross Fiscal Deficit 2.62 2.53 5.08 3.78 5.97
+Primary Deficit 0.71 0.64 2.95 1.74 3.94
+Total Borrowings 3.54 5.00 6.12 5.99 6.43
+Internal Debt Receipt 3.06 4.78 5.01 4.58 5.07
+Loans from Central Government 0.48 0.22 1.11 1.41 1.35
+Repayment of Public Debt 1.37 1.22 1.17 1.29 1.91
+Public Debt Outstanding 23.89 25.44 30.18 30.93 32.32
+Total Outstanding Liabilities 27.85 27.84 32.66 32.22 34.95
+Source: Computed on the basis of Table 2.1 A
+2.2 Revenue Receipts
+In recent years, Bihar's revenue receipts have continued to be heavily reliant on central transfers,
+accounting for 72-77% of the total revenue receipts. The state's own revenue sources, comprising tax
+and non-tax revenues, have contributed only 22%-28% of the total revenue receipts during 2012-23.
+The share of state's own tax revenue in total revenue has also remained practically stagnant, except
+for occasional fluctuations. It ranged from 19.7% to 29.0% of the total revenue receipts during the
+period from 2012-13 to 2022-23. The highest contribution from own tax revenue was 29% in 2013-14,
+while the lowest was 19.7% in 2017-18.
+Non-tax revenues have remained a relatively small component, contributing only 2.4% - 4.8% of the
+total revenue receipts during the same period. The share of central taxes has consistently been the
+largest component of the state's revenue receipts, accounting for 46.7% - 57.5% of the total. This share
+has been gradually increasing over the years, with the highest contribution of 57.5% in 2021-22.
+Grants-in-aid from the central government have also been a significant source of revenue,
+contributing 16.8% - 24.8% of the total revenue receipts during the period from 2017-18 to 2022-23.
+Overall, Bihar's dependence on central transfers has remained high, with the state's own revenue
+sources contributing a relatively smaller portion of the total revenue receipts. This situation highlights
+the need for the state to enhance its own revenue generation capabilities, either by improving tax
+compliance or exploring new revenue streams, to reduce its reliance on central transfers and achieve
+greater fiscal autonomy.
+Table 2.2: Revenue Receipts of the Bihar Government
+(Figures in brackets indicate percentage shares)
+(Rs. crore)
+State's Own Revenue Central Transfers Total
+Year Share of Grants-in- Revenue
+Tax Non-Tax Total Total
+Central Taxes aid Receipts
+16253 1135 17388 31900 10278 42178 59566
+2012-13
+(27.3) (1.9) (29.2) (53.6) (17.3) (70.8) (100)
+19961 1545 21505 34829 12584 47413 68918
+2013-14
+(29.0) (2.2) (31.2) (50.5) (18.3) (68.8) (100)
+28

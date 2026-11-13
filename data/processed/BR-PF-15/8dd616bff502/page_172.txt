@@ -1,0 +1,40 @@
+Sixteenth Finance Commission
+income from a benchmark level of per capita income. In the latter case, benchmark level of per
+capita income is generally represented by the per capita income of the highest per capita income
+State among the large States. In each case, the objective is to allocate a larger revenue per capita,
+the lower the State’s per capita income. However, the two criteria generally lead to different
+allocations to the States.
+8.27 The idea is based on the hypothesis that States can raise equal revenue per rupee of
+income with equal tax effort. This implies that despite equal tax effort, States with lower per
+capita income have a lower capacity to raise revenue per capita than States with higher per capita
+income. Therefore, if fiscal capacity equalization is the goal, States with lower per capita income
+must receive more revenue per capita through devolution than those with higher per capita
+income.
+8.28 One approach to achieving this objective is to make the per capita allocation to a State
+proportionate to the inverse of its per capita income. Under this approach, the State’s share in
+the total transfer of tax revenue equals the inverse per capita income weighted population,
+divided by the sum of the inverse per capita income weighted population across all States.
+Per Capita Income Distance Criterion
+8.29 An alternative approach to making devolutions progressive, relative to the population
+criterion, is to base a State’s per capita allocation on the distance between a fixed benchmark
+per capita income and that State’s per capita income. Conventionally, FCs have proxied the
+benchmark per capita income to that of the highest per capita income State among large States,
+mostly Punjab until 2001‑02 and Haryana thereafter. Under the criterion, the lower a State’s per
+capita income, the greater the distance between the benchmark per capita income and its own,
+and the greater is the per capita allocation of revenues to it. Stated precisely, this criterion sets
+the share of a State in the tax revenue devolved equal to the ratio of its
+per‑capita‑income‑distance‑weighted population to the sum of the per-capita
+income‑distance‑weighted population of each State.
+8.30 The progressivity of allocations under the per‑capita‑income‑distance criterion can be
+enhanced by excluding the States that lie nearest to the top of the per capita income distribution.
+For example, we may exclude the States with per capita income in the eightieth or higher
+percentile. The Fifth Finance Commission (FC‑5), which first introduced the
+per‑capita‑income‑distance criterion, deployed a version of this formulation. It excluded States
+with per capita incomes exceeding the average per capita income across all States and allocated
+per capita revenue in proportion to the shortfall of the State’s per capita income from the average
+per capita income across all States.
+8.31 The Seventh Finance Commission (FC‑7) introduced the inverse per capita income
+criterion. However, the FC‑10 chose to drop it in favour of the per‑capita‑income‑distance
+criterion. It reasoned that, whereas the distance from the benchmark per capita income is linear
+in per capita income, inverse per capita income is convex over the positive range. It went on to
+150

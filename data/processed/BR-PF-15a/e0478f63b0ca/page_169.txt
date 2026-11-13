@@ -1,0 +1,38 @@
+Chapter 5 : Resource Mobilisation
+Estimating House Tax Potential at the Local Government Level
+5.33 The Economic Survey 2017-18 estimated that the collection of house taxes in rural areas
+relative to their potential for select five states (Andhra Pradesh, Karnataka, Kerala, Tamil Nadu
+and Uttar Pradesh) averaged about 20 per cent. It made use of the housing data from Census
+2011, the National Sample Survey Organisation (NSSO) Sixty-Ninth Round (July-December
+2012) report on 'Drinking Water, Sanitation, Hygiene and Housing Condition in India', online
+data on size of houses and their prices from widely quoted real estate websites, and the Central
+Public Works Department (CPWD) plinth area rate of construction. The Survey assumed tax rates
+of 0.1 per cent of the property value for households with two living rooms, 0.2 per cent for
+households with three to five rooms and 0.3 per cent for households with more than five rooms.
+5.34 Partly based on the approach given in the Economic Survey, we attempted to estimate the
+house tax potential for rural and urban areas separately for all States using the unit level data from
+NSSO Seventy-Sixth Round on Drinking water, Sanitation, Hygiene and Housing Conditions'
+conducted in July-December 2018 (DWSHH 2018). The detailed step by step procedure was as
+follows:
+Step 1: From the unit level data of DWSHH 2018, the size of houses was estimated. The house
+floor area was estimated separately for different size categories of houses – those with
+one room, two rooms, three rooms, four rooms, five rooms and six and more rooms.
+Step 2: A value of Rs. 1,900 per square foot of floor area for 2011-12 was inflated by 20 per cent
+based on the plinth area rate of CPWD 2019 - Cost Index. As a result, for 2019, the value
+of floor area was assumed at Rs. 2,280 per square foot uniformly for all States.
+Step 3: The total value of houses was estimated by multiplying the area in square feet estimated
+in Step 1 by Rs. 2,280 on average uniformly for all States to get the tax base.
+Step 4: House tax rates were assumed at the same rate adopted by the Economic Survey 2017-
+18, that is 0 per cent for houses with one room, 0.1 per cent for two rooms, 0.2 per cent
+for three, four and five rooms and 0.3 per cent for 6 and above rooms. The tax potential
+was estimated by multiplying the tax rates with the respective tax bases as calculated in
+Step 3.
+5.35 The overall assessment of potential for house tax collections derived from this
+methodology at the 2019 prices is Rs. 42,160 crore for rural areas and Rs. 23,184 crore for urban
+areas. The imputation of the same valuation per square foot of house area in rural and urban areas
+may have led to underestimation of potential in the urban areas. The State-wise estimated house
+tax potential in 2019 for both rural and urban areas is at Annex 5.3. Recommendations on
+property taxes have been made in Chapter 7. It is expected that with changes in law and providing
+flexibility to local governments to levy tax not below a floor (as against the current ceiling) we can
+expect a growth in revenues on this account.
+143

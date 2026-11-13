@@ -1,0 +1,61 @@
+Sixteenth Finance Commission
+Notes: –
+1) Assam suggested no floor on area, but an assured minimum amount for all States and ceiling of 5% in area.
+2) Chhattisgarh and Tamil Nadu suggested two floors of 1% and 2% in area.
+3) Madhya Pradesh suggested multiple floors of 0.5%, 1%, 1.5% and 2% in area, excluding the States of Goa, Haryana, Kerala and
+Punjab.
+4) Rajasthan suggested floor of 1.5% in area.
+5) Uttarakhand suggested using 3-dimensional (3-D) area of States instead of 2-dimesnaional geographical area.
+6) Goa, Meghalaya and Sikkim suggested floor of 1% on population.
+7) Rajasthan suggested using projected population of 2024, instead of population from Census 2011.
+8) Tamil Nadu suggested using population from Census 1971.
+9) Chhattisgarh suggested using low population density based on Census 2011.
+10) Kerala and Odisha suggested using high population density based on Census 2011.
+11) Chhattisgarh and Meghalaya suggested to include percentage of ST in State's population as per Census 2011.
+12) Himachal Pradesh and Madhya Pradesh suggested to include percentage of SC and ST in State's population as per Census 2011.
+13) Odisha suggested including modified population that includes - SC, ST, Old-aged (80+) and widowed population.
+14) Punjab suggested to give 5% weight to percentage of ST population and 2.5% weight to old- age population (aged 60+), based on
+Census 2011.
+15) West Bengal suggested using an index of State’s population, with higher weightage to State’s SC & ST population as per Census
+2011.
+16) Gujarat and West Bengal suggested to use the share of urban population in total urban population of all States.
+17) Maharashtra suggested to give 10% weight to share of urban population in total urban population of all States and 10% weight to
+share of rural population in total rural population of all States.
+18) Meghalaya suggested using rural dispersion gap defined as rural population per village.
+19) Tamil Nadu suggested using share of urban population in total population of a State.
+20) Arunachal Pradesh suggested to include demographic change based on preservation of tribal people, culture and heritage.
+21) Assam suggested to use a floor value of 2.1 on Total Fertility Rate (TFR) under demographic performance criterion.
+22) Goa suggested floor value of 1 on TFR.
+23) Himachal Pradesh suggested using upper and lower bound on TFR scaled by population as per Census 1971.
+24) Madhya Pradesh suggested using TFR based on NFHS-5 scaled with population as per Census 2011.
+25) Punjab suggested using inverse of TFR in demographic performance criterion, without multiplying it with population.
+26) Rajasthan suggested to give 5% weight to TFR based on NFHS-5 multiplied with population as per 1971 Census and 7.5% weight
+to change in TFR based on NFHS-4 and NFHS-5.
+27) Goa suggested taking income distance from the State with the highest per capita income (without removing outliers).
+28) Karnataka suggested taking square root of per capita income distance before multiplying it with population, and per capita income
+distance should be calculated from average per capita income of top 3 States.
+29) Maharashtra suggested excluding district domestic products of outlier districts from State’s GSDP for the purpose of calculating per
+capita income distance.
+30) Rajasthan suggested to include State’s share of SECC deprived households with 5% weight by reducing income distance’s weight,
+upon FC’s discretion.
+31) Tamil Nadu suggested using real income of States calculated using CPI-AL as price deflator under income distance criterion.
+32) Andhra Pradesh suggested to give 5% weight to share of State’s dense forest cover (very dense & moderately dense forest) in total
+dense forest cover of all States and 15% weight to change in dense forest cover over 10 years.
+33) Assam and Madhya Pradesh suggested to include Open Forest (OF) along-with Very Dense Forest (VDF) and Moderately Dense
+Forest (MDF).
+34) Goa suggested to introduce floor of 1% in forest cover.
+35) Himachal Pradesh suggested to give 2.5% weight to dense forest cover, 5% weight to initiatives taken for Green Credit Programme,
+and 5% weight to forest cover as proportion of total geographical area under this criterion.
+36) Jharkhand and Manipur suggested to use total forest cover (VDF, MDF and OF) as proportion of total geographical area of State.
+37) Nagaland suggested to use forest cover with 3% ceiling value excluding the States- Chhattisgarh and Arunachal Pradesh.
+38) Telangana suggested to use change in forest cover over 5 years.
+39) Uttar Pradesh suggested to use total forest cover including - VDF, MDF, OF and Tree cover.
+40) Uttarakhand suggested to use modified forest cover criterion viz. State’s dense forest cover as proportion of State’s geographical
+area wherein very dense forest cover is given twice the weight of moderately dense forest while calculating State’s Forest cover (VDF
++ MDF).
+41) Arunachal Pradesh suggested to use a forest and ecology index based on State-wise data on carbon sink and forest cover.
+42) Rajasthan suggested to use forest and ecology composite indicator based on State-wise data on wasteland area, water scarcity and
+forest cover.
+43) Tamil Nadu suggested forest and ecology index based on State-wise data on wetlands, coastline and renewable energy’s installed
+capacity.
+38

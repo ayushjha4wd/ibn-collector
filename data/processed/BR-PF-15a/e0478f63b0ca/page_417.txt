@@ -1,0 +1,39 @@
+Chapter 13 : Fiscal Architecture for Twenty-First Century India
+within nine months, with specific responsibilities for maintaining such timelines assigned at
+each stage of preparation of audited financial statements.
+13.42 The CAG which is mandated to carry out the role of accounts compilation and
+finalisation for almost all the States, as well as being the auditor of both the Union and the States,
+is already in the process of establishing common fiscal data standards. This would eventually
+ensure availability of standardised data through a public web portal for granular level fiscal
+statistics of the Union and the States, both for historic audited fiscal data, as well as high
+frequency fiscal data for the current year in downloadable database formats.
+Fiscal Accounting
+13.43 Consistent with international practice, and the recommendations of successive Finance
+Commissions, we recommend that a time-bound plan should be prepared for the phased
+adoption of standard-based accounting and financial reporting for the Union and the
+States, while the eventual adoption of accrual-based accounting is being considered.
+13.44 One of the primary concerns of the Commission is maximising reliability, accessibility,
+consistency and timeliness of the financial reporting across all levels of government. Use of
+information technology can provide a solution to this problem. Many States have developed
+Integrated Financial Management Systems (IFMS)14 for managing financial operations in a very
+efficient and secure way. However, there are issues of the comprehensiveness and coverage of
+such systems as well as the ability to talk to other systems. We urge the Union and States to
+prepare IT protocols and a comprehensive plan to allow for data sharing and aggregation
+across all levels of government at the earliest.
+Comprehensive Public Financial Management: The Way Forward
+13.45 Moving in this direction will not be easy. India has tried, over time, to take individual and
+incremental reforms to successive parts of the public financial management system. These have
+generally been stand-alone in nature, focusing on particular (and dispersed) dimensions of public
+financial management that have been difficult to integrate and sustain. There is, therefore, a need
+to evolve and agree on a comprehensive public financial management reform strategy for both the
+Union and the States, recognising the need for policy, regulatory and institutional reforms and
+leveraging technology to drive these reforms. Within this comprehensive strategy, there is still
+room to move ahead incrementally in a sequenced manner, provided the reform initiatives are
+carefully integrated and coordinated across all levels of government. International experience
+14 IFMS is an IT-based solution which provides platform for public financial management processes including budget formulation, execution (e.g.
+budgetary control, cash management, treasury operations), accounting, auditing, reporting; and integrates them with other functionalities like e-
+procurement, payroll or human resources management, debt management etc. IFMS is used as a generic name for any system which is defined as
+above. However, IFMS must be distinguished from Management Information System (MIS).
+15 Most large emerging market (South Africa, Brazil, and Indonesia), and advanced countries (Australia, Canada, the UK, and OECD countries)
+have established public financial management Legislations.
+391

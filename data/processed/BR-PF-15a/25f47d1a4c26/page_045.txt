@@ -1,0 +1,46 @@
+AS
+AS-1.A: Overview
+AS-1.B: Growth rate of GSDP (at current prices, %) AS-1.C: Per capita GSDP (at current prices)
+100
+90
+100
+90 80 100
+80 70 90
+70 60 80
+60 50 70
+50 40 60
+40 30 50
+100 30 20 40
+90 20 10 30
+80 10 0 20
+70 0 10
+60 0
+50
+40 Per Capita GSDP (Rs thousand)
+30
+PerP eCra Cpaitpai tGaS GDSPD (PR s( Athnonuusaal nGdr)owth %)
+Assam 20 Per Capita GSDP (Rs thousand)
+10 Per Capita GSDP (Annual Growth %)
+Assam Assam 0 Per Capita GSDP (Annual Growth %)
+AS-1.D: GSDP Current, 2011–12 series (Rs crore) AS-1.E: Sectoral Contribution to GSDP
+(at current prices, %)
+Share (%)
+State All NEHS of State in Per Capita GSDP (Rs thousand)
+NEHS Per Capita GSDP (Annual Growth %)
+Assam
+2011–12 1,43,175 5,03,182 28.5
+2012–13 1,56,864 5,63,081 27.9
+2013–14 1,77,745 6,37,264 27.9
+2014–15 1,95,723 6,95,474 28.1
+2015–16 2,27,959 7,88,321 28.9
+2016–17 2,54,382 8,67,648 29.3
+Primary Tertiary Net taxes
+2017–18 2,83,165 9,74,240 29.1
+Primary Tertiary Net taxes
+2018–19 3,15,881 10,82,901 29.2 Primary Tertiary Net taxes
+Primary Tertiary Net taxes
+State
+Overview
+Macroeconomic
+Indicators
+ASSAM

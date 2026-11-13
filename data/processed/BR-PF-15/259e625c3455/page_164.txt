@@ -1,0 +1,44 @@
+Chart 5.6: Maturity Profile of Internal Debt 2022-23 (Rs Crore)
+40000
+35000
+30000
+25000
+20000
+15000
+10000
+5000
+0
+Table 5.8 B: Year-Wise Maturity of Outstanding Internal Debt (Rs Crore)
+Year Amount Maturing
+2023-24 21472
+2024-25 20614
+2025-26 21136
+2026-27 20579
+2027-28 20456
+2028-29 20178
+2029-30 23895
+2030-31 13914
+2031-32 7140
+2032-33 37251
+2033-34 408
+2034-35 369
+2035-36 276
+2036-37 175
+2037-38 120
+2038-39 69
+Total 208052
+Source: Finance Accounts, 2022-23, on the basis of information provided by the State Government
+Table 5.8 C: Maturity Profile of Central loans, 2022-23 (Rs Crore)
+Loans for GST Compensation Total
+State Loans & Loans for
+Schemes Capital Investment
+1-5 years 3606 3606
+5-10 years 3438 3438
+10-15 years 3464 3464
+15-20 years 2663 2663
+20-25 years 411 411
+>25 years 10545 10545
+Details unavailable 10742 10742
+13582 21287 34869
+Source: Finance Accounts, 2022-23, on the basis of information provided by the State Government
+148

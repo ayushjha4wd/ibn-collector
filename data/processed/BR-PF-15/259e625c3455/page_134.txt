@@ -1,0 +1,47 @@
+4215 jk"Vªh; xkzeh.k is;ty dk;ØZ e 368 334 702
+4215 ?kVk,¡ iw¡thxr ys[kk sa es a ikzfIr;k¡ rFkk olwyh;k ¡ 0 -44 -44
+4216 xkze U;k;ky;k sa lfgr U;k;ikfydk grs q volajpuk lfqo/kkvk sa dk fodkl 4 3 7
+4235 4235&02&911 0 0 0
+4250 vYil[a ;dka s ds fy, cg{qks=d fodkl dk;ØZ e 15 8 22
+4425 jk"Vªh; df`"k fodkl ;kts uk ¼vkjdsohokbZ½ ¼,lh,½ 16 5 21
+4425 ?kVk,a iawthxr y[s kksa e sa ikzfIr;ka rFkk olfwy;k a 0 0 0
+4515 ,y MCY; w b Z ftyka s ds fy, ,0lh0,0 ¼ifqyl cyksa dk vk/kqfudhdj.k½ 80 0 80
+4515 i/zkkuea=h xkze lMd+ ;kstuk ¼ih,eth,lokb½Z 1 233 234
+4700 i/zkkuea=h df`"k flpa kbZ ;kstuk 12 19 31
+4700 mpar 1 0 1
+4702 i/zkkuea=h df`"k flpa kbZ ;kstuk ¼ih,ed,s lokb½Z 6 2 8
+4702 vU; Ldhe 0 0 0
+4711 Rofjr flapkb Z ykHk rFkk ck< + icz /aku dk;ØZ e ¼,vkbcZ hih½ rFkk ty lla k/ku ds vU; 344 160 504
+dk;ØZ e
+4711 lhek {k=s e sa unh icz a/ku xfrfof/k ,o a dk;Z 35 0 35
+4711 mpar -31 -8 -39
+5054 dUsnhz; lMd+ fuf/k 417 0 417
+5054 mpar -18 0 -18
+5054 i/zkkuea=h xkze lMd+ ifj;kstuk&okeiFa k mxoz kn iHzkkfor {ks=ka s ds fy, lMd+ lEid Z 251 199 450
+ifj;kstuk A
+Total 16712 17925 34637
+Annexure 3.2 B: Flow of Funds from centre to the State: 2021-22 (Rs Crore)
+MH Scheme Central State Total
+Share Share
+2011 नेशनल ई - िवधान ए(cid:304)(cid:600)केशन (एन . ई . वी .ए .) 2 1 3
+2029 jk"Vªh; Hk&w vfHky[s k icz a/ku dk;ZØe 0 7 7
+2055 ifqyl rFkk vU; oyk sa ds vk?kqfudhdj.k gsr q jk"Vªh; Ldhe 3 26 29
+2055 vf/kd] vukisf{kr fudklh dh x;h jkf'k dh okilh 0 0 0
+2202 lo Z f'k{kk vfHk;ku 3496 9783 13279
+2202 ikzFkfed f'k{kk gsr q iks"k.kxr leFkuZ dk jk"Vªh; dk;dZ ez 879 519 1398
+2202 vukif{kr fudklh dh x;h jkf'k dh okilh 0 0 0
+2202 jk"Vªh; ek/;fed f'k{kk vfHk;ku 61 185 246
+2202 jk"Vªh; mPprj f'k{kk vfHk;ku 0 4 4
+2202 v/;kid ifz'k{k.k vkjS ikzS< + f'k{kk lfgr 'kfS{kd fodkl gsr q leFkuZ 0 3 3
+2202 v/;kid f'k{kk laLFkku 0 0 0
+2202 vYil[a ;dka s ds fy, cg{qks=d fodkl dk;dZ ez ¼i/zkkue=a h tu fodkl dk;Zdez ½ 0 0 0
+2210 एन आर एच एम 1504 1386 2890
+2210 औषधीय पौधो ं संबंधी िमशन सिहत रा(cid:700)(cid:332)ीय आयुष िमशन 17 14 31
+2210 एन एच एम के केनदाश मद मे पापत कम राि◌श की राजय संसाधन दारा प 0 90 90
+2211 (cid:738)ा(cid:726) तथा िचिक(cid:534)ा िश(cid:407)ा म(cid:336) मानव संसाधन 781 154 935
+2215 LoPN Hkkjr fe'ku 31 -9 22
+2216 bafnjk vkokl ;kstuk 3082 3660 6743
+2217 'kgjh iuq fufZodj.k fe'ku ¼ve:r½ 0 290 290
+2217 lc ds fy, vkokl 'kgjh fe'ku 71 64 135
+2217 LekV Z flVh fe'ku ;kstuk 272 200 472
+118

@@ -1,0 +1,54 @@
+Chapter 13: Reforms in the Power Sector
+where the loss may occur on the wire as electricity travels on the sub‑transmission and
+distribution lines, or due to theft through unauthorised connections, bypassing meters, meter
+tampering or falsifying meter readings through underbilling, and on account of under‑collection
+on what is billed.
+The following equation measures this loss:
+𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 𝐵𝐵𝑒𝑒𝐵𝐵𝑒𝑒𝑒𝑒𝑒𝑒 𝑅𝑅𝐵𝐵𝑅𝑅𝐵𝐵𝑒𝑒𝑝𝑝𝐵𝐵 𝑝𝑝𝑇𝑇𝐵𝐵𝐵𝐵𝐵𝐵𝑝𝑝𝑇𝑇𝐵𝐵𝐵𝐵
+AT&C Loss (as % of energy purchased)=�1− × � 𝑋𝑋 100
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝐵𝐵 𝐵𝐵𝑒𝑒𝐵𝐵𝑒𝑒𝑒𝑒𝑒𝑒 𝑝𝑝𝑝𝑝𝑒𝑒𝑝𝑝ℎ𝑇𝑇𝑎𝑎𝐵𝐵𝐵𝐵 𝑅𝑅𝐵𝐵𝑅𝑅𝐵𝐵𝑒𝑒𝑝𝑝𝐵𝐵 𝑏𝑏𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵
+13.52 The first fraction inside the brackets in this equation may be interpreted as billing
+efficiency, and the second as collection efficiency. The larger the former, the greater the billing
+efficiency and the smaller the loss due to inefficient transmission and distribution lines and theft.
+The larger the latter, the greater the efficiency of bill collection. Data are available to measure
+both the billing and collection efficiencies.
+13.53 The AT&C loss does not measure the economic loss (which is measured by ACS‑ARR
+gap), but it has an important bearing on it. Economic loss depends not just on the proportion of
+electricity purchased for which no revenue is collected, but also on the purchase and sale price
+of electricity. The higher the purchase price, the lower the sale price, and the higher AT&C loss,
+the higher is the economic loss. The sale price is nothing but the electricity tariff set by the
+regulatory authority. Therefore, whether or not the regulatory authority sets tariffs at
+cost‑reflective levels is crucial to the profitability of DISCOMs.
+Figure 13.3 State‑wise Comparison of Billing and Collection Efficiencies, and AT&C
+Losses with All‑State Average, 2023‑24
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Source: PFC Report on Performance of Power Utilities 2023‑24 (Updated May 2025)
+285
+egatnecreP
+hsedarP
+arhdnA
+hsedarP
+lahcanurA
+massA rahiB hragsittahhC aoG tarajuG anayraH hsedarP
+lahcamiH
+dnahkrahJ akatanraK alareK hsedarP
+ayhdaM
+arthsarahaM rupinaM ayalahgeM maroziM dnalagaN bajnuP nahtsajaR mikkiS udaN
+limaT
+anagnaleT arupirT hsedarP
+rattU
+dnahkarattU lagneB
+tseW
+Billing efficiency (BE) Collection efficiency (CE)
+AT&C losses (ATC) BE average (All States)
+CE average (All States) AT&C average (All States)

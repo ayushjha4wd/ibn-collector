@@ -1,0 +1,46 @@
+7.3.2 Erosion of Capital Base in SPSEs
+As of March 31, 2023, 14 SPSEs had accumulated losses totaling Rs. 27,037crore. 10 out of these 14
+SPSEs had negative net worth – they capital based having been completely eroded by accumulated
+losses. The total negative net worth of these 10 SPSEs stood at - Rs. 3,210 crore, against an equity
+investment of Rs. 304 crore. Of these BSRTC had the largest negative net worth of - Rs. 2,073 crore,
+with accumulated losses of Rs. 2,174 crore against a paid-up capital of Rs. 101 crore, followed by Bihar
+State Food and Civil Supplies Corporation Ltd. has a negative net worth of - Rs. 457 crore, which owes
+the government of Rs. 2,320 crore in loans. Another company, Bihar State Financial Corporation, had
+its net worth at - Rs. 428 crore, with accumulated losses of Rs. 506 crore.
+The reasons for losses vary across enterprises. Four SPSEs incurred losses primarily due to high finance
+costs on large borrowings from the state government or other financial institutions coupled with
+operational losses. Only the Bihar Rajya Beej Nigam Ltd., despite accumulated losses, has shown
+profitability in recent years. The persistence of negative net worth over extended periods is also
+disconcerting - Bihar State Food and Civil Supplies Corporation has negative net worth since 1980-81,
+while Bihar State Financial Corporation has been in this situation since 1998-99.
+This widespread erosion of capital in SPSEs calls for urgent and comprehensive reform measures
+including steps for liquidation of the se companies.
+7.3.3 Return on Capital Employed (RoCE)
+Capital employed equals total assets less the current liabilities or the sum of fixed assets and working
+capital, and represents the capital a company invests into business for purchasing equipment and
+materials, hiring employees, etc. Table 7.7 shows the sector-wise Return on Capital Employed (RoCE)
+by the SPSEs from 2020-21 to 2022-23. Over these three years, Power Sector SPSEs, which accounts
+for most of the capital employed, consistently reported negative earnings before interest and taxes
+(EBIT), and hence leading to a negative RoCE. In contrast, Agriculture and Allied sector SPSEs
+maintained a modest but stable RoCE of 3.70% across all three years, reflecting steady profitability
+relative to the capital employed, and other SPSEs also recorded positive and healthy RoCE, though the
+Capital Employed was too small to make any difference in the larger economy.
+Table 7.7: Return on Capital Employed (Rs crore)
+Capital RoCE (%)
+Year Particulars EBIT
+Employed
+Power Sector SPSEs -1,135 33,331 -
+Agriculture and Allied sector SPSEs 78 2,114 3.7
+2020-21 Other SPSEs 239 -103 -
+Total -817 35,342 -
+Power Sector SPSEs -921 33,102 -
+Agriculture and Allied sector SPSEs 78 2,114 3.7
+2021-22
+Others SPSEs 252 1,043 24.1
+Total -591 36,259 -
+Power Sector SPSEs -1,221 33,006 -
+Agriculture and Allied sector SPSEs 78 2,114 3.7
+2022-23 Others SPSEs 252 1,043 24.1
+Total -891 36,163 -
+Source: State Finance Audit Reports of the CAG of India for Bihar Govt., FY 2023
+186

@@ -1,0 +1,29 @@
+Chapter 6 : Towards Cooperative Ferderalism: Balancing Equity and Efficiency
+methodology and the calculations for this criterion.
+Tax effort
+6.55 The FC-X, FC-XI and FC-XII used tax effort of States as a criterion in the devolution
+formula to reward State's own tax performance. Many States have suggested inclusion of tax
+performance criteria to incentivise States with higher efficiency of tax collection. This
+Commission is of the view that the inclusion of tax effort as a criterion will reward the States with
+higher tax collection efficiency and, at the same time, will also encourage all States to be more tax
+efficient.
+6.56 The tax effort of States is computed by first calculating the ratio of per capita own tax
+revenue of a State and its per capita GSDP over three years (2016-17 to 2018-19) and then taking
+the ratio thereof. This ratio has been scaled by the population of the State. Annex 6.5 gives the
+calculation table for this criterion. A weight of 2.5 per cent has been assigned to this.
+6.57 Overall, the horizontal formula and the weights attached to the criteria are summarised in
+Table 6.4. The End Note of this chapter explains the methodology and mathematical model for
+computing inter se horizontal shares of all States.
+Table 6.4: Criteria and Weights assigned for Horizontal Devolution
+Criteria Weight (%)
+Population 15.0
+Area 15.0
+Forest and ecology 10.0
+Income distance 45.0
+Tax and fiscal efforts 2.5
+Demographic performance 12.5
+100.0
+6.58 For the period 2021-22 to 2025-26, the inter se shares of States in the net proceeds of the
+taxes (divisible pool) as recommended by this Commission, based on the methodology described
+above, are given in Table 6.5.
+163

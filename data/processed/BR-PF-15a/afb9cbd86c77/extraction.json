@@ -1,0 +1,24 @@
+{
+  "raw_path": "data/raw/BR-PF-15a/2026-11-13/commission-reports-fifteenth.html",
+  "raw_sha256": "afb9cbd86c77f60d3548661c54a67a94718225f8874b9aa5a2b16574333cebe9",
+  "source_id": "BR-PF-15a",
+  "source_url": "https://fincomindia.nic.in/commission-reports-fifteenth",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:35:59+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_1.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_2.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_3.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_4.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_5.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_6.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_7.csv",
+    "data/processed/BR-PF-15a/afb9cbd86c77/tables/table_8.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

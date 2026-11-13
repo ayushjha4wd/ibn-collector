@@ -1,0 +1,46 @@
+(a) Salary component (%) 25 15 22 14 13 19 10 12 8 8 6
+(b) Non-salary component
+75 85 78 86 87 81 90 88 92 92 94
+(%)
+Capital Outlay 3313 4090 4198 4417 5601 5402 5275 1514 3254 5332 7569
+Capital Outlay (%) 80 75 81 72 76 79 65 38 48 59 62
+Irrigation and Flood Control
+Total Expenditure 2854 2838 2444 2836 2844 3967 3406 1425 3844 4712 3945
+Revenue Expenditure 914 1039 1020 1151 1048 1301 1360 871 1631 1101 1294
+(a) Salary component (%) 66 56 58 57 57 51 51 78 42 63 56
+(b) Non-salary component
+34 44 42 43 43 49 49 22 58 37 44
+(%)
+Capital Outlay 1940 1799 1424 1685 1796 2665 2046 555 2213 3611 2652
+Capital Outlay (%) 68 63 58 59 63 67 60 39 58 77 67
+Agriculture and Allied Activities
+Total Expenditure 3262 3670 3615 4120 2414 3824 3740 4066 3374 3428 5212
+Revenue Expenditure 3170 3193 3431 3515 2287 3626 3636 3995 3282 3134 4563
+(a) Salary component (%) 15 15 14 15 23 16 21 20 26 28 22
+(b) Non-salary component
+85 85 86 85 77 84 79 80 74 72 78
+(%)
+Capital Outlay 92 477 185 605 128 198 105 70 92 294 649
+Capital Outlay (%) 3 13 5 15 5 5 3 2 3 9 12
+Industry and Minerals
+Total Expenditure (Rs.
+583 1115 564 1230 1116 866 938 813 534 1178 3007
+crore)
+Revenue Expenditure 534 580 561 1201 888 756 840 676 419 1048 1314
+(a) Salary component (%) 16 11 11 5 7 9 9 12 20 8 6
+(b) Non-salary component
+84 89 89 95 93 91 91 88 80 92 94
+(%)
+Capital Outlay 49 535 3 29 228 110 98 137 116 129 1693
+Capital Outlay (%) 8 48 1 2 20 12.8 10.4 17 22 11 56
+Total (Economic Services)
+Total Expenditure 20246 24871 29173 37305 44943 45360 41603 33684 39935 49183 61896
+Revenue Expenditure 12710 14060 14445 19696 23417 23476 27918 26571 29445 34166 39598
+(a) Salary component (%) 15 15 14 11 9 10 8 10 9 8 8
+(b) Non-salary component
+85 85 86 89 91 90 92 90 91 92 92
+(%)
+Capital Outlay 7536 10811 14728 17609 21526 21884 13686 7113 10491 15017 22298
+Capital Outlay (%) 37 43 50 47 48 48 33 21 26 30 36
+Source: Finance Accounts of the Bihar Government for respective years
+96

@@ -1,0 +1,24 @@
+4235 ?kVk;as iwa thxr ys[kask eas zikfIr;ak vSkj owlfy;ak 0 0 0
+4235 fe'ku 'kfDr ¼alcy½ ou LVkWi aslVj 0 0 0
+4250 vYial[; dask ds fy, cqg{sk= d fo dkl dkZ;dze ¼zi/kkuae=h tu fo dkl dkZ;dze½ 8 5 13
+4250 vYial[; dask ds fy, cqg{sk= d fo dkl dkZ;dze& fo'sk"k jkT;ak'k ¼zi/kkuea=h tu fo dkl 0 5 5
+dk;Zzde½
+4515 ,y MCYw; bZ f tyask ds fy, ,0lh0,0 ¼qify l cyask dk vk/qkfu dh dj.k½ 38 0 38
+4515 ?kVk,a wai thxr ys[kask eass izkfIr;ak rFkk owlfy;ak -1 0 -1
+4515 iz/kkuae=h xzke l+Md ;sk tuk ¼ih0,e0 th0,l0okZb0½ 1308 758 2066
+4700 iz/kkuae=h d`f"k falpkbZ ;sk tuk 31 76 107
+4700 mÙkj dsk;y tyk'k; ifj;sk tuk 0 0 0
+4702 iz/kkuae=h d`f"k falpkbZ ;sk tuk ¼ih0,e0 ds0,l0ckbZ0½ ¼gj [skr dsk ikuh½ 9 6 15
+4711 Rofjr falpkbZ ykHk rFkk ck+< zica/ku dkZ;Øe ¼,vkbZchih½ rFkk ty allk/ku ds vU; dkZ;Øe 477 5 482
+4711 lhek {sk= ase unh izca/ku xfrfof/k ,ao dk;Z 51 0 51
+4711 ?kVk,¡ w¡i thxr ys[kask eas zikfIr;k¡ rFkk owlyh;k¡ 0 0 0
+4711 mapr 7 0 7
+4801 fiN+Mk {ks= vqunku fuf/k ¼ch0vkj0th0,Q0½ 250 0 250
+5054 dsUznh; lM+ d fuf/k 431 0 431
+5054 fo'sk"k lgk;rk ¼ch0vkj0 th0&iFk½ 0 0 0
+5054 mapr 15 0 15
+5054 iz/kkuae=h xzke l+Md ifj;sktuk&okeaiFk mxzokn izHkkfor {sk=kas ds fy, l+Md lEi Zd 135 104 239
+ifj;sk tuk A
+Total 25898 31554 57452
+Source: Govt. of Bihar, Dept. of Finance
+125

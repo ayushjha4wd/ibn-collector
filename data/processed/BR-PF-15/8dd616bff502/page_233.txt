@@ -1,0 +1,41 @@
+Chapter 10: Local Body Grants
+Accounts and Audit
+10.69 The National Municipal Accounting Manual (NMAM), formulated in 2004, represented
+the first significant and concerted effort to introduce a uniform structure to the accounting
+practices of ULBs across the country. However, due to the absence of statutory backing, its
+adoption has been inconsistent and incomplete, both across different States and within
+individual States. Consequently, some States and larger ULBs continue to adhere to their own
+distinct accounting systems, often employing non‑comparable accounting heads.
+10.70 Based on the accounting data reported by the States for 97 per cent of ULBs through the
+cityfinance portal, 66 per cent follow accrual accounting, 21 per cent cash accounting and 13
+per cent mixed cash‑accrual accounting. There exist significant State‑wise differences as well.
+For instance, around 98 per cent of ULBs in Andhra Pradesh, Tamil Nadu and Telangana adhere
+to accrual accounting in comparison to only 7 per cent in Goa and Punjab and 6 per cent in
+Nagaland. Such variation makes the examination, audit and a meaningful inter‑State comparison
+extremely difficult.
+10.71 An effort is currently underway at MoHUA to develop an Enterprise Resource Planning
+(ERP) solution for ULBs. It aims to facilitate the entry of financial transactions and the
+preparation of accounts in a manner integrated with the PFMS. MoHUA is also currently
+engaged in an effort to map the existing CoAs of ULBs with the CoA of the Union Government.
+The Union Government has also announced an Urban Data platform for improved governance.
+The Commission recommends extending the digital platform's capabilities to support ULBs in
+preparing accounts and financial reports.
+10.72 In contrast to ULBs, RLBs have made excellent progress in providing the accounts data
+through the adoption of the e‑Gram Swaraj platform. This web‑based portal serves as a unified
+system facilitating planning, progress reporting and work‑based accounting for over 2.5 lakh
+RLBs across the nation.
+10.73 RLBs uniformly adhere to the cash‑based Model Accounting System (MAS). This
+system offers a simplified accounting framework tailored to the needs of all three tiers of the
+PRIs. The accounting structure captures the fund flows under numerous schemes and its CoAs
+align with that of the Union and State Governments.
+10.74 In this context, we support the continuation and strengthening of the arrangements for
+Technical Guidance and Supervision by the CAG. State Governments should augment the
+capabilities of their Local Fund Audit Departments (LFADs) by investing in skill development
+and addressing manpower shortages.
+Data Sources
+10.75 For RLBs, we procured data from States via specific formats on our dedicated portal.
+We also leveraged relevant data provided by MoPR, including information available on the
+e‑GramSwaraj portal. For ULBs, data was collected by the Commission through the cityfinance
+portal and also provided by the MoHUA. Owing to the concerted efforts of Union Ministries
+and the conditionalities stipulated by previous FCs, the availability of local body data has
+211

@@ -1,0 +1,38 @@
+In the realm of hydroelectric power, Bihar State Hydroelectric Power Corporation (BSHPC) currently
+operates 13 mini and small hydel projects with a total installed capacity of 54.3 MW. Additionally, 11
+more mini hydel power projects with a combined capacity of 9.3 MW are under construction. The state
+is also exploring the potential for larger hydroelectric projects in the Mahananda River, Burhi Gandak,
+and Gandak River Basin through feasibility studies. The target is to achieve 35% power generation from
+renewable energy sources by 2025-26.
+7.5.6 Power Subsidies
+From 2017-18 onward, the Bihar Government began providing subsidies directly to Bihar State Power
+(Holding) Co. Ltd., specifically to cover the reduced tariff rates for Kutir Jyoti, Domestic, and Agricultural
+consumers, as well as for Transmission and Distribution (T&D) losses exceeding the limits set by the
+State Electricity Regulatory Authority. The subsidies were reflected in consumers' electricity bills as
+State Government Subsidy. The financial support to the energy sector has seen a significant increase
+over the years, with the subsidy rising from Rs. 3,492 crore in 2017-18 to Rs. 12,223 crore in 2022-23.
+The energy department consistently received the highest proportion of total subsidies provided by the
+state government, accounting for over 80% in recent years.
+Table 7.14: Power Sector Subsidy Provided by Bihar Government (Rs. Crore)
+2017-18 2018-19 2019-20 2020-21 2021-22 2022-23
+Energy 3492 5737 5193 6760 8181 12223
+Total Subsidy by State Government 5023 8324 7121 8167 10256 14828
+Subsidy given to Energy Department (%) 69.5 68.9 72.9 82.8 79.8 82.4
+Source: CAG Audit Reports of Bihar
+7.5.7 Outcomes of Power Reforms
+1. Power Availability and Consumption
+Per capita power consumption increased from 134 kWh in 2011-12 to 329 kWh in 2021-22, a growth
+of 145.5% over a decade. The average power availability in Bihar during 2021-22 in urban areas was
+23.1 hours and 20.1 hours in rural areas. Average power availability improved to 23-24 hours in urban
+areas and 21-22 hours in rural areas by 2023. The peak power demand met rose from 4535 MW in
+2017-18 to 7576 MW in July 2023, an increase of 67%. Energy availability improved from 26,788 MU
+in 2017-18 to 45,136 MU in 2022-23, a growth of 68.5%.
+2. Expansion of Consumer Base
+The number of electricity consumers increased from 145.7 lakh in 2018-19 to 189.6 lakh in 2022-23, a
+growth of 30% in four years. The number of agricultural consumers increased by 117% from 2.28 lakh
+in 2018-19 to 4.95 lakh in 2022-23.
+3. Reduction in Losses
+Aggregate Technical & Commercial (AT&C) losses reduced from 54.63% in 2012-13 to 24.32% in 2022-
+23, but it is still way above the national average of only 15%.
+4. Improved Financial Performance of DISCOMs
+196

@@ -1,0 +1,53 @@
+vi)
+
+vii)
+
+10.
+
+11.
+
+Birth & Death Registration (Which is to be linked to RGI Portal)
+
+Online booking for other Services like-Supply of water tank, Booking for Bulk Garbage
+Collection, Booking for Suction Machine for Septage, Booking for Community
+Hall/Town Hall etc.
+
+RTI Management System
+
+इसके अंतर्गत Online Application Wat करने से लेकर सूचना उपलब्ध कराने तक की व्यवस्था
+
+होगी।
+
+Grievance Redressal Management System
+इसके अंतर्गत सभी प्रकार की एवं सभी Sources G WT Online-Offline Complain की
+
+Process तथा इसके Compliance एवं Reporting की एकीकृत व्यवस्था होगी
+Public Grievance Redressal Act, 2015 संबंधी कार्य
+
+Procurement of Goods/Materials/Services Management System
+
+इसके अंतर्गत निम्नलिखित Modules शामिल होगा :-
+
+E-auction
+
+e-Tendering (e-Procurement)
+Procurement through GeM Portal
+Procurement by quotation
+Inventory of Procured Goods.
+
+Court Case Management System
+इसके अंतर्गत सभी प्रकार के Court Cases की Processing की व्यवस्था होगी।
+
+Parliamentry and Assembly Question/Report Management System
+इसके अंतर्गत लोक सभा/राज्य सभा/विधान सभा/विधान परिषद्‌ के सभी प्रकार के
+
+प्रश्नों / प्रतिवेदनों के Reporting की व्यवस्था होगी।
+
+Developmental Scheme Management System
+
+इसके अंतर्गत निम्नलिखित सभी कार्य सम्मिलित होंगे :-
+All Central/State/ULB's Schemes will be Covered under it.
+
+Sanction of Drawing & Estimated
+
+Page 349

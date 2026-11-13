@@ -1,0 +1,39 @@
+Chapter 14: Containing and Making Subsidies Efficient
+14.8 This discussion highlights the challenges in defining and measuring subsidies. The
+challenges magnify as we transition from conceptual analysis to data. Keeping this in mind, we
+outline our approach in the context of the available data. We first consider the subsidies provided
+by the twenty‑one larger States and then the Union.
+Approach to Measuring State Subsidies
+14.9 We adopt a conservative approach to identifying subsidies by focusing only on payments
+that the State Governments make autonomously through their discretionary schemes, as outlined
+in the detailed demand for grants. This approach automatically excludes expenditures incurred
+for the provision of public goods or community‑level services provided by the government. Four
+key elements of our approach are worth noting.
+14.10 First, in measuring subsidies, we include only the purely discretionary items of
+expenditure. For example, when considering subsidies provided by States, we exclude their
+share in centrally sponsored schemes (CSS) since this expenditure is a means to access central
+resources. However, we include in our measure any top‑ups by States to the CSS, as they are
+discretionary and like a parallel State scheme.
+14.11 Second, schemes included in our subsidy measure are those whose benefits flow to
+identifiable individual beneficiaries in cash or kind. Schemes that provide community‑level
+benefits or services or create a community asset are excluded. While a subsidy on agricultural
+equipment, provided to a farmer, is included, expenditure on a scheme aimed at watershed
+development is excluded. The latter is akin to a development scheme, potentially characterised
+by externalities or public goods characteristics. We also exclude from our subsidy measure any
+expenditure incurred as a part of relief and reconstruction following disasters such as
+earthquakes and floods.
+14.12 Third, we include only revenue expenditure in our subsidy measure, thereby excluding
+all capital outlays, loans, or advances. This means that expenditures on asset creation, such as
+those on infrastructure, are excluded. A grey area item is the government support to public sector
+enterprises through equity that is not expected to result in any realisable return. Such capital
+infusion is in the nature of a grant; however, we exclude it to limit our measure of subsidy to
+revenue expenditures.
+14.13 Finally, in measuring subsidies, we include schemes that provide subsidies on goods and
+services as well as income support to individual beneficiaries. These subsidies are the converse
+of indirect and direct taxes. Indirect subsidies distort product markets, while direct subsidies
+distort labour‑leisure choices. With the emergence of Direct Benefit Transfers (DBT) and their
+superior ability to efficiently target beneficiaries, income support schemes are gaining
+popularity over product subsidy schemes. These are referred to as transfers. In this chapter, we
+frequently use the terms ‘subsidies and transfers’ to emphasise the growing importance of
+transfers within subsidies.
+295

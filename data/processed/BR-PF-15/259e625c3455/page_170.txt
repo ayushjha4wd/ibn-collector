@@ -1,0 +1,42 @@
+Table 5.14 A: Estimate of Fiscal Deficit and Outstanding Liabilities
+2023-24 2024-25 2025-26 2026-27 2027-28 2028-29 2029-30 2030-31
+GDSP 826536 909189 1000108 1100119 1210131 1331144 1464258 1610684
+Fiscal 24796 27276 30003 33004 36304 39934 43928 48321
+Deficit (3%
+of GSDP)
+Outstanding 33.1 32.8 32.5 32.5 32.5 32.5 32.5 32.5
+Liability as
+% of GSDP
+Outstanding
+Liabilities
+(Rs Crore) 273583 298214 325035 357539 393293 432622 475884 523472
+To test the validity of this roadmap, using the projected own revenues of the state as calculated earlier
+in Chapter 2, and using the CAGR of revenue expenditure, share of central taxes and central grants for
+the same period 2012-2023, we determine the revenue Deficit and primary deficit as shown in table
+5.14 B.
+Table 5.14 B: Projected revenue deficit and primary deficit (Rs Crore)
+Sl. Items Basis of 2023- 2024- 2025- 2026- 2027- 2028- 2029- 2030-
+No. calculation 24 25 26 27 28 29 30 31
+1 Revenue CAGR- 12.94%
+Expenditure 207782 234669 265035 299331 338064 381809 431215 487015
+2 Own As estimated in
+Revenue Chapter 2 72672 84149 97439 112827 130646 151280 175171 202836
+3 Central CAGR - 10.94%
+Grants 32201 35724 39633 43968 48778 54115 60035 66603
+4 Tax CAGR - 11.57%
+Devolution 106385 118694 132427 147749 164843 183916 205195 228936
+5 Total = 2+3+4
+revenue 211259 238567 269499 304544 344268 389311 440401 498375
+6 Revenue = 1-4
+Deficit -3477 -3899 -4464 -5214 -6204 -7501 -9185 -11360
+7 Interest Calculated @
+payments weighted interest
+rate of 7.2% from
+Table 5.8 19698 21471 23403 25743 28317 31149 34264 37690
+8 Primary FD (Table 5.14A) -7
+Deficit 5098 5804 6601 7261 7987 8786 9664 10631
+Next, we check if the primary deficits calculate above are debt sustaining. The interest growth rate
+differential (IGDR) being -2.8% (=10.0-7.2), the maximum primary deficit that can be tolerated for
+sustaining the debt ratio at 32.5% are as shown in Table 5.14 C. It shows that in each year, the projected
+primary deficit is less than the maximum permissible primary deficit, as calculated above.
+154

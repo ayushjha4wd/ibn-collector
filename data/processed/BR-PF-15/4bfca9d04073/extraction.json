@@ -1,0 +1,22 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Time_series_of_transfer_of_resources_from_Centre_to_States.xlsx",
+  "raw_sha256": "4bfca9d040734cae4aabf693ea1817f2e437cd58f9066079bf5d519a90d1ed3d",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Time%20series%20of%20transfer%20of%20resources%20from%20Centre%20to%20States.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:20+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/Time_series_of_transfers_-_mast.csv",
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/Grants_-_details_RBI.csv",
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/GDP.csv",
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/FC_XII_report_annex_2.1.csv",
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/RBI_Bulletin_references.csv",
+    "data/processed/BR-PF-15/4bfca9d04073/sheets/GRR.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

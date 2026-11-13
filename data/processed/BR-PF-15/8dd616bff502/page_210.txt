@@ -1,0 +1,42 @@
+Sixteenth Finance Commission
+10 efficiency levels observed across years and across States, they could have generated an
+additional tax revenue of approximately ₹1.5 lakh crore. In an alternate scenario, if the States
+were to operate only at the average efficiency level of top three best performing States in
+2023‑24, they could have still generated an additional tax revenue of approximately ₹1 lakh
+crore.3
+9.37 For the assessment of revenue receipts, the base year (2025‑26) figures of tax revenues
+are projected by compounding the tax revenues of three years (2021‑22, 2022‑23 and 2023‑24)
+to 2025‑26 at the State‑specific trend growth rate (TGR) observed from 2018‑19 till 2023‑24
+and then taking the average of these three figures.
+9.38 For the award period, we have applied a State‑specific growth rate on base year tax
+revenue figures thus arrived. For this purpose, we have categorized the States into three groups
+based on their assumed buoyancies. For States with higher tax potential, we have assumed a
+buoyancy of 1.15; for States that operate at or near their potential level, we have assumed a
+buoyancy of 1.05. The rest of the States have been assigned a buoyancy of 1.1. We have assumed
+a buoyancy of 1.05 for all NEH States except Assam, Uttarakhand and Himachal Pradesh. We
+find that these three States have higher tax potential and have therefore assigned them higher
+buoyancy. The resultant assumed growth rate in tax revenues has been capped at 12 per cent for
+every State. This has been done to keep the assumptions realistic for States for which a high
+GSDP growth rate is assumed.
+9.39 Non‑tax revenues constitute only 14 per cent of States’ own resources and do not follow
+any consistent trend. For projecting a credible roadmap, non‑tax revenues have been assumed
+to grow at 7 per cent per annum over the base year figures. The base year figures for non‑tax
+revenues have been calculated in the same manner as tax revenues, however, using the TGR
+from 2011‑12 to 2023‑24 with a floor TGR of 2 per cent.
+9.40 The share in Union taxes has been calculated based on our recommendations for vertical
+and horizontal devolution, as well as the projections for the gross tax revenues of the Union
+Government and the divisible pool and grants‑in‑aid (net of RDG) has been projected to grow
+at the rate of 7 per cent annually.
+Revenue Expenditure
+9.41 A major portion of States’ revenues go towards meeting committed expenditure
+comprising of salaries, pensions and interest payments. Our analysis shows that expenditure on
+these items vary significantly amongst States. Per capita salary expenditure of non‑NEH States
+in 2023‑24 varies from as high as ₹11,000 in States like Punjab, Tamil Nadu and Kerala down
+to ₹4,500 in (cid:37)ihar. Similarly, per capita pension expenditure of non‑NEH States in the same
+year varies from as high as ₹(cid:26),000 in (cid:46)erala to as low as ₹2,000 in Bihar. The per capita salary
+and pension expenditures of NEH States is about double that of non‑NEH States. Figure 9.7
+shows a definite positive relation between the per‑capita salary and pension expenditure of
+States and the revenue deficit.
+3 Similar findings on the potential for additional tax revenue generation by states have been reported across multiple studies
+(RBI, 2024; Rao & Azharuddin, 2025).
+188

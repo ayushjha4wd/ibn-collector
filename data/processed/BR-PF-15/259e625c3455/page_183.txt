@@ -1,0 +1,46 @@
+Table 6.6: Expenditure of All PRIs during 2015-20 (Rs. crore)
+Items 2015-16 2016-17 2017-18 2018-19 2019-20 2015-20
+1. Establishment
+a) Salary 189 179 192 221 170 951
+b) Pension Related to finance Department
+c) Others 184 133 131 106 138 692
+Total 373 312 323 327 308 1643
+2. Operation & Maintenance of Civic Services - No expenditure recorded
+3. Utilisation of UFC14 Grants
+14FC (20%) 2269 628 726 840 1135 5598
+MMNY30 (80%) 0 2514 2904 3360 4540 13318
+a) Basic
+Total 2269 3142 3630 4200 5675 18916
+b) Performance 0.00 0 0 0 0 0
+Total 2269 2269 3142 3630 4200 18916
+4. SFC5 Devolution and Grant Utilisation
+a) Devolution SFC5 0 547 507 502 630 2186
+MMNY 0 931 864 855 1073 3722
+b) Grant 0 674 1052 1243 1275 4244
+c) Performance 0 0 0 0 0 0
+Total 0 2151 2424 2601 2977 10152
+5. Centrally Sponsored Schemes
+a) MGNREGS Related to Rural Development Department
+b) BRGF This scheme has been closed
+c) RGPSA 0 51 0 0 6 57
+d) IAY Related to Rural Development Department
+e) Others, specify
+Total 0 51 0 0 6 57
+6. State Sponsored Schemes
+a) Mukhya Mantri Nal Jal Yojna
+b) Mukhya Mantri Gali Nali 0 620 1623 900 1217 4360
+Yojana
+c) Jal Jivan Hariyali
+d) Other, if any specify
+i. Allowance of PRIs 179 205 281 309 209 1183
+ii. EAP 0 50 80 272 100 503
+iii. PSB 123 205 51 36 50 464
+iv. Modernization of PRD 1 1 1 1 0 4
+v. Zila Panchayat Estt. 3 1 1 11 1 17
+vi. Contingency of GK 3 4 4 6 5 22
+vii. Contingency of GP 0 40 49 41 1 131
+Total 309 1126 2090 1577 1582 6684
+Grand Total 2952 6782 8467 8704 10547 37451
+Source: Report of the Sixth State Finance Commission, Government of Bihar
+30 MMMY = Mukhya Mantri Nishchay Yojana
+167

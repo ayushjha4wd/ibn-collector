@@ -1,0 +1,33 @@
+Fifteenth Finance Commission
+Table 6.5: Inter se Shares of States
+State Share (%)
+Andhra Pradesh 4.047
+Arunachal Pradesh 1.757
+Assam 3.128
+Bihar 10.058
+Chhattisgarh 3.407
+Goa 0.386
+Gujarat 3.478
+Haryana 1.093
+Himachal Pradesh 0.830
+Jharkhand 3.307
+Karnataka 3.647
+Kerala 1.925
+Madhya Pradesh 7.850
+Maharashtra 6.317
+Manipur 0.716
+Meghalaya 0.767
+Mizoram 0.500
+Nagaland 0.569
+Odisha 4.528
+Punjab 1.807
+Rajasthan 6.026
+Sikkim 0.388
+Tamil Nadu 4.079
+Telangana 2.102
+Tripura 0.708
+Uttar Pradesh 17.939
+Uttarakhand 1.118
+West Bengal 7.523
+100
+164

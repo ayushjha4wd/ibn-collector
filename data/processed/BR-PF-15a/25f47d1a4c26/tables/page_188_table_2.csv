@@ -1,0 +1,9 @@
+S.No.,Criteria,Weights (%)
+i),Population (2011),35.0
+ii),Area,15.0
+iii),Income Distance,15.0
+iv),"Deprivation (SECC Rural): Total deprived rural households of the State as a
+percent to total deprived households of all states using SECC data",15.0
+v),Urbanisation,10.0
+vi),Fiscal Efficiency ( Fiscal Discipline+Tax Effort),7.5
+vii),Tree cover,2.5

@@ -1,0 +1,38 @@
+Chapter 3 : Setting the Context
+from 2.5 per cent in 2011-12 to 1.2 per cent in 2018-19. But this does not correctly reflect the
+actual cash out-go as explained in the following paragraph. In the medium to long term, resolute
+measures are needed for rationalisation of subsidies. Furthermore, volatility in international oil
+prices is a major risk to the subsidy bill of the Union Government, particularly on liquefied
+petroleum gas (LPG) and fertilizer.
+Table 3.12: Subsidies Relative to Union Government's Net Revenue Receipts
+(per cent of net revenue receipts)
+Year Food Fertiliser Petroleum Others Total
+2011-12 9.7 (0.8) 9.3 (0.8) 9.1 (0.8) 0.9 (0.1) 29.0 (2.5)
+2012-13 9.7 (0.9) 7.5 (0.7) 11.0 (1.0) 1.1 (0.1) 29.2 (2.6)
+2013-14 9.1 (0.8) 6.6 (0.6) 8.4 (0.8) 1.0 (0.1) 25.1 (2.3)
+2014-15 10.7 (0.9) 6.5 (0.6) 5.5 (0.5) 0.8 (0.1) 23.4 (2.1)
+2015-16 11.7 (1.0) 6.1 (0.5) 2.5 (0.2) 1.9 (0.2) 22.1 (1.9)
+2016-17 8.0 (0.7) 4.8 (0.4) 2.0 (0.2) 2.2 (0.2) 17.1 (1.5)
+2017-18 7.0 (0.6) 4.6 (0.4) 1.7 (0.1) 2.3 (0.2) 15.6 (1.3)
+2018-19 6.5 (0.5) 4.5 (0.4) 1.6 (0.1) 1.7 (0.1) 14.4 (1.2)
+2019-20 (RE) 5.9 (0.5) 4.3 (0.4) 2.1 (0.2) 2.0 (0.2) 14.2 (1.3)
+2020-21 (BE) 5.7(0.5) 3.5(0.3) 2.0(0.2) 1.7 (0.2) 13.0 (1.2)
+Source: Union Budget for various years and GDP from NSO
+Note: Figures in brackets show explicit subsidies as ratio of GDP
+3.77 Following the implementation of the National Food Security Act, 2013 (NFSA), food
+subsidy covers approximately 80 crore beneficiaries. Between 2011-12 and 2015-16, food
+subsidy as a proportion of net revenue receipts increased from 9.7 per cent to 11.7 per cent. The
+increase as a proportion of GDP was from 0.8 per cent to 1 per cent. The reported cash outflow,
+however, does not reflect the true impact of food subsidy. For example, in 2016-17 the cash
+outgo on account of this subsidy was Rs. 1.10 lakh crore (0.7 per cent of GDP), in 2017-18 Rs. 1
+lakh crore (0.6 per cent of GDP) and in 2018-19 Rs.1.01 lakh crore (0.5 per cent of GDP).
+However, in addition, the Union Government gave loans to the FCI from the NSSF of Rs. 70,000
+crore in 2016-17, Rs. 65,000 crore in 2017-18 and Rs. 97,000 crore in 2018-19. These are not
+reflected in the overall subsidy figures appearing in Tables 3.11 and 3.12.
+3.78 Targeting of food subsidy is expected to have improved with electronic point of sale (e-
+PoS) devices at fair price shops authenticating beneficiaries at the time of distribution of
+foodgrains and also electronically capturing the quantum distributed to families. While the
+resulting saving from better targetting of food subsidy may have been Rs. 17,500 crore per year,
+there has been no reduction in allocation nor any savings in the budgeted expenditure on a net
+basis, as improved targetting has been offset by the inclusion of new beneficiaries in the scheme.
+73

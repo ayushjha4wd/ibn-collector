@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/Accounts_in_Arrear_of_SPSEs_in_various_States.xlsx",
+  "raw_sha256": "50b4591227f0a562f1bc3f6adb77e15a6d20b8ca6ebca31fb9bddcd7ba05a7a7",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/Accounts%20in%20Arrear%20of%20SPSEs%20in%20various%20States.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:52+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/50b4591227f0/sheets/Accounts_in_Arrear_SPSE.csv",
+    "data/processed/BR-PF-15/50b4591227f0/sheets/Notes.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

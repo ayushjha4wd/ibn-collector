@@ -1,0 +1,37 @@
+Chapter 7: Sharing of Tax Revenues: Vertical Devolution
+Devolution: Recommended versus Actual
+7.27 Because the Union Government must make the initial transfer of the States’ share in the
+divisible pool based on the estimated size of the divisible pool, once the actual size of the
+divisible pool becomes known, a positive or negative discrepancy between the recommended
+and actual devolution may appear. However, our review of the prevailing practice and available
+data shows that adjustments to each year’s devolution are made twice to ensure that no
+discrepancies remain. The Union Government makes the first adjustment once the actual figures
+on all taxes, the divisible pool, and devolution become available to it. And the second adjustment
+is made when the Comptroller and Auditor General (CAG) certifies the amount of divisible
+pool.
+7.28 Table 7.4 presents the full process of adjustments for fiscal years 2018‑19 to 2022‑23,
+the last year for which complete data are available. The first row in the table provides the
+devolution for a given fiscal year, say FY T, based on RE for tax revenue as reported in the FY
+T+1 budget. The second row reports the devolution due in FY T based on actual tax revenue as
+reported in the FY T+2 budget. The third row calculates the additional devolution due to States
+for FY T by subtracting the amount devolved based on RE tax revenue (Row 1) from the amount
+due based on actual tax revenue (Row 2). This adjustment gets made in FY T+2. The fourth row
+reports an additional, second adjustment made based on CAG certified data. This exercise takes
+place during FY T+3. The fifth row reports the divisible pool as certified by CAG. True
+devolution due to States, shown in the sixth row, is 0.42 times the divisible pool in the fifth row
+for years 2018‑19 and 2019‑20, as per the FC‑14 recommendation, and 0.41 times the divisible
+pool for the remaining years as per the FC‑15 recommendation. The last row reports the final
+devolution to the States, which exactly matches the devolution due in the sixth row.
+7.29 For completeness, we note that before 2018‑19, whereas the first adjustment used to take
+place as described above, the second, CAG adjustment took place only once in ten years. Our
+calculations for years 2010‑11 to 2017‑18, not reported here, show that on a net basis, after the
+first adjustment, the Union Government paid the State Governments ₹15,756 crores more than
+what was due based on the CAG‑certified divisible pools and the corresponding
+FC‑recommended shares of States for these years. According to the Ministry of Finance, this
+gap has been settled by recording the excess amount as payment due on certain services that the
+Union Government had received from the States during these years.
+7.30 The responsibility of ascertaining and certifying net proceeds which are to be shared
+between the Union and States is entrusted to the CAG by the Constitution. In the spirit of
+transparency and to put the concerns of States to rest, we recommend that, every year, the Union
+Government disclose the data pertaining to net proceeds as certified by CAG.
+133

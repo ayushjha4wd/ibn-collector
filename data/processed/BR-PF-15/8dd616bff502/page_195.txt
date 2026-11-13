@@ -1,0 +1,50 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+Technical Note: Horizontal Devolution Formula
+Our horizontal devolution is based on six criteria: 1) Population, 2) Demographic Performance,
+3) Area, 4) Forest, 5) Per‑capita GSDP distance, and 6) Contribution to GDP. In the formulas
+below, we represent them by index i with i = 1, 2, … 6. Each criterion is assigned an index value
+corresponding to its order in this list. We index the States by j, with j = 1, 2, …, 28. The share
+of State j in the States’ share in the divisible pool is written as,
+(i) S = (cid:963)(cid:2874) WC j = 1, 2, …, 28.
+j (cid:2919)(cid:2880)(cid:2869) (cid:2919) (cid:2919)(cid:2920)
+In equation (1), we define various symbols as follows:
+S = Share of State j in the States’ share in the divisible pool.
+j
+W = Weight assigned to criterion i in the devolution formula. For example, for i =1, which is
+i
+the population, we have W = 17.5 per cent or 0.175.
+1
+C represents the share of State j in the part of the States’ portion of the divisible pool disbursed
+ij
+based on criterion i.
+With the W already specified by the devolution criteria, we only need to spell out how the C
+i ij
+are determined. This is done separately for each criterion below.
+1) Population (i = 1)
+Under this criterion, each State receives a share in the portion of the States’ share in the divisible
+pool, devolved based on population, equalling its share in the total population of the 28 States.
+Denoting by N the population of State k (k = 1, 2, … 28) as per the 2011 Census, we have,
+k
+(cid:2898)
+(ii) C = (cid:3168) j = 1, 2, …, 28.
+1j (cid:963)(cid:3118)(cid:3124) (cid:2898)
+(cid:3169)(cid:3128)(cid:3117) (cid:3169)
+2) Demographic Performance (i = 2)
+Under this criterion, each State receives a per capita amount in proportion to the inverse
+population growth between 1971 and 2011. The higher the population growth, the lower the
+proportionate per‑capita amount. Denoting by G the growth in population from 1971 to 2011
+k
+in State k, that State’s share in the portion of the States’ share in the divisible pool devolved
+according to this criterion is,
+(cid:3117)
+(cid:2898)
+(iii) C =
+(cid:3139)(cid:3168) (cid:3168)
+j = 1, 2, …, 28.
+2j (cid:963)(cid:3118)(cid:3124) (cid:3117) (cid:2898)
+(cid:3169)(cid:3128)(cid:3117)(cid:3139)(cid:3169) (cid:3169)
+3) Area (i = 3)
+Under this criterion, each State receives a share in the portion of the States’ share in the divisible
+pool in proportion to its share in the total geographical area of the 28 States, subject to a floor
+of 1.5 per cent. For this purpose, the States, having geographical area less than 1.5 per cent of
+173

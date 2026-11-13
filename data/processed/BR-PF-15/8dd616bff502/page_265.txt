@@ -1,0 +1,40 @@
+Chapter 11: Financing of Disaster Management
+Risk Assessment – The Disaster Risk Index
+11.46 FC‑15 quantified disaster risk by assigning scores to the probability of hazards striking
+a State, and the extent of vulnerability. A composite score was developed for each State, leading
+to an index that ranks States based on risk scores. Four major hazards, namely cyclone, drought,
+earthquake, and flood, were taken into account, assigning a maximum score of 15 marks for
+each, with 60 as the total maximum score for these hazards. In addition, 10 marks were given
+to all States for their share of smaller hazards in the ‘other’ category. A vulnerability score of
+30 marks was assigned based on the below poverty line population of each State in 2011‑12 (as
+per Tendulkar methodology) on a graded basis and was added to the hazard score to arrive at a
+DRI score out of 100 for each State.
+11.47 In order to account for exposure, the respective State’s area is scaled by the per square
+kilometre allocation of Maharashtra and the State’s population is scaled by the per capita
+allocation of Maharashtra (Maharashtra was used as the benchmark State by FC‑15). Both these
+values have been given a weight of 15 per cent each. These were added to the average
+expenditure of the State with a weight of 70 per cent. The number so arrived was multiplied by
+a factor of (1+DRI) to arrive at the final allocation for each State.
+11.48 We have revisited the DRI methodology. Internationally accepted definition of Disaster
+Risk is an interaction of Hazard, Exposure, and Vulnerability as per the United Nations Office
+for Disaster Risk Reduction (UNDRR) and the report of the Intergovernmental Panel on Climate
+Change (IPCC). It emphasises that disaster risk emerges from the interaction of weather or
+climate events, which constitute the physical contributors to disaster risk, with exposure and
+vulnerability, the contributors to risk from the human side. Caribbean Disaster Emergency
+Management Agency (CDEMA) also explains disaster risk through the interplay of three main
+components – Hazards, Vulnerability and Exposure. Hence, as per international practice,
+Disaster Risk represents the potential for loss and damage to susceptible people, property, and
+livelihoods during a hazard event. It is determined as a function of hazard, exposure and
+vulnerability. Importantly, the DRI is a multiplicative function of these three variables – disaster
+risk only exists when Hazard, Exposure and Vulnerability intersect.
+11.49 The Hazard variable has been expanded to include new disasters. The expanded hazard
+list includes a total of ten disasters: flood, drought, cyclone, earthquake, landslides, hailstorms,
+cold wave, cloud burst, lightning, and heatwave. The latter two are in the State‑specific disaster
+category. To evaluate the hazard profiles of the States, credible and objective datasets were
+acquired from expert agencies like the Indian Meteorology Department, Central Water
+Commission, Geological Survey of India, National Centre for Seismology, Bureau of Indian
+Standards and Ministry of Agriculture and Farmers Welfare. It was also ensured that the datasets
+used and the methodology adopted to arrive at the index for the States are objective and
+scientifically sound. Hazard scores have been assigned to each State for each disaster based on
+its relative position on the data scale, using quintile breaks. Subsequently, a composite hazard
+243

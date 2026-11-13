@@ -1,0 +1,45 @@
+Chapter 13: Reforms in the Power Sector
+Table 13.2 DISCOM Debt (Top Seven States) and their Annual Growth
+(as on 31 March of Each Year, ₹ crore)
+Year 2018‑19 2019‑20 2020‑21 2021‑22 2022‑23 2023‑24
+Total Debt of 4,71,461 4,79,766 5,55,686 5,92,727 6,61,263 7,42,460
+DISCOMs
+Growth (%) 6% 2% 16% 7% 11% 12%
+1,13,438 1,24,413 1,37,632 1,47,716 1,59,431 1,73,521
+Tamil Nadu
+12% 10% 11% 7% 8% 9%
+54,538 48,934 53,030 65,945 79,611 92,225
+Rajasthan
+-14% -10% 8% 24% 21% 16%
+35,197 38,092 38,254 44,075 58,325 84,171
+Maharashtra
+20% 8% 0% 15% 32% 44%
+59,212 58,326 81,952 82,047 78,307 67,936
+Uttar Pradesh
+2% -1% 41% 0% -5% -13%
+18,023 24,463 31,375 36,364 51,464 65,710
+Andhra Pradesh
+17% 36% 28% 16% 42% 28%
+Madhya 46,052 49,112 50,702 52,473 49,145 50,843
+Pradesh 22% 7% 3% 3% -6% 3%
+17,934 22,202 31,032 30,138 35,239 46,127
+Telangana
+25% 24% 40% -3% 17% 31%
+Source: PFC Report on Performance of Power Utilities 2023‑24 (Updated May 2025)
+13.46 A rise in debt, accompanied by a commensurate rise in revenues or assets, makes the
+possibility of self‑liquidation of debt likely. For eight States27, the growth in debt between
+2018‑19 and 2023‑24 has outpaced their growth in revenues and assets, making the
+self‑liquidation of debt unlikely. These States account for 36 per cent of the total outstanding
+debt in the sector in 2023‑24.
+13.47 Figure 13.2 shows the accumulated losses as per cent of their GSDP for top fifteen States
+in terms of these losses in 2023‑24. These States combined account for 99 per cent of
+accumulated losses of DISCOMs in the country. The aggregate accumulated losses of
+State‑owned DISCOMs which stood at 1.5 times of the aggregate revenue‑deficit of States in
+2021‑22 increased to 6.8 times in 2023‑24. In States like Tamil Nadu and Rajasthan, the
+accumulated losses of DISCOMs account for more than 6 per cent of their GSDP, which is the
+highest among all States.
+13.48 The measurement of DISCOM losses involves comparing the cost of supplying
+electricity per kWh to customers with the revenue realised per kWh sold. The former is referred
+to as the ACS, and the latter is the ARR. ACS‑ARR gap represents the loss per kWh of electricity
+27 Andhra Pradesh, Bihar, Jharkhand, Karnataka, Maharashtra, Manipur, Meghalaya, and Telangana.
+283

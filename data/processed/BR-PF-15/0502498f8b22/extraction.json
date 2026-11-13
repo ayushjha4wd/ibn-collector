@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/FC16_ULB_Data_Dump_Cityfinance.xlsx",
+  "raw_sha256": "0502498f8b22d05cfc7fc043221091af44de47ea7fff68e9f9c5ef1d54b5b492",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/FC16%20ULB%20Data%20Dump%20Cityfinance.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:35:33+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/0502498f8b22/sheets/Demographic_Data_All_ULBs.csv",
+    "data/processed/BR-PF-15/0502498f8b22/sheets/Financial_Docs_All_ULBs_clean.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

@@ -1,0 +1,40 @@
+Fifteenth Finance Commission
+B=Y-E + M - X - [(1- e) (N+I)], where B is the potential GST base; the other variables are
+explained in the table below. The assumptions included full compliance, full pass-through of
+the GST into prices, GST as a single positive rate and a zero rate on exports. The absolute
+numbers below are not important as they relate to 2015-16, the ratios are verified to be robust in
+later years too.
+Estimation of GST collection gap relative toGDP usingsupply and use tables for 2015-16
+(values are in Rs. lakh crore)
+Y= Output at basic prices 252.4 Applying above formula, tax 69.7
+base, B
+M=Import of goods and non-factor services, 25.6 GDP at current prices 137.7
+adjusted for exemptions
+X= Export of goods and non-factor services, 23.7 GST rate 14%
+adjusted for exemptio ns
+Exempted Val ue (E) = (unprocessed farm 52.6 Estimated GST collection in 9.8
+produce, public administration & defence, 2015-16
+education and healt h)
+Exempted value/ Total outpu t (e) =exempt ratio 0.21 GST to GDP ratio: es timate 7.1%
+of potential
+Fixed capital formation(N) 39.8 GST to GDP ratio: current 5.1%
+(without proceeds of
+compensation cess)
+Value of intermediate output(I) 126.8 Gap as % of GDP 2.0%
+Collection efficiency which is the ratio of GST collections to the product of final consumption
+expenditure and standard rate and is a summary measure of efficiency of GST, stands below 50
+per cent now. At the potential estimated above, it will be around 60 per cent, which is around
+advanced country benchmarks.
+Streamlining Customs Duty Structure
+5.11 There is high dispersion across India's complex and multiple rate tariff structure.
+According to World Trade Organization data, the ad-valorem tariff structure of India in 2019
+comprised 94 per cent of the total tariff lines and included fifty-three Most Favoured Nation
+(MFN) applied rates, ranging from 0 to 150 per cent, with an average rate of 18 per cent. Bound
+duties account for 74 per cent of total tariff lines and range from 0 to 300 per cent. While the
+nominal MFN applied rates are higher than in trading partners, the average effective custom duty
+rate is lower. Research shows that revenue may increase with trade liberalisation accompanied by
+a simpler rate structure with an improvement in customs procedures and reduction in non-tariff
+barriers.
+5.12 India's basic customs duty collections stood at 0.6 per cent of GDP and 2.9 per cent of its
+merchandise imports in 2018-19 (Figure 5.5).
+132

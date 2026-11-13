@@ -1,0 +1,39 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+with the Tenth Finance Commission (FC‑10), FCs have devolved a part of the States’ share in
+the divisible pool according to the States’ respective shares in the total area across all States.
+8.21 As conventionally applied, the criterion allocates the devolved funds in direct proportion
+to each State’s share in the total geographical area of all States. A State twice as large in area as
+another State receives twice as much as the latter, and a State thrice as large receives thrice as
+much. Empirically, the per capita cost of the provision of public services may vary, not linearly
+as assumed by this allocation rule, but at a diminishing or an increasing rate. However, FCs have
+not investigated this relationship and adopted the practical assumption of linearity in the
+implementation of the criterion.
+8.22 It has not been generally recognized that, in terms of per capita allocation, this criterion
+is equivalent to an inverse‑population‑density criterion. Area divided by population is the
+inverse of the population density. The higher the population density of a State, the lower its
+allocation per capita according to this criterion. This interpretation makes it further transparent
+that the criterion is designed to correct for the cost disability from the higher per capita cost of
+provision of public services due to a greater dispersion of population.
+8.23 According to the Census 2011, the population density in India varied from 16.5 persons
+per square kilometre to 1105.5 persons per square kilometre. The ratio of these two population
+densities is 67. Therefore, per capita devolution according to this criterion to the State with the
+lowest population density is 67 times that of the State with the highest population density.
+8.24 This interpretation also throws new light on the implications of the assignment of a
+minimum of 2 per cent share under area criterion to each State by recent FCs for equity. To
+explain, consider two States with identical population densities, but one having a 2.1 per cent
+share in the total area and the other having a 0.2 per cent share. Applied without modification
+of area, the criterion would award each State equal per capita allocation. However, replacing the
+smaller State’s share by 2 per cent would mean cutting its population density to one‑tenth of its
+original level, and result in an allocation ten times that of the larger State in per capita terms.
+8.25 There is another side effect of the assignment of a minimum 2 per cent share to each
+State. As many as twelve States in India, jointly accounting for 11.3 per cent of the total area of
+the twenty‑eight States, have less than a 2 per cent share each in the total area. While the
+modification has the intended effect of benefiting the smaller States, it also has the unintended
+consequence of taking away 12.7 per cent (i.e. 24 per cent minus 11.3 per cent) of the total area
+from the remaining sixteen States. Such a large loss of area undermines the objective of
+compensation for the cost disadvantage associated with a large area that the criterion is designed
+to promote.
+Inverse Per Capita Income Criterion
+8.26 Over the years, FCs have devolved a part of the States’ share in the divisible pool based
+on per capita income in two forms: inverse per capita income and the distance of per capita
+149

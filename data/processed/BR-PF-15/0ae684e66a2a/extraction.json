@@ -1,0 +1,23 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/commission-reports-sixteenth.html",
+  "raw_sha256": "0ae684e66a2a987ea8ef9794d7d241348168ad70aad2686784571c413a3796b8",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:34:03+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_1.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_2.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_3.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_4.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_5.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_6.csv",
+    "data/processed/BR-PF-15/0ae684e66a2a/tables/table_7.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

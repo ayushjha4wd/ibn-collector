@@ -1,0 +1,43 @@
+leverage this smart meter network to ensure accurate consumption data and timely billing.
+Implementing more smart metering could help reduce power theft and increase the tax base. If these
+measures could increase electricity duty collection it would result in additional annual revenue.
+Introducing a green energy cess modelled after India's coal cess but tailored to Bihar's context.
+Internationally, Germany's renewable energy surcharge (EEG-Umlage)13 offers insights into funding
+clean energy transitions through taxation. Improving overall power infrastructure to reduce
+transmission and distribution losses could indirectly boost electricity duty collection by increasing the
+amounts of electricity bills. States like Gujarat have successfully reduced such losses, leading to
+improved revenue collection from this source.
+2.6.7 Strengthening of Tax Administration:
+(a) Digitisation of tax administration: To increase efficiency and minimise leakages, there is no
+alternative to digitisation. There are three tax collecting departments in Bihar: Commercial Taxes
+Department which collects all indirect taxes, as well as Professional tax, Revenue and Land
+Reforms Department which collects the land revenue, and Prohibition, Excise and Registration
+Department which collects the Stamp Duty and Registration Fees. These departments have
+digitised their operations in varying degrees, but there are many unresolved issues related to
+validation, security etc. affecting the efficiency of tax collection and prevention of leakages, as
+pointed out in the successive revenue reports of the Comptroller & Auditor General of India. Bihar
+should focus on improving its tax administration and compliance mechanisms by leveraging
+technology for better tax assessment and collection, similar to Karnataka's e-governance
+initiatives in commercial taxes. The state could also consider setting up a dedicated revenue
+intelligence unit to identify and address tax leakages, following the model of Maharashtra's sales
+tax department.
+(b) Cross-checking of transactions/ cross-linking of databases of different taxation and other
+Government departments: Once technology is applied extensively to create databases about
+taxpayers in respect of major taxes like GST, Motor Vehicles Tax, Stamp Duty and Registration Fee
+etc., it will be easy to detect evasion by cross-checking of transactions between various
+Departments so as to get and verify tax-related data. Necessary institutional / administrative
+machinery may be set up for facilitating seamless transfer of / access to such data across various
+Departments.
+(c) Internal Controls within Tax Departments: Internal controls which comprise effective
+supervision, vigilance, monitoring, standardization of procedures through written codes/
+manuals, survey, inspection and regular internal audit conducted in an independent manner, are
+essential for ensuring optimum efficiency and productivity of tax departments. Bihar’s tax
+departments are not only weak in internal controls, internal controls are almost non-existent in
+many Departments, with most of the elements of internal control missing in most tax
+departments. For example, the Comptroller and Auditor General of India has highlighted that the
+levy and collection of fines by e-challan system in respect of motor vehicles has too many leakages
+which not only leads to loss of Government revenue, but also has a scope of misappropriation and
+13 Germany's Renewable Energy Sources Act (EEG) introduced the renewable energy surcharge (EEG-Umlage) to
+support the expansion of renewable energy. The surcharge is an essential component of Germany's strategy to
+transition to renewable energy and reduce greenhouse gas emissions.
+61

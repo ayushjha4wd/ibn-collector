@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-PF-15/2026-11-13/State_Finances_-_Key_Fiscal_Indicators.xlsx",
+  "raw_sha256": "8e81beafe7874f694f67bd604c7faca10b846fbf4e4adcf2331f5f4810ebcca0",
+  "source_id": "BR-PF-15",
+  "source_url": "https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/relevant-data/State%20Finances%20-%20Key%20Fiscal%20Indicators.xlsx",
+  "parent_url": "https://fincomindia.nic.in/commission-reports-sixteenth",
+  "retrieved_at_utc": "2026-11-13T09:34:19+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-15/8e81beafe787/sheets/State-wise.csv",
+    "data/processed/BR-PF-15/8e81beafe787/sheets/Notes.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

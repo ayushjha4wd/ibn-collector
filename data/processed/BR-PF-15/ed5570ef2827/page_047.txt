@@ -1,0 +1,32 @@
+Chapter 8: Annexure
+44) Goa and Punjab suggested to use tax-to GSDP ratio without multiplying it with population under tax effort criterion.
+45) Gujarat suggested using State’s improvement in revenue receipt to revenue expenditure ratio as compared to all States’ average.
+46) Meghalaya suggested to use capital outlay as proportion of total expenditure as a criterion.
+47) Odisha suggested to reward States having revenue surplus by introducing State’s revenue deficit (surplus) as proportion of GSDP as
+a criterion.
+48) Uttarakhand suggested fiscal discipline index based on 5-year averaged ratio of revenue receipt and revenue expenditure, weighted
+by population as per Census 2011.
+49) Haryana suggested to include a criterion that captures revenue loss due to introduction of GST.
+50) Assam and Madhya Pradesh suggested using State’s multi-dimensionally poor index (MDPI) value (as per NFHS-5) weighted by its
+population as per Census 2011.
+51) Bihar and Gujarat suggested including MDPI based poor population share in total poor population of all States, based on NFHS-5
+data.
+52) Chhattisgarh suggested including MDPI poor population (NFHS-5) as proportion of total population of State as a criterion.
+53) Himachal Pradesh suggested using a composite indicator of socio-economic indicators like health, education, rural electrification,
+self-employment etc.
+54) Goa and Mizoram suggested using a Sustainable Development index based on SDG Composite score given by NITI Aayog.
+55) Gujarat suggested constructing sustainable development index using data on - micro irrigation area, water management and
+renewable energy.
+56) Maharashtra suggested using renewable energy share in total energy consumption, to States’ capture efforts for sustainable
+development.
+57) Sikkim suggested to use an index based on change in SDG score (NITI Aayog report) from 2018 to 2023.
+58) Andhra Pradesh suggested including State’s contribution of agriculture gross value added (GVA) to total GVA of agriculture sector
+as a criterion.
+59) Chhattisgarh suggested including State’s contribution of mining GVA to total GVA of mining sector.
+60) Maharashtra suggested to introduce incremental increase in GSDP as a share of incremental increase in India’s GDP in last 10
+years as a criterion.
+* Meghalaya suggested using reduction in Infant Mortality Rate (IMR) and Maternal Mortality Rate (MMR) in place of TFR in
+demographic performance, however no weight was suggested for this criterion.
+** Nagaland suggested incorporating disability index using multiple development indicators, however no weight was suggested for
+this criterion.
+39

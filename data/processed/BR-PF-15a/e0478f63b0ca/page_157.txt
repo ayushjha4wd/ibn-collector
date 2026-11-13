@@ -1,0 +1,35 @@
+Chapter 5 : Resource Mobilisation
+5.10 Medium term target: The rate neutrality of GST, which was compromised in the multiple
+downward adjustments of rates subsequent to the introduction of the tax, needs to be restored.
+Immediately, the focus should be to streamline its technology platform and to ensure prompt
+filing of returns and invoice matching. The streamlining of the GST rate structure will greatly
+help to move towards its revenue potential. The calculations are presented in Box 5.1. Overall, the
+ambition should be to achieve GST revenue (net of revenues from GST compensation cess) of
+around 7 per cent of GDP over the medium term.
+Box 5.1: Revenue Gap in GST – an approximation
+Revenue neutral rate (RNR): There were at least four different estimates of the RNR of GST
+before its implementation.
+(a) The Task Force appointed by the FC-XIII: RNR at 12 per cent (5 per cent for the
+Central GST and 7 per cent for the State GST). The Task Force noted that this was a
+steep decrease from the combined CENVAT and VAT of 20.5 per cent.
+(b) IMF: RNR of 11.6 per cent. It used the national accounts data on final consumption
+and supply and use tables for 2011-12. Very few exemptions were considered.
+(c) NIPFP: RNR in excess of 17 per cent with different scenarios.
+(d) Report on RNR and Structure of Rates chaired by the then Chief Economic
+Adviser: RNR of 15 per cent (preferred estimate) and 15.5 per cent (alternative
+estimate).
+The arithmetic average of these RNR estimates is around 14 per cent.
+Current effective GST rate: On behalf of the FC-XV, the NIPFP did a study and concluded
+that the effective tax rate estimated from GSTR-3B was too low, perhaps because of reporting
+issues and that the effective tax rate from GSTR-1 was about 14 per cent. However, this was
+based on return data only till October 2018. In September 2019, the Reserve Bank of India
+estimated that after multiple rate adjustments, the effective weighted average GST rate
+declined from 14.4 per cent at the time of inception to 11.6 per cent. The IMF did an analysis
+of GST, on our behalf, and indicated that current effective tax rate is around 11.8 per cent.
+Restoring the RNR will mean: (a) merging the rates of 12 per cent and 18 per cent; (b)
+operating with a three-rate structure of a merit rate, standard rate and demerit rate of around
+28 per cent to 30 per cent; and, (c) minimising exemptions.
+GST potential: The potential for GST collections can be assessed with the help of the latest
+supply and use tables (2015-16). We have adopted the standard macro approach, quoted in
+the Report on the Revenue Neutral Rate on GST in 2015. The formula is:
+131

@@ -1,0 +1,43 @@
+The following suggestions may be worth consideration for improving the revenue productivity:
+2.6.1 Stamp Duty and Registration Fees
+Some of the best practice adopted by different Ind9an states to improve their revenue collection from
+this source include the following:
+a) Implementing a GIS-based property valuation system: Following the examples of Maharashtra,
+Karnataka, Tamil Nadu, and Haryana, Bihar could implement a comprehensive GIS-based land
+mapping system.67 This would involve implementing a web-based geographical land use
+information system by using high-resolution satellite imagery from ISRO and creating a digital land
+records database. This would also lead to reduced litigation. As seen in Cape Town, South Africa,
+implementing a comprehensive land administration system reduced litigations by 60%. It would
+also lead to improved valuation accuracy as GIS-based systems can lead to more accurate property
+valuations, potentially increasing stamp duty collections. Digitization can also significantly reduce
+the manpower required for valuations, as demonstrated in Cape Town, as well as contribute to
+increased transparency and trust on the tax system. Web-based systems, like in Tamil Nadu, can
+provide citizens with easy access to land use information, reducing fraud and disputes.
+b) Losses due to undervaluation of property: High rates of stamp duties always lead to significant
+undervaluation of the transactions, causing revenue losses. To minimize this, the Government of
+Karnataka (2017) has introduced an online automatic stamp duty and registration fee calculation.
+The new system in Karnataka is directly linked to the property transaction data which in turn is
+connected to GIS (Geographic Information System) maps to capture the spatial or geographical
+details with accuracy.8 The Kaveri portal, which is the online portal of Department of Stamps and
+Registrations, Government of Karnataka, does not allow registration if the valuation of property
+is irrational, which thus minimizes the scope for any undervaluation of properties. Another
+example of use of technology is in Gujarat where online payment of registration fees and stamp
+duties at the local registrar’s office has been enabled to make the process smooth.9
+c) Integrating land records with the registration system will help reduce disputes and improve
+transparency in property transactions, besides modernising the registration process as a whole to
+prevent undervaluation of property or evasion.
+d) High Rates Stamp Duty and Registration fees are counterproductive: An international
+comparison of stamp duties indicates that Indian stamp duty rates are exceptionally high.10 Being
+the third-largest revenue source for most Indian states, the high rates impose high compliance
+costs on taxpayers leading to inevitable evasion and fraud. Lower stamp duty rates are not limited
+to industrial countries only; even countries such as Vietnam and the Philippines have stamp duty
+rates in the range of 1 to 2 percent. The high stamp duty rates prevalent in the Indian states
+6 https://www.smartcitiescouncil.com/article/land-records-just-click-away-gis-based-mapping
+7 https://housing.com/news/stamp-duty-on-property-registration-in-india/
+8https://timesofindia.indiatimes.com/city/bengaluru/tech-to-size-up-property-fix-tax-
+leak/articleshow/61539255.cms
+9https://timesofindia.indiatimes.com/city/ahmedabad/stamp-duty-act-soon-digital-validation-of-
+papers/articleshow 62907138. cms, accessed 27/05/2018.
+10Stamp Duties in Indian States A Case for Reform (2004). James Alm, Patricia Annez, and Arbind Modi, World
+Bank Policy Paper.
+58

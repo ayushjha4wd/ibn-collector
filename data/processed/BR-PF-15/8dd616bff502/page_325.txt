@@ -1,0 +1,39 @@
+Chapter 14: Containing and Making Subsidies Efficient
+14.34 While the JAM trinity has helped reduce last‑mile leakages in transfer programs, issues
+related to targeting remain. For instance, a recent ground verification of pension scheme
+beneficiaries by the Andhra Pradesh Government in one village/ward secretariat of each district
+revealed that 9.0 per cent of the beneficiaries were ineligible and had been wrongly included.
+The share of beneficiaries found dead was also a significant 0.6 per cent. States are aware of such
+issues, and some have taken measures to clean their beneficiary lists. Telangana utilised
+integration of multiple government department databases under its Samagra Vedika initiative to
+weed out ineligible and bogus beneficiaries. Similarly, Tamil Nadu under its Data Purity project
+and Rajasthan under Jan Aadhaar have implemented integration of various databases under
+multiple schemes and departments like transport, power, property tax, ration cards etc. By
+employing IT enabled data analysis on such integrated databases, States have been able to
+deduplicate and streamline beneficiary listing leading to substantial savings. Maharashtra has
+undertaken an intensive verification exercise that utilises the Income Tax database to review the
+beneficiary list of the Majhi Ladki Bahin Yojana. Therefore, measures to better target benefits
+must be strengthened by the enforcement of clearly defined exclusion criteria and by integration
+of all available databases.
+Interstate Comparison
+14.35 There is a wide variation in subsidy levels among States. At ₹78,453 crore, Tamil Nadu
+had the highest absolute level of subsidy in 2023‑24, followed by Karnataka, Andhra Pradesh
+and (cid:55)elangana at ₹(cid:26)0,149 crore, ₹63,951 crore and ₹62,84(cid:26) crore respectively. (cid:55)he absolute
+subsidy levels are somewhat misleading, as the State's size influences them. To neutralise the
+size effect, we consider two alternative measures: subsidies as a proportion of GSDP and as a
+proportion of population.
+Figure 14.7 Subsidies and Transfers (percentage of GSDP)
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+Source: States’ Demand for Grants
+303
+PDSG
+fo
+egatnecreP
+2018-20 2024-26 All States (2018-20) All States (2024-26)

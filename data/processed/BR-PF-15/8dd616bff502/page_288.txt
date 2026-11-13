@@ -1,0 +1,33 @@
+Sixteenth Finance Commission
+12.43 As shown in Figure 12.4, the debt maturing in the next ten years as a proportion of total
+outstanding debt is 61 per cent for the Union Government and 67 per cent for the State
+Governments. Figure 12.5 depicts the State‑wise distribution of the maturity profiles.
+Redemption Pressure and Roll‑over Risk
+12.44 Due to increased financing of deficit from market borrowings by States, the redemption
+has increased to 1.0 per cent of GDP. Our analysis shows that while there is no specific roll‑over
+risk, there are small kinks in the redemption profiles of State market borrowings, specifically in
+the first year of the award period and later in 2029‑30 and 2030‑31, which is mainly due to
+additional borrowing raised during the pandemic. Figure 12.6 shows the projected redemptions,
+assuming that States continue to finance around 80 per cent of their deficit through market
+borrowings, for three scenarios of GDP growth rate, namely, 11.5 per cent, 11 per cent and 10.5
+per cent.
+Figure 12.6 Redemption Profile of State Borrowings (percentage of GDP)
+Actual Nominal Growth @11.0%
+Nominal Growth @10.5% Nominal Growth @11.5%
+1.20
+1.00
+0.80
+0.60
+0.40
+0.20
+-
+Source: Data provided by RBI
+12.45 To smooth out the redemption profile, the Union Government has adopted strategies like
+switch auctions and buybacks. Switch auction involves buying back near‑term securities by
+issuing longer‑term securities, thus helping to smoothen out the maturity profile of the
+outstanding debt stock. States should actively explore adopting such strategies to manage their
+redemption pressures in specific years.
+Secondary Market Liquidity
+12.46 The Union Government issues more than 90 per cent G‑Secs through re‑issuances, which
+is a distinctive feature of its Debt Management Strategy. Although State Governments have
+266

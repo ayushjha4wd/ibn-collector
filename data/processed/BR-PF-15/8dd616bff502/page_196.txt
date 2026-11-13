@@ -1,0 +1,51 @@
+Sixteenth Finance Commission
+the total geographical area of all 28 States, are assigned a share of 1.5 per cent; and the shares
+of the other States are reduced in proportion of their respective share in the total geographical
+area of all States, so as to restore the sum across all States to unity. Denoting by A the area of
+k
+State k (k = 1, 2, … 28) in the total area of all 28 States, we have,
+(iv) C = 0.015 or 1.5 per cent for all j = 1, 2, …, 28 whose share of geographical
+3j
+area in total geographical area of 28 States is less than or equal to 1.5 per cent (i.e. A (cid:3409)
+(cid:2920)
+0.015 or 1.5 per cent),and
+(cid:2885)
+(v) C 3j = (cid:963)(cid:3118)(cid:3124) (cid:3168) (cid:2885) (cid:1499){1−(n(cid:1499)0.015)} for all j and k = 1, 2, …, 28 whose A (cid:2920) >
+(cid:3169)(cid:3128)(cid:3117) (cid:3169)
+1.5 per cent or 0.015,
+where n is the number of States having A (cid:3409)0.015 or 1.5 per cent.
+(cid:2920)
+4) Forest (i = 4)
+Under this criterion, we have two components: i) based on the State’s share in the forest area of
+all 28 States and ii) the State’s share in the increase in forest area of all States between 2015 and
+2023. The former is assigned a weight of 80 per cent and the latter 20 per cent to derive the
+forest variable. For this purpose, the forest area itself is defined as a weighted sum of very dense
+forest (VDF), moderately dense forest (MDF) and open forest (OF), with weights of 1.0, 0.65
+and 0.30 respectively. Denote by F (k = 1, 2, … 28) the forest area, which is, weighted sum of
+k
+the three types of forests, in State k. Then, the share of State j in the States’ portion of the
+divisible pool, devolved based on the forest variable, is written as,
+(cid:2890) ∆(cid:2890)
+(vi) C = 0.8 (cid:3168) + 0.2 (cid:3168) j = 1, 2, …, 28.
+4j (cid:963)(cid:3118)(cid:3124) (cid:2890) (cid:963)(cid:3118)(cid:3124) ∆(cid:2890)
+(cid:3169)(cid:3128)(cid:3117) (cid:3169) (cid:3169)(cid:3128)(cid:3117) (cid:3169)
+For States experiencing a decline in the forest area between 2015 to 2023, ∆F = 0.
+k
+5) Per Capita GSDP Distance (i = 5)
+Under this criterion, each State receives a per‑capita share in the portion of the States’ share in
+the divisible pool devolved based on the per‑capita GSDP distance criterion in proportion to the
+difference between a target per‑capita GSDP and its own per‑capita GSDP. We denote the
+per‑capita target GSDP by y* and the per‑capita GSDP of State k by y (k = 1, 2, …, 28). The
+k
+share of State j in the States’ portion of the divisible pool, devolved based on the per capita
+GSDP distance criterion, is written as,
+((cid:2935)(cid:1499) (cid:2879)(cid:2935))(cid:2898)
+(vii) C = (cid:3168) (cid:3168) j = 1, 2, …, 28.
+5j (cid:963)(cid:3118)(cid:3124) ((cid:2935)(cid:1499)(cid:2879)(cid:2935) )(cid:2898)
+(cid:3169)(cid:3128)(cid:3117) (cid:3169) (cid:3169)
+We define y* as the average of the per‑capita GSDPs of the three large States with the highest
+per‑capita GSDPs: Telangana, Karnataka and Haryana. For these three States, Goa and Sikkim,
+the latter two being small States with the highest per‑capita GSDPs in the country, we set y*‑y
+k
+equal to the difference between y* and the per‑capita GSDP of the large State with the fourth
+174

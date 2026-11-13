@@ -1,0 +1,42 @@
+Chapter 3 : Setting the Context
+3.22 Under the present GST, both the Union and the States have concurrent powers to levy tax
+on a common base. States levy and collect State GST (SGST) and the Union levies and collects
+the Central GST (CGST). For any particular good or service or a combination of the two, the
+SGST and CGST rates are equal. Reference to the GST rate on a good or service is the sum of the
+rates of SGST and CGST, and both SGST and CGST are exactly half the GST rate. An integrated
+GST (IGST) is applied on inter-state movement of goods and services and on imports and
+exports.7 IGST is simply a combination of SGST and CGST administered and collected by the
+Union Government, kept in a separate account, and distributed between the Union and States
+after settlement of input tax credit and verification of the destination of the goods and services.
+3.23 GST rates vary Figure 3.4: GST Rate Structure
+considerably across goods
+and services. Apart from
+the standard rate of 18 per food items, agricultural produce
+cent, there are three slabs of
+packaged food, drugs, medicine
+5 per cent, 12 per cent and
+28 per cent. Furthermore, frozen meat, fruit, juices, beverages, tractor...
+some are exempted and
+capital goods, soap, toothpaste, refrigator
+outside the GST net, a few
+essentials are taxed at zero Ac’s, projectors, cars, cement
+rate, and bullion is taxed at
+a special rate of 3 per cent
+(Figure 3.4).
+3.24 With many taxes subsumed under it, GST accounts for 35 per cent of the gross tax revenue
+of the Union and around 44 per cent of own tax revenue of the States. With gross tax revenue of
+the Union determining the divisible pool of taxes and, hence, transfers from the Union to the
+States, and changes in States' own taxes affecting their resource requirements, GST has become
+a critical factor in Indian federal finance. The rate structure of GST, or changes in it, have
+ramifications on revenues and expenditure of both the Union and the States, and by implication
+for the fiscal consolidation path of both the levels of government.
+3.25 A systemic reform such as the introduction of GST takes time to stabilise. Hence, while
+analysing GST, data pertaining to the initial nine months (July-March) of 2017-18 of its
+implementation may be kept aside. That leaves us with data on monthly revenue collection and
+returns filing only for 2018-19. While this data limitation is, in itself, a serious constraint for
+analysis, the frequently changing rate structure and compliance regime adds to the challenge.
+Hence, while this Commission has drawn some conclusions from the available data, its focus is
+on the structural and design issues in GST, fiscal implications on the Union and State
+Governments and inter-governmental transfers.
+7 Exports are fully relieved of IGST through tax credits.
+51

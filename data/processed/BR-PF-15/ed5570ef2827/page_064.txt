@@ -1,0 +1,41 @@
+Sixteenth Finance Commission
+decades, both hazards have exhibited an alarming upward trend, with severe implications for public
+health, livelihoods, and infrastructure.
+Heatwave refers to prolonged periods of abnormally high temperatures, often accompanied by elevated
+humidity, lasting for several consecutive days. With rising global temperatures, heatwaves have emerged
+as one of the deadliest weather-related hazards in India. The impacts are highly State-specific, with
+central, northern, and parts of western India experiencing recurrent and severe heatwave events.
+For the purpose of heatwave hazard assessment, the total number of disastrous heatwave days annually
+was used, as reported in the IMD Atlas for the period 1969-2019.8
+As per the IMD, a heatwave is declared based on the following criteria:
+• (cid:55)(cid:75)e m(cid:68)(cid:91)im(cid:88)m (cid:87)em(cid:83)e(cid:85)(cid:68)(cid:87)(cid:88)(cid:85)e m(cid:88)s(cid:87) (cid:85)e(cid:68)(cid:70)(cid:75) (cid:149) (cid:23)(cid:19)(cid:131)(cid:38) in (cid:87)(cid:75)e (cid:83)(cid:79)(cid:68)ins(cid:15) (cid:149) (cid:22)(cid:26)(cid:131)(cid:38) in (cid:70)(cid:82)(cid:68)s(cid:87)(cid:68)(cid:79) (cid:68)(cid:85)e(cid:68)s(cid:15) (cid:82)(cid:85) (cid:149)
+30°C in hilly regions.
+• In addition, the departure from normal temperature (1981-2010 climatology) should be:
+o 4.5°C to 6.4°C for a heatwave day
+o > 6.4°C for a severe heatwave day
+• If these criteria are met at two or more stations in a meteorological subdivision for at least
+two consecutive days, a heatwave or severe heatwave is officially declared on the second day.
+• (cid:44)nde(cid:83)enden(cid:87)(cid:79)(cid:92)(cid:15) i(cid:73) (cid:87)(cid:75)e m(cid:68)(cid:91)im(cid:88)m (cid:87)em(cid:83)e(cid:85)(cid:68)(cid:87)(cid:88)(cid:85)e (cid:85)e(cid:68)(cid:70)(cid:75)es (cid:149) (cid:23)(cid:24)(cid:131)(cid:38) (cid:82)(cid:85) (cid:149) (cid:23)(cid:26)(cid:131)(cid:38)(cid:15) (cid:68) (cid:75)e(cid:68)(cid:87)(cid:90)(cid:68)(cid:89)e (cid:82)(cid:85) se(cid:89)e(cid:85)e
+heatwave is declared outright, regardless of departure from normal.
+Lightning, meanwhile, has become another major and growing hazard in India, accounting for one of the
+highest annual fatality counts among natural hazards. It is primarily associated with convective
+thunderstorms, which are most frequent during the pre-monsoon (March-May) and monsoon (June-
+September) seasons.
+For lightning hazard assessment, the average number of lightning flashes was used, based on
+observations from the IMD for the period 2014-2023. The values of both these hazards (Heatwave and
+Lightning) are averaged to arrive at the State specific disaster score.
+Exposure
+To estimate exposure to disaster risks, the total projected population for October 2026 was used, sourced
+from the Technical Group of Population Projections 2020 constituted by the Ministry of Health & Family
+Welfare9. These projections are based on data from the 2011 Census and the Sample Registration System,
+which provide long-term trends on fertility and mortality. Population projections offer a forward-looking
+estimate of demographic scenarios, which is critical for assessing potential human exposure to hazard
+events.
+The total projected population is used for exposure as a composite hazard score has been estimated for
+all the hazards. This means that the total population is expected to be affected by at least one hazard in
+one way or the other. The population inter se is calculated for all the States. However, smaller States
+have a share of less than one per cent. To bring all states at a minimum of 1 per cent share, the ratio of
+8 https://imdpune.gov.in/hazardatlas/heatnew.html
+9 https://mohfw.gov.in/sites/default/files/Population%20Projection%20Report%202011-2036%20-
+%20upload_compressed_0.pdf
+56

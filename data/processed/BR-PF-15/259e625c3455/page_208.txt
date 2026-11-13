@@ -1,0 +1,42 @@
+km of 11 KV lines, and 45,339 circuit km of LT lines. The scope of work included replacing outdated
+conductors, poles, brackets, insulators, and other critical infrastructure elements. The original scope
+of this R&M work was completed ahead of schedule. Recognizing the need for further enhancements,
+the state government provided additional funding of Rs. 732 crore from Special Central Assistance to
+complete the remaining work. This extension of the project ensured a more thorough modernization
+of the distribution network. The entire R&M initiative was successfully concluded in March 2023,
+marking a significant milestone in Bihar's efforts to upgrade its power infrastructure (Table 7.13).
+Table 7.13: Status of (R&M) scheme
+NBPDCL SBPDCL Total
+Line Scope (Revised) Achievement Scope (Revised) Achievement Scope (Revised) Achievement
+33 KV Line (CKm) 1340 1340 1390 1390 2730 2730
+11 KV Line (CKm) 20534 20534 16326 16326 36860 36860
+LT Line (CKm) 28004 28004 19740 19740 47744 47744
+Total (CKm) 49878 49878 37456 37456 87334 87334
+Source: Economic Survey, 2023-24
+In addition to the R&M scheme, Bihar has also implemented other targeted initiatives to strengthen
+its distribution system. The Integrated Power Development Scheme (IPDS) was introduced to address
+distribution constraints in urban areas. This comprehensive scheme includes components for
+strengthening sub-transmission and distribution networks, installing solar panels on government
+buildings, and implementing IT solutions for more efficient distribution management. The IPDS was
+initially implemented in 133 towns across the state and was completed in March 2022. It aims to
+provide real-time monitoring, minimize losses, balance loads and improve overall distribution
+networks. The total outlay for IPDS projects was Rs. 2942 crore, of which Rs. 2715 crore (92%) was
+utilized. All these have the potential to provide better service for consumers and reduced losses for
+power companies.
+Furthermore, to improve the quality and reliability of power supply, Bihar has implemented a Real-
+Time Data Acquisition System (RT-DAS) that was rolled out in December 2021, providing real-time data
+from 11 KV feeders to the Control Centre. This technology enables the DISCOMs to monitor and
+improve the quality of power supply more effectively. This system, covering 436 feeders in 129 towns,
+provides real-time data on various parameters such as breaker position, current, power, voltage,
+frequency, and power factor. This technology enables the distribution companies to monitor and
+improve the quality of power supply more effectively. These initiatives collectively represent a
+significant overhaul of Bihar's power distribution infrastructure. By modernizing equipment,
+implementing advanced technologies, and expanding network capacity, the state is working towards
+ensuring more reliable, efficient, and widespread electricity access for its citizens.
+4. Anti-Power Theft Measures
+To reduce AT&C losses, Bihar has strengthened its Anti-Power Theft team and intensified raid
+operations to curb illegal electricity usage. This dedicated team conducts regular inspections and
+surprise checks, targeting areas known for high incidences of power theft. Alongside enforcement
+actions, the state has launched comprehensive public awareness campaigns to educate consumers
+about the legal, economic, and safety consequences of power theft. Side by side, enforcement actions
+192

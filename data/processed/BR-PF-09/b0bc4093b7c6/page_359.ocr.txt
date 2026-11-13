@@ -1,0 +1,25 @@
+12.
+
+iii)
+
+e-Tendering
+
+e-Contract Management System-it will include issue of LOA, Awarding Contract,
+Advance Payment, MB Booking Generation of Bill, Payment of Bill, Late fine, Statuary
+
+Deduction, Final Payment, Closer of Schemes.
+
+Progress Review and Reporting mechanism of Schemes
+
+MIS & Reporting System
+
+इसके अंतर्गत सभी प्रकार के Schemes, Revenue Collection, Expenditure, Grievance
+Redressal, DEA, Audit. UC, AC/DC, Pending Court Cases आदि की Reporting एवं
+Analysis की व्यवस्था होगी। विभाग द्वारा Develop Standard format 4 Online Entry की भी
+व्यवस्था होगी, जिसे विभाग के वेबसाईट पर देखा जा सकेगा या Download किया जा सकेगा।
+भविष्य में राज्यस्तरीय बैठक में इसी माध्यम से नगर निकायों के कार्यों की समीक्षा की जाएगी।
+इस हेतु Agency द्वारा वृहत “Dash Board” की सुविधा उपलब्ध कराई जाएगी।
+
+उक्त व्यवस्था पर व्यय होने वाली राशि की गणना संलग्न है।
+
+Page 350

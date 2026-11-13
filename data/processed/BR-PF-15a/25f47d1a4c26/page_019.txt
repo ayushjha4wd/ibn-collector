@@ -1,0 +1,35 @@
+STrucTurE Of STATE chAPTErS
+State Overview and Macroeconomic Indicators
+1.A: Overview
+1.B: Growth rate of GSDP (at current prices, %)
+1.C: Per capita GSDP (at current prices)
+1.D: GSDP Current, 2011–12 series (Rs crore)
+1.E: Sectoral Contribution to GSDP (at current prices, %)
+Socioeconomic Indicators
+2.A: Decadal Growth in Population (%)
+2.B: Total Fertility Rate (children per woman)
+2.C: SDG Index of NITI Aayog (2019)
+2.D: Key Social Indicators
+2.E: Poverty Reduction (percentage points) between FY2005 and FY2012
+Health Infrastructure
+3.A: Persons (’000s) per Allopathic and AYUSH Doctor
+3.B: Persons (’000s) per Sub-centre/PHC/CHC
+3.C: Persons (’000s) per Nurse/ Pharmacist
+3.D: Persons (lakh) per Government Hospital and Persons (’000s) per Bed
+Fiscal Indicators
+4.A: Revenue Deficit as % of GSDP
+4.B: Fiscal Deficit as % of GSDP
+4.C: Outstanding Debt as % of GSDP
+4.D: Committed Expenditure as a % of Revenue Expenditure
+4.E: OTR as % of GSDP
+4.F: NTR as % of GSDP
+4.G: Capital Expenditure to GSDP Ratio
+4.H: Key Fiscal Indicators—State vs GS / NEHS
+4.I: TRE and ORR Gap
+4.J: Central Transfer {Tax Devolution & Grants-in-aid (FC and Non-FC)} as % of TRR
+Local Bodies
+Power Sector
+Proposal from State
+Strengths and Opportunities
+Risks and Challenges
+Reform Roadmap

@@ -1,0 +1,39 @@
+Chapter 14: Containing and Making Subsidies Efficient
+Box 14.1 Targeting of Subsidies: Case of Household Power Subsidies
+Well targeted subsidies and transfers are potential tools to address inequity and ameliorate poverty.
+However, subsidies and transfers are not always observed to be progressive in nature. To understand
+variation in subsidies and its targeting in various States, the Asian Development Bank did a study on
+our behalf. In its report submitted to the Commission it has observed that the substantial chunk of
+subsidies are actually getting pocketed by more well-off sections of the population thereby impeding
+their redistributive role.
+In case of power subsidies for instance, which are predominantly consumption-oriented subsidies, the
+study compared the percentage of households receiving free electricity in the different consumption
+quintile as shown at Table 14.1. It emerges that in States that provide subsidies to large groups of
+households, subsidies become less progressive. Thus, the percentage of households in the highest
+quintile, receiving free electricity vary from nil in States like Kerala and Goa, to around 85 per cent in
+Tamil Nadu. States like Tamil Nadu, Punjab, Karnataka, Rajasthan and Himachal Pradesh, that provide
+power subsidies to large groups, have somewhat more regressive benefits that flow disproportionately
+to higher consumption households. On the other hand, Kerala, Goa, Gujarat and Odisha provide
+relatively targeted access to free power, restricting it to specific groups such as SC/ST or to consumers
+with less than 30 units per month. These are targeted and have a design that allows them to support an
+improved quality of life of vulnerable populations with relatively less fiscal impact.
+Table 14.1 Quintile-wise Percentage of Households Receiving Free Electricity
+State Q1 Q2 Q3 Q4 Q5 Total
+Tamil Nadu 89.5 89.7 92.3 93.2 85.2 89.5
+Punjab 92.6 88.0 89.5 84.4 75.1 82.9
+Karnataka 90.9 91.4 92.3 88.5 62.3 81.4
+Rajasthan 83.9 81.9 83.0 77.6 59.8 77.3
+Himachal Pradesh 84.7 84.4 80.0 73.8 69.7 75.6
+Jharkhand 50.3 50.9 46.5 31.1 14.8 45.7
+Madhya Pradesh 39.4 47.2 40.4 29.8 13.4 38.0
+Telangana 21.5 21.4 27.1 28.9 15.4 22.7
+Andhra Pradesh 25.2 20.1 19.1 14.8 8.9 15.8
+West Bengal 10.3 7.2 5.7 2.8 1.6 6.5
+Chhattisgarh 3.6 2.7 3.6 4.5 7.2 3.6
+Bihar 1.5 2.0 2.1 2.1 2.8 1.9
+Uttarakhand 0.8 1.2 1.6 0.8 3.4 1.7
+Other States* 1.5 1.3 1.3 1.2 1.0 1.3
+Source: Household Consumption Expenditure Survey, 2023-24, MoSPI
+Note: *Other States include Assam, Maharashtra, Uttar Pradesh, Haryana, Odisha, Gujarat, Goa,
+Kerala
+305

@@ -1,0 +1,30 @@
+. regress lntotalowntaxrevenue time
+Source SS df MS Number of obs = 22
+F(1, 20) = 568.55
+Model 18.024363 1 18.024363 Prob > F = 0.0000
+Residual .634046891 20 .031702345 R-squared = 0.9660
+Adj R-squared = 0.9643
+Total 18.6584099 21 .888495709 Root MSE = .17805
+lntotalown~e Coefficient Std. err. t P>|t| [95% conf. interval]
+time .142671 .0059834 23.84 0.000 .1301897 .1551522
+_cons 7.721297 .0785861 98.25 0.000 7.557369 7.885225
+.
+60000
+50000
+40000
+30000
+20000
+10000
+0
+A 1.5: Projection of Non-Tax Receipts from Non-Ferrous Minerals
+Non-Ferrous LN (Non-Ferrous Exponential Linear
+Years Time Minerals Minerals) Projection Projection
+2001-02 1 39 3.66356165 53.5 554.9
+2002-03 2 61 4.11087386 64.9 659.0
+2003-04 3 73 4.29045944 78.7 763.1
+2004-05 4 80 4.38202663 95.5 867.2
+2005-06 5 101 4.61512052 115.8 971.4
+75
+20-1002 30-2002 40-3002 50-4002 60-5002 70-6002 80-7002 90-8002 01-9002 11-0102 21-1102 31-2102 41-3102 51-4102 61-5102 71-6102 81-7102 91-8102 02-9102 12-0202 22-1202 32-2202
+Total Own Tax Revenue (Rs Crore)
+Total Own Tax Revenue Exponential Projection Linear Projection

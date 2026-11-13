@@ -1,0 +1,44 @@
+Chapter 5: Review of State Finances
+Figure 5.5 High and Rising Cost of Debt Service
+15.0 35.0
+14.5
+30.0
+14.0
+13.5 25.0
+13.0
+20.0
+12.5
+15.0 12.0
+11.5 10.0
+11.0
+5.0
+10.5
+10.0 0.0
+Source: States’ Finance Accounts
+Composition of Debt
+5.34 The composition of State debt has undergone significant evolution over the past decade.
+Market borrowings have become increasingly dominant, rising from 39.6 per cent of total
+87
+stpieceR
+euneveR
+fo
+egatnecreP
+PDG
+fo
+egatnecreP
+Box 5.1 GST Compensation
+The GST compensation mechanism was intended to insulate States from revenue losses arising
+from the new tax regime, which worked smoothly till 2019-20. However, the onset of the COVID-
+19 pandemic adversely impacted GST collections, leading to a larger need for fiscal resources for
+GST compensation than the cess could generate, especially in the face of the economic slowdown.
+At the same time, States needed fiscal resources to relieve the suffering arising from the pandemic.
+In response, the Union Government introduced a special borrowing window under which the extra
+debt created by the compensation cess shortfall would be repaid from future compensation cess
+collections. Thus, the collection of GST cess was extended beyond June 30, 2022, until the
+additional debt was repaid. Under the scheme, a cumulative amount of approximately ₹2.50 lakh
+crore was disbursed to the States in 2021-22 and 2022-23, accounting for around 0.5 per cent of
+GDP each year. Given that these loans are serviced directly by the Union Government from the
+cess proceeds and do not create a repayment liability for the States, we have treated them as part
+of the GST compensation rather than States’ debt. Consequently, these borrowings have been
+excluded from the States' debt and other liabilities.
+Debt to GDP (--RHS) Int Payment to Revenue Receipts

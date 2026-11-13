@@ -1,0 +1,15 @@
+ArP FC-XV Volume IV, The STaTeS
+ArP-3.C: Persons (’000s) per nurse/ Pharmacist
+ArP-3.D: Persons (lakh) per Government hospital and Persons (’000s) per Bed
+ArP-4
+Source: GOI (2019), National Health Profile 2019, 14th Issue, Central Bureau of Health Intelligence, Directorate General of
+Health Services, Ministry of Health and Family Welfare, Government of India.
+Source: GOI (2019), National Health Profile 2019, 14th Issue, Central Bureau of Health Intelligence, Directorate General of
+Health Services, Ministry of Health and Family Welfare, Government of India.
+ArP-4.A: Revenue Deficit as % of GSDP ArP-4.B: Fiscal Deficit as % of GSDP srotacidnI
+lacsiF
+Persons ('000s) per Sub-centre Persons ('000s) per PHC Persons ('000s) per CHCs
+Persons ('000s) per Nurse Persons ('000s) per Pharmacist
+A runa cA hrauln Parcahdaels Phradesh A runa cA hrauln Parcahdaels Phradesh
+A runa cA hrauln Parcahdaels Phradesh A runa cA hrauln Parcahdaels Phradesh
+A runa cA hrauln Parcahdaels Phradesh A runa cA hrauln Parcahdaels Phradesh

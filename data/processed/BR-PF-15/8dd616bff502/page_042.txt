@@ -1,0 +1,39 @@
+Sixteenth Finance Commission
+have included the share of a State’s Gross State Domestic Product (GSDP) in the nation’s Gross
+Domestic Product (GDP) among the devolution criteria. This criterion captures the effect of
+various forms of efficiencies, including efficient spending and fiscal rectitude. We have
+accommodated this criterion by shifting some of the weight assigned by FC‑15 to per capita
+GSDP distance, area, and tax effort.
+2.17 In the interest of gradualism, we have retained the remaining criteria deployed by the
+FC‑15, although with some tweaks. In the forest criterion, we have included the open forest, and
+given different weights to open, moderately dense, and very dense forests. We have also
+introduced a small reward for an increase in the weighted forest area over a base period. In
+implementing the area criterion, we have reduced the minimum area assigned to every State
+from 2 per cent of the total area to 1.5 per cent. Finally, for the demographic performance
+variable, we have replaced the inverse TFR with the inverse growth rate of population between
+1971 and 2011. Throughout horizontal devolution, we have used the 2011 population. The
+rationales for the tweaks to different criteria are explained in greater detail in Chapter 8 on
+horizontal devolution.
+2.18 We have deployed the inverse population growth as one of the devolution criteria in
+continuity with the FC‑15’s use of the inverse TFR to avoid large shifts in the States’ shares. It
+is our view, however, that this criterion should be phased out over time. India is currently at risk
+of becoming old before it becomes rich, a prospect it must strive to avoid. We have taken a small
+step in this direction by lowering the weight assigned to the inverse population growth compared
+with that assigned to inverse TFR by the FC‑15.
+Grants‑in‑Aid and Assessment of Revenues and Expenditures over
+the Award Period
+2.19 Article 280(3)(b) calls upon the Commission to recommend “the principles which should
+govern the grants‑in‑aid of the revenues of the States out of the Consolidated Fund of India.”
+Under the related Article 275, the President is to provide for “such sums” to be “charged on the
+Consolidated Fund of India in each year as grants‑in aid of the revenues of such States” as she
+may “determine to be in need of assistance”, after considering the recommendations of the
+Finance Commission.
+2.20 A critical question we must consider when determining the sums to be provided to States
+as grants‑in‑aid is how the “need” specified in Article 275 is to be determined. The First Finance
+Commission recognised that the budgetary need is the starting point but laid down certain
+cautionary principles for assessing it. It cautioned against laxity in tax effort and lack of
+prudence in observing economy when carrying out this exercise. Successive FCs have followed
+a ‘gap‑filling’ approach to determining the need for assistance, and recent FCs have used a
+‘normative’ approach to assess the revenues and expenditure of States. The philosophy behind
+this ‘normative’ approach is that it will enable the FCs to determine how much revenue the
+20

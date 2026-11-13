@@ -1,0 +1,38 @@
+Chapter 12 : Fiscal Consolidation Roadmap
+middle range of fiscal deficit in Table 12.3 for the calculation of the liabilities of the Union
+Government presented in Table 12.2.
+Table 12.3: Range of Union Government's Fiscal Deficit
+(% of GDP)
+2021-22 2022-23 2023-24 2024-25 2025-26
+In case economic recovery is 6.5 6.0 5.5 5.0 4.5
+slower than assessed
+If our macro-economic 6.0 5.5 5.0 4.5 4.0
+assessment holds
+In case economic recovery is 6.0 5.5 5.0 4.0 3.5
+faster than assessed
+Path of Fiscal Consolidation for the State Governments
+12.57 The capital expenditure of all States as a proportion of GDP was 2.6 per cent during the
+2011-2019 period, while the revenue deficit was 0.1 per cent and fiscal deficit was 2.7 per cent.
+Based on our calculations of the revenue gap of States after taking into account the own revenue
+receipts and tax devolution, we have recommended a total revenue deficit grant of Rs. 2,94,514
+crore for seventeen States from 2021-22 to 2025-26. In principle, once the estimated revenue
+deficit is taken care of with a matching provision for revenue deficit grant, the whole borrowing
+space under fiscal deficit is available for capital spending. It is from this perspective that we
+approached the issue of the net borrowing limit (gross borrowing minus repayment) of the State
+Governments.
+12.58 While fixing the borrowing limit for States in absolute amounts, one important
+issue is the size of GSDP in the year under consideration (year 't'), because the GSDP data
+certified by the National Statistical Office (NSO) is only available with a lag of at least two
+years. To overcome this difficulty, the FC-XIV recommended a practical method: “In our view,
+the difficulties in obtaining up-to-date GSDP data can be overcome by adopting a practical and
+reasonable methodology that factors in the trends of recent years to arrive at a close proximate of
+the likely GSDP for arriving at the borrowing limit. We recommend that for the purpose of
+assigning state-specific borrowing limits as a percentage of GSDP for a given fiscal year (t),
+GSDP should be estimated on the basis of the annual average growth rate of the actual GSDP
+observed during the previous three years or the average growth rate of GSDP observed during the
+previous three years for which actual GSDP data are available. This growth should be applied on
+the GSDP of the year t - 2. Specifically, GSDP for the year (t-1) and the given fiscal year (t) should
+be estimated by applying the annual average growth rate of GSDP in t - 2, t - 3 and t - 4 years on the
+base GSDP (at current prices) of t - 2. We recommend that State estimates of GSDP published by
+the CSO should be used for this purpose.”.
+371

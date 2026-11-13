@@ -1,0 +1,44 @@
+Chapter 10 : Annex
+Annex 10.7
+(para 10.79)
+Grants Proposed for Statistics - Details of Variable and Fixed Components
+Group S.No State No. of Average Per district Per district Total
+districts score variable allocation fixed allocation allocation
+based on level of for basic (Rs. crore)
+statistical capacity statistical
+(Rs. crore) operations
+(Rs. crore)
+I 1 Chhattisgarh 27 0.28 1 1 54
+2 Tripura 8 0.31 1 1 17
+3 Arunachal 25 0.32 1 1 49
+P radesh
+4 Goa 2 0.33 1 1 5
+5 Punjab 22 0.33 1 1 43
+6 Nagaland 11 0.33 1 1 23
+7 Madhya 51 0.38 1 1 102
+Pradesh
+8 Uttarakhand 13 0.38 1 1 25
+9 Jha rkhand 2 4 0.42 1 1 48
+10 Meghalaya 11 0.42 1 1 23
+11 Bihar 38 0.47 1 1 77
+II 12 Assam 33 0.53 0.75 1 57
+13 Haryana 22 0.58 0.75 1 40
+14 Him achal 1 2 0.58 0.75 1 21
+Pradesh
+15 Mizoram 8 0.58 0.75 1 14
+16 Sikkim 4 0.58 0.75 1 7
+17 Manipur 16 0.64 0.75 1 28
+18 Maharashtra 36 0.68 0.75 1 63
+19 Ra jasthan 3 3 0.68 0.75 1 57
+III 20 Uttar Pradesh 75 0.73 0.5 1 114
+21 K arnataka 30 0.78 0.5 1 45
+22 West Bengal 23 0.79 0.5 1 35
+23 Odisha 30 0.8 0.5 1 45
+24 A ndhra Pradesh 13 0.83 0.5 1 19
+25 Gujarat 33 0.83 0.5 1 51
+26 Tamil Nadu 32 0.85 0.5 1 47
+27 Kerala 14 0.88 0.5 1 20
+28 Telangana 31 0.88 0.5 1 46
+All States 677 21.5 28 1175
+Note: Total allocations per State approximated to the nearest decimal.
+343

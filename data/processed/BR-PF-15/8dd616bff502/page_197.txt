@@ -1,0 +1,18 @@
+Chapter 8: Sharing of Tax Revenues: Horizontal Devolution
+highest per‑capita GSDP, which is, Tamil Nadu. Per‑capita GSDP of each State is derived as its
+average nominal per‑capita GSDPs during 2018‑19 to 2023‑24 excluding the COVID‑19 years
+of 2020‑21.
+6) Contribution to GDP (i = 6)
+Under this criterion, each State receives a share in the portion of the States’ share in the divisible
+pool, devolved based on the contribution to GDP, equalling the share of squared root of its
+GSDP in the sum of squared root of GSDPs of all 28 States. Denoting by Y the GSDP of State
+k
+k (k = 1, 2, … 28), we have,
+(cid:958)(cid:2909)
+(viii) C = (cid:3168) , j = 1, 2, …, 28.
+6j (cid:963)(cid:3118)(cid:3124) (cid:958)((cid:2909) )
+(cid:3169)(cid:3128)(cid:3117) (cid:3169)
+The GSDP of each State is measured as the average of its nominal GSDPs from 2018‑19 to
+2023‑24, excluding the COVID‑19 year of 2020‑21.
+
+175

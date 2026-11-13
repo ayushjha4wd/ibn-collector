@@ -1,0 +1,48 @@
+Sixteenth Finance Commission
+5.44 In contrast, the State’s own tax revenue per capita does depend systematically on per
+capita income. Between two States with the same population, the one with a higher per capita
+income has a higher GSDP. Therefore, with the same tax effort, it can generate a larger volume
+of tax revenue, translating into higher tax revenue per capita. Differences in the tax effort may
+weaken this relationship, but since it exhibits no systematic relationship with per capita income,
+in reality, we do not observe such a reversal in the data. Figure 5.9, which plots per capita own
+tax revenue against per capita income for the 28 States in 2023‑24, illustrates this point. This
+relationship suggests that rapid economic growth, resulting in increased tax revenue per capita,
+facilitates the provision of public services at higher levels.
+Figure 5.9 The Positive Relationship between Per Capita GSDP and
+Per Capita Own Tax Revenue of the States, 2023‑24
+64,000
+GA
+MH
+32,000
+AP GJ TG
+AR SK
+KA
+HR
+16,000 CG TN
+KL
+MP HP
+RJ PB
+ML UK OD MZ
+8,000 UP TR
+JH NL
+AS WB
+4,000
+BR MN
+2,000
+45,000 90,000 1,80,000 3,60,000 7,20,000
+Source: States’ Finance Accounts
+States’ Reliance on Union Transfers
+5.45 At 80 per cent in 2023‑24, Telangana and Haryana report the highest proportions of own
+revenues in total receipts and exhibit the lowest reliance on devolution and grants (including the
+Union’s contribution to the CSS). Karnataka (75.7 per cent) and Maharashtra (75.1 per cent)
+also exhibit strong fiscal autonomy, rooted in diversified economic bases with industry and
+services making substantial contributions to their GSDPs. In contrast, with limited economic
+bases, Manipur (9.7 per cent) and Arunachal Pradesh (13.5 per cent) are heavily reliant on
+devolution and grants. Details of States’ own tax revenue and total revenue receipts are given
+in Annexures 5.5 and 5.6 respectively.
+92
+)elacs
+gol(
+RTO
+cp
+pc GSDP (log scale)

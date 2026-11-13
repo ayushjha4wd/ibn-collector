@@ -1,0 +1,20 @@
+Annexure 2.1: Technical note related to estimation of tax and non-tax revenues
+The estimation is based on actual data in respect of different revenues for 22 years from 2001-02 to
+2022-23 (for interest receipts the last three years data were considered to be outliers, and hence were
+not considered for estimation). F-test has been used to test the statistical significance of the results,
+and the P-value related to the F test has been found to be close to zero. Since it is less than the values
+0.01, 0.05 and 0.1 which corresponds to 99%, 95% and 90% confidence levels respectively, it can be
+concluded that the model is statistically significant at all levels of confidence. R-Square values
+corresponding to the exponential model was more than 0.95 for different tax and non-tax revenues for
+the exponential model, which is this model has been used for projection, indicating that more than 95
+percent of the variations could be explained by the model. The coefficient table shows the coefficients
+for the regression equation and results of the tests of significance, including the t-statistic and P-values
+of the t-statistic. While the F-statistic evaluates the entire model, the t-statistic examines each
+relationship independently. The P-value for t statistic again was less than 0.01, confirming the statistical
+significance of the model at all levels of confidence.
+Both the linear and exponential regression models have been tried to project the revenues. The
+comparison of the R-square values, F-statistics and t-statistics prove that exponential regression model
+has much better estimates as compared to the linear regression model. The results of the analysis and
+associate graphs are shown below for the different tax and non-tax revenues. The graphical and
+statistical analysis both concludes that exponential regression is a very good fit.
+69

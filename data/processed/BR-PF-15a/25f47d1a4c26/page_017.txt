@@ -1,0 +1,53 @@
+mEThOdOlOgy
+Macroeconomic Indicators
+Sectoral contribution to Contribution of primary, secondary, and tertiary sectors to GSDP at current prices
+GSDP (at current prices) (net of subsidies)
+Decadal growth of Decadal population growth calculated from the Census data (various years)
+population
+Total Fertility Rate The number of children that would be born per woman (or per 1,000 women) if
+she/they were to pass through the child-bearing years, bearing children according to
+the current schedule of age-specific fertility rates.
+Socioeconomic, Education, and Health Indicators
+SDG Index SDG India Index 2.0 (SDGII 2.0) is based on the framework of 17 SDGs for which
+169 indicators have been identified. The SDGII 2.0 estimation is based on data
+related to the indicators for the first 16 goals and a qualitative assessment for the
+17th.
+The score ranges between 0 and 100.
+SDG-1: No Poverty
+SDG-2: Zero Hunger
+SDG-3: Good Health and Well-Being
+SDG-4: Quality Education
+SDG-5: Gender Equality
+SDG-6: Clean Water and Sanitation
+SDG-7: Affordable and Clean Energy
+SDG-8: Decent Work and Economic Growth
+SDG-9: Industry, Innovation and Infrastructure
+SDG-10: Reduced Inequality
+SDG-11: Sustainable Cities and Communities
+SDG-12: Sustainable Consumption and Production
+SDG-13: Climate Action
+SDG-14: Life Below Water
+SDG-15: Life on Land
+SDG-16: Peace Justice and Strong Institutions
+SDG-17: Partnerships for the Goals
+Underweight children • Weight-for-age is a composite index of height-for-age and weight-for-height.
+under five years of age • It takes into account both acute and chronic under-nutrition.
+(based on weight-for-age • Children whose weight-for-age z-score is below minus two standard
+scores) deviations (–2sd) from the median of the reference population are classified
+as underweight.
+• Children whose weight-for-age z-score is below minus three standard
+deviations (–3sd) from the median are considered severely underweight.
+Infant mortality rate • Number of infant deaths during the year X 1000
+• Number of live births during the year
+Stunting in children under • Height-for-age is a measure of linear growth retardation and cumulative
+five years of age (based on growth deficits.
+height-for-age scores) • Children whose height-for-age z-score is below minus two standard deviations
+(–2sd) from the median of the reference population are considered short for
+their age (stunted), or chronically undernourished.
+• Children whose height-for-age z-score is below minus three standard
+deviations (–3sd) from the median of the reference population) are considered
+severely stunted.
+Household (%) with toilet Improved toilet facilities include non-shared toilets of the following types—flush/
+facility pour flush toilets to piped sewer systems, septic tanks, and pit latrines; ventilated
+improved pit (VIP)/biogas latrines; pit latrines with slabs; and twin pit/composting
+toilets.

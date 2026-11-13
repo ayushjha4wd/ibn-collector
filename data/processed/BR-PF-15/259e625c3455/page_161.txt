@@ -1,0 +1,44 @@
+5.5 Sustainability of Debt
+The debt sustainability is defined as the ability of the state government to maintain a reasonably low
+Debt-GSDP ratio over a period of time and reflects its ability to service its debt. The high debt ratios
+are costly and eventually become unsustainable. The fiscal sustainability is also linked to the concept
+of solvency and liquidity; while solvency refers to the government’s ability to service its debt
+obligations without explicitly defaulting on them, liquidity refers to government’s ability to roll-over its
+maturing liabilities with its liquid assets and available financing. The vulnerability to such problems is
+related to structure of debt, in terms of short- and long-term debts as well as internal and external
+debts.
+The sustainability of debt refers to the sufficiency of current assets to meet current or committed
+obligations and the capacity to balance the cost of additional borrowings with returns from such
+borrowings. Debt sustainability measures the ability of the State to maintain a constant debt-GSDP
+ratio over a period of time. It indicates the ability of the State to maintain a balance between the costs
+of additional borrowings with return from such borrowings. It means that the rise in fiscal deficit
+should match with the increase in capacity to service the debt. The borrowings are necessary to bridge
+the resource gap or fiscal deficit; debt sustainability then implies that increase in fiscal deficit should
+be accompanied by an enhanced ability to service the additional debt burden. While judging the
+sustainability of debt, one should be concerned with the inter-temporal budget constraint of the
+government and the change in public debt ratio over time. The long run debt sustainability condition
+implies the sufficiency of incremental non-debt receipts of the state government to cover its
+incremental primary expenditure. The debt sustainability implies that the incremental non-debt
+receipts can meet the incremental interest burden plus the incremental debt servicing expenditure.
+In determining sustainability of debt, we are following the classical Domar Model, according to which
+a necessary condition for stability is that the rate of growth of economy must exceed the interest rate
+or cost of public borrowings. Then the debt-GSDP ratio is likely to be stable, provided there is a
+sustained primary surplus (at least not a continued substantial deficit in the primary account) so that
+no additional debt is created. This is known as the 'Solvency Condition'. The stock of public debt could
+increase so long as it does not increase faster than the interest rate. Given the rate spread (GSDP
+growth rate – interest rate) and quantum spread (debt stock multiplied by the rate spread), debt
+sustainability condition states that if the quantum spread together with primary balance is zero, Debt-
+GSDP ratio would be stable and debt would be sustainable. On the other hand, if it is negative, the
+Debt-GSDP ratio would continue to rise and in case it is positive, Debt-GSDP ratio would eventually fall.
+Table 5.7: Sustainability of Debt (Rs. Crore)
+2012-13 2013-14 2014-15 2015-16 2016-17 2017-18
+Weighted Interest Rate on
+Loans (%) 6.4 6.7 6.6 6.6 6.4 6.1
+GSDP Growth Rate (%) 14.3 12.3 8.2 8.4 13.3 11.3
+Interest Rate Spread (%) 7.8 5.6 1.6 1.8 6.9 5.2
+Outstanding Debt 70890 79284 90143 102418 118888 133124
+Quantum Spread 5552 4456 1408 1817 8188 6919
+Primary Deficit 2117 2893 5050 4964 8289 5251
+Quantum Spread - Primary
+Deficit 3436 1563 -3642 -3147 -101 1668
+145

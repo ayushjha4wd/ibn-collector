@@ -1,0 +1,44 @@
+Sixteenth Finance Commission
+Annexure 11.1
+Methodology of Disaster Risk Index
+The Disaster Risk Index (DRI) is a function of Hazard, Exposure and Vulnerability. Hazard refers to the
+possible future occurrence of natural or human-induced physical events that may have adverse effects
+on vulnerable and exposed elements. Exposure refers to the inventory of elements in an area in which
+hazard events may occur. Vulnerability refers to the propensity of exposed elements such as human
+beings, their livelihoods, and assets to suffer adverse effects when impacted by hazard events. FC-16’s
+methodology to calculate DRI considers all three pillars – Hazard, Exposure and Vulnerability.
+Hazards
+A comprehensive and contextually relevant approach to hazard identification has been adopted, covering
+a wide range of hydro-meteorological and geological hazards prevalent in India. Specifically, the
+Commission considered cyclones, floods, droughts, landslides, earthquakes, cloudbursts, hailstorms and
+cold waves – eight of the twelve disasters notified at the national level by the Union Government. The
+availability of reliable, State-disaggregated data from official sources and national repositories informed
+the selection of these hazards.
+In addition to the above eight disasters, heat waves and lightning have been included as part of our
+assessment in the State-specific disaster category. While these events are currently classified as State-
+specific hazards due to their localised nature, their increasing frequency, severity and geographic spread
+across multiple States indicate the need to consider them for future inclusion in the list of nationally
+notified disasters.
+A structured and objective scoring framework has been adopted to estimate hazard scores for each State.
+The raw hazard values were classified into five ordinal risk classes and assigned scores of 3, 6, 9, 12 and
+15, respectively. These scores reflect increasing levels of hazard intensity across States.
+For the classification of hazard data into these ordinal risk classes, the quintile classification was used
+and calculated the breaks at 20, 40, 60 and 80 percentiles, respectively. This approach ensures that each
+class contains approximately an equal number of States. This approach is useful for comparative ranking
+across a fixed number of entities (such as States) and its ability to effectively distinguish the relative risk
+profile of States.
+The score of each hazard is then summed after applying weightages based on disaster wise expenditure
+from the NDMIS – Flood (50 per cent), Drought (15 per cent), Cyclone (7 per cent), Landslide (5 per
+cent), State-Specific Disasters (15 per cent), Earthquake (2 per cent), hailstorm (2 per cent), Cold wave
+(2 per cent) and Cloud Burst (2 per cent). While the share of the reported expenditure for certain disasters
+is less, the weight applied to the latter four disasters and to landslides has been increased to 2 per cent
+each and 5 per cent, respectively, to give them their fair share in the hazard calculation.
+Flood
+Floods in India arise primarily from three distinct sources: (i) riverine flooding, which largely affects the
+extensive floodplains of northern and eastern India; (ii) intense rainfall during cyclones, which impacts
+coastal States and adjoining inland regions; and (iii) flash floods, often triggered by heavy and very
+heavy rainfall events, particularly in hilly and urbanised areas.
+To assess flood hazard across States in a comprehensive manner, two complementary datasets has been
+utilised. First, flood inundation data was used from the Central Water Commission (CWC)1, which
+1 https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2037094
+52

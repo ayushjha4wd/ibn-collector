@@ -1,0 +1,6 @@
+S.No.,Criteria,Suggested Weights (%)
+i),Income Distance,50
+ii),Forest Cover,10
+iii),Area,5
+iv),Population,20
+v),Socio-economic Infrastructure Gap,15

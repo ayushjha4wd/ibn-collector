@@ -1,0 +1,44 @@
+Sixteenth Finance Commission
+weather events – are likely to further exacerbate landslide occurrences in the coming years. Moreover,
+expanding urbanisation and infrastructure development in ecologically sensitive and geologically
+unstable regions have significantly increased exposure and vulnerability to landslide risks.
+For the purpose of landslide hazard assessment, the National Landslide Susceptibility Mapping data from
+the Geological Survey of India4 was used. This classification identifies areas as ‘Moderately Affected’
+or ‘Highly Affected’ based on terrain stability, recorded events, and geophysical characteristics. The
+dataset spans the period 2016-2023 and enables State-level comparative assessment of landslide-prone
+zones for risk analysis and planning.
+Earthquake
+Although earthquakes occur less frequently compared to other natural hazards, they pose a substantial
+risk in India due to their potential to cause catastrophic damage and large-scale loss of life. A significant
+portion of the Indian subcontinent falls within moderate to high seismic zones, particularly the
+Himalayan belt, the Indo-Gangetic Plain, parts of Gujarat and Maharashtra, and the Northeastern States.
+India’s seismic vulnerability arises primarily from the tectonic interaction between the Indian Plate and
+the Eurasian Plate. The persistent northward movement of the Indian Plate results in the accumulation
+of stress along geological fault lines, which is periodically released as seismic activity. This geodynamic
+process underpins the elevated seismic risk in several regions of the country.
+The risks associated with earthquakes are further compounded by rapid urbanisation and inadequate
+enforcement of earthquake-resistant building norms, particularly in densely populated and infrastructure-
+intensive urban centres. These factors significantly increase the exposure and vulnerability of people and
+physical assets to seismic events.
+To assess earthquake hazard across States, the Seismic Zonation Map prepared by the Bureau of Indian
+Standards for the year 2024 was used and the data related to the number of earthquake events between
+2013 and 2023 as obtained from the National Centre of Seismology (NCoS)5. The zonation map
+classifies regions based on the expected intensity of seismic activity and provides a consistent basis for
+evaluating seismic risk at the national scale. The data from NCoS provides the historical number of
+earthquake events for a State along with the magnitude. The data on both these parameters are assigned
+a weightage of 2 per cent, 4 per cent, 6 per cent, 8 per cent and 10 per cent based on levels of seismic
+zonation and magnitude, respectively. These are then averaged to arrive at the earthquake score.
+Hailstorm
+Hailstorms, while localised in nature, pose a significant hazard to agriculture, infrastructure, and
+property, particularly in the northern and central regions of India. Crops such as wheat, mustard, and
+various horticultural produce are especially vulnerable to hail-induced damage, often resulting in
+considerable economic losses for farming communities.
+A hailstorm is a severe convective weather event characterised by the formation and descent of solid ice
+particles-known as hailstones-from cumulonimbus clouds. Scientifically, hailstones are defined as
+precipitation particles with a diameter of at least 5 millimetres. Their size and impact potential are
+determined by the intensity of the storm, prevailing atmospheric instability, and the presence of wind
+shear. Hailstorms typically occur in regions experiencing strong thermal gradients and high moisture
+availability and are commonly associated with severe thunderstorms.
+4 https://www.gsi.gov.in/webcenter/portal/OCBIS/pageQuickLinks/pageNLSM
+5 https://riseq.seismo.gov.in/riseq/earthquake
+54
