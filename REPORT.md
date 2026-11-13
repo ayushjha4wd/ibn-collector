@@ -17,7 +17,7 @@ It holds **721 verified data files (1.23 GB) from 16 collection entries, coverin
 | Catalogue coverage | All 41 Bihar sources are in the manifest, each either automated or marked manual with the reason | India-wide catalogue (66 sources) is not yet in a manifest |
 | Public finance | State accounts (4 years), Monthly Key Indicators (Apr 2021 – Jun 2026), GST (10 years), Economic Survey 2024-25, Green Budget, all three SFC reports, 15th and 16th Finance Commission, PRS | Budget documents and FRBM disclosures (expired certificate), RBI publications (bot check), CAG audit reports and Monthly Civil Accounts (CAG server errors) |
 | Demographics | 500 Census 2011 tables, District Census Handbooks for all 38 districts, SRS reports 2011–2024, population projections, CRS 2023 | Statistics-directorate reports (site unreliable), NFHS (expired certificate), PLFS, HCES, HMIS, Mission Antyodaya, caste survey |
-| Extraction | Text and tables from every PDF; every Excel sheet and zipped table to CSV; OCR has read 624 of 2,446 scanned pages so far | Finish OCR: `python scripts/ocr.py` resumes where it stopped |
+| Extraction | Text and tables from every PDF; every Excel sheet and zipped table to CSV; OCR of all 2,446 scanned pages (2,165 have text; the rest are blank or picture-only) | Nothing required. OCR text needs checking against the original before figures are used |
 
 ## 2. Status of every Bihar catalogue source
 
@@ -74,7 +74,7 @@ The manifest also has rows that split a catalogue source into separate collectio
 - Finance Accounts Vol I and II and Appropriation Accounts, FY 2021-22 to FY 2024-25; Accounts at a Glance 2024-25.
 
 **State budget and planning: 6 files, 222 MB.**
-- Bihar Economic Survey 2024-25 in English and Hindi (1,272 pages; includes district GDP).
+- Bihar Economic Survey 2024-25 in English and Hindi (1,272 pages; includes district GDP). Both are image-only PDFs, so their text comes from OCR.
 - Green Budget 2024-25.
 - 5th State Finance Commission report Vol I and 6th SFC report Parts 1–3.
 
@@ -97,13 +97,13 @@ The manifest also has rows that split a catalogue source into separate collectio
 | Ruled tables found in PDFs and saved as CSV | 14,451 |
 | Excel sheets saved as CSV (including inside zips) | 3,488 |
 | Scanned PDF pages with no text layer | 2,446 |
-| Scanned pages read by OCR (13 Nov, still running) | 624 |
+| Scanned pages OCR found text on | 2,165 |
 
 Excel sheets: 1,144 from workbooks plus 2,344 from the handbook archives.
 
-**Scanned pages.** 2,446 pages have no text layer. Most are in the English Economic Survey 2024-25, which is an image-only PDF, the SRS reports for 2015–2019 (about 110–120 scanned pages each) and the 6th SFC report Part 3. `ocr.py` reads them with Tesseract in English and Hindi and saves the text beside the normal output; OCR text can contain misreadings, so use it to find figures and check them against the original.
+**Scanned pages.** 2,446 pages have no text layer: both editions of the Economic Survey 2024-25 (1,272 pages; image-only PDFs), the SRS reports for 2015–2019 (about 110–120 pages each), the 6th SFC report Part 3 (270 pages) and a few pages elsewhere. `ocr.py` read all of them with Tesseract in English and Hindi and saved `page_NNN.ocr.txt` beside the normal output. 2,165 pages now have text; the other 281 are blank, divider or picture-only pages. OCR is good enough to find tables and figures, but not to use them unchecked. Compared with the page image of the Economic Survey's Table 2.7 (revenue deficit by state), Bihar's 2021-22 to 2023-24 values were read correctly (422, 11288, -2833) but its 2024-25 value, -1121, came out as "चाश \| 121". Elsewhere in the same table minus signs were dropped or misread: Andhra Pradesh's -43487 became 43487, Chhattisgarh's -4642 became 54642 and Himachal Pradesh's -5730 became "-s730". Treat OCR text as a way to locate figures, and take the figures from the original page.
 
-**Bihar coverage.** Every file from Bihar's own sources (state accounts, budget, SFC) mentions Bihar, except the English Economic Survey, which has no text layer until OCR reads it. National datasets were kept whole: GST, SRS and Finance Commission files cover all states. 119 of the 500 census files never name Bihar because they are district Primary Census Abstract files identified by census code (for example `PCA1002` is a Bihar district). Filter Bihar out at the cleaning stage.
+**Bihar coverage.** Every file from Bihar's own sources (state accounts, budget, Economic Survey, SFC) mentions Bihar; the Hindi Economic Survey does so in Devanagari (बिहार), which the count does not search for.
 
 ## 5. What the data shows: an example
 

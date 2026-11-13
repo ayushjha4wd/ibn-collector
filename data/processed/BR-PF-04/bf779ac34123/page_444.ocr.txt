@@ -1,0 +1,47 @@
+Chart 11.8 ; Number of MFI lenders in Bihar and India (March 31, 2022 to March 31, 2024)
+
+100
+90 84 Sad
+80
+70 64 59 64
+60
+50 42 ef 45
+40
+30 22
+20 4 12 1
+10 4]
+0 os i= |
+Bihar India Bihar India Bihar India
+Mar-22 Mar-23 Mar-24
+= NBFC-MFIis ®NGO-MFIs
+
+Source } NABARD Report on Status of Microfinance in India, 2021-22 to 2023-24
+
+A summary of the loans provided by MFI lenders in Bihar and across India from 2022 to 2024 is
+presented in Table 11.5. Chart 11.8 illustrates the changes in the number of NBFC-MFI and NGO-
+MFI lenders during these years. In Bihar, the number of NBFC-MFI lenders rose from 42 in March
+2022 to 64 in March 2024. Meanwhile, at the national level, the number of NBFC-MFI lenders
+increased from 64 to 90. Additionally, the number of NGO-MFI lenders in Bihar grew from 4 in
+March 2022 to 11 in March 2024, At the all-India level, the number of NGO-MF! lenders also saw
+
+significant growth, rising from 21 to 45 during the same period.
+
+Table 11.5 : Summary of the Loans by MFI Lenders in Bihar and India (March 31, 2022 to March 31, 2024)
+
+No. of Lenders No. of Active Loans Outstanding Balance
+MFIs (in lakh) (Rs. crore)
+| 2022 | 2023 | 2024 | 2022 | 2023 | 2024 | 2022 20231. 2024
+NBFC-MFIs 42 59 | &4 | 12 73 88 | 4503 | 19714) 25458
+Bihar | NGO-MFIs | 4 | 12 11 | 1 | 4 | 0.004 319 | 1016 1
+Total 46 | 71 75 | 13 | 77 88 | 4822 | 20730 | 25459
+NBFC-MFIs 64 | 8 | | 90 | 78 320 | 580 | 30216 | 139632 | 163275
+India | NGO-MFls 21 47 45 4 | 16 | 4 970 3778 854
+Total | as | 131 | 15 | | a | | 536 | | 584. | 31186 | 186 | 143410 | 164129
+
+Note : NBFC = Non-Banking Finance Companies, NGO = Non-Governmental Organisation
+Source : NABARD Report on Status of Microfinance in India, 2021-22 to 2023-24
+
+In recent years, Bihar has witnessed a remarkable surge in the number of active loans facilitated
+by MFIs. Over the last three years, the volume of active loans disbursed by MFI lenders has
+
+387

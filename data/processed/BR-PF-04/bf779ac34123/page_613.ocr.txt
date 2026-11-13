@@ -1,0 +1,48 @@
+Monitoring in Rural Areas
+
+The BSPCB has established one CAAQMS at the Forest Rest House, Manguraha in West
+Champaran which represents rural area. The details are given in Appendix (Table Al4.5).
+
+Air Quality Index (AQD
+
+The BSPCB provides information on ambient air quality and the Air Quality Index (001) through
+an electronic display board and the CPCB/BSPCB websites. The AQI acts as a tool that simplifies
+complex air quality data from various pollutants into a single numerical value (Index Value), along
+with a name and colour coding. There are six categories of AQ: Good (0-50), Satisfactory
+(51-100), Moderate (101-200), Poor (201-300), Very Poor (301-400), and Severe (>401). In
+winters, air quality deteriorates to very poor and severe levels due to the condensation of fine
+particulate matter closer to the ground. The levels of particulate matter in the air are influenced by
+human activities and geographical factors. The observations of the same are presented in Table
+14.17 for three cities during 2021-22 to 2023-24.
+
+Table 14.17: Status of Air Quality Index (AQT) in Patna, Muzaffarpur, Gaya
+
+Cities Year Good | Satisfactory Moderate Poor (Very Poor) Severe es
+2021-22 14 125 8 | 113 31 | — | 364
+
+Patna 2022-23 4 87 107 | $5 | 74 | 8 | 365
+2023-24 | 10 | | 80 | 135 | 101 | | 40. | — | 366
+
+2021-22 | 44 | 106 | | &4 | | 80. 57 4 355
+
+Muzaffarpur | 2022-23 3 127 39 | | 8 | 4 | — | 181
+2023-24 | 3 | | ४2 | 157 | 110 | 10 | 14 | | — | 366
+
+2021-22 | 31 | 140 | 151 39 | 2 | न- 363
+
+Gaya 2022-23 | 6 | 100 177 46 32 | = | 361
+2023-24 | 21 156 | 130 | | 58 | | 1 | | - | 366
+
+Source } Bihar State Pollution Control Board
+
+Noise Monitoring
+
+Bihar’s cities and towns are experiencing an increase in noise pollution, owing to construction
+activities, traffic, loudspeakers, and firecrackers during festivities. The BSPCB is monitoring the
+noise levels in a number of neighbourhoods in Patna in order to develop monitoring systems and
+reduce noise pollution. Table 14.18 A presents the annual noise data, for the period 2019-2023, of
+different locations in Patna across commercial, industrial and residential areas along with noise
+level in silent zones. The data covers noise levels during both day and night. The details on the
+permissible decibels are given in Table 14,18 B.
+
+556

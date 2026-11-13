@@ -1,0 +1,44 @@
+any major lifestyle changes. The proportion of children aged 12-23 months in Bihar who are fully
+immunized has risen significantly from 11.6 percent (NFHS-2, 1998-99) to 71.0 percent in
+2019-20 (NFHS-5), reflecting an increase of 59.4 percentage points. A well-implemented
+immunization program that targets everyone evenly will significantly help in decreasing the
+prevalence of vaccine-preventable diseases, thus aiding in the attainment of the Sustainable
+Development Goal (SDG) to lower the IMR to 25 per 1,000 live births by 2030, The relevant data
+in this regard is presented in Table 12.7. This data refers to five components of immunisation — Td
+(Anti-tetanus), BCG, OPV, PENTA and measles. Looking at the most recent figure (2023-24), one
+notices that Bihar has achieved more than 75 percent in immunization coverage in most of the
+vaccines, except oral polio vaccine (zero) where coverage is still 59.8 percent.
+
+Table 12.7 : Antigen-wise Immunisation Coverage in Bihar
+
+2021-22 2022-23 2023-24
+Antigen name Target | Achievement} Target | Achievement) Target | Achievement
+(‘000) (000) (000) (000) (‘000) (000)
+TT 2+ Booster (PW)| 3469 2422 (69.8) 3441 2951 (85.8) 3488 2733 (78.4)
+BCG 3285 2364 (72.0) 3097 2572 (83) 3143 2567 (81.7)
+OPV 0 3285 1631 (49.6) 3097 1822 (58.8) 3143 1881 (59.8)
+OPV 1 3285 2471 (75.2) 3097 2887 (93.2) 3143 2674 (85,1)
+OPV 2 3285 2332 (71.0) 3097 2954 (95.4) 3143 2598 (82.7)
+OPV 3 3285 2153 (65.5) 3097 2885 (93.2) 3143 2499 (79.5)
+PENTA-1 3285 2483 (75.6) 3097 2894 (93.4) 3143 2723 (86.6)
+PENTA-2 3285 2341 (71.3) 3097 2959 (95.5) 3143 2655 (84.5)
+PENTA-3 3285 2167 (66.0) 3097 2889 (93.3) 3143 2555 (81.3)
+Measles (MR-1) 3285 2554 (77.7) 3097 3018 (97.4) 3143 2724 (86.7)
+
+Note ; 1. DPT has been replaced by Pentavalent in 2015-16
+2. Figures in parenthesis indicate achievement in percentage
+3. TT has been replaced by Td in 2019
+Source : State Health Society, GoB
+
+Prevalence of Main Diseases
+
+Estimating disease burden based on sound epidemiological research provides the foundation for
+effective public policy. Communicable and non-communicable diseases are still persisting in Bihar
+and India as major health problems. The information on the main diseases in Bihar is presented in
+Table 12.8. It is evident from the table that, in 2023-24, dog bite was the most important cause of
+illness in Bihar, accounting for 244.37 thousand patients. The next dominant category was Acute
+Diarrhoeal Disease, accounting for 25.64 thousand patients. Other important diseases as per their
+occurrence in 2023-24 are given in Table 12.8. The total number of patients in 2023-24 was 357.58
+thousand. The district-wise figures for the same are provided in Appendix (Table Al2.12).
+
+421

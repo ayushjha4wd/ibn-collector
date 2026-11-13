@@ -1,0 +1,60 @@
+चक्र : इस एँप को अपराध अन्वेषण विभाग अर्थात सीआइडी (निषेध) द्वारा बिहार के विशेष कार्यबल (एसटीएफ)
+को सौंप दिया गया है जो जनवरी 2023 से चालू है। चक्र की महत्वपूर्ण विशेषताओं में बिहार पुलिस के लिए
+अपराधी का निबंधन एवं खोज प्लेटफॉर्म शामिल है। साथ ही, चेहरे की पहचान, गिरोह के विश्लेषण आदि के
+आधार पर अपराधियों का आंकड़ा आधार तैयार किया जाता है और ऐसी उन्नत विशेषताओं का उपयोग अपराधियों
+की पहचान, आपराधिक इतिहास, त्वरित गिरफ्तारी, तथा अपराध से प्रभावी बचाव, पहचान और नियंत्रण में होता
+है। यह पुलिस को विभिन्‍न अपराधियों, आपराधिक नेटवर्क और गिरोहों की पहचान में भी सहयोग देता है। गत
+पांच वर्षों में सिस्टम पर लगभग 10 लाख अपराधियों के आंकड़े अपलोड किए गए हैं।
+
+साइबर सुरक्षा : नवंबर 2024 तक वित्तीय धोखाधड़ी की 70,057 शिकायतें दर्ज कराई me) इन धोखाधडियों के
+सत्यापन के बाद 3668 प्राथमिकियां दर्ज की गई हैं। विभिन्‍न जिलों में साइबर सेलों और साइबर पुलिस थानों को
+साइबर अपराध से संबधित 15.72 लाख कॉल मिले। कुल 560 साइबर अपराधियों को गिरफ्तार किया गया है।
+आर्थिक एवं साइबर अपराध ey ने साइबर अपराधियों पर छापों और उनकी गिरफ्तारी क॑ लिए 'साइबर प्रहार'
+wy विकसित किया है।
+
+ईआरएसएस (आपात अनुक्रिया सहयोग प्रणाली) डायल 112 : पूरे राज्य में नियत समय में लोक सुरक्षा के लिए
+चौबीसों घंटे तेज और समेकित आपात सेवाएं प्रदान करने के लिए आपात अनुक्रिया सहयोग प्रणाली के संचालन
+के लिए केंद्रीकृत कमांड केंद्र स्थापित किया गया है जो इस मकसद से आपात अनुक्रिया वाहनों (ईआरवी) और
+एसएचओ, आरक्षी उपाधीक्षक, और आरक्षी अधीक्षक जैसे रैंक के अधिकारियों के साथ संपर्क में रहता हैं। आपात
+अनुक्रिया वाहनों में वायरलेस और जीपीएस उपकरण लगे होते हैं। आपात अनुक्रिया सहयोग प्रणाली की कार्य
+प्रक्रिया इस प्रकार की है :
+
+चार्ट 7.2 + आपात अनुक्रिया सहयोग प्रणाली की कार्य प्रक्रिया
+
+Citizen in distress: Citizen
+
+Feedback initiated at Centralized contact through mobite/ wer Location based services airy
+command & control center landline/ SMS/ email / SOS - % processed and ४५
+112 के
+First point of contact:
+
+Feedback: Ability to
+Ab makes distinction
+
+take feedback from
+between emergency and
+
+asi non-emergency calls Voice recorded and
+Cate मर on stored
+(3 a >) Ci chiwara call taking and
+assessment:
+“ane sonny to grede SEED cai getats fea
+pe अब | calls and create Fes by call takers
+event
+
+oD ७ A Arrival at scene: Dispatch: Ability to au A Se
+
+Takoing appropriate dispatch nearest Use of computor aided
+
+; action
+एव nase’ Bests AU bs ERVs and SHOs dispatch application
+DCC and concerned SHO Se
+
+MDT: Mobile Date Terminal
+
+| es rer a EINE | Well-defined SOPs for each critical step to ensure swift response to emergency |
+situations
+
+स्रोत : ye विभाग, बिहार सरकार
+
+255

@@ -1,0 +1,53 @@
+Table A 12.15 ; District-wise Coverage of Har Ghar Nal Ka Jal
+
+a Name of Total
+District Division Actual | Completed | FHTC FHTC
+Target ward Target | Completed
+Batnx Patna East 785 781 | 128556 | 127511
+Patna West 687 687 116784 111369
+Nalanda Biharsharif 1535 | 1535 | 204601 | 203740
+Hilsa | 5650 | | 5650 | 103894 103882
+Bhojpur (Ara) | Ara | 1355 | | 1355 | 167158 166328
+Arwal Arwal 73 73 11083 | 1083 11083 | 1083
+(Buxar | Buxar | _1042 | |_1042 | 125161 125179
+Rohtas Rohtas 1789 1789 233781 233781
+/Kaimur Kaimur 1117 1117 158552 157644
+Aurangabad Aurangabad | 1082 | 1082 | 167629 160848
+Gaya Gaya 1970 | 1959 | 236187 236187
+Jehanabad Jehanabad | 382 | | _ 382 | 56791 56548
+Nawada Nawada | 1531 | || |_1524 | 170552 167684
+Muzaffarp Muzaffarpur | ton | 1 |_101 | ] 150812 150343
+Vaishali Vaishali 1898 1898 292820 292640
+Sitamarhi Sitamarhi | 618 | 618 | 121234 121234
+Sheohar Sheohar 229 | 229 | 39031 39031
+ए. Chaitipiira Motihari | | 308 | | 308 | 48943 48943
+‘Dhaka | 341 | 34) 52779 | 51825 | 1825
+W. Champaran Bettiah | | 92 | 2 | 92 | 2 148907 148907
+Darbhanga Darbhanga | 625 | | _ 614 | 14 89550 | 86665 |
+Madhubani Madhubani | 802 | | 802 | | 128168 | 28168 127501
+Samastipur Samastipur 2299 2299 323897 323847
+Saran ‘Saran | 1215 | 1215 153892 153892
+“Siwan | Siwans 475 475 54801 | S4801 |
+Gopalganj Gopalganj | 409 | |_409 | 52520 52520
+/Purnea Purnea 3354 3280 540149 532443
+Kishanganj Kishanganj 1769 1769 270981 270981
+(Katihar | रा | 3209 3209 523889 §23889
+Araria Araria | 2992 | | 2992 | 567266 367266
+Saharsa Saharsa | 2069 | 1724 331874 255123
+($फआ।_ | | 5छ0त1___ | | 2522 | | 2522 | | 419056 | 417489
+Madhepura Madhepura | 2242 | 2242 402763 402763
+Bhagslpur East 1794 1794 239650 239408
+Bhagalpur —T Bhagalpur West 562 562 ४४134 | 85816 |
+Banka Banka | 1668 | 1668 | 212853 212853
+“Munger | /Munger | 1149 | 4149 | 149 160935 | 160760
+Jami Jami 1697 1697 194145 194145
+“Sheikhpura | Sheikhpura 712 712 109993 109993
+Begusarai Begusarai 3050 3046 495603 475431
+Khagaria Khagaria 1844 1844 262675 262675
+Lakhisarai Lakhisarai 674 674 100815 99534
+s«é@Bhar sd 56447 | 55991 | 8458864 8324502
+
+Source : Public Health Engineering Department, GoB
+
+490
+

@@ -1,0 +1,45 @@
+In addition to LEB, there are six other health indicators for which comparable data is available:
+Crude Birth Rate (CBR), Infant Mortality Rate (IMR), Child Mortality Rate (CMR), Under-Five
+Mortality Rate (USMR), Neo-Natal Mortality Rate (NMR), and Peri-Natal Mortality Rate (PMR).
+Table 12.3 presents important data for these indicators for both Bihar and India, covering the years
+2015 and 2020. The Crude Birth Rate (CBR) is consistently higher in Bihar; for instance, in 2020,
+it was recorded at 25.5 per 1000 person for Bihar compared to 19.5 for India, reflecting a difference
+of 6.0 percentage points. However, over the period from 2015 to 2020, the gap between the CBR
+in Bihar and that in India has narrowed slightly, When examining the IMR, it is notable that the
+state figure has considerably dropped from 42 in 2015 to 27 in 2020. In contrast, the decline for
+India was less pronounced, decreasing from 37 in 2015 to 28 in 2020. By 2020, the IMRs for rural
+and urban areas in Bihar stood at 27 and 25, respectively, while the corresponding figures for India
+were 31 for rural and 19 for urban. This significant reduction in IMR can be attributed to the
+concentrated efforts of the State government. Concerning the Child Mortality Rate (CMR), it saw
+a decrease of 5.1 percentage points in Bihar, falling from 12.0 in 2015 to 6.9 in 2020, In contrast,
+India experienced a smaller reduction of 2.0 percentage points, from 10.0 in 2015 to 8.0 in 2020.
+Concerning the other three indicators, Bihar demonstrates notable declines of 18 and 7 percentage
+points, respectively. In comparison, this decrease for India was lesser than that of Bihar by 11 and
+5 percentage points, respectively. The performance of these indicators in both rural and urban areas
+followed a similar trend.
+
+Table 12.3 : Selected Health Indicators for Bihar and India (Percentage)
+
+Infant Child Under- Neo- Peri-
+or Crude 4 Five Natal Natal
+Laie Yene ee: Birth Rate 40७7 | Mextality Mortality | Mortality | Mortality
+
+Rate Rate
+Rate Rate Rate
+All 19.5 28.0 | 80 | 32.0 20.0 18.0
+= | Rural | 21.1 31.0 | 90 | 36.0 23.0 21.0
+Urban | 16.1 | 19.0 | 53 | 21.0 12.0 12.0
+India
+All 20.8 37.0 | 10.0 | 43.0 25.0 23.0
+2015 Rural 22.4 41.0 | 12.0 | 48.0 | 29.0 | | 26.0 |
+Urban 17.3 | 250 | 7.0 28.0 | 15.0 | 15.0
+All 25.5 27.0 | 6.9 | 30.0 | 21.0 | 1.0 17.0
+2020 | Rural | 262 | 27.0 7.0 31.0 | 22.0 | | 18.0 | 8.0
+Urban 21.0 25.0 | 65 | 27.0 17.0 12.0
+Bihar
+All 26.3 | 42.0 | | 12.0 | 48.0 28.0 | 24.0 |
+~ | Rural | 27.1 42.0 | 12.0 | 48.0 | 29.0 | | 24.0 |
+Urban 20.6 44.0 11.0 47.0 20.0 20.0
+
+Source : Sample Registration System (SRS), Office of the Registrar General, India
+415

@@ -1,0 +1,34 @@
+Ambient Air Quality Monitoring
+Monitoring in Urban Areas
+
+The Bihar State Pollution Control Board (BSPCB) consistently oversees the quality of ambient air
+by utilizing 35 Continuous Ambient Air Quality Monitoring Stations (CAAQMS) that are set up
+across 23 districts within the state. These stations are distributed as follows: Patna has 6,
+Muzaffarpur has 3, Gaya has 3, Bhagalpur has 2, and there is one stationed in each of the following
+locations: Hajipur, Araria, Ara, Aurangabad, Begusarai, Bettiah, Biharsharif, Buxar, Chapra,
+Darbhanga, Katihar, Kishanganj, Motihari, Munger, Purnea, Saharsa, Samstipur, Sasaram, Siwan,
+Rajgir and Manguraha (West Champaran) (Figure 14.1).
+
+The parameters including PM10, PM2.5, SO2, 1२०2, CO, 03. NH3, BTX, along with
+meteorological factors such as AT, RH, WS, WD, and SR, which are observed using CAAQMS.
+The aforementioned stations are connected to the National Ambient Air Quality Monitoring
+Network via the Central Pollution Control Board (CPCB) server and are also accessible through
+the BSPCB website. The Board is also looking to expand Real-Time Monitoring Stations to the
+remaining 15 districts of Bihar, The averages of key pollutants and BTX parameters for each city
+can be found in the Appendix (Table A14.5),
+
+Figure 14.1 : Location of CAAQMS in Bihar
+
+were ow aor or srore
+
+avery
+
+Stations
+er Existing
+* New
+
+wus ales woes - tee
+
+Source ; Bihar State Pollution Control Board
+
+555

@@ -18,8 +18,8 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [Bihar_Economic_Survey_2024-25_English.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 57.1 | 638 | – | 638 | 339 | 1172 |
-| [Bihar_Economic_Survey_2024-25_Hindi.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 53.4 | 634 | – | 634 | 0 | 0 |
+| [Bihar_Economic_Survey_2024-25_English.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 57.1 | 638 | – | 638 | 631 | 1855 |
+| [Bihar_Economic_Survey_2024-25_Hindi.pdf](https://state.bihar.gov.in/finance/CitizenHome.html) | FY 2024-25 | pdf | 53.4 | 634 | – | 634 | 625 | 5 |
 
 ## BR-PF-05: Bihar Finance Accounts Vol I & II - AG (A&E) Bihar
 
@@ -762,10 +762,10 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [XV-FC-Volume_IV-The_States.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf) | – | pdf | 116.3 | 392 | 968 | 24 | 0 | 91 |
+| [XV-FC-Volume_IV-The_States.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC-Volume%20IV-The%20States.pdf) | – | pdf | 116.3 | 392 | 968 | 24 | 1 | 91 |
 | [XV-FC_-VOL_II_Annexes.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XV-FC%20-VOL%20II%20Annexes.pdf) | – | pdf | 3.1 | 396 | 308 | 1 | 0 | 136 |
 | [XVFC_202021_Report_English_Web.pdf](https://fincomindia.nic.in/asset/pdf/commission-reports/XVFC_202021%20Report_English_Web.pdf) | – | pdf | 16.8 | 128 | 212 | 5 | 0 | 16 |
-| [XVFC_VOL_I_Main_Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XVFC%20VOL%20I%20Main%20Report.pdf) | – | pdf | 31.1 | 446 | 185 | 23 | 0 | 44 |
+| [XVFC_VOL_I_Main_Report.pdf](https://fincomindia.nic.in/asset/doc/commission-reports/XVFC%20VOL%20I%20Main%20Report.pdf) | – | pdf | 31.1 | 446 | 185 | 23 | 21 | 44 |
 
 ## BR-DM-03: District Census Handbooks 2011 - Bihar
 
@@ -820,15 +820,15 @@ Columns: **Pages / sheets** = PDF pages or Excel sheets; **Tables** = ruled tabl
 
 | File | Period | Type | MB | Pages / sheets | Tables | No-text pages | OCR | Bihar |
 | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| [SRS_STAT_2011.pdf](https://censusindia.gov.in/nada/index.php/catalog/34790/download/38478) | 2011 | pdf | 14.9 | 256 | 15 | 40 | 0 | 102 |
-| [SRS_STAT_2012.pdf](https://censusindia.gov.in/nada/index.php/catalog/34791/download/38479) | 2012 | pdf | 9.4 | 234 | 15 | 19 | 0 | 100 |
-| [SRS_STAT_2013.pdf](https://censusindia.gov.in/nada/index.php/catalog/34788/download/38476) | 2013 | pdf | 7.4 | 240 | 6 | 19 | 0 | 99 |
-| [SRS_STAT_2014.pdf](https://censusindia.gov.in/nada/index.php/catalog/34787/download/38475) | 2014 | pdf | 8.9 | 257 | 10 | 18 | 0 | 98 |
-| [SRS_STAT_2015.pdf](https://censusindia.gov.in/nada/index.php/catalog/44371/download/48038) | 2015 | pdf | 8.4 | 351 | 10 | 112 | 0 | 100 |
-| [SRS_STAT_2016.pdf](https://censusindia.gov.in/nada/index.php/catalog/44372/download/48040) | 2016 | pdf | 11.6 | 356 | 14 | 112 | 0 | 96 |
-| [SRS_STAT_2017.pdf](https://censusindia.gov.in/nada/index.php/catalog/44373/download/48042) | 2017 | pdf | 9.6 | 366 | 10 | 122 | 0 | 94 |
-| [SRS_STAT_2018.pdf](https://censusindia.gov.in/nada/index.php/catalog/44374/download/48044) | 2018 | pdf | 10.5 | 359 | 11 | 121 | 0 | 97 |
-| [SRS_STAT_2019.pdf](https://censusindia.gov.in/nada/index.php/catalog/44375/download/48046) | 2019 | pdf | 9.9 | 355 | 14 | 114 | 0 | 97 |
+| [SRS_STAT_2011.pdf](https://censusindia.gov.in/nada/index.php/catalog/34790/download/38478) | 2011 | pdf | 14.9 | 256 | 15 | 40 | 14 | 113 |
+| [SRS_STAT_2012.pdf](https://censusindia.gov.in/nada/index.php/catalog/34791/download/38479) | 2012 | pdf | 9.4 | 234 | 15 | 19 | 14 | 110 |
+| [SRS_STAT_2013.pdf](https://censusindia.gov.in/nada/index.php/catalog/34788/download/38476) | 2013 | pdf | 7.4 | 240 | 6 | 19 | 14 | 107 |
+| [SRS_STAT_2014.pdf](https://censusindia.gov.in/nada/index.php/catalog/34787/download/38475) | 2014 | pdf | 8.9 | 257 | 10 | 18 | 15 | 107 |
+| [SRS_STAT_2015.pdf](https://censusindia.gov.in/nada/index.php/catalog/44371/download/48038) | 2015 | pdf | 8.4 | 351 | 10 | 112 | 108 | 100 |
+| [SRS_STAT_2016.pdf](https://censusindia.gov.in/nada/index.php/catalog/44372/download/48040) | 2016 | pdf | 11.6 | 356 | 14 | 112 | 108 | 97 |
+| [SRS_STAT_2017.pdf](https://censusindia.gov.in/nada/index.php/catalog/44373/download/48042) | 2017 | pdf | 9.6 | 366 | 10 | 122 | 108 | 94 |
+| [SRS_STAT_2018.pdf](https://censusindia.gov.in/nada/index.php/catalog/44374/download/48044) | 2018 | pdf | 10.5 | 359 | 11 | 121 | 113 | 98 |
+| [SRS_STAT_2019.pdf](https://censusindia.gov.in/nada/index.php/catalog/44375/download/48046) | 2019 | pdf | 9.9 | 355 | 14 | 114 | 108 | 97 |
 | [SRS_STAT_2020.pdf](https://censusindia.gov.in/nada/index.php/catalog/44376/download/48048) | 2020 | pdf | 13.4 | 334 | 124 | 3 | 0 | 104 |
 | [SRS_STAT_2021.pdf](https://censusindia.gov.in/nada/index.php/catalog/45556/download/49753) | 2021 | pdf | 15.4 | 362 | 1577 | 6 | 0 | 119 |
 | [SRS_STAT_2022.pdf](https://censusindia.gov.in/nada/index.php/catalog/45570/download/49767) | 2022 | pdf | 15.4 | 363 | 1663 | 6 | 0 | 121 |

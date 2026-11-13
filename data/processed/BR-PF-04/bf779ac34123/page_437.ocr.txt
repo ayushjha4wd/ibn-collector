@@ -1,0 +1,47 @@
+Chart 11,1 : No. of Bank Branches and CSPs in Bihar (as of March 31)
+
+60000
+50000
+40000
+30000
+20000
+
+10000
+
+2020 2021 2022 2023 2024
+
+बा छित्वा Branches © Customer Service Point (CSP)
+
+Source ; State Level Bankers’ Committee Report
+
+Table 11.1 summarises banking infrastructure like Bank branches, CSPs, ATMs (Automated
+Teller Machines) and POS (Point of Sale) in Bihar from 2020 to 2024. In addition, the number of
+Internet Banking users, Mobile Banking users and ATM cards being used during the same period
+is also presented,
+
+Table 11.1 : Banking Infrastructure in Bihar (2020 to 2024)
+
+As of March 31, Percentage
+Heads change
+2020 | 2021 | 2022 | 2023 | 2024 | (2020 to 2024)
+
+Bank Branches 7589 | 7676 | 7713 | 7883 | 8045 | &60 |
+Customer Service Point (CSP) 20994 | 31095 | 40482 | 47083 | 57589 174.3
+Automated Teller Machine (ATM) | 6529 | 6608 | 6744 | 7124 | 7052 | 80 |
+Point of Sale (POS) 56832 | 58331 | 86489 | 82002 | 82907 45.9
+Internet Banking Users (lakh) 57.0 | 72.8 | 102.3 | 118.9 | 18.9 | 153.3 168.9
+Mobile Banking Users (lakh) | 48.0 | 62.0 | 131.8 | 119.3 | 162.9 239.3
+ATM cards (lakh) 609.1 | 650.0 | 729.1 | 720.1 | 864.0 | 419 | 3.
+
+Source ; State Leyel Bankers’ Committee Report
+
+The data indicates a significant adoption of digital infrastructure-based banking services in Bihar
+over the past five years. The number of mobile banking users in the state rose from 48.0 lakhs on
+March 31, 2020 to 162.9 lakhs on March 31, 2024, reflecting an increase of 239.3 percent. Internet
+Banking users grew by 168.9 percent during the same period, from 57.0 lakhs to 153.3 lakhs.
+Additionally, the number of ATM cards issued and the number of POS machines operated by
+banks in Bihar increased by 41.9 percent and 45.9 percent, respectively. These trends demonstrate
+a growing reliance on technology-based banking services in the state compared to the earlier
+practice of visiting Bank branches or ATM centers,
+
+380

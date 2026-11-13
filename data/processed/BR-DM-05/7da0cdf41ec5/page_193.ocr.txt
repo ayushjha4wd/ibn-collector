@@ -1,0 +1,11 @@
+1.8
+
+Chart 105: Death rates for children aged 5-14 years by sex, India and bigger States/UT, 2016
+
+§ Total
+हा Male
+
+lm Female
+
+169
+

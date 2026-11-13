@@ -1,0 +1,43 @@
+Although the rise of digital banking platforms has reduced the need for in-person visits to bank
+branches, having a local branch remains essential for meeting the credit requirements of
+individuals and businesses. Table 11.3 illustrates the distribution of the bank branch network
+among Scheduled Commercial Banks in major states of India from 2020 to 2024. As of March 31,
+2024, Bihar accounts for only 4.9 percent of the total bank branches in India, which is less than its
+share of the national population. Additionally, the percentage of total bank branches in Bihar has
+remained unchanged over the past five years. This lower share of bank branches indicates that
+there are more people per branch in Bihar than in other states, underscoring the necessity of
+expanding the banking network in the state.
+
+Table 11.3 : Distribution of Branches of Commercial Banks by States (2020 to 2024)
+
+States 2020 2021 2022 2023 2024
+Andhra Pradesh | 7252 (4.7) | 7431 (4.8) | 7446 (4.8) | 7663. (4.8) | 7898. (4.8)
+Assam 2957 (1.9) | 3020 (2.0) | 3043 (2.0) | 308. (1.9) | 3190 (2.0)
+है शिओ 7463 (4.9) | 7584 (4.9) | 7640 (4.9) | 7832 (4.9) | 7979 (4.9)
+Chhattisgarh 2823 (1.8) | 2844 (1.8) | 2897 (1.9) | 2979 (1.9) | 3092 (1.9)
+Gujarat 8626 (5.6) | 8582. (5.6) | ४599 (5.6) | (5.6)| ४४62 (5.6)| 9191 (5.6)
+Haryana 5224 (3.4)| 5225 (3.4)| 5190 (3.4)| 5326 (3.4)| 5515 (3.4)
+Jharkhand 3169 (2.1)| 3190 (2.1)| 3206 (2.1)| 3298 (2.1) | 3399 (2.1)
+Karnataka 10778 (7.0) | 10875 (7.0) | 10780 (7.0)| 11034 (7.0) | 11236 (6.9)
+Kerala 6801 (4.4)| 6869 (4.4)| 6814 (4.4) | 6921 (44)| 730 (4.4)
+Madhya Pradesh | 7234 (4.7) | 7248 (4.7) | 7338 (4.7) | 7541 (4.8) | 7703. (4.7)
+Maharashtra 13578 (8.9) | 13648 (8.8) | 13590 (8.8) | 13972 (8.8) | 14410 (8.8)
+|Odisha | $223 (3.4) | 5289 (34)| 5367 (3.5)| उ548 (3.5)| 5712 (3.5)
+Punjab 6735 (44)| 6700 (43)| 6550 (4.2)| 6612 (4.2) | 6784 (4.2)
+| Rajasthan | 7778 (SA) | 707 (5.1])| 7969 (5.1) | ४304 (5.2) | ४8552 (5.2)
+Tamil Nadu 11829 (7.7) | 12028 (7.8) | 12094 (7.8) | 12407 (7.8) | 12832 (7.9)
+Telangana 5388 (3.5) | 5579 (3.6)| 5605 (3.6) | 5819 (3.7)| 604 (3.7)
+Uttar Pradesh 18041 (11.8) | 18125 (11.7) | 18073 (11.7) | 18415 (11.6) | 18883 (11.6)
+West Bengal 9251 (6.0)| 9379 (6.1)| 9616 (6.2)| 9761 (62)| 9948 (6.1)
+|Alkindia 153102 (100.0) | 154485 (100.0) | 154758 (100.0) | 158642 (100.0) | 163216 (100.0)
+
+Note ; Figures in Parenthesis indicate share of the states
+Source : Basic Statistical Returns of Scheduled Commercial Banks in India, 2024, DBIF, RBI
+
+ATM infrastructure
+
+Technological advancements have improved access to cash and reduced the need to visit bank
+branches. While the use of mobile and internet-based banking services has increased, Automated
+Teller Machines (ATMs) continue to play a vital role in providing various banking services
+
+385

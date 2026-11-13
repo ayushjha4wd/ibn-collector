@@ -1,0 +1,53 @@
+Table 14.18 A : Ambient Noise Monitoring at Different Locations in Patna
+
+(Avg in Ley dB)
+| Stations | Type Time 2019 2020 | 2021 | 2022 2023
+Beltron Bhawan, Mee Day 47.7 | — | | — | | = | | = |
+; Residential
+Shastrinagar | Night | | 41.8 | g | - | | - | | — | | — |
+Day 57.4 61.2 67.1 75.1 74.5
+Coca-Cola, Patliputra| Industrial
+Night 57.7 | 6 | 67.3 71.9 71.1
+Planetarin; a ; Day 63.5 60.3 61.4 | 619 | | 60.9 |
+dal i ‘ommercial
+Adalatganj Night | 569 | 55.2 | 56.8 | 54.7 63.3
+Railway Station, : Day 39.7 | — | | — | | — | | = |
+G Commercial
+olambar Night 54.2 | — | | — | | — | | — |
+PMCH Ashok di Day 4« | — | -> | - | - |
+
+. ilence
+
+Rajpath Night | 48.7 | — | | - | | — | =
+: Day | — | | 5.6 | | — | 57.9 | 58 |
+हा nee if Residential -
+
+IRE Night | — | | 51.6 | | — | | 528 | 52.1
+IGIMS, Main Gate, | Go umercial Jo | — | | 5 | 39.3 = | — |
+Sheikhpura «०७४ .
+
+e Night | — | sit | Ll 52.3 | + | | +- |
+Note : Leq = Equivalent Continuous Sound Level
+Source : Bihar State Pollution Control Board
+Table 14.18 B ; Data on Standard Limits of Noise Levels
+Time Industrial Commercial Residential Silence
+Day Time (06:00 am-10:00 pm) | 75 dB(A)Leq | 65 dB(A)Leq | 5S dB(A)Leq | 50 dB(A)Leq
+Night Time (10:00 pm-6:00 am) | 70 dB(AjLeq | 55 dB(AjLeq | 45 dB(A)Leg | 40 dB(AjLeg
+
+Note : Leq = Equivalent Continuous Sound Level
+Source ; Bihar State Pollution Control Board
+
+Water Quality Monitoring
+
+557
+
+The BSPCB regularly monitors water quality of Ganga at 34 locations fortnightly, in addition to
+its tributaries and ponds at 70 locations on a monthly basis. The water quality of Ganga indicates
+the presence of a higher value of bacteriological population (Total Coliform and Faecal Coliform),
+This is mainly due to the discharge of sewage/domestic waste water from cities located on the
+banks of Ganga and her tributaries. The other parameters viz. pH, Dissolved Oxygen (DO) and
+Bio-chemical Oxygen Demand (BOD) have been observed within the prescribed limit in the river
+and her tributaries in Bihar, indicating that the water is fit for aquatic life, wild life propagation,
+fisheries and irrigation (Table 14.19), The Board is also monitoring the effluent/sewage quality
+generated from the industrial units as well as STP/sewerage drains. Presently, 2561
+water/effluent/sewage samples from different sources have been collected by the Board.

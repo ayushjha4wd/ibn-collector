@@ -1,0 +1,59 @@
+a 14: Percentage cumulative Age Specific Fertility Rate, by
+
+100 5
+
+90
+
+80
+
+60
+
+50
+
+40
+
+Percent cumulative ASFR
+
+30
+
+10
+
+residence, India, 2013
+
+[ age group
+
+15-19
+
+15-24 15-29 15-34 15-39 15-44
+
+15-49
+
+——Total
+
+6.3
+
+52:2 83.9 95-1 98.7 99.7
+
+100.0
+
+—«—Rural
+
+6.9
+
+54.2 84.5 94.9 98.6 99.7
+
+100.0
+
+—e— Urban
+
+4.0
+
+45.0 81.7 95.7 99.2 99.8
+
+100.0
+
+Cumulative percent ASFR
+———>
+
+46
+

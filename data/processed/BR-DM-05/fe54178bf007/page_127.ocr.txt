@@ -1,0 +1,42 @@
+300.0
+
+250.0
+
+200.0
+
+150.0
+
+100.0
+
+50.0
+
+0.0
+
+Chart 60: Age specific fertility rate by level of education of women, India, 2015 -
+
+RURAL
+
+Illiterate
+
+Without any Below Primary Middle
+formal primary
+education
+
+Literate
+
+Educational level of women
+
+Class X Class XII Graduate
+
+and above
+
+ह 15-19
+@ 20-24
+ह 25-29
+30-34
+ह 35-39
+m 40-44
+# 45-49
+
+102
+

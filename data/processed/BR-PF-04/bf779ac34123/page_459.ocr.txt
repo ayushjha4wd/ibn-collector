@@ -1,0 +1,58 @@
+Chart 11.13 ; Bank Group-wise NPA (in percent) in Bihar (March 2023 and March 2024)
+
+35.0
+
+30.0
+
+25.0
+
+20.0
+
+15.0
+
+10.0 # 0: डक 7A
+
+5.0 “| fi 2.7 Lo 1.9
+0.0 a) =
+
+Commercial Banks Co-Operative Banks Small Finance
+Banks
+#2023 =2024
+
+Source : State Level Bankers’ Committce Report
+
+A comparison of sector-wise non-performing assets (NPA) of banks in Bihar between March 2023
+and March 2024 is illustrated in Chart 11.14, The NPA for outstanding loans to priority sectors in
+Bihar has decreased, dropping from 15.0 percent in March 2023 to 12.2 percent in March 2024.
+Specifically, the NPA for agricultural loans has fallen from 21.5 percent to 18.1 percent during the
+same period, In the micro, small and medium enterprises (MSME) sector, the NPA was relatively
+lower at 7.8 percent in March 2024, a decrease of 2.1 percentage points compared to the previous
+
+year,
+
+Conversely, although still low, the NPA in non-priority sectors increased slightly from 1.1 percent
+in March 2023 to 1.2 percent in March 2024. Overall, the NPA as a percentage of total outstanding
+advances by banks in Bihar has declined from 9.3 percent in March 2023 to 7.5 percent in March
+2024.
+
+Chart 11.14 : Sector-wise percentage NPAs of Banks in Bihar (March 2023 and March 2024)
+
+25.0
+
+21
+20.0 18.
+15.0
+10.0 ze 7.5
+2
+5 3.2
+5.0 1.1 1.2 1] fl
+0.0
+
+Agriculture MSME Other Priority Total Priority Non-Priority Total
+Sectors Sectors Sectors
+
+= March 2023 ® March 2024
+
+Source : State Level Bankers' Committee Report
+
+402

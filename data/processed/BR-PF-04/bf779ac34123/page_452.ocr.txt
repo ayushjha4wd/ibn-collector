@@ -1,0 +1,51 @@
+Small Finance Banks (SFBs), although smaller than other types of banks in the state, have
+significantly expanded their operations in recent years. The deposits, advances, and credit-deposit
+(CD) ratios of SFBs in Bihar as of September 2023 and September 2024 are presented in
+Table 11.12,
+
+Table 11.12: Deposit, Advance and CD Ratio of the Small Finance Banks in Bihar
+(September 2023 to September 2024)
+
+September 2023 September 2024
+tt Deposits | Advances | CD ratio | Deposits | Advances | CD ratio
+(Rs. crore) | (Rs. crore) | (percent) | (Rs, crore) | (Rs. crore) | (percent)
+Jana SFB | SFB 396.8 1084.5 273.3 | 411.8 | 1123,3 272.8
+Utkarsh SFB | 796.7 43453 545.4 884.7 5247.4 593.1
+Ujjivan SFB 649.8 1868.3 287.5 860.5 | 1998.0 | 232.2
+ESAF SFB 44.7 | 1469 | 328.8 81.2 269.8 332A
+UNITY SFB | — | 281.8 | — | | — | 554.7 | — |
+Total (SFBs)| 1887.9 7726.9 | 4093 | | 2238.2 | | 9193.2 | 410.7
+
+Source : State Level Bankers' Committee Report
+
+Between September 2023 and September 2024, the deposits mobilized by these banks increased
+by 18.6 percent, rising from Rs. 1887.9 crore to Rs. 2238.2 crore. Simultaneously, advances also
+grew, rising from Rs. 7726.9 crore to Rs. 9193.2 crore, which represents a rise of 19.0 percent.
+This led to an increase in the CD ratio of SFBs from 409.3 percent to 410.7 percent. Among the
+SFBs, Utkarsh SFB holds the largest share in advances, totaling Rs. 5247.4 crore, followed by
+Ujjivan SFB with Rs, 1998.0 crore, and Jana SFB with Rs, 1123.3 crore.
+
+The distribution of deposit, credit, and CD (credit-deposit) ratios for banks in Rural, Semi-Urban,
+and Urban areas of Bihar is presented in Table 11.13 for the periods of September 2023 and
+September 2024. The CD ratio in Rural areas decreased from 60.2 percent in September 2023 to
+59.8 percent in September 2024, In contrast, the CD ratio in Semi-Urban areas increased from 52.0
+percent to 54.1 percent, and the CD ratio in Urban areas rose from 52.5 percent to 54.3 percent
+during this period.
+
+Table 11.13 : Credit-Deposit (CD) Ratio of Banks in Bihar by Areas
+(September 2023 and September 2024)
+
+Deposit Advance CD ratio
+(Rs, ‘000 crore) (Rs. "000 crore) percentage)
+me September | September | September | September | September | September
+
+2023 2024 2023 2024 2023 2024
+Rural 108.5 119,7 | 65.3 | 71.6 60.2 | 59.8 |
+Semi-urban | 123.3 138.2 64.1 74.8 52.0 | 54.1 |
+Urban 243.5 269.5 127.8 146.4 52.5 54.3
+All 475.2 527.4 257.2 292.8 54.1 55.5
+
+Note : Advances include the advances made by the bank branches within state only,
+Source ; State Level Bankers! Committee Report
+
+395

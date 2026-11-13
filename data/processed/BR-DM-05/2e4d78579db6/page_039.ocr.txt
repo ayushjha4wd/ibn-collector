@@ -1,0 +1,57 @@
+Bigger states
+
+f 4: Percentage of population age 0-14 years to total
+population by residence, India and bigger States, 2011
+
+India
+
+Andhra Pradesh
+
+Assam
+
+Bihar
+
+Chhattisgarh
+
+Delhi
+
+Gujarat
+
+Haryana
+
+Himachal Pradesh
+
+Jammu & Kashmir B Total
+
+Rural
+
+Jharkhand
+
+@Urban
+
+Karnataka
+
+Kerala
+
+Madhya Pradesh
+
+Maharashtra
+
+Orissa
+Punjab
+
+Rajasthan
+
+Tamil Nadu
+
+Uttar Pradesh
+
+West Bengal
+
+0 5 10 15 20 25 30 35 40 45
+
+Percentage of population
+—_—>
+
+17
+

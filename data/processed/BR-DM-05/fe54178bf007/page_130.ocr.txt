@@ -1,0 +1,33 @@
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+
+Chart 62: Total fertility rate by level of education of women, India, 2015
+
+{
+
+li
+
+Illiterate
+
+Total
+literate
+
+Without Below Primary Middle Class X Class XII
+any formal — primary
+education
+
+Level of edication
+
+Graduate
+and above
+
+105
+

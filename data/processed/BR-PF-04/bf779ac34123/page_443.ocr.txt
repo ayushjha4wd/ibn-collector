@@ -1,0 +1,42 @@
+through ATM cards. These services include cash withdrawals, cash deposits, PIN changes, and
+money transfers. Additionally, ATM cards can be used for both online and offline purchases. Other
+banking tasks, such as updating mobile numbers, can also be completed at ATMs.
+
+The ATM infrastructure in Bihar, measured as the number of ATMs per bank branch over the last
+five years, from September 2020 to September 2024, is shown in Table | 1.4. The average number
+of ATMs per branch for banks in Bihar has decreased from 0.9 to 0,8, However, the number of
+ATMs per branch for the State Bank of India (SBI) has increased from 2.3 to 2.7 during the same
+period. In contrast, the number of ATMs per branch for other major Public Sector Banks has
+remained the same or declined, For Private Sector Banks, the average number of ATMs per branch
+has changed slightly from 1.1 in September 2023 to 0.9 in September 2024.
+
+Table 11.4: ATMs per Bank Branch in Bihar (September 2020 to September 2024)
+
+Sacks ATMs per Branch
+Sep-20 Sep-21 Sep-22 Sep-23 Sep-24
+State Bank of India 2.3 25 2.9 2.9 2.7
+Central Bank of India 0.7 | 06 | 0.3 | 06 | | ०6 |
+Punjab National Bank 1.1 1.2 | 11 | 1.1 | 1.0 |
+Canara Bank 13 | 11 | | 1.1 | | 11 | | 10 |
+Bank of India | ०8 | | 08 | 0.7 0.7 | 0.6 |
+Total Public Sector Bank 13 1.3 |_14 | | 14 | 1.3
+Total Private Sector Bank 1.2 1.1 | 1.1 | 1.1 | 0» |
+Total for Bihar | 09 | | 09 | | 09 | | 09 | | 08 |
+
+Source : State Level Bankers’ Committee Report
+
+Microfinance Institutions (MFI)
+
+Microfinance Institutions (MFIs) offer small loans to low-income houscholds at the bottom of the
+economic pyramid. While their interest rates are higher than those of Scheduled Commercial
+Banks (SCBs), MFIs provide essential access to credit, often with minimal collateral. They support
+income-generating activities in both rural and urban areas, promoting economic growth.
+
+By expanding credit facilities, MFIs enhance financial inclusion, especially in areas lacking access
+to SCBs. Various entities involved in microfinance in India include NBFC-MFls, Banks, Small
+Finance Banks, and nonprofit MFIs. The National Rural Livelihood Mission (NRLM) plays a
+crucial role through its Self-Help Group-Bank Linkage Programme. In Bihar, MFIs have
+successfully collaborated with Self-Help Groups (SHGs) to provide small to moderate loans,
+significantly improving financial inclusion through the State government's JEEVIKA initiative.
+
+386
