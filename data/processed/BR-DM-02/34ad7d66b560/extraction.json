@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/PCA_ST1022_2011_MDDS_DDW.xlsx",
+  "raw_sha256": "34ad7d66b56082de647ab9d5c44f8065d1602ce815f045c9e9c30843f1469e64",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/42070/download/45701",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:32:22+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/34ad7d66b560/sheets/ST-1022.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

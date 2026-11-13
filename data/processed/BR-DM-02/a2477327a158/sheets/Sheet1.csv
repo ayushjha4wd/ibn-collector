@@ -1,0 +1,33 @@
+,,,,,,HH -2 Houseless households by household size (Census 2011),,,,,,,,,
+Table,State,District,Town,Area Name,Total/,Houseless households,,Household size,,,,,,,Mean household
+name,code,code,code,,Rural/,,,,,,,,,, size
+,,,,,Urban,Number,Population,1,2,3,4,5,6,7+,
+,,,,,1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,,,,,,
+HH02CITY,10,203,801279,Bagaha (Nagar Parishad),Urban,7,23,1,4,0,0,0,1,1,3.3
+HH02CITY,10,203,801281,Bettiah (Nagar Parishad),Urban,31,75,20,0,1,4,3,1,2,2.4
+HH02CITY,10,204,801285,Motihari (Nagar Parishad),Urban,25,121,5,2,2,2,3,1,10,4.8
+HH02CITY,10,210,801310,Kishanganj (Nagar Parishad),Urban,23,95,6,1,3,5,2,0,6,4.1
+HH02CITY,10,211,801312,Purnia (M Corp.),Urban,61,279,9,3,10,7,11,8,13,4.6
+HH02CITY,10,212,801314,Katihar (M Corp. + OG),Urban,30,49,25,1,0,0,2,2,0,1.6
+HH02CITY,10,214,801318,Saharsa (Nagar Parishad),Urban,13,36,8,1,1,0,0,0,3,2.8
+HH02CITY,10,215,801319,Darbhanga (M Corp.),Urban,70,317,9,6,7,9,15,11,13,4.5
+HH02CITY,10,216,801324,Muzaffarpur (M Corp.),Urban,98,395,26,3,8,21,9,15,16,4
+HH02CITY,10,218,801329,Siwan (Nagar Parishad),Urban,23,121,1,5,1,1,3,5,7,5.3
+HH02CITY,10,219,801333,Chapra (Nagar Parishad),Urban,12,81,2,0,1,0,0,1,8,6.8
+HH02CITY,10,220,801338,Hajipur (Nagar Parishad),Urban,50,186,17,1,3,7,10,6,6,3.7
+HH02CITY,10,222,801346,Begusarai (M Corp.) ,Urban,34,130,7,6,3,5,5,3,5,3.8
+HH02CITY,10,224,801354,Bhagalpur (M Corp.),Urban,39,188,2,6,6,8,3,3,11,4.8
+HH02CITY,10,226,801357,Munger (M Corp.),Urban,29,127,2,8,7,3,0,1,8,4.4
+HH02CITY,10,226,801358,Jamalpur (Nagar Parishad),Urban,5,28,0,0,0,2,0,2,1,5.6
+HH02CITY,10,229,801364,Biharsharif (M Corp.),Urban,22,102,7,2,0,1,0,5,7,4.6
+HH02CITY,10,230,801370,Dinapur Nizamat (Nagar Parishad),Urban,65,359,3,1,4,9,14,16,18,5.5
+HH02CITY,10,230,801373,Patna (M Corp. + OG),Urban,1212,4076,568,53,61,99,150,100,181,3.4
+HH02CITY,10,231,801385,Arrah (M Corp.),Urban,34,167,7,0,1,8,4,6,8,4.9
+HH02CITY,10,232,801391,Buxar (Nagar Parishad),Urban,8,25,3,2,0,0,2,0,1,3.1
+HH02CITY,10,234,801397,Sasaram (Nagar Parishad),Urban,36,130,7,7,1,10,4,3,4,3.6
+HH02CITY,10,234,801398,Dehri (Nagar Parishad),Urban,48,272,1,7,6,0,12,6,16,5.7
+HH02CITY,10,235,801401,Aurangabad (Nagar Parishad),Urban,6,30,0,2,0,0,1,1,2,5
+HH02CITY,10,236,801404,Gaya (M Corp. + OG),Urban,216,1164,6,14,18,37,39,36,66,5.4
+HH02CITY,10,239,801413,Jehanabad (Nagar Parishad) ,Urban,24,58,16,1,0,1,2,2,2,2.4
+Note: Household size refers to number of persons in a household.,,,,,,,,,,,,,,,

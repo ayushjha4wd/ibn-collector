@@ -1,0 +1,124 @@
+,,,,,,HH -2 HOUSELESS HOUSEHOLDS BY HOUSEHOLD SIZE (Census 2011),,,,,,,,
+Table,State,District,Area Name,Total/,Houseless households,,Household size,,,,,,,Mean household
+name,code,code,,Rural/,,,,,,,,,, size
+,,,,Urban,Number,Population,1,2,3,4,5,6,7+,
+,,,,1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,,,,,
+HH02,10,000,State - BIHAR,Total,9818,45584,1406,948,983,1353,1485,1255,2388,4.6
+HH02,10,000,State - BIHAR,Rural,6775,32993,532,739,749,1011,1092,929,1723,4.9
+HH02,10,000,State - BIHAR,Urban,3043,12591,874,209,234,342,393,326,665,4.1
+HH02,10,203,District - Pashchim Champaran,Total,227,988,45,20,19,31,29,31,52,4.4
+HH02,10,203,District - Pashchim Champaran,Rural,161,763,18,15,16,24,21,24,43,4.7
+HH02,10,203,District - Pashchim Champaran,Urban,66,225,27,5,3,7,8,7,9,3.4
+HH02,10,204,District - Purba Champaran,Total,347,1647,32,36,42,48,54,56,79,4.7
+HH02,10,204,District - Purba Champaran,Rural,276,1361,13,27,35,43,46,51,61,4.9
+HH02,10,204,District - Purba Champaran,Urban,71,286,19,9,7,5,8,5,18,4
+HH02,10,205,District - Sheohar,Total,43,179,2,8,7,9,5,7,5,4.2
+HH02,10,205,District - Sheohar,Rural,30,121,2,5,6,7,2,4,4,4
+HH02,10,205,District - Sheohar,Urban,13,58,0,3,1,2,3,3,1,4.5
+HH02,10,206,District - Sitamarhi,Total,255,1113,25,30,35,45,43,33,44,4.4
+HH02,10,206,District - Sitamarhi,Rural,217,939,19,26,33,38,40,27,34,4.3
+HH02,10,206,District - Sitamarhi,Urban,38,174,6,4,2,7,3,6,10,4.6
+HH02,10,207,District - Madhubani,Total,356,1699,20,39,41,58,68,48,82,4.8
+HH02,10,207,District - Madhubani,Rural,321,1541,14,37,37,51,64,45,73,4.8
+HH02,10,207,District - Madhubani,Urban,35,158,6,2,4,7,4,3,9,4.5
+HH02,10,208,District - Supaul,Total,140,623,11,17,19,25,26,20,22,4.5
+HH02,10,208,District - Supaul,Rural,119,538,6,14,18,24,23,15,19,4.5
+HH02,10,208,District - Supaul,Urban,21,85,5,3,1,1,3,5,3,4
+HH02,10,209,District - Araria,Total,197,858,25,22,23,41,29,24,33,4.4
+HH02,10,209,District - Araria,Rural,162,753,10,20,18,36,26,22,30,4.6
+HH02,10,209,District - Araria,Urban,35,105,15,2,5,5,3,2,3,3
+HH02,10,210,District - Kishanganj,Total,107,395,29,13,14,14,13,7,17,3.7
+HH02,10,210,District - Kishanganj,Rural,82,298,21,12,11,9,11,7,11,3.6
+HH02,10,210,District - Kishanganj,Urban,25,97,8,1,3,5,2,0,6,3.9
+HH02,10,211,District - Purnia,Total,398,1844,38,43,48,70,61,45,93,4.6
+HH02,10,211,District - Purnia,Rural,336,1559,29,40,38,63,50,36,80,4.6
+HH02,10,211,District - Purnia,Urban,62,285,9,3,10,7,11,9,13,4.6
+HH02,10,212,District - Katihar,Total,152,643,34,14,14,20,16,20,34,4.2
+HH02,10,212,District - Katihar,Rural,117,574,8,12,14,19,13,18,33,4.9
+HH02,10,212,District - Katihar,Urban,35,69,26,2,0,1,3,2,1,2
+HH02,10,213,District - Madhepura,Total,83,418,2,8,9,15,18,8,23,5
+HH02,10,213,District - Madhepura,Rural,78,401,1,8,8,13,17,8,23,5.1
+HH02,10,213,District - Madhepura,Urban,5,17,1,0,1,2,1,0,0,3.4
+HH02,10,214,District - Saharsa,Total,86,450,9,6,10,6,17,11,27,5.2
+HH02,10,214,District - Saharsa,Rural,73,414,1,5,9,6,17,11,24,5.7
+HH02,10,214,District - Saharsa,Urban,13,36,8,1,1,0,0,0,3,2.8
+HH02,10,215,District - Darbhanga,Total,307,1400,39,37,28,38,63,35,67,4.6
+HH02,10,215,District - Darbhanga,Rural,214,974,29,29,18,24,45,19,50,4.6
+HH02,10,215,District - Darbhanga,Urban,93,426,10,8,10,14,18,16,17,4.6
+HH02,10,216,District - Muzaffarpur,Total,498,2286,52,55,56,77,76,76,106,4.6
+HH02,10,216,District - Muzaffarpur,Rural,384,1819,26,47,47,54,64,61,85,4.7
+HH02,10,216,District - Muzaffarpur,Urban,114,467,26,8,9,23,12,15,21,4.1
+HH02,10,217,District - Gopalganj,Total,250,1226,28,20,28,35,37,33,69,4.9
+HH02,10,217,District - Gopalganj,Rural,235,1193,18,19,27,34,37,32,68,5.1
+HH02,10,217,District - Gopalganj,Urban,15,33,10,1,1,1,0,1,1,2.2
+HH02,10,218,District - Siwan,Total,271,1366,19,44,22,33,32,31,90,5
+HH02,10,218,District - Siwan,Rural,248,1245,18,39,21,32,29,26,83,5
+HH02,10,218,District - Siwan,Urban,23,121,1,5,1,1,3,5,7,5.3
+HH02,10,219,District - Saran,Total,214,1077,21,23,25,28,27,22,68,5
+HH02,10,219,District - Saran,Rural,190,954,16,22,21,26,26,21,58,5
+HH02,10,219,District - Saran,Urban,24,123,5,1,4,2,1,1,10,5.1
+HH02,10,220,District - Vaishali,Total,341,1622,37,33,32,50,61,49,79,4.8
+HH02,10,220,District - Vaishali,Rural,291,1436,20,32,29,43,51,43,73,4.9
+HH02,10,220,District - Vaishali,Urban,50,186,17,1,3,7,10,6,6,3.7
+HH02,10,221,District - Samastipur,Total,233,1130,20,13,35,36,52,31,46,4.8
+HH02,10,221,District - Samastipur,Rural,194,952,10,11,31,31,46,26,39,4.9
+HH02,10,221,District - Samastipur,Urban,39,178,10,2,4,5,6,5,7,4.6
+HH02,10,222,District - Begusarai,Total,348,1593,30,42,35,61,63,46,71,4.6
+HH02,10,222,District - Begusarai,Rural,258,1191,21,31,27,42,50,32,55,4.6
+HH02,10,222,District - Begusarai,Urban,90,402,9,11,8,19,13,14,16,4.5
+HH02,10,223,District - Khagaria,Total,119,554,5,13,19,20,23,17,22,4.7
+HH02,10,223,District - Khagaria,Rural,104,498,3,12,16,16,19,17,21,4.8
+HH02,10,223,District - Khagaria,Urban,15,56,2,1,3,4,4,0,1,3.7
+HH02,10,224,District - Bhagalpur,Total,167,814,14,19,19,21,28,22,44,4.9
+HH02,10,224,District - Bhagalpur,Rural,107,508,12,11,10,12,21,17,24,4.7
+HH02,10,224,District - Bhagalpur,Urban,60,306,2,8,9,9,7,5,20,5.1
+HH02,10,225,District - Banka,Total,127,614,7,11,14,21,29,22,23,4.8
+HH02,10,225,District - Banka,Rural,124,601,7,11,13,20,29,21,23,4.8
+HH02,10,225,District - Banka,Urban,3,13,0,0,1,1,0,1,0,4.3
+HH02,10,226,District - Munger,Total,70,330,6,10,12,10,6,6,20,4.7
+HH02,10,226,District - Munger,Rural,32,158,2,2,5,5,6,3,9,4.9
+HH02,10,226,District - Munger,Urban,38,172,4,8,7,5,0,3,11,4.5
+HH02,10,227,District - Lakhisarai,Total,146,995,4,7,7,10,3,12,103,6.8
+HH02,10,227,District - Lakhisarai,Rural,48,252,3,6,5,8,2,7,17,5.3
+HH02,10,227,District - Lakhisarai,Urban,98,743,1,1,2,2,1,5,86,7.6
+HH02,10,228,District - Sheikhpura,Total,64,295,15,1,5,10,8,11,14,4.6
+HH02,10,228,District - Sheikhpura,Rural,41,222,4,0,4,6,7,9,11,5.4
+HH02,10,228,District - Sheikhpura,Urban,23,73,11,1,1,4,1,2,3,3.2
+HH02,10,229,District - Nalanda,Total,244,1153,30,24,19,38,38,32,63,4.7
+HH02,10,229,District - Nalanda,Rural,196,919,20,21,17,32,34,25,47,4.7
+HH02,10,229,District - Nalanda,Urban,48,234,10,3,2,6,4,7,16,4.9
+HH02,10,230,District - Patna,Total,2006,8102,629,144,144,214,272,199,404,4
+HH02,10,230,District - Patna,Rural,604,3024,55,78,57,90,88,70,166,5
+HH02,10,230,District - Patna,Urban,1402,5078,574,66,87,124,184,129,238,3.6
+HH02,10,231,District - Bhojpur,Total,233,1145,22,25,20,33,37,37,59,4.9
+HH02,10,231,District - Bhojpur,Rural,170,832,13,21,16,23,28,26,43,4.9
+HH02,10,231,District - Bhojpur,Urban,63,313,9,4,4,10,9,11,16,5
+HH02,10,232,District - Buxar,Total,76,348,9,10,9,9,10,12,17,4.6
+HH02,10,232,District - Buxar,Rural,65,314,6,7,8,8,8,12,16,4.8
+HH02,10,232,District - Buxar,Urban,11,34,3,3,1,1,2,0,1,3.1
+HH02,10,233,District - Kaimur (Bhabua),Total,188,968,11,19,19,28,23,33,55,5.1
+HH02,10,233,District - Kaimur (Bhabua),Rural,187,960,11,19,19,28,23,33,54,5.1
+HH02,10,233,District - Kaimur (Bhabua),Urban,1,8,0,0,0,0,0,0,1,8
+HH02,10,234,District - Rohtas,Total,215,1057,20,26,18,31,32,28,60,4.9
+HH02,10,234,District - Rohtas,Rural,121,590,12,12,11,21,14,16,35,4.9
+HH02,10,234,District - Rohtas,Urban,94,467,8,14,7,10,18,12,25,5
+HH02,10,235,District - Aurangabad,Total,262,1360,22,29,21,37,27,42,84,5.2
+HH02,10,235,District - Aurangabad,Rural,222,1173,22,20,15,33,22,36,74,5.3
+HH02,10,235,District - Aurangabad,Urban,40,187,0,9,6,4,5,6,10,4.7
+HH02,10,236,District - Gaya,Total,646,3349,46,52,66,79,101,97,205,5.2
+HH02,10,236,District - Gaya,Rural,427,2175,40,37,47,42,61,61,139,5.1
+HH02,10,236,District - Gaya,Urban,219,1174,6,15,19,37,40,36,66,5.4
+HH02,10,237,District - Nawada,Total,158,797,17,13,18,20,19,26,45,5
+HH02,10,237,District - Nawada,Rural,138,723,9,13,15,19,17,24,41,5.2
+HH02,10,237,District - Nawada,Urban,20,74,8,0,3,1,2,2,4,3.7
+HH02,10,238,District - Jamui,Total,82,400,4,12,10,10,14,9,23,4.9
+HH02,10,238,District - Jamui,Rural,67,346,2,9,6,8,12,9,21,5.2
+HH02,10,238,District - Jamui,Urban,15,54,2,3,4,2,2,0,2,3.6
+HH02,10,239,District - Jehanabad ,Total,95,414,23,6,10,11,11,10,24,4.4
+HH02,10,239,District - Jehanabad ,Rural,69,340,7,5,10,10,9,8,20,4.9
+HH02,10,239,District - Jehanabad ,Urban,26,74,16,1,0,1,2,2,4,2.8
+HH02,10,240,District - Arwal,Total,67,332,4,4,11,11,14,7,16,5
+HH02,10,240,District - Arwal,Rural,67,332,4,4,11,11,14,7,16,5
+HH02,10,240,District - Arwal,Urban,0,0,0,0,0,0,0,0,0,0
+Note:   Household size refers to number of persons in a household.,,,,,,,,,,,,,,

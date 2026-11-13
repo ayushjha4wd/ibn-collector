@@ -1,0 +1,945 @@
+,,,"HH-10 HOUSEHOLDS WITH AT LEAST ONE MEMBER AGE 15 YEARS AND ABOVE AND WITH OR WITHOUT EDUCATIONAL LEVEL MATRICULATION AND ABOVE BY HOUSEHOLD SIZE  (Census 2011)
+",,,,,,,,,
+Table,State,District,Area Name,Total/,Number of matriculates and above in the household,Total,Total households with,Household size with at least one member age 15 years and above,,,,
+name,code,code,,Rural/,, households,atleast one member age,1,2,3-6,7-10,11+
+,,,,Urban,,,15 years and above,,,,,
+,,,,,1,2,3,4,5,6,7,8
+,,,,,,,,,,,,
+HH10,10,000,State - BIHAR,Total,Households with atleast one member literate,15517779,15496304,147922,945245,9441585,4120049,841503
+HH10,10,000,State - BIHAR,Total,Households with No matriculate and above,12161470,12096997,406313,1323024,7254032,2780126,333502
+HH10,10,000,State - BIHAR,Total,Households with at least one  matriculate and above,6715792,6715792,57118,346233,4034006,1735665,542770
+HH10,10,000,State - BIHAR,Total,Households with at least one male  matriculate and above,6142220,6142220,48722,308583,3681326,1590557,513032
+HH10,10,000,State - BIHAR,Total,Households with at least one female  matriculate and above,3283617,3283617,8396,123641,1965286,864152,322142
+HH10,10,000,State - BIHAR,Total,Households with at least one  graduate and above,1911160,1911160,18101,91215,1164204,452658,184982
+HH10,10,000,State - BIHAR,Total,Households with at least one male graduate and above,1753496,1753496,15995,82424,1063173,418625,173279
+HH10,10,000,State - BIHAR,Total,Households with at least one female graduate and above,604800,604800,2106,22408,369446,145168,65672
+HH10,10,000,State - BIHAR,Rural,Households with atleast one member literate,13665842,13647307,121478,852990,8290708,3655314,726817
+HH10,10,000,State - BIHAR,Rural,Households with No matriculate and above,11358822,11301929,377363,1253909,6776496,2588811,305350
+HH10,10,000,State - BIHAR,Rural,Households with at least one  matriculate and above,5475434,5475434,41500,291726,3255495,1433976,452737
+HH10,10,000,State - BIHAR,Rural,Households with at least one male  matriculate and above,5003777,5003777,35882,260515,2966624,1312847,427909
+HH10,10,000,State - BIHAR,Rural,Households with at least one female  matriculate and above,2437247,2437247,5618,96378,1431303,651510,252438
+HH10,10,000,State - BIHAR,Rural,Households with at least one  graduate and above,1288630,1288630,10748,65139,768002,308790,135951
+HH10,10,000,State - BIHAR,Rural,Households with at least one male graduate and above,1187969,1187969,9808,59515,704996,286340,127310
+HH10,10,000,State - BIHAR,Rural,Households with at least one female graduate and above,316839,316839,940,12665,187077,76076,40081
+HH10,10,000,State - BIHAR,Urban,Households with atleast one member literate,1851937,1848997,26444,92255,1150877,464735,114686
+HH10,10,000,State - BIHAR,Urban,Households with No matriculate and above,802648,795068,28950,69115,477536,191315,28152
+HH10,10,000,State - BIHAR,Urban,Households with at least one  matriculate and above,1240358,1240358,15618,54507,778511,301689,90033
+HH10,10,000,State - BIHAR,Urban,Households with at least one male  matriculate and above,1138443,1138443,12840,48068,714702,277710,85123
+HH10,10,000,State - BIHAR,Urban,Households with at least one female  matriculate and above,846370,846370,2778,27263,533983,212642,69704
+HH10,10,000,State - BIHAR,Urban,Households with at least one  graduate and above,622530,622530,7353,26076,396202,143868,49031
+HH10,10,000,State - BIHAR,Urban,Households with at least one male graduate and above,565527,565527,6187,22909,358177,132285,45969
+HH10,10,000,State - BIHAR,Urban,Households with at least one female graduate and above,287961,287961,1166,9743,182369,69092,25591
+HH10,10,203,District - Pashchim Champaran,Total,Households with atleast one member literate,565913,565239,5450,31341,335754,163600,29094
+HH10,10,203,District - Pashchim Champaran,Total,Households with No matriculate and above,542231,539957,17824,53578,313785,136387,18383
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one  matriculate and above,166853,166853,1745,8538,98883,45183,12504
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one male  matriculate and above,151248,151248,1563,7600,89754,40807,11524
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one female  matriculate and above,69758,69758,182,2830,41903,18948,5895
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one  graduate and above,43291,43291,522,2153,26404,10604,3608
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one male graduate and above,39843,39843,476,1958,24216,9850,3343
+HH10,10,203,District - Pashchim Champaran,Total,Households with at least one female graduate and above,11602,11602,46,468,7109,2846,1133
+HH10,10,203,District - Pashchim Champaran,Rural,Households with atleast one member literate,502768,502165,4278,27375,295993,148150,26369
+HH10,10,203,District - Pashchim Champaran,Rural,Households with No matriculate and above,503519,501448,16083,49431,290674,127815,17445
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one  matriculate and above,132662,132662,1160,6677,76971,37232,10622
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one male  matriculate and above,120468,120468,1056,5946,69969,33713,9784
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one female  matriculate and above,48508,48508,104,2016,28108,13792,4488
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one  graduate and above,28801,28801,298,1428,16956,7444,2675
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one male graduate and above,26795,26795,275,1320,15726,6974,2500
+HH10,10,203,District - Pashchim Champaran,Rural,Households with at least one female graduate and above,5974,5974,23,253,3494,1539,665
+HH10,10,203,District - Pashchim Champaran,Urban,Households with atleast one member literate,63145,63074,1172,3966,39761,15450,2725
+HH10,10,203,District - Pashchim Champaran,Urban,Households with No matriculate and above,38712,38509,1741,4147,23111,8572,938
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one  matriculate and above,34191,34191,585,1861,21912,7951,1882
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one male  matriculate and above,30780,30780,507,1654,19785,7094,1740
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one female  matriculate and above,21250,21250,78,814,13795,5156,1407
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one  graduate and above,14490,14490,224,725,9448,3160,933
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one male graduate and above,13048,13048,201,638,8490,2876,843
+HH10,10,203,District - Pashchim Champaran,Urban,Households with at least one female graduate and above,5628,5628,23,215,3615,1307,468
+HH10,10,204,District - Purba Champaran,Total,Households with atleast one member literate,765056,764282,6824,53329,482655,196105,25369
+HH10,10,204,District - Purba Champaran,Total,Households with No matriculate and above,724513,722060,22116,86032,437932,160407,15573
+HH10,10,204,District - Purba Champaran,Total,Households with at least one  matriculate and above,255064,255064,2255,16622,165015,59538,11634
+HH10,10,204,District - Purba Champaran,Total,Households with at least one male  matriculate and above,232049,232049,2019,14823,150525,53910,10772
+HH10,10,204,District - Purba Champaran,Total,Households with at least one female  matriculate and above,110594,110594,236,5891,72728,25717,6022
+HH10,10,204,District - Purba Champaran,Total,Households with at least one  graduate and above,61427,61427,608,3796,41004,12750,3269
+HH10,10,204,District - Purba Champaran,Total,Households with at least one male graduate and above,56733,56733,567,3473,37764,11863,3066
+HH10,10,204,District - Purba Champaran,Total,Households with at least one female graduate and above,16152,16152,41,769,10858,3379,1105
+HH10,10,204,District - Purba Champaran,Rural,Households with atleast one member literate,702841,702150,5937,49820,444017,180203,22173
+HH10,10,204,District - Purba Champaran,Rural,Households with No matriculate and above,688431,686206,20912,82568,416760,151560,14406
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one  matriculate and above,219490,219490,1757,14871,142308,51106,9448
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one male  matriculate and above,199464,199464,1580,13281,129688,46187,8728
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one female  matriculate and above,87677,87677,177,5052,57884,20141,4423
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one  graduate and above,45310,45310,397,3091,30533,9110,2179
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one male graduate and above,41979,41979,376,2836,28221,8505,2041
+HH10,10,204,District - Purba Champaran,Rural,Households with at least one female graduate and above,9621,9621,21,545,6681,1830,544
+HH10,10,204,District - Purba Champaran,Urban,Households with atleast one member literate,62215,62132,887,3509,38638,15902,3196
+HH10,10,204,District - Purba Champaran,Urban,Households with No matriculate and above,36082,35854,1204,3464,21172,8847,1167
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one  matriculate and above,35574,35574,498,1751,22707,8432,2186
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one male  matriculate and above,32585,32585,439,1542,20837,7723,2044
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one female  matriculate and above,22917,22917,59,839,14844,5576,1599
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one  graduate and above,16117,16117,211,705,10471,3640,1090
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one male graduate and above,14754,14754,191,637,9543,3358,1025
+HH10,10,204,District - Purba Champaran,Urban,Households with at least one female graduate and above,6531,6531,20,224,4177,1549,561
+HH10,10,205,District - Sheohar,Total,Households with atleast one member literate,109058,108955,2194,13784,73144,19264,569
+HH10,10,205,District - Sheohar,Total,Households with No matriculate and above,117504,117119,6861,20902,70714,18198,444
+HH10,10,205,District - Sheohar,Total,Households with at least one  matriculate and above,32451,32451,654,4375,22959,4285,178
+HH10,10,205,District - Sheohar,Total,Households with at least one male  matriculate and above,29129,29129,612,3938,20642,3774,163
+HH10,10,205,District - Sheohar,Total,Households with at least one female  matriculate and above,13685,13685,42,1593,10211,1751,88
+HH10,10,205,District - Sheohar,Total,Households with at least one  graduate and above,7503,7503,167,1044,5542,708,42
+HH10,10,205,District - Sheohar,Total,Households with at least one male graduate and above,6879,6879,161,965,5058,655,40
+HH10,10,205,District - Sheohar,Total,Households with at least one female graduate and above,1798,1798,6,198,1422,158,14
+HH10,10,205,District - Sheohar,Rural,Households with atleast one member literate,104329,104232,2098,13337,69970,18301,526
+HH10,10,205,District - Sheohar,Rural,Households with No matriculate and above,113664,113295,6702,20392,68323,17459,419
+HH10,10,205,District - Sheohar,Rural,Households with at least one  matriculate and above,30459,30459,606,4196,21558,3940,159
+HH10,10,205,District - Sheohar,Rural,Households with at least one male  matriculate and above,27314,27314,568,3769,19377,3456,144
+HH10,10,205,District - Sheohar,Rural,Households with at least one female  matriculate and above,12693,12693,38,1531,9466,1579,79
+HH10,10,205,District - Sheohar,Rural,Households with at least one  graduate and above,6936,6936,143,980,5146,628,39
+HH10,10,205,District - Sheohar,Rural,Households with at least one male graduate and above,6371,6371,138,908,4707,580,38
+HH10,10,205,District - Sheohar,Rural,Households with at least one female graduate and above,1633,1633,5,185,1299,132,12
+HH10,10,205,District - Sheohar,Urban,Households with atleast one member literate,4729,4723,96,447,3174,963,43
+HH10,10,205,District - Sheohar,Urban,Households with No matriculate and above,3840,3824,159,510,2391,739,25
+HH10,10,205,District - Sheohar,Urban,Households with at least one  matriculate and above,1992,1992,48,179,1401,345,19
+HH10,10,205,District - Sheohar,Urban,Households with at least one male  matriculate and above,1815,1815,44,169,1265,318,19
+HH10,10,205,District - Sheohar,Urban,Households with at least one female  matriculate and above,992,992,4,62,745,172,9
+HH10,10,205,District - Sheohar,Urban,Households with at least one  graduate and above,567,567,24,64,396,80,3
+HH10,10,205,District - Sheohar,Urban,Households with at least one male graduate and above,508,508,23,57,351,75,2
+HH10,10,205,District - Sheohar,Urban,Households with at least one female graduate and above,165,165,1,13,123,26,2
+HH10,10,206,District - Sitamarhi,Total,Households with atleast one member literate,530952,530564,7063,54964,356746,105600,6191
+HH10,10,206,District - Sitamarhi,Total,Households with No matriculate and above,565597,564305,23887,87788,346907,101159,4564
+HH10,10,206,District - Sitamarhi,Total,Households with at least one  matriculate and above,169970,169970,2368,18084,120830,26182,2506
+HH10,10,206,District - Sitamarhi,Total,Households with at least one male  matriculate and above,155117,155117,2099,16434,110661,23589,2334
+HH10,10,206,District - Sitamarhi,Total,Households with at least one female  matriculate and above,77469,77469,269,6667,57715,11467,1351
+HH10,10,206,District - Sitamarhi,Total,Households with at least one  graduate and above,46635,46635,707,4823,34499,5769,837
+HH10,10,206,District - Sitamarhi,Total,Households with at least one male graduate and above,43007,43007,658,4448,31736,5367,798
+HH10,10,206,District - Sitamarhi,Total,Households with at least one female graduate and above,13717,13717,49,1082,10508,1773,305
+HH10,10,206,District - Sitamarhi,Rural,Households with atleast one member literate,499056,498699,6593,52592,335155,99145,5214
+HH10,10,206,District - Sitamarhi,Rural,Households with No matriculate and above,547604,546402,23192,85642,335748,97572,4248
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one  matriculate and above,150975,150975,2131,16808,107538,22694,1804
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one male  matriculate and above,137463,137463,1890,15271,98288,20342,1672
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one female  matriculate and above,65035,65035,241,6088,48780,9106,820
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one  graduate and above,37221,37221,586,4271,27744,4141,479
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one male graduate and above,34325,34325,543,3932,25543,3854,453
+HH10,10,206,District - Sitamarhi,Rural,Households with at least one female graduate and above,9808,9808,43,930,7664,1031,140
+HH10,10,206,District - Sitamarhi,Urban,Households with atleast one member literate,31896,31865,470,2372,21591,6455,977
+HH10,10,206,District - Sitamarhi,Urban,Households with No matriculate and above,17993,17903,695,2146,11159,3587,316
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one  matriculate and above,18995,18995,237,1276,13292,3488,702
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one male  matriculate and above,17654,17654,209,1163,12373,3247,662
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one female  matriculate and above,12434,12434,28,579,8935,2361,531
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one  graduate and above,9414,9414,121,552,6755,1628,358
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one male graduate and above,8682,8682,115,516,6193,1513,345
+HH10,10,206,District - Sitamarhi,Urban,Households with at least one female graduate and above,3909,3909,6,152,2844,742,165
+HH10,10,207,District - Madhubani,Total,Households with atleast one member literate,729061,728340,6495,55537,493015,156434,16859
+HH10,10,207,District - Madhubani,Total,Households with No matriculate and above,605970,603688,21597,74823,379933,118130,9205
+HH10,10,207,District - Madhubani,Total,Households with at least one  matriculate and above,291029,291029,2264,21637,202657,55650,8821
+HH10,10,207,District - Madhubani,Total,Households with at least one male  matriculate and above,269121,269121,1914,19833,187741,51317,8316
+HH10,10,207,District - Madhubani,Total,Households with at least one female  matriculate and above,121165,121165,350,6557,85868,23709,4681
+HH10,10,207,District - Madhubani,Total,Households with at least one  graduate and above,90070,90070,778,6356,64476,15256,3204
+HH10,10,207,District - Madhubani,Total,Households with at least one male graduate and above,84712,84712,707,5968,60519,14451,3067
+HH10,10,207,District - Madhubani,Total,Households with at least one female graduate and above,21892,21892,71,1051,15674,3981,1115
+HH10,10,207,District - Madhubani,Rural,Households with atleast one member literate,703117,702421,6123,53966,475738,150809,15785
+HH10,10,207,District - Madhubani,Rural,Households with No matriculate and above,592040,589837,21103,73481,371472,115011,8770
+HH10,10,207,District - Madhubani,Rural,Households with at least one  matriculate and above,275089,275089,2044,20750,191727,52482,8086
+HH10,10,207,District - Madhubani,Rural,Households with at least one male  matriculate and above,254319,254319,1724,19020,177566,48386,7623
+HH10,10,207,District - Madhubani,Rural,Households with at least one female  matriculate and above,111201,111201,320,6203,78854,21671,4153
+HH10,10,207,District - Madhubani,Rural,Households with at least one  graduate and above,81955,81955,664,5934,58778,13765,2814
+HH10,10,207,District - Madhubani,Rural,Households with at least one male graduate and above,77176,77176,604,5579,55240,13060,2693
+HH10,10,207,District - Madhubani,Rural,Households with at least one female graduate and above,18668,18668,60,940,13414,3329,925
+HH10,10,207,District - Madhubani,Urban,Households with atleast one member literate,25944,25919,372,1571,17277,5625,1074
+HH10,10,207,District - Madhubani,Urban,Households with No matriculate and above,13930,13851,494,1342,8461,3119,435
+HH10,10,207,District - Madhubani,Urban,Households with at least one  matriculate and above,15940,15940,220,887,10930,3168,735
+HH10,10,207,District - Madhubani,Urban,Households with at least one male  matriculate and above,14802,14802,190,813,10175,2931,693
+HH10,10,207,District - Madhubani,Urban,Households with at least one female  matriculate and above,9964,9964,30,354,7014,2038,528
+HH10,10,207,District - Madhubani,Urban,Households with at least one  graduate and above,8115,8115,114,422,5698,1491,390
+HH10,10,207,District - Madhubani,Urban,Households with at least one male graduate and above,7536,7536,103,389,5279,1391,374
+HH10,10,207,District - Madhubani,Urban,Households with at least one female graduate and above,3224,3224,11,111,2260,652,190
+HH10,10,208,District - Supaul,Total,Households with atleast one member literate,364951,364636,2583,24480,250586,80220,6767
+HH10,10,208,District - Supaul,Total,Households with No matriculate and above,329514,328375,7553,35264,214200,66631,4727
+HH10,10,208,District - Supaul,Total,Households with at least one  matriculate and above,113059,113059,1020,7129,81612,20817,2481
+HH10,10,208,District - Supaul,Total,Households with at least one male  matriculate and above,104832,104832,908,6545,75874,19186,2319
+HH10,10,208,District - Supaul,Total,Households with at least one female  matriculate and above,44403,44403,112,2303,32857,7985,1146
+HH10,10,208,District - Supaul,Total,Households with at least one  graduate and above,28364,28364,395,1669,21306,4318,676
+HH10,10,208,District - Supaul,Total,Households with at least one male graduate and above,26701,26701,363,1555,20055,4089,639
+HH10,10,208,District - Supaul,Total,Households with at least one female graduate and above,5950,5950,32,319,4495,918,186
+HH10,10,208,District - Supaul,Rural,Households with atleast one member literate,346790,346500,2103,23264,238392,76520,6221
+HH10,10,208,District - Supaul,Rural,Households with No matriculate and above,319349,318264,7149,34196,207810,64581,4528
+HH10,10,208,District - Supaul,Rural,Households with at least one  matriculate and above,102766,102766,705,6480,74513,18951,2117
+HH10,10,208,District - Supaul,Rural,Households with at least one male  matriculate and above,95247,95247,622,5949,69255,17449,1972
+HH10,10,208,District - Supaul,Rural,Households with at least one female  matriculate and above,38301,38301,83,2018,28483,6813,904
+HH10,10,208,District - Supaul,Rural,Households with at least one  graduate and above,23630,23630,250,1408,17979,3500,493
+HH10,10,208,District - Supaul,Rural,Households with at least one male graduate and above,22345,22345,231,1312,17004,3333,465
+HH10,10,208,District - Supaul,Rural,Households with at least one female graduate and above,4327,4327,19,238,3363,601,106
+HH10,10,208,District - Supaul,Urban,Households with atleast one member literate,18161,18136,480,1216,12194,3700,546
+HH10,10,208,District - Supaul,Urban,Households with No matriculate and above,10165,10111,404,1068,6390,2050,199
+HH10,10,208,District - Supaul,Urban,Households with at least one  matriculate and above,10293,10293,315,649,7099,1866,364
+HH10,10,208,District - Supaul,Urban,Households with at least one male  matriculate and above,9585,9585,286,596,6619,1737,347
+HH10,10,208,District - Supaul,Urban,Households with at least one female  matriculate and above,6102,6102,29,285,4374,1172,242
+HH10,10,208,District - Supaul,Urban,Households with at least one  graduate and above,4734,4734,145,261,3327,818,183
+HH10,10,208,District - Supaul,Urban,Households with at least one male graduate and above,4356,4356,132,243,3051,756,174
+HH10,10,208,District - Supaul,Urban,Households with at least one female graduate and above,1623,1623,13,81,1132,317,80
+HH10,10,209,District - Araria,Total,Households with atleast one member literate,428657,428337,3323,31682,285606,100627,7099
+HH10,10,209,District - Araria,Total,Households with No matriculate and above,452177,450716,12897,52732,287091,92493,5503
+HH10,10,209,District - Araria,Total,Households with at least one  matriculate and above,115092,115092,1037,8509,81076,22125,2345
+HH10,10,209,District - Araria,Total,Households with at least one male  matriculate and above,102307,102307,940,7392,72266,19612,2097
+HH10,10,209,District - Araria,Total,Households with at least one female  matriculate and above,50474,50474,97,3243,36473,9458,1203
+HH10,10,209,District - Araria,Total,Households with at least one  graduate and above,27556,27556,339,1803,20154,4647,613
+HH10,10,209,District - Araria,Total,Households with at least one male graduate and above,25680,25680,311,1645,18768,4372,584
+HH10,10,209,District - Araria,Total,Households with at least one female graduate and above,5862,5862,28,342,4314,984,194
+HH10,10,209,District - Araria,Rural,Households with atleast one member literate,400467,400195,2782,29933,266472,94721,6287
+HH10,10,209,District - Araria,Rural,Households with No matriculate and above,434834,433531,12263,51043,275929,89095,5201
+HH10,10,209,District - Araria,Rural,Households with at least one  matriculate and above,99744,99744,742,7639,70419,19136,1808
+HH10,10,209,District - Araria,Rural,Households with at least one male  matriculate and above,88529,88529,680,6631,62678,16942,1598
+HH10,10,209,District - Araria,Rural,Households with at least one female  matriculate and above,40583,40583,62,2841,29475,7402,803
+HH10,10,209,District - Araria,Rural,Households with at least one  graduate and above,20478,20478,205,1450,15156,3334,333
+HH10,10,209,District - Araria,Rural,Households with at least one male graduate and above,19249,19249,193,1338,14244,3156,318
+HH10,10,209,District - Araria,Rural,Households with at least one female graduate and above,3334,3334,12,235,2552,472,63
+HH10,10,209,District - Araria,Urban,Households with atleast one member literate,28190,28142,541,1749,19134,5906,812
+HH10,10,209,District - Araria,Urban,Households with No matriculate and above,17343,17185,634,1689,11162,3398,302
+HH10,10,209,District - Araria,Urban,Households with at least one  matriculate and above,15348,15348,295,870,10657,2989,537
+HH10,10,209,District - Araria,Urban,Households with at least one male  matriculate and above,13778,13778,260,761,9588,2670,499
+HH10,10,209,District - Araria,Urban,Households with at least one female  matriculate and above,9891,9891,35,402,6998,2056,400
+HH10,10,209,District - Araria,Urban,Households with at least one  graduate and above,7078,7078,134,353,4998,1313,280
+HH10,10,209,District - Araria,Urban,Households with at least one male graduate and above,6431,6431,118,307,4524,1216,266
+HH10,10,209,District - Araria,Urban,Households with at least one female graduate and above,2528,2528,16,107,1762,512,131
+HH10,10,210,District - Kishanganj,Total,Households with atleast one member literate,256571,256260,2641,17648,160645,70714,4612
+HH10,10,210,District - Kishanganj,Total,Households with No matriculate and above,283437,282232,13445,30433,170679,64208,3467
+HH10,10,210,District - Kishanganj,Total,Households with at least one  matriculate and above,54582,54582,704,3632,35680,13111,1455
+HH10,10,210,District - Kishanganj,Total,Households with at least one male  matriculate and above,45543,45543,618,2898,29904,10902,1221
+HH10,10,210,District - Kishanganj,Total,Households with at least one female  matriculate and above,25695,25695,86,1610,17195,5971,833
+HH10,10,210,District - Kishanganj,Total,Households with at least one  graduate and above,13164,13164,233,833,9080,2625,393
+HH10,10,210,District - Kishanganj,Total,Households with at least one male graduate and above,12158,12158,212,748,8352,2478,368
+HH10,10,210,District - Kishanganj,Total,Households with at least one female graduate and above,3103,3103,21,174,2220,545,143
+HH10,10,210,District - Kishanganj,Rural,Households with atleast one member literate,229303,229032,2059,15854,142321,64859,3939
+HH10,10,210,District - Kishanganj,Rural,Households with No matriculate and above,264637,263532,12582,28564,158658,60535,3193
+HH10,10,210,District - Kishanganj,Rural,Households with at least one  matriculate and above,41522,41522,399,2830,26682,10574,1037
+HH10,10,210,District - Kishanganj,Rural,Households with at least one male  matriculate and above,34070,34070,350,2216,21977,8684,843
+HH10,10,210,District - Kishanganj,Rural,Households with at least one female  matriculate and above,17305,17305,49,1202,11265,4289,500
+HH10,10,210,District - Kishanganj,Rural,Households with at least one  graduate and above,7248,7248,78,494,4928,1569,179
+HH10,10,210,District - Kishanganj,Rural,Households with at least one male graduate and above,6846,6846,69,455,4652,1501,169
+HH10,10,210,District - Kishanganj,Rural,Households with at least one female graduate and above,848,848,9,65,597,147,30
+HH10,10,210,District - Kishanganj,Urban,Households with atleast one member literate,27268,27228,582,1794,18324,5855,673
+HH10,10,210,District - Kishanganj,Urban,Households with No matriculate and above,18800,18700,863,1869,12021,3673,274
+HH10,10,210,District - Kishanganj,Urban,Households with at least one  matriculate and above,13060,13060,305,802,8998,2537,418
+HH10,10,210,District - Kishanganj,Urban,Households with at least one male  matriculate and above,11473,11473,268,682,7927,2218,378
+HH10,10,210,District - Kishanganj,Urban,Households with at least one female  matriculate and above,8390,8390,37,408,5930,1682,333
+HH10,10,210,District - Kishanganj,Urban,Households with at least one  graduate and above,5916,5916,155,339,4152,1056,214
+HH10,10,210,District - Kishanganj,Urban,Households with at least one male graduate and above,5312,5312,143,293,3700,977,199
+HH10,10,210,District - Kishanganj,Urban,Households with at least one female graduate and above,2255,2255,12,109,1623,398,113
+HH10,10,211,District - Purnia,Total,Households with atleast one member literate,467216,466733,4235,32055,300557,119827,10059
+HH10,10,211,District - Purnia,Total,Households with No matriculate and above,506232,504055,16924,56678,309452,113309,7692
+HH10,10,211,District - Purnia,Total,Households with at least one  matriculate and above,140389,140389,1622,9681,97335,28124,3627
+HH10,10,211,District - Purnia,Total,Households with at least one male  matriculate and above,125937,125937,1440,8467,87555,25191,3284
+HH10,10,211,District - Purnia,Total,Households with at least one female  matriculate and above,68095,68095,182,3797,48777,13203,2136
+HH10,10,211,District - Purnia,Total,Households with at least one  graduate and above,40568,40568,518,2398,29201,7245,1206
+HH10,10,211,District - Purnia,Total,Households with at least one male graduate and above,37544,37544,474,2183,26969,6782,1136
+HH10,10,211,District - Purnia,Total,Households with at least one female graduate and above,12013,12013,44,565,8620,2298,486
+HH10,10,211,District - Purnia,Rural,Households with atleast one member literate,410312,409887,3368,28872,260876,108360,8411
+HH10,10,211,District - Purnia,Rural,Households with No matriculate and above,475315,473322,15820,53875,289503,107022,7102
+HH10,10,211,District - Purnia,Rural,Households with at least one  matriculate and above,105258,105258,1112,7904,72143,21634,2465
+HH10,10,211,District - Purnia,Rural,Households with at least one male  matriculate and above,93831,93831,1005,6897,64525,19209,2195
+HH10,10,211,District - Purnia,Rural,Households with at least one female  matriculate and above,44025,44025,107,2931,31276,8521,1190
+HH10,10,211,District - Purnia,Rural,Households with at least one  graduate and above,22639,22639,287,1564,16317,3926,545
+HH10,10,211,District - Purnia,Rural,Households with at least one male graduate and above,21159,21159,271,1434,15256,3686,512
+HH10,10,211,District - Purnia,Rural,Households with at least one female graduate and above,4456,4456,16,302,3250,758,130
+HH10,10,211,District - Purnia,Urban,Households with atleast one member literate,56904,56846,867,3183,39681,11467,1648
+HH10,10,211,District - Purnia,Urban,Households with No matriculate and above,30917,30733,1104,2803,19949,6287,590
+HH10,10,211,District - Purnia,Urban,Households with at least one  matriculate and above,35131,35131,510,1777,25192,6490,1162
+HH10,10,211,District - Purnia,Urban,Households with at least one male  matriculate and above,32106,32106,435,1570,23030,5982,1089
+HH10,10,211,District - Purnia,Urban,Households with at least one female  matriculate and above,24070,24070,75,866,17501,4682,946
+HH10,10,211,District - Purnia,Urban,Households with at least one  graduate and above,17929,17929,231,834,12884,3319,661
+HH10,10,211,District - Purnia,Urban,Households with at least one male graduate and above,16385,16385,203,749,11713,3096,624
+HH10,10,211,District - Purnia,Urban,Households with at least one female graduate and above,7557,7557,28,263,5370,1540,356
+HH10,10,212,District - Katihar,Total,Households with atleast one member literate,449161,448805,4489,30620,293569,111341,8786
+HH10,10,212,District - Katihar,Total,Households with No matriculate and above,487210,485463,20054,54286,300751,103646,6726
+HH10,10,212,District - Katihar,Total,Households with at least one  matriculate and above,131279,131279,1565,8887,91798,25844,3185
+HH10,10,212,District - Katihar,Total,Households with at least one male  matriculate and above,116062,116062,1362,7659,81522,22694,2825
+HH10,10,212,District - Katihar,Total,Households with at least one female  matriculate and above,62320,62320,203,3482,44760,11996,1879
+HH10,10,212,District - Katihar,Total,Households with at least one  graduate and above,36373,36373,552,2202,26380,6206,1033
+HH10,10,212,District - Katihar,Total,Households with at least one male graduate and above,33074,33074,499,1967,23948,5702,958
+HH10,10,212,District - Katihar,Total,Households with at least one female graduate and above,10611,10611,53,514,7673,1927,444
+HH10,10,212,District - Katihar,Rural,Households with atleast one member literate,400958,400620,3558,27860,260040,101723,7439
+HH10,10,212,District - Katihar,Rural,Households with No matriculate and above,464637,462974,19074,52161,286056,99310,6373
+HH10,10,212,District - Katihar,Rural,Households with at least one  matriculate and above,100365,100365,1027,7307,69906,19976,2149
+HH10,10,212,District - Katihar,Rural,Households with at least one male  matriculate and above,87835,87835,899,6273,61467,17348,1848
+HH10,10,212,District - Katihar,Rural,Households with at least one female  matriculate and above,41648,41648,128,2676,29924,7845,1075
+HH10,10,212,District - Katihar,Rural,Households with at least one  graduate and above,21358,21358,302,1508,15694,3419,435
+HH10,10,212,District - Katihar,Rural,Households with at least one male graduate and above,19669,19669,279,1378,14414,3190,408
+HH10,10,212,District - Katihar,Rural,Households with at least one female graduate and above,4337,4337,23,267,3277,655,115
+HH10,10,212,District - Katihar,Urban,Households with atleast one member literate,48203,48185,931,2760,33529,9618,1347
+HH10,10,212,District - Katihar,Urban,Households with No matriculate and above,22573,22489,980,2125,14695,4336,353
+HH10,10,212,District - Katihar,Urban,Households with at least one  matriculate and above,30914,30914,538,1580,21892,5868,1036
+HH10,10,212,District - Katihar,Urban,Households with at least one male  matriculate and above,28227,28227,463,1386,20055,5346,977
+HH10,10,212,District - Katihar,Urban,Households with at least one female  matriculate and above,20672,20672,75,806,14836,4151,804
+HH10,10,212,District - Katihar,Urban,Households with at least one  graduate and above,15015,15015,250,694,10686,2787,598
+HH10,10,212,District - Katihar,Urban,Households with at least one male graduate and above,13405,13405,220,589,9534,2512,550
+HH10,10,212,District - Katihar,Urban,Households with at least one female graduate and above,6274,6274,30,247,4396,1272,329
+HH10,10,213,District - Madhepura,Total,Households with atleast one member literate,300491,300247,2084,21147,203584,68017,5415
+HH10,10,213,District - Madhepura,Total,Households with No matriculate and above,290243,289380,6319,33835,185039,60371,3816
+HH10,10,213,District - Madhepura,Total,Households with at least one  matriculate and above,110738,110738,848,7750,80275,19561,2304
+HH10,10,213,District - Madhepura,Total,Households with at least one male  matriculate and above,103111,103111,747,7117,74880,18203,2164
+HH10,10,213,District - Madhepura,Total,Households with at least one female  matriculate and above,46613,46613,101,2531,35039,7792,1150
+HH10,10,213,District - Madhepura,Total,Households with at least one  graduate and above,29047,29047,310,1767,22041,4271,658
+HH10,10,213,District - Madhepura,Total,Households with at least one male graduate and above,27353,27353,282,1634,20784,4024,629
+HH10,10,213,District - Madhepura,Total,Households with at least one female graduate and above,6806,6806,28,328,5197,1039,214
+HH10,10,213,District - Madhepura,Rural,Households with atleast one member literate,285283,285052,1846,20205,192834,65140,5027
+HH10,10,213,District - Madhepura,Rural,Households with No matriculate and above,283017,282186,6058,33067,180399,58953,3709
+HH10,10,213,District - Madhepura,Rural,Households with at least one  matriculate and above,100571,100571,700,7195,72799,17870,2007
+HH10,10,213,District - Madhepura,Rural,Households with at least one male  matriculate and above,93606,93606,622,6611,67872,16617,1884
+HH10,10,213,District - Madhepura,Rural,Households with at least one female  matriculate and above,39914,39914,78,2302,29968,6643,923
+HH10,10,213,District - Madhepura,Rural,Households with at least one  graduate and above,23801,23801,238,1523,18115,3427,498
+HH10,10,213,District - Madhepura,Rural,Households with at least one male graduate and above,22457,22457,218,1415,17112,3236,476
+HH10,10,213,District - Madhepura,Rural,Households with at least one female graduate and above,4664,4664,20,261,3584,653,146
+HH10,10,213,District - Madhepura,Urban,Households with atleast one member literate,15208,15195,238,942,10750,2877,388
+HH10,10,213,District - Madhepura,Urban,Households with No matriculate and above,7226,7194,261,768,4640,1418,107
+HH10,10,213,District - Madhepura,Urban,Households with at least one  matriculate and above,10167,10167,148,555,7476,1691,297
+HH10,10,213,District - Madhepura,Urban,Households with at least one male  matriculate and above,9505,9505,125,506,7008,1586,280
+HH10,10,213,District - Madhepura,Urban,Households with at least one female  matriculate and above,6699,6699,23,229,5071,1149,227
+HH10,10,213,District - Madhepura,Urban,Households with at least one  graduate and above,5246,5246,72,244,3926,844,160
+HH10,10,213,District - Madhepura,Urban,Households with at least one male graduate and above,4896,4896,64,219,3672,788,153
+HH10,10,213,District - Madhepura,Urban,Households with at least one female graduate and above,2142,2142,8,67,1613,386,68
+HH10,10,214,District - Saharsa,Total,Households with atleast one member literate,279442,279247,2047,18670,183744,68096,6690
+HH10,10,214,District - Saharsa,Total,Households with No matriculate and above,260376,259660,5292,28345,162291,59099,4633
+HH10,10,214,District - Saharsa,Total,Households with at least one  matriculate and above,108317,108317,909,7232,75500,21647,3029
+HH10,10,214,District - Saharsa,Total,Households with at least one male  matriculate and above,102342,102342,793,6717,71506,20430,2896
+HH10,10,214,District - Saharsa,Total,Households with at least one female  matriculate and above,47489,47489,116,2403,34178,9236,1556
+HH10,10,214,District - Saharsa,Total,Households with at least one  graduate and above,33696,33696,314,1932,24504,5882,1064
+HH10,10,214,District - Saharsa,Total,Households with at least one male graduate and above,31766,31766,286,1779,23078,5607,1016
+HH10,10,214,District - Saharsa,Total,Households with at least one female graduate and above,9283,9283,28,418,6734,1686,417
+HH10,10,214,District - Saharsa,Rural,Households with atleast one member literate,253728,253562,1716,17307,166276,62588,5675
+HH10,10,214,District - Saharsa,Rural,Households with No matriculate and above,249598,248950,5041,27455,155515,56674,4265
+HH10,10,214,District - Saharsa,Rural,Households with at least one  matriculate and above,90295,90295,700,6334,62910,18053,2298
+HH10,10,214,District - Saharsa,Rural,Households with at least one male  matriculate and above,85261,85261,615,5903,59539,17011,2193
+HH10,10,214,District - Saharsa,Rural,Households with at least one female  matriculate and above,35274,35274,85,1977,25480,6715,1017
+HH10,10,214,District - Saharsa,Rural,Households with at least one  graduate and above,23549,23549,199,1477,17263,3968,642
+HH10,10,214,District - Saharsa,Rural,Households with at least one male graduate and above,22324,22324,184,1371,16361,3796,612
+HH10,10,214,District - Saharsa,Rural,Households with at least one female graduate and above,5137,5137,15,262,3834,824,202
+HH10,10,214,District - Saharsa,Urban,Households with atleast one member literate,25714,25685,331,1363,17468,5508,1015
+HH10,10,214,District - Saharsa,Urban,Households with No matriculate and above,10778,10710,251,890,6776,2425,368
+HH10,10,214,District - Saharsa,Urban,Households with at least one  matriculate and above,18022,18022,209,898,12590,3594,731
+HH10,10,214,District - Saharsa,Urban,Households with at least one male  matriculate and above,17081,17081,178,814,11967,3419,703
+HH10,10,214,District - Saharsa,Urban,Households with at least one female  matriculate and above,12215,12215,31,426,8698,2521,539
+HH10,10,214,District - Saharsa,Urban,Households with at least one  graduate and above,10147,10147,115,455,7241,1914,422
+HH10,10,214,District - Saharsa,Urban,Households with at least one male graduate and above,9442,9442,102,408,6717,1811,404
+HH10,10,214,District - Saharsa,Urban,Households with at least one female graduate and above,4146,4146,13,156,2900,862,215
+HH10,10,215,District - Darbhanga,Total,Households with atleast one member literate,626343,625771,5985,51846,422403,134879,10658
+HH10,10,215,District - Darbhanga,Total,Households with No matriculate and above,563210,560945,19424,70999,351458,112564,6500
+HH10,10,215,District - Darbhanga,Total,Households with at least one  matriculate and above,238891,238891,2053,19421,169212,43024,5181
+HH10,10,215,District - Darbhanga,Total,Households with at least one male  matriculate and above,219240,219240,1680,17647,155797,39281,4835
+HH10,10,215,District - Darbhanga,Total,Households with at least one female  matriculate and above,107154,107154,373,6391,77637,19807,2946
+HH10,10,215,District - Darbhanga,Total,Households with at least one  graduate and above,77683,77683,717,5865,56816,12270,2015
+HH10,10,215,District - Darbhanga,Total,Households with at least one male graduate and above,72409,72409,621,5424,52890,11549,1925
+HH10,10,215,District - Darbhanga,Total,Households with at least one female graduate and above,23201,23201,96,1307,16934,3993,871
+HH10,10,215,District - Darbhanga,Rural,Households with atleast one member literate,559878,559370,5073,47538,377170,120811,8778
+HH10,10,215,District - Darbhanga,Rural,Households with No matriculate and above,531836,529800,18289,68060,331624,105842,5985
+HH10,10,215,District - Darbhanga,Rural,Households with at least one  matriculate and above,196473,196473,1543,16801,139705,34671,3753
+HH10,10,215,District - Darbhanga,Rural,Households with at least one male  matriculate and above,180260,180260,1282,15284,128616,31583,3495
+HH10,10,215,District - Darbhanga,Rural,Households with at least one female  matriculate and above,79633,79633,261,5149,58299,14106,1818
+HH10,10,215,District - Darbhanga,Rural,Households with at least one  graduate and above,55190,55190,467,4524,40997,8091,1111
+HH10,10,215,District - Darbhanga,Rural,Households with at least one male graduate and above,51620,51620,417,4198,38294,7652,1059
+HH10,10,215,District - Darbhanga,Rural,Households with at least one female graduate and above,13074,13074,50,874,9849,1941,360
+HH10,10,215,District - Darbhanga,Urban,Households with atleast one member literate,66465,66401,912,4308,45233,14068,1880
+HH10,10,215,District - Darbhanga,Urban,Households with No matriculate and above,31374,31145,1135,2939,19834,6722,515
+HH10,10,215,District - Darbhanga,Urban,Households with at least one  matriculate and above,42418,42418,510,2620,29507,8353,1428
+HH10,10,215,District - Darbhanga,Urban,Households with at least one male  matriculate and above,38980,38980,398,2363,27181,7698,1340
+HH10,10,215,District - Darbhanga,Urban,Households with at least one female  matriculate and above,27521,27521,112,1242,19338,5701,1128
+HH10,10,215,District - Darbhanga,Urban,Households with at least one  graduate and above,22493,22493,250,1341,15819,4179,904
+HH10,10,215,District - Darbhanga,Urban,Households with at least one male graduate and above,20789,20789,204,1226,14596,3897,866
+HH10,10,215,District - Darbhanga,Urban,Households with at least one female graduate and above,10127,10127,46,433,7085,2052,511
+HH10,10,216,District - Muzaffarpur,Total,Households with atleast one member literate,785503,784777,8214,56938,523744,174019,21862
+HH10,10,216,District - Muzaffarpur,Total,Households with No matriculate and above,625660,623320,22146,75143,390177,125448,10406
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one  matriculate and above,317993,317993,2767,20235,218150,64486,12355
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one male  matriculate and above,288961,288961,2326,18065,198645,58390,11535
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one female  matriculate and above,168823,168823,441,7992,117993,34648,7749
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one  graduate and above,95266,95266,921,5712,66669,17554,4410
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one male graduate and above,85913,85913,796,5109,59848,16050,4110
+HH10,10,216,District - Muzaffarpur,Total,Households with at least one female graduate and above,38175,38175,125,1645,26814,7469,2122
+HH10,10,216,District - Muzaffarpur,Rural,Households with atleast one member literate,704228,703595,7118,52375,468241,157197,18664
+HH10,10,216,District - Muzaffarpur,Rural,Households with No matriculate and above,595589,593510,21195,72274,371063,119282,9696
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one  matriculate and above,259774,259774,2075,17303,177724,52885,9787
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one male  matriculate and above,234984,234984,1786,15474,161049,47597,9078
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one female  matriculate and above,125724,125724,289,6333,87764,25741,5597
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one  graduate and above,61527,61527,557,4109,43143,10984,2734
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one male graduate and above,55280,55280,509,3705,38569,9980,2517
+HH10,10,216,District - Muzaffarpur,Rural,Households with at least one female graduate and above,20168,20168,48,1001,14442,3653,1024
+HH10,10,216,District - Muzaffarpur,Urban,Households with atleast one member literate,81275,81182,1096,4563,55503,16822,3198
+HH10,10,216,District - Muzaffarpur,Urban,Households with No matriculate and above,30071,29810,951,2869,19114,6166,710
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one  matriculate and above,58219,58219,692,2932,40426,11601,2568
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one male  matriculate and above,53977,53977,540,2591,37596,10793,2457
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one female  matriculate and above,43099,43099,152,1659,30229,8907,2152
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one  graduate and above,33739,33739,364,1603,23526,6570,1676
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one male graduate and above,30633,30633,287,1404,21279,6070,1593
+HH10,10,216,District - Muzaffarpur,Urban,Households with at least one female graduate and above,18007,18007,77,644,12372,3816,1098
+HH10,10,217,District - Gopalganj,Total,Households with atleast one member literate,364373,363500,3757,15781,192366,115854,35742
+HH10,10,217,District - Gopalganj,Total,Households with No matriculate and above,247378,245159,9789,20492,136083,65818,12977
+HH10,10,217,District - Gopalganj,Total,Households with at least one  matriculate and above,164802,164802,1315,5505,79335,55233,23414
+HH10,10,217,District - Gopalganj,Total,Households with at least one male  matriculate and above,141333,141333,1039,4419,66711,47900,21264
+HH10,10,217,District - Gopalganj,Total,Households with at least one female  matriculate and above,84335,84335,276,2028,39041,28988,14002
+HH10,10,217,District - Gopalganj,Total,Households with at least one  graduate and above,35360,35360,401,1185,16272,11227,6275
+HH10,10,217,District - Gopalganj,Total,Households with at least one male graduate and above,30856,30856,345,1031,14008,9849,5623
+HH10,10,217,District - Gopalganj,Total,Households with at least one female graduate and above,11744,11744,56,322,5474,3729,2163
+HH10,10,217,District - Gopalganj,Rural,Households with atleast one member literate,340776,339949,3351,14834,179843,108643,33278
+HH10,10,217,District - Gopalganj,Rural,Households with No matriculate and above,236235,234130,9364,19685,130042,62713,12326
+HH10,10,217,District - Gopalganj,Rural,Households with at least one  matriculate and above,150366,150366,1070,4991,71859,50878,21568
+HH10,10,217,District - Gopalganj,Rural,Households with at least one male  matriculate and above,128565,128565,830,3979,60164,44010,19582
+HH10,10,217,District - Gopalganj,Rural,Households with at least one female  matriculate and above,74878,74878,240,1765,34113,26090,12670
+HH10,10,217,District - Gopalganj,Rural,Households with at least one  graduate and above,29454,29454,276,936,13121,9592,5529
+HH10,10,217,District - Gopalganj,Rural,Households with at least one male graduate and above,25659,25659,235,809,11253,8406,4956
+HH10,10,217,District - Gopalganj,Rural,Households with at least one female graduate and above,9035,9035,41,223,4015,2947,1809
+HH10,10,217,District - Gopalganj,Urban,Households with atleast one member literate,23597,23551,406,947,12523,7211,2464
+HH10,10,217,District - Gopalganj,Urban,Households with No matriculate and above,11143,11029,425,807,6041,3105,651
+HH10,10,217,District - Gopalganj,Urban,Households with at least one  matriculate and above,14436,14436,245,514,7476,4355,1846
+HH10,10,217,District - Gopalganj,Urban,Households with at least one male  matriculate and above,12768,12768,209,440,6547,3890,1682
+HH10,10,217,District - Gopalganj,Urban,Households with at least one female  matriculate and above,9457,9457,36,263,4928,2898,1332
+HH10,10,217,District - Gopalganj,Urban,Households with at least one  graduate and above,5906,5906,125,249,3151,1635,746
+HH10,10,217,District - Gopalganj,Urban,Households with at least one male graduate and above,5197,5197,110,222,2755,1443,667
+HH10,10,217,District - Gopalganj,Urban,Households with at least one female graduate and above,2709,2709,15,99,1459,782,354
+HH10,10,218,District - Siwan,Total,Households with atleast one member literate,488344,487305,5177,22962,258881,153177,47108
+HH10,10,218,District - Siwan,Total,Households with No matriculate and above,287443,284955,12286,25190,154913,77568,14998
+HH10,10,218,District - Siwan,Total,Households with at least one  matriculate and above,247169,247169,1927,8770,124074,79794,32604
+HH10,10,218,District - Siwan,Total,Households with at least one male  matriculate and above,216737,216737,1566,7269,107180,70543,30179
+HH10,10,218,District - Siwan,Total,Households with at least one female  matriculate and above,125149,125149,361,3067,60828,41623,19270
+HH10,10,218,District - Siwan,Total,Households with at least one  graduate and above,52842,52842,517,1802,25889,16018,8616
+HH10,10,218,District - Siwan,Total,Households with at least one male graduate and above,47475,47475,457,1567,23061,14451,7939
+HH10,10,218,District - Siwan,Total,Households with at least one female graduate and above,16018,16018,60,432,7925,4851,2750
+HH10,10,218,District - Siwan,Rural,Households with atleast one member literate,461761,460773,4804,21928,244305,145320,44416
+HH10,10,218,District - Siwan,Rural,Households with No matriculate and above,277364,274978,11924,24479,149450,74751,14374
+HH10,10,218,District - Siwan,Rural,Households with at least one  matriculate and above,228720,228720,1707,8159,113972,74406,30476
+HH10,10,218,District - Siwan,Rural,Households with at least one male  matriculate and above,200033,200033,1379,6759,98052,65646,28197
+HH10,10,218,District - Siwan,Rural,Households with at least one female  matriculate and above,112142,112142,328,2755,53690,37727,17642
+HH10,10,218,District - Siwan,Rural,Households with at least one  graduate and above,44261,44261,408,1523,21144,13590,7596
+HH10,10,218,District - Siwan,Rural,Households with at least one male graduate and above,39793,39793,361,1325,18828,12276,7003
+HH10,10,218,District - Siwan,Rural,Households with at least one female graduate and above,11858,11858,47,338,5596,3644,2233
+HH10,10,218,District - Siwan,Urban,Households with atleast one member literate,26583,26532,373,1034,14576,7857,2692
+HH10,10,218,District - Siwan,Urban,Households with No matriculate and above,10079,9977,362,711,5463,2817,624
+HH10,10,218,District - Siwan,Urban,Households with at least one  matriculate and above,18449,18449,220,611,10102,5388,2128
+HH10,10,218,District - Siwan,Urban,Households with at least one male  matriculate and above,16704,16704,187,510,9128,4897,1982
+HH10,10,218,District - Siwan,Urban,Households with at least one female  matriculate and above,13007,13007,33,312,7138,3896,1628
+HH10,10,218,District - Siwan,Urban,Households with at least one  graduate and above,8581,8581,109,279,4745,2428,1020
+HH10,10,218,District - Siwan,Urban,Households with at least one male graduate and above,7682,7682,96,242,4233,2175,936
+HH10,10,218,District - Siwan,Urban,Households with at least one female graduate and above,4160,4160,13,94,2329,1207,517
+HH10,10,219,District - Saran,Total,Households with atleast one member literate,552736,551825,5923,26176,290142,173098,56486
+HH10,10,219,District - Saran,Total,Households with No matriculate and above,333606,331272,13976,29778,177881,91054,18583
+HH10,10,219,District - Saran,Total,Households with at least one  matriculate and above,296678,296678,2294,10906,149937,93984,39557
+HH10,10,219,District - Saran,Total,Households with at least one male  matriculate and above,269803,269803,1943,9542,134703,86177,37438
+HH10,10,219,District - Saran,Total,Households with at least one female  matriculate and above,146216,146216,351,3381,72012,47520,22952
+HH10,10,219,District - Saran,Total,Households with at least one  graduate and above,71988,71988,597,2388,35791,21684,11528
+HH10,10,219,District - Saran,Total,Households with at least one male graduate and above,65942,65942,529,2127,32418,20046,10822
+HH10,10,219,District - Saran,Total,Households with at least one female graduate and above,21139,21139,68,526,10598,6339,3608
+HH10,10,219,District - Saran,Rural,Households with atleast one member literate,502138,501327,5231,24044,262814,157818,51420
+HH10,10,219,District - Saran,Rural,Households with No matriculate and above,311575,309480,13124,28023,166033,84971,17329
+HH10,10,219,District - Saran,Rural,Households with at least one  matriculate and above,262948,262948,1924,9720,131791,83906,35607
+HH10,10,219,District - Saran,Rural,Households with at least one male  matriculate and above,238613,238613,1636,8511,117998,76819,33649
+HH10,10,219,District - Saran,Rural,Households with at least one female  matriculate and above,124483,124483,288,2825,60330,40929,20111
+HH10,10,219,District - Saran,Rural,Households with at least one  graduate and above,56817,56817,443,1891,27440,17447,9596
+HH10,10,219,District - Saran,Rural,Households with at least one male graduate and above,52126,52126,396,1703,24877,16155,8995
+HH10,10,219,District - Saran,Rural,Households with at least one female graduate and above,14350,14350,47,337,6879,4417,2670
+HH10,10,219,District - Saran,Urban,Households with atleast one member literate,50598,50498,692,2132,27328,15280,5066
+HH10,10,219,District - Saran,Urban,Households with No matriculate and above,22031,21792,852,1755,11848,6083,1254
+HH10,10,219,District - Saran,Urban,Households with at least one  matriculate and above,33730,33730,370,1186,18146,10078,3950
+HH10,10,219,District - Saran,Urban,Households with at least one male  matriculate and above,31190,31190,307,1031,16705,9358,3789
+HH10,10,219,District - Saran,Urban,Households with at least one female  matriculate and above,21733,21733,63,556,11682,6591,2841
+HH10,10,219,District - Saran,Urban,Households with at least one  graduate and above,15171,15171,154,497,8351,4237,1932
+HH10,10,219,District - Saran,Urban,Households with at least one male graduate and above,13816,13816,133,424,7541,3891,1827
+HH10,10,219,District - Saran,Urban,Households with at least one female graduate and above,6789,6789,21,189,3719,1922,938
+HH10,10,220,District - Vaishali,Total,Households with atleast one member literate,545026,544407,4374,29847,341993,138497,29696
+HH10,10,220,District - Vaishali,Total,Households with No matriculate and above,364036,362196,11145,37084,221321,81148,11498
+HH10,10,220,District - Vaishali,Total,Households with at least one  matriculate and above,260310,260310,1493,11283,162395,65913,19226
+HH10,10,220,District - Vaishali,Total,Households with at least one male  matriculate and above,238068,238068,1256,9961,148395,60349,18107
+HH10,10,220,District - Vaishali,Total,Households with at least one female  matriculate and above,131262,131262,237,4152,79900,35016,11957
+HH10,10,220,District - Vaishali,Total,Households with at least one  graduate and above,63063,63063,420,2614,38865,15316,5848
+HH10,10,220,District - Vaishali,Total,Households with at least one male graduate and above,57250,57250,362,2323,35109,14019,5437
+HH10,10,220,District - Vaishali,Total,Households with at least one female graduate and above,19632,19632,58,597,11926,4981,2070
+HH10,10,220,District - Vaishali,Rural,Households with atleast one member literate,510580,510004,4069,28553,321310,129184,26888
+HH10,10,220,District - Vaishali,Rural,Households with No matriculate and above,348222,346510,10719,35896,212129,77093,10673
+HH10,10,220,District - Vaishali,Rural,Households with at least one  matriculate and above,238209,238209,1328,10591,149034,60107,17149
+HH10,10,220,District - Vaishali,Rural,Households with at least one male  matriculate and above,217695,217695,1128,9353,136093,54972,16149
+HH10,10,220,District - Vaishali,Rural,Households with at least one female  matriculate and above,116532,116532,200,3815,71025,31033,10459
+HH10,10,220,District - Vaishali,Rural,Households with at least one  graduate and above,53122,53122,346,2309,32805,12766,4896
+HH10,10,220,District - Vaishali,Rural,Households with at least one male graduate and above,48228,48228,303,2054,29637,11687,4547
+HH10,10,220,District - Vaishali,Rural,Households with at least one female graduate and above,15268,15268,43,490,9296,3834,1605
+HH10,10,220,District - Vaishali,Urban,Households with atleast one member literate,34446,34403,305,1294,20683,9313,2808
+HH10,10,220,District - Vaishali,Urban,Households with No matriculate and above,15814,15686,426,1188,9192,4055,825
+HH10,10,220,District - Vaishali,Urban,Households with at least one  matriculate and above,22101,22101,165,692,13361,5806,2077
+HH10,10,220,District - Vaishali,Urban,Households with at least one male  matriculate and above,20373,20373,128,608,12302,5377,1958
+HH10,10,220,District - Vaishali,Urban,Households with at least one female  matriculate and above,14730,14730,37,337,8875,3983,1498
+HH10,10,220,District - Vaishali,Urban,Households with at least one  graduate and above,9941,9941,74,305,6060,2550,952
+HH10,10,220,District - Vaishali,Urban,Households with at least one male graduate and above,9022,9022,59,269,5472,2332,890
+HH10,10,220,District - Vaishali,Urban,Households with at least one female graduate and above,4364,4364,15,107,2630,1147,465
+HH10,10,221,District - Samastipur,Total,Households with atleast one member literate,688386,687944,6613,51189,451531,159240,19371
+HH10,10,221,District - Samastipur,Total,Households with No matriculate and above,562261,560920,19812,69173,347767,114473,9695
+HH10,10,221,District - Samastipur,Total,Households with at least one  matriculate and above,272675,272675,2389,18224,183254,58151,10657
+HH10,10,221,District - Samastipur,Total,Households with at least one male  matriculate and above,249222,249222,1984,16341,167696,53240,9961
+HH10,10,221,District - Samastipur,Total,Households with at least one female  matriculate and above,132565,132565,405,6480,90887,28335,6458
+HH10,10,221,District - Samastipur,Total,Households with at least one  graduate and above,74809,74809,785,4853,51547,14153,3471
+HH10,10,221,District - Samastipur,Total,Households with at least one male graduate and above,67945,67945,694,4393,46608,13021,3229
+HH10,10,221,District - Samastipur,Total,Households with at least one female graduate and above,23213,23213,91,1130,16251,4412,1329
+HH10,10,221,District - Samastipur,Rural,Households with atleast one member literate,662446,662034,6101,49661,434032,153786,18454
+HH10,10,221,District - Samastipur,Rural,Households with No matriculate and above,552087,550810,19300,68176,341473,112343,9518
+HH10,10,221,District - Samastipur,Rural,Households with at least one  matriculate and above,254789,254789,2074,17255,170913,54647,9900
+HH10,10,221,District - Samastipur,Rural,Households with at least one male  matriculate and above,232895,232895,1759,15501,156395,49995,9245
+HH10,10,221,District - Samastipur,Rural,Households with at least one female  matriculate and above,119930,119930,315,6010,81975,25802,5828
+HH10,10,221,District - Samastipur,Rural,Households with at least one  graduate and above,64913,64913,619,4376,44594,12337,2987
+HH10,10,221,District - Samastipur,Rural,Households with at least one male graduate and above,59081,59081,561,3974,40418,11350,2778
+HH10,10,221,District - Samastipur,Rural,Households with at least one female graduate and above,18558,18558,58,969,12936,3539,1056
+HH10,10,221,District - Samastipur,Urban,Households with atleast one member literate,25940,25910,512,1528,17499,5454,917
+HH10,10,221,District - Samastipur,Urban,Households with No matriculate and above,10174,10110,512,997,6294,2130,177
+HH10,10,221,District - Samastipur,Urban,Households with at least one  matriculate and above,17886,17886,315,969,12341,3504,757
+HH10,10,221,District - Samastipur,Urban,Households with at least one male  matriculate and above,16327,16327,225,840,11301,3245,716
+HH10,10,221,District - Samastipur,Urban,Households with at least one female  matriculate and above,12635,12635,90,470,8912,2533,630
+HH10,10,221,District - Samastipur,Urban,Households with at least one  graduate and above,9896,9896,166,477,6953,1816,484
+HH10,10,221,District - Samastipur,Urban,Households with at least one male graduate and above,8864,8864,133,419,6190,1671,451
+HH10,10,221,District - Samastipur,Urban,Households with at least one female graduate and above,4655,4655,33,161,3315,873,273
+HH10,10,222,District - Begusarai,Total,Households with atleast one member literate,487244,486794,5104,40281,320571,107932,12906
+HH10,10,222,District - Begusarai,Total,Households with No matriculate and above,385927,384522,13511,49780,238135,76794,6302
+HH10,10,222,District - Begusarai,Total,Households with at least one  matriculate and above,202348,202348,1879,15006,136853,41279,7331
+HH10,10,222,District - Begusarai,Total,Households with at least one male  matriculate and above,182679,182679,1592,13105,123953,37249,6780
+HH10,10,222,District - Begusarai,Total,Households with at least one female  matriculate and above,104468,104468,287,6221,72106,21232,4622
+HH10,10,222,District - Begusarai,Total,Households with at least one  graduate and above,58313,58313,629,3899,40346,10842,2597
+HH10,10,222,District - Begusarai,Total,Households with at least one male graduate and above,52196,52196,558,3447,36004,9820,2367
+HH10,10,222,District - Begusarai,Total,Households with at least one female graduate and above,20374,20374,71,1063,14330,3804,1106
+HH10,10,222,District - Begusarai,Rural,Households with atleast one member literate,393536,393190,4030,34158,259101,86323,9578
+HH10,10,222,District - Begusarai,Rural,Households with No matriculate and above,330403,329296,11742,44161,203892,64464,5037
+HH10,10,222,District - Begusarai,Rural,Households with at least one  matriculate and above,150957,150957,1324,12064,102274,30191,5104
+HH10,10,222,District - Begusarai,Rural,Households with at least one male  matriculate and above,135725,135725,1123,10509,92265,27134,4694
+HH10,10,222,District - Begusarai,Rural,Households with at least one female  matriculate and above,72105,72105,201,4815,49880,14200,3009
+HH10,10,222,District - Begusarai,Rural,Households with at least one  graduate and above,36746,36746,369,2752,25538,6547,1540
+HH10,10,222,District - Begusarai,Rural,Households with at least one male graduate and above,32912,32912,333,2447,22791,5949,1392
+HH10,10,222,District - Begusarai,Rural,Households with at least one female graduate and above,10847,10847,36,651,7725,1864,571
+HH10,10,222,District - Begusarai,Urban,Households with atleast one member literate,93708,93604,1074,6123,61470,21609,3328
+HH10,10,222,District - Begusarai,Urban,Households with No matriculate and above,55524,55226,1769,5619,34243,12330,1265
+HH10,10,222,District - Begusarai,Urban,Households with at least one  matriculate and above,51391,51391,555,2942,34579,11088,2227
+HH10,10,222,District - Begusarai,Urban,Households with at least one male  matriculate and above,46954,46954,469,2596,31688,10115,2086
+HH10,10,222,District - Begusarai,Urban,Households with at least one female  matriculate and above,32363,32363,86,1406,22226,7032,1613
+HH10,10,222,District - Begusarai,Urban,Households with at least one  graduate and above,21567,21567,260,1147,14808,4295,1057
+HH10,10,222,District - Begusarai,Urban,Households with at least one male graduate and above,19284,19284,225,1000,13213,3871,975
+HH10,10,222,District - Begusarai,Urban,Households with at least one female graduate and above,9527,9527,35,412,6605,1940,535
+HH10,10,223,District - Khagaria,Total,Households with atleast one member literate,255004,254772,1947,19825,165671,62238,5091
+HH10,10,223,District - Khagaria,Total,Households with No matriculate and above,227310,226301,5587,28347,138466,50765,3136
+HH10,10,223,District - Khagaria,Total,Households with at least one  matriculate and above,100862,100862,797,7357,69307,20894,2507
+HH10,10,223,District - Khagaria,Total,Households with at least one male  matriculate and above,91662,91662,704,6565,63128,18929,2336
+HH10,10,223,District - Khagaria,Total,Households with at least one female  matriculate and above,47430,47430,93,2988,33482,9432,1435
+HH10,10,223,District - Khagaria,Total,Households with at least one  graduate and above,22825,22825,224,1573,16418,3914,696
+HH10,10,223,District - Khagaria,Total,Households with at least one male graduate and above,20610,20610,200,1398,14767,3595,650
+HH10,10,223,District - Khagaria,Total,Households with at least one female graduate and above,6600,6600,24,392,4850,1103,231
+HH10,10,223,District - Khagaria,Rural,Households with atleast one member literate,240434,240226,1726,18896,156181,58863,4560
+HH10,10,223,District - Khagaria,Rural,Households with No matriculate and above,220789,219833,5378,27690,134611,49198,2956
+HH10,10,223,District - Khagaria,Rural,Households with at least one  matriculate and above,91317,91317,666,6830,62817,18876,2128
+HH10,10,223,District - Khagaria,Rural,Households with at least one male  matriculate and above,82921,82921,591,6079,57172,17102,1977
+HH10,10,223,District - Khagaria,Rural,Households with at least one female  matriculate and above,41126,41126,75,2755,29052,8079,1165
+HH10,10,223,District - Khagaria,Rural,Households with at least one  graduate and above,18656,18656,169,1366,13500,3108,513
+HH10,10,223,District - Khagaria,Rural,Households with at least one male graduate and above,16849,16849,152,1211,12145,2865,476
+HH10,10,223,District - Khagaria,Rural,Households with at least one female graduate and above,4939,4939,17,339,3650,774,159
+HH10,10,223,District - Khagaria,Urban,Households with atleast one member literate,14570,14546,221,929,9490,3375,531
+HH10,10,223,District - Khagaria,Urban,Households with No matriculate and above,6521,6468,209,657,3855,1567,180
+HH10,10,223,District - Khagaria,Urban,Households with at least one  matriculate and above,9545,9545,131,527,6490,2018,379
+HH10,10,223,District - Khagaria,Urban,Households with at least one male  matriculate and above,8741,8741,113,486,5956,1827,359
+HH10,10,223,District - Khagaria,Urban,Households with at least one female  matriculate and above,6304,6304,18,233,4430,1353,270
+HH10,10,223,District - Khagaria,Urban,Households with at least one  graduate and above,4169,4169,55,207,2918,806,183
+HH10,10,223,District - Khagaria,Urban,Households with at least one male graduate and above,3761,3761,48,187,2622,730,174
+HH10,10,223,District - Khagaria,Urban,Households with at least one female graduate and above,1661,1661,7,53,1200,329,72
+HH10,10,224,District - Bhagalpur,Total,Households with atleast one member literate,464378,463934,4661,27124,296293,118703,17153
+HH10,10,224,District - Bhagalpur,Total,Households with No matriculate and above,335960,334598,8681,31541,205387,81131,7858
+HH10,10,224,District - Bhagalpur,Total,Households with at least one  matriculate and above,227622,227622,2214,12844,150460,51569,10535
+HH10,10,224,District - Bhagalpur,Total,Households with at least one male  matriculate and above,210582,210582,1903,11584,139670,47530,9895
+HH10,10,224,District - Bhagalpur,Total,Households with at least one female  matriculate and above,121547,121547,311,5329,81742,27343,6822
+HH10,10,224,District - Bhagalpur,Total,Households with at least one  graduate and above,73339,73339,698,3778,49585,15148,4130
+HH10,10,224,District - Bhagalpur,Total,Households with at least one male graduate and above,66815,66815,621,3389,45071,13904,3830
+HH10,10,224,District - Bhagalpur,Total,Households with at least one female graduate and above,26574,26574,77,1095,17844,5729,1829
+HH10,10,224,District - Bhagalpur,Rural,Households with atleast one member literate,369525,369179,3446,22447,236442,94593,12251
+HH10,10,224,District - Bhagalpur,Rural,Households with No matriculate and above,292180,291069,7441,28222,179411,69722,6273
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one  matriculate and above,165539,165539,1481,9956,110182,36974,6946
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one male  matriculate and above,153214,153214,1303,9012,102275,34076,6548
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one female  matriculate and above,78321,78321,178,3772,53205,17079,4087
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one  graduate and above,42090,42090,399,2382,28737,8324,2248
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one male graduate and above,38321,38321,366,2154,26093,7633,2075
+HH10,10,224,District - Bhagalpur,Rural,Households with at least one female graduate and above,11914,11914,33,558,8116,2402,805
+HH10,10,224,District - Bhagalpur,Urban,Households with atleast one member literate,94853,94755,1215,4677,59851,24110,4902
+HH10,10,224,District - Bhagalpur,Urban,Households with No matriculate and above,43780,43529,1240,3319,25976,11409,1585
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one  matriculate and above,62083,62083,733,2888,40278,14595,3589
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one male  matriculate and above,57368,57368,600,2572,37395,13454,3347
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one female  matriculate and above,43226,43226,133,1557,28537,10264,2735
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one  graduate and above,31249,31249,299,1396,20848,6824,1882
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one male graduate and above,28494,28494,255,1235,18978,6271,1755
+HH10,10,224,District - Bhagalpur,Urban,Households with at least one female graduate and above,14660,14660,44,537,9728,3327,1024
+HH10,10,225,District - Banka,Total,Households with atleast one member literate,308554,308307,2709,16789,201670,75977,11162
+HH10,10,225,District - Banka,Total,Households with No matriculate and above,262731,261877,6351,24595,166302,58203,6426
+HH10,10,225,District - Banka,Total,Households with at least one  matriculate and above,118262,118262,1151,6096,78382,27050,5583
+HH10,10,225,District - Banka,Total,Households with at least one male  matriculate and above,109201,109201,1023,5493,72329,25065,5291
+HH10,10,225,District - Banka,Total,Households with at least one female  matriculate and above,52072,52072,128,2058,35069,11949,2868
+HH10,10,225,District - Banka,Total,Households with at least one  graduate and above,25640,25640,336,1282,17066,5455,1501
+HH10,10,225,District - Banka,Total,Households with at least one male graduate and above,23603,23603,310,1160,15650,5073,1410
+HH10,10,225,District - Banka,Total,Households with at least one female graduate and above,6401,6401,26,264,4154,1463,494
+HH10,10,225,District - Banka,Rural,Households with atleast one member literate,296709,296468,2455,16072,193783,73414,10744
+HH10,10,225,District - Banka,Rural,Households with No matriculate and above,256067,255232,6109,23922,162130,56778,6293
+HH10,10,225,District - Banka,Rural,Households with at least one  matriculate and above,111354,111354,998,5713,73634,25730,5279
+HH10,10,225,District - Banka,Rural,Households with at least one male  matriculate and above,102808,102808,887,5150,67916,23854,5001
+HH10,10,225,District - Banka,Rural,Households with at least one female  matriculate and above,47718,47718,111,1891,32001,11078,2637
+HH10,10,225,District - Banka,Rural,Households with at least one  graduate and above,22706,22706,256,1148,15056,4905,1341
+HH10,10,225,District - Banka,Rural,Households with at least one male graduate and above,20914,20914,234,1051,13803,4569,1257
+HH10,10,225,District - Banka,Rural,Households with at least one female graduate and above,5314,5314,22,211,3437,1222,422
+HH10,10,225,District - Banka,Urban,Households with atleast one member literate,11845,11839,254,717,7887,2563,418
+HH10,10,225,District - Banka,Urban,Households with No matriculate and above,6664,6645,242,673,4172,1425,133
+HH10,10,225,District - Banka,Urban,Households with at least one  matriculate and above,6908,6908,153,383,4748,1320,304
+HH10,10,225,District - Banka,Urban,Households with at least one male  matriculate and above,6393,6393,136,343,4413,1211,290
+HH10,10,225,District - Banka,Urban,Households with at least one female  matriculate and above,4354,4354,17,167,3068,871,231
+HH10,10,225,District - Banka,Urban,Households with at least one  graduate and above,2934,2934,80,134,2010,550,160
+HH10,10,225,District - Banka,Urban,Households with at least one male graduate and above,2689,2689,76,109,1847,504,153
+HH10,10,225,District - Banka,Urban,Households with at least one female graduate and above,1087,1087,4,53,717,241,72
+HH10,10,226,District - Munger,Total,Households with atleast one member literate,228474,228252,2797,14998,152007,51880,6570
+HH10,10,226,District - Munger,Total,Households with No matriculate and above,131466,130787,4323,14373,82904,27208,1979
+HH10,10,226,District - Munger,Total,Households with at least one  matriculate and above,131187,131187,1428,7630,88918,28378,4833
+HH10,10,226,District - Munger,Total,Households with at least one male  matriculate and above,121022,121022,1192,6854,82053,26314,4609
+HH10,10,226,District - Munger,Total,Households with at least one female  matriculate and above,71611,71611,236,3124,48636,16248,3367
+HH10,10,226,District - Munger,Total,Households with at least one  graduate and above,36860,36860,443,1939,25122,7508,1848
+HH10,10,226,District - Munger,Total,Households with at least one male graduate and above,32732,32732,372,1720,22159,6779,1702
+HH10,10,226,District - Munger,Total,Households with at least one female graduate and above,13113,13113,71,522,8880,2814,826
+HH10,10,226,District - Munger,Rural,Households with atleast one member literate,162595,162450,1584,11167,108284,37346,4069
+HH10,10,226,District - Munger,Rural,Households with No matriculate and above,108800,108330,3274,12186,69003,22358,1509
+HH10,10,226,District - Munger,Rural,Households with at least one  matriculate and above,83065,83065,677,5148,56406,18087,2747
+HH10,10,226,District - Munger,Rural,Households with at least one male  matriculate and above,76974,76974,596,4660,52245,16832,2641
+HH10,10,226,District - Munger,Rural,Households with at least one female  matriculate and above,39469,39469,81,1893,26883,8907,1705
+HH10,10,226,District - Munger,Rural,Households with at least one  graduate and above,17689,17689,142,1030,12125,3562,830
+HH10,10,226,District - Munger,Rural,Households with at least one male graduate and above,15970,15970,130,930,10911,3235,764
+HH10,10,226,District - Munger,Rural,Households with at least one female graduate and above,4785,4785,12,196,3253,1018,306
+HH10,10,226,District - Munger,Urban,Households with atleast one member literate,65879,65802,1213,3831,43723,14534,2501
+HH10,10,226,District - Munger,Urban,Households with No matriculate and above,22666,22457,1049,2187,13901,4850,470
+HH10,10,226,District - Munger,Urban,Households with at least one  matriculate and above,48122,48122,751,2482,32512,10291,2086
+HH10,10,226,District - Munger,Urban,Households with at least one male  matriculate and above,44048,44048,596,2194,29808,9482,1968
+HH10,10,226,District - Munger,Urban,Households with at least one female  matriculate and above,32142,32142,155,1231,21753,7341,1662
+HH10,10,226,District - Munger,Urban,Households with at least one  graduate and above,19171,19171,301,909,12997,3946,1018
+HH10,10,226,District - Munger,Urban,Households with at least one male graduate and above,16762,16762,242,790,11248,3544,938
+HH10,10,226,District - Munger,Urban,Households with at least one female graduate and above,8328,8328,59,326,5627,1796,520
+HH10,10,227,District - Lakhisarai,Total,Households with atleast one member literate,137819,137593,1132,5123,75898,43867,11573
+HH10,10,227,District - Lakhisarai,Total,Households with No matriculate and above,93358,92549,2428,7252,51807,26476,4586
+HH10,10,227,District - Lakhisarai,Total,Households with at least one  matriculate and above,69720,69720,545,2193,38063,21425,7494
+HH10,10,227,District - Lakhisarai,Total,Households with at least one male  matriculate and above,64419,64419,474,1954,34848,19996,7147
+HH10,10,227,District - Lakhisarai,Total,Households with at least one female  matriculate and above,33041,33041,71,738,17944,10143,4145
+HH10,10,227,District - Lakhisarai,Total,Households with at least one  graduate and above,14876,14876,151,478,8130,4242,1875
+HH10,10,227,District - Lakhisarai,Total,Households with at least one male graduate and above,13453,13453,137,433,7276,3875,1732
+HH10,10,227,District - Lakhisarai,Total,Households with at least one female graduate and above,4204,4204,14,109,2293,1189,599
+HH10,10,227,District - Lakhisarai,Rural,Households with atleast one member literate,116545,116346,839,4216,63271,37918,10102
+HH10,10,227,District - Lakhisarai,Rural,Households with No matriculate and above,82474,81762,2077,6355,45582,23615,4133
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one  matriculate and above,56570,56570,372,1725,30216,17843,6414
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one male  matriculate and above,52398,52398,316,1536,27745,16686,6115
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one female  matriculate and above,25238,25238,56,548,13306,7937,3391
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one  graduate and above,10409,10409,85,317,5484,3101,1422
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one male graduate and above,9432,9432,79,288,4915,2842,1308
+HH10,10,227,District - Lakhisarai,Rural,Households with at least one female graduate and above,2634,2634,6,67,1407,744,410
+HH10,10,227,District - Lakhisarai,Urban,Households with atleast one member literate,21274,21247,293,907,12627,5949,1471
+HH10,10,227,District - Lakhisarai,Urban,Households with No matriculate and above,10884,10787,351,897,6225,2861,453
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one  matriculate and above,13150,13150,173,468,7847,3582,1080
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one male  matriculate and above,12021,12021,158,418,7103,3310,1032
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one female  matriculate and above,7803,7803,15,190,4638,2206,754
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one  graduate and above,4467,4467,66,161,2646,1141,453
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one male graduate and above,4021,4021,58,145,2361,1033,424
+HH10,10,227,District - Lakhisarai,Urban,Households with at least one female graduate and above,1570,1570,8,42,886,445,189
+HH10,10,228,District - Sheikhpura,Total,Households with atleast one member literate,85823,85646,866,3578,44102,28558,8542
+HH10,10,228,District - Sheikhpura,Total,Households with No matriculate and above,58120,57530,1787,4677,29892,17569,3605
+HH10,10,228,District - Sheikhpura,Total,Households with at least one  matriculate and above,42355,42355,396,1527,21631,13474,5327
+HH10,10,228,District - Sheikhpura,Total,Households with at least one male  matriculate and above,39418,39418,324,1383,19973,12642,5096
+HH10,10,228,District - Sheikhpura,Total,Households with at least one female  matriculate and above,19747,19747,72,453,10118,6318,2786
+HH10,10,228,District - Sheikhpura,Total,Households with at least one  graduate and above,10129,10129,121,371,5132,3024,1481
+HH10,10,228,District - Sheikhpura,Total,Households with at least one male graduate and above,9318,9318,107,341,4666,2808,1396
+HH10,10,228,District - Sheikhpura,Total,Households with at least one female graduate and above,2561,2561,14,73,1326,766,382
+HH10,10,228,District - Sheikhpura,Rural,Households with atleast one member literate,70175,70028,640,2951,35366,23813,7258
+HH10,10,228,District - Sheikhpura,Rural,Households with No matriculate and above,49992,49488,1544,4068,25488,15221,3167
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one  matriculate and above,32722,32722,250,1178,16172,10698,4424
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one male  matriculate and above,30490,30490,200,1074,14935,10042,4239
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one female  matriculate and above,14017,14017,50,296,6865,4618,2188
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one  graduate and above,6801,6801,53,239,3286,2086,1137
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one male graduate and above,6267,6267,47,223,2974,1946,1077
+HH10,10,228,District - Sheikhpura,Rural,Households with at least one female graduate and above,1489,1489,6,36,737,441,269
+HH10,10,228,District - Sheikhpura,Urban,Households with atleast one member literate,15648,15618,226,627,8736,4745,1284
+HH10,10,228,District - Sheikhpura,Urban,Households with No matriculate and above,8128,8042,243,609,4404,2348,438
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one  matriculate and above,9633,9633,146,349,5459,2776,903
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one male  matriculate and above,8928,8928,124,309,5038,2600,857
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one female  matriculate and above,5730,5730,22,157,3253,1700,598
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one  graduate and above,3328,3328,68,132,1846,938,344
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one male graduate and above,3051,3051,60,118,1692,862,319
+HH10,10,228,District - Sheikhpura,Urban,Households with at least one female graduate and above,1072,1072,8,37,589,325,113
+HH10,10,229,District - Nalanda,Total,Households with atleast one member literate,406265,405630,4212,19028,225862,123082,33446
+HH10,10,229,District - Nalanda,Total,Households with No matriculate and above,250540,248653,9088,23141,136381,68188,11855
+HH10,10,229,District - Nalanda,Total,Households with at least one  matriculate and above,226157,226157,1976,9084,125653,66265,23179
+HH10,10,229,District - Nalanda,Total,Households with at least one male  matriculate and above,211252,211252,1709,8225,116697,62337,22284
+HH10,10,229,District - Nalanda,Total,Households with at least one female  matriculate and above,114146,114146,267,2768,63326,33934,13851
+HH10,10,229,District - Nalanda,Total,Households with at least one  graduate and above,67574,67574,556,2342,37079,19089,8508
+HH10,10,229,District - Nalanda,Total,Households with at least one male graduate and above,62718,62718,509,2135,34194,17836,8044
+HH10,10,229,District - Nalanda,Total,Households with at least one female graduate and above,18821,18821,47,475,9859,5575,2865
+HH10,10,229,District - Nalanda,Rural,Households with atleast one member literate,338353,337834,3432,16116,186528,103607,28151
+HH10,10,229,District - Nalanda,Rural,Households with No matriculate and above,221223,219630,8136,20832,120013,60139,10510
+HH10,10,229,District - Nalanda,Rural,Households with at least one  matriculate and above,179935,179935,1492,7343,98628,53454,19018
+HH10,10,229,District - Nalanda,Rural,Households with at least one male  matriculate and above,168904,168904,1291,6688,91914,50623,18388
+HH10,10,229,District - Nalanda,Rural,Households with at least one female  matriculate and above,83627,83627,201,2011,45601,25159,10655
+HH10,10,229,District - Nalanda,Rural,Households with at least one  graduate and above,46195,46195,361,1618,24535,13354,6327
+HH10,10,229,District - Nalanda,Rural,Households with at least one male graduate and above,43092,43092,333,1500,22687,12566,6006
+HH10,10,229,District - Nalanda,Rural,Households with at least one female graduate and above,10879,10879,28,251,5481,3235,1884
+HH10,10,229,District - Nalanda,Urban,Households with atleast one member literate,67912,67796,780,2912,39334,19475,5295
+HH10,10,229,District - Nalanda,Urban,Households with No matriculate and above,29317,29023,952,2309,16368,8049,1345
+HH10,10,229,District - Nalanda,Urban,Households with at least one  matriculate and above,46222,46222,484,1741,27025,12811,4161
+HH10,10,229,District - Nalanda,Urban,Households with at least one male  matriculate and above,42348,42348,418,1537,24783,11714,3896
+HH10,10,229,District - Nalanda,Urban,Households with at least one female  matriculate and above,30519,30519,66,757,17725,8775,3196
+HH10,10,229,District - Nalanda,Urban,Households with at least one  graduate and above,21379,21379,195,724,12544,5735,2181
+HH10,10,229,District - Nalanda,Urban,Households with at least one male graduate and above,19626,19626,176,635,11507,5270,2038
+HH10,10,229,District - Nalanda,Urban,Households with at least one female graduate and above,7942,7942,19,224,4378,2340,981
+HH10,10,230,District - Patna,Total,Households with atleast one member literate,855855,854134,9350,38207,501194,238040,67343
+HH10,10,230,District - Patna,Total,Households with No matriculate and above,434549,429903,14542,36227,247179,111699,20256
+HH10,10,230,District - Patna,Total,Households with at least one  matriculate and above,536981,536981,4949,20800,316247,145162,49823
+HH10,10,230,District - Patna,Total,Households with at least one male  matriculate and above,497968,497968,3948,18437,292253,135590,47740
+HH10,10,230,District - Patna,Total,Households with at least one female  matriculate and above,330254,330254,1001,9480,196504,89515,33754
+HH10,10,230,District - Patna,Total,Households with at least one  graduate and above,239917,239917,2151,9296,146103,59354,23013
+HH10,10,230,District - Patna,Total,Households with at least one male graduate and above,219602,219602,1686,8166,132865,55066,21819
+HH10,10,230,District - Patna,Total,Households with at least one female graduate and above,110467,110467,465,3768,69024,26697,10513
+HH10,10,230,District - Patna,Rural,Households with atleast one member literate,455778,454829,4057,20817,251069,138795,40091
+HH10,10,230,District - Patna,Rural,Households with No matriculate and above,308449,305637,9786,27700,172163,81097,14891
+HH10,10,230,District - Patna,Rural,Households with at least one  matriculate and above,236050,236050,1594,8518,126599,71995,27344
+HH10,10,230,District - Patna,Rural,Households with at least one male  matriculate and above,220659,220659,1407,7710,117543,67662,26337
+HH10,10,230,District - Patna,Rural,Households with at least one female  matriculate and above,109409,109409,187,2306,56548,34702,15666
+HH10,10,230,District - Patna,Rural,Households with at least one  graduate and above,62951,62951,353,1767,32397,18907,9527
+HH10,10,230,District - Patna,Rural,Households with at least one male graduate and above,58753,58753,323,1621,30010,17713,9086
+HH10,10,230,District - Patna,Rural,Households with at least one female graduate and above,14649,14649,30,290,7072,4531,2726
+HH10,10,230,District - Patna,Urban,Households with atleast one member literate,400077,399305,5293,17390,250125,99245,27252
+HH10,10,230,District - Patna,Urban,Households with No matriculate and above,126100,124266,4756,8527,75016,30602,5365
+HH10,10,230,District - Patna,Urban,Households with at least one  matriculate and above,300931,300931,3355,12282,189648,73167,22479
+HH10,10,230,District - Patna,Urban,Households with at least one male  matriculate and above,277309,277309,2541,10727,174710,67928,21403
+HH10,10,230,District - Patna,Urban,Households with at least one female  matriculate and above,220845,220845,814,7174,139956,54813,18088
+HH10,10,230,District - Patna,Urban,Households with at least one  graduate and above,176966,176966,1798,7529,113706,40447,13486
+HH10,10,230,District - Patna,Urban,Households with at least one male graduate and above,160849,160849,1363,6545,102855,37353,12733
+HH10,10,230,District - Patna,Urban,Households with at least one female graduate and above,95818,95818,435,3478,61952,22166,7787
+HH10,10,231,District - Bhojpur,Total,Households with atleast one member literate,371263,370384,3889,16259,185280,119071,45885
+HH10,10,231,District - Bhojpur,Total,Households with No matriculate and above,203143,201051,8200,18328,107405,55030,12088
+HH10,10,231,District - Bhojpur,Total,Households with at least one  matriculate and above,211546,211546,1448,6611,99012,69823,34652
+HH10,10,231,District - Bhojpur,Total,Households with at least one male  matriculate and above,197859,197859,1245,5974,91533,65635,33472
+HH10,10,231,District - Bhojpur,Total,Households with at least one female  matriculate and above,98670,98670,203,1710,43795,33316,19646
+HH10,10,231,District - Bhojpur,Total,Households with at least one  graduate and above,64825,64825,386,1656,28992,20679,13112
+HH10,10,231,District - Bhojpur,Total,Households with at least one male graduate and above,60216,60216,347,1500,26702,19306,12361
+HH10,10,231,District - Bhojpur,Total,Households with at least one female graduate and above,18357,18357,39,350,8028,5894,4046
+HH10,10,231,District - Bhojpur,Rural,Households with atleast one member literate,317380,316612,3198,14210,157027,102499,39678
+HH10,10,231,District - Bhojpur,Rural,Households with No matriculate and above,181938,180132,7443,16790,96353,48839,10707
+HH10,10,231,District - Bhojpur,Rural,Households with at least one  matriculate and above,173752,173752,1070,5406,79221,58416,29639
+HH10,10,231,District - Bhojpur,Rural,Households with at least one male  matriculate and above,162760,162760,949,4912,73266,54951,28682
+HH10,10,231,District - Bhojpur,Rural,Households with at least one female  matriculate and above,73290,73290,121,1187,30754,25394,15834
+HH10,10,231,District - Bhojpur,Rural,Households with at least one  graduate and above,44872,44872,222,1120,18694,14668,10168
+HH10,10,231,District - Bhojpur,Rural,Households with at least one male graduate and above,41779,41779,207,1030,17296,13673,9573
+HH10,10,231,District - Bhojpur,Rural,Households with at least one female graduate and above,9713,9713,15,174,3700,3203,2621
+HH10,10,231,District - Bhojpur,Urban,Households with atleast one member literate,53883,53772,691,2049,28253,16572,6207
+HH10,10,231,District - Bhojpur,Urban,Households with No matriculate and above,21205,20919,757,1538,11052,6191,1381
+HH10,10,231,District - Bhojpur,Urban,Households with at least one  matriculate and above,37794,37794,378,1205,19791,11407,5013
+HH10,10,231,District - Bhojpur,Urban,Households with at least one male  matriculate and above,35099,35099,296,1062,18267,10684,4790
+HH10,10,231,District - Bhojpur,Urban,Households with at least one female  matriculate and above,25380,25380,82,523,13041,7922,3812
+HH10,10,231,District - Bhojpur,Urban,Households with at least one  graduate and above,19953,19953,164,536,10298,6011,2944
+HH10,10,231,District - Bhojpur,Urban,Households with at least one male graduate and above,18437,18437,140,470,9406,5633,2788
+HH10,10,231,District - Bhojpur,Urban,Households with at least one female graduate and above,8644,8644,24,176,4328,2691,1425
+HH10,10,232,District - Buxar,Total,Households with atleast one member literate,237041,236543,2494,10164,118947,77383,27555
+HH10,10,232,District - Buxar,Total,Households with No matriculate and above,126389,125135,4658,11020,67582,34861,7014
+HH10,10,232,District - Buxar,Total,Households with at least one  matriculate and above,134743,134743,1105,4511,63013,45227,20887
+HH10,10,232,District - Buxar,Total,Households with at least one male  matriculate and above,124997,124997,945,4063,57861,42122,20006
+HH10,10,232,District - Buxar,Total,Households with at least one female  matriculate and above,62518,62518,160,1243,27824,21529,11762
+HH10,10,232,District - Buxar,Total,Households with at least one  graduate and above,39268,39268,344,1145,17889,12398,7492
+HH10,10,232,District - Buxar,Total,Households with at least one male graduate and above,36059,36059,300,1036,16234,11491,6998
+HH10,10,232,District - Buxar,Total,Households with at least one female graduate and above,10942,10942,44,236,4925,3417,2320
+HH10,10,232,District - Buxar,Rural,Households with atleast one member literate,212431,211984,2047,9050,105533,69985,25369
+HH10,10,232,District - Buxar,Rural,Households with No matriculate and above,117202,116078,4233,10276,62652,32364,6553
+HH10,10,232,District - Buxar,Rural,Households with at least one  matriculate and above,117510,117510,856,3839,53649,40050,19116
+HH10,10,232,District - Buxar,Rural,Households with at least one male  matriculate and above,109252,109252,738,3461,49357,37368,18328
+HH10,10,232,District - Buxar,Rural,Households with at least one female  matriculate and above,51239,51239,118,971,21764,17973,10413
+HH10,10,232,District - Buxar,Rural,Households with at least one  graduate and above,30547,30547,229,842,13137,9859,6480
+HH10,10,232,District - Buxar,Rural,Households with at least one male graduate and above,28179,28179,202,771,11985,9151,6070
+HH10,10,232,District - Buxar,Rural,Households with at least one female graduate and above,7321,7321,27,140,3035,2325,1794
+HH10,10,232,District - Buxar,Urban,Households with atleast one member literate,24610,24559,447,1114,13414,7398,2186
+HH10,10,232,District - Buxar,Urban,Households with No matriculate and above,9187,9057,425,744,4930,2497,461
+HH10,10,232,District - Buxar,Urban,Households with at least one  matriculate and above,17233,17233,249,672,9364,5177,1771
+HH10,10,232,District - Buxar,Urban,Households with at least one male  matriculate and above,15745,15745,207,602,8504,4754,1678
+HH10,10,232,District - Buxar,Urban,Households with at least one female  matriculate and above,11279,11279,42,272,6060,3556,1349
+HH10,10,232,District - Buxar,Urban,Households with at least one  graduate and above,8721,8721,115,303,4752,2539,1012
+HH10,10,232,District - Buxar,Urban,Households with at least one male graduate and above,7880,7880,98,265,4249,2340,928
+HH10,10,232,District - Buxar,Urban,Households with at least one female graduate and above,3621,3621,17,96,1890,1092,526
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with atleast one member literate,224886,224154,1994,9206,110580,77268,25106
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with No matriculate and above,140341,138171,4890,12942,73464,39882,6993
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one  matriculate and above,109954,109954,652,2863,48569,39568,18302
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one male  matriculate and above,99454,99454,536,2487,43419,35772,17240
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one female  matriculate and above,50872,50872,116,858,20433,18603,10862
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one  graduate and above,33599,33599,195,762,13769,11543,7330
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one male graduate and above,30585,30585,172,673,12446,10547,6747
+HH10,10,233,District - Kaimur (Bhabua),Total,Households with at least one female graduate and above,9425,9425,23,162,3582,3187,2471
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with atleast one member literate,215297,214585,1866,8862,105366,74335,24156
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with No matriculate and above,137307,135194,4765,12684,71800,39101,6844
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one  matriculate and above,102828,102828,580,2665,44745,37348,17490
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one male  matriculate and above,92996,92996,475,2324,39975,33762,16460
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one female  matriculate and above,46244,46244,105,766,18103,17039,10231
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one  graduate and above,29873,29873,157,669,11827,10392,6828
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one male graduate and above,27200,27200,139,595,10693,9486,6287
+HH10,10,233,District - Kaimur (Bhabua),Rural,Households with at least one female graduate and above,7936,7936,18,129,2855,2707,2227
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with atleast one member literate,9589,9569,128,344,5214,2933,950
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with No matriculate and above,3034,2977,125,258,1664,781,149
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one  matriculate and above,7126,7126,72,198,3824,2220,812
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one male  matriculate and above,6458,6458,61,163,3444,2010,780
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one female  matriculate and above,4628,4628,11,92,2330,1564,631
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one  graduate and above,3726,3726,38,93,1942,1151,502
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one male graduate and above,3385,3385,33,78,1753,1061,460
+HH10,10,233,District - Kaimur (Bhabua),Urban,Households with at least one female graduate and above,1489,1489,5,33,727,480,244
+HH10,10,234,District - Rohtas,Total,Households with atleast one member literate,421899,421020,3726,17143,222376,132209,45566
+HH10,10,234,District - Rohtas,Total,Households with No matriculate and above,209318,207190,7224,18762,117367,54357,9480
+HH10,10,234,District - Rohtas,Total,Households with at least one  matriculate and above,249682,249682,1673,7467,122675,81367,36500
+HH10,10,234,District - Rohtas,Total,Households with at least one male  matriculate and above,230373,230373,1443,6687,112120,75279,34844
+HH10,10,234,District - Rohtas,Total,Households with at least one female  matriculate and above,131046,131046,230,2278,60250,44193,24095
+HH10,10,234,District - Rohtas,Total,Households with at least one  graduate and above,81696,81696,575,2015,37579,25591,15936
+HH10,10,234,District - Rohtas,Total,Households with at least one male graduate and above,74545,74545,522,1807,33954,23464,14798
+HH10,10,234,District - Rohtas,Total,Households with at least one female graduate and above,25862,25862,53,464,11310,8157,5878
+HH10,10,234,District - Rohtas,Rural,Households with atleast one member literate,357307,356545,2822,14368,185545,113646,40164
+HH10,10,234,District - Rohtas,Rural,Households with No matriculate and above,184867,183011,6305,16702,103632,47942,8430
+HH10,10,234,District - Rohtas,Rural,Households with at least one  matriculate and above,204304,204304,1120,5866,96873,68418,32027
+HH10,10,234,District - Rohtas,Rural,Households with at least one male  matriculate and above,188715,188715,960,5252,88522,63381,30600
+HH10,10,234,District - Rohtas,Rural,Households with at least one female  matriculate and above,100669,100669,160,1606,43233,35053,20617
+HH10,10,234,District - Rohtas,Rural,Households with at least one  graduate and above,59619,59619,321,1307,25119,19444,13428
+HH10,10,234,District - Rohtas,Rural,Households with at least one male graduate and above,54516,54516,296,1180,22718,17841,12481
+HH10,10,234,District - Rohtas,Rural,Households with at least one female graduate and above,16312,16312,25,244,6129,5313,4601
+HH10,10,234,District - Rohtas,Urban,Households with atleast one member literate,64592,64475,904,2775,36831,18563,5402
+HH10,10,234,District - Rohtas,Urban,Households with No matriculate and above,24451,24179,919,2060,13735,6415,1050
+HH10,10,234,District - Rohtas,Urban,Households with at least one  matriculate and above,45378,45378,553,1601,25802,12949,4473
+HH10,10,234,District - Rohtas,Urban,Households with at least one male  matriculate and above,41658,41658,483,1435,23598,11898,4244
+HH10,10,234,District - Rohtas,Urban,Households with at least one female  matriculate and above,30377,30377,70,672,17017,9140,3478
+HH10,10,234,District - Rohtas,Urban,Households with at least one  graduate and above,22077,22077,254,708,12460,6147,2508
+HH10,10,234,District - Rohtas,Urban,Households with at least one male graduate and above,20029,20029,226,627,11236,5623,2317
+HH10,10,234,District - Rohtas,Urban,Households with at least one female graduate and above,9550,9550,28,220,5181,2844,1277
+HH10,10,235,District - Aurangabad,Total,Households with atleast one member literate,354168,353257,3003,13764,181224,115769,39497
+HH10,10,235,District - Aurangabad,Total,Households with No matriculate and above,192225,189922,5961,16879,103470,53314,10298
+HH10,10,235,District - Aurangabad,Total,Households with at least one  matriculate and above,198659,198659,1289,5746,95095,66774,29755
+HH10,10,235,District - Aurangabad,Total,Households with at least one male  matriculate and above,184270,184270,1120,5149,87539,62007,28455
+HH10,10,235,District - Aurangabad,Total,Households with at least one female  matriculate and above,96706,96706,169,1684,43456,33362,18035
+HH10,10,235,District - Aurangabad,Total,Households with at least one  graduate and above,49336,49336,325,1178,22684,15721,9428
+HH10,10,235,District - Aurangabad,Total,Households with at least one male graduate and above,45818,45818,294,1068,20899,14669,8888
+HH10,10,235,District - Aurangabad,Total,Households with at least one female graduate and above,12818,12818,31,252,5677,4071,2787
+HH10,10,235,District - Aurangabad,Rural,Households with atleast one member literate,320259,319416,2535,12527,163229,105011,36114
+HH10,10,235,District - Aurangabad,Rural,Households with No matriculate and above,179518,177414,5501,15912,96771,49608,9622
+HH10,10,235,District - Aurangabad,Rural,Households with at least one  matriculate and above,174592,174592,986,5007,82464,59192,26943
+HH10,10,235,District - Aurangabad,Rural,Households with at least one male  matriculate and above,162218,162218,863,4497,75964,55087,25807
+HH10,10,235,District - Aurangabad,Rural,Households with at least one female  matriculate and above,80200,80200,123,1362,34992,27911,15812
+HH10,10,235,District - Aurangabad,Rural,Households with at least one  graduate and above,38563,38563,189,885,17048,12422,8019
+HH10,10,235,District - Aurangabad,Rural,Households with at least one male graduate and above,35945,35945,180,808,15779,11609,7569
+HH10,10,235,District - Aurangabad,Rural,Households with at least one female graduate and above,8544,8544,9,160,3491,2752,2132
+HH10,10,235,District - Aurangabad,Urban,Households with atleast one member literate,33909,33841,468,1237,17995,10758,3383
+HH10,10,235,District - Aurangabad,Urban,Households with No matriculate and above,12707,12508,460,967,6699,3706,676
+HH10,10,235,District - Aurangabad,Urban,Households with at least one  matriculate and above,24067,24067,303,739,12631,7582,2812
+HH10,10,235,District - Aurangabad,Urban,Households with at least one male  matriculate and above,22052,22052,257,652,11575,6920,2648
+HH10,10,235,District - Aurangabad,Urban,Households with at least one female  matriculate and above,16506,16506,46,322,8464,5451,2223
+HH10,10,235,District - Aurangabad,Urban,Households with at least one  graduate and above,10773,10773,136,293,5636,3299,1409
+HH10,10,235,District - Aurangabad,Urban,Households with at least one male graduate and above,9873,9873,114,260,5120,3060,1319
+HH10,10,235,District - Aurangabad,Urban,Households with at least one female graduate and above,4274,4274,22,92,2186,1319,655
+HH10,10,236,District - Gaya,Total,Households with atleast one member literate,584162,582724,4144,20815,304887,190529,62349
+HH10,10,236,District - Gaya,Total,Households with No matriculate and above,406892,403181,10197,32963,220759,115275,23987
+HH10,10,236,District - Gaya,Total,Households with at least one  matriculate and above,279120,279120,1677,7509,138149,91136,40649
+HH10,10,236,District - Gaya,Total,Households with at least one male  matriculate and above,254988,254988,1424,6616,125274,83319,38355
+HH10,10,236,District - Gaya,Total,Households with at least one female  matriculate and above,141449,141449,253,2591,67682,46806,24117
+HH10,10,236,District - Gaya,Total,Households with at least one  graduate and above,75483,75483,461,1828,37321,22774,13099
+HH10,10,236,District - Gaya,Total,Households with at least one male graduate and above,69350,69350,417,1610,33899,21035,12389
+HH10,10,236,District - Gaya,Total,Households with at least one female graduate and above,24208,24208,44,486,11882,7195,4601
+HH10,10,236,District - Gaya,Rural,Households with atleast one member literate,501052,499887,3105,17956,258943,166614,53269
+HH10,10,236,District - Gaya,Rural,Households with No matriculate and above,378797,375713,9265,31119,205065,107925,22339
+HH10,10,236,District - Gaya,Rural,Households with at least one  matriculate and above,218164,218164,1079,5740,104774,73527,33044
+HH10,10,236,District - Gaya,Rural,Households with at least one male  matriculate and above,199993,199993,925,5123,95379,67357,31209
+HH10,10,236,District - Gaya,Rural,Households with at least one female  matriculate and above,97919,97919,154,1690,44464,33715,17896
+HH10,10,236,District - Gaya,Rural,Households with at least one  graduate and above,44815,44815,217,1004,20763,14097,8734
+HH10,10,236,District - Gaya,Rural,Households with at least one male graduate and above,41829,41829,200,925,19211,13187,8306
+HH10,10,236,District - Gaya,Rural,Households with at least one female graduate and above,9954,9954,17,174,4402,3075,2286
+HH10,10,236,District - Gaya,Urban,Households with atleast one member literate,83110,82837,1039,2859,45944,23915,9080
+HH10,10,236,District - Gaya,Urban,Households with No matriculate and above,28095,27468,932,1844,15694,7350,1648
+HH10,10,236,District - Gaya,Urban,Households with at least one  matriculate and above,60956,60956,598,1769,33375,17609,7605
+HH10,10,236,District - Gaya,Urban,Households with at least one male  matriculate and above,54995,54995,499,1493,29895,15962,7146
+HH10,10,236,District - Gaya,Urban,Households with at least one female  matriculate and above,43530,43530,99,901,23218,13091,6221
+HH10,10,236,District - Gaya,Urban,Households with at least one  graduate and above,30668,30668,244,824,16558,8677,4365
+HH10,10,236,District - Gaya,Urban,Households with at least one male graduate and above,27521,27521,217,685,14688,7848,4083
+HH10,10,236,District - Gaya,Urban,Households with at least one female graduate and above,14254,14254,27,312,7480,4120,2315
+HH10,10,237,District - Nawada,Total,Households with atleast one member literate,278126,277447,2004,9041,137484,95792,33126
+HH10,10,237,District - Nawada,Total,Households with No matriculate and above,200654,198827,5254,15370,103087,60999,14117
+HH10,10,237,District - Nawada,Total,Households with at least one  matriculate and above,136857,136857,834,3465,64646,46807,21105
+HH10,10,237,District - Nawada,Total,Households with at least one male  matriculate and above,126138,126138,694,3086,59238,43084,20036
+HH10,10,237,District - Nawada,Total,Households with at least one female  matriculate and above,63891,63891,140,1048,29080,22031,11592
+HH10,10,237,District - Nawada,Total,Households with at least one  graduate and above,33020,33020,212,722,15431,10512,6143
+HH10,10,237,District - Nawada,Total,Households with at least one male graduate and above,30713,30713,188,647,14231,9834,5813
+HH10,10,237,District - Nawada,Total,Households with at least one female graduate and above,8546,8546,24,169,3906,2694,1753
+HH10,10,237,District - Nawada,Rural,Households with atleast one member literate,248251,247623,1704,8059,121457,86338,30065
+HH10,10,237,District - Nawada,Rural,Households with No matriculate and above,188116,186410,4854,14496,96422,57334,13304
+HH10,10,237,District - Nawada,Rural,Households with at least one  matriculate and above,116141,116141,656,2889,53552,40329,18715
+HH10,10,237,District - Nawada,Rural,Households with at least one male  matriculate and above,107221,107221,546,2587,49105,37205,17778
+HH10,10,237,District - Nawada,Rural,Households with at least one female  matriculate and above,49857,49857,110,787,21697,17510,9753
+HH10,10,237,District - Nawada,Rural,Households with at least one  graduate and above,23899,23899,132,494,10515,7786,4972
+HH10,10,237,District - Nawada,Rural,Households with at least one male graduate and above,22405,22405,119,457,9796,7326,4707
+HH10,10,237,District - Nawada,Rural,Households with at least one female graduate and above,4954,4954,13,79,2062,1566,1234
+HH10,10,237,District - Nawada,Urban,Households with atleast one member literate,29875,29824,300,982,16027,9454,3061
+HH10,10,237,District - Nawada,Urban,Households with No matriculate and above,12538,12417,400,874,6665,3665,813
+HH10,10,237,District - Nawada,Urban,Households with at least one  matriculate and above,20716,20716,178,576,11094,6478,2390
+HH10,10,237,District - Nawada,Urban,Households with at least one male  matriculate and above,18917,18917,148,499,10133,5879,2258
+HH10,10,237,District - Nawada,Urban,Households with at least one female  matriculate and above,14034,14034,30,261,7383,4521,1839
+HH10,10,237,District - Nawada,Urban,Households with at least one  graduate and above,9121,9121,80,228,4916,2726,1171
+HH10,10,237,District - Nawada,Urban,Households with at least one male graduate and above,8308,8308,69,190,4435,2508,1106
+HH10,10,237,District - Nawada,Urban,Households with at least one female graduate and above,3592,3592,11,90,1844,1128,519
+HH10,10,238,District - Jamui,Total,Households with atleast one member literate,256123,255625,1905,12315,152463,71559,17383
+HH10,10,238,District - Jamui,Total,Households with No matriculate and above,211893,210486,5053,20322,126108,50337,8666
+HH10,10,238,District - Jamui,Total,Households with at least one  matriculate and above,94865,94865,725,3599,54285,26854,9402
+HH10,10,238,District - Jamui,Total,Households with at least one male  matriculate and above,87905,87905,628,3241,50217,24895,8924
+HH10,10,238,District - Jamui,Total,Households with at least one female  matriculate and above,38078,38078,97,1151,21317,10969,4544
+HH10,10,238,District - Jamui,Total,Households with at least one  graduate and above,18257,18257,234,676,10338,4775,2234
+HH10,10,238,District - Jamui,Total,Households with at least one male graduate and above,16925,16925,212,604,9540,4463,2106
+HH10,10,238,District - Jamui,Total,Households with at least one female graduate and above,4593,4593,22,162,2570,1204,635
+HH10,10,238,District - Jamui,Rural,Households with atleast one member literate,233534,233077,1554,11238,138865,65649,15771
+HH10,10,238,District - Jamui,Rural,Households with No matriculate and above,200354,199066,4733,19296,119369,47495,8173
+HH10,10,238,District - Jamui,Rural,Households with at least one  matriculate and above,81580,81580,505,3084,46189,23545,8257
+HH10,10,238,District - Jamui,Rural,Households with at least one male  matriculate and above,75663,75663,426,2794,42753,21855,7835
+HH10,10,238,District - Jamui,Rural,Households with at least one female  matriculate and above,30117,30117,79,932,16498,8878,3730
+HH10,10,238,District - Jamui,Rural,Households with at least one  graduate and above,13471,13471,132,501,7422,3653,1763
+HH10,10,238,District - Jamui,Rural,Households with at least one male graduate and above,12580,12580,116,450,6902,3441,1671
+HH10,10,238,District - Jamui,Rural,Households with at least one female graduate and above,2830,2830,16,106,1504,770,434
+HH10,10,238,District - Jamui,Urban,Households with atleast one member literate,22589,22548,351,1077,13598,5910,1612
+HH10,10,238,District - Jamui,Urban,Households with No matriculate and above,11539,11420,320,1026,6739,2842,493
+HH10,10,238,District - Jamui,Urban,Households with at least one  matriculate and above,13285,13285,220,515,8096,3309,1145
+HH10,10,238,District - Jamui,Urban,Households with at least one male  matriculate and above,12242,12242,202,447,7464,3040,1089
+HH10,10,238,District - Jamui,Urban,Households with at least one female  matriculate and above,7961,7961,18,219,4819,2091,814
+HH10,10,238,District - Jamui,Urban,Households with at least one  graduate and above,4786,4786,102,175,2916,1122,471
+HH10,10,238,District - Jamui,Urban,Households with at least one male graduate and above,4345,4345,96,154,2638,1022,435
+HH10,10,238,District - Jamui,Urban,Households with at least one female graduate and above,1763,1763,6,56,1066,434,201
+HH10,10,239,District - Jehanabad,Total,Households with atleast one member literate,158756,158414,1475,6532,85575,49847,14985
+HH10,10,239,District - Jehanabad,Total,Households with No matriculate and above,85823,84927,2954,8217,48089,22129,3538
+HH10,10,239,District - Jehanabad,Total,Households with at least one  matriculate and above,95631,95631,684,3100,49486,30561,11800
+HH10,10,239,District - Jehanabad,Total,Households with at least one male  matriculate and above,89877,89877,591,2827,46023,28966,11470
+HH10,10,239,District - Jehanabad,Total,Households with at least one female  matriculate and above,45199,45199,93,850,22182,15071,7003
+HH10,10,239,District - Jehanabad,Total,Households with at least one  graduate and above,24247,24247,144,648,11868,7598,3989
+HH10,10,239,District - Jehanabad,Total,Households with at least one male graduate and above,22604,22604,133,595,11002,7087,3787
+HH10,10,239,District - Jehanabad,Total,Households with at least one female graduate and above,6323,6323,11,112,2925,2068,1207
+HH10,10,239,District - Jehanabad,Rural,Households with atleast one member literate,139000,138715,1258,5840,74309,44057,13251
+HH10,10,239,District - Jehanabad,Rural,Households with No matriculate and above,78184,77410,2733,7617,43674,20152,3234
+HH10,10,239,District - Jehanabad,Rural,Households with at least one  matriculate and above,81500,81500,550,2685,41521,26412,10332
+HH10,10,239,District - Jehanabad,Rural,Households with at least one male  matriculate and above,76825,76825,480,2461,38730,25103,10051
+HH10,10,239,District - Jehanabad,Rural,Households with at least one female  matriculate and above,36051,36051,70,691,17142,12227,5921
+HH10,10,239,District - Jehanabad,Rural,Households with at least one  graduate and above,18401,18401,95,504,8621,5916,3265
+HH10,10,239,District - Jehanabad,Rural,Households with at least one male graduate and above,17216,17216,90,460,8035,5526,3105
+HH10,10,239,District - Jehanabad,Rural,Households with at least one female graduate and above,4262,4262,5,85,1797,1436,939
+HH10,10,239,District - Jehanabad,Urban,Households with atleast one member literate,19756,19699,217,692,11266,5790,1734
+HH10,10,239,District - Jehanabad,Urban,Households with No matriculate and above,7639,7517,221,600,4415,1977,304
+HH10,10,239,District - Jehanabad,Urban,Households with at least one  matriculate and above,14131,14131,134,415,7965,4149,1468
+HH10,10,239,District - Jehanabad,Urban,Households with at least one male  matriculate and above,13052,13052,111,366,7293,3863,1419
+HH10,10,239,District - Jehanabad,Urban,Households with at least one female  matriculate and above,9148,9148,23,159,5040,2844,1082
+HH10,10,239,District - Jehanabad,Urban,Households with at least one  graduate and above,5846,5846,49,144,3247,1682,724
+HH10,10,239,District - Jehanabad,Urban,Households with at least one male graduate and above,5388,5388,43,135,2967,1561,682
+HH10,10,239,District - Jehanabad,Urban,Households with at least one female graduate and above,2061,2061,6,27,1128,632,268
+HH10,10,240,District - Arwal,Total,Households with atleast one member literate,104699,104500,1039,5057,58836,31736,7832
+HH10,10,240,District - Arwal,Total,Households with No matriculate and above,56233,55610,2277,5733,31874,13798,1928
+HH10,10,240,District - Arwal,Total,Households with at least one  matriculate and above,61900,61900,467,2405,33585,19400,6043
+HH10,10,240,District - Arwal,Total,Households with at least one male  matriculate and above,57994,57994,418,2186,31241,18331,5818
+HH10,10,240,District - Arwal,Total,Households with at least one female  matriculate and above,27608,27608,49,671,14338,8988,3562
+HH10,10,240,District - Arwal,Total,Households with at least one  graduate and above,13251,13251,115,432,6912,3988,1804
+HH10,10,240,District - Arwal,Total,Households with at least one male graduate and above,12394,12394,110,398,6425,3748,1713
+HH10,10,240,District - Arwal,Total,Households with at least one female graduate and above,2700,2700,5,67,1335,833,460
+HH10,10,240,District - Arwal,Rural,Households with atleast one member literate,96922,96746,972,4722,54610,29230,7212
+HH10,10,240,District - Arwal,Rural,Households with No matriculate and above,52609,52059,2150,5413,29804,12877,1815
+HH10,10,240,District - Arwal,Rural,Households with at least one  matriculate and above,57079,57079,440,2259,31107,17743,5530
+HH10,10,240,District - Arwal,Rural,Households with at least one male  matriculate and above,53589,53589,395,2058,28995,16801,5340
+HH10,10,240,District - Arwal,Rural,Households with at least one female  matriculate and above,25145,25145,45,610,13156,8106,3228
+HH10,10,240,District - Arwal,Rural,Households with at least one  graduate and above,12117,12117,104,398,6345,3621,1649
+HH10,10,240,District - Arwal,Rural,Households with at least one male graduate and above,11328,11328,99,368,5896,3405,1560
+HH10,10,240,District - Arwal,Rural,Households with at least one female graduate and above,2445,2445,5,60,1202,752,426
+HH10,10,240,District - Arwal,Urban,Households with atleast one member literate,7777,7754,67,335,4226,2506,620
+HH10,10,240,District - Arwal,Urban,Households with No matriculate and above,3624,3551,127,320,2070,921,113
+HH10,10,240,District - Arwal,Urban,Households with at least one  matriculate and above,4821,4821,27,146,2478,1657,513
+HH10,10,240,District - Arwal,Urban,Households with at least one male  matriculate and above,4405,4405,23,128,2246,1530,478
+HH10,10,240,District - Arwal,Urban,Households with at least one female  matriculate and above,2463,2463,4,61,1182,882,334
+HH10,10,240,District - Arwal,Urban,Households with at least one  graduate and above,1134,1134,11,34,567,367,155
+HH10,10,240,District - Arwal,Urban,Households with at least one male graduate and above,1066,1066,11,30,529,343,153
+HH10,10,240,District - Arwal,Urban,Households with at least one female graduate and above,255,255,0,7,133,81,34
+Notes: 1. This table excludes institutional households.,,,,,,,,,,,,
+           2. Household size refers to number of persons in a household.,,,,,,,,,,,,

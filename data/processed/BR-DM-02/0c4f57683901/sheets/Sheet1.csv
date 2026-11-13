@@ -1,0 +1,943 @@
+Table - 6 ST :SCHEDULED TRIBE FEMALE HEADED HOUSEHOLDS BY AVAILABILITY OF SEPARATE KITCHEN AND TYPE OF FUEL USED FOR COOKING,,,,,,,,,,,,,,,,
+ (Excluding Institutional Households),,,,,,,,,,,,,,,,
+Table Name,State Code,District Code,Area Name,"Total/
+Rural/
+Urban",Availability of separate kitchen ,Total number of households,Type of Fuel used for Cooking,,,,,,,,,
+,,,,,,,Fire-wood,Crop residue,Cowdung cake,"Coal,Lignite,Charcoal",Kerosene,LPG/PNG,Electricity,Biogas,Any other,No cooking
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+HH3911T,10,000,STATE - BIHAR,Total,Total,36865,14071,14876,4719,444,102,1941,59,101,454,98
+HH3911T,10,000,STATE - BIHAR,Total,Cooking inside house:,27716,11749,9326,3889,365,91,1886,44,81,285,0
+HH3911T,10,000,STATE - BIHAR,Total,Has Kitchen,8000,2958,2616,730,113,33,1430,17,40,63,0
+HH3911T,10,000,STATE - BIHAR,Total,Does not have kitchen,19716,8791,6710,3159,252,58,456,27,41,222,0
+HH3911T,10,000,STATE - BIHAR,Total,Cooking outside house:,9051,2322,5550,830,79,11,55,15,20,169,0
+HH3911T,10,000,STATE - BIHAR,Total,Has Kitchen,4567,1080,2907,379,42,4,31,6,12,106,0
+HH3911T,10,000,STATE - BIHAR,Total,Does not have kitchen,4484,1242,2643,451,37,7,24,9,8,63,0
+HH3911T,10,000,STATE - BIHAR,Total,No Cooking,98,0,0,0,0,0,0,0,0,0,98
+HH3911T,10,000,STATE - BIHAR,Rural,Total,32788,12732,14337,4448,153,53,435,49,83,425,73
+HH3911T,10,000,STATE - BIHAR,Rural,Cooking inside house:,24229,10673,8958,3674,105,46,411,34,66,262,0
+HH3911T,10,000,STATE - BIHAR,Rural,Has Kitchen,6233,2634,2490,692,22,19,277,11,28,60,0
+HH3911T,10,000,STATE - BIHAR,Rural,Does not have kitchen,17996,8039,6468,2982,83,27,134,23,38,202,0
+HH3911T,10,000,STATE - BIHAR,Rural,Cooking outside house:,8486,2059,5379,774,48,7,24,15,17,163,0
+HH3911T,10,000,STATE - BIHAR,Rural,Has Kitchen,4331,977,2838,356,29,1,10,6,11,103,0
+HH3911T,10,000,STATE - BIHAR,Rural,Does not have kitchen,4155,1082,2541,418,19,6,14,9,6,60,0
+HH3911T,10,000,STATE - BIHAR,Rural,No Cooking,73,0,0,0,0,0,0,0,0,0,73
+HH3911T,10,000,STATE - BIHAR,Urban,Total,4077,1339,539,271,291,49,1506,10,18,29,25
+HH3911T,10,000,STATE - BIHAR,Urban,Cooking inside house:,3487,1076,368,215,260,45,1475,10,15,23,0
+HH3911T,10,000,STATE - BIHAR,Urban,Has Kitchen,1767,324,126,38,91,14,1153,6,12,3,0
+HH3911T,10,000,STATE - BIHAR,Urban,Does not have kitchen,1720,752,242,177,169,31,322,4,3,20,0
+HH3911T,10,000,STATE - BIHAR,Urban,Cooking outside house:,565,263,171,56,31,4,31,0,3,6,0
+HH3911T,10,000,STATE - BIHAR,Urban,Has Kitchen,236,103,69,23,13,3,21,0,1,3,0
+HH3911T,10,000,STATE - BIHAR,Urban,Does not have kitchen,329,160,102,33,18,1,10,0,2,3,0
+HH3911T,10,000,STATE - BIHAR,Urban,No Cooking,25,0,0,0,0,0,0,0,0,0,25
+HH3911T,10,203,District - Pashchim Champaran,Total,Total,2644,1728,602,234,3,1,60,1,2,7,6
+HH3911T,10,203,District - Pashchim Champaran,Total,Cooking inside house:,2454,1605,558,223,1,1,59,0,1,6,0
+HH3911T,10,203,District - Pashchim Champaran,Total,Has Kitchen,738,498,107,85,1,1,42,0,1,3,0
+HH3911T,10,203,District - Pashchim Champaran,Total,Does not have kitchen,1716,1107,451,138,0,0,17,0,0,3,0
+HH3911T,10,203,District - Pashchim Champaran,Total,Cooking outside house:,184,123,44,11,2,0,1,1,1,1,0
+HH3911T,10,203,District - Pashchim Champaran,Total,Has Kitchen,95,62,23,6,2,0,1,1,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Total,Does not have kitchen,89,61,21,5,0,0,0,0,1,1,0
+HH3911T,10,203,District - Pashchim Champaran,Total,No Cooking,6,0,0,0,0,0,0,0,0,0,6
+HH3911T,10,203,District - Pashchim Champaran,Rural,Total,2406,1606,579,200,1,0,6,1,2,7,4
+HH3911T,10,203,District - Pashchim Champaran,Rural,Cooking inside house:,2234,1496,536,189,0,0,6,0,1,6,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,Has Kitchen,672,478,102,83,0,0,5,0,1,3,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,Does not have kitchen,1562,1018,434,106,0,0,1,0,0,3,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,Cooking outside house:,168,110,43,11,1,0,0,1,1,1,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,Has Kitchen,87,57,22,6,1,0,0,1,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,Does not have kitchen,81,53,21,5,0,0,0,0,1,1,0
+HH3911T,10,203,District - Pashchim Champaran,Rural,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,203,District - Pashchim Champaran,Urban,Total,238,122,23,34,2,1,54,0,0,0,2
+HH3911T,10,203,District - Pashchim Champaran,Urban,Cooking inside house:,220,109,22,34,1,1,53,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,Has Kitchen,66,20,5,2,1,1,37,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,Does not have kitchen,154,89,17,32,0,0,16,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,Cooking outside house:,16,13,1,0,1,0,1,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,Has Kitchen,8,5,1,0,1,0,1,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,Does not have kitchen,8,8,0,0,0,0,0,0,0,0,0
+HH3911T,10,203,District - Pashchim Champaran,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,204,District - Purba Champaran,Total,Total,518,204,228,58,1,0,18,1,2,2,4
+HH3911T,10,204,District - Purba Champaran,Total,Cooking inside house:,450,180,209,41,0,0,18,1,1,0,0
+HH3911T,10,204,District - Purba Champaran,Total,Has Kitchen,108,59,25,8,0,0,15,0,1,0,0
+HH3911T,10,204,District - Purba Champaran,Total,Does not have kitchen,342,121,184,33,0,0,3,1,0,0,0
+HH3911T,10,204,District - Purba Champaran,Total,Cooking outside house:,64,24,19,17,1,0,0,0,1,2,0
+HH3911T,10,204,District - Purba Champaran,Total,Has Kitchen,22,12,6,1,1,0,0,0,1,1,0
+HH3911T,10,204,District - Purba Champaran,Total,Does not have kitchen,42,12,13,16,0,0,0,0,0,1,0
+HH3911T,10,204,District - Purba Champaran,Total,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,204,District - Purba Champaran,Rural,Total,452,179,209,51,1,0,7,1,2,2,0
+HH3911T,10,204,District - Purba Champaran,Rural,Cooking inside house:,392,159,190,34,0,0,7,1,1,0,0
+HH3911T,10,204,District - Purba Champaran,Rural,Has Kitchen,83,50,22,4,0,0,6,0,1,0,0
+HH3911T,10,204,District - Purba Champaran,Rural,Does not have kitchen,309,109,168,30,0,0,1,1,0,0,0
+HH3911T,10,204,District - Purba Champaran,Rural,Cooking outside house:,60,20,19,17,1,0,0,0,1,2,0
+HH3911T,10,204,District - Purba Champaran,Rural,Has Kitchen,18,8,6,1,1,0,0,0,1,1,0
+HH3911T,10,204,District - Purba Champaran,Rural,Does not have kitchen,42,12,13,16,0,0,0,0,0,1,0
+HH3911T,10,204,District - Purba Champaran,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Total,66,25,19,7,0,0,11,0,0,0,4
+HH3911T,10,204,District - Purba Champaran,Urban,Cooking inside house:,58,21,19,7,0,0,11,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Has Kitchen,25,9,3,4,0,0,9,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Does not have kitchen,33,12,16,3,0,0,2,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Cooking outside house:,4,4,0,0,0,0,0,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Has Kitchen,4,4,0,0,0,0,0,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,204,District - Purba Champaran,Urban,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,205,District - Sheohar,Total,Total,81,22,44,11,0,0,1,0,1,2,0
+HH3911T,10,205,District - Sheohar,Total,Cooking inside house:,78,21,42,11,0,0,1,0,1,2,0
+HH3911T,10,205,District - Sheohar,Total,Has Kitchen,13,8,3,0,0,0,1,0,1,0,0
+HH3911T,10,205,District - Sheohar,Total,Does not have kitchen,65,13,39,11,0,0,0,0,0,2,0
+HH3911T,10,205,District - Sheohar,Total,Cooking outside house:,3,1,2,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Total,Has Kitchen,2,0,2,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Total,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Rural,Total,75,20,42,11,0,0,0,0,0,2,0
+HH3911T,10,205,District - Sheohar,Rural,Cooking inside house:,72,19,40,11,0,0,0,0,0,2,0
+HH3911T,10,205,District - Sheohar,Rural,Has Kitchen,10,8,2,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Rural,Does not have kitchen,62,11,38,11,0,0,0,0,0,2,0
+HH3911T,10,205,District - Sheohar,Rural,Cooking outside house:,3,1,2,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Rural,Has Kitchen,2,0,2,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Rural,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Urban,Total,6,2,2,0,0,0,1,0,1,0,0
+HH3911T,10,205,District - Sheohar,Urban,Cooking inside house:,6,2,2,0,0,0,1,0,1,0,0
+HH3911T,10,205,District - Sheohar,Urban,Has Kitchen,3,0,1,0,0,0,1,0,1,0,0
+HH3911T,10,205,District - Sheohar,Urban,Does not have kitchen,3,2,1,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,205,District - Sheohar,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Total,Total,366,127,163,49,0,0,19,0,0,7,1
+HH3911T,10,206,District - Sitamarhi,Total,Cooking inside house:,309,109,132,43,0,0,19,0,0,6,0
+HH3911T,10,206,District - Sitamarhi,Total,Has Kitchen,111,26,61,10,0,0,13,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Total,Does not have kitchen,198,83,71,33,0,0,6,0,0,5,0
+HH3911T,10,206,District - Sitamarhi,Total,Cooking outside house:,56,18,31,6,0,0,0,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Total,Has Kitchen,29,9,17,3,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Total,Does not have kitchen,27,9,14,3,0,0,0,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,206,District - Sitamarhi,Rural,Total,353,124,162,48,0,0,11,0,0,7,1
+HH3911T,10,206,District - Sitamarhi,Rural,Cooking inside house:,296,106,131,42,0,0,11,0,0,6,0
+HH3911T,10,206,District - Sitamarhi,Rural,Has Kitchen,103,26,61,9,0,0,6,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Rural,Does not have kitchen,193,80,70,33,0,0,5,0,0,5,0
+HH3911T,10,206,District - Sitamarhi,Rural,Cooking outside house:,56,18,31,6,0,0,0,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Rural,Has Kitchen,29,9,17,3,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Rural,Does not have kitchen,27,9,14,3,0,0,0,0,0,1,0
+HH3911T,10,206,District - Sitamarhi,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,206,District - Sitamarhi,Urban,Total,13,3,1,1,0,0,8,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Cooking inside house:,13,3,1,1,0,0,8,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Has Kitchen,8,0,0,1,0,0,7,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Does not have kitchen,5,3,1,0,0,0,1,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,206,District - Sitamarhi,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,207,District - Madhubani,Total,Total,665,345,139,126,4,3,29,2,1,13,3
+HH3911T,10,207,District - Madhubani,Total,Cooking inside house:,482,263,95,83,2,2,26,2,0,9,0
+HH3911T,10,207,District - Madhubani,Total,Has Kitchen,202,112,27,34,0,2,21,2,0,4,0
+HH3911T,10,207,District - Madhubani,Total,Does not have kitchen,280,151,68,49,2,0,5,0,0,5,0
+HH3911T,10,207,District - Madhubani,Total,Cooking outside house:,180,82,44,43,2,1,3,0,1,4,0
+HH3911T,10,207,District - Madhubani,Total,Has Kitchen,80,33,19,23,1,0,1,0,0,3,0
+HH3911T,10,207,District - Madhubani,Total,Does not have kitchen,100,49,25,20,1,1,2,0,1,1,0
+HH3911T,10,207,District - Madhubani,Total,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,207,District - Madhubani,Rural,Total,635,328,139,125,4,3,17,2,1,13,3
+HH3911T,10,207,District - Madhubani,Rural,Cooking inside house:,455,249,95,82,2,2,14,2,0,9,0
+HH3911T,10,207,District - Madhubani,Rural,Has Kitchen,188,108,27,34,0,2,11,2,0,4,0
+HH3911T,10,207,District - Madhubani,Rural,Does not have kitchen,267,141,68,48,2,0,3,0,0,5,0
+HH3911T,10,207,District - Madhubani,Rural,Cooking outside house:,177,79,44,43,2,1,3,0,1,4,0
+HH3911T,10,207,District - Madhubani,Rural,Has Kitchen,79,32,19,23,1,0,1,0,0,3,0
+HH3911T,10,207,District - Madhubani,Rural,Does not have kitchen,98,47,25,20,1,1,2,0,1,1,0
+HH3911T,10,207,District - Madhubani,Rural,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,207,District - Madhubani,Urban,Total,30,17,0,1,0,0,12,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Cooking inside house:,27,14,0,1,0,0,12,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Has Kitchen,14,4,0,0,0,0,10,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Does not have kitchen,13,10,0,1,0,0,2,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Cooking outside house:,3,3,0,0,0,0,0,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Has Kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,Does not have kitchen,2,2,0,0,0,0,0,0,0,0,0
+HH3911T,10,207,District - Madhubani,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,208,District - Supaul,Total,Total,347,73,154,74,0,4,8,3,0,30,1
+HH3911T,10,208,District - Supaul,Total,Cooking inside house:,220,52,107,32,0,4,7,2,0,16,0
+HH3911T,10,208,District - Supaul,Total,Has Kitchen,126,31,57,17,0,3,3,2,0,13,0
+HH3911T,10,208,District - Supaul,Total,Does not have kitchen,94,21,50,15,0,1,4,0,0,3,0
+HH3911T,10,208,District - Supaul,Total,Cooking outside house:,126,21,47,42,0,0,1,1,0,14,0
+HH3911T,10,208,District - Supaul,Total,Has Kitchen,80,12,31,24,0,0,0,1,0,12,0
+HH3911T,10,208,District - Supaul,Total,Does not have kitchen,46,9,16,18,0,0,1,0,0,2,0
+HH3911T,10,208,District - Supaul,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,208,District - Supaul,Rural,Total,339,71,153,72,0,4,5,3,0,30,1
+HH3911T,10,208,District - Supaul,Rural,Cooking inside house:,214,51,106,30,0,4,5,2,0,16,0
+HH3911T,10,208,District - Supaul,Rural,Has Kitchen,124,31,57,17,0,3,1,2,0,13,0
+HH3911T,10,208,District - Supaul,Rural,Does not have kitchen,90,20,49,13,0,1,4,0,0,3,0
+HH3911T,10,208,District - Supaul,Rural,Cooking outside house:,124,20,47,42,0,0,0,1,0,14,0
+HH3911T,10,208,District - Supaul,Rural,Has Kitchen,79,11,31,24,0,0,0,1,0,12,0
+HH3911T,10,208,District - Supaul,Rural,Does not have kitchen,45,9,16,18,0,0,0,0,0,2,0
+HH3911T,10,208,District - Supaul,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,208,District - Supaul,Urban,Total,8,2,1,2,0,0,3,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Cooking inside house:,6,1,1,2,0,0,2,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Has Kitchen,2,0,0,0,0,0,2,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Does not have kitchen,4,1,1,2,0,0,0,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Cooking outside house:,2,1,0,0,0,0,1,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Has Kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,Does not have kitchen,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,208,District - Supaul,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,209,District - Araria,Total,Total,1036,150,797,52,1,1,15,1,6,12,1
+HH3911T,10,209,District - Araria,Total,Cooking inside house:,502,86,371,27,0,0,15,1,1,1,0
+HH3911T,10,209,District - Araria,Total,Has Kitchen,248,46,175,15,0,0,10,1,1,0,0
+HH3911T,10,209,District - Araria,Total,Does not have kitchen,254,40,196,12,0,0,5,0,0,1,0
+HH3911T,10,209,District - Araria,Total,Cooking outside house:,533,64,426,25,1,1,0,0,5,11,0
+HH3911T,10,209,District - Araria,Total,Has Kitchen,310,36,249,18,1,0,0,0,5,1,0
+HH3911T,10,209,District - Araria,Total,Does not have kitchen,223,28,177,7,0,1,0,0,0,10,0
+HH3911T,10,209,District - Araria,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,209,District - Araria,Rural,Total,1011,136,795,52,1,1,6,1,6,12,1
+HH3911T,10,209,District - Araria,Rural,Cooking inside house:,482,76,370,27,0,0,6,1,1,1,0
+HH3911T,10,209,District - Araria,Rural,Has Kitchen,237,43,174,15,0,0,3,1,1,0,0
+HH3911T,10,209,District - Araria,Rural,Does not have kitchen,245,33,196,12,0,0,3,0,0,1,0
+HH3911T,10,209,District - Araria,Rural,Cooking outside house:,528,60,425,25,1,1,0,0,5,11,0
+HH3911T,10,209,District - Araria,Rural,Has Kitchen,308,34,249,18,1,0,0,0,5,1,0
+HH3911T,10,209,District - Araria,Rural,Does not have kitchen,220,26,176,7,0,1,0,0,0,10,0
+HH3911T,10,209,District - Araria,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,209,District - Araria,Urban,Total,25,14,2,0,0,0,9,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Cooking inside house:,20,10,1,0,0,0,9,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Has Kitchen,11,3,1,0,0,0,7,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Does not have kitchen,9,7,0,0,0,0,2,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Cooking outside house:,5,4,1,0,0,0,0,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Has Kitchen,2,2,0,0,0,0,0,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,Does not have kitchen,3,2,1,0,0,0,0,0,0,0,0
+HH3911T,10,209,District - Araria,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,210,District - Kishanganj,Total,Total,1938,409,1352,76,2,1,14,1,1,78,4
+HH3911T,10,210,District - Kishanganj,Total,Cooking inside house:,955,233,644,37,1,1,13,1,1,24,0
+HH3911T,10,210,District - Kishanganj,Total,Has Kitchen,538,150,350,12,0,1,9,1,0,15,0
+HH3911T,10,210,District - Kishanganj,Total,Does not have kitchen,417,83,294,25,1,0,4,0,1,9,0
+HH3911T,10,210,District - Kishanganj,Total,Cooking outside house:,979,176,708,39,1,0,1,0,0,54,0
+HH3911T,10,210,District - Kishanganj,Total,Has Kitchen,735,146,512,27,1,0,1,0,0,48,0
+HH3911T,10,210,District - Kishanganj,Total,Does not have kitchen,244,30,196,12,0,0,0,0,0,6,0
+HH3911T,10,210,District - Kishanganj,Total,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,210,District - Kishanganj,Rural,Total,1846,378,1310,72,2,1,0,1,0,78,4
+HH3911T,10,210,District - Kishanganj,Rural,Cooking inside house:,899,216,623,33,1,1,0,1,0,24,0
+HH3911T,10,210,District - Kishanganj,Rural,Has Kitchen,509,143,337,12,0,1,0,1,0,15,0
+HH3911T,10,210,District - Kishanganj,Rural,Does not have kitchen,390,73,286,21,1,0,0,0,0,9,0
+HH3911T,10,210,District - Kishanganj,Rural,Cooking outside house:,943,162,687,39,1,0,0,0,0,54,0
+HH3911T,10,210,District - Kishanganj,Rural,Has Kitchen,715,140,499,27,1,0,0,0,0,48,0
+HH3911T,10,210,District - Kishanganj,Rural,Does not have kitchen,228,22,188,12,0,0,0,0,0,6,0
+HH3911T,10,210,District - Kishanganj,Rural,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,210,District - Kishanganj,Urban,Total,92,31,42,4,0,0,14,0,1,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Cooking inside house:,56,17,21,4,0,0,13,0,1,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Has Kitchen,29,7,13,0,0,0,9,0,0,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Does not have kitchen,27,10,8,4,0,0,4,0,1,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Cooking outside house:,36,14,21,0,0,0,1,0,0,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Has Kitchen,20,6,13,0,0,0,1,0,0,0,0
+HH3911T,10,210,District - Kishanganj,Urban,Does not have kitchen,16,8,8,0,0,0,0,0,0,0,0
+HH3911T,10,210,District - Kishanganj,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,211,District - Purnia,Total,Total,3675,777,2625,117,9,1,80,2,1,50,13
+HH3911T,10,211,District - Purnia,Total,Cooking inside house:,1573,423,1009,33,2,1,72,2,1,30,0
+HH3911T,10,211,District - Purnia,Total,Has Kitchen,660,180,398,16,0,0,64,1,0,1,0
+HH3911T,10,211,District - Purnia,Total,Does not have kitchen,913,243,611,17,2,1,8,1,1,29,0
+HH3911T,10,211,District - Purnia,Total,Cooking outside house:,2089,354,1616,84,7,0,8,0,0,20,0
+HH3911T,10,211,District - Purnia,Total,Has Kitchen,999,180,753,39,6,0,7,0,0,14,0
+HH3911T,10,211,District - Purnia,Total,Does not have kitchen,1090,174,863,45,1,0,1,0,0,6,0
+HH3911T,10,211,District - Purnia,Total,No Cooking,13,0,0,0,0,0,0,0,0,0,13
+HH3911T,10,211,District - Purnia,Rural,Total,3079,511,2422,78,7,1,14,2,1,30,13
+HH3911T,10,211,District - Purnia,Rural,Cooking inside house:,1211,252,905,24,1,1,10,2,1,15,0
+HH3911T,10,211,District - Purnia,Rural,Has Kitchen,493,116,357,12,0,0,7,1,0,0,0
+HH3911T,10,211,District - Purnia,Rural,Does not have kitchen,718,136,548,12,1,1,3,1,1,15,0
+HH3911T,10,211,District - Purnia,Rural,Cooking outside house:,1855,259,1517,54,6,0,4,0,0,15,0
+HH3911T,10,211,District - Purnia,Rural,Has Kitchen,907,138,721,29,5,0,3,0,0,11,0
+HH3911T,10,211,District - Purnia,Rural,Does not have kitchen,948,121,796,25,1,0,1,0,0,4,0
+HH3911T,10,211,District - Purnia,Rural,No Cooking,13,0,0,0,0,0,0,0,0,0,13
+HH3911T,10,211,District - Purnia,Urban,Total,596,266,203,39,2,0,66,0,0,20,0
+HH3911T,10,211,District - Purnia,Urban,Cooking inside house:,362,171,104,9,1,0,62,0,0,15,0
+HH3911T,10,211,District - Purnia,Urban,Has Kitchen,167,64,41,4,0,0,57,0,0,1,0
+HH3911T,10,211,District - Purnia,Urban,Does not have kitchen,195,107,63,5,1,0,5,0,0,14,0
+HH3911T,10,211,District - Purnia,Urban,Cooking outside house:,234,95,99,30,1,0,4,0,0,5,0
+HH3911T,10,211,District - Purnia,Urban,Has Kitchen,92,42,32,10,1,0,4,0,0,3,0
+HH3911T,10,211,District - Purnia,Urban,Does not have kitchen,142,53,67,20,0,0,0,0,0,2,0
+HH3911T,10,211,District - Purnia,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,212,District - Katihar,Total,Total,4865,933,3491,276,12,5,117,3,0,24,4
+HH3911T,10,212,District - Katihar,Total,Cooking inside house:,2699,575,1816,174,8,5,114,0,0,7,0
+HH3911T,10,212,District - Katihar,Total,Has Kitchen,1252,270,769,105,1,2,103,0,0,2,0
+HH3911T,10,212,District - Katihar,Total,Does not have kitchen,1447,305,1047,69,7,3,11,0,0,5,0
+HH3911T,10,212,District - Katihar,Total,Cooking outside house:,2162,358,1675,102,4,0,3,3,0,17,0
+HH3911T,10,212,District - Katihar,Total,Has Kitchen,1201,207,920,56,3,0,3,2,0,10,0
+HH3911T,10,212,District - Katihar,Total,Does not have kitchen,961,151,755,46,1,0,0,1,0,7,0
+HH3911T,10,212,District - Katihar,Total,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,212,District - Katihar,Rural,Total,4660,874,3437,269,9,5,36,3,0,23,4
+HH3911T,10,212,District - Katihar,Rural,Cooking inside house:,2526,529,1776,168,7,5,34,0,0,7,0
+HH3911T,10,212,District - Katihar,Rural,Has Kitchen,1149,254,758,103,0,2,30,0,0,2,0
+HH3911T,10,212,District - Katihar,Rural,Does not have kitchen,1377,275,1018,65,7,3,4,0,0,5,0
+HH3911T,10,212,District - Katihar,Rural,Cooking outside house:,2130,345,1661,101,2,0,2,3,0,16,0
+HH3911T,10,212,District - Katihar,Rural,Has Kitchen,1187,198,918,55,2,0,2,2,0,10,0
+HH3911T,10,212,District - Katihar,Rural,Does not have kitchen,943,147,743,46,0,0,0,1,0,6,0
+HH3911T,10,212,District - Katihar,Rural,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,212,District - Katihar,Urban,Total,205,59,54,7,3,0,81,0,0,1,0
+HH3911T,10,212,District - Katihar,Urban,Cooking inside house:,173,46,40,6,1,0,80,0,0,0,0
+HH3911T,10,212,District - Katihar,Urban,Has Kitchen,103,16,11,2,1,0,73,0,0,0,0
+HH3911T,10,212,District - Katihar,Urban,Does not have kitchen,70,30,29,4,0,0,7,0,0,0,0
+HH3911T,10,212,District - Katihar,Urban,Cooking outside house:,32,13,14,1,2,0,1,0,0,1,0
+HH3911T,10,212,District - Katihar,Urban,Has Kitchen,14,9,2,1,1,0,1,0,0,0,0
+HH3911T,10,212,District - Katihar,Urban,Does not have kitchen,18,4,12,0,1,0,0,0,0,1,0
+HH3911T,10,212,District - Katihar,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,213,District - Madhepura,Total,Total,411,159,213,17,0,0,17,0,0,3,2
+HH3911T,10,213,District - Madhepura,Total,Cooking inside house:,200,72,102,10,0,0,15,0,0,1,0
+HH3911T,10,213,District - Madhepura,Total,Has Kitchen,90,29,46,5,0,0,10,0,0,0,0
+HH3911T,10,213,District - Madhepura,Total,Does not have kitchen,110,43,56,5,0,0,5,0,0,1,0
+HH3911T,10,213,District - Madhepura,Total,Cooking outside house:,209,87,111,7,0,0,2,0,0,2,0
+HH3911T,10,213,District - Madhepura,Total,Has Kitchen,109,51,51,4,0,0,2,0,0,1,0
+HH3911T,10,213,District - Madhepura,Total,Does not have kitchen,100,36,60,3,0,0,0,0,0,1,0
+HH3911T,10,213,District - Madhepura,Total,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,213,District - Madhepura,Rural,Total,386,151,213,17,0,0,2,0,0,3,0
+HH3911T,10,213,District - Madhepura,Rural,Cooking inside house:,178,64,102,10,0,0,1,0,0,1,0
+HH3911T,10,213,District - Madhepura,Rural,Has Kitchen,78,26,46,5,0,0,1,0,0,0,0
+HH3911T,10,213,District - Madhepura,Rural,Does not have kitchen,100,38,56,5,0,0,0,0,0,1,0
+HH3911T,10,213,District - Madhepura,Rural,Cooking outside house:,208,87,111,7,0,0,1,0,0,2,0
+HH3911T,10,213,District - Madhepura,Rural,Has Kitchen,108,51,51,4,0,0,1,0,0,1,0
+HH3911T,10,213,District - Madhepura,Rural,Does not have kitchen,100,36,60,3,0,0,0,0,0,1,0
+HH3911T,10,213,District - Madhepura,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Total,25,8,0,0,0,0,15,0,0,0,2
+HH3911T,10,213,District - Madhepura,Urban,Cooking inside house:,22,8,0,0,0,0,14,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Has Kitchen,12,3,0,0,0,0,9,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Does not have kitchen,10,5,0,0,0,0,5,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Cooking outside house:,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Has Kitchen,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,213,District - Madhepura,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,214,District - Saharsa,Total,Total,255,99,95,40,0,0,21,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Cooking inside house:,180,79,66,15,0,0,20,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Has Kitchen,42,19,7,1,0,0,15,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Does not have kitchen,138,60,59,14,0,0,5,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Cooking outside house:,75,20,29,25,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Has Kitchen,34,7,6,20,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,Does not have kitchen,41,13,23,5,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Total,224,92,93,38,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Cooking inside house:,151,73,64,13,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Has Kitchen,27,19,6,1,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Does not have kitchen,124,54,58,12,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Cooking outside house:,73,19,29,25,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Has Kitchen,33,7,6,20,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,Does not have kitchen,40,12,23,5,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Total,31,7,2,2,0,0,20,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Cooking inside house:,29,6,2,2,0,0,19,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Has Kitchen,15,0,1,0,0,0,14,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Does not have kitchen,14,6,1,2,0,0,5,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Cooking outside house:,2,1,0,0,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Has Kitchen,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,214,District - Saharsa,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Total,Total,858,270,335,169,7,6,36,2,2,24,7
+HH3911T,10,215,District - Darbhanga,Total,Cooking inside house:,611,203,256,102,4,4,32,1,1,8,0
+HH3911T,10,215,District - Darbhanga,Total,Has Kitchen,141,64,30,20,1,2,21,0,0,3,0
+HH3911T,10,215,District - Darbhanga,Total,Does not have kitchen,470,139,226,82,3,2,11,1,1,5,0
+HH3911T,10,215,District - Darbhanga,Total,Cooking outside house:,240,67,79,67,3,2,4,1,1,16,0
+HH3911T,10,215,District - Darbhanga,Total,Has Kitchen,81,17,20,28,1,1,3,0,0,11,0
+HH3911T,10,215,District - Darbhanga,Total,Does not have kitchen,159,50,59,39,2,1,1,1,1,5,0
+HH3911T,10,215,District - Darbhanga,Total,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3911T,10,215,District - Darbhanga,Rural,Total,792,245,321,166,4,6,15,2,2,24,7
+HH3911T,10,215,District - Darbhanga,Rural,Cooking inside house:,556,183,245,100,1,4,13,1,1,8,0
+HH3911T,10,215,District - Darbhanga,Rural,Has Kitchen,121,61,28,20,0,2,7,0,0,3,0
+HH3911T,10,215,District - Darbhanga,Rural,Does not have kitchen,435,122,217,80,1,2,6,1,1,5,0
+HH3911T,10,215,District - Darbhanga,Rural,Cooking outside house:,229,62,76,66,3,2,2,1,1,16,0
+HH3911T,10,215,District - Darbhanga,Rural,Has Kitchen,78,16,20,28,1,1,1,0,0,11,0
+HH3911T,10,215,District - Darbhanga,Rural,Does not have kitchen,151,46,56,38,2,1,1,1,1,5,0
+HH3911T,10,215,District - Darbhanga,Rural,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3911T,10,215,District - Darbhanga,Urban,Total,66,25,14,3,3,0,21,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Cooking inside house:,55,20,11,2,3,0,19,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Has Kitchen,20,3,2,0,1,0,14,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Does not have kitchen,35,17,9,2,2,0,5,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Cooking outside house:,11,5,3,1,0,0,2,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Has Kitchen,3,1,0,0,0,0,2,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,Does not have kitchen,8,4,3,1,0,0,0,0,0,0,0
+HH3911T,10,215,District - Darbhanga,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,216,District - Muzaffarpur,Total,Total,992,398,363,61,9,20,108,3,9,13,8
+HH3911T,10,216,District - Muzaffarpur,Total,Cooking inside house:,822,335,290,51,3,20,103,2,6,12,0
+HH3911T,10,216,District - Muzaffarpur,Total,Has Kitchen,191,63,25,3,0,2,86,1,6,5,0
+HH3911T,10,216,District - Muzaffarpur,Total,Does not have kitchen,631,272,265,48,3,18,17,1,0,7,0
+HH3911T,10,216,District - Muzaffarpur,Total,Cooking outside house:,162,63,73,10,6,0,5,1,3,1,0
+HH3911T,10,216,District - Muzaffarpur,Total,Has Kitchen,59,22,22,6,4,0,2,0,3,0,0
+HH3911T,10,216,District - Muzaffarpur,Total,Does not have kitchen,103,41,51,4,2,0,3,1,0,1,0
+HH3911T,10,216,District - Muzaffarpur,Total,No Cooking,8,0,0,0,0,0,0,0,0,0,8
+HH3911T,10,216,District - Muzaffarpur,Rural,Total,777,331,347,56,5,0,13,3,3,12,7
+HH3911T,10,216,District - Muzaffarpur,Rural,Cooking inside house:,629,279,278,46,1,0,12,2,0,11,0
+HH3911T,10,216,District - Muzaffarpur,Rural,Has Kitchen,82,44,21,3,0,0,9,1,0,4,0
+HH3911T,10,216,District - Muzaffarpur,Rural,Does not have kitchen,547,235,257,43,1,0,3,1,0,7,0
+HH3911T,10,216,District - Muzaffarpur,Rural,Cooking outside house:,141,52,69,10,4,0,1,1,3,1,0
+HH3911T,10,216,District - Muzaffarpur,Rural,Has Kitchen,51,16,22,6,4,0,0,0,3,0,0
+HH3911T,10,216,District - Muzaffarpur,Rural,Does not have kitchen,90,36,47,4,0,0,1,1,0,1,0
+HH3911T,10,216,District - Muzaffarpur,Rural,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3911T,10,216,District - Muzaffarpur,Urban,Total,215,67,16,5,4,20,95,0,6,1,1
+HH3911T,10,216,District - Muzaffarpur,Urban,Cooking inside house:,193,56,12,5,2,20,91,0,6,1,0
+HH3911T,10,216,District - Muzaffarpur,Urban,Has Kitchen,109,19,4,0,0,2,77,0,6,1,0
+HH3911T,10,216,District - Muzaffarpur,Urban,Does not have kitchen,84,37,8,5,2,18,14,0,0,0,0
+HH3911T,10,216,District - Muzaffarpur,Urban,Cooking outside house:,21,11,4,0,2,0,4,0,0,0,0
+HH3911T,10,216,District - Muzaffarpur,Urban,Has Kitchen,8,6,0,0,0,0,2,0,0,0,0
+HH3911T,10,216,District - Muzaffarpur,Urban,Does not have kitchen,13,5,4,0,2,0,2,0,0,0,0
+HH3911T,10,216,District - Muzaffarpur,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,217,District - Gopalganj,Total,Total,1210,572,531,57,3,1,32,1,2,8,3
+HH3911T,10,217,District - Gopalganj,Total,Cooking inside house:,1009,496,423,49,2,1,29,0,2,7,0
+HH3911T,10,217,District - Gopalganj,Total,Has Kitchen,225,122,69,8,0,0,21,0,1,4,0
+HH3911T,10,217,District - Gopalganj,Total,Does not have kitchen,784,374,354,41,2,1,8,0,1,3,0
+HH3911T,10,217,District - Gopalganj,Total,Cooking outside house:,198,76,108,8,1,0,3,1,0,1,0
+HH3911T,10,217,District - Gopalganj,Total,Has Kitchen,111,45,59,4,1,0,1,0,0,1,0
+HH3911T,10,217,District - Gopalganj,Total,Does not have kitchen,87,31,49,4,0,0,2,1,0,0,0
+HH3911T,10,217,District - Gopalganj,Total,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,217,District - Gopalganj,Rural,Total,1181,557,526,55,3,0,26,1,2,8,3
+HH3911T,10,217,District - Gopalganj,Rural,Cooking inside house:,981,481,418,47,2,0,24,0,2,7,0
+HH3911T,10,217,District - Gopalganj,Rural,Has Kitchen,214,119,66,7,0,0,17,0,1,4,0
+HH3911T,10,217,District - Gopalganj,Rural,Does not have kitchen,767,362,352,40,2,0,7,0,1,3,0
+HH3911T,10,217,District - Gopalganj,Rural,Cooking outside house:,197,76,108,8,1,0,2,1,0,1,0
+HH3911T,10,217,District - Gopalganj,Rural,Has Kitchen,110,45,59,4,1,0,0,0,0,1,0
+HH3911T,10,217,District - Gopalganj,Rural,Does not have kitchen,87,31,49,4,0,0,2,1,0,0,0
+HH3911T,10,217,District - Gopalganj,Rural,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,217,District - Gopalganj,Urban,Total,29,15,5,2,0,1,6,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Cooking inside house:,28,15,5,2,0,1,5,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Has Kitchen,11,3,3,1,0,0,4,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Does not have kitchen,17,12,2,1,0,1,1,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Cooking outside house:,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Has Kitchen,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,217,District - Gopalganj,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Total,Total,2250,1131,871,157,3,3,62,2,8,7,6
+HH3911T,10,218,District - Siwan,Total,Cooking inside house:,2072,1055,798,139,3,3,61,1,7,5,0
+HH3911T,10,218,District - Siwan,Total,Has Kitchen,352,193,96,16,1,1,41,0,4,0,0
+HH3911T,10,218,District - Siwan,Total,Does not have kitchen,1720,862,702,123,2,2,20,1,3,5,0
+HH3911T,10,218,District - Siwan,Total,Cooking outside house:,172,76,73,18,0,0,1,1,1,2,0
+HH3911T,10,218,District - Siwan,Total,Has Kitchen,48,19,25,4,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Total,Does not have kitchen,124,57,48,14,0,0,1,1,1,2,0
+HH3911T,10,218,District - Siwan,Total,No Cooking,6,0,0,0,0,0,0,0,0,0,6
+HH3911T,10,218,District - Siwan,Rural,Total,2164,1095,864,154,0,1,31,2,5,7,5
+HH3911T,10,218,District - Siwan,Rural,Cooking inside house:,1991,1021,793,136,0,1,30,1,4,5,0
+HH3911T,10,218,District - Siwan,Rural,Has Kitchen,301,176,95,14,0,1,14,0,1,0,0
+HH3911T,10,218,District - Siwan,Rural,Does not have kitchen,1690,845,698,122,0,0,16,1,3,5,0
+HH3911T,10,218,District - Siwan,Rural,Cooking outside house:,168,74,71,18,0,0,1,1,1,2,0
+HH3911T,10,218,District - Siwan,Rural,Has Kitchen,45,18,23,4,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Rural,Does not have kitchen,123,56,48,14,0,0,1,1,1,2,0
+HH3911T,10,218,District - Siwan,Rural,No Cooking,5,0,0,0,0,0,0,0,0,0,5
+HH3911T,10,218,District - Siwan,Urban,Total,86,36,7,3,3,2,31,0,3,0,1
+HH3911T,10,218,District - Siwan,Urban,Cooking inside house:,81,34,5,3,3,2,31,0,3,0,0
+HH3911T,10,218,District - Siwan,Urban,Has Kitchen,51,17,1,2,1,0,27,0,3,0,0
+HH3911T,10,218,District - Siwan,Urban,Does not have kitchen,30,17,4,1,2,2,4,0,0,0,0
+HH3911T,10,218,District - Siwan,Urban,Cooking outside house:,4,2,2,0,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Urban,Has Kitchen,3,1,2,0,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,218,District - Siwan,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,219,District - Saran,Total,Total,1510,691,497,189,11,3,87,1,12,15,4
+HH3911T,10,219,District - Saran,Total,Cooking inside house:,1379,637,448,170,9,3,85,1,11,15,0
+HH3911T,10,219,District - Saran,Total,Has Kitchen,235,105,53,9,2,1,56,0,7,2,0
+HH3911T,10,219,District - Saran,Total,Does not have kitchen,1144,532,395,161,7,2,29,1,4,13,0
+HH3911T,10,219,District - Saran,Total,Cooking outside house:,127,54,49,19,2,0,2,0,1,0,0
+HH3911T,10,219,District - Saran,Total,Has Kitchen,64,25,26,10,1,0,1,0,1,0,0
+HH3911T,10,219,District - Saran,Total,Does not have kitchen,63,29,23,9,1,0,1,0,0,0,0
+HH3911T,10,219,District - Saran,Total,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,219,District - Saran,Rural,Total,1414,662,490,187,4,2,37,1,12,15,4
+HH3911T,10,219,District - Saran,Rural,Cooking inside house:,1292,613,442,169,2,2,37,1,11,15,0
+HH3911T,10,219,District - Saran,Rural,Has Kitchen,195,100,51,9,0,0,26,0,7,2,0
+HH3911T,10,219,District - Saran,Rural,Does not have kitchen,1097,513,391,160,2,2,11,1,4,13,0
+HH3911T,10,219,District - Saran,Rural,Cooking outside house:,118,49,48,18,2,0,0,0,1,0,0
+HH3911T,10,219,District - Saran,Rural,Has Kitchen,58,21,25,10,1,0,0,0,1,0,0
+HH3911T,10,219,District - Saran,Rural,Does not have kitchen,60,28,23,8,1,0,0,0,0,0,0
+HH3911T,10,219,District - Saran,Rural,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,219,District - Saran,Urban,Total,96,29,7,2,7,1,50,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Cooking inside house:,87,24,6,1,7,1,48,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Has Kitchen,40,5,2,0,2,1,30,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Does not have kitchen,47,19,4,1,5,0,18,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Cooking outside house:,9,5,1,1,0,0,2,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Has Kitchen,6,4,1,0,0,0,1,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,Does not have kitchen,3,1,0,1,0,0,1,0,0,0,0
+HH3911T,10,219,District - Saran,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,220,District - Vaishali,Total,Total,411,182,143,45,3,1,25,1,2,7,2
+HH3911T,10,220,District - Vaishali,Total,Cooking inside house:,352,153,122,41,2,1,24,1,2,6,0
+HH3911T,10,220,District - Vaishali,Total,Has Kitchen,58,27,5,6,0,1,18,0,1,0,0
+HH3911T,10,220,District - Vaishali,Total,Does not have kitchen,294,126,117,35,2,0,6,1,1,6,0
+HH3911T,10,220,District - Vaishali,Total,Cooking outside house:,57,29,21,4,1,0,1,0,0,1,0
+HH3911T,10,220,District - Vaishali,Total,Has Kitchen,27,14,8,3,1,0,1,0,0,0,0
+HH3911T,10,220,District - Vaishali,Total,Does not have kitchen,30,15,13,1,0,0,0,0,0,1,0
+HH3911T,10,220,District - Vaishali,Total,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,220,District - Vaishali,Rural,Total,363,161,134,42,3,1,10,1,2,7,2
+HH3911T,10,220,District - Vaishali,Rural,Cooking inside house:,308,133,116,38,2,1,9,1,2,6,0
+HH3911T,10,220,District - Vaishali,Rural,Has Kitchen,43,25,5,6,0,1,5,0,1,0,0
+HH3911T,10,220,District - Vaishali,Rural,Does not have kitchen,265,108,111,32,2,0,4,1,1,6,0
+HH3911T,10,220,District - Vaishali,Rural,Cooking outside house:,53,28,18,4,1,0,1,0,0,1,0
+HH3911T,10,220,District - Vaishali,Rural,Has Kitchen,24,13,6,3,1,0,1,0,0,0,0
+HH3911T,10,220,District - Vaishali,Rural,Does not have kitchen,29,15,12,1,0,0,0,0,0,1,0
+HH3911T,10,220,District - Vaishali,Rural,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,220,District - Vaishali,Urban,Total,48,21,9,3,0,0,15,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Cooking inside house:,44,20,6,3,0,0,15,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Has Kitchen,15,2,0,0,0,0,13,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Does not have kitchen,29,18,6,3,0,0,2,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Cooking outside house:,4,1,3,0,0,0,0,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Has Kitchen,3,1,2,0,0,0,0,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,Does not have kitchen,1,0,1,0,0,0,0,0,0,0,0
+HH3911T,10,220,District - Vaishali,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,221,District - Samastipur,Total,Total,427,157,173,44,2,0,39,3,0,8,1
+HH3911T,10,221,District - Samastipur,Total,Cooking inside house:,353,135,137,38,0,0,38,2,0,3,0
+HH3911T,10,221,District - Samastipur,Total,Has Kitchen,74,30,11,7,0,0,26,0,0,0,0
+HH3911T,10,221,District - Samastipur,Total,Does not have kitchen,279,105,126,31,0,0,12,2,0,3,0
+HH3911T,10,221,District - Samastipur,Total,Cooking outside house:,73,22,36,6,2,0,1,1,0,5,0
+HH3911T,10,221,District - Samastipur,Total,Has Kitchen,20,4,8,3,2,0,0,0,0,3,0
+HH3911T,10,221,District - Samastipur,Total,Does not have kitchen,53,18,28,3,0,0,1,1,0,2,0
+HH3911T,10,221,District - Samastipur,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,221,District - Samastipur,Rural,Total,378,137,169,44,2,0,14,3,0,8,1
+HH3911T,10,221,District - Samastipur,Rural,Cooking inside house:,306,116,133,38,0,0,14,2,0,3,0
+HH3911T,10,221,District - Samastipur,Rural,Has Kitchen,54,27,11,7,0,0,9,0,0,0,0
+HH3911T,10,221,District - Samastipur,Rural,Does not have kitchen,252,89,122,31,0,0,5,2,0,3,0
+HH3911T,10,221,District - Samastipur,Rural,Cooking outside house:,71,21,36,6,2,0,0,1,0,5,0
+HH3911T,10,221,District - Samastipur,Rural,Has Kitchen,20,4,8,3,2,0,0,0,0,3,0
+HH3911T,10,221,District - Samastipur,Rural,Does not have kitchen,51,17,28,3,0,0,0,1,0,2,0
+HH3911T,10,221,District - Samastipur,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,221,District - Samastipur,Urban,Total,49,20,4,0,0,0,25,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Cooking inside house:,47,19,4,0,0,0,24,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Has Kitchen,20,3,0,0,0,0,17,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Does not have kitchen,27,16,4,0,0,0,7,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Cooking outside house:,2,1,0,0,0,0,1,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,Does not have kitchen,2,1,0,0,0,0,1,0,0,0,0
+HH3911T,10,221,District - Samastipur,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,222,District - Begusarai,Total,Total,353,150,136,19,6,0,34,5,0,3,0
+HH3911T,10,222,District - Begusarai,Total,Cooking inside house:,277,118,97,18,4,0,33,5,0,2,0
+HH3911T,10,222,District - Begusarai,Total,Has Kitchen,66,27,9,1,0,0,26,3,0,0,0
+HH3911T,10,222,District - Begusarai,Total,Does not have kitchen,211,91,88,17,4,0,7,2,0,2,0
+HH3911T,10,222,District - Begusarai,Total,Cooking outside house:,76,32,39,1,2,0,1,0,0,1,0
+HH3911T,10,222,District - Begusarai,Total,Has Kitchen,28,12,14,0,1,0,1,0,0,0,0
+HH3911T,10,222,District - Begusarai,Total,Does not have kitchen,48,20,25,1,1,0,0,0,0,1,0
+HH3911T,10,222,District - Begusarai,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,222,District - Begusarai,Rural,Total,263,113,124,17,3,0,3,1,0,2,0
+HH3911T,10,222,District - Begusarai,Rural,Cooking inside house:,198,88,87,16,2,0,3,1,0,1,0
+HH3911T,10,222,District - Begusarai,Rural,Has Kitchen,26,19,5,0,0,0,2,0,0,0,0
+HH3911T,10,222,District - Begusarai,Rural,Does not have kitchen,172,69,82,16,2,0,1,1,0,1,0
+HH3911T,10,222,District - Begusarai,Rural,Cooking outside house:,65,25,37,1,1,0,0,0,0,1,0
+HH3911T,10,222,District - Begusarai,Rural,Has Kitchen,23,9,13,0,1,0,0,0,0,0,0
+HH3911T,10,222,District - Begusarai,Rural,Does not have kitchen,42,16,24,1,0,0,0,0,0,1,0
+HH3911T,10,222,District - Begusarai,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,222,District - Begusarai,Urban,Total,90,37,12,2,3,0,31,4,0,1,0
+HH3911T,10,222,District - Begusarai,Urban,Cooking inside house:,79,30,10,2,2,0,30,4,0,1,0
+HH3911T,10,222,District - Begusarai,Urban,Has Kitchen,40,8,4,1,0,0,24,3,0,0,0
+HH3911T,10,222,District - Begusarai,Urban,Does not have kitchen,39,22,6,1,2,0,6,1,0,1,0
+HH3911T,10,222,District - Begusarai,Urban,Cooking outside house:,11,7,2,0,1,0,1,0,0,0,0
+HH3911T,10,222,District - Begusarai,Urban,Has Kitchen,5,3,1,0,0,0,1,0,0,0,0
+HH3911T,10,222,District - Begusarai,Urban,Does not have kitchen,6,4,1,0,1,0,0,0,0,0,0
+HH3911T,10,222,District - Begusarai,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Total,Total,191,51,120,9,5,0,4,0,0,1,1
+HH3911T,10,223,District - Khagaria,Total,Cooking inside house:,127,41,76,5,0,0,4,0,0,1,0
+HH3911T,10,223,District - Khagaria,Total,Has Kitchen,24,9,10,1,0,0,4,0,0,0,0
+HH3911T,10,223,District - Khagaria,Total,Does not have kitchen,103,32,66,4,0,0,0,0,0,1,0
+HH3911T,10,223,District - Khagaria,Total,Cooking outside house:,63,10,44,4,5,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Total,Has Kitchen,23,1,16,2,4,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Total,Does not have kitchen,40,9,28,2,1,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,223,District - Khagaria,Rural,Total,186,50,117,9,5,0,3,0,0,1,1
+HH3911T,10,223,District - Khagaria,Rural,Cooking inside house:,122,40,73,5,0,0,3,0,0,1,0
+HH3911T,10,223,District - Khagaria,Rural,Has Kitchen,22,9,9,1,0,0,3,0,0,0,0
+HH3911T,10,223,District - Khagaria,Rural,Does not have kitchen,100,31,64,4,0,0,0,0,0,1,0
+HH3911T,10,223,District - Khagaria,Rural,Cooking outside house:,63,10,44,4,5,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Rural,Has Kitchen,23,1,16,2,4,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Rural,Does not have kitchen,40,9,28,2,1,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,223,District - Khagaria,Urban,Total,5,1,3,0,0,0,1,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Cooking inside house:,5,1,3,0,0,0,1,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Has Kitchen,2,0,1,0,0,0,1,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Does not have kitchen,3,1,2,0,0,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,223,District - Khagaria,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,224,District - Bhagalpur,Total,Total,1514,621,477,202,64,2,112,8,5,21,2
+HH3911T,10,224,District - Bhagalpur,Total,Cooking inside house:,1255,514,383,168,57,1,108,5,5,14,0
+HH3911T,10,224,District - Bhagalpur,Total,Has Kitchen,352,124,65,49,23,1,85,2,0,3,0
+HH3911T,10,224,District - Bhagalpur,Total,Does not have kitchen,903,390,318,119,34,0,23,3,5,11,0
+HH3911T,10,224,District - Bhagalpur,Total,Cooking outside house:,257,107,94,34,7,1,4,3,0,7,0
+HH3911T,10,224,District - Bhagalpur,Total,Has Kitchen,90,43,37,6,1,0,1,2,0,0,0
+HH3911T,10,224,District - Bhagalpur,Total,Does not have kitchen,167,64,57,28,6,1,3,1,0,7,0
+HH3911T,10,224,District - Bhagalpur,Total,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,224,District - Bhagalpur,Rural,Total,1315,575,468,184,27,0,28,6,5,21,1
+HH3911T,10,224,District - Bhagalpur,Rural,Cooking inside house:,1085,479,376,155,25,0,28,3,5,14,0
+HH3911T,10,224,District - Bhagalpur,Rural,Has Kitchen,264,113,65,44,13,0,24,2,0,3,0
+HH3911T,10,224,District - Bhagalpur,Rural,Does not have kitchen,821,366,311,111,12,0,4,1,5,11,0
+HH3911T,10,224,District - Bhagalpur,Rural,Cooking outside house:,229,96,92,29,2,0,0,3,0,7,0
+HH3911T,10,224,District - Bhagalpur,Rural,Has Kitchen,85,42,35,6,0,0,0,2,0,0,0
+HH3911T,10,224,District - Bhagalpur,Rural,Does not have kitchen,144,54,57,23,2,0,0,1,0,7,0
+HH3911T,10,224,District - Bhagalpur,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,224,District - Bhagalpur,Urban,Total,199,46,9,18,37,2,84,2,0,0,1
+HH3911T,10,224,District - Bhagalpur,Urban,Cooking inside house:,170,35,7,13,32,1,80,2,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,Has Kitchen,88,11,0,5,10,1,61,0,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,Does not have kitchen,82,24,7,8,22,0,19,2,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,Cooking outside house:,28,11,2,5,5,1,4,0,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,Has Kitchen,5,1,2,0,1,0,1,0,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,Does not have kitchen,23,10,0,5,4,1,3,0,0,0,0
+HH3911T,10,224,District - Bhagalpur,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,225,District - Banka,Total,Total,1606,1048,237,242,7,1,25,2,1,40,3
+HH3911T,10,225,District - Banka,Total,Cooking inside house:,1491,979,222,216,6,1,25,2,1,39,0
+HH3911T,10,225,District - Banka,Total,Has Kitchen,145,95,22,10,3,1,12,1,1,0,0
+HH3911T,10,225,District - Banka,Total,Does not have kitchen,1346,884,200,206,3,0,13,1,0,39,0
+HH3911T,10,225,District - Banka,Total,Cooking outside house:,112,69,15,26,1,0,0,0,0,1,0
+HH3911T,10,225,District - Banka,Total,Has Kitchen,26,6,9,11,0,0,0,0,0,0,0
+HH3911T,10,225,District - Banka,Total,Does not have kitchen,86,63,6,15,1,0,0,0,0,1,0
+HH3911T,10,225,District - Banka,Total,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,225,District - Banka,Rural,Total,1588,1045,235,241,4,1,17,2,1,40,2
+HH3911T,10,225,District - Banka,Rural,Cooking inside house:,1475,977,220,215,3,1,17,2,1,39,0
+HH3911T,10,225,District - Banka,Rural,Has Kitchen,140,95,22,10,3,1,7,1,1,0,0
+HH3911T,10,225,District - Banka,Rural,Does not have kitchen,1335,882,198,205,0,0,10,1,0,39,0
+HH3911T,10,225,District - Banka,Rural,Cooking outside house:,111,68,15,26,1,0,0,0,0,1,0
+HH3911T,10,225,District - Banka,Rural,Has Kitchen,25,5,9,11,0,0,0,0,0,0,0
+HH3911T,10,225,District - Banka,Rural,Does not have kitchen,86,63,6,15,1,0,0,0,0,1,0
+HH3911T,10,225,District - Banka,Rural,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,225,District - Banka,Urban,Total,18,3,2,1,3,0,8,0,0,0,1
+HH3911T,10,225,District - Banka,Urban,Cooking inside house:,16,2,2,1,3,0,8,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,Has Kitchen,5,0,0,0,0,0,5,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,Does not have kitchen,11,2,2,1,3,0,3,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,Cooking outside house:,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,Has Kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,225,District - Banka,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,226,District - Munger,Total,Total,537,429,33,7,3,0,58,1,1,4,1
+HH3911T,10,226,District - Munger,Total,Cooking inside house:,470,366,31,7,3,0,58,1,1,3,0
+HH3911T,10,226,District - Munger,Total,Has Kitchen,104,60,4,2,1,0,36,0,1,0,0
+HH3911T,10,226,District - Munger,Total,Does not have kitchen,366,306,27,5,2,0,22,1,0,3,0
+HH3911T,10,226,District - Munger,Total,Cooking outside house:,66,63,2,0,0,0,0,0,0,1,0
+HH3911T,10,226,District - Munger,Total,Has Kitchen,13,11,1,0,0,0,0,0,0,1,0
+HH3911T,10,226,District - Munger,Total,Does not have kitchen,53,52,1,0,0,0,0,0,0,0,0
+HH3911T,10,226,District - Munger,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,226,District - Munger,Rural,Total,459,405,32,4,0,0,11,1,1,4,1
+HH3911T,10,226,District - Munger,Rural,Cooking inside house:,393,343,30,4,0,0,11,1,1,3,0
+HH3911T,10,226,District - Munger,Rural,Has Kitchen,66,54,3,1,0,0,7,0,1,0,0
+HH3911T,10,226,District - Munger,Rural,Does not have kitchen,327,289,27,3,0,0,4,1,0,3,0
+HH3911T,10,226,District - Munger,Rural,Cooking outside house:,65,62,2,0,0,0,0,0,0,1,0
+HH3911T,10,226,District - Munger,Rural,Has Kitchen,13,11,1,0,0,0,0,0,0,1,0
+HH3911T,10,226,District - Munger,Rural,Does not have kitchen,52,51,1,0,0,0,0,0,0,0,0
+HH3911T,10,226,District - Munger,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,226,District - Munger,Urban,Total,78,24,1,3,3,0,47,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Cooking inside house:,77,23,1,3,3,0,47,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Has Kitchen,38,6,1,1,1,0,29,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Does not have kitchen,39,17,0,2,2,0,18,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Cooking outside house:,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,226,District - Munger,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Total,187,101,33,40,1,3,5,1,1,0,2
+HH3911T,10,227,District - Lakhisarai,Total,Cooking inside house:,161,86,31,35,1,2,5,0,1,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Has Kitchen,19,5,10,0,0,0,4,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Does not have kitchen,142,81,21,35,1,2,1,0,1,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Cooking outside house:,24,15,2,5,0,1,0,1,0,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Has Kitchen,6,2,1,2,0,1,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Total,Does not have kitchen,18,13,1,3,0,0,0,1,0,0,0
+HH3911T,10,227,District - Lakhisarai,Total,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,227,District - Lakhisarai,Rural,Total,154,82,28,37,1,2,3,1,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Cooking inside house:,133,68,27,32,1,2,3,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Has Kitchen,18,5,10,0,0,0,3,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Does not have kitchen,115,63,17,32,1,2,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Cooking outside house:,21,14,1,5,0,0,0,1,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Has Kitchen,4,2,0,2,0,0,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,Does not have kitchen,17,12,1,3,0,0,0,1,0,0,0
+HH3911T,10,227,District - Lakhisarai,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Total,33,19,5,3,0,1,2,0,1,0,2
+HH3911T,10,227,District - Lakhisarai,Urban,Cooking inside house:,28,18,4,3,0,0,2,0,1,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Has Kitchen,1,0,0,0,0,0,1,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Does not have kitchen,27,18,4,3,0,0,1,0,1,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Cooking outside house:,3,1,1,0,0,1,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Has Kitchen,2,0,1,0,0,1,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,227,District - Lakhisarai,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,228,District - Sheikhpura,Total,Total,77,19,20,30,1,0,3,1,1,1,1
+HH3911T,10,228,District - Sheikhpura,Total,Cooking inside house:,71,19,16,29,1,0,3,1,1,1,0
+HH3911T,10,228,District - Sheikhpura,Total,Has Kitchen,10,2,0,2,1,0,3,1,1,0,0
+HH3911T,10,228,District - Sheikhpura,Total,Does not have kitchen,61,17,16,27,0,0,0,0,0,1,0
+HH3911T,10,228,District - Sheikhpura,Total,Cooking outside house:,5,0,4,1,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Total,Has Kitchen,2,0,1,1,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Total,Does not have kitchen,3,0,3,0,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,228,District - Sheikhpura,Rural,Total,65,16,19,27,0,0,0,0,1,1,1
+HH3911T,10,228,District - Sheikhpura,Rural,Cooking inside house:,59,16,15,26,0,0,0,0,1,1,0
+HH3911T,10,228,District - Sheikhpura,Rural,Has Kitchen,5,2,0,2,0,0,0,0,1,0,0
+HH3911T,10,228,District - Sheikhpura,Rural,Does not have kitchen,54,14,15,24,0,0,0,0,0,1,0
+HH3911T,10,228,District - Sheikhpura,Rural,Cooking outside house:,5,0,4,1,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Rural,Has Kitchen,2,0,1,1,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Rural,Does not have kitchen,3,0,3,0,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,228,District - Sheikhpura,Urban,Total,12,3,1,3,1,0,3,1,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Cooking inside house:,12,3,1,3,1,0,3,1,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Has Kitchen,5,0,0,0,1,0,3,1,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Does not have kitchen,7,3,1,3,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,228,District - Sheikhpura,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,229,District - Nalanda,Total,Total,606,89,166,252,32,7,45,2,4,8,1
+HH3911T,10,229,District - Nalanda,Total,Cooking inside house:,522,74,148,206,30,7,44,2,4,7,0
+HH3911T,10,229,District - Nalanda,Total,Has Kitchen,126,15,59,15,1,1,33,0,2,0,0
+HH3911T,10,229,District - Nalanda,Total,Does not have kitchen,396,59,89,191,29,6,11,2,2,7,0
+HH3911T,10,229,District - Nalanda,Total,Cooking outside house:,83,15,18,46,2,0,1,0,0,1,0
+HH3911T,10,229,District - Nalanda,Total,Has Kitchen,38,9,8,20,0,0,1,0,0,0,0
+HH3911T,10,229,District - Nalanda,Total,Does not have kitchen,45,6,10,26,2,0,0,0,0,1,0
+HH3911T,10,229,District - Nalanda,Total,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,229,District - Nalanda,Rural,Total,488,62,150,238,6,4,14,1,4,8,1
+HH3911T,10,229,District - Nalanda,Rural,Cooking inside house:,419,54,134,195,6,4,14,1,4,7,0
+HH3911T,10,229,District - Nalanda,Rural,Has Kitchen,96,10,58,14,0,0,12,0,2,0,0
+HH3911T,10,229,District - Nalanda,Rural,Does not have kitchen,323,44,76,181,6,4,2,1,2,7,0
+HH3911T,10,229,District - Nalanda,Rural,Cooking outside house:,68,8,16,43,0,0,0,0,0,1,0
+HH3911T,10,229,District - Nalanda,Rural,Has Kitchen,30,5,7,18,0,0,0,0,0,0,0
+HH3911T,10,229,District - Nalanda,Rural,Does not have kitchen,38,3,9,25,0,0,0,0,0,1,0
+HH3911T,10,229,District - Nalanda,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,229,District - Nalanda,Urban,Total,118,27,16,14,26,3,31,1,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Cooking inside house:,103,20,14,11,24,3,30,1,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Has Kitchen,30,5,1,1,1,1,21,0,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Does not have kitchen,73,15,13,10,23,2,9,1,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Cooking outside house:,15,7,2,3,2,0,1,0,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Has Kitchen,8,4,1,2,0,0,1,0,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,Does not have kitchen,7,3,1,1,2,0,0,0,0,0,0
+HH3911T,10,229,District - Nalanda,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,230,District - Patna,Total,Total,1332,273,129,315,75,7,519,2,4,4,4
+HH3911T,10,230,District - Patna,Total,Cooking inside house:,1194,219,96,278,74,5,514,2,3,3,0
+HH3911T,10,230,District - Patna,Total,Has Kitchen,513,43,24,16,31,1,397,0,1,0,0
+HH3911T,10,230,District - Patna,Total,Does not have kitchen,681,176,72,262,43,4,117,2,2,3,0
+HH3911T,10,230,District - Patna,Total,Cooking outside house:,134,54,33,37,1,2,5,0,1,1,0
+HH3911T,10,230,District - Patna,Total,Has Kitchen,45,22,13,9,0,0,1,0,0,0,0
+HH3911T,10,230,District - Patna,Total,Does not have kitchen,89,32,20,28,1,2,4,0,1,1,0
+HH3911T,10,230,District - Patna,Total,No Cooking,4,0,0,0,0,0,0,0,0,0,4
+HH3911T,10,230,District - Patna,Rural,Total,579,159,94,290,1,4,23,2,2,3,1
+HH3911T,10,230,District - Patna,Rural,Cooking inside house:,486,132,68,257,1,2,20,2,2,2,0
+HH3911T,10,230,District - Patna,Rural,Has Kitchen,51,17,9,13,1,0,11,0,0,0,0
+HH3911T,10,230,District - Patna,Rural,Does not have kitchen,435,115,59,244,0,2,9,2,2,2,0
+HH3911T,10,230,District - Patna,Rural,Cooking outside house:,92,27,26,33,0,2,3,0,0,1,0
+HH3911T,10,230,District - Patna,Rural,Has Kitchen,33,17,9,7,0,0,0,0,0,0,0
+HH3911T,10,230,District - Patna,Rural,Does not have kitchen,59,10,17,26,0,2,3,0,0,1,0
+HH3911T,10,230,District - Patna,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,230,District - Patna,Urban,Total,753,114,35,25,74,3,496,0,2,1,3
+HH3911T,10,230,District - Patna,Urban,Cooking inside house:,708,87,28,21,73,3,494,0,1,1,0
+HH3911T,10,230,District - Patna,Urban,Has Kitchen,462,26,15,3,30,1,386,0,1,0,0
+HH3911T,10,230,District - Patna,Urban,Does not have kitchen,246,61,13,18,43,2,108,0,0,1,0
+HH3911T,10,230,District - Patna,Urban,Cooking outside house:,42,27,7,4,1,0,2,0,1,0,0
+HH3911T,10,230,District - Patna,Urban,Has Kitchen,12,5,4,2,0,0,1,0,0,0,0
+HH3911T,10,230,District - Patna,Urban,Does not have kitchen,30,22,3,2,1,0,1,0,1,0,0
+HH3911T,10,230,District - Patna,Urban,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,231,District - Bhojpur,Total,Total,765,270,95,298,6,8,59,0,9,17,3
+HH3911T,10,231,District - Bhojpur,Total,Cooking inside house:,687,236,79,279,5,6,57,0,8,17,0
+HH3911T,10,231,District - Bhojpur,Total,Has Kitchen,147,50,14,34,2,2,37,0,3,5,0
+HH3911T,10,231,District - Bhojpur,Total,Does not have kitchen,540,186,65,245,3,4,20,0,5,12,0
+HH3911T,10,231,District - Bhojpur,Total,Cooking outside house:,75,34,16,19,1,2,2,0,1,0,0
+HH3911T,10,231,District - Bhojpur,Total,Has Kitchen,23,4,10,4,1,2,1,0,1,0,0
+HH3911T,10,231,District - Bhojpur,Total,Does not have kitchen,52,30,6,15,0,0,1,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Total,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,231,District - Bhojpur,Rural,Total,657,232,89,285,2,4,19,0,9,16,1
+HH3911T,10,231,District - Bhojpur,Rural,Cooking inside house:,589,201,75,266,1,4,18,0,8,16,0
+HH3911T,10,231,District - Bhojpur,Rural,Has Kitchen,104,42,11,32,0,2,10,0,3,4,0
+HH3911T,10,231,District - Bhojpur,Rural,Does not have kitchen,485,159,64,234,1,2,8,0,5,12,0
+HH3911T,10,231,District - Bhojpur,Rural,Cooking outside house:,67,31,14,19,1,0,1,0,1,0,0
+HH3911T,10,231,District - Bhojpur,Rural,Has Kitchen,18,4,8,4,1,0,0,0,1,0,0
+HH3911T,10,231,District - Bhojpur,Rural,Does not have kitchen,49,27,6,15,0,0,1,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,231,District - Bhojpur,Urban,Total,108,38,6,13,4,4,40,0,0,1,2
+HH3911T,10,231,District - Bhojpur,Urban,Cooking inside house:,98,35,4,13,4,2,39,0,0,1,0
+HH3911T,10,231,District - Bhojpur,Urban,Has Kitchen,43,8,3,2,2,0,27,0,0,1,0
+HH3911T,10,231,District - Bhojpur,Urban,Does not have kitchen,55,27,1,11,2,2,12,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Urban,Cooking outside house:,8,3,2,0,0,2,1,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Urban,Has Kitchen,5,0,2,0,0,2,1,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Urban,Does not have kitchen,3,3,0,0,0,0,0,0,0,0,0
+HH3911T,10,231,District - Bhojpur,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,232,District - Buxar,Total,Total,468,155,43,209,11,2,38,2,0,6,2
+HH3911T,10,232,District - Buxar,Total,Cooking inside house:,419,143,33,196,3,2,36,1,0,5,0
+HH3911T,10,232,District - Buxar,Total,Has Kitchen,74,18,4,30,1,1,20,0,0,0,0
+HH3911T,10,232,District - Buxar,Total,Does not have kitchen,345,125,29,166,2,1,16,1,0,5,0
+HH3911T,10,232,District - Buxar,Total,Cooking outside house:,47,12,10,13,8,0,2,1,0,1,0
+HH3911T,10,232,District - Buxar,Total,Has Kitchen,26,6,6,8,4,0,2,0,0,0,0
+HH3911T,10,232,District - Buxar,Total,Does not have kitchen,21,6,4,5,4,0,0,1,0,1,0
+HH3911T,10,232,District - Buxar,Total,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,232,District - Buxar,Rural,Total,366,106,38,202,0,2,9,2,0,6,1
+HH3911T,10,232,District - Buxar,Rural,Cooking inside house:,335,100,30,189,0,2,8,1,0,5,0
+HH3911T,10,232,District - Buxar,Rural,Has Kitchen,52,14,2,30,0,1,5,0,0,0,0
+HH3911T,10,232,District - Buxar,Rural,Does not have kitchen,283,86,28,159,0,1,3,1,0,5,0
+HH3911T,10,232,District - Buxar,Rural,Cooking outside house:,30,6,8,13,0,0,1,1,0,1,0
+HH3911T,10,232,District - Buxar,Rural,Has Kitchen,18,4,5,8,0,0,1,0,0,0,0
+HH3911T,10,232,District - Buxar,Rural,Does not have kitchen,12,2,3,5,0,0,0,1,0,1,0
+HH3911T,10,232,District - Buxar,Rural,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,232,District - Buxar,Urban,Total,102,49,5,7,11,0,29,0,0,0,1
+HH3911T,10,232,District - Buxar,Urban,Cooking inside house:,84,43,3,7,3,0,28,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,Has Kitchen,22,4,2,0,1,0,15,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,Does not have kitchen,62,39,1,7,2,0,13,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,Cooking outside house:,17,6,2,0,8,0,1,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,Has Kitchen,8,2,1,0,4,0,1,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,Does not have kitchen,9,4,1,0,4,0,0,0,0,0,0
+HH3911T,10,232,District - Buxar,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Total,679,360,70,222,1,1,21,0,2,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Cooking inside house:,620,326,65,203,1,1,21,0,1,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Has Kitchen,199,121,13,46,1,1,16,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Does not have kitchen,421,205,52,157,0,0,5,0,0,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Cooking outside house:,59,34,5,19,0,0,0,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Has Kitchen,28,19,5,4,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,Does not have kitchen,31,15,0,15,0,0,0,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Total,639,343,67,214,1,1,9,0,2,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Cooking inside house:,585,311,64,196,1,1,9,0,1,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Has Kitchen,184,118,13,44,1,1,6,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Does not have kitchen,401,193,51,152,0,0,3,0,0,2,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Cooking outside house:,54,32,3,18,0,0,0,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Has Kitchen,24,18,3,3,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,Does not have kitchen,30,14,0,15,0,0,0,0,1,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Total,40,17,3,8,0,0,12,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Cooking inside house:,35,15,1,7,0,0,12,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Has Kitchen,15,3,0,2,0,0,10,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Does not have kitchen,20,12,1,5,0,0,2,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Cooking outside house:,5,2,2,1,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Has Kitchen,4,1,2,1,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,233,District - Kaimur (Bhabua),Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Total,Total,877,446,82,243,40,3,55,2,5,1,0
+HH3911T,10,234,District - Rohtas,Total,Cooking inside house:,804,422,56,230,33,3,54,2,3,1,0
+HH3911T,10,234,District - Rohtas,Total,Has Kitchen,171,71,9,35,8,1,44,1,2,0,0
+HH3911T,10,234,District - Rohtas,Total,Does not have kitchen,633,351,47,195,25,2,10,1,1,1,0
+HH3911T,10,234,District - Rohtas,Total,Cooking outside house:,73,24,26,13,7,0,1,0,2,0,0
+HH3911T,10,234,District - Rohtas,Total,Has Kitchen,13,4,4,4,0,0,0,0,1,0,0
+HH3911T,10,234,District - Rohtas,Total,Does not have kitchen,60,20,22,9,7,0,1,0,1,0,0
+HH3911T,10,234,District - Rohtas,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Rural,Total,715,384,71,229,21,0,7,1,2,0,0
+HH3911T,10,234,District - Rohtas,Rural,Cooking inside house:,658,373,45,216,14,0,7,1,2,0,0
+HH3911T,10,234,District - Rohtas,Rural,Has Kitchen,104,58,5,33,0,0,7,0,1,0,0
+HH3911T,10,234,District - Rohtas,Rural,Does not have kitchen,554,315,40,183,14,0,0,1,1,0,0
+HH3911T,10,234,District - Rohtas,Rural,Cooking outside house:,57,11,26,13,7,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Rural,Has Kitchen,12,4,4,4,0,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Rural,Does not have kitchen,45,7,22,9,7,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,234,District - Rohtas,Urban,Total,162,62,11,14,19,3,48,1,3,1,0
+HH3911T,10,234,District - Rohtas,Urban,Cooking inside house:,146,49,11,14,19,3,47,1,1,1,0
+HH3911T,10,234,District - Rohtas,Urban,Has Kitchen,67,13,4,2,8,1,37,1,1,0,0
+HH3911T,10,234,District - Rohtas,Urban,Does not have kitchen,79,36,7,12,11,2,10,0,0,1,0
+HH3911T,10,234,District - Rohtas,Urban,Cooking outside house:,16,13,0,0,0,0,1,0,2,0,0
+HH3911T,10,234,District - Rohtas,Urban,Has Kitchen,1,0,0,0,0,0,0,0,1,0,0
+HH3911T,10,234,District - Rohtas,Urban,Does not have kitchen,15,13,0,0,0,0,1,0,1,0,0
+HH3911T,10,234,District - Rohtas,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Total,Total,377,119,56,161,3,1,25,1,4,7,0
+HH3911T,10,235,District - Aurangabad,Total,Cooking inside house:,360,114,52,153,3,1,25,1,4,7,0
+HH3911T,10,235,District - Aurangabad,Total,Has Kitchen,65,23,6,20,1,0,15,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Total,Does not have kitchen,295,91,46,133,2,1,10,1,4,7,0
+HH3911T,10,235,District - Aurangabad,Total,Cooking outside house:,17,5,4,8,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Total,Has Kitchen,9,2,2,5,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Total,Does not have kitchen,8,3,2,3,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Rural,Total,341,106,55,157,2,0,10,1,4,6,0
+HH3911T,10,235,District - Aurangabad,Rural,Cooking inside house:,324,101,51,149,2,0,10,1,4,6,0
+HH3911T,10,235,District - Aurangabad,Rural,Has Kitchen,50,17,6,20,1,0,6,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Rural,Does not have kitchen,274,84,45,129,1,0,4,1,4,6,0
+HH3911T,10,235,District - Aurangabad,Rural,Cooking outside house:,17,5,4,8,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Rural,Has Kitchen,9,2,2,5,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Rural,Does not have kitchen,8,3,2,3,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Urban,Total,36,13,1,4,1,1,15,0,0,1,0
+HH3911T,10,235,District - Aurangabad,Urban,Cooking inside house:,36,13,1,4,1,1,15,0,0,1,0
+HH3911T,10,235,District - Aurangabad,Urban,Has Kitchen,15,6,0,0,0,0,9,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Urban,Does not have kitchen,21,7,1,4,1,1,6,0,0,1,0
+HH3911T,10,235,District - Aurangabad,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,235,District - Aurangabad,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Total,Total,933,314,154,237,86,11,110,2,3,11,5
+HH3911T,10,236,District - Gaya,Total,Cooking inside house:,834,281,131,213,77,10,109,2,2,9,0
+HH3911T,10,236,District - Gaya,Total,Has Kitchen,288,90,22,46,28,8,92,1,0,1,0
+HH3911T,10,236,District - Gaya,Total,Does not have kitchen,546,191,109,167,49,2,17,1,2,8,0
+HH3911T,10,236,District - Gaya,Total,Cooking outside house:,94,33,23,24,9,1,1,0,1,2,0
+HH3911T,10,236,District - Gaya,Total,Has Kitchen,33,13,9,7,4,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Total,Does not have kitchen,61,20,14,17,5,1,1,0,1,2,0
+HH3911T,10,236,District - Gaya,Total,No Cooking,5,0,0,0,0,0,0,0,0,0,5
+HH3911T,10,236,District - Gaya,Rural,Total,646,243,139,214,17,5,13,1,2,9,3
+HH3911T,10,236,District - Gaya,Rural,Cooking inside house:,570,217,118,195,15,4,12,1,1,7,0
+HH3911T,10,236,District - Gaya,Rural,Has Kitchen,133,63,15,43,2,2,7,0,0,1,0
+HH3911T,10,236,District - Gaya,Rural,Does not have kitchen,437,154,103,152,13,2,5,1,1,6,0
+HH3911T,10,236,District - Gaya,Rural,Cooking outside house:,73,26,21,19,2,1,1,0,1,2,0
+HH3911T,10,236,District - Gaya,Rural,Has Kitchen,23,11,7,5,0,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Rural,Does not have kitchen,50,15,14,14,2,1,1,0,1,2,0
+HH3911T,10,236,District - Gaya,Rural,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,236,District - Gaya,Urban,Total,287,71,15,23,69,6,97,1,1,2,2
+HH3911T,10,236,District - Gaya,Urban,Cooking inside house:,264,64,13,18,62,6,97,1,1,2,0
+HH3911T,10,236,District - Gaya,Urban,Has Kitchen,155,27,7,3,26,6,85,1,0,0,0
+HH3911T,10,236,District - Gaya,Urban,Does not have kitchen,109,37,6,15,36,0,12,0,1,2,0
+HH3911T,10,236,District - Gaya,Urban,Cooking outside house:,21,7,2,5,7,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Urban,Has Kitchen,10,2,2,2,4,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Urban,Does not have kitchen,11,5,0,3,3,0,0,0,0,0,0
+HH3911T,10,236,District - Gaya,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3911T,10,237,District - Nawada,Total,Total,368,111,76,122,25,3,20,0,6,5,0
+HH3911T,10,237,District - Nawada,Total,Cooking inside house:,327,102,68,101,23,3,19,0,6,5,0
+HH3911T,10,237,District - Nawada,Total,Has Kitchen,68,21,9,17,3,0,13,0,5,0,0
+HH3911T,10,237,District - Nawada,Total,Does not have kitchen,259,81,59,84,20,3,6,0,1,5,0
+HH3911T,10,237,District - Nawada,Total,Cooking outside house:,41,9,8,21,2,0,1,0,0,0,0
+HH3911T,10,237,District - Nawada,Total,Has Kitchen,6,0,3,2,1,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Total,Does not have kitchen,35,9,5,19,1,0,1,0,0,0,0
+HH3911T,10,237,District - Nawada,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Rural,Total,337,107,76,117,17,2,7,0,6,5,0
+HH3911T,10,237,District - Nawada,Rural,Cooking inside house:,296,98,68,96,15,2,6,0,6,5,0
+HH3911T,10,237,District - Nawada,Rural,Has Kitchen,53,19,9,16,1,0,3,0,5,0,0
+HH3911T,10,237,District - Nawada,Rural,Does not have kitchen,243,79,59,80,14,2,3,0,1,5,0
+HH3911T,10,237,District - Nawada,Rural,Cooking outside house:,41,9,8,21,2,0,1,0,0,0,0
+HH3911T,10,237,District - Nawada,Rural,Has Kitchen,6,0,3,2,1,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Rural,Does not have kitchen,35,9,5,19,1,0,1,0,0,0,0
+HH3911T,10,237,District - Nawada,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Total,31,4,0,5,8,1,13,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Cooking inside house:,31,4,0,5,8,1,13,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Has Kitchen,15,2,0,1,2,0,10,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Does not have kitchen,16,2,0,4,6,1,3,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Cooking outside house:,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,237,District - Nawada,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Total,Total,1299,1027,99,133,4,3,14,3,5,11,0
+HH3911T,10,238,District - Jamui,Total,Cooking inside house:,1188,940,89,120,4,3,14,3,5,10,0
+HH3911T,10,238,District - Jamui,Total,Has Kitchen,159,120,14,10,2,0,12,0,0,1,0
+HH3911T,10,238,District - Jamui,Total,Does not have kitchen,1029,820,75,110,2,3,2,3,5,9,0
+HH3911T,10,238,District - Jamui,Total,Cooking outside house:,111,87,10,13,0,0,0,0,0,1,0
+HH3911T,10,238,District - Jamui,Total,Has Kitchen,36,22,6,8,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Total,Does not have kitchen,75,65,4,5,0,0,0,0,0,1,0
+HH3911T,10,238,District - Jamui,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Rural,Total,1266,1010,96,132,0,3,6,3,5,11,0
+HH3911T,10,238,District - Jamui,Rural,Cooking inside house:,1157,925,86,119,0,3,6,3,5,10,0
+HH3911T,10,238,District - Jamui,Rural,Has Kitchen,144,115,14,10,0,0,4,0,0,1,0
+HH3911T,10,238,District - Jamui,Rural,Does not have kitchen,1013,810,72,109,0,3,2,3,5,9,0
+HH3911T,10,238,District - Jamui,Rural,Cooking outside house:,109,85,10,13,0,0,0,0,0,1,0
+HH3911T,10,238,District - Jamui,Rural,Has Kitchen,36,22,6,8,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Rural,Does not have kitchen,73,63,4,5,0,0,0,0,0,1,0
+HH3911T,10,238,District - Jamui,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Total,33,17,3,1,4,0,8,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Cooking inside house:,31,15,3,1,4,0,8,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Has Kitchen,15,5,0,0,2,0,8,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Does not have kitchen,16,10,3,1,2,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Cooking outside house:,2,2,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,Does not have kitchen,2,2,0,0,0,0,0,0,0,0,0
+HH3911T,10,238,District - Jamui,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Total,Total,176,55,27,80,4,0,6,0,0,1,3
+HH3911T,10,239,District - Jehanabad ,Total,Cooking inside house:,154,51,21,72,3,0,6,0,0,1,0
+HH3911T,10,239,District - Jehanabad ,Total,Has Kitchen,49,29,5,8,1,0,6,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Total,Does not have kitchen,105,22,16,64,2,0,0,0,0,1,0
+HH3911T,10,239,District - Jehanabad ,Total,Cooking outside house:,19,4,6,8,1,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Total,Has Kitchen,11,3,5,2,1,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Total,Does not have kitchen,8,1,1,6,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Total,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,239,District - Jehanabad ,Rural,Total,134,30,27,74,0,0,2,0,0,1,0
+HH3911T,10,239,District - Jehanabad ,Rural,Cooking inside house:,118,28,21,66,0,0,2,0,0,1,0
+HH3911T,10,239,District - Jehanabad ,Rural,Has Kitchen,22,7,5,8,0,0,2,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Rural,Does not have kitchen,96,21,16,58,0,0,0,0,0,1,0
+HH3911T,10,239,District - Jehanabad ,Rural,Cooking outside house:,16,2,6,8,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Rural,Has Kitchen,9,2,5,2,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Rural,Does not have kitchen,7,0,1,6,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Total,42,25,0,6,4,0,4,0,0,0,3
+HH3911T,10,239,District - Jehanabad ,Urban,Cooking inside house:,36,23,0,6,3,0,4,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Has Kitchen,27,22,0,0,1,0,4,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Does not have kitchen,9,1,0,6,2,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Cooking outside house:,3,2,0,0,1,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Has Kitchen,2,1,0,0,1,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,Does not have kitchen,1,1,0,0,0,0,0,0,0,0,0
+HH3911T,10,239,District - Jehanabad ,Urban,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3911T,10,240,District - Arwal,Total,Total,61,6,7,46,0,0,0,0,1,1,0
+HH3911T,10,240,District - Arwal,Total,Cooking inside house:,55,6,7,41,0,0,0,0,1,0,0
+HH3911T,10,240,District - Arwal,Total,Has Kitchen,17,3,3,11,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Total,Does not have kitchen,38,3,4,30,0,0,0,0,1,0,0
+HH3911T,10,240,District - Arwal,Total,Cooking outside house:,6,0,0,5,0,0,0,0,0,1,0
+HH3911T,10,240,District - Arwal,Total,Has Kitchen,5,0,0,5,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Total,Does not have kitchen,1,0,0,0,0,0,0,0,0,1,0
+HH3911T,10,240,District - Arwal,Total,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Rural,Total,55,6,7,40,0,0,0,0,1,1,0
+HH3911T,10,240,District - Arwal,Rural,Cooking inside house:,54,6,7,40,0,0,0,0,1,0,0
+HH3911T,10,240,District - Arwal,Rural,Has Kitchen,16,3,3,10,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Rural,Does not have kitchen,38,3,4,30,0,0,0,0,1,0,0
+HH3911T,10,240,District - Arwal,Rural,Cooking outside house:,1,0,0,0,0,0,0,0,0,1,0
+HH3911T,10,240,District - Arwal,Rural,Has Kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Rural,Does not have kitchen,1,0,0,0,0,0,0,0,0,1,0
+HH3911T,10,240,District - Arwal,Rural,No Cooking,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Total,6,0,0,6,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Cooking inside house:,1,0,0,1,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Has Kitchen,1,0,0,1,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Cooking outside house:,5,0,0,5,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Has Kitchen,5,0,0,5,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,Does not have kitchen,0,0,0,0,0,0,0,0,0,0,0
+HH3911T,10,240,District - Arwal,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,142 @@
+HH-13 SC :  SCHEDULE CASTE HOUSEHOLDS BY TYPE OF STRUCTURE OF THE CENSUS HOUSES OCCUPIED                                                                                                                                                                          ,,,,,,,,,,,
+(Excluding Institutional Households) ,,,,,,,,,,,
+Table Name,State Code,District Code,Area Name,"Total/
+Rural/
+Urban",Total number of households,Type of Census Houses,,,,,Unclassifiable
+,,,,,,Permanent,Semi-permanent,Temporary,,,
+,,,,,,,,Total,Serviceable,Non-Serviceable,
+,,,,,,,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12
+HH4413C,10,000,STATE - BIHAR,Total,3230798,1284813,679831,1245581,431974,813607,20573
+HH4413C,10,000,STATE - BIHAR,Rural,2983048,1148857,631763,1183798,406242,777556,18630
+HH4413C,10,000,STATE - BIHAR,Urban,247750,135956,48068,61783,25732,36051,1943
+HH4413C,10,203,District - Pashchim Champaran,Total,110238,45848,11959,51674,1528,50146,757
+HH4413C,10,203,District - Pashchim Champaran,Rural,103870,43096,10957,49113,1371,47742,704
+HH4413C,10,203,District - Pashchim Champaran,Urban,6368,2752,1002,2561,157,2404,53
+HH4413C,10,204,District - Purba Champaran,Total,139068,52803,13024,72392,3474,68918,849
+HH4413C,10,204,District - Purba Champaran,Rural,131185,49183,12099,69128,3305,65823,775
+HH4413C,10,204,District - Purba Champaran,Urban,7883,3620,925,3264,169,3095,74
+HH4413C,10,205,District - Sheohar,Total,23315,6686,2163,14326,372,13954,140
+HH4413C,10,205,District - Sheohar,Rural,22457,6398,2085,13842,335,13507,132
+HH4413C,10,205,District - Sheohar,Urban,858,288,78,484,37,447,8
+HH4413C,10,206,District - Sitamarhi,Total,91674,34780,13745,42684,3337,39347,465
+HH4413C,10,206,District - Sitamarhi,Rural,87797,33167,13004,41171,3191,37980,455
+HH4413C,10,206,District - Sitamarhi,Urban,3877,1613,741,1513,146,1367,10
+HH4413C,10,207,District - Madhubani,Total,127544,52680,15282,58361,7335,51026,1221
+HH4413C,10,207,District - Madhubani,Rural,124342,51294,14878,56982,7152,49830,1188
+HH4413C,10,207,District - Madhubani,Urban,3202,1386,404,1379,183,1196,33
+HH4413C,10,208,District - Supaul,Total,71420,19355,18316,33528,817,32711,221
+HH4413C,10,208,District - Supaul,Rural,69033,18776,18053,31983,768,31215,221
+HH4413C,10,208,District - Supaul,Urban,2387,579,263,1545,49,1496,0
+HH4413C,10,209,District - Araria,Total,81152,11191,32031,37737,620,37117,193
+HH4413C,10,209,District - Araria,Rural,77618,10339,30735,36377,587,35790,167
+HH4413C,10,209,District - Araria,Urban,3534,852,1296,1360,33,1327,26
+HH4413C,10,210,District - Kishanganj,Total,26330,13036,8193,4985,417,4568,116
+HH4413C,10,210,District - Kishanganj,Rural,22190,11577,6651,3855,351,3504,107
+HH4413C,10,210,District - Kishanganj,Urban,4140,1459,1542,1130,66,1064,9
+HH4413C,10,211,District - Purnia,Total,83592,21855,22912,38472,937,37535,353
+HH4413C,10,211,District - Purnia,Rural,76524,19644,20676,35876,770,35106,328
+HH4413C,10,211,District - Purnia,Urban,7068,2211,2236,2596,167,2429,25
+HH4413C,10,212,District - Katihar,Total,59945,27656,16882,15147,797,14350,260
+HH4413C,10,212,District - Katihar,Rural,52718,24403,14433,13648,725,12923,234
+HH4413C,10,212,District - Katihar,Urban,7227,3253,2449,1499,72,1427,26
+HH4413C,10,213,District - Madhepura,Total,72147,22065,16525,33219,1003,32216,338
+HH4413C,10,213,District - Madhepura,Rural,70059,21533,15838,32361,966,31395,327
+HH4413C,10,213,District - Madhepura,Urban,2088,532,687,858,37,821,11
+HH4413C,10,214,District - Saharsa,Total,62968,19753,8961,34097,1531,32566,157
+HH4413C,10,214,District - Saharsa,Rural,60245,18525,8141,33444,1358,32086,135
+HH4413C,10,214,District - Saharsa,Urban,2723,1228,820,653,173,480,22
+HH4413C,10,215,District - Darbhanga,Total,126741,51677,23948,50525,6323,44202,591
+HH4413C,10,215,District - Darbhanga,Rural,116971,45651,22371,48394,5788,42606,555
+HH4413C,10,215,District - Darbhanga,Urban,9770,6026,1577,2131,535,1596,36
+HH4413C,10,216,District - Muzaffarpur,Total,160006,74807,21349,62145,4866,57279,1705
+HH4413C,10,216,District - Muzaffarpur,Rural,149215,68125,19923,59555,4480,55075,1612
+HH4413C,10,216,District - Muzaffarpur,Urban,10791,6682,1426,2590,386,2204,93
+HH4413C,10,217,District - Gopalganj,Total,57801,39970,4184,12829,960,11869,818
+HH4413C,10,217,District - Gopalganj,Rural,54763,38112,3909,11937,828,11109,805
+HH4413C,10,217,District - Gopalganj,Urban,3038,1858,275,892,132,760,13
+HH4413C,10,218,District - Siwan,Total,68927,51292,6723,10247,2191,8056,665
+HH4413C,10,218,District - Siwan,Rural,66716,49561,6455,10054,2135,7919,646
+HH4413C,10,218,District - Siwan,Urban,2211,1731,268,193,56,137,19
+HH4413C,10,219,District - Saran,Total,85237,47723,13470,23551,5885,17666,493
+HH4413C,10,219,District - Saran,Rural,78609,43956,12334,21876,5337,16539,443
+HH4413C,10,219,District - Saran,Urban,6628,3767,1136,1675,548,1127,50
+HH4413C,10,220,District - Vaishali,Total,137830,51376,21872,63804,10622,53182,778
+HH4413C,10,220,District - Vaishali,Rural,131031,48103,20584,61647,9954,51693,697
+HH4413C,10,220,District - Vaishali,Urban,6799,3273,1288,2157,668,1489,81
+HH4413C,10,221,District - Samastipur,Total,164792,60318,29127,74632,6228,68404,715
+HH4413C,10,221,District - Samastipur,Rural,160241,57899,28250,73394,6007,67387,698
+HH4413C,10,221,District - Samastipur,Urban,4551,2419,877,1238,221,1017,17
+HH4413C,10,222,District - Begusarai,Total,93250,45931,17454,29446,3973,25473,419
+HH4413C,10,222,District - Begusarai,Rural,79565,37142,15192,26865,3219,23646,366
+HH4413C,10,222,District - Begusarai,Urban,13685,8789,2262,2581,754,1827,53
+HH4413C,10,223,District - Khagaria,Total,52777,17182,8037,27392,2062,25330,166
+HH4413C,10,223,District - Khagaria,Rural,51433,16611,7637,27022,2001,25021,163
+HH4413C,10,223,District - Khagaria,Urban,1344,571,400,370,61,309,3
+HH4413C,10,224,District - Bhagalpur,Total,66624,30594,12579,23068,10884,12184,383
+HH4413C,10,224,District - Bhagalpur,Rural,55994,24393,10112,21218,9980,11238,271
+HH4413C,10,224,District - Bhagalpur,Urban,10630,6201,2467,1850,904,946,112
+HH4413C,10,225,District - Banka,Total,51104,15268,10861,24764,21661,3103,211
+HH4413C,10,225,District - Banka,Rural,49387,14617,10578,23990,21018,2972,202
+HH4413C,10,225,District - Banka,Urban,1717,651,283,774,643,131,9
+HH4413C,10,226,District - Munger,Total,38390,19905,6746,11527,6621,4906,212
+HH4413C,10,226,District - Munger,Rural,31237,15759,5274,10081,5512,4569,123
+HH4413C,10,226,District - Munger,Urban,7153,4146,1472,1446,1109,337,89
+HH4413C,10,227,District - Lakhisarai,Total,29121,12416,6114,10441,6868,3573,150
+HH4413C,10,227,District - Lakhisarai,Rural,26167,11118,5363,9582,6332,3250,104
+HH4413C,10,227,District - Lakhisarai,Urban,2954,1298,751,859,536,323,46
+HH4413C,10,228,District - Sheikhpura,Total,24934,11317,5143,8141,6306,1835,333
+HH4413C,10,228,District - Sheikhpura,Rural,21896,10016,4287,7293,5674,1619,300
+HH4413C,10,228,District - Sheikhpura,Urban,3038,1301,856,848,632,216,33
+HH4413C,10,229,District - Nalanda,Total,112699,53723,23412,34448,27758,6690,1116
+HH4413C,10,229,District - Nalanda,Rural,102457,48331,21378,31770,25554,6216,978
+HH4413C,10,229,District - Nalanda,Urban,10242,5392,2034,2678,2204,474,138
+HH4413C,10,230,District - Patna,Total,172684,91760,32521,47362,34621,12741,1041
+HH4413C,10,230,District - Patna,Rural,121958,56676,25789,38799,29402,9397,694
+HH4413C,10,230,District - Patna,Urban,50726,35084,6732,8563,5219,3344,347
+HH4413C,10,231,District - Bhojpur,Total,76981,36924,19359,20144,14316,5828,554
+HH4413C,10,231,District - Bhojpur,Rural,69695,32703,17955,18518,13037,5481,519
+HH4413C,10,231,District - Bhojpur,Urban,7286,4221,1404,1626,1279,347,35
+HH4413C,10,232,District - Buxar,Total,43094,19276,10638,12797,8164,4633,383
+HH4413C,10,232,District - Buxar,Rural,40399,17693,10162,12200,7855,4345,344
+HH4413C,10,232,District - Buxar,Urban,2695,1583,476,597,309,288,39
+HH4413C,10,233,District - Kaimur (Bhabua),Total,61239,23051,20034,17545,13661,3884,609
+HH4413C,10,233,District - Kaimur (Bhabua),Rural,59747,22071,19829,17257,13435,3822,590
+HH4413C,10,233,District - Kaimur (Bhabua),Urban,1492,980,205,288,226,62,19
+HH4413C,10,234,District - Rohtas,Total,94076,33723,33950,25965,21348,4617,438
+HH4413C,10,234,District - Rohtas,Rural,85996,29628,31657,24320,20049,4271,391
+HH4413C,10,234,District - Rohtas,Urban,8080,4095,2293,1645,1299,346,47
+HH4413C,10,235,District - Aurangabad,Total,101358,29356,30794,40303,35313,4990,905
+HH4413C,10,235,District - Aurangabad,Rural,96477,26986,29650,39060,34247,4813,781
+HH4413C,10,235,District - Aurangabad,Urban,4881,2370,1144,1243,1066,177,124
+HH4413C,10,236,District - Gaya,Total,234272,63022,71259,98784,90153,8631,1207
+HH4413C,10,236,District - Gaya,Rural,221123,56014,68292,95729,87609,8120,1088
+HH4413C,10,236,District - Gaya,Urban,13149,7008,2967,3055,2544,511,119
+HH4413C,10,237,District - Nawada,Total,100423,27318,34271,38147,33677,4470,687
+HH4413C,10,237,District - Nawada,Rural,95428,24970,33154,36660,32474,4186,644
+HH4413C,10,237,District - Nawada,Urban,4995,2348,1117,1487,1203,284,43
+HH4413C,10,238,District - Jamui,Total,60770,22567,20854,16742,13753,2989,607
+HH4413C,10,238,District - Jamui,Rural,57409,21228,19818,15781,12919,2862,582
+HH4413C,10,238,District - Jamui,Urban,3361,1339,1036,961,834,127,25
+HH4413C,10,239,District - Jehanabad ,Total,40620,18155,8980,13278,11513,1765,207
+HH4413C,10,239,District - Jehanabad ,Rural,37090,16163,8367,12409,10731,1678,151
+HH4413C,10,239,District - Jehanabad ,Urban,3530,1992,613,869,782,87,56
+HH4413C,10,240,District - Arwal,Total,25655,8454,6159,10932,10079,853,110
+HH4413C,10,240,District - Arwal,Rural,24006,7396,5893,10607,9786,821,110
+HH4413C,10,240,District - Arwal,Urban,1649,1058,266,325,293,32,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Permanent:,,"Houses with wall and roof made of permanent materials. Wall can be made of G.I., Stone packed with Mortar,",,,,,,,,,
+,,"Stone not packed with Mortar, Metal, Asbestos sheets, Burnt bricks,Stone or Concrete.  Roof can be made of",,,,,,,,,
+,,"Hand-made tiles, Machine made tiles, Slate, G.I., Metal, Asbestos sheets, Brick, Stone or Concrete.",,,,,,,,,
+,,,,,,,,,,,
+Temporary:,,"Houses with wall and roof made of temporary material. Wall can be made of Grass, Thatch, Bamboo etc., Plastic,",,,,,,,,,
+,,"Polythene, Mud, Unburnt brick or Wood. Roof can be made of Grass, Thatch, Bamboo, Wood, Mud, Plastic or Polythene.",,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Semi-Permament :,,,  Either wall or roof is made of permanent material and other is made of temporary material.,,,,,,,,
+,,,,,,,,,,,
+Serviceable temporary :,,,"  Wall is made of Mud, Un-burnt brick or Wood.",,,,,,,,
+,,,,,,,,,,,
+Non-serviceable:,,,"  Wall is made of Grass, Thatch, Bamboo etc., Plastic or Polythene.",,,,,,,,

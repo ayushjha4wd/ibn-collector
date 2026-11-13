@@ -1,0 +1,943 @@
+HH-10 SC :SCHEDULED CASTE HOUSEHOLDS BY AVAILABILITY OF SEPARATE KITCHEN AND TYPE OF FUEL USED FOR COOKING,,,,,,,,,,,,,,,,
+ (Excluding Institutional Households),,,,,,,,,,,,,,,,
+Table Name,State Code,District Code,Area Name,"Total/
+Rural/
+Urban",Availability of separate kitchen ,Total number of households,Type of Fuel used for Cooking,,,,,,,,,
+,,,,,,,Fire-wood,Crop residue,Cowdung cake,"Coal,Lignite,Charcoal",Kerosene,LPG/PNG,Electricity,Biogas,Any other,No cooking
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+HH3510C,10,000,STATE - BIHAR,Total,Total,3230798,1096164,1133185,812578,26566,6182,86468,4284,6248,54253,4870
+HH3510C,10,000,STATE - BIHAR,Total,Cooking inside house:,2625108,925207,831300,707871,22296,5401,83296,3262,5489,40986,0
+HH3510C,10,000,STATE - BIHAR,Total,Has Kitchen,457770,176625,121323,85986,4578,1926,61287,695,1296,4054,0
+HH3510C,10,000,STATE - BIHAR,Total,Does not have kitchen,2167338,748582,709977,621885,17718,3475,22009,2567,4193,36932,0
+HH3510C,10,000,STATE - BIHAR,Total,Cooking outside house:,600820,170957,301885,104707,4270,781,3172,1022,759,13267,0
+HH3510C,10,000,STATE - BIHAR,Total,Has Kitchen,229475,60167,122615,39557,1891,276,1591,324,276,2778,0
+HH3510C,10,000,STATE - BIHAR,Total,Does not have kitchen,371345,110790,179270,65150,2379,505,1581,698,483,10489,0
+HH3510C,10,000,STATE - BIHAR,Total,No Cooking,4870,0,0,0,0,0,0,0,0,0,4870
+HH3510C,10,000,STATE - BIHAR,Rural,Total,2983048,991454,1102931,782711,9996,3674,26877,3798,5568,51850,4189
+HH3510C,10,000,STATE - BIHAR,Rural,Cooking inside house:,2411921,838568,808501,682380,7306,3119,25038,2826,4869,39314,0
+HH3510C,10,000,STATE - BIHAR,Rural,Has Kitchen,387211,161331,117234,83434,1691,913,17350,497,913,3848,0
+HH3510C,10,000,STATE - BIHAR,Rural,Does not have kitchen,2024710,677237,691267,598946,5615,2206,7688,2329,3956,35466,0
+HH3510C,10,000,STATE - BIHAR,Rural,Cooking outside house:,566938,152886,294430,100331,2690,555,1839,972,699,12536,0
+HH3510C,10,000,STATE - BIHAR,Rural,Has Kitchen,220178,55474,120557,38316,1512,194,877,303,254,2691,0
+HH3510C,10,000,STATE - BIHAR,Rural,Does not have kitchen,346760,97412,173873,62015,1178,361,962,669,445,9845,0
+HH3510C,10,000,STATE - BIHAR,Rural,No Cooking,4189,0,0,0,0,0,0,0,0,0,4189
+HH3510C,10,000,STATE - BIHAR,Urban,Total,247750,104710,30254,29867,16570,2508,59591,486,680,2403,681
+HH3510C,10,000,STATE - BIHAR,Urban,Cooking inside house:,213187,86639,22799,25491,14990,2282,58258,436,620,1672,0
+HH3510C,10,000,STATE - BIHAR,Urban,Has Kitchen,70559,15294,4089,2552,2887,1013,43937,198,383,206,0
+HH3510C,10,000,STATE - BIHAR,Urban,Does not have kitchen,142628,71345,18710,22939,12103,1269,14321,238,237,1466,0
+HH3510C,10,000,STATE - BIHAR,Urban,Cooking outside house:,33882,18071,7455,4376,1580,226,1333,50,60,731,0
+HH3510C,10,000,STATE - BIHAR,Urban,Has Kitchen,9297,4693,2058,1241,379,82,714,21,22,87,0
+HH3510C,10,000,STATE - BIHAR,Urban,Does not have kitchen,24585,13378,5397,3135,1201,144,619,29,38,644,0
+HH3510C,10,000,STATE - BIHAR,Urban,No Cooking,681,0,0,0,0,0,0,0,0,0,681
+HH3510C,10,203,District - Pashchim Champaran,Total,Total,110238,52976,41524,13465,69,60,1413,135,96,364,136
+HH3510C,10,203,District - Pashchim Champaran,Total,Cooking inside house:,99473,48373,36950,12161,35,54,1376,112,85,327,0
+HH3510C,10,203,District - Pashchim Champaran,Total,Has Kitchen,29729,16338,8687,3543,10,23,1043,29,15,41,0
+HH3510C,10,203,District - Pashchim Champaran,Total,Does not have kitchen,69744,32035,28263,8618,25,31,333,83,70,286,0
+HH3510C,10,203,District - Pashchim Champaran,Total,Cooking outside house:,10629,4603,4574,1304,34,6,37,23,11,37,0
+HH3510C,10,203,District - Pashchim Champaran,Total,Has Kitchen,5534,2392,2307,743,30,4,23,13,5,17,0
+HH3510C,10,203,District - Pashchim Champaran,Total,Does not have kitchen,5095,2211,2267,561,4,2,14,10,6,20,0
+HH3510C,10,203,District - Pashchim Champaran,Total,No Cooking,136,0,0,0,0,0,0,0,0,0,136
+HH3510C,10,203,District - Pashchim Champaran,Rural,Total,103870,49275,40279,13177,59,39,361,122,81,348,129
+HH3510C,10,203,District - Pashchim Champaran,Rural,Cooking inside house:,93547,44955,35779,11920,25,35,345,100,70,318,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,Has Kitchen,27990,15607,8510,3490,7,16,290,25,6,39,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,Does not have kitchen,65557,29348,27269,8430,18,19,55,75,64,279,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,Cooking outside house:,10194,4320,4500,1257,34,4,16,22,11,30,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,Has Kitchen,5348,2283,2278,715,30,2,10,13,5,12,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,Does not have kitchen,4846,2037,2222,542,4,2,6,9,6,18,0
+HH3510C,10,203,District - Pashchim Champaran,Rural,No Cooking,129,0,0,0,0,0,0,0,0,0,129
+HH3510C,10,203,District - Pashchim Champaran,Urban,Total,6368,3701,1245,288,10,21,1052,13,15,16,7
+HH3510C,10,203,District - Pashchim Champaran,Urban,Cooking inside house:,5926,3418,1171,241,10,19,1031,12,15,9,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,Has Kitchen,1739,731,177,53,3,7,753,4,9,2,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,Does not have kitchen,4187,2687,994,188,7,12,278,8,6,7,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,Cooking outside house:,435,283,74,47,0,2,21,1,0,7,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,Has Kitchen,186,109,29,28,0,2,13,0,0,5,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,Does not have kitchen,249,174,45,19,0,0,8,1,0,2,0
+HH3510C,10,203,District - Pashchim Champaran,Urban,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3510C,10,204,District - Purba Champaran,Total,Total,139068,64408,59920,11622,129,101,1690,138,68,823,169
+HH3510C,10,204,District - Purba Champaran,Total,Cooking inside house:,124639,59232,52652,10046,73,91,1641,118,60,726,0
+HH3510C,10,204,District - Purba Champaran,Total,Has Kitchen,27951,17238,7839,1408,25,28,1289,34,24,66,0
+HH3510C,10,204,District - Purba Champaran,Total,Does not have kitchen,96688,41994,44813,8638,48,63,352,84,36,660,0
+HH3510C,10,204,District - Purba Champaran,Total,Cooking outside house:,14260,5176,7268,1576,56,10,49,20,8,97,0
+HH3510C,10,204,District - Purba Champaran,Total,Has Kitchen,5641,2166,2727,646,47,6,20,8,2,19,0
+HH3510C,10,204,District - Purba Champaran,Total,Does not have kitchen,8619,3010,4541,930,9,4,29,12,6,78,0
+HH3510C,10,204,District - Purba Champaran,Total,No Cooking,169,0,0,0,0,0,0,0,0,0,169
+HH3510C,10,204,District - Purba Champaran,Rural,Total,131185,59827,58241,11034,109,71,787,128,59,790,139
+HH3510C,10,204,District - Purba Champaran,Rural,Cooking inside house:,117536,55040,51232,9535,55,61,752,108,52,701,0
+HH3510C,10,204,District - Purba Champaran,Rural,Has Kitchen,26331,16506,7722,1366,15,17,594,29,22,60,0
+HH3510C,10,204,District - Purba Champaran,Rural,Does not have kitchen,91205,38534,43510,8169,40,44,158,79,30,641,0
+HH3510C,10,204,District - Purba Champaran,Rural,Cooking outside house:,13510,4787,7009,1499,54,10,35,20,7,89,0
+HH3510C,10,204,District - Purba Champaran,Rural,Has Kitchen,5400,2053,2624,632,45,6,12,8,2,18,0
+HH3510C,10,204,District - Purba Champaran,Rural,Does not have kitchen,8110,2734,4385,867,9,4,23,12,5,71,0
+HH3510C,10,204,District - Purba Champaran,Rural,No Cooking,139,0,0,0,0,0,0,0,0,0,139
+HH3510C,10,204,District - Purba Champaran,Urban,Total,7883,4581,1679,588,20,30,903,10,9,33,30
+HH3510C,10,204,District - Purba Champaran,Urban,Cooking inside house:,7103,4192,1420,511,18,30,889,10,8,25,0
+HH3510C,10,204,District - Purba Champaran,Urban,Has Kitchen,1620,732,117,42,10,11,695,5,2,6,0
+HH3510C,10,204,District - Purba Champaran,Urban,Does not have kitchen,5483,3460,1303,469,8,19,194,5,6,19,0
+HH3510C,10,204,District - Purba Champaran,Urban,Cooking outside house:,750,389,259,77,2,0,14,0,1,8,0
+HH3510C,10,204,District - Purba Champaran,Urban,Has Kitchen,241,113,103,14,2,0,8,0,0,1,0
+HH3510C,10,204,District - Purba Champaran,Urban,Does not have kitchen,509,276,156,63,0,0,6,0,1,7,0
+HH3510C,10,204,District - Purba Champaran,Urban,No Cooking,30,0,0,0,0,0,0,0,0,0,30
+HH3510C,10,205,District - Sheohar,Total,Total,23315,6037,12829,3879,4,16,106,35,24,355,30
+HH3510C,10,205,District - Sheohar,Total,Cooking inside house:,20502,5269,11385,3417,1,16,99,19,23,273,0
+HH3510C,10,205,District - Sheohar,Total,Has Kitchen,3860,1647,1319,750,0,10,81,3,3,47,0
+HH3510C,10,205,District - Sheohar,Total,Does not have kitchen,16642,3622,10066,2667,1,6,18,16,20,226,0
+HH3510C,10,205,District - Sheohar,Total,Cooking outside house:,2783,768,1444,462,3,0,7,16,1,82,0
+HH3510C,10,205,District - Sheohar,Total,Has Kitchen,1270,381,548,326,1,0,4,7,0,3,0
+HH3510C,10,205,District - Sheohar,Total,Does not have kitchen,1513,387,896,136,2,0,3,9,1,79,0
+HH3510C,10,205,District - Sheohar,Total,No Cooking,30,0,0,0,0,0,0,0,0,0,30
+HH3510C,10,205,District - Sheohar,Rural,Total,22457,5747,12356,3829,4,14,67,35,23,355,27
+HH3510C,10,205,District - Sheohar,Rural,Cooking inside house:,19719,5010,10946,3370,1,14,64,19,22,273,0
+HH3510C,10,205,District - Sheohar,Rural,Has Kitchen,3735,1581,1298,741,0,9,54,3,2,47,0
+HH3510C,10,205,District - Sheohar,Rural,Does not have kitchen,15984,3429,9648,2629,1,5,10,16,20,226,0
+HH3510C,10,205,District - Sheohar,Rural,Cooking outside house:,2711,737,1410,459,3,0,3,16,1,82,0
+HH3510C,10,205,District - Sheohar,Rural,Has Kitchen,1232,358,540,323,1,0,0,7,0,3,0
+HH3510C,10,205,District - Sheohar,Rural,Does not have kitchen,1479,379,870,136,2,0,3,9,1,79,0
+HH3510C,10,205,District - Sheohar,Rural,No Cooking,27,0,0,0,0,0,0,0,0,0,27
+HH3510C,10,205,District - Sheohar,Urban,Total,858,290,473,50,0,2,39,0,1,0,3
+HH3510C,10,205,District - Sheohar,Urban,Cooking inside house:,783,259,439,47,0,2,35,0,1,0,0
+HH3510C,10,205,District - Sheohar,Urban,Has Kitchen,125,66,21,9,0,1,27,0,1,0,0
+HH3510C,10,205,District - Sheohar,Urban,Does not have kitchen,658,193,418,38,0,1,8,0,0,0,0
+HH3510C,10,205,District - Sheohar,Urban,Cooking outside house:,72,31,34,3,0,0,4,0,0,0,0
+HH3510C,10,205,District - Sheohar,Urban,Has Kitchen,38,23,8,3,0,0,4,0,0,0,0
+HH3510C,10,205,District - Sheohar,Urban,Does not have kitchen,34,8,26,0,0,0,0,0,0,0,0
+HH3510C,10,205,District - Sheohar,Urban,No Cooking,3,0,0,0,0,0,0,0,0,0,3
+HH3510C,10,206,District - Sitamarhi,Total,Total,91674,33102,39887,15152,124,78,1244,94,44,1811,138
+HH3510C,10,206,District - Sitamarhi,Total,Cooking inside house:,77891,28603,33944,12678,41,63,1157,74,38,1293,0
+HH3510C,10,206,District - Sitamarhi,Total,Has Kitchen,14356,6946,4048,2289,12,27,905,10,20,99,0
+HH3510C,10,206,District - Sitamarhi,Total,Does not have kitchen,63535,21657,29896,10389,29,36,252,64,18,1194,0
+HH3510C,10,206,District - Sitamarhi,Total,Cooking outside house:,13645,4499,5943,2474,83,15,87,20,6,518,0
+HH3510C,10,206,District - Sitamarhi,Total,Has Kitchen,4348,1493,1924,778,68,2,45,8,2,28,0
+HH3510C,10,206,District - Sitamarhi,Total,Does not have kitchen,9297,3006,4019,1696,15,13,42,12,4,490,0
+HH3510C,10,206,District - Sitamarhi,Total,No Cooking,138,0,0,0,0,0,0,0,0,0,138
+HH3510C,10,206,District - Sitamarhi,Rural,Total,87797,30826,39140,14860,117,66,752,92,41,1766,137
+HH3510C,10,206,District - Sitamarhi,Rural,Cooking inside house:,74899,26857,33412,12456,36,53,688,72,35,1290,0
+HH3510C,10,206,District - Sitamarhi,Rural,Has Kitchen,13648,6726,3969,2262,9,23,531,10,19,99,0
+HH3510C,10,206,District - Sitamarhi,Rural,Does not have kitchen,61251,20131,29443,10194,27,30,157,62,16,1191,0
+HH3510C,10,206,District - Sitamarhi,Rural,Cooking outside house:,12761,3969,5728,2404,81,13,64,20,6,476,0
+HH3510C,10,206,District - Sitamarhi,Rural,Has Kitchen,4211,1395,1914,773,66,0,32,8,2,21,0
+HH3510C,10,206,District - Sitamarhi,Rural,Does not have kitchen,8550,2574,3814,1631,15,13,32,12,4,455,0
+HH3510C,10,206,District - Sitamarhi,Rural,No Cooking,137,0,0,0,0,0,0,0,0,0,137
+HH3510C,10,206,District - Sitamarhi,Urban,Total,3877,2276,747,292,7,12,492,2,3,45,1
+HH3510C,10,206,District - Sitamarhi,Urban,Cooking inside house:,2992,1746,532,222,5,10,469,2,3,3,0
+HH3510C,10,206,District - Sitamarhi,Urban,Has Kitchen,708,220,79,27,3,4,374,0,1,0,0
+HH3510C,10,206,District - Sitamarhi,Urban,Does not have kitchen,2284,1526,453,195,2,6,95,2,2,3,0
+HH3510C,10,206,District - Sitamarhi,Urban,Cooking outside house:,884,530,215,70,2,2,23,0,0,42,0
+HH3510C,10,206,District - Sitamarhi,Urban,Has Kitchen,137,98,10,5,2,2,13,0,0,7,0
+HH3510C,10,206,District - Sitamarhi,Urban,Does not have kitchen,747,432,205,65,0,0,10,0,0,35,0
+HH3510C,10,206,District - Sitamarhi,Urban,No Cooking,1,0,0,0,0,0,0,0,0,0,1
+HH3510C,10,207,District - Madhubani,Total,Total,127544,52371,31712,37387,218,273,1357,213,187,3559,267
+HH3510C,10,207,District - Madhubani,Total,Cooking inside house:,97024,40397,22965,29418,84,218,1196,139,149,2458,0
+HH3510C,10,207,District - Madhubani,Total,Has Kitchen,36031,16192,6471,11383,26,109,951,43,68,788,0
+HH3510C,10,207,District - Madhubani,Total,Does not have kitchen,60993,24205,16494,18035,58,109,245,96,81,1670,0
+HH3510C,10,207,District - Madhubani,Total,Cooking outside house:,30253,11974,8747,7969,134,55,161,74,38,1101,0
+HH3510C,10,207,District - Madhubani,Total,Has Kitchen,13854,5709,3563,4065,76,27,88,19,25,282,0
+HH3510C,10,207,District - Madhubani,Total,Does not have kitchen,16399,6265,5184,3904,58,28,73,55,13,819,0
+HH3510C,10,207,District - Madhubani,Total,No Cooking,267,0,0,0,0,0,0,0,0,0,267
+HH3510C,10,207,District - Madhubani,Rural,Total,124342,50516,31252,36988,209,250,947,208,182,3534,256
+HH3510C,10,207,District - Madhubani,Rural,Cooking inside house:,94451,38850,22677,29128,75,200,803,136,145,2437,0
+HH3510C,10,207,District - Madhubani,Rural,Has Kitchen,35112,15843,6363,11235,23,95,658,42,67,786,0
+HH3510C,10,207,District - Madhubani,Rural,Does not have kitchen,59339,23007,16314,17893,52,105,145,94,78,1651,0
+HH3510C,10,207,District - Madhubani,Rural,Cooking outside house:,29635,11666,8575,7860,134,50,144,72,37,1097,0
+HH3510C,10,207,District - Madhubani,Rural,Has Kitchen,13632,5617,3491,4023,76,26,75,18,25,281,0
+HH3510C,10,207,District - Madhubani,Rural,Does not have kitchen,16003,6049,5084,3837,58,24,69,54,12,816,0
+HH3510C,10,207,District - Madhubani,Rural,No Cooking,256,0,0,0,0,0,0,0,0,0,256
+HH3510C,10,207,District - Madhubani,Urban,Total,3202,1855,460,399,9,23,410,5,5,25,11
+HH3510C,10,207,District - Madhubani,Urban,Cooking inside house:,2573,1547,288,290,9,18,393,3,4,21,0
+HH3510C,10,207,District - Madhubani,Urban,Has Kitchen,919,349,108,148,3,14,293,1,1,2,0
+HH3510C,10,207,District - Madhubani,Urban,Does not have kitchen,1654,1198,180,142,6,4,100,2,3,19,0
+HH3510C,10,207,District - Madhubani,Urban,Cooking outside house:,618,308,172,109,0,5,17,2,1,4,0
+HH3510C,10,207,District - Madhubani,Urban,Has Kitchen,222,92,72,42,0,1,13,1,0,1,0
+HH3510C,10,207,District - Madhubani,Urban,Does not have kitchen,396,216,100,67,0,4,4,1,1,3,0
+HH3510C,10,207,District - Madhubani,Urban,No Cooking,11,0,0,0,0,0,0,0,0,0,11
+HH3510C,10,208,District - Supaul,Total,Total,71420,18520,30342,20273,74,40,469,67,46,1468,121
+HH3510C,10,208,District - Supaul,Total,Cooking inside house:,41681,11501,17357,11447,28,25,422,39,29,833,0
+HH3510C,10,208,District - Supaul,Total,Has Kitchen,19395,5790,7139,5819,5,18,348,21,4,251,0
+HH3510C,10,208,District - Supaul,Total,Does not have kitchen,22286,5711,10218,5628,23,7,74,18,25,582,0
+HH3510C,10,208,District - Supaul,Total,Cooking outside house:,29618,7019,12985,8826,46,15,47,28,17,635,0
+HH3510C,10,208,District - Supaul,Total,Has Kitchen,18467,4465,8127,5535,25,10,37,13,6,249,0
+HH3510C,10,208,District - Supaul,Total,Does not have kitchen,11151,2554,4858,3291,21,5,10,15,11,386,0
+HH3510C,10,208,District - Supaul,Total,No Cooking,121,0,0,0,0,0,0,0,0,0,121
+HH3510C,10,208,District - Supaul,Rural,Total,69033,17240,29765,20014,69,32,234,64,46,1455,114
+HH3510C,10,208,District - Supaul,Rural,Cooking inside house:,39806,10499,16926,11248,24,17,195,37,29,831,0
+HH3510C,10,208,District - Supaul,Rural,Has Kitchen,18852,5527,7081,5788,2,15,166,19,4,250,0
+HH3510C,10,208,District - Supaul,Rural,Does not have kitchen,20954,4972,9845,5460,22,2,29,18,25,581,0
+HH3510C,10,208,District - Supaul,Rural,Cooking outside house:,29113,6741,12839,8766,45,15,39,27,17,624,0
+HH3510C,10,208,District - Supaul,Rural,Has Kitchen,18314,4365,8098,5519,24,10,32,12,6,248,0
+HH3510C,10,208,District - Supaul,Rural,Does not have kitchen,10799,2376,4741,3247,21,5,7,15,11,376,0
+HH3510C,10,208,District - Supaul,Rural,No Cooking,114,0,0,0,0,0,0,0,0,0,114
+HH3510C,10,208,District - Supaul,Urban,Total,2387,1280,577,259,5,8,235,3,0,13,7
+HH3510C,10,208,District - Supaul,Urban,Cooking inside house:,1875,1002,431,199,4,8,227,2,0,2,0
+HH3510C,10,208,District - Supaul,Urban,Has Kitchen,543,263,58,31,3,3,182,2,0,1,0
+HH3510C,10,208,District - Supaul,Urban,Does not have kitchen,1332,739,373,168,1,5,45,0,0,1,0
+HH3510C,10,208,District - Supaul,Urban,Cooking outside house:,505,278,146,60,1,0,8,1,0,11,0
+HH3510C,10,208,District - Supaul,Urban,Has Kitchen,153,100,29,16,1,0,5,1,0,1,0
+HH3510C,10,208,District - Supaul,Urban,Does not have kitchen,352,178,117,44,0,0,3,0,0,10,0
+HH3510C,10,208,District - Supaul,Urban,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3510C,10,209,District - Araria,Total,Total,81152,14191,61408,4120,66,46,603,108,28,497,85
+HH3510C,10,209,District - Araria,Total,Cooking inside house:,44253,8212,32958,2167,18,35,535,38,19,271,0
+HH3510C,10,209,District - Araria,Total,Has Kitchen,24931,5366,17556,1366,11,15,449,28,15,125,0
+HH3510C,10,209,District - Araria,Total,Does not have kitchen,19322,2846,15402,801,7,20,86,10,4,146,0
+HH3510C,10,209,District - Araria,Total,Cooking outside house:,36814,5979,28450,1953,48,11,68,70,9,226,0
+HH3510C,10,209,District - Araria,Total,Has Kitchen,23730,3996,18146,1348,24,5,47,54,5,105,0
+HH3510C,10,209,District - Araria,Total,Does not have kitchen,13084,1983,10304,605,24,6,21,16,4,121,0
+HH3510C,10,209,District - Araria,Total,No Cooking,85,0,0,0,0,0,0,0,0,0,85
+HH3510C,10,209,District - Araria,Rural,Total,77618,12406,60277,3957,59,23,214,105,19,485,73
+HH3510C,10,209,District - Araria,Rural,Cooking inside house:,41977,7157,32211,2085,15,13,181,36,11,268,0
+HH3510C,10,209,District - Araria,Rural,Has Kitchen,24173,5038,17439,1351,10,10,165,27,8,125,0
+HH3510C,10,209,District - Araria,Rural,Does not have kitchen,17804,2119,14772,734,5,3,16,9,3,143,0
+HH3510C,10,209,District - Araria,Rural,Cooking outside house:,35568,5249,28066,1872,44,10,33,69,8,217,0
+HH3510C,10,209,District - Araria,Rural,Has Kitchen,23142,3657,18004,1268,21,5,25,53,4,105,0
+HH3510C,10,209,District - Araria,Rural,Does not have kitchen,12426,1592,10062,604,23,5,8,16,4,112,0
+HH3510C,10,209,District - Araria,Rural,No Cooking,73,0,0,0,0,0,0,0,0,0,73
+HH3510C,10,209,District - Araria,Urban,Total,3534,1785,1131,163,7,23,389,3,9,12,12
+HH3510C,10,209,District - Araria,Urban,Cooking inside house:,2276,1055,747,82,3,22,354,2,8,3,0
+HH3510C,10,209,District - Araria,Urban,Has Kitchen,758,328,117,15,1,5,284,1,7,0,0
+HH3510C,10,209,District - Araria,Urban,Does not have kitchen,1518,727,630,67,2,17,70,1,1,3,0
+HH3510C,10,209,District - Araria,Urban,Cooking outside house:,1246,730,384,81,4,1,35,1,1,9,0
+HH3510C,10,209,District - Araria,Urban,Has Kitchen,588,339,142,80,3,0,22,1,1,0,0
+HH3510C,10,209,District - Araria,Urban,Does not have kitchen,658,391,242,1,1,1,13,0,0,9,0
+HH3510C,10,209,District - Araria,Urban,No Cooking,12,0,0,0,0,0,0,0,0,0,12
+HH3510C,10,210,District - Kishanganj,Total,Total,26330,5183,18106,1022,128,82,769,14,33,943,50
+HH3510C,10,210,District - Kishanganj,Total,Cooking inside house:,9751,2915,5244,535,100,59,647,5,20,226,0
+HH3510C,10,210,District - Kishanganj,Total,Has Kitchen,4957,1246,2813,237,12,15,508,2,20,104,0
+HH3510C,10,210,District - Kishanganj,Total,Does not have kitchen,4794,1669,2431,298,88,44,139,3,0,122,0
+HH3510C,10,210,District - Kishanganj,Total,Cooking outside house:,16529,2268,12862,487,28,23,122,9,13,717,0
+HH3510C,10,210,District - Kishanganj,Total,Has Kitchen,12605,1717,9999,338,18,4,92,5,10,422,0
+HH3510C,10,210,District - Kishanganj,Total,Does not have kitchen,3924,551,2863,149,10,19,30,4,3,295,0
+HH3510C,10,210,District - Kishanganj,Total,No Cooking,50,0,0,0,0,0,0,0,0,0,50
+HH3510C,10,210,District - Kishanganj,Rural,Total,22190,2836,17388,886,28,69,63,10,31,839,40
+HH3510C,10,210,District - Kishanganj,Rural,Cooking inside house:,7021,1381,4900,460,6,49,37,3,18,167,0
+HH3510C,10,210,District - Kishanganj,Rural,Has Kitchen,3879,812,2701,202,3,7,36,2,18,98,0
+HH3510C,10,210,District - Kishanganj,Rural,Does not have kitchen,3142,569,2199,258,3,42,1,1,0,69,0
+HH3510C,10,210,District - Kishanganj,Rural,Cooking outside house:,15129,1455,12488,426,22,20,26,7,13,672,0
+HH3510C,10,210,District - Kishanganj,Rural,Has Kitchen,11838,1250,9793,326,18,3,24,5,10,409,0
+HH3510C,10,210,District - Kishanganj,Rural,Does not have kitchen,3291,205,2695,100,4,17,2,2,3,263,0
+HH3510C,10,210,District - Kishanganj,Rural,No Cooking,40,0,0,0,0,0,0,0,0,0,40
+HH3510C,10,210,District - Kishanganj,Urban,Total,4140,2347,718,136,100,13,706,4,2,104,10
+HH3510C,10,210,District - Kishanganj,Urban,Cooking inside house:,2730,1534,344,75,94,10,610,2,2,59,0
+HH3510C,10,210,District - Kishanganj,Urban,Has Kitchen,1078,434,112,35,9,8,472,0,2,6,0
+HH3510C,10,210,District - Kishanganj,Urban,Does not have kitchen,1652,1100,232,40,85,2,138,2,0,53,0
+HH3510C,10,210,District - Kishanganj,Urban,Cooking outside house:,1400,813,374,61,6,3,96,2,0,45,0
+HH3510C,10,210,District - Kishanganj,Urban,Has Kitchen,767,467,206,12,0,1,68,0,0,13,0
+HH3510C,10,210,District - Kishanganj,Urban,Does not have kitchen,633,346,168,49,6,2,28,2,0,32,0
+HH3510C,10,210,District - Kishanganj,Urban,No Cooking,10,0,0,0,0,0,0,0,0,0,10
+HH3510C,10,211,District - Purnia,Total,Total,83592,13786,64684,2348,128,90,1413,59,33,926,125
+HH3510C,10,211,District - Purnia,Total,Cooking inside house:,33934,7203,24391,683,38,76,1277,26,22,218,0
+HH3510C,10,211,District - Purnia,Total,Has Kitchen,12508,3031,8158,199,14,53,987,13,10,43,0
+HH3510C,10,211,District - Purnia,Total,Does not have kitchen,21426,4172,16233,484,24,23,290,13,12,175,0
+HH3510C,10,211,District - Purnia,Total,Cooking outside house:,49533,6583,40293,1665,90,14,136,33,11,708,0
+HH3510C,10,211,District - Purnia,Total,Has Kitchen,21608,2929,17406,890,61,6,92,11,8,205,0
+HH3510C,10,211,District - Purnia,Total,Does not have kitchen,27925,3654,22887,775,29,8,44,22,3,503,0
+HH3510C,10,211,District - Purnia,Total,No Cooking,125,0,0,0,0,0,0,0,0,0,125
+HH3510C,10,211,District - Purnia,Rural,Total,76524,10166,62778,2199,96,68,162,48,19,886,102
+HH3510C,10,211,District - Purnia,Rural,Cooking inside house:,29413,5005,23337,646,21,57,114,17,8,208,0
+HH3510C,10,211,District - Purnia,Rural,Has Kitchen,10615,2329,7904,184,5,44,98,8,1,42,0
+HH3510C,10,211,District - Purnia,Rural,Does not have kitchen,18798,2676,15433,462,16,13,16,9,7,166,0
+HH3510C,10,211,District - Purnia,Rural,Cooking outside house:,47009,5161,39441,1553,75,11,48,31,11,678,0
+HH3510C,10,211,District - Purnia,Rural,Has Kitchen,20821,2410,17219,876,54,6,36,11,8,201,0
+HH3510C,10,211,District - Purnia,Rural,Does not have kitchen,26188,2751,22222,677,21,5,12,20,3,477,0
+HH3510C,10,211,District - Purnia,Rural,No Cooking,102,0,0,0,0,0,0,0,0,0,102
+HH3510C,10,211,District - Purnia,Urban,Total,7068,3620,1906,149,32,22,1251,11,14,40,23
+HH3510C,10,211,District - Purnia,Urban,Cooking inside house:,4521,2198,1054,37,17,19,1163,9,14,10,0
+HH3510C,10,211,District - Purnia,Urban,Has Kitchen,1893,702,254,15,9,9,889,5,9,1,0
+HH3510C,10,211,District - Purnia,Urban,Does not have kitchen,2628,1496,800,22,8,10,274,4,5,9,0
+HH3510C,10,211,District - Purnia,Urban,Cooking outside house:,2524,1422,852,112,15,3,88,2,0,30,0
+HH3510C,10,211,District - Purnia,Urban,Has Kitchen,787,519,187,14,7,0,56,0,0,4,0
+HH3510C,10,211,District - Purnia,Urban,Does not have kitchen,1737,903,665,98,8,3,32,2,0,26,0
+HH3510C,10,211,District - Purnia,Urban,No Cooking,23,0,0,0,0,0,0,0,0,0,23
+HH3510C,10,212,District - Katihar,Total,Total,59945,12514,41962,2216,139,71,2315,44,27,574,83
+HH3510C,10,212,District - Katihar,Total,Cooking inside house:,31441,8207,19815,919,68,50,2160,26,18,178,0
+HH3510C,10,212,District - Katihar,Total,Has Kitchen,14134,3570,8190,353,28,18,1875,12,12,76,0
+HH3510C,10,212,District - Katihar,Total,Does not have kitchen,17307,4637,11625,566,40,32,285,14,6,102,0
+HH3510C,10,212,District - Katihar,Total,Cooking outside house:,28421,4307,22147,1297,71,21,155,18,9,396,0
+HH3510C,10,212,District - Katihar,Total,Has Kitchen,16679,2335,13202,798,52,5,110,9,6,162,0
+HH3510C,10,212,District - Katihar,Total,Does not have kitchen,11742,1972,8945,499,19,16,45,9,3,234,0
+HH3510C,10,212,District - Katihar,Total,No Cooking,83,0,0,0,0,0,0,0,0,0,83
+HH3510C,10,212,District - Katihar,Rural,Total,52718,8599,41023,1941,73,25,367,41,19,567,63
+HH3510C,10,212,District - Katihar,Rural,Cooking inside house:,25927,5490,19078,807,23,19,302,23,12,173,0
+HH3510C,10,212,District - Katihar,Rural,Has Kitchen,11173,2570,7933,309,14,4,253,10,7,73,0
+HH3510C,10,212,District - Katihar,Rural,Does not have kitchen,14754,2920,11145,498,9,15,49,13,5,100,0
+HH3510C,10,212,District - Katihar,Rural,Cooking outside house:,26728,3109,21945,1134,50,6,65,18,7,394,0
+HH3510C,10,212,District - Katihar,Rural,Has Kitchen,15976,1879,13111,720,38,2,50,9,5,162,0
+HH3510C,10,212,District - Katihar,Rural,Does not have kitchen,10752,1230,8834,414,12,4,15,9,2,232,0
+HH3510C,10,212,District - Katihar,Rural,No Cooking,63,0,0,0,0,0,0,0,0,0,63
+HH3510C,10,212,District - Katihar,Urban,Total,7227,3915,939,275,66,46,1948,3,8,7,20
+HH3510C,10,212,District - Katihar,Urban,Cooking inside house:,5514,2717,737,112,45,31,1858,3,6,5,0
+HH3510C,10,212,District - Katihar,Urban,Has Kitchen,2961,1000,257,44,14,14,1622,2,5,3,0
+HH3510C,10,212,District - Katihar,Urban,Does not have kitchen,2553,1717,480,68,31,17,236,1,1,2,0
+HH3510C,10,212,District - Katihar,Urban,Cooking outside house:,1693,1198,202,163,21,15,90,0,2,2,0
+HH3510C,10,212,District - Katihar,Urban,Has Kitchen,703,456,91,78,14,3,60,0,1,0,0
+HH3510C,10,212,District - Katihar,Urban,Does not have kitchen,990,742,111,85,7,12,30,0,1,2,0
+HH3510C,10,212,District - Katihar,Urban,No Cooking,20,0,0,0,0,0,0,0,0,0,20
+HH3510C,10,213,District - Madhepura,Total,Total,72147,19644,42820,7649,180,26,488,59,67,1137,77
+HH3510C,10,213,District - Madhepura,Total,Cooking inside house:,37949,10709,22468,3559,57,15,427,26,11,677,0
+HH3510C,10,213,District - Madhepura,Total,Has Kitchen,10640,3891,4955,1330,5,3,374,5,1,76,0
+HH3510C,10,213,District - Madhepura,Total,Does not have kitchen,27309,6818,17513,2229,52,12,53,21,10,601,0
+HH3510C,10,213,District - Madhepura,Total,Cooking outside house:,34121,8935,20352,4090,123,11,61,33,56,460,0
+HH3510C,10,213,District - Madhepura,Total,Has Kitchen,13446,3968,7188,1930,102,4,45,22,46,141,0
+HH3510C,10,213,District - Madhepura,Total,Does not have kitchen,20675,4967,13164,2160,21,7,16,11,10,319,0
+HH3510C,10,213,District - Madhepura,Total,No Cooking,77,0,0,0,0,0,0,0,0,0,77
+HH3510C,10,213,District - Madhepura,Rural,Total,70059,18339,42421,7586,177,26,183,56,67,1134,70
+HH3510C,10,213,District - Madhepura,Rural,Cooking inside house:,36639,9948,22241,3534,55,15,136,25,11,674,0
+HH3510C,10,213,District - Madhepura,Rural,Has Kitchen,10115,3688,4897,1329,4,3,113,4,1,76,0
+HH3510C,10,213,District - Madhepura,Rural,Does not have kitchen,26524,6260,17344,2205,51,12,23,21,10,598,0
+HH3510C,10,213,District - Madhepura,Rural,Cooking outside house:,33350,8391,20180,4052,122,11,47,31,56,460,0
+HH3510C,10,213,District - Madhepura,Rural,Has Kitchen,13252,3843,7132,1929,101,4,36,20,46,141,0
+HH3510C,10,213,District - Madhepura,Rural,Does not have kitchen,20098,4548,13048,2123,21,7,11,11,10,319,0
+HH3510C,10,213,District - Madhepura,Rural,No Cooking,70,0,0,0,0,0,0,0,0,0,70
+HH3510C,10,213,District - Madhepura,Urban,Total,2088,1305,399,63,3,0,305,3,0,3,7
+HH3510C,10,213,District - Madhepura,Urban,Cooking inside house:,1310,761,227,25,2,0,291,1,0,3,0
+HH3510C,10,213,District - Madhepura,Urban,Has Kitchen,525,203,58,1,1,0,261,1,0,0,0
+HH3510C,10,213,District - Madhepura,Urban,Does not have kitchen,785,558,169,24,1,0,30,0,0,3,0
+HH3510C,10,213,District - Madhepura,Urban,Cooking outside house:,771,544,172,38,1,0,14,2,0,0,0
+HH3510C,10,213,District - Madhepura,Urban,Has Kitchen,194,125,56,1,1,0,9,2,0,0,0
+HH3510C,10,213,District - Madhepura,Urban,Does not have kitchen,577,419,116,37,0,0,5,0,0,0,0
+HH3510C,10,213,District - Madhepura,Urban,No Cooking,7,0,0,0,0,0,0,0,0,0,7
+HH3510C,10,214,District - Saharsa,Total,Total,62968,13783,38106,8942,162,34,842,42,26,964,67
+HH3510C,10,214,District - Saharsa,Total,Cooking inside house:,38077,9075,22568,5020,43,26,778,20,17,530,0
+HH3510C,10,214,District - Saharsa,Total,Has Kitchen,6009,2154,2379,781,6,10,623,8,3,45,0
+HH3510C,10,214,District - Saharsa,Total,Does not have kitchen,32068,6921,20189,4239,37,16,155,12,14,485,0
+HH3510C,10,214,District - Saharsa,Total,Cooking outside house:,24824,4708,15538,3922,119,8,64,22,9,434,0
+HH3510C,10,214,District - Saharsa,Total,Has Kitchen,7252,1794,3968,1310,39,2,57,8,3,71,0
+HH3510C,10,214,District - Saharsa,Total,Does not have kitchen,17572,2914,11570,2612,80,6,7,14,6,363,0
+HH3510C,10,214,District - Saharsa,Total,No Cooking,67,0,0,0,0,0,0,0,0,0,67
+HH3510C,10,214,District - Saharsa,Rural,Total,60245,12230,37768,8842,149,17,227,40,22,919,31
+HH3510C,10,214,District - Saharsa,Rural,Cooking inside house:,35838,7768,22309,4982,31,9,187,18,13,521,0
+HH3510C,10,214,District - Saharsa,Rural,Has Kitchen,5254,1946,2331,773,5,5,142,7,1,44,0
+HH3510C,10,214,District - Saharsa,Rural,Does not have kitchen,30584,5822,19978,4209,26,4,45,11,12,477,0
+HH3510C,10,214,District - Saharsa,Rural,Cooking outside house:,24376,4462,15459,3860,118,8,40,22,9,398,0
+HH3510C,10,214,District - Saharsa,Rural,Has Kitchen,7176,1741,3968,1310,39,2,35,8,3,70,0
+HH3510C,10,214,District - Saharsa,Rural,Does not have kitchen,17200,2721,11491,2550,79,6,5,14,6,328,0
+HH3510C,10,214,District - Saharsa,Rural,No Cooking,31,0,0,0,0,0,0,0,0,0,31
+HH3510C,10,214,District - Saharsa,Urban,Total,2723,1553,338,100,13,17,615,2,4,45,36
+HH3510C,10,214,District - Saharsa,Urban,Cooking inside house:,2239,1307,259,38,12,17,591,2,4,9,0
+HH3510C,10,214,District - Saharsa,Urban,Has Kitchen,755,208,48,8,1,5,481,1,2,1,0
+HH3510C,10,214,District - Saharsa,Urban,Does not have kitchen,1484,1099,211,30,11,12,110,1,2,8,0
+HH3510C,10,214,District - Saharsa,Urban,Cooking outside house:,448,246,79,62,1,0,24,0,0,36,0
+HH3510C,10,214,District - Saharsa,Urban,Has Kitchen,76,53,0,0,0,0,22,0,0,1,0
+HH3510C,10,214,District - Saharsa,Urban,Does not have kitchen,372,193,79,62,1,0,2,0,0,35,0
+HH3510C,10,214,District - Saharsa,Urban,No Cooking,36,0,0,0,0,0,0,0,0,0,36
+HH3510C,10,215,District - Darbhanga,Total,Total,126741,41738,52990,24209,348,256,3540,197,211,2991,261
+HH3510C,10,215,District - Darbhanga,Total,Cooking inside house:,87860,29703,36023,16275,199,189,3211,134,132,1994,0
+HH3510C,10,215,District - Darbhanga,Total,Has Kitchen,15596,6358,4103,2632,23,69,2168,13,50,180,0
+HH3510C,10,215,District - Darbhanga,Total,Does not have kitchen,72264,23345,31920,13643,176,120,1043,121,82,1814,0
+HH3510C,10,215,District - Darbhanga,Total,Cooking outside house:,38620,12035,16967,7934,149,67,329,63,79,997,0
+HH3510C,10,215,District - Darbhanga,Total,Has Kitchen,10676,3568,3868,2703,85,23,161,18,19,231,0
+HH3510C,10,215,District - Darbhanga,Total,Does not have kitchen,27944,8467,13099,5231,64,44,168,45,60,766,0
+HH3510C,10,215,District - Darbhanga,Total,No Cooking,261,0,0,0,0,0,0,0,0,0,261
+HH3510C,10,215,District - Darbhanga,Rural,Total,116971,36987,51364,23708,216,132,1154,191,183,2798,238
+HH3510C,10,215,District - Darbhanga,Rural,Cooking inside house:,80223,26125,34947,15937,87,82,962,129,104,1850,0
+HH3510C,10,215,District - Darbhanga,Rural,Has Kitchen,13219,5836,3855,2603,15,36,682,12,34,146,0
+HH3510C,10,215,District - Darbhanga,Rural,Does not have kitchen,67004,20289,31092,13334,72,46,280,117,70,1704,0
+HH3510C,10,215,District - Darbhanga,Rural,Cooking outside house:,36510,10862,16417,7771,129,50,192,62,79,948,0
+HH3510C,10,215,District - Darbhanga,Rural,Has Kitchen,10218,3321,3783,2666,78,16,105,18,19,212,0
+HH3510C,10,215,District - Darbhanga,Rural,Does not have kitchen,26292,7541,12634,5105,51,34,87,44,60,736,0
+HH3510C,10,215,District - Darbhanga,Rural,No Cooking,238,0,0,0,0,0,0,0,0,0,238
+HH3510C,10,215,District - Darbhanga,Urban,Total,9770,4751,1626,501,132,124,2386,6,28,193,23
+HH3510C,10,215,District - Darbhanga,Urban,Cooking inside house:,7637,3578,1076,338,112,107,2249,5,28,144,0
+HH3510C,10,215,District - Darbhanga,Urban,Has Kitchen,2377,522,248,29,8,33,1486,1,16,34,0
+HH3510C,10,215,District - Darbhanga,Urban,Does not have kitchen,5260,3056,828,309,104,74,763,4,12,110,0
+HH3510C,10,215,District - Darbhanga,Urban,Cooking outside house:,2110,1173,550,163,20,17,137,1,0,49,0
+HH3510C,10,215,District - Darbhanga,Urban,Has Kitchen,458,247,85,37,7,7,56,0,0,19,0
+HH3510C,10,215,District - Darbhanga,Urban,Does not have kitchen,1652,926,465,126,13,10,81,1,0,30,0
+HH3510C,10,215,District - Darbhanga,Urban,No Cooking,23,0,0,0,0,0,0,0,0,0,23
+HH3510C,10,216,District - Muzaffarpur,Total,Total,160006,70470,67025,13085,719,438,5187,261,124,2452,245
+HH3510C,10,216,District - Muzaffarpur,Total,Cooking inside house:,138603,62779,56522,11054,456,414,5076,201,114,1987,0
+HH3510C,10,216,District - Muzaffarpur,Total,Has Kitchen,16087,7035,4058,715,77,231,3730,28,45,168,0
+HH3510C,10,216,District - Muzaffarpur,Total,Does not have kitchen,122516,55744,52464,10339,379,183,1346,173,69,1819,0
+HH3510C,10,216,District - Muzaffarpur,Total,Cooking outside house:,21158,7691,10503,2031,263,24,111,60,10,465,0
+HH3510C,10,216,District - Muzaffarpur,Total,Has Kitchen,5493,1821,2853,481,196,11,42,13,0,76,0
+HH3510C,10,216,District - Muzaffarpur,Total,Does not have kitchen,15665,5870,7650,1550,67,13,69,47,10,389,0
+HH3510C,10,216,District - Muzaffarpur,Total,No Cooking,245,0,0,0,0,0,0,0,0,0,245
+HH3510C,10,216,District - Muzaffarpur,Rural,Total,149215,65043,65985,12851,295,105,1969,252,93,2428,194
+HH3510C,10,216,District - Muzaffarpur,Rural,Cooking inside house:,128983,58100,55729,10834,101,90,1884,193,84,1968,0
+HH3510C,10,216,District - Muzaffarpur,Rural,Has Kitchen,12381,6244,3896,695,10,34,1288,26,23,165,0
+HH3510C,10,216,District - Muzaffarpur,Rural,Does not have kitchen,116602,51856,51833,10139,91,56,596,167,61,1803,0
+HH3510C,10,216,District - Muzaffarpur,Rural,Cooking outside house:,20038,6943,10256,2017,194,15,85,59,9,460,0
+HH3510C,10,216,District - Muzaffarpur,Rural,Has Kitchen,5256,1716,2805,469,154,5,24,12,0,71,0
+HH3510C,10,216,District - Muzaffarpur,Rural,Does not have kitchen,14782,5227,7451,1548,40,10,61,47,9,389,0
+HH3510C,10,216,District - Muzaffarpur,Rural,No Cooking,194,0,0,0,0,0,0,0,0,0,194
+HH3510C,10,216,District - Muzaffarpur,Urban,Total,10791,5427,1040,234,424,333,3218,9,31,24,51
+HH3510C,10,216,District - Muzaffarpur,Urban,Cooking inside house:,9620,4679,793,220,355,324,3192,8,30,19,0
+HH3510C,10,216,District - Muzaffarpur,Urban,Has Kitchen,3706,791,162,20,67,197,2442,2,22,3,0
+HH3510C,10,216,District - Muzaffarpur,Urban,Does not have kitchen,5914,3888,631,200,288,127,750,6,8,16,0
+HH3510C,10,216,District - Muzaffarpur,Urban,Cooking outside house:,1120,748,247,14,69,9,26,1,1,5,0
+HH3510C,10,216,District - Muzaffarpur,Urban,Has Kitchen,237,105,48,12,42,6,18,1,0,5,0
+HH3510C,10,216,District - Muzaffarpur,Urban,Does not have kitchen,883,643,199,2,27,3,8,0,1,0,0
+HH3510C,10,216,District - Muzaffarpur,Urban,No Cooking,51,0,0,0,0,0,0,0,0,0,51
+HH3510C,10,217,District - Gopalganj,Total,Total,57801,26274,27570,2377,62,65,1033,73,32,227,88
+HH3510C,10,217,District - Gopalganj,Total,Cooking inside house:,48042,22253,22684,1773,34,59,991,56,18,174,0
+HH3510C,10,217,District - Gopalganj,Total,Has Kitchen,10655,6171,3518,188,9,19,708,19,6,17,0
+HH3510C,10,217,District - Gopalganj,Total,Does not have kitchen,37387,16082,19166,1585,25,40,283,37,12,157,0
+HH3510C,10,217,District - Gopalganj,Total,Cooking outside house:,9671,4021,4886,604,28,6,42,17,14,53,0
+HH3510C,10,217,District - Gopalganj,Total,Has Kitchen,4044,1644,2167,184,22,2,15,3,3,4,0
+HH3510C,10,217,District - Gopalganj,Total,Does not have kitchen,5627,2377,2719,420,6,4,27,14,11,49,0
+HH3510C,10,217,District - Gopalganj,Total,No Cooking,88,0,0,0,0,0,0,0,0,0,88
+HH3510C,10,217,District - Gopalganj,Rural,Total,54763,24826,26688,2185,49,32,597,69,23,214,80
+HH3510C,10,217,District - Gopalganj,Rural,Cooking inside house:,45432,20930,21980,1685,23,28,562,52,9,163,0
+HH3510C,10,217,District - Gopalganj,Rural,Has Kitchen,9970,5918,3420,186,9,15,385,17,3,17,0
+HH3510C,10,217,District - Gopalganj,Rural,Does not have kitchen,35462,15012,18560,1499,14,13,177,35,6,146,0
+HH3510C,10,217,District - Gopalganj,Rural,Cooking outside house:,9251,3896,4708,500,26,4,35,17,14,51,0
+HH3510C,10,217,District - Gopalganj,Rural,Has Kitchen,3951,1597,2130,179,21,2,12,3,3,4,0
+HH3510C,10,217,District - Gopalganj,Rural,Does not have kitchen,5300,2299,2578,321,5,2,23,14,11,47,0
+HH3510C,10,217,District - Gopalganj,Rural,No Cooking,80,0,0,0,0,0,0,0,0,0,80
+HH3510C,10,217,District - Gopalganj,Urban,Total,3038,1448,882,192,13,33,436,4,9,13,8
+HH3510C,10,217,District - Gopalganj,Urban,Cooking inside house:,2610,1323,704,88,11,31,429,4,9,11,0
+HH3510C,10,217,District - Gopalganj,Urban,Has Kitchen,685,253,98,2,0,4,323,2,3,0,0
+HH3510C,10,217,District - Gopalganj,Urban,Does not have kitchen,1925,1070,606,86,11,27,106,2,6,11,0
+HH3510C,10,217,District - Gopalganj,Urban,Cooking outside house:,420,125,178,104,2,2,7,0,0,2,0
+HH3510C,10,217,District - Gopalganj,Urban,Has Kitchen,93,47,37,5,1,0,3,0,0,0,0
+HH3510C,10,217,District - Gopalganj,Urban,Does not have kitchen,327,78,141,99,1,2,4,0,0,2,0
+HH3510C,10,217,District - Gopalganj,Urban,No Cooking,8,0,0,0,0,0,0,0,0,0,8
+HH3510C,10,218,District - Siwan,Total,Total,68927,36636,25753,4131,185,138,1422,57,58,458,89
+HH3510C,10,218,District - Siwan,Total,Cooking inside house:,61398,33236,22649,3463,103,127,1375,50,51,344,0
+HH3510C,10,218,District - Siwan,Total,Has Kitchen,8899,5239,2123,370,33,66,1014,11,28,15,0
+HH3510C,10,218,District - Siwan,Total,Does not have kitchen,52499,27997,20526,3093,70,61,361,39,23,329,0
+HH3510C,10,218,District - Siwan,Total,Cooking outside house:,7440,3400,3104,668,82,11,47,7,7,114,0
+HH3510C,10,218,District - Siwan,Total,Has Kitchen,2266,943,1005,224,46,6,19,0,7,16,0
+HH3510C,10,218,District - Siwan,Total,Does not have kitchen,5174,2457,2099,444,36,5,28,7,0,98,0
+HH3510C,10,218,District - Siwan,Total,No Cooking,89,0,0,0,0,0,0,0,0,0,89
+HH3510C,10,218,District - Siwan,Rural,Total,66716,35469,25554,4030,140,64,848,52,24,454,81
+HH3510C,10,218,District - Siwan,Rural,Cooking inside house:,59370,32182,22477,3372,63,60,807,45,24,340,0
+HH3510C,10,218,District - Siwan,Rural,Has Kitchen,8066,5040,2090,294,21,19,571,8,8,15,0
+HH3510C,10,218,District - Siwan,Rural,Does not have kitchen,51304,27142,20387,3078,42,41,236,37,16,325,0
+HH3510C,10,218,District - Siwan,Rural,Cooking outside house:,7265,3287,3077,658,77,4,41,7,0,114,0
+HH3510C,10,218,District - Siwan,Rural,Has Kitchen,2211,923,995,215,43,2,17,0,0,16,0
+HH3510C,10,218,District - Siwan,Rural,Does not have kitchen,5054,2364,2082,443,34,2,24,7,0,98,0
+HH3510C,10,218,District - Siwan,Rural,No Cooking,81,0,0,0,0,0,0,0,0,0,81
+HH3510C,10,218,District - Siwan,Urban,Total,2211,1167,199,101,45,74,574,5,34,4,8
+HH3510C,10,218,District - Siwan,Urban,Cooking inside house:,2028,1054,172,91,40,67,568,5,27,4,0
+HH3510C,10,218,District - Siwan,Urban,Has Kitchen,833,199,33,76,12,47,443,3,20,0,0
+HH3510C,10,218,District - Siwan,Urban,Does not have kitchen,1195,855,139,15,28,20,125,2,7,4,0
+HH3510C,10,218,District - Siwan,Urban,Cooking outside house:,175,113,27,10,5,7,6,0,7,0,0
+HH3510C,10,218,District - Siwan,Urban,Has Kitchen,55,20,10,9,3,4,2,0,7,0,0
+HH3510C,10,218,District - Siwan,Urban,Does not have kitchen,120,93,17,1,2,3,4,0,0,0,0
+HH3510C,10,218,District - Siwan,Urban,No Cooking,8,0,0,0,0,0,0,0,0,0,8
+HH3510C,10,219,District - Saran,Total,Total,85237,43828,27396,9850,463,122,2683,72,165,566,92
+HH3510C,10,219,District - Saran,Total,Cooking inside house:,74472,38733,23521,8490,390,108,2592,51,156,431,0
+HH3510C,10,219,District - Saran,Total,Has Kitchen,8406,4274,1587,640,104,35,1721,6,29,10,0
+HH3510C,10,219,District - Saran,Total,Does not have kitchen,66066,34459,21934,7850,286,73,871,45,127,421,0
+HH3510C,10,219,District - Saran,Total,Cooking outside house:,10673,5095,3875,1360,73,14,91,21,9,135,0
+HH3510C,10,219,District - Saran,Total,Has Kitchen,2645,1257,882,423,38,5,23,3,4,10,0
+HH3510C,10,219,District - Saran,Total,Does not have kitchen,8028,3838,2993,937,35,9,68,18,5,125,0
+HH3510C,10,219,District - Saran,Total,No Cooking,92,0,0,0,0,0,0,0,0,0,92
+HH3510C,10,219,District - Saran,Rural,Total,78609,40328,26707,9433,181,73,1075,68,155,510,79
+HH3510C,10,219,District - Saran,Rural,Cooking inside house:,68441,35667,22873,8108,137,62,1021,48,147,378,0
+HH3510C,10,219,District - Saran,Rural,Has Kitchen,6684,3865,1477,615,40,16,630,5,27,9,0
+HH3510C,10,219,District - Saran,Rural,Does not have kitchen,61757,31802,21396,7493,97,46,391,43,120,369,0
+HH3510C,10,219,District - Saran,Rural,Cooking outside house:,10089,4661,3834,1325,44,11,54,20,8,132,0
+HH3510C,10,219,District - Saran,Rural,Has Kitchen,2561,1222,865,413,23,5,16,3,4,10,0
+HH3510C,10,219,District - Saran,Rural,Does not have kitchen,7528,3439,2969,912,21,6,38,17,4,122,0
+HH3510C,10,219,District - Saran,Rural,No Cooking,79,0,0,0,0,0,0,0,0,0,79
+HH3510C,10,219,District - Saran,Urban,Total,6628,3500,689,417,282,49,1608,4,10,56,13
+HH3510C,10,219,District - Saran,Urban,Cooking inside house:,6031,3066,648,382,253,46,1571,3,9,53,0
+HH3510C,10,219,District - Saran,Urban,Has Kitchen,1722,409,110,25,64,19,1091,1,2,1,0
+HH3510C,10,219,District - Saran,Urban,Does not have kitchen,4309,2657,538,357,189,27,480,2,7,52,0
+HH3510C,10,219,District - Saran,Urban,Cooking outside house:,584,434,41,35,29,3,37,1,1,3,0
+HH3510C,10,219,District - Saran,Urban,Has Kitchen,84,35,17,10,15,0,7,0,0,0,0
+HH3510C,10,219,District - Saran,Urban,Does not have kitchen,500,399,24,25,14,3,30,1,1,3,0
+HH3510C,10,219,District - Saran,Urban,No Cooking,13,0,0,0,0,0,0,0,0,0,13
+HH3510C,10,220,District - Vaishali,Total,Total,137830,67845,47871,15925,342,135,2775,158,93,2491,195
+HH3510C,10,220,District - Vaishali,Total,Cooking inside house:,119141,59873,40442,13789,204,124,2649,124,81,1855,0
+HH3510C,10,220,District - Vaishali,Total,Has Kitchen,8694,4349,1920,561,14,33,1748,13,18,38,0
+HH3510C,10,220,District - Vaishali,Total,Does not have kitchen,110447,55524,38522,13228,190,91,901,111,63,1817,0
+HH3510C,10,220,District - Vaishali,Total,Cooking outside house:,18494,7972,7429,2136,138,11,126,34,12,636,0
+HH3510C,10,220,District - Vaishali,Total,Has Kitchen,4471,2119,1671,437,67,3,52,4,5,113,0
+HH3510C,10,220,District - Vaishali,Total,Does not have kitchen,14023,5853,5758,1699,71,8,74,30,7,523,0
+HH3510C,10,220,District - Vaishali,Total,No Cooking,195,0,0,0,0,0,0,0,0,0,195
+HH3510C,10,220,District - Vaishali,Rural,Total,131031,63742,46753,15577,266,111,1715,152,81,2457,177
+HH3510C,10,220,District - Vaishali,Rural,Cooking inside house:,113329,56446,39545,13468,146,101,1614,119,69,1821,0
+HH3510C,10,220,District - Vaishali,Rural,Has Kitchen,7483,4029,1815,547,5,25,1002,12,10,38,0
+HH3510C,10,220,District - Vaishali,Rural,Does not have kitchen,105846,52417,37730,12921,141,76,612,107,59,1783,0
+HH3510C,10,220,District - Vaishali,Rural,Cooking outside house:,17525,7296,7208,2109,120,10,101,33,12,636,0
+HH3510C,10,220,District - Vaishali,Rural,Has Kitchen,4145,1877,1616,424,65,3,39,3,5,113,0
+HH3510C,10,220,District - Vaishali,Rural,Does not have kitchen,13380,5419,5592,1685,55,7,62,30,7,523,0
+HH3510C,10,220,District - Vaishali,Rural,No Cooking,177,0,0,0,0,0,0,0,0,0,177
+HH3510C,10,220,District - Vaishali,Urban,Total,6799,4103,1118,348,76,24,1060,6,12,34,18
+HH3510C,10,220,District - Vaishali,Urban,Cooking inside house:,5812,3427,897,321,58,23,1035,5,12,34,0
+HH3510C,10,220,District - Vaishali,Urban,Has Kitchen,1211,320,105,14,9,8,746,1,8,0,0
+HH3510C,10,220,District - Vaishali,Urban,Does not have kitchen,4601,3107,792,307,49,15,289,4,4,34,0
+HH3510C,10,220,District - Vaishali,Urban,Cooking outside house:,969,676,221,27,18,1,25,1,0,0,0
+HH3510C,10,220,District - Vaishali,Urban,Has Kitchen,326,242,55,13,2,0,13,1,0,0,0
+HH3510C,10,220,District - Vaishali,Urban,Does not have kitchen,643,434,166,14,16,1,12,0,0,0,0
+HH3510C,10,220,District - Vaishali,Urban,No Cooking,18,0,0,0,0,0,0,0,0,0,18
+HH3510C,10,221,District - Samastipur,Total,Total,164792,57250,86447,12663,340,114,2890,213,111,4586,178
+HH3510C,10,221,District - Samastipur,Total,Cooking inside house:,138358,49230,71815,10231,158,101,2750,149,87,3837,0
+HH3510C,10,221,District - Samastipur,Total,Has Kitchen,13226,5679,4620,914,41,30,1863,17,27,35,0
+HH3510C,10,221,District - Samastipur,Total,Does not have kitchen,125132,43551,67195,9317,117,71,887,132,60,3802,0
+HH3510C,10,221,District - Samastipur,Total,Cooking outside house:,26256,8020,14632,2432,182,13,140,64,24,749,0
+HH3510C,10,221,District - Samastipur,Total,Has Kitchen,6339,1867,3485,725,121,9,51,7,4,70,0
+HH3510C,10,221,District - Samastipur,Total,Does not have kitchen,19917,6153,11147,1707,61,4,89,57,20,679,0
+HH3510C,10,221,District - Samastipur,Total,No Cooking,178,0,0,0,0,0,0,0,0,0,178
+HH3510C,10,221,District - Samastipur,Rural,Total,160241,54866,85860,12481,288,78,1695,205,108,4494,166
+HH3510C,10,221,District - Samastipur,Rural,Cooking inside house:,134369,47095,71402,10081,120,65,1601,141,84,3780,0
+HH3510C,10,221,District - Samastipur,Rural,Has Kitchen,12142,5488,4581,903,27,18,1050,16,25,34,0
+HH3510C,10,221,District - Samastipur,Rural,Does not have kitchen,122227,41607,66821,9178,93,47,551,125,59,3746,0
+HH3510C,10,221,District - Samastipur,Rural,Cooking outside house:,25706,7771,14458,2400,168,13,94,64,24,714,0
+HH3510C,10,221,District - Samastipur,Rural,Has Kitchen,6251,1839,3462,708,118,9,36,7,4,68,0
+HH3510C,10,221,District - Samastipur,Rural,Does not have kitchen,19455,5932,10996,1692,50,4,58,57,20,646,0
+HH3510C,10,221,District - Samastipur,Rural,No Cooking,166,0,0,0,0,0,0,0,0,0,166
+HH3510C,10,221,District - Samastipur,Urban,Total,4551,2384,587,182,52,36,1195,8,3,92,12
+HH3510C,10,221,District - Samastipur,Urban,Cooking inside house:,3989,2135,413,150,38,36,1149,8,3,57,0
+HH3510C,10,221,District - Samastipur,Urban,Has Kitchen,1084,191,39,11,14,12,813,1,2,1,0
+HH3510C,10,221,District - Samastipur,Urban,Does not have kitchen,2905,1944,374,139,24,24,336,7,1,56,0
+HH3510C,10,221,District - Samastipur,Urban,Cooking outside house:,550,249,174,32,14,0,46,0,0,35,0
+HH3510C,10,221,District - Samastipur,Urban,Has Kitchen,88,28,23,17,3,0,15,0,0,2,0
+HH3510C,10,221,District - Samastipur,Urban,Does not have kitchen,462,221,151,15,11,0,31,0,0,33,0
+HH3510C,10,221,District - Samastipur,Urban,No Cooking,12,0,0,0,0,0,0,0,0,0,12
+HH3510C,10,222,District - Begusarai,Total,Total,93250,35510,46066,6661,582,95,2920,218,49,1018,131
+HH3510C,10,222,District - Begusarai,Total,Cooking inside house:,75147,28632,37075,5204,424,82,2791,171,43,725,0
+HH3510C,10,222,District - Begusarai,Total,Has Kitchen,10290,4020,3473,447,78,37,2050,90,21,74,0
+HH3510C,10,222,District - Begusarai,Total,Does not have kitchen,64857,24612,33602,4757,346,45,741,81,22,651,0
+HH3510C,10,222,District - Begusarai,Total,Cooking outside house:,17972,6878,8991,1457,158,13,129,47,6,293,0
+HH3510C,10,222,District - Begusarai,Total,Has Kitchen,5421,2220,2423,533,65,7,71,14,0,88,0
+HH3510C,10,222,District - Begusarai,Total,Does not have kitchen,12551,4658,6568,924,93,6,58,33,6,205,0
+HH3510C,10,222,District - Begusarai,Total,No Cooking,131,0,0,0,0,0,0,0,0,0,131
+HH3510C,10,222,District - Begusarai,Rural,Total,79565,27906,43090,6075,258,49,968,119,37,954,109
+HH3510C,10,222,District - Begusarai,Rural,Cooking inside house:,64131,22582,34900,4775,166,36,884,76,31,681,0
+HH3510C,10,222,District - Begusarai,Rural,Has Kitchen,7281,3083,3072,374,30,13,622,5,17,65,0
+HH3510C,10,222,District - Begusarai,Rural,Does not have kitchen,56850,19499,31828,4401,136,23,262,71,14,616,0
+HH3510C,10,222,District - Begusarai,Rural,Cooking outside house:,15325,5324,8190,1300,92,13,84,43,6,273,0
+HH3510C,10,222,District - Begusarai,Rural,Has Kitchen,4647,1704,2251,502,54,7,41,14,0,74,0
+HH3510C,10,222,District - Begusarai,Rural,Does not have kitchen,10678,3620,5939,798,38,6,43,29,6,199,0
+HH3510C,10,222,District - Begusarai,Rural,No Cooking,109,0,0,0,0,0,0,0,0,0,109
+HH3510C,10,222,District - Begusarai,Urban,Total,13685,7604,2976,586,324,46,1952,99,12,64,22
+HH3510C,10,222,District - Begusarai,Urban,Cooking inside house:,11016,6050,2175,429,258,46,1907,95,12,44,0
+HH3510C,10,222,District - Begusarai,Urban,Has Kitchen,3009,937,401,73,48,24,1428,85,4,9,0
+HH3510C,10,222,District - Begusarai,Urban,Does not have kitchen,8007,5113,1774,356,210,22,479,10,8,35,0
+HH3510C,10,222,District - Begusarai,Urban,Cooking outside house:,2647,1554,801,157,66,0,45,4,0,20,0
+HH3510C,10,222,District - Begusarai,Urban,Has Kitchen,774,516,172,31,11,0,30,0,0,14,0
+HH3510C,10,222,District - Begusarai,Urban,Does not have kitchen,1873,1038,629,126,55,0,15,4,0,6,0
+HH3510C,10,222,District - Begusarai,Urban,No Cooking,22,0,0,0,0,0,0,0,0,0,22
+HH3510C,10,223,District - Khagaria,Total,Total,52777,9023,40180,2429,73,42,689,31,8,242,60
+HH3510C,10,223,District - Khagaria,Total,Cooking inside house:,36581,6298,27824,1581,37,29,613,24,6,169,0
+HH3510C,10,223,District - Khagaria,Total,Has Kitchen,3340,941,1678,207,10,22,468,4,4,6,0
+HH3510C,10,223,District - Khagaria,Total,Does not have kitchen,33241,5357,26146,1374,27,7,145,20,2,163,0
+HH3510C,10,223,District - Khagaria,Total,Cooking outside house:,16136,2725,12356,848,36,13,76,7,2,73,0
+HH3510C,10,223,District - Khagaria,Total,Has Kitchen,4254,884,2994,293,17,10,46,2,0,8,0
+HH3510C,10,223,District - Khagaria,Total,Does not have kitchen,11882,1841,9362,555,19,3,30,5,2,65,0
+HH3510C,10,223,District - Khagaria,Total,No Cooking,60,0,0,0,0,0,0,0,0,0,60
+HH3510C,10,223,District - Khagaria,Rural,Total,51433,8299,39851,2410,44,41,453,30,5,242,58
+HH3510C,10,223,District - Khagaria,Rural,Cooking inside house:,35558,5742,27594,1568,24,28,406,24,3,169,0
+HH3510C,10,223,District - Khagaria,Rural,Has Kitchen,3114,884,1671,206,9,21,312,4,1,6,0
+HH3510C,10,223,District - Khagaria,Rural,Does not have kitchen,32444,4858,25923,1362,15,7,94,20,2,163,0
+HH3510C,10,223,District - Khagaria,Rural,Cooking outside house:,15817,2557,12257,842,20,13,47,6,2,73,0
+HH3510C,10,223,District - Khagaria,Rural,Has Kitchen,4185,860,2977,292,12,10,24,2,0,8,0
+HH3510C,10,223,District - Khagaria,Rural,Does not have kitchen,11632,1697,9280,550,8,3,23,4,2,65,0
+HH3510C,10,223,District - Khagaria,Rural,No Cooking,58,0,0,0,0,0,0,0,0,0,58
+HH3510C,10,223,District - Khagaria,Urban,Total,1344,724,329,19,29,1,236,1,3,0,2
+HH3510C,10,223,District - Khagaria,Urban,Cooking inside house:,1023,556,230,13,13,1,207,0,3,0,0
+HH3510C,10,223,District - Khagaria,Urban,Has Kitchen,226,57,7,1,1,1,156,0,3,0,0
+HH3510C,10,223,District - Khagaria,Urban,Does not have kitchen,797,499,223,12,12,0,51,0,0,0,0
+HH3510C,10,223,District - Khagaria,Urban,Cooking outside house:,319,168,99,6,16,0,29,1,0,0,0
+HH3510C,10,223,District - Khagaria,Urban,Has Kitchen,69,24,17,1,5,0,22,0,0,0,0
+HH3510C,10,223,District - Khagaria,Urban,Does not have kitchen,250,144,82,5,11,0,7,1,0,0,0
+HH3510C,10,223,District - Khagaria,Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3510C,10,224,District - Bhagalpur,Total,Total,66624,22700,21392,12816,4666,125,3144,93,60,1525,103
+HH3510C,10,224,District - Bhagalpur,Total,Cooking inside house:,51987,17483,16056,9896,4165,108,3016,76,57,1130,0
+HH3510C,10,224,District - Bhagalpur,Total,Has Kitchen,7956,2240,1551,725,888,65,2364,25,23,75,0
+HH3510C,10,224,District - Bhagalpur,Total,Does not have kitchen,44031,15243,14505,9171,3277,43,652,51,34,1055,0
+HH3510C,10,224,District - Bhagalpur,Total,Cooking outside house:,14534,5217,5336,2920,501,17,128,17,3,395,0
+HH3510C,10,224,District - Bhagalpur,Total,Has Kitchen,3802,1324,1304,962,108,6,77,3,1,17,0
+HH3510C,10,224,District - Bhagalpur,Total,Does not have kitchen,10732,3893,4032,1958,393,11,51,14,2,378,0
+HH3510C,10,224,District - Bhagalpur,Total,No Cooking,103,0,0,0,0,0,0,0,0,0,103
+HH3510C,10,224,District - Bhagalpur,Rural,Total,55994,19064,20530,11949,1806,42,957,83,38,1449,76
+HH3510C,10,224,District - Bhagalpur,Rural,Cooking inside house:,42869,14641,15399,9184,1551,30,868,66,35,1095,0
+HH3510C,10,224,District - Bhagalpur,Rural,Has Kitchen,5088,1838,1455,605,394,18,682,19,9,68,0
+HH3510C,10,224,District - Bhagalpur,Rural,Does not have kitchen,37781,12803,13944,8579,1157,12,186,47,26,1027,0
+HH3510C,10,224,District - Bhagalpur,Rural,Cooking outside house:,13049,4423,5131,2765,255,12,89,17,3,354,0
+HH3510C,10,224,District - Bhagalpur,Rural,Has Kitchen,3615,1250,1262,954,65,6,57,3,1,17,0
+HH3510C,10,224,District - Bhagalpur,Rural,Does not have kitchen,9434,3173,3869,1811,190,6,32,14,2,337,0
+HH3510C,10,224,District - Bhagalpur,Rural,No Cooking,76,0,0,0,0,0,0,0,0,0,76
+HH3510C,10,224,District - Bhagalpur,Urban,Total,10630,3636,862,867,2860,83,2187,10,22,76,27
+HH3510C,10,224,District - Bhagalpur,Urban,Cooking inside house:,9118,2842,657,712,2614,78,2148,10,22,35,0
+HH3510C,10,224,District - Bhagalpur,Urban,Has Kitchen,2868,402,96,120,494,47,1682,6,14,7,0
+HH3510C,10,224,District - Bhagalpur,Urban,Does not have kitchen,6250,2440,561,592,2120,31,466,4,8,28,0
+HH3510C,10,224,District - Bhagalpur,Urban,Cooking outside house:,1485,794,205,155,246,5,39,0,0,41,0
+HH3510C,10,224,District - Bhagalpur,Urban,Has Kitchen,187,74,42,8,43,0,20,0,0,0,0
+HH3510C,10,224,District - Bhagalpur,Urban,Does not have kitchen,1298,720,163,147,203,5,19,0,0,41,0
+HH3510C,10,224,District - Bhagalpur,Urban,No Cooking,27,0,0,0,0,0,0,0,0,0,27
+HH3510C,10,225,District - Banka,Total,Total,51104,16291,13713,18239,402,68,581,43,63,1643,61
+HH3510C,10,225,District - Banka,Total,Cooking inside house:,44823,14337,11748,16386,359,53,529,32,43,1336,0
+HH3510C,10,225,District - Banka,Total,Has Kitchen,3511,1508,515,979,96,15,343,0,5,50,0
+HH3510C,10,225,District - Banka,Total,Does not have kitchen,41312,12829,11233,15407,263,38,186,32,38,1286,0
+HH3510C,10,225,District - Banka,Total,Cooking outside house:,6220,1954,1965,1853,43,15,52,11,20,307,0
+HH3510C,10,225,District - Banka,Total,Has Kitchen,1553,447,598,378,18,6,30,3,6,67,0
+HH3510C,10,225,District - Banka,Total,Does not have kitchen,4667,1507,1367,1475,25,9,22,8,14,240,0
+HH3510C,10,225,District - Banka,Total,No Cooking,61,0,0,0,0,0,0,0,0,0,61
+HH3510C,10,225,District - Banka,Rural,Total,49387,15652,13426,17809,330,66,337,41,63,1607,56
+HH3510C,10,225,District - Banka,Rural,Cooking inside house:,43372,13835,11506,15996,297,52,312,31,43,1300,0
+HH3510C,10,225,District - Banka,Rural,Has Kitchen,3260,1474,472,955,91,14,199,0,5,50,0
+HH3510C,10,225,District - Banka,Rural,Does not have kitchen,40112,12361,11034,15041,206,38,113,31,38,1250,0
+HH3510C,10,225,District - Banka,Rural,Cooking outside house:,5959,1817,1920,1813,33,14,25,10,20,307,0
+HH3510C,10,225,District - Banka,Rural,Has Kitchen,1499,433,585,376,14,5,10,3,6,67,0
+HH3510C,10,225,District - Banka,Rural,Does not have kitchen,4460,1384,1335,1437,19,9,15,7,14,240,0
+HH3510C,10,225,District - Banka,Rural,No Cooking,56,0,0,0,0,0,0,0,0,0,56
+HH3510C,10,225,District - Banka,Urban,Total,1717,639,287,430,72,2,244,2,0,36,5
+HH3510C,10,225,District - Banka,Urban,Cooking inside house:,1451,502,242,390,62,1,217,1,0,36,0
+HH3510C,10,225,District - Banka,Urban,Has Kitchen,251,34,43,24,5,1,144,0,0,0,0
+HH3510C,10,225,District - Banka,Urban,Does not have kitchen,1200,468,199,366,57,0,73,1,0,36,0
+HH3510C,10,225,District - Banka,Urban,Cooking outside house:,261,137,45,40,10,1,27,1,0,0,0
+HH3510C,10,225,District - Banka,Urban,Has Kitchen,54,14,13,2,4,1,20,0,0,0,0
+HH3510C,10,225,District - Banka,Urban,Does not have kitchen,207,123,32,38,6,0,7,1,0,0,0
+HH3510C,10,225,District - Banka,Urban,No Cooking,5,0,0,0,0,0,0,0,0,0,5
+HH3510C,10,226,District - Munger,Total,Total,38390,20073,6029,7167,505,107,3922,44,57,418,68
+HH3510C,10,226,District - Munger,Total,Cooking inside house:,33390,17400,5008,6169,460,99,3805,35,54,360,0
+HH3510C,10,226,District - Munger,Total,Has Kitchen,5422,1731,472,342,96,40,2629,21,18,73,0
+HH3510C,10,226,District - Munger,Total,Does not have kitchen,27968,15669,4536,5827,364,59,1176,14,36,287,0
+HH3510C,10,226,District - Munger,Total,Cooking outside house:,4932,2673,1021,998,45,8,117,9,3,58,0
+HH3510C,10,226,District - Munger,Total,Has Kitchen,1137,427,300,342,19,3,42,2,0,2,0
+HH3510C,10,226,District - Munger,Total,Does not have kitchen,3795,2246,721,656,26,5,75,7,3,56,0
+HH3510C,10,226,District - Munger,Total,No Cooking,68,0,0,0,0,0,0,0,0,0,68
+HH3510C,10,226,District - Munger,Rural,Total,31237,16827,5676,6548,79,29,1607,42,40,353,36
+HH3510C,10,226,District - Munger,Rural,Cooking inside house:,27034,14663,4730,5635,67,23,1539,33,38,306,0
+HH3510C,10,226,District - Munger,Rural,Has Kitchen,3206,1400,413,287,14,9,978,20,15,70,0
+HH3510C,10,226,District - Munger,Rural,Does not have kitchen,23828,13263,4317,5348,53,14,561,13,23,236,0
+HH3510C,10,226,District - Munger,Rural,Cooking outside house:,4167,2164,946,913,12,6,68,9,2,47,0
+HH3510C,10,226,District - Munger,Rural,Has Kitchen,929,334,266,296,10,1,18,2,0,2,0
+HH3510C,10,226,District - Munger,Rural,Does not have kitchen,3238,1830,680,617,2,5,50,7,2,45,0
+HH3510C,10,226,District - Munger,Rural,No Cooking,36,0,0,0,0,0,0,0,0,0,36
+HH3510C,10,226,District - Munger,Urban,Total,7153,3246,353,619,426,78,2315,2,17,65,32
+HH3510C,10,226,District - Munger,Urban,Cooking inside house:,6356,2737,278,534,393,76,2266,2,16,54,0
+HH3510C,10,226,District - Munger,Urban,Has Kitchen,2216,331,59,55,82,31,1651,1,3,3,0
+HH3510C,10,226,District - Munger,Urban,Does not have kitchen,4140,2406,219,479,311,45,615,1,13,51,0
+HH3510C,10,226,District - Munger,Urban,Cooking outside house:,765,509,75,85,33,2,49,0,1,11,0
+HH3510C,10,226,District - Munger,Urban,Has Kitchen,208,93,34,46,9,2,24,0,0,0,0
+HH3510C,10,226,District - Munger,Urban,Does not have kitchen,557,416,41,39,24,0,25,0,1,11,0
+HH3510C,10,226,District - Munger,Urban,No Cooking,32,0,0,0,0,0,0,0,0,0,32
+HH3510C,10,227,District - Lakhisarai,Total,Total,29121,9732,8433,9591,194,88,722,72,39,191,59
+HH3510C,10,227,District - Lakhisarai,Total,Cooking inside house:,24561,8137,6983,8201,172,76,714,64,38,176,0
+HH3510C,10,227,District - Lakhisarai,Total,Has Kitchen,2359,774,428,611,28,21,465,7,9,16,0
+HH3510C,10,227,District - Lakhisarai,Total,Does not have kitchen,22202,7363,6555,7590,144,55,249,57,29,160,0
+HH3510C,10,227,District - Lakhisarai,Total,Cooking outside house:,4501,1595,1450,1390,22,12,8,8,1,15,0
+HH3510C,10,227,District - Lakhisarai,Total,Has Kitchen,1058,326,352,364,4,5,4,0,1,2,0
+HH3510C,10,227,District - Lakhisarai,Total,Does not have kitchen,3443,1269,1098,1026,18,7,4,8,0,13,0
+HH3510C,10,227,District - Lakhisarai,Total,No Cooking,59,0,0,0,0,0,0,0,0,0,59
+HH3510C,10,227,District - Lakhisarai,Rural,Total,26167,8441,8092,8889,59,53,383,62,35,110,43
+HH3510C,10,227,District - Lakhisarai,Rural,Cooking inside house:,22047,6953,6794,7640,54,44,376,55,34,97,0
+HH3510C,10,227,District - Lakhisarai,Rural,Has Kitchen,1917,669,392,578,7,10,241,6,8,6,0
+HH3510C,10,227,District - Lakhisarai,Rural,Does not have kitchen,20130,6284,6402,7062,47,34,135,49,26,91,0
+HH3510C,10,227,District - Lakhisarai,Rural,Cooking outside house:,4077,1488,1298,1249,5,9,7,7,1,13,0
+HH3510C,10,227,District - Lakhisarai,Rural,Has Kitchen,981,298,319,350,2,5,4,0,1,2,0
+HH3510C,10,227,District - Lakhisarai,Rural,Does not have kitchen,3096,1190,979,899,3,4,3,7,0,11,0
+HH3510C,10,227,District - Lakhisarai,Rural,No Cooking,43,0,0,0,0,0,0,0,0,0,43
+HH3510C,10,227,District - Lakhisarai,Urban,Total,2954,1291,341,702,135,35,339,10,4,81,16
+HH3510C,10,227,District - Lakhisarai,Urban,Cooking inside house:,2514,1184,189,561,118,32,338,9,4,79,0
+HH3510C,10,227,District - Lakhisarai,Urban,Has Kitchen,442,105,36,33,21,11,224,1,1,10,0
+HH3510C,10,227,District - Lakhisarai,Urban,Does not have kitchen,2072,1079,153,528,97,21,114,8,3,69,0
+HH3510C,10,227,District - Lakhisarai,Urban,Cooking outside house:,424,107,152,141,17,3,1,1,0,2,0
+HH3510C,10,227,District - Lakhisarai,Urban,Has Kitchen,77,28,33,14,2,0,0,0,0,0,0
+HH3510C,10,227,District - Lakhisarai,Urban,Does not have kitchen,347,79,119,127,15,3,1,1,0,2,0
+HH3510C,10,227,District - Lakhisarai,Urban,No Cooking,16,0,0,0,0,0,0,0,0,0,16
+HH3510C,10,228,District - Sheikhpura,Total,Total,24934,2967,8277,12147,275,93,390,40,55,641,49
+HH3510C,10,228,District - Sheikhpura,Total,Cooking inside house:,21121,2320,6970,10566,209,71,376,30,43,536,0
+HH3510C,10,228,District - Sheikhpura,Total,Has Kitchen,1692,330,370,645,53,8,248,4,28,6,0
+HH3510C,10,228,District - Sheikhpura,Total,Does not have kitchen,19429,1990,6600,9921,156,63,128,26,15,530,0
+HH3510C,10,228,District - Sheikhpura,Total,Cooking outside house:,3764,647,1307,1581,66,22,14,10,12,105,0
+HH3510C,10,228,District - Sheikhpura,Total,Has Kitchen,1024,234,367,364,44,1,6,2,0,6,0
+HH3510C,10,228,District - Sheikhpura,Total,Does not have kitchen,2740,413,940,1217,22,21,8,8,12,99,0
+HH3510C,10,228,District - Sheikhpura,Total,No Cooking,49,0,0,0,0,0,0,0,0,0,49
+HH3510C,10,228,District - Sheikhpura,Rural,Total,21896,2132,7837,10919,121,82,118,31,51,567,38
+HH3510C,10,228,District - Sheikhpura,Rural,Cooking inside house:,18635,1673,6676,9510,78,61,106,25,39,467,0
+HH3510C,10,228,District - Sheikhpura,Rural,Has Kitchen,1273,226,344,571,13,8,81,2,26,2,0
+HH3510C,10,228,District - Sheikhpura,Rural,Does not have kitchen,17362,1447,6332,8939,65,53,25,23,13,465,0
+HH3510C,10,228,District - Sheikhpura,Rural,Cooking outside house:,3223,459,1161,1409,43,21,12,6,12,100,0
+HH3510C,10,228,District - Sheikhpura,Rural,Has Kitchen,885,231,326,280,36,1,5,0,0,6,0
+HH3510C,10,228,District - Sheikhpura,Rural,Does not have kitchen,2338,228,835,1129,7,20,7,6,12,94,0
+HH3510C,10,228,District - Sheikhpura,Rural,No Cooking,38,0,0,0,0,0,0,0,0,0,38
+HH3510C,10,228,District - Sheikhpura,Urban,Total,3038,835,440,1228,154,11,272,9,4,74,11
+HH3510C,10,228,District - Sheikhpura,Urban,Cooking inside house:,2486,647,294,1056,131,10,270,5,4,69,0
+HH3510C,10,228,District - Sheikhpura,Urban,Has Kitchen,419,104,26,74,40,0,167,2,2,4,0
+HH3510C,10,228,District - Sheikhpura,Urban,Does not have kitchen,2067,543,268,982,91,10,103,3,2,65,0
+HH3510C,10,228,District - Sheikhpura,Urban,Cooking outside house:,541,188,146,172,23,1,2,4,0,5,0
+HH3510C,10,228,District - Sheikhpura,Urban,Has Kitchen,139,3,41,84,8,0,1,2,0,0,0
+HH3510C,10,228,District - Sheikhpura,Urban,Does not have kitchen,402,185,105,88,15,1,1,2,0,5,0
+HH3510C,10,228,District - Sheikhpura,Urban,No Cooking,11,0,0,0,0,0,0,0,0,0,11
+HH3510C,10,229,District - Nalanda,Total,Total,112699,19705,27709,57297,1215,503,2728,184,408,2725,225
+HH3510C,10,229,District - Nalanda,Total,Cooking inside house:,96766,16553,22637,51270,1016,402,2638,133,342,1775,0
+HH3510C,10,229,District - Nalanda,Total,Has Kitchen,7141,1866,1167,1978,167,81,1760,9,73,40,0
+HH3510C,10,229,District - Nalanda,Total,Does not have kitchen,89625,14687,21470,49292,849,321,878,124,269,1735,0
+HH3510C,10,229,District - Nalanda,Total,Cooking outside house:,15708,3152,5072,6027,199,101,90,51,66,950,0
+HH3510C,10,229,District - Nalanda,Total,Has Kitchen,3700,501,1463,1465,105,36,30,22,11,67,0
+HH3510C,10,229,District - Nalanda,Total,Does not have kitchen,12008,2651,3609,4562,94,65,60,29,55,883,0
+HH3510C,10,229,District - Nalanda,Total,No Cooking,225,0,0,0,0,0,0,0,0,0,225
+HH3510C,10,229,District - Nalanda,Rural,Total,102457,15857,26387,55241,357,332,1023,170,359,2538,193
+HH3510C,10,229,District - Nalanda,Rural,Cooking inside house:,88144,13384,21616,49523,253,297,974,123,295,1679,0
+HH3510C,10,229,District - Nalanda,Rural,Has Kitchen,5155,1472,1029,1885,67,51,569,8,42,32,0
+HH3510C,10,229,District - Nalanda,Rural,Does not have kitchen,82989,11912,20587,47638,186,246,405,115,253,1647,0
+HH3510C,10,229,District - Nalanda,Rural,Cooking outside house:,14120,2473,4771,5718,104,35,49,47,64,859,0
+HH3510C,10,229,District - Nalanda,Rural,Has Kitchen,3392,411,1391,1404,62,12,19,19,9,65,0
+HH3510C,10,229,District - Nalanda,Rural,Does not have kitchen,10728,2062,3380,4314,42,23,30,28,55,794,0
+HH3510C,10,229,District - Nalanda,Rural,No Cooking,193,0,0,0,0,0,0,0,0,0,193
+HH3510C,10,229,District - Nalanda,Urban,Total,10242,3848,1322,2056,858,171,1705,14,49,187,32
+HH3510C,10,229,District - Nalanda,Urban,Cooking inside house:,8622,3169,1021,1747,763,105,1664,10,47,96,0
+HH3510C,10,229,District - Nalanda,Urban,Has Kitchen,1986,394,138,93,100,30,1191,1,31,8,0
+HH3510C,10,229,District - Nalanda,Urban,Does not have kitchen,6636,2775,883,1654,663,75,473,9,16,88,0
+HH3510C,10,229,District - Nalanda,Urban,Cooking outside house:,1588,679,301,309,95,66,41,4,2,91,0
+HH3510C,10,229,District - Nalanda,Urban,Has Kitchen,308,90,72,61,43,24,11,3,2,2,0
+HH3510C,10,229,District - Nalanda,Urban,Does not have kitchen,1280,589,229,248,52,42,30,1,0,89,0
+HH3510C,10,229,District - Nalanda,Urban,No Cooking,32,0,0,0,0,0,0,0,0,0,32
+HH3510C,10,230,District - Patna,Total,Total,172684,38315,22169,76238,5258,1070,25017,368,1022,2899,328
+HH3510C,10,230,District - Patna,Total,Cooking inside house:,155201,33931,17937,69106,4785,980,24641,311,941,2569,0
+HH3510C,10,230,District - Patna,Total,Has Kitchen,28382,4139,1112,3491,868,365,18110,59,119,119,0
+HH3510C,10,230,District - Patna,Total,Does not have kitchen,126819,29792,16825,65615,3917,615,6531,252,822,2450,0
+HH3510C,10,230,District - Patna,Total,Cooking outside house:,17155,4384,4232,7132,473,90,376,57,81,330,0
+HH3510C,10,230,District - Patna,Total,Has Kitchen,4503,941,1338,1877,104,34,138,8,34,29,0
+HH3510C,10,230,District - Patna,Total,Does not have kitchen,12652,3443,2894,5255,369,56,238,49,47,301,0
+HH3510C,10,230,District - Patna,Total,No Cooking,328,0,0,0,0,0,0,0,0,0,328
+HH3510C,10,230,District - Patna,Rural,Total,121958,24769,20071,69260,1146,258,2606,214,859,2542,233
+HH3510C,10,230,District - Patna,Rural,Cooking inside house:,108451,21976,16261,63200,998,229,2507,160,804,2316,0
+HH3510C,10,230,District - Patna,Rural,Has Kitchen,7553,1886,695,2980,198,61,1592,16,46,79,0
+HH3510C,10,230,District - Patna,Rural,Does not have kitchen,100898,20090,15566,60220,800,168,915,144,758,2237,0
+HH3510C,10,230,District - Patna,Rural,Cooking outside house:,13274,2793,3810,6060,148,29,99,54,55,226,0
+HH3510C,10,230,District - Patna,Rural,Has Kitchen,3547,647,1185,1579,51,11,19,7,28,20,0
+HH3510C,10,230,District - Patna,Rural,Does not have kitchen,9727,2146,2625,4481,97,18,80,47,27,206,0
+HH3510C,10,230,District - Patna,Rural,No Cooking,233,0,0,0,0,0,0,0,0,0,233
+HH3510C,10,230,District - Patna,Urban,Total,50726,13546,2098,6978,4112,812,22411,154,163,357,95
+HH3510C,10,230,District - Patna,Urban,Cooking inside house:,46750,11955,1676,5906,3787,751,22134,151,137,253,0
+HH3510C,10,230,District - Patna,Urban,Has Kitchen,20829,2253,417,511,670,304,16518,43,73,40,0
+HH3510C,10,230,District - Patna,Urban,Does not have kitchen,25921,9702,1259,5395,3117,447,5616,108,64,213,0
+HH3510C,10,230,District - Patna,Urban,Cooking outside house:,3881,1591,422,1072,325,61,277,3,26,104,0
+HH3510C,10,230,District - Patna,Urban,Has Kitchen,956,294,153,298,53,23,119,1,6,9,0
+HH3510C,10,230,District - Patna,Urban,Does not have kitchen,2925,1297,269,774,272,38,158,2,20,95,0
+HH3510C,10,230,District - Patna,Urban,No Cooking,95,0,0,0,0,0,0,0,0,0,95
+HH3510C,10,231,District - Bhojpur,Total,Total,76981,21575,8614,41399,556,257,2650,112,224,1407,187
+HH3510C,10,231,District - Bhojpur,Total,Cooking inside house:,68566,18837,6968,37982,483,227,2584,99,213,1173,0
+HH3510C,10,231,District - Bhojpur,Total,Has Kitchen,8635,2541,602,3375,77,50,1864,16,57,53,0
+HH3510C,10,231,District - Bhojpur,Total,Does not have kitchen,59931,16296,6366,34607,406,177,720,83,156,1120,0
+HH3510C,10,231,District - Bhojpur,Total,Cooking outside house:,8228,2738,1646,3417,73,30,66,13,11,234,0
+HH3510C,10,231,District - Bhojpur,Total,Has Kitchen,2034,451,536,980,17,0,29,5,3,13,0
+HH3510C,10,231,District - Bhojpur,Total,Does not have kitchen,6194,2287,1110,2437,56,30,37,8,8,221,0
+HH3510C,10,231,District - Bhojpur,Total,No Cooking,187,0,0,0,0,0,0,0,0,0,187
+HH3510C,10,231,District - Bhojpur,Rural,Total,69695,18621,8118,39951,148,182,897,105,205,1299,169
+HH3510C,10,231,District - Bhojpur,Rural,Cooking inside house:,61841,16161,6518,36628,95,155,855,93,194,1142,0
+HH3510C,10,231,District - Bhojpur,Rural,Has Kitchen,6600,2175,499,3268,28,15,512,13,42,48,0
+HH3510C,10,231,District - Bhojpur,Rural,Does not have kitchen,55241,13986,6019,33360,67,140,343,80,152,1094,0
+HH3510C,10,231,District - Bhojpur,Rural,Cooking outside house:,7685,2460,1600,3323,53,27,42,12,11,157,0
+HH3510C,10,231,District - Bhojpur,Rural,Has Kitchen,1925,429,501,953,9,0,15,4,3,11,0
+HH3510C,10,231,District - Bhojpur,Rural,Does not have kitchen,5760,2031,1099,2370,44,27,27,8,8,146,0
+HH3510C,10,231,District - Bhojpur,Rural,No Cooking,169,0,0,0,0,0,0,0,0,0,169
+HH3510C,10,231,District - Bhojpur,Urban,Total,7286,2954,496,1448,408,75,1753,7,19,108,18
+HH3510C,10,231,District - Bhojpur,Urban,Cooking inside house:,6725,2676,450,1354,388,72,1729,6,19,31,0
+HH3510C,10,231,District - Bhojpur,Urban,Has Kitchen,2035,366,103,107,49,35,1352,3,15,5,0
+HH3510C,10,231,District - Bhojpur,Urban,Does not have kitchen,4690,2310,347,1247,339,37,377,3,4,26,0
+HH3510C,10,231,District - Bhojpur,Urban,Cooking outside house:,543,278,46,94,20,3,24,1,0,77,0
+HH3510C,10,231,District - Bhojpur,Urban,Has Kitchen,109,22,35,27,8,0,14,1,0,2,0
+HH3510C,10,231,District - Bhojpur,Urban,Does not have kitchen,434,256,11,67,12,3,10,0,0,75,0
+HH3510C,10,231,District - Bhojpur,Urban,No Cooking,18,0,0,0,0,0,0,0,0,0,18
+HH3510C,10,232,District - Buxar,Total,Total,43094,10257,3803,26388,282,142,1202,61,289,590,80
+HH3510C,10,232,District - Buxar,Total,Cooking inside house:,38932,9071,2996,24491,222,130,1174,46,277,525,0
+HH3510C,10,232,District - Buxar,Total,Has Kitchen,6200,1642,441,2959,43,41,918,9,82,65,0
+HH3510C,10,232,District - Buxar,Total,Does not have kitchen,32732,7429,2555,21532,179,89,256,37,195,460,0
+HH3510C,10,232,District - Buxar,Total,Cooking outside house:,4082,1186,807,1897,60,12,28,15,12,65,0
+HH3510C,10,232,District - Buxar,Total,Has Kitchen,1450,338,395,634,40,3,7,5,10,18,0
+HH3510C,10,232,District - Buxar,Total,Does not have kitchen,2632,848,412,1263,20,9,21,10,2,47,0
+HH3510C,10,232,District - Buxar,Total,No Cooking,80,0,0,0,0,0,0,0,0,0,80
+HH3510C,10,232,District - Buxar,Rural,Total,40399,8924,3711,26077,121,114,459,60,283,579,71
+HH3510C,10,232,District - Buxar,Rural,Cooking inside house:,36472,7924,2914,24189,73,102,438,46,271,515,0
+HH3510C,10,232,District - Buxar,Rural,Has Kitchen,5336,1465,404,2936,14,34,335,9,76,63,0
+HH3510C,10,232,District - Buxar,Rural,Does not have kitchen,31136,6459,2510,21253,59,68,103,37,195,452,0
+HH3510C,10,232,District - Buxar,Rural,Cooking outside house:,3856,1000,797,1888,48,12,21,14,12,64,0
+HH3510C,10,232,District - Buxar,Rural,Has Kitchen,1404,311,388,628,39,3,4,4,10,17,0
+HH3510C,10,232,District - Buxar,Rural,Does not have kitchen,2452,689,409,1260,9,9,17,10,2,47,0
+HH3510C,10,232,District - Buxar,Rural,No Cooking,71,0,0,0,0,0,0,0,0,0,71
+HH3510C,10,232,District - Buxar,Urban,Total,2695,1333,92,311,161,28,743,1,6,11,9
+HH3510C,10,232,District - Buxar,Urban,Cooking inside house:,2460,1147,82,302,149,28,736,0,6,10,0
+HH3510C,10,232,District - Buxar,Urban,Has Kitchen,864,177,37,23,29,7,583,0,6,2,0
+HH3510C,10,232,District - Buxar,Urban,Does not have kitchen,1596,970,45,279,120,21,153,0,0,8,0
+HH3510C,10,232,District - Buxar,Urban,Cooking outside house:,226,186,10,9,12,0,7,1,0,1,0
+HH3510C,10,232,District - Buxar,Urban,Has Kitchen,46,27,7,6,1,0,3,1,0,1,0
+HH3510C,10,232,District - Buxar,Urban,Does not have kitchen,180,159,3,3,11,0,4,0,0,0,0
+HH3510C,10,232,District - Buxar,Urban,No Cooking,9,0,0,0,0,0,0,0,0,0,9
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Total,61239,14241,3925,40823,200,195,723,61,252,736,83
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Cooking inside house:,56033,12768,3286,37995,160,175,702,57,244,646,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Has Kitchen,9961,2684,355,6155,40,27,546,13,49,92,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Does not have kitchen,46072,10084,2931,31840,120,148,156,44,195,554,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Cooking outside house:,5123,1473,639,2828,40,20,21,4,8,90,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Has Kitchen,1931,457,397,1035,17,6,5,0,3,11,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,Does not have kitchen,3192,1016,242,1793,23,14,16,4,5,79,0
+HH3510C,10,233,District - Kaimur (Bhabua),Total,No Cooking,83,0,0,0,0,0,0,0,0,0,83
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Total,59747,13467,3853,40520,184,190,430,61,249,712,81
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Cooking inside house:,54678,12080,3232,37708,148,171,410,57,242,630,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Has Kitchen,9552,2587,341,6102,37,26,310,13,49,87,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Does not have kitchen,45126,9493,2891,31606,111,145,100,44,193,543,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Cooking outside house:,4988,1387,621,2812,36,19,20,4,7,82,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Has Kitchen,1887,446,382,1022,13,6,4,0,3,11,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,Does not have kitchen,3101,941,239,1790,23,13,16,4,4,71,0
+HH3510C,10,233,District - Kaimur (Bhabua),Rural,No Cooking,81,0,0,0,0,0,0,0,0,0,81
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Total,1492,774,72,303,16,5,293,0,3,24,2
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Cooking inside house:,1355,688,54,287,12,4,292,0,2,16,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Has Kitchen,409,97,14,53,3,1,236,0,0,5,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Does not have kitchen,946,591,40,234,9,3,56,0,2,11,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Cooking outside house:,135,86,18,16,4,1,1,0,1,8,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Has Kitchen,44,11,15,13,4,0,1,0,0,0,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,Does not have kitchen,91,75,3,3,0,1,0,0,1,8,0
+HH3510C,10,233,District - Kaimur (Bhabua),Urban,No Cooking,2,0,0,0,0,0,0,0,0,0,2
+HH3510C,10,234,District - Rohtas,Total,Total,94076,23004,7901,57354,1501,167,2071,118,493,1315,152
+HH3510C,10,234,District - Rohtas,Total,Cooking inside house:,87680,21059,6782,54496,1343,154,2021,107,473,1245,0
+HH3510C,10,234,District - Rohtas,Total,Has Kitchen,13517,3601,842,6729,305,53,1583,18,168,218,0
+HH3510C,10,234,District - Rohtas,Total,Does not have kitchen,74163,17458,5940,47767,1038,101,438,89,305,1027,0
+HH3510C,10,234,District - Rohtas,Total,Cooking outside house:,6244,1945,1119,2858,158,13,50,11,20,70,0
+HH3510C,10,234,District - Rohtas,Total,Has Kitchen,2226,427,636,1082,37,5,27,3,1,8,0
+HH3510C,10,234,District - Rohtas,Total,Does not have kitchen,4018,1518,483,1776,121,8,23,8,19,62,0
+HH3510C,10,234,District - Rohtas,Total,No Cooking,152,0,0,0,0,0,0,0,0,0,152
+HH3510C,10,234,District - Rohtas,Rural,Total,85996,20217,7383,55315,302,116,745,106,415,1268,129
+HH3510C,10,234,District - Rohtas,Rural,Cooking inside house:,80062,18453,6315,52509,270,105,715,95,401,1199,0
+HH3510C,10,234,District - Rohtas,Rural,Has Kitchen,11327,3070,744,6551,77,21,533,13,110,208,0
+HH3510C,10,234,District - Rohtas,Rural,Does not have kitchen,68735,15383,5571,45958,193,84,182,82,291,991,0
+HH3510C,10,234,District - Rohtas,Rural,Cooking outside house:,5805,1764,1068,2806,32,11,30,11,14,69,0
+HH3510C,10,234,District - Rohtas,Rural,Has Kitchen,2094,384,601,1062,19,4,12,3,1,8,0
+HH3510C,10,234,District - Rohtas,Rural,Does not have kitchen,3711,1380,467,1744,13,7,18,8,13,61,0
+HH3510C,10,234,District - Rohtas,Rural,No Cooking,129,0,0,0,0,0,0,0,0,0,129
+HH3510C,10,234,District - Rohtas,Urban,Total,8080,2787,518,2039,1199,51,1326,12,78,47,23
+HH3510C,10,234,District - Rohtas,Urban,Cooking inside house:,7618,2606,467,1987,1073,49,1306,12,72,46,0
+HH3510C,10,234,District - Rohtas,Urban,Has Kitchen,2190,531,98,178,228,32,1050,5,58,10,0
+HH3510C,10,234,District - Rohtas,Urban,Does not have kitchen,5428,2075,369,1809,845,17,256,7,14,36,0
+HH3510C,10,234,District - Rohtas,Urban,Cooking outside house:,439,181,51,52,126,2,20,0,6,1,0
+HH3510C,10,234,District - Rohtas,Urban,Has Kitchen,132,43,35,20,18,1,15,0,0,0,0
+HH3510C,10,234,District - Rohtas,Urban,Does not have kitchen,307,138,16,32,108,1,5,0,6,1,0
+HH3510C,10,234,District - Rohtas,Urban,No Cooking,23,0,0,0,0,0,0,0,0,0,23
+HH3510C,10,235,District - Aurangabad,Total,Total,101358,26187,12535,58185,838,323,1402,168,373,1176,171
+HH3510C,10,235,District - Aurangabad,Total,Cooking inside house:,95721,24538,11191,55974,788,303,1380,132,318,1097,0
+HH3510C,10,235,District - Aurangabad,Total,Has Kitchen,11182,3565,941,5263,178,59,1040,18,30,88,0
+HH3510C,10,235,District - Aurangabad,Total,Does not have kitchen,84539,20973,10250,50711,610,244,340,114,288,1009,0
+HH3510C,10,235,District - Aurangabad,Total,Cooking outside house:,5466,1649,1344,2211,50,20,22,36,55,79,0
+HH3510C,10,235,District - Aurangabad,Total,Has Kitchen,2195,393,782,952,24,5,13,10,9,7,0
+HH3510C,10,235,District - Aurangabad,Total,Does not have kitchen,3271,1256,562,1259,26,15,9,26,46,72,0
+HH3510C,10,235,District - Aurangabad,Total,No Cooking,171,0,0,0,0,0,0,0,0,0,171
+HH3510C,10,235,District - Aurangabad,Rural,Total,96477,24478,12132,56703,516,286,582,163,370,1093,154
+HH3510C,10,235,District - Aurangabad,Rural,Cooking inside house:,91067,22900,10859,54552,470,266,562,128,316,1014,0
+HH3510C,10,235,District - Aurangabad,Rural,Has Kitchen,9943,3255,909,5094,104,46,407,16,28,84,0
+HH3510C,10,235,District - Aurangabad,Rural,Does not have kitchen,81124,19645,9950,49458,366,220,155,112,288,930,0
+HH3510C,10,235,District - Aurangabad,Rural,Cooking outside house:,5256,1578,1273,2151,46,20,20,35,54,79,0
+HH3510C,10,235,District - Aurangabad,Rural,Has Kitchen,2089,360,755,911,23,5,11,9,8,7,0
+HH3510C,10,235,District - Aurangabad,Rural,Does not have kitchen,3167,1218,518,1240,23,15,9,26,46,72,0
+HH3510C,10,235,District - Aurangabad,Rural,No Cooking,154,0,0,0,0,0,0,0,0,0,154
+HH3510C,10,235,District - Aurangabad,Urban,Total,4881,1709,403,1482,322,37,820,5,3,83,17
+HH3510C,10,235,District - Aurangabad,Urban,Cooking inside house:,4654,1638,332,1422,318,37,818,4,2,83,0
+HH3510C,10,235,District - Aurangabad,Urban,Has Kitchen,1239,310,32,169,74,13,633,2,2,4,0
+HH3510C,10,235,District - Aurangabad,Urban,Does not have kitchen,3415,1328,300,1253,244,24,185,2,0,79,0
+HH3510C,10,235,District - Aurangabad,Urban,Cooking outside house:,210,71,71,60,4,0,2,1,1,0,0
+HH3510C,10,235,District - Aurangabad,Urban,Has Kitchen,106,33,27,41,1,0,2,1,1,0,0
+HH3510C,10,235,District - Aurangabad,Urban,Does not have kitchen,104,38,44,19,3,0,0,0,0,0,0
+HH3510C,10,235,District - Aurangabad,Urban,No Cooking,17,0,0,0,0,0,0,0,0,0,17
+HH3510C,10,236,District - Gaya,Total,Total,234272,93657,39935,85581,4381,325,3300,348,708,5714,323
+HH3510C,10,236,District - Gaya,Total,Cooking inside house:,214458,85895,35617,79613,3962,300,3253,308,663,4847,0
+HH3510C,10,236,District - Gaya,Total,Has Kitchen,32354,14151,3466,10564,820,137,2546,49,94,527,0
+HH3510C,10,236,District - Gaya,Total,Does not have kitchen,182104,71744,32151,69049,3142,163,707,259,569,4320,0
+HH3510C,10,236,District - Gaya,Total,Cooking outside house:,19491,7762,4318,5968,419,25,47,40,45,867,0
+HH3510C,10,236,District - Gaya,Total,Has Kitchen,6013,2033,1689,2029,101,8,18,9,19,107,0
+HH3510C,10,236,District - Gaya,Total,Does not have kitchen,13478,5729,2629,3939,318,17,29,31,26,760,0
+HH3510C,10,236,District - Gaya,Total,No Cooking,323,0,0,0,0,0,0,0,0,0,323
+HH3510C,10,236,District - Gaya,Rural,Total,221123,90304,38703,83009,1264,216,754,322,647,5618,286
+HH3510C,10,236,District - Gaya,Rural,Cooking inside house:,202823,82987,34632,77468,1132,202,738,290,609,4765,0
+HH3510C,10,236,District - Gaya,Rural,Has Kitchen,28658,13569,3315,10299,236,95,533,45,49,517,0
+HH3510C,10,236,District - Gaya,Rural,Does not have kitchen,174165,69418,31317,67169,896,107,205,245,560,4248,0
+HH3510C,10,236,District - Gaya,Rural,Cooking outside house:,18014,7317,4071,5541,132,14,16,32,38,853,0
+HH3510C,10,236,District - Gaya,Rural,Has Kitchen,5610,1916,1614,1892,49,3,6,7,16,107,0
+HH3510C,10,236,District - Gaya,Rural,Does not have kitchen,12404,5401,2457,3649,83,11,10,25,22,746,0
+HH3510C,10,236,District - Gaya,Rural,No Cooking,286,0,0,0,0,0,0,0,0,0,286
+HH3510C,10,236,District - Gaya,Urban,Total,13149,3353,1232,2572,3117,109,2546,26,61,96,37
+HH3510C,10,236,District - Gaya,Urban,Cooking inside house:,11635,2908,985,2145,2830,98,2515,18,54,82,0
+HH3510C,10,236,District - Gaya,Urban,Has Kitchen,3696,582,151,265,584,42,2013,4,45,10,0
+HH3510C,10,236,District - Gaya,Urban,Does not have kitchen,7939,2326,834,1880,2246,56,502,14,9,72,0
+HH3510C,10,236,District - Gaya,Urban,Cooking outside house:,1477,445,247,427,287,11,31,8,7,14,0
+HH3510C,10,236,District - Gaya,Urban,Has Kitchen,403,117,75,137,52,5,12,2,3,0,0
+HH3510C,10,236,District - Gaya,Urban,Does not have kitchen,1074,328,172,290,235,6,19,6,4,14,0
+HH3510C,10,236,District - Gaya,Urban,No Cooking,37,0,0,0,0,0,0,0,0,0,37
+HH3510C,10,237,District - Nawada,Total,Total,100423,35959,22509,36927,821,177,1029,131,283,2450,137
+HH3510C,10,237,District - Nawada,Total,Cooking inside house:,86585,31124,18069,33002,754,159,1001,112,249,2115,0
+HH3510C,10,237,District - Nawada,Total,Has Kitchen,10346,4882,1121,3104,184,47,746,19,107,136,0
+HH3510C,10,237,District - Nawada,Total,Does not have kitchen,76239,26242,16948,29898,570,112,255,93,142,1979,0
+HH3510C,10,237,District - Nawada,Total,Cooking outside house:,13701,4835,4440,3925,67,18,28,19,34,335,0
+HH3510C,10,237,District - Nawada,Total,Has Kitchen,3283,1051,933,1232,21,1,13,5,14,13,0
+HH3510C,10,237,District - Nawada,Total,Does not have kitchen,10418,3784,3507,2693,46,17,15,14,20,322,0
+HH3510C,10,237,District - Nawada,Total,No Cooking,137,0,0,0,0,0,0,0,0,0,137
+HH3510C,10,237,District - Nawada,Rural,Total,95428,33921,21855,35961,358,131,440,124,258,2253,127
+HH3510C,10,237,District - Nawada,Rural,Cooking inside house:,82374,29585,17574,32097,306,113,423,108,224,1944,0
+HH3510C,10,237,District - Nawada,Rural,Has Kitchen,9389,4637,1049,3058,82,24,296,15,96,132,0
+HH3510C,10,237,District - Nawada,Rural,Does not have kitchen,72985,24948,16525,29039,224,89,127,93,128,1812,0
+HH3510C,10,237,District - Nawada,Rural,Cooking outside house:,12927,4336,4281,3864,52,18,17,16,34,309,0
+HH3510C,10,237,District - Nawada,Rural,Has Kitchen,3204,1027,899,1222,19,1,6,3,14,13,0
+HH3510C,10,237,District - Nawada,Rural,Does not have kitchen,9723,3309,3382,2642,33,17,11,13,20,296,0
+HH3510C,10,237,District - Nawada,Rural,No Cooking,127,0,0,0,0,0,0,0,0,0,127
+HH3510C,10,237,District - Nawada,Urban,Total,4995,2038,654,966,463,46,589,7,25,197,10
+HH3510C,10,237,District - Nawada,Urban,Cooking inside house:,4211,1539,495,905,448,46,578,4,25,171,0
+HH3510C,10,237,District - Nawada,Urban,Has Kitchen,957,245,72,46,102,23,450,4,11,4,0
+HH3510C,10,237,District - Nawada,Urban,Does not have kitchen,3254,1294,423,859,346,23,128,0,14,167,0
+HH3510C,10,237,District - Nawada,Urban,Cooking outside house:,774,499,159,61,15,0,11,3,0,26,0
+HH3510C,10,237,District - Nawada,Urban,Has Kitchen,79,24,34,10,2,0,7,2,0,0,0
+HH3510C,10,237,District - Nawada,Urban,Does not have kitchen,695,475,125,51,13,0,4,1,0,26,0
+HH3510C,10,237,District - Nawada,Urban,No Cooking,10,0,0,0,0,0,0,0,0,0,10
+HH3510C,10,238,District - Jamui,Total,Total,60770,34291,10763,13328,553,113,625,80,69,862,86
+HH3510C,10,238,District - Jamui,Total,Cooking inside house:,52183,30293,8744,11231,486,102,610,64,55,598,0
+HH3510C,10,238,District - Jamui,Total,Has Kitchen,4239,2217,808,585,135,18,429,14,8,25,0
+HH3510C,10,238,District - Jamui,Total,Does not have kitchen,47944,28076,7936,10646,351,84,181,50,47,573,0
+HH3510C,10,238,District - Jamui,Total,Cooking outside house:,8501,3998,2019,2097,67,11,15,16,14,264,0
+HH3510C,10,238,District - Jamui,Total,Has Kitchen,1917,845,507,478,22,4,5,5,1,50,0
+HH3510C,10,238,District - Jamui,Total,Does not have kitchen,6584,3153,1512,1619,45,7,10,11,13,214,0
+HH3510C,10,238,District - Jamui,Total,No Cooking,86,0,0,0,0,0,0,0,0,0,86
+HH3510C,10,238,District - Jamui,Rural,Total,57409,32615,10343,12893,195,100,246,64,59,822,72
+HH3510C,10,238,District - Jamui,Rural,Cooking inside house:,49367,28819,8440,10949,168,89,236,51,46,569,0
+HH3510C,10,238,District - Jamui,Rural,Has Kitchen,3589,2078,713,561,41,10,156,6,7,17,0
+HH3510C,10,238,District - Jamui,Rural,Does not have kitchen,45778,26741,7727,10388,127,79,80,45,39,552,0
+HH3510C,10,238,District - Jamui,Rural,Cooking outside house:,7970,3796,1903,1944,27,11,10,13,13,253,0
+HH3510C,10,238,District - Jamui,Rural,Has Kitchen,1810,805,478,456,11,4,1,4,1,50,0
+HH3510C,10,238,District - Jamui,Rural,Does not have kitchen,6160,2991,1425,1488,16,7,9,9,12,203,0
+HH3510C,10,238,District - Jamui,Rural,No Cooking,72,0,0,0,0,0,0,0,0,0,72
+HH3510C,10,238,District - Jamui,Urban,Total,3361,1676,420,435,358,13,379,16,10,40,14
+HH3510C,10,238,District - Jamui,Urban,Cooking inside house:,2816,1474,304,282,318,13,374,13,9,29,0
+HH3510C,10,238,District - Jamui,Urban,Has Kitchen,650,139,95,24,94,8,273,8,1,8,0
+HH3510C,10,238,District - Jamui,Urban,Does not have kitchen,2166,1335,209,258,224,5,101,5,8,21,0
+HH3510C,10,238,District - Jamui,Urban,Cooking outside house:,531,202,116,153,40,0,5,3,1,11,0
+HH3510C,10,238,District - Jamui,Urban,Has Kitchen,107,40,29,22,11,0,4,1,0,0,0
+HH3510C,10,238,District - Jamui,Urban,Does not have kitchen,424,162,87,131,29,0,1,2,1,11,0
+HH3510C,10,238,District - Jamui,Urban,No Cooking,14,0,0,0,0,0,0,0,0,0,14
+HH3510C,10,239,District - Jehanabad ,Total,Total,40620,8847,7404,21572,347,84,822,61,232,1202,49
+HH3510C,10,239,District - Jehanabad ,Total,Cooking inside house:,37054,8177,6168,20202,306,79,803,43,211,1065,0
+HH3510C,10,239,District - Jehanabad ,Total,Has Kitchen,3462,924,394,1366,54,17,616,4,2,85,0
+HH3510C,10,239,District - Jehanabad ,Total,Does not have kitchen,33592,7253,5774,18836,252,62,187,39,209,980,0
+HH3510C,10,239,District - Jehanabad ,Total,Cooking outside house:,3517,670,1236,1370,41,5,19,18,21,137,0
+HH3510C,10,239,District - Jehanabad ,Total,Has Kitchen,987,209,318,401,9,2,4,1,3,40,0
+HH3510C,10,239,District - Jehanabad ,Total,Does not have kitchen,2530,461,918,969,32,3,15,17,18,97,0
+HH3510C,10,239,District - Jehanabad ,Total,No Cooking,49,0,0,0,0,0,0,0,0,0,49
+HH3510C,10,239,District - Jehanabad ,Rural,Total,37090,7725,6931,20494,97,70,304,51,229,1149,40
+HH3510C,10,239,District - Jehanabad ,Rural,Cooking inside house:,33838,7147,5779,19215,87,65,289,33,209,1014,0
+HH3510C,10,239,District - Jehanabad ,Rural,Has Kitchen,2580,641,333,1300,24,15,192,4,1,70,0
+HH3510C,10,239,District - Jehanabad ,Rural,Does not have kitchen,31258,6506,5446,17915,63,50,97,29,208,944,0
+HH3510C,10,239,District - Jehanabad ,Rural,Cooking outside house:,3212,578,1152,1279,10,5,15,18,20,135,0
+HH3510C,10,239,District - Jehanabad ,Rural,Has Kitchen,935,190,307,383,8,2,2,1,2,40,0
+HH3510C,10,239,District - Jehanabad ,Rural,Does not have kitchen,2277,388,845,896,2,3,13,17,18,95,0
+HH3510C,10,239,District - Jehanabad ,Rural,No Cooking,40,0,0,0,0,0,0,0,0,0,40
+HH3510C,10,239,District - Jehanabad ,Urban,Total,3530,1122,473,1078,250,14,518,10,3,53,9
+HH3510C,10,239,District - Jehanabad ,Urban,Cooking inside house:,3216,1030,389,987,219,14,514,10,2,51,0
+HH3510C,10,239,District - Jehanabad ,Urban,Has Kitchen,882,283,61,66,30,2,424,0,1,15,0
+HH3510C,10,239,District - Jehanabad ,Urban,Does not have kitchen,2334,747,328,921,189,12,90,10,1,36,0
+HH3510C,10,239,District - Jehanabad ,Urban,Cooking outside house:,305,92,84,91,31,0,4,0,1,2,0
+HH3510C,10,239,District - Jehanabad ,Urban,Has Kitchen,52,19,11,18,1,0,2,0,1,0,0
+HH3510C,10,239,District - Jehanabad ,Urban,Does not have kitchen,253,73,73,73,30,0,2,0,0,2,0
+HH3510C,10,239,District - Jehanabad ,Urban,No Cooking,9,0,0,0,0,0,0,0,0,0,9
+HH3510C,10,240,District - Arwal,Total,Total,25655,3274,3476,18121,37,23,292,12,91,307,22
+HH3510C,10,240,District - Arwal,Total,Cooking inside house:,23830,2851,2888,17381,35,22,286,11,89,267,0
+HH3510C,10,240,District - Arwal,Total,Has Kitchen,1717,355,104,983,3,11,177,1,1,82,0
+HH3510C,10,240,District - Arwal,Total,Does not have kitchen,22113,2496,2784,16398,32,11,109,10,88,185,0
+HH3510C,10,240,District - Arwal,Total,Cooking outside house:,1803,423,588,740,2,1,6,1,2,40,0
+HH3510C,10,240,District - Arwal,Total,Has Kitchen,619,95,247,272,1,0,3,0,0,1,0
+HH3510C,10,240,District - Arwal,Total,Does not have kitchen,1184,328,341,468,1,1,3,1,2,39,0
+HH3510C,10,240,District - Arwal,Total,No Cooking,22,0,0,0,0,0,0,0,0,0,22
+HH3510C,10,240,District - Arwal,Rural,Total,24006,2967,3343,17110,27,22,151,12,90,262,22
+HH3510C,10,240,District - Arwal,Rural,Cooking inside house:,22238,2558,2761,16378,25,21,145,11,88,251,0
+HH3510C,10,240,District - Arwal,Rural,Has Kitchen,1568,329,102,951,1,11,92,1,0,81,0
+HH3510C,10,240,District - Arwal,Rural,Does not have kitchen,20670,2229,2659,15427,24,10,53,10,88,170,0
+HH3510C,10,240,District - Arwal,Rural,Cooking outside house:,1746,409,582,732,2,1,6,1,2,11,0
+HH3510C,10,240,District - Arwal,Rural,Has Kitchen,605,92,242,266,1,0,3,0,0,1,0
+HH3510C,10,240,District - Arwal,Rural,Does not have kitchen,1141,317,340,466,1,1,3,1,2,10,0
+HH3510C,10,240,District - Arwal,Rural,No Cooking,22,0,0,0,0,0,0,0,0,0,22
+HH3510C,10,240,District - Arwal,Urban,Total,1649,307,133,1011,10,1,141,0,1,45,0
+HH3510C,10,240,District - Arwal,Urban,Cooking inside house:,1592,293,127,1003,10,1,141,0,1,16,0
+HH3510C,10,240,District - Arwal,Urban,Has Kitchen,149,26,2,32,2,0,85,0,1,1,0
+HH3510C,10,240,District - Arwal,Urban,Does not have kitchen,1443,267,125,971,8,1,56,0,0,15,0
+HH3510C,10,240,District - Arwal,Urban,Cooking outside house:,57,14,6,8,0,0,0,0,0,29,0
+HH3510C,10,240,District - Arwal,Urban,Has Kitchen,14,3,5,6,0,0,0,0,0,0,0
+HH3510C,10,240,District - Arwal,Urban,Does not have kitchen,43,11,1,2,0,0,0,0,0,29,0
+HH3510C,10,240,District - Arwal,Urban,No Cooking,0,0,0,0,0,0,0,0,0,0,0

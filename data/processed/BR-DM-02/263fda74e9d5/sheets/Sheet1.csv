@@ -1,0 +1,1583 @@
+"HH-3: HOUSEHOLDS BY PREDOMINANT MATERIALS OF ROOF AND WALL OF CENSUS HOUSES OCCUPIED BY THEM
+",,,,,,,,,,,,,,,,,
+(Excluding Institutional Households),,,,,,,,,,,,,,,,,
+Table Name,State Code,District Code,Tehsil Code,Town Code,Area Name,"Total/
+Rural/
+Urban",Material of wall,Total number of households,Material of Roof,,,,,,,,
+,,,,,,,,,Grass/Thatch/Bamboo/Wood/Mud etc.,Plastic/ Polythene,Hand made Tiles,Machine made Tiles,Burnt Brick,Stone/Slate,G.I./Metal/Asbestos sheets,Concrete,Any other
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,All Material,18940629,5894534,206979,3568254,177737,1472057,1062980,1979137,4501513,77438
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Grass/thatch/bamboo etc.,5283497,3769410,95293,410287,24326,13295,25094,935033,0,10759
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Plastic/ Polythene,91427,36405,18364,17593,1847,4747,4527,7240,0,704
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Mud/unburnt brick,3592902,1385200,38331,1619843,39285,135419,67677,178214,109824,19109
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Wood,43198,22198,2023,9042,1467,2757,1719,3753,0,239
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Stone not packed with mortar,167993,16638,1632,24420,3278,31037,25936,23427,40576,1049
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Stone packed with mortar,219446,9639,1009,12621,4433,33651,64768,12010,80443,872
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,G.I./ metal/asbestos sheets,19677,5415,419,3136,584,1376,1783,5002,1800,162
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Burnt brick,9320360,628453,47710,1451505,98708,1234803,857080,802861,4160157,39083
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Concrete,145442,13662,1038,11652,1475,8840,7063,7370,93480,862
+HH1303,10,000,00000,000000,STATE - BIHAR,Total,Any other,56687,7514,1160,8155,2334,6132,7333,4227,15233,4599
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,All Material,16926958,5626862,183968,3330902,153836,1336048,945663,1825212,3456424,68043
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Grass/thatch/bamboo etc.,5084475,3639100,87672,388142,21942,12424,22559,902639,0,9997
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Plastic/ Polythene,83056,33933,15960,16259,1611,4268,3987,6427,0,611
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Mud/unburnt brick,3343985,1304710,32388,1520236,35159,122723,59876,157477,94296,17120
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Wood,39442,20847,1653,8458,1234,2412,1453,3182,0,203
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Stone not packed with mortar,139428,14676,1368,21838,2711,25935,21808,19974,30320,798
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Stone packed with mortar,161104,8105,796,10850,3360,27330,49878,9450,50680,655
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,G.I./ metal/asbestos sheets,16502,4951,363,2908,467,1212,1524,3674,1269,134
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Burnt brick,7904004,581986,41936,1344051,84398,1126698,772458,712549,3206220,33708
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Concrete,105492,11577,809,10556,1135,7394,5769,6133,61450,669
+HH1303,10,000,00000,000000,STATE - BIHAR,Rural,Any other,49470,6977,1023,7604,1819,5652,6351,3707,12189,4148
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,All Material,2013671,267672,23011,237352,23901,136009,117317,153925,1045089,9395
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Grass/thatch/bamboo etc.,199022,130310,7621,22145,2384,871,2535,32394,0,762
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Plastic/ Polythene,8371,2472,2404,1334,236,479,540,813,0,93
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Mud/unburnt brick,248917,80490,5943,99607,4126,12696,7801,20737,15528,1989
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Wood,3756,1351,370,584,233,345,266,571,0,36
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Stone not packed with mortar,28565,1962,264,2582,567,5102,4128,3453,10256,251
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Stone packed with mortar,58342,1534,213,1771,1073,6321,14890,2560,29763,217
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,G.I./ metal/asbestos sheets,3175,464,56,228,117,164,259,1328,531,28
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Burnt brick,1416356,46467,5774,107454,14310,108105,84622,90312,953937,5375
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Concrete,39950,2085,229,1096,340,1446,1294,1237,32030,193
+HH1303,10,000,00000,000000,STATE - BIHAR,Urban,Any other,7217,537,137,551,515,480,982,520,3044,451
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,All Material,708065,331829,2443,138221,4288,35766,38503,21062,133333,2620
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Grass/thatch/bamboo etc.,340414,293955,679,40459,591,427,855,2982,0,466
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Plastic/ Polythene,2646,1248,452,614,46,93,125,57,0,11
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Mud/unburnt brick,49521,12594,375,26657,570,2839,1979,2061,2027,419
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Wood,1398,842,21,322,24,89,42,54,0,4
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Stone not packed with mortar,3540,310,19,640,71,549,458,474,1003,16
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Stone packed with mortar,3638,239,18,348,103,527,1282,158,937,26
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,G.I./ metal/asbestos sheets,448,144,8,71,9,32,44,96,37,7
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Burnt brick,301393,21678,834,68241,2829,30684,33328,14978,127279,1542
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Concrete,2556,488,19,362,16,214,144,104,1188,21
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Total,Any other,2511,331,18,507,29,312,246,98,862,108
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,All Material,635151,314391,2011,124854,3467,29804,33965,16982,107476,2201
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Grass/thatch/bamboo etc.,324744,280583,587,38776,546,407,765,2661,0,419
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Plastic/ Polythene,2408,1173,416,548,37,83,103,43,0,5
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Mud/unburnt brick,42832,10933,313,23382,454,2287,1703,1639,1761,360
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Wood,1335,819,16,312,24,78,34,49,0,3
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Stone not packed with mortar,2574,280,11,487,48,318,333,379,704,14
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Stone packed with mortar,2632,186,7,290,76,363,892,131,662,25
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,G.I./ metal/asbestos sheets,347,111,5,70,9,27,34,55,29,7
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Burnt brick,254059,19575,630,60220,2242,25799,29765,11873,102688,1267
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Concrete,2107,442,12,324,9,190,126,81,912,11
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Rural,Any other,2113,289,14,445,22,252,210,71,720,90
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,All Material,72914,17438,432,13367,821,5962,4538,4080,25857,419
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Grass/thatch/bamboo etc.,15670,13372,92,1683,45,20,90,321,0,47
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Plastic/ Polythene,238,75,36,66,9,10,22,14,0,6
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Mud/unburnt brick,6689,1661,62,3275,116,552,276,422,266,59
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Wood,63,23,5,10,0,11,8,5,0,1
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Stone not packed with mortar,966,30,8,153,23,231,125,95,299,2
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Stone packed with mortar,1006,53,11,58,27,164,390,27,275,1
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,G.I./ metal/asbestos sheets,101,33,3,1,0,5,10,41,8,0
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Burnt brick,47334,2103,204,8021,587,4885,3563,3105,24591,275
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Concrete,449,46,7,38,7,24,18,23,276,10
+HH1303,10,203,00000,000000,District - Pashchim Champaran,Urban,Any other,398,42,4,62,7,60,36,27,142,18
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,All Material,20931,8751,90,3892,423,762,902,1436,4626,49
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,8922,7967,34,748,37,1,34,84,0,17
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Plastic/ Polythene,79,21,11,29,6,1,6,1,0,4
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Mud/unburnt brick,1390,306,10,790,50,90,21,86,37,0
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Wood,14,5,0,7,0,0,1,1,0,0
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Stone not packed with mortar,156,3,0,54,22,12,26,14,25,0
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Stone packed with mortar,358,28,6,33,3,36,238,10,4,0
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,28,15,1,0,0,3,5,4,0,0
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Burnt brick,9866,379,27,2210,298,615,567,1220,4527,23
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Concrete,48,16,1,5,3,2,1,5,12,3
+HH1303,10,203,01019,801279,Bagaha (Nagar Parishad),Urban,Any other,70,11,0,16,4,2,3,11,21,2
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,All Material,24499,3270,228,2424,291,2674,1755,1734,11955,168
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,1832,1455,47,103,1,12,29,174,0,11
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Plastic/ Polythene,100,40,11,16,3,6,13,9,0,2
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Mud/unburnt brick,2374,700,41,713,38,324,122,252,157,27
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Wood,31,10,5,2,0,10,3,1,0,0
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Stone not packed with mortar,551,16,2,32,1,182,82,47,189,0
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Stone packed with mortar,379,14,3,14,23,123,39,14,149,0
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,41,3,1,0,0,1,3,27,6,0
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Burnt brick,18798,997,110,1516,221,1990,1434,1186,11220,124
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Concrete,293,22,4,20,4,16,13,18,194,2
+HH1303,10,203,01028,801281,Bettiah (Nagar Parishad),Urban,Any other,100,13,4,8,0,10,17,6,40,2
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,All Material,984303,408510,4437,186527,7930,36566,60321,39281,236119,4612
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Grass/thatch/bamboo etc.,370128,341786,1026,21360,558,573,1091,3268,0,466
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Plastic/ Polythene,3656,1721,748,789,35,81,157,107,0,18
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Mud/unburnt brick,94381,25869,1090,47868,1412,4201,2890,5081,5148,822
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Wood,2636,1334,58,895,86,93,65,98,0,7
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Stone not packed with mortar,6206,753,57,1402,138,542,922,649,1716,27
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Stone packed with mortar,5724,457,25,450,67,674,1798,288,1932,33
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,G.I./ metal/asbestos sheets,792,231,13,141,18,47,64,198,76,4
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Burnt brick,492826,35027,1346,112435,5510,30043,52578,29191,223705,2991
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Concrete,4427,913,37,588,39,198,316,258,2040,38
+HH1303,10,204,00000,000000,District - Purba Champaran,Total,Any other,3527,419,37,599,67,114,440,143,1502,206
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,All Material,913167,390963,4007,177690,7267,33551,54871,35035,205699,4084
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Grass/thatch/bamboo etc.,356020,328767,956,20759,538,536,1033,3006,0,425
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Plastic/ Polythene,3308,1544,648,766,34,72,140,86,0,18
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Mud/unburnt brick,88078,24228,1015,45465,1369,3651,2584,4477,4519,770
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Wood,2460,1280,45,827,77,90,59,81,0,1
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Stone not packed with mortar,5258,567,47,1288,115,504,831,552,1334,20
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Stone packed with mortar,4920,405,20,411,54,639,1625,259,1477,30
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,G.I./ metal/asbestos sheets,731,201,13,124,18,47,62,195,67,4
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Burnt brick,445616,33043,1223,106925,4984,27723,47895,26010,195197,2616
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Concrete,3611,542,13,551,34,181,266,232,1772,20
+HH1303,10,204,00000,000000,District - Purba Champaran,Rural,Any other,3165,386,27,574,44,108,376,137,1333,180
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,All Material,71136,17547,430,8837,663,3015,5450,4246,30420,528
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Grass/thatch/bamboo etc.,14108,13019,70,601,20,37,58,262,0,41
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Plastic/ Polythene,348,177,100,23,1,9,17,21,0,0
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Mud/unburnt brick,6303,1641,75,2403,43,550,306,604,629,52
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Wood,176,54,13,68,9,3,6,17,0,6
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Stone not packed with mortar,948,186,10,114,23,38,91,97,382,7
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Stone packed with mortar,804,52,5,39,13,35,173,29,455,3
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,G.I./ metal/asbestos sheets,61,30,0,17,0,0,2,3,9,0
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Burnt brick,47210,1984,123,5510,526,2320,4683,3181,28508,375
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Concrete,816,371,24,37,5,17,50,26,268,18
+HH1303,10,204,00000,000000,District - Purba Champaran,Urban,Any other,362,33,10,25,23,6,64,6,169,26
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,All Material,22150,3575,163,1329,362,599,1917,1851,12071,283
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,2357,2112,29,51,6,8,33,97,0,21
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Plastic/ Polythene,112,54,32,7,1,3,12,3,0,0
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Mud/unburnt brick,1587,378,16,326,17,143,51,210,405,41
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Wood,61,26,12,8,0,0,1,10,0,4
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Stone not packed with mortar,297,42,4,58,21,25,45,36,60,6
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Stone packed with mortar,135,24,5,2,7,6,45,16,30,0
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,15,11,0,2,0,0,0,1,1,0
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Burnt brick,16846,554,40,846,285,404,1663,1459,11422,173
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Concrete,536,346,17,14,4,6,18,16,100,15
+HH1303,10,204,01041,801285,Motihari (Nagar Parishad),Urban,Any other,204,28,8,15,21,4,49,3,53,23
+HH1303,10,205,00000,000000,District - Sheohar,Total,All Material,148889,77772,572,27734,1071,4019,4353,4202,28734,432
+HH1303,10,205,00000,000000,District - Sheohar,Total,Grass/thatch/bamboo etc.,75804,69604,163,5482,79,51,78,296,0,51
+HH1303,10,205,00000,000000,District - Sheohar,Total,Plastic/ Polythene,461,192,167,65,2,13,10,11,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Total,Mud/unburnt brick,9423,2262,59,5354,199,440,220,425,418,46
+HH1303,10,205,00000,000000,District - Sheohar,Total,Wood,1000,779,0,163,36,8,6,7,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Total,Stone not packed with mortar,527,46,1,124,6,44,48,73,183,2
+HH1303,10,205,00000,000000,District - Sheohar,Total,Stone packed with mortar,733,23,2,97,16,202,164,49,179,1
+HH1303,10,205,00000,000000,District - Sheohar,Total,G.I./ metal/asbestos sheets,65,31,0,12,0,1,0,20,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Total,Burnt brick,59924,4756,178,16265,724,3209,3794,3277,27410,311
+HH1303,10,205,00000,000000,District - Sheohar,Total,Concrete,581,45,1,94,5,40,19,25,347,5
+HH1303,10,205,00000,000000,District - Sheohar,Total,Any other,371,34,1,78,4,11,14,19,197,13
+HH1303,10,205,00000,000000,District - Sheohar,Rural,All Material,143121,76015,525,26698,938,3537,4200,3911,26910,387
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Grass/thatch/bamboo etc.,74155,68120,156,5360,76,51,78,264,0,50
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Plastic/ Polythene,444,189,160,62,2,11,9,10,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Mud/unburnt brick,8734,2113,48,5011,172,399,178,374,394,45
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Wood,970,752,0,160,36,8,6,7,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Stone not packed with mortar,473,43,1,98,6,35,44,71,174,1
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Stone packed with mortar,532,20,2,78,8,62,161,48,152,1
+HH1303,10,205,00000,000000,District - Sheohar,Rural,G.I./ metal/asbestos sheets,62,29,0,12,0,1,0,19,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Burnt brick,56930,4675,156,15760,629,2926,3694,3080,25735,275
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Concrete,499,44,1,89,5,35,17,24,280,4
+HH1303,10,205,00000,000000,District - Sheohar,Rural,Any other,322,30,1,68,4,9,13,14,175,8
+HH1303,10,205,00000,000000,District - Sheohar,Urban,All Material,5768,1757,47,1036,133,482,153,291,1824,45
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Grass/thatch/bamboo etc.,1649,1484,7,122,3,0,0,32,0,1
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Plastic/ Polythene,17,3,7,3,0,2,1,1,0,0
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Mud/unburnt brick,689,149,11,343,27,41,42,51,24,1
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Wood,30,27,0,3,0,0,0,0,0,0
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Stone not packed with mortar,54,3,0,26,0,9,4,2,9,1
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Stone packed with mortar,201,3,0,19,8,140,3,1,27,0
+HH1303,10,205,00000,000000,District - Sheohar,Urban,G.I./ metal/asbestos sheets,3,2,0,0,0,0,0,1,0,0
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Burnt brick,2994,81,22,505,95,283,100,197,1675,36
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Concrete,82,1,0,5,0,5,2,1,67,1
+HH1303,10,205,00000,000000,District - Sheohar,Urban,Any other,49,4,0,10,0,2,1,5,22,5
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,All Material,733083,272467,4406,243032,6503,24097,30303,9349,141004,1922
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Grass/thatch/bamboo etc.,266154,210894,1408,51007,787,271,473,877,0,437
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Plastic/ Polythene,3987,1857,601,1247,84,64,96,15,0,23
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Mud/unburnt brick,83846,23247,862,51141,1144,2186,1425,1233,2399,209
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Wood,5207,2579,101,2329,51,62,41,40,0,4
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Stone not packed with mortar,4006,453,23,1092,117,696,578,206,827,14
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Stone packed with mortar,3964,230,9,486,121,621,1518,113,855,11
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,G.I./ metal/asbestos sheets,280,84,13,67,23,6,26,36,19,6
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Burnt brick,360313,32538,1336,134226,4095,20000,25782,6705,134486,1145
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Concrete,2799,292,26,545,33,95,129,76,1586,17
+HH1303,10,206,00000,000000,District - Sitamarhi,Total,Any other,2527,293,27,892,48,96,235,48,832,56
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,All Material,696184,264380,4168,235435,6326,21874,27909,8274,125999,1819
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Grass/thatch/bamboo etc.,259977,205693,1336,50207,782,260,457,823,0,419
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Plastic/ Polythene,3791,1781,556,1179,84,62,93,13,0,23
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Mud/unburnt brick,79933,22181,830,48862,1117,2023,1369,1145,2225,181
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Wood,5127,2538,93,2313,51,61,40,27,0,4
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Stone not packed with mortar,3583,441,23,1030,108,579,529,176,685,12
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Stone packed with mortar,3304,190,8,433,120,496,1182,92,772,11
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,G.I./ metal/asbestos sheets,250,84,11,65,23,4,25,15,17,6
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Burnt brick,335435,30946,1266,129973,3960,18226,23880,5868,120221,1095
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Concrete,2403,265,18,510,33,76,105,69,1310,17
+HH1303,10,206,00000,000000,District - Sitamarhi,Rural,Any other,2381,261,27,863,48,87,229,46,769,51
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,All Material,36899,8087,238,7597,177,2223,2394,1075,15005,103
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Grass/thatch/bamboo etc.,6177,5201,72,800,5,11,16,54,0,18
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Plastic/ Polythene,196,76,45,68,0,2,3,2,0,0
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Mud/unburnt brick,3913,1066,32,2279,27,163,56,88,174,28
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Wood,80,41,8,16,0,1,1,13,0,0
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Stone not packed with mortar,423,12,0,62,9,117,49,30,142,2
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Stone packed with mortar,660,40,1,53,1,125,336,21,83,0
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,G.I./ metal/asbestos sheets,30,0,2,2,0,2,1,21,2,0
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Burnt brick,24878,1592,70,4253,135,1774,1902,837,14265,50
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Concrete,396,27,8,35,0,19,24,7,276,0
+HH1303,10,206,00000,000000,District - Sitamarhi,Urban,Any other,146,32,0,29,0,9,6,2,63,5
+HH1303,10,207,00000,000000,District - Madhubani,Total,All Material,901539,380154,5062,98853,15214,21654,24416,166181,185181,4824
+HH1303,10,207,00000,000000,District - Madhubani,Total,Grass/thatch/bamboo etc.,362633,298815,1549,19581,2477,589,1750,37041,0,831
+HH1303,10,207,00000,000000,District - Madhubani,Total,Plastic/ Polythene,5059,2403,742,599,160,98,257,743,0,57
+HH1303,10,207,00000,000000,District - Madhubani,Total,Mud/unburnt brick,98723,49442,837,22128,1798,1361,1978,18080,2452,647
+HH1303,10,207,00000,000000,District - Madhubani,Total,Wood,2957,1475,50,486,151,64,73,641,0,17
+HH1303,10,207,00000,000000,District - Madhubani,Total,Stone not packed with mortar,6341,687,61,723,188,628,453,2188,1353,60
+HH1303,10,207,00000,000000,District - Madhubani,Total,Stone packed with mortar,5091,259,35,385,250,420,796,960,1937,49
+HH1303,10,207,00000,000000,District - Madhubani,Total,G.I./ metal/asbestos sheets,1072,407,11,101,24,72,65,313,66,13
+HH1303,10,207,00000,000000,District - Madhubani,Total,Burnt brick,409891,25462,1511,53831,9731,18084,18286,104791,175846,2349
+HH1303,10,207,00000,000000,District - Madhubani,Total,Concrete,4762,604,59,384,89,179,155,678,2581,33
+HH1303,10,207,00000,000000,District - Madhubani,Total,Any other,5010,600,207,635,346,159,603,746,946,768
+HH1303,10,207,00000,000000,District - Madhubani,Rural,All Material,871575,372627,4809,96850,14672,19544,23067,161493,173890,4623
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Grass/thatch/bamboo etc.,356182,293363,1476,19413,2461,577,1677,36406,0,809
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Plastic/ Polythene,4765,2299,709,583,149,94,176,703,0,52
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Mud/unburnt brick,96086,48342,805,21566,1747,1245,1904,17545,2297,635
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Wood,2867,1430,49,482,137,61,69,624,0,15
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Stone not packed with mortar,6010,660,54,684,179,611,423,2097,1243,59
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Stone packed with mortar,4764,253,35,379,214,390,729,919,1798,47
+HH1303,10,207,00000,000000,District - Madhubani,Rural,G.I./ metal/asbestos sheets,1030,397,11,97,24,68,63,297,60,13
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Burnt brick,390721,24705,1418,52653,9370,16185,17333,101528,165293,2236
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Concrete,4451,594,58,379,81,169,145,659,2333,33
+HH1303,10,207,00000,000000,District - Madhubani,Rural,Any other,4699,584,194,614,310,144,548,715,866,724
+HH1303,10,207,00000,000000,District - Madhubani,Urban,All Material,29964,7527,253,2003,542,2110,1349,4688,11291,201
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Grass/thatch/bamboo etc.,6451,5452,73,168,16,12,73,635,0,22
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Plastic/ Polythene,294,104,33,16,11,4,81,40,0,5
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Mud/unburnt brick,2637,1100,32,562,51,116,74,535,155,12
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Wood,90,45,1,4,14,3,4,17,0,2
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Stone not packed with mortar,331,27,7,39,9,17,30,91,110,1
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Stone packed with mortar,327,6,0,6,36,30,67,41,139,2
+HH1303,10,207,00000,000000,District - Madhubani,Urban,G.I./ metal/asbestos sheets,42,10,0,4,0,4,2,16,6,0
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Burnt brick,19170,757,93,1178,361,1899,953,3263,10553,113
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Concrete,311,10,1,5,8,10,10,19,248,0
+HH1303,10,207,00000,000000,District - Madhubani,Urban,Any other,311,16,13,21,36,15,55,31,80,44
+HH1303,10,208,00000,000000,District - Supaul,Total,All Material,440804,213391,11850,24597,2071,3607,4828,142664,36941,855
+HH1303,10,208,00000,000000,District - Supaul,Total,Grass/thatch/bamboo etc.,309663,196913,9169,7681,623,211,1249,93431,0,386
+HH1303,10,208,00000,000000,District - Supaul,Total,Plastic/ Polythene,2261,967,597,123,13,9,66,479,0,7
+HH1303,10,208,00000,000000,District - Supaul,Total,Mud/unburnt brick,17234,4993,447,5601,316,207,267,4954,388,61
+HH1303,10,208,00000,000000,District - Supaul,Total,Wood,513,231,10,65,17,6,10,173,0,1
+HH1303,10,208,00000,000000,District - Supaul,Total,Stone not packed with mortar,1190,114,16,88,34,57,103,535,239,4
+HH1303,10,208,00000,000000,District - Supaul,Total,Stone packed with mortar,1013,74,14,46,8,69,79,360,359,4
+HH1303,10,208,00000,000000,District - Supaul,Total,G.I./ metal/asbestos sheets,545,148,17,18,1,8,32,305,15,1
+HH1303,10,208,00000,000000,District - Supaul,Total,Burnt brick,106798,9597,1534,10894,1046,3011,2993,42024,35355,344
+HH1303,10,208,00000,000000,District - Supaul,Total,Concrete,1165,193,20,56,10,24,26,281,552,3
+HH1303,10,208,00000,000000,District - Supaul,Total,Any other,422,161,26,25,3,5,3,122,33,44
+HH1303,10,208,00000,000000,District - Supaul,Rural,All Material,420420,205048,11399,23782,2028,3460,4653,138816,30390,844
+HH1303,10,208,00000,000000,District - Supaul,Rural,Grass/thatch/bamboo etc.,300114,189541,8839,7521,615,204,1216,91793,0,385
+HH1303,10,208,00000,000000,District - Supaul,Rural,Plastic/ Polythene,2204,948,576,117,13,9,64,470,0,7
+HH1303,10,208,00000,000000,District - Supaul,Rural,Mud/unburnt brick,16369,4647,390,5415,307,195,262,4767,329,57
+HH1303,10,208,00000,000000,District - Supaul,Rural,Wood,501,227,9,61,17,6,10,170,0,1
+HH1303,10,208,00000,000000,District - Supaul,Rural,Stone not packed with mortar,1123,110,14,79,34,51,102,500,230,3
+HH1303,10,208,00000,000000,District - Supaul,Rural,Stone packed with mortar,955,70,14,46,5,66,73,349,328,4
+HH1303,10,208,00000,000000,District - Supaul,Rural,G.I./ metal/asbestos sheets,515,144,17,18,1,8,32,279,15,1
+HH1303,10,208,00000,000000,District - Supaul,Rural,Burnt brick,97196,9014,1494,10448,1023,2892,2866,40102,29018,339
+HH1303,10,208,00000,000000,District - Supaul,Rural,Concrete,1027,186,20,52,10,24,25,267,440,3
+HH1303,10,208,00000,000000,District - Supaul,Rural,Any other,416,161,26,25,3,5,3,119,30,44
+HH1303,10,208,00000,000000,District - Supaul,Urban,All Material,20384,8343,451,815,43,147,175,3848,6551,11
+HH1303,10,208,00000,000000,District - Supaul,Urban,Grass/thatch/bamboo etc.,9549,7372,330,160,8,7,33,1638,0,1
+HH1303,10,208,00000,000000,District - Supaul,Urban,Plastic/ Polythene,57,19,21,6,0,0,2,9,0,0
+HH1303,10,208,00000,000000,District - Supaul,Urban,Mud/unburnt brick,865,346,57,186,9,12,5,187,59,4
+HH1303,10,208,00000,000000,District - Supaul,Urban,Wood,12,4,1,4,0,0,0,3,0,0
+HH1303,10,208,00000,000000,District - Supaul,Urban,Stone not packed with mortar,67,4,2,9,0,6,1,35,9,1
+HH1303,10,208,00000,000000,District - Supaul,Urban,Stone packed with mortar,58,4,0,0,3,3,6,11,31,0
+HH1303,10,208,00000,000000,District - Supaul,Urban,G.I./ metal/asbestos sheets,30,4,0,0,0,0,0,26,0,0
+HH1303,10,208,00000,000000,District - Supaul,Urban,Burnt brick,9602,583,40,446,23,119,127,1922,6337,5
+HH1303,10,208,00000,000000,District - Supaul,Urban,Concrete,138,7,0,4,0,0,1,14,112,0
+HH1303,10,208,00000,000000,District - Supaul,Urban,Any other,6,0,0,0,0,0,0,3,3,0
+HH1303,10,209,00000,000000,District - Araria,Total,All Material,561455,206851,8437,11472,1905,5452,7525,279033,38965,1815
+HH1303,10,209,00000,000000,District - Araria,Total,Grass/thatch/bamboo etc.,447165,196660,7015,5654,1099,497,2579,232548,0,1113
+HH1303,10,209,00000,000000,District - Araria,Total,Plastic/ Polythene,2689,1100,480,86,11,16,101,880,0,15
+HH1303,10,209,00000,000000,District - Araria,Total,Mud/unburnt brick,18910,4334,284,3175,235,365,420,9133,759,205
+HH1303,10,209,00000,000000,District - Araria,Total,Wood,733,376,6,25,10,68,15,231,0,2
+HH1303,10,209,00000,000000,District - Araria,Total,Stone not packed with mortar,1429,86,30,51,27,73,108,700,303,51
+HH1303,10,209,00000,000000,District - Araria,Total,Stone packed with mortar,2015,92,9,67,38,256,469,464,614,6
+HH1303,10,209,00000,000000,District - Araria,Total,G.I./ metal/asbestos sheets,492,100,11,5,20,3,25,303,21,4
+HH1303,10,209,00000,000000,District - Araria,Total,Burnt brick,86023,3719,562,2361,445,4121,3762,33984,36698,371
+HH1303,10,209,00000,000000,District - Araria,Total,Concrete,1488,268,13,32,19,50,32,539,527,8
+HH1303,10,209,00000,000000,District - Araria,Total,Any other,511,116,27,16,1,3,14,251,43,40
+HH1303,10,209,00000,000000,District - Araria,Rural,All Material,529611,200691,7942,5359,1584,4545,6377,272352,29165,1596
+HH1303,10,209,00000,000000,District - Araria,Rural,Grass/thatch/bamboo etc.,434440,191093,6715,2794,920,473,2312,229107,0,1026
+HH1303,10,209,00000,000000,District - Araria,Rural,Plastic/ Polythene,2507,1085,416,50,9,13,81,841,0,12
+HH1303,10,209,00000,000000,District - Araria,Rural,Mud/unburnt brick,16071,4034,234,1554,201,307,311,8658,583,189
+HH1303,10,209,00000,000000,District - Araria,Rural,Wood,613,363,4,8,10,8,14,206,0,0
+HH1303,10,209,00000,000000,District - Araria,Rural,Stone not packed with mortar,1205,82,24,19,23,61,98,651,240,7
+HH1303,10,209,00000,000000,District - Araria,Rural,Stone packed with mortar,1414,85,6,26,33,173,239,416,433,3
+HH1303,10,209,00000,000000,District - Araria,Rural,G.I./ metal/asbestos sheets,450,98,10,4,20,2,23,271,18,4
+HH1303,10,209,00000,000000,District - Araria,Rural,Burnt brick,71129,3477,497,884,355,3460,3260,31477,27407,312
+HH1303,10,209,00000,000000,District - Araria,Rural,Concrete,1350,264,10,14,12,46,29,510,459,6
+HH1303,10,209,00000,000000,District - Araria,Rural,Any other,432,110,26,6,1,2,10,215,25,37
+HH1303,10,209,00000,000000,District - Araria,Urban,All Material,31844,6160,495,6113,321,907,1148,6681,9800,219
+HH1303,10,209,00000,000000,District - Araria,Urban,Grass/thatch/bamboo etc.,12725,5567,300,2860,179,24,267,3441,0,87
+HH1303,10,209,00000,000000,District - Araria,Urban,Plastic/ Polythene,182,15,64,36,2,3,20,39,0,3
+HH1303,10,209,00000,000000,District - Araria,Urban,Mud/unburnt brick,2839,300,50,1621,34,58,109,475,176,16
+HH1303,10,209,00000,000000,District - Araria,Urban,Wood,120,13,2,17,0,60,1,25,0,2
+HH1303,10,209,00000,000000,District - Araria,Urban,Stone not packed with mortar,224,4,6,32,4,12,10,49,63,44
+HH1303,10,209,00000,000000,District - Araria,Urban,Stone packed with mortar,601,7,3,41,5,83,230,48,181,3
+HH1303,10,209,00000,000000,District - Araria,Urban,G.I./ metal/asbestos sheets,42,2,1,1,0,1,2,32,3,0
+HH1303,10,209,00000,000000,District - Araria,Urban,Burnt brick,14894,242,65,1477,90,661,502,2507,9291,59
+HH1303,10,209,00000,000000,District - Araria,Urban,Concrete,138,4,3,18,7,4,3,29,68,2
+HH1303,10,209,00000,000000,District - Araria,Urban,Any other,79,6,1,10,0,1,4,36,18,3
+HH1303,10,210,00000,000000,District - Kishanganj,Total,All Material,335711,47107,15383,3595,895,2314,8325,220147,36666,1279
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Grass/thatch/bamboo etc.,205538,41155,11458,1647,391,227,1658,148192,0,810
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Plastic/ Polythene,2598,513,739,52,13,5,34,1233,0,9
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Mud/unburnt brick,17170,2483,885,940,193,179,418,11421,606,45
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Wood,731,55,52,27,6,3,13,571,0,4
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Stone not packed with mortar,1260,81,46,17,1,36,82,728,263,6
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Stone packed with mortar,1391,43,14,17,21,45,214,549,486,2
+HH1303,10,210,00000,000000,District - Kishanganj,Total,G.I./ metal/asbestos sheets,347,25,8,3,5,2,7,287,9,1
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Burnt brick,105459,2657,2139,871,260,1804,5859,56661,34824,384
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Concrete,992,74,20,18,4,12,25,389,447,3
+HH1303,10,210,00000,000000,District - Kishanganj,Total,Any other,225,21,22,3,1,1,15,116,31,15
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,All Material,304695,42931,13706,1789,694,1769,6837,207870,27906,1193
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Grass/thatch/bamboo etc.,192404,37562,10146,831,311,215,1327,141230,0,782
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Plastic/ Polythene,2315,432,630,39,10,5,25,1169,0,5
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Mud/unburnt brick,14988,2172,801,450,143,143,338,10377,529,35
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Wood,572,49,44,4,6,3,11,451,0,4
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Stone not packed with mortar,1122,79,38,14,1,33,63,669,223,2
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Stone packed with mortar,1029,37,13,7,19,29,196,467,260,1
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,G.I./ metal/asbestos sheets,270,23,8,1,2,2,5,221,7,1
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Burnt brick,91128,2496,1987,436,200,1330,4847,52853,26632,347
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Concrete,657,60,17,4,1,8,14,322,230,1
+HH1303,10,210,00000,000000,District - Kishanganj,Rural,Any other,210,21,22,3,1,1,11,111,25,15
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,All Material,31016,4176,1677,1806,201,545,1488,12277,8760,86
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Grass/thatch/bamboo etc.,13134,3593,1312,816,80,12,331,6962,0,28
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Plastic/ Polythene,283,81,109,13,3,0,9,64,0,4
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Mud/unburnt brick,2182,311,84,490,50,36,80,1044,77,10
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Wood,159,6,8,23,0,0,2,120,0,0
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Stone not packed with mortar,138,2,8,3,0,3,19,59,40,4
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Stone packed with mortar,362,6,1,10,2,16,18,82,226,1
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,G.I./ metal/asbestos sheets,77,2,0,2,3,0,2,66,2,0
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Burnt brick,14331,161,152,435,60,474,1012,3808,8192,37
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Concrete,335,14,3,14,3,4,11,67,217,2
+HH1303,10,210,00000,000000,District - Kishanganj,Urban,Any other,15,0,0,0,0,0,4,5,6,0
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,All Material,20115,2476,1293,1601,162,455,1264,6413,6373,78
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,6788,2028,968,671,50,7,190,2850,0,24
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Plastic/ Polythene,232,77,89,13,2,0,8,40,0,3
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Mud/unburnt brick,1806,218,75,482,49,35,77,804,56,10
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Wood,126,5,8,12,0,0,2,99,0,0
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Stone not packed with mortar,127,2,8,3,0,3,19,51,37,4
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Stone packed with mortar,317,6,1,10,2,16,18,74,189,1
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,24,1,0,0,0,0,1,22,0,0
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Burnt brick,10444,137,141,396,57,390,936,2441,5912,34
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Concrete,238,2,3,14,2,4,9,29,173,2
+HH1303,10,210,01127,801310,Kishanganj (Nagar Parishad),Urban,Any other,13,0,0,0,0,0,4,3,6,0
+HH1303,10,211,00000,000000,District - Purnia,Total,All Material,640713,253645,8918,19028,3425,7406,8918,270968,66688,1717
+HH1303,10,211,00000,000000,District - Purnia,Total,Grass/thatch/bamboo etc.,462112,234966,6589,11913,2220,412,2499,202736,0,777
+HH1303,10,211,00000,000000,District - Purnia,Total,Plastic/ Polythene,3014,1206,584,157,28,20,195,811,0,13
+HH1303,10,211,00000,000000,District - Purnia,Total,Mud/unburnt brick,26115,6936,448,2785,294,485,460,13723,832,152
+HH1303,10,211,00000,000000,District - Purnia,Total,Wood,557,287,15,26,9,7,12,200,0,1
+HH1303,10,211,00000,000000,District - Purnia,Total,Stone not packed with mortar,2024,210,36,77,15,144,119,790,617,16
+HH1303,10,211,00000,000000,District - Purnia,Total,Stone packed with mortar,2426,117,22,89,31,221,347,521,1071,7
+HH1303,10,211,00000,000000,District - Purnia,Total,G.I./ metal/asbestos sheets,622,144,11,15,6,18,39,365,20,4
+HH1303,10,211,00000,000000,District - Purnia,Total,Burnt brick,140616,9019,1157,3887,779,6055,5167,50854,63147,551
+HH1303,10,211,00000,000000,District - Purnia,Total,Concrete,2038,389,17,48,26,38,61,539,909,11
+HH1303,10,211,00000,000000,District - Purnia,Total,Any other,1189,371,39,31,17,6,19,429,92,185
+HH1303,10,211,00000,000000,District - Purnia,Rural,All Material,576602,240482,7505,17503,2890,5908,7196,249138,44516,1464
+HH1303,10,211,00000,000000,District - Purnia,Rural,Grass/thatch/bamboo etc.,434243,223166,5605,11238,1968,363,2151,189086,0,666
+HH1303,10,211,00000,000000,District - Purnia,Rural,Plastic/ Polythene,2545,1138,417,123,23,19,172,644,0,9
+HH1303,10,211,00000,000000,District - Purnia,Rural,Mud/unburnt brick,24038,6495,384,2482,226,422,375,12792,718,144
+HH1303,10,211,00000,000000,District - Purnia,Rural,Wood,452,261,9,21,8,7,8,137,0,1
+HH1303,10,211,00000,000000,District - Purnia,Rural,Stone not packed with mortar,1494,164,28,66,8,88,97,654,375,14
+HH1303,10,211,00000,000000,District - Purnia,Rural,Stone packed with mortar,1615,93,16,79,23,172,276,409,543,4
+HH1303,10,211,00000,000000,District - Purnia,Rural,G.I./ metal/asbestos sheets,490,134,7,14,3,18,25,269,18,2
+HH1303,10,211,00000,000000,District - Purnia,Rural,Burnt brick,109008,8296,991,3407,623,4786,4032,44247,42194,432
+HH1303,10,211,00000,000000,District - Purnia,Rural,Concrete,1612,368,14,44,6,28,44,489,608,11
+HH1303,10,211,00000,000000,District - Purnia,Rural,Any other,1105,367,34,29,2,5,16,411,60,181
+HH1303,10,211,00000,000000,District - Purnia,Urban,All Material,64111,13163,1413,1525,535,1498,1722,21830,22172,253
+HH1303,10,211,00000,000000,District - Purnia,Urban,Grass/thatch/bamboo etc.,27869,11800,984,675,252,49,348,13650,0,111
+HH1303,10,211,00000,000000,District - Purnia,Urban,Plastic/ Polythene,469,68,167,34,5,1,23,167,0,4
+HH1303,10,211,00000,000000,District - Purnia,Urban,Mud/unburnt brick,2077,441,64,303,68,63,85,931,114,8
+HH1303,10,211,00000,000000,District - Purnia,Urban,Wood,105,26,6,5,1,0,4,63,0,0
+HH1303,10,211,00000,000000,District - Purnia,Urban,Stone not packed with mortar,530,46,8,11,7,56,22,136,242,2
+HH1303,10,211,00000,000000,District - Purnia,Urban,Stone packed with mortar,811,24,6,10,8,49,71,112,528,3
+HH1303,10,211,00000,000000,District - Purnia,Urban,G.I./ metal/asbestos sheets,132,10,4,1,3,0,14,96,2,2
+HH1303,10,211,00000,000000,District - Purnia,Urban,Burnt brick,31608,723,166,480,156,1269,1135,6607,20953,119
+HH1303,10,211,00000,000000,District - Purnia,Urban,Concrete,426,21,3,4,20,10,17,50,301,0
+HH1303,10,211,00000,000000,District - Purnia,Urban,Any other,84,4,5,2,15,1,3,18,32,4
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,All Material,51825,10995,1279,973,467,1298,1477,16419,18682,235
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Grass/thatch/bamboo etc.,21233,9848,875,302,239,43,303,9519,0,104
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Plastic/ Polythene,396,61,158,30,2,1,23,117,0,4
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Mud/unburnt brick,1498,266,61,237,57,57,51,665,97,7
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Wood,84,24,6,0,0,0,3,51,0,0
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Stone not packed with mortar,503,46,8,11,7,49,22,128,230,2
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Stone packed with mortar,624,23,6,8,8,25,58,92,402,2
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,G.I./ metal/asbestos sheets,105,5,4,1,3,0,14,75,1,2
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Burnt brick,26960,698,154,380,130,1113,990,5708,17677,110
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Concrete,354,21,3,4,7,10,12,50,247,0
+HH1303,10,211,01134,801312,Purnia (M Corp.),Urban,Any other,68,3,4,0,14,0,1,14,28,4
+HH1303,10,212,00000,000000,District - Katihar,Total,All Material,617063,172794,3921,140034,14096,7341,9228,187031,80727,1891
+HH1303,10,212,00000,000000,District - Katihar,Total,Grass/thatch/bamboo etc.,376667,154464,2498,86796,8738,307,2104,120709,0,1051
+HH1303,10,212,00000,000000,District - Katihar,Total,Plastic/ Polythene,2484,669,330,640,284,9,118,420,0,14
+HH1303,10,212,00000,000000,District - Katihar,Total,Mud/unburnt brick,58707,9581,327,26654,1804,562,683,17702,1214,180
+HH1303,10,212,00000,000000,District - Katihar,Total,Wood,929,470,35,154,74,17,9,159,0,11
+HH1303,10,212,00000,000000,District - Katihar,Total,Stone not packed with mortar,1971,123,14,355,66,151,212,585,456,9
+HH1303,10,212,00000,000000,District - Katihar,Total,Stone packed with mortar,3071,124,19,266,79,163,528,446,1444,2
+HH1303,10,212,00000,000000,District - Katihar,Total,G.I./ metal/asbestos sheets,392,97,4,57,8,5,19,180,21,1
+HH1303,10,212,00000,000000,District - Katihar,Total,Burnt brick,169939,6952,680,24856,3004,6059,5478,46275,76119,516
+HH1303,10,212,00000,000000,District - Katihar,Total,Concrete,2232,171,10,188,25,58,55,331,1385,9
+HH1303,10,212,00000,000000,District - Katihar,Total,Any other,671,143,4,68,14,10,22,224,88,98
+HH1303,10,212,00000,000000,District - Katihar,Rural,All Material,563679,166119,3060,125561,11954,5190,7723,183325,58924,1823
+HH1303,10,212,00000,000000,District - Katihar,Rural,Grass/thatch/bamboo etc.,360574,149068,1855,79277,7457,278,1857,119745,0,1037
+HH1303,10,212,00000,000000,District - Katihar,Rural,Plastic/ Polythene,2186,595,280,507,281,5,105,403,0,10
+HH1303,10,212,00000,000000,District - Katihar,Rural,Mud/unburnt brick,54880,9153,273,24166,1618,461,597,17394,1047,171
+HH1303,10,212,00000,000000,District - Katihar,Rural,Wood,770,429,27,71,60,14,6,152,0,11
+HH1303,10,212,00000,000000,District - Katihar,Rural,Stone not packed with mortar,1555,109,13,274,44,105,113,538,352,7
+HH1303,10,212,00000,000000,District - Katihar,Rural,Stone packed with mortar,2304,109,18,224,60,109,316,405,1062,1
+HH1303,10,212,00000,000000,District - Katihar,Rural,G.I./ metal/asbestos sheets,351,95,4,48,7,4,15,162,15,1
+HH1303,10,212,00000,000000,District - Katihar,Rural,Burnt brick,139063,6255,577,20776,2389,4162,4654,43992,55778,480
+HH1303,10,212,00000,000000,District - Katihar,Rural,Concrete,1365,168,9,162,24,43,42,312,597,8
+HH1303,10,212,00000,000000,District - Katihar,Rural,Any other,631,138,4,56,14,9,18,222,73,97
+HH1303,10,212,00000,000000,District - Katihar,Urban,All Material,53384,6675,861,14473,2142,2151,1505,3706,21803,68
+HH1303,10,212,00000,000000,District - Katihar,Urban,Grass/thatch/bamboo etc.,16093,5396,643,7519,1281,29,247,964,0,14
+HH1303,10,212,00000,000000,District - Katihar,Urban,Plastic/ Polythene,298,74,50,133,3,4,13,17,0,4
+HH1303,10,212,00000,000000,District - Katihar,Urban,Mud/unburnt brick,3827,428,54,2488,186,101,86,308,167,9
+HH1303,10,212,00000,000000,District - Katihar,Urban,Wood,159,41,8,83,14,3,3,7,0,0
+HH1303,10,212,00000,000000,District - Katihar,Urban,Stone not packed with mortar,416,14,1,81,22,46,99,47,104,2
+HH1303,10,212,00000,000000,District - Katihar,Urban,Stone packed with mortar,767,15,1,42,19,54,212,41,382,1
+HH1303,10,212,00000,000000,District - Katihar,Urban,G.I./ metal/asbestos sheets,41,2,0,9,1,1,4,18,6,0
+HH1303,10,212,00000,000000,District - Katihar,Urban,Burnt brick,30876,697,103,4080,615,1897,824,2283,20341,36
+HH1303,10,212,00000,000000,District - Katihar,Urban,Concrete,867,3,1,26,1,15,13,19,788,1
+HH1303,10,212,00000,000000,District - Katihar,Urban,Any other,40,5,0,12,0,1,4,2,15,1
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,All Material,46902,5730,813,11647,1660,2030,1232,3008,20716,66
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Grass/thatch/bamboo etc.,12660,4513,612,5779,875,26,102,740,0,13
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Plastic/ Polythene,268,74,46,112,2,4,12,14,0,4
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Mud/unburnt brick,2867,393,46,1696,175,94,69,226,159,9
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Wood,155,39,8,83,14,2,3,6,0,0
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Stone not packed with mortar,390,14,1,74,18,44,98,42,97,2
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Stone packed with mortar,711,15,1,41,17,47,208,41,340,1
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,G.I./ metal/asbestos sheets,38,2,0,8,1,1,4,17,5,0
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Burnt brick,28954,672,98,3819,558,1796,727,1902,19347,35
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Concrete,825,3,1,25,0,15,9,18,753,1
+HH1303,10,212,01151,801314,Katihar (M Corp. + OG),Urban,Any other,34,5,0,10,0,1,0,2,15,1
+HH1303,10,213,00000,000000,District - Madhepura,Total,All Material,401001,185026,8606,52644,5547,3341,5700,87098,51863,1176
+HH1303,10,213,00000,000000,District - Madhepura,Total,Grass/thatch/bamboo etc.,248333,167791,5749,14032,1395,207,1748,56877,0,534
+HH1303,10,213,00000,000000,District - Madhepura,Total,Plastic/ Polythene,2154,808,652,333,18,15,37,286,0,5
+HH1303,10,213,00000,000000,District - Madhepura,Total,Mud/unburnt brick,24614,5584,464,12299,1092,258,374,3573,880,90
+HH1303,10,213,00000,000000,District - Madhepura,Total,Wood,522,250,9,126,17,5,8,101,0,6
+HH1303,10,213,00000,000000,District - Madhepura,Total,Stone not packed with mortar,1525,149,18,276,87,66,60,487,371,11
+HH1303,10,213,00000,000000,District - Madhepura,Total,Stone packed with mortar,1349,90,11,155,27,106,184,299,472,5
+HH1303,10,213,00000,000000,District - Madhepura,Total,G.I./ metal/asbestos sheets,292,100,7,37,5,12,12,116,3,0
+HH1303,10,213,00000,000000,District - Madhepura,Total,Burnt brick,120741,10088,1682,25183,2864,2644,3155,25167,49486,472
+HH1303,10,213,00000,000000,District - Madhepura,Total,Concrete,1114,96,7,154,24,26,69,137,598,3
+HH1303,10,213,00000,000000,District - Madhepura,Total,Any other,357,70,7,49,18,2,53,55,53,50
+HH1303,10,213,00000,000000,District - Madhepura,Rural,All Material,383792,181189,8307,49581,5102,3130,5229,83932,46246,1076
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Grass/thatch/bamboo etc.,241452,164648,5540,12713,1233,193,1593,55051,0,481
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Plastic/ Polythene,2054,772,618,321,17,15,35,271,0,5
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Mud/unburnt brick,23497,5273,432,11779,1075,252,339,3445,824,78
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Wood,485,229,9,123,14,5,7,92,0,6
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Stone not packed with mortar,1406,137,18,250,77,59,59,458,338,10
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Stone packed with mortar,1108,74,10,115,24,98,130,264,391,2
+HH1303,10,213,00000,000000,District - Madhepura,Rural,G.I./ metal/asbestos sheets,279,98,7,32,3,12,12,112,3,0
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Burnt brick,112210,9800,1659,24063,2625,2470,2960,24069,44113,451
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Concrete,1016,90,7,142,23,24,65,127,535,3
+HH1303,10,213,00000,000000,District - Madhepura,Rural,Any other,285,68,7,43,11,2,29,43,42,40
+HH1303,10,213,00000,000000,District - Madhepura,Urban,All Material,17209,3837,299,3063,445,211,471,3166,5617,100
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Grass/thatch/bamboo etc.,6881,3143,209,1319,162,14,155,1826,0,53
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Plastic/ Polythene,100,36,34,12,1,0,2,15,0,0
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Mud/unburnt brick,1117,311,32,520,17,6,35,128,56,12
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Wood,37,21,0,3,3,0,1,9,0,0
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Stone not packed with mortar,119,12,0,26,10,7,1,29,33,1
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Stone packed with mortar,241,16,1,40,3,8,54,35,81,3
+HH1303,10,213,00000,000000,District - Madhepura,Urban,G.I./ metal/asbestos sheets,13,2,0,5,2,0,0,4,0,0
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Burnt brick,8531,288,23,1120,239,174,195,1098,5373,21
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Concrete,98,6,0,12,1,2,4,10,63,0
+HH1303,10,213,00000,000000,District - Madhepura,Urban,Any other,72,2,0,6,7,0,24,12,11,10
+HH1303,10,214,00000,000000,District - Saharsa,Total,All Material,368212,173417,5234,91090,2883,3503,4683,21827,64666,909
+HH1303,10,214,00000,000000,District - Saharsa,Total,Grass/thatch/bamboo etc.,172422,151007,2649,8963,416,94,557,8523,0,213
+HH1303,10,214,00000,000000,District - Saharsa,Total,Plastic/ Polythene,1417,715,332,268,30,7,21,40,0,4
+HH1303,10,214,00000,000000,District - Saharsa,Total,Mud/unburnt brick,45357,9036,916,31153,657,291,344,2002,871,87
+HH1303,10,214,00000,000000,District - Saharsa,Total,Wood,825,535,35,156,14,4,23,58,0,0
+HH1303,10,214,00000,000000,District - Saharsa,Total,Stone not packed with mortar,1140,147,16,355,22,54,41,186,315,4
+HH1303,10,214,00000,000000,District - Saharsa,Total,Stone packed with mortar,1095,85,3,164,12,45,127,89,567,3
+HH1303,10,214,00000,000000,District - Saharsa,Total,G.I./ metal/asbestos sheets,154,62,5,23,0,7,7,39,9,2
+HH1303,10,214,00000,000000,District - Saharsa,Total,Burnt brick,144296,11617,1257,49700,1712,2955,3518,10779,62197,561
+HH1303,10,214,00000,000000,District - Saharsa,Total,Concrete,1193,122,13,231,13,41,26,88,649,10
+HH1303,10,214,00000,000000,District - Saharsa,Total,Any other,313,91,8,77,7,5,19,23,58,25
+HH1303,10,214,00000,000000,District - Saharsa,Rural,All Material,339776,170791,4819,81217,2539,2898,3958,19294,53534,726
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Grass/thatch/bamboo etc.,170596,150037,2447,8433,410,92,524,8452,0,201
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Plastic/ Polythene,1266,663,285,228,29,7,17,33,0,4
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Mud/unburnt brick,39162,7991,828,26820,498,237,290,1653,765,80
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Wood,769,513,34,126,11,4,23,58,0,0
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Stone not packed with mortar,893,128,13,312,18,48,25,123,223,3
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Stone packed with mortar,872,75,3,140,8,31,114,59,439,3
+HH1303,10,214,00000,000000,District - Saharsa,Rural,G.I./ metal/asbestos sheets,141,59,5,20,0,7,5,36,7,2
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Burnt brick,124872,11121,1188,44879,1549,2443,2926,8797,51566,403
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Concrete,935,121,10,192,10,25,16,62,492,7
+HH1303,10,214,00000,000000,District - Saharsa,Rural,Any other,270,83,6,67,6,4,18,21,42,23
+HH1303,10,214,00000,000000,District - Saharsa,Urban,All Material,28436,2626,415,9873,344,605,725,2533,11132,183
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Grass/thatch/bamboo etc.,1826,970,202,530,6,2,33,71,0,12
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Plastic/ Polythene,151,52,47,40,1,0,4,7,0,0
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Mud/unburnt brick,6195,1045,88,4333,159,54,54,349,106,7
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Wood,56,22,1,30,3,0,0,0,0,0
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Stone not packed with mortar,247,19,3,43,4,6,16,63,92,1
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Stone packed with mortar,223,10,0,24,4,14,13,30,128,0
+HH1303,10,214,00000,000000,District - Saharsa,Urban,G.I./ metal/asbestos sheets,13,3,0,3,0,0,2,3,2,0
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Burnt brick,19424,496,69,4821,163,512,592,1982,10631,158
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Concrete,258,1,3,39,3,16,10,26,157,3
+HH1303,10,214,00000,000000,District - Saharsa,Urban,Any other,43,8,2,10,1,1,1,2,16,2
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,All Material,28436,2626,415,9873,344,605,725,2533,11132,183
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,1826,970,202,530,6,2,33,71,0,12
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Plastic/ Polythene,151,52,47,40,1,0,4,7,0,0
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Mud/unburnt brick,6195,1045,88,4333,159,54,54,349,106,7
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Wood,56,22,1,30,3,0,0,0,0,0
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Stone not packed with mortar,247,19,3,43,4,6,16,63,92,1
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Stone packed with mortar,223,10,0,24,4,14,13,30,128,0
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,13,3,0,3,0,0,2,3,2,0
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Burnt brick,19424,496,69,4821,163,512,592,1982,10631,158
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Concrete,258,1,3,39,3,16,10,26,157,3
+HH1303,10,214,01174,801318,Saharsa (Nagar Parishad),Urban,Any other,43,8,2,10,1,1,1,2,16,2
+HH1303,10,215,00000,000000,District - Darbhanga,Total,All Material,805786,225399,20010,254820,9807,21621,15484,70700,184788,3157
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Grass/thatch/bamboo etc.,205158,154819,10208,32175,984,328,614,5635,0,395
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Plastic/ Polythene,4699,1558,1389,1250,56,88,77,263,0,18
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Mud/unburnt brick,101864,30368,2825,54018,1688,1568,1039,7598,2314,446
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Wood,2499,1208,252,691,59,41,32,201,0,15
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Stone not packed with mortar,4914,415,87,1473,108,359,371,900,1177,24
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Stone packed with mortar,5072,289,57,724,145,350,956,361,2162,28
+HH1303,10,215,00000,000000,District - Darbhanga,Total,G.I./ metal/asbestos sheets,555,152,22,134,10,25,42,131,35,4
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Burnt brick,472481,35622,5004,162506,6634,18564,12126,54957,175140,1928
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Concrete,6224,615,85,1135,73,180,131,473,3468,64
+HH1303,10,215,00000,000000,District - Darbhanga,Total,Any other,2320,353,81,714,50,118,96,181,492,235
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,All Material,732270,216012,18072,244508,9208,17676,13473,59260,151092,2969
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Grass/thatch/bamboo etc.,198743,150327,9480,31472,956,319,567,5231,0,391
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Plastic/ Polythene,4335,1477,1218,1214,52,72,72,213,0,17
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Mud/unburnt brick,94907,28323,2393,51659,1612,1282,937,6266,2018,417
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Wood,2373,1163,217,673,59,40,31,181,0,9
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Stone not packed with mortar,4231,368,71,1375,98,289,283,719,1008,20
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Stone packed with mortar,4015,272,54,691,112,243,727,270,1619,27
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,G.I./ metal/asbestos sheets,492,139,18,127,9,18,38,105,34,4
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Burnt brick,415611,33052,4477,155506,6207,15181,10635,45693,143048,1812
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Concrete,5487,549,70,1107,62,144,105,429,2964,57
+HH1303,10,215,00000,000000,District - Darbhanga,Rural,Any other,2076,342,74,684,41,88,78,153,401,215
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,All Material,73516,9387,1938,10312,599,3945,2011,11440,33696,188
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Grass/thatch/bamboo etc.,6415,4492,728,703,28,9,47,404,0,4
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Plastic/ Polythene,364,81,171,36,4,16,5,50,0,1
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Mud/unburnt brick,6957,2045,432,2359,76,286,102,1332,296,29
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Wood,126,45,35,18,0,1,1,20,0,6
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Stone not packed with mortar,683,47,16,98,10,70,88,181,169,4
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Stone packed with mortar,1057,17,3,33,33,107,229,91,543,1
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,G.I./ metal/asbestos sheets,63,13,4,7,1,7,4,26,1,0
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Burnt brick,56870,2570,527,7000,427,3383,1491,9264,32092,116
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Concrete,737,66,15,28,11,36,26,44,504,7
+HH1303,10,215,00000,000000,District - Darbhanga,Urban,Any other,244,11,7,30,9,30,18,28,91,20
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,All Material,55998,5725,1612,7008,399,3263,1492,9401,26924,174
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Grass/thatch/bamboo etc.,3701,2237,608,453,10,6,39,344,0,4
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Plastic/ Polythene,326,72,154,29,4,14,4,48,0,1
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Mud/unburnt brick,5270,1420,352,1640,53,222,94,1206,254,29
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Wood,91,29,31,10,0,0,1,14,0,6
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Stone not packed with mortar,562,40,16,80,9,56,51,153,153,4
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Stone packed with mortar,768,13,3,27,33,97,83,91,420,1
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,G.I./ metal/asbestos sheets,60,11,4,7,1,7,4,25,1,0
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Burnt brick,44427,1834,425,4717,271,2815,1174,7458,25629,104
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Concrete,579,60,12,19,10,29,25,34,383,7
+HH1303,10,215,01184,801319,Darbhanga (M Corp.),Urban,Any other,214,9,7,26,8,17,17,28,84,18
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,All Material,947863,367073,8518,152397,15685,35150,36545,87738,239142,5615
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Grass/thatch/bamboo etc.,299800,273590,2171,15140,1210,693,1206,5220,0,570
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Plastic/ Polythene,6951,3059,1554,1078,256,209,262,459,0,74
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Mud/unburnt brick,105340,35311,1487,41702,2273,4352,3122,11241,5119,733
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Wood,2483,1391,72,472,161,81,95,186,0,25
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Stone not packed with mortar,8177,1127,117,1488,267,1062,778,1354,1896,88
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Stone packed with mortar,8129,605,47,660,350,951,1806,778,2876,56
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,G.I./ metal/asbestos sheets,1406,394,28,274,88,60,188,251,117,6
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Burnt brick,502800,49770,2836,89912,10460,27280,27974,67142,224003,3423
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Concrete,7051,1077,61,727,218,203,256,567,3866,76
+HH1303,10,216,00000,000000,District - Muzaffarpur,Total,Any other,5726,749,145,944,402,259,858,540,1265,564
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,All Material,859579,354414,7838,148032,14047,28340,31394,76344,194032,5138
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Grass/thatch/bamboo etc.,290734,265785,2016,14814,1137,640,1120,4686,0,536
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Plastic/ Polythene,6557,2927,1471,1040,232,182,235,401,0,69
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Mud/unburnt brick,99440,33646,1360,40719,2181,3773,2801,9757,4514,689
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Wood,2105,1153,67,463,126,72,77,124,0,23
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Stone not packed with mortar,6776,1010,97,1402,213,757,680,1025,1515,77
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Stone packed with mortar,6367,572,37,622,314,614,1389,671,2102,46
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,G.I./ metal/asbestos sheets,1244,369,27,267,73,49,161,191,102,5
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Burnt brick,435723,47223,2589,87107,9274,21870,24005,58600,181943,3112
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Concrete,5695,1036,55,704,200,164,213,471,2784,68
+HH1303,10,216,00000,000000,District - Muzaffarpur,Rural,Any other,4938,693,119,894,297,219,713,418,1072,513
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,All Material,88284,12659,680,4365,1638,6810,5151,11394,45110,477
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Grass/thatch/bamboo etc.,9066,7805,155,326,73,53,86,534,0,34
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Plastic/ Polythene,394,132,83,38,24,27,27,58,0,5
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Mud/unburnt brick,5900,1665,127,983,92,579,321,1484,605,44
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Wood,378,238,5,9,35,9,18,62,0,2
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Stone not packed with mortar,1401,117,20,86,54,305,98,329,381,11
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Stone packed with mortar,1762,33,10,38,36,337,417,107,774,10
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,G.I./ metal/asbestos sheets,162,25,1,7,15,11,27,60,15,1
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Burnt brick,67077,2547,247,2805,1186,5410,3969,8542,42060,311
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Concrete,1356,41,6,23,18,39,43,96,1082,8
+HH1303,10,216,00000,000000,District - Muzaffarpur,Urban,Any other,788,56,26,50,105,40,145,122,193,51
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,All Material,66085,7326,502,2543,1194,5252,3650,8342,36914,362
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Grass/thatch/bamboo etc.,4667,3915,118,138,18,36,60,355,0,27
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Plastic/ Polythene,299,100,61,27,21,22,19,45,0,4
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Mud/unburnt brick,4201,1213,86,577,50,459,214,1105,467,30
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Wood,343,228,5,7,32,5,16,48,0,2
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Stone not packed with mortar,1044,78,7,61,52,270,79,204,283,10
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Stone packed with mortar,1375,25,9,36,30,145,400,79,642,9
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,G.I./ metal/asbestos sheets,125,12,1,5,11,9,25,49,12,1
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Burnt brick,52172,1671,198,1637,870,4245,2669,6259,34383,240
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Concrete,1201,38,6,17,18,31,37,86,962,6
+HH1303,10,216,01212,801324,Muzaffarpur (M Corp.),Urban,Any other,658,46,11,38,92,30,131,112,165,33
+HH1303,10,217,00000,000000,District - Gopalganj,Total,All Material,421727,84771,1674,10935,1864,137691,15933,52835,114322,1702
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Grass/thatch/bamboo etc.,71276,66477,264,439,59,1192,331,2378,0,136
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Plastic/ Polythene,2105,690,260,141,33,578,135,248,0,20
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Mud/unburnt brick,22247,5813,197,2687,185,4802,1004,5779,1596,184
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Wood,944,475,22,28,26,243,30,116,0,4
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Stone not packed with mortar,6275,377,25,221,85,1899,402,1822,1356,88
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Stone packed with mortar,4631,159,27,151,81,1146,816,431,1801,19
+HH1303,10,217,00000,000000,District - Gopalganj,Total,G.I./ metal/asbestos sheets,525,76,9,14,8,117,70,180,42,9
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Burnt brick,307219,10291,813,7051,1305,125780,12747,41296,106906,1030
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Concrete,2206,226,14,50,9,612,72,223,985,15
+HH1303,10,217,00000,000000,District - Gopalganj,Total,Any other,4299,187,43,153,73,1322,326,362,1636,197
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,All Material,396391,82115,1532,10444,1678,131348,15215,49154,103314,1591
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Grass/thatch/bamboo etc.,69146,64551,244,427,58,1158,322,2255,0,131
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Plastic/ Polythene,1939,649,238,137,31,504,124,236,0,20
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Mud/unburnt brick,20490,5505,159,2556,168,4461,932,5194,1343,172
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Wood,901,448,21,28,26,237,29,108,0,4
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Stone not packed with mortar,5895,359,24,213,76,1771,390,1729,1247,86
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Stone packed with mortar,4259,158,26,149,41,1085,788,378,1618,16
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,G.I./ metal/asbestos sheets,494,71,6,13,4,111,70,169,41,9
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Burnt brick,287102,9977,758,6725,1203,120150,12175,38538,96625,951
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Concrete,2077,218,14,47,7,595,69,210,902,15
+HH1303,10,217,00000,000000,District - Gopalganj,Rural,Any other,4088,179,42,149,64,1276,316,337,1538,187
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,All Material,25336,2656,142,491,186,6343,718,3681,11008,111
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Grass/thatch/bamboo etc.,2130,1926,20,12,1,34,9,123,0,5
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Plastic/ Polythene,166,41,22,4,2,74,11,12,0,0
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Mud/unburnt brick,1757,308,38,131,17,341,72,585,253,12
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Wood,43,27,1,0,0,6,1,8,0,0
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Stone not packed with mortar,380,18,1,8,9,128,12,93,109,2
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Stone packed with mortar,372,1,1,2,40,61,28,53,183,3
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,G.I./ metal/asbestos sheets,31,5,3,1,4,6,0,11,1,0
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Burnt brick,20117,314,55,326,102,5630,572,2758,10281,79
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Concrete,129,8,0,3,2,17,3,13,83,0
+HH1303,10,217,00000,000000,District - Gopalganj,Urban,Any other,211,8,1,4,9,46,10,25,98,10
+HH1303,10,218,00000,000000,District - Siwan,Total,All Material,544879,59378,2045,20477,3106,213451,16543,70959,156974,1946
+HH1303,10,218,00000,000000,District - Siwan,Total,Grass/thatch/bamboo etc.,37429,33708,256,429,81,805,220,1847,0,83
+HH1303,10,218,00000,000000,District - Siwan,Total,Plastic/ Polythene,1956,644,313,149,52,515,89,178,0,16
+HH1303,10,218,00000,000000,District - Siwan,Total,Mud/unburnt brick,48232,12160,597,6297,513,10558,1809,13262,2675,361
+HH1303,10,218,00000,000000,District - Siwan,Total,Wood,909,270,34,59,22,247,47,226,0,4
+HH1303,10,218,00000,000000,District - Siwan,Total,Stone not packed with mortar,7248,339,45,315,137,2255,698,1978,1428,53
+HH1303,10,218,00000,000000,District - Siwan,Total,Stone packed with mortar,6545,100,17,114,152,2720,747,558,2124,13
+HH1303,10,218,00000,000000,District - Siwan,Total,G.I./ metal/asbestos sheets,768,76,10,23,8,120,53,324,148,6
+HH1303,10,218,00000,000000,District - Siwan,Total,Burnt brick,434905,11773,729,12938,2062,194133,12585,52124,147334,1227
+HH1303,10,218,00000,000000,District - Siwan,Total,Concrete,3785,153,18,53,17,852,109,240,2324,19
+HH1303,10,218,00000,000000,District - Siwan,Total,Any other,3102,155,26,100,62,1246,186,222,941,164
+HH1303,10,218,00000,000000,District - Siwan,Rural,All Material,516701,58425,1870,20057,3000,207335,15399,67800,140964,1851
+HH1303,10,218,00000,000000,District - Siwan,Rural,Grass/thatch/bamboo etc.,36902,33300,251,417,75,795,213,1768,0,83
+HH1303,10,218,00000,000000,District - Siwan,Rural,Plastic/ Polythene,1864,612,295,141,52,502,83,163,0,16
+HH1303,10,218,00000,000000,District - Siwan,Rural,Mud/unburnt brick,46320,11927,534,6170,500,10108,1715,12578,2452,336
+HH1303,10,218,00000,000000,District - Siwan,Rural,Wood,893,267,29,59,22,246,47,219,0,4
+HH1303,10,218,00000,000000,District - Siwan,Rural,Stone not packed with mortar,6799,338,41,308,131,2165,678,1777,1309,52
+HH1303,10,218,00000,000000,District - Siwan,Rural,Stone packed with mortar,5771,98,11,106,139,2656,665,476,1608,12
+HH1303,10,218,00000,000000,District - Siwan,Rural,G.I./ metal/asbestos sheets,737,76,9,23,8,116,52,309,142,2
+HH1303,10,218,00000,000000,District - Siwan,Rural,Burnt brick,411280,11504,657,12686,1995,188713,11670,50074,132815,1166
+HH1303,10,218,00000,000000,District - Siwan,Rural,Concrete,3189,151,17,49,17,828,97,227,1785,18
+HH1303,10,218,00000,000000,District - Siwan,Rural,Any other,2946,152,26,98,61,1206,179,209,853,162
+HH1303,10,218,00000,000000,District - Siwan,Urban,All Material,28178,953,175,420,106,6116,1144,3159,16010,95
+HH1303,10,218,00000,000000,District - Siwan,Urban,Grass/thatch/bamboo etc.,527,408,5,12,6,10,7,79,0,0
+HH1303,10,218,00000,000000,District - Siwan,Urban,Plastic/ Polythene,92,32,18,8,0,13,6,15,0,0
+HH1303,10,218,00000,000000,District - Siwan,Urban,Mud/unburnt brick,1912,233,63,127,13,450,94,684,223,25
+HH1303,10,218,00000,000000,District - Siwan,Urban,Wood,16,3,5,0,0,1,0,7,0,0
+HH1303,10,218,00000,000000,District - Siwan,Urban,Stone not packed with mortar,449,1,4,7,6,90,20,201,119,1
+HH1303,10,218,00000,000000,District - Siwan,Urban,Stone packed with mortar,774,2,6,8,13,64,82,82,516,1
+HH1303,10,218,00000,000000,District - Siwan,Urban,G.I./ metal/asbestos sheets,31,0,1,0,0,4,1,15,6,4
+HH1303,10,218,00000,000000,District - Siwan,Urban,Burnt brick,23625,269,72,252,67,5420,915,2050,14519,61
+HH1303,10,218,00000,000000,District - Siwan,Urban,Concrete,596,2,1,4,0,24,12,13,539,1
+HH1303,10,218,00000,000000,District - Siwan,Urban,Any other,156,3,0,2,1,40,7,13,88,2
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,All Material,20816,420,145,300,80,3799,627,2126,13258,61
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,175,116,4,7,6,4,4,34,0,0
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Plastic/ Polythene,64,26,16,3,0,6,1,12,0,0
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Mud/unburnt brick,1280,126,55,79,3,311,80,458,147,21
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Wood,11,3,4,0,0,1,0,3,0,0
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Stone not packed with mortar,319,1,4,4,5,53,19,152,80,1
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Stone packed with mortar,674,1,5,8,13,51,80,28,487,1
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,19,0,1,0,0,1,1,11,4,1
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Burnt brick,17650,143,55,195,53,3343,440,1415,11970,36
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Concrete,554,1,1,4,0,15,1,12,519,1
+HH1303,10,218,01230,801329,Siwan (Nagar Parishad),Urban,Any other,70,3,0,0,0,14,1,1,51,0
+HH1303,10,219,00000,000000,District - Saran,Total,All Material,641742,128597,2670,83709,4943,189697,18001,59490,151814,2821
+HH1303,10,219,00000,000000,District - Saran,Total,Grass/thatch/bamboo etc.,65363,60532,450,1865,88,629,204,1459,0,136
+HH1303,10,219,00000,000000,District - Saran,Total,Plastic/ Polythene,2346,1032,455,264,31,313,73,167,0,11
+HH1303,10,219,00000,000000,District - Saran,Total,Mud/unburnt brick,110285,39234,870,36087,1261,12892,2132,12886,3888,1035
+HH1303,10,219,00000,000000,District - Saran,Total,Wood,1016,532,28,98,30,199,32,93,0,4
+HH1303,10,219,00000,000000,District - Saran,Total,Stone not packed with mortar,9266,823,58,1060,126,2686,844,2104,1536,29
+HH1303,10,219,00000,000000,District - Saran,Total,Stone packed with mortar,9220,209,12,494,211,2833,1783,573,3086,19
+HH1303,10,219,00000,000000,District - Saran,Total,G.I./ metal/asbestos sheets,637,95,13,26,11,117,41,283,48,3
+HH1303,10,219,00000,000000,District - Saran,Total,Burnt brick,437517,25813,758,43444,3130,168890,12746,41598,139695,1443
+HH1303,10,219,00000,000000,District - Saran,Total,Concrete,5071,219,16,280,42,845,119,268,3253,29
+HH1303,10,219,00000,000000,District - Saran,Total,Any other,1021,108,10,91,13,293,27,59,308,112
+HH1303,10,219,00000,000000,District - Saran,Rural,All Material,585844,119791,2456,78180,4631,181504,16162,55199,125378,2543
+HH1303,10,219,00000,000000,District - Saran,Rural,Grass/thatch/bamboo etc.,61979,57445,426,1745,82,593,184,1376,0,128
+HH1303,10,219,00000,000000,District - Saran,Rural,Plastic/ Polythene,2122,934,414,235,29,294,58,148,0,10
+HH1303,10,219,00000,000000,District - Saran,Rural,Mud/unburnt brick,102718,36231,814,33767,1179,12307,1937,12047,3487,949
+HH1303,10,219,00000,000000,District - Saran,Rural,Wood,820,370,26,95,21,192,28,85,0,3
+HH1303,10,219,00000,000000,District - Saran,Rural,Stone not packed with mortar,8652,755,53,1013,115,2584,794,1976,1336,26
+HH1303,10,219,00000,000000,District - Saran,Rural,Stone packed with mortar,7696,183,12,443,194,2600,1499,508,2238,19
+HH1303,10,219,00000,000000,District - Saran,Rural,G.I./ metal/asbestos sheets,590,83,11,26,11,111,35,265,45,3
+HH1303,10,219,00000,000000,District - Saran,Rural,Burnt brick,396151,23496,678,40514,2952,161781,11510,38521,115403,1296
+HH1303,10,219,00000,000000,District - Saran,Rural,Concrete,4271,191,14,263,36,769,100,223,2651,24
+HH1303,10,219,00000,000000,District - Saran,Rural,Any other,845,103,8,79,12,273,17,50,218,85
+HH1303,10,219,00000,000000,District - Saran,Urban,All Material,55898,8806,214,5529,312,8193,1839,4291,26436,278
+HH1303,10,219,00000,000000,District - Saran,Urban,Grass/thatch/bamboo etc.,3384,3087,24,120,6,36,20,83,0,8
+HH1303,10,219,00000,000000,District - Saran,Urban,Plastic/ Polythene,224,98,41,29,2,19,15,19,0,1
+HH1303,10,219,00000,000000,District - Saran,Urban,Mud/unburnt brick,7567,3003,56,2320,82,585,195,839,401,86
+HH1303,10,219,00000,000000,District - Saran,Urban,Wood,196,162,2,3,9,7,4,8,0,1
+HH1303,10,219,00000,000000,District - Saran,Urban,Stone not packed with mortar,614,68,5,47,11,102,50,128,200,3
+HH1303,10,219,00000,000000,District - Saran,Urban,Stone packed with mortar,1524,26,0,51,17,233,284,65,848,0
+HH1303,10,219,00000,000000,District - Saran,Urban,G.I./ metal/asbestos sheets,47,12,2,0,0,6,6,18,3,0
+HH1303,10,219,00000,000000,District - Saran,Urban,Burnt brick,41366,2317,80,2930,178,7109,1236,3077,24292,147
+HH1303,10,219,00000,000000,District - Saran,Urban,Concrete,800,28,2,17,6,76,19,45,602,5
+HH1303,10,219,00000,000000,District - Saran,Urban,Any other,176,5,2,12,1,20,10,9,90,27
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,All Material,31391,3783,128,2083,167,4451,1068,2580,17016,115
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,1229,1080,16,44,5,22,11,45,0,6
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Plastic/ Polythene,142,54,35,15,2,9,9,17,0,1
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Mud/unburnt brick,3355,1411,25,632,39,344,138,493,257,16
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Wood,58,31,1,3,9,5,3,6,0,0
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Stone not packed with mortar,358,34,5,21,11,61,32,79,113,2
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Stone packed with mortar,717,16,0,39,16,128,220,31,267,0
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,27,10,2,0,0,3,1,8,3,0
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Burnt brick,24978,1126,42,1315,83,3809,632,1877,16012,82
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Concrete,440,17,1,12,1,58,15,16,316,4
+HH1303,10,219,01258,801333,Chapra (Nagar Parishad),Urban,Any other,87,4,1,2,1,12,7,8,48,4
+HH1303,10,220,00000,000000,District - Vaishali,Total,All Material,632626,238945,4137,112352,6119,18769,20285,39293,190115,2611
+HH1303,10,220,00000,000000,District - Vaishali,Total,Grass/thatch/bamboo etc.,147655,138305,832,5677,238,245,454,1721,0,183
+HH1303,10,220,00000,000000,District - Vaishali,Total,Plastic/ Polythene,3197,1504,755,577,53,68,85,141,0,14
+HH1303,10,220,00000,000000,District - Vaishali,Total,Mud/unburnt brick,124856,53951,1121,48675,1516,3256,1977,7684,6138,538
+HH1303,10,220,00000,000000,District - Vaishali,Total,Wood,1309,819,22,256,48,77,24,60,0,3
+HH1303,10,220,00000,000000,District - Vaishali,Total,Stone not packed with mortar,5077,811,28,831,129,501,424,597,1718,38
+HH1303,10,220,00000,000000,District - Vaishali,Total,Stone packed with mortar,5755,325,17,341,129,524,1115,366,2916,22
+HH1303,10,220,00000,000000,District - Vaishali,Total,G.I./ metal/asbestos sheets,520,175,18,55,16,26,42,122,61,5
+HH1303,10,220,00000,000000,District - Vaishali,Total,Burnt brick,336524,42069,1279,55265,3819,13876,15650,28153,174812,1601
+HH1303,10,220,00000,000000,District - Vaishali,Total,Concrete,5826,633,41,473,67,160,160,322,3938,32
+HH1303,10,220,00000,000000,District - Vaishali,Total,Any other,1907,353,24,202,104,36,354,127,532,175
+HH1303,10,220,00000,000000,District - Vaishali,Rural,All Material,595165,231659,3929,105482,5663,17613,19356,35839,173336,2288
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Grass/thatch/bamboo etc.,144304,135246,805,5537,228,241,439,1638,0,170
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Plastic/ Polythene,3067,1448,738,556,50,65,80,118,0,12
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Mud/unburnt brick,118992,51777,1052,46421,1476,3065,1877,6993,5849,482
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Wood,1252,781,15,249,47,77,24,57,0,2
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Stone not packed with mortar,4596,716,27,779,114,462,392,520,1551,35
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Stone packed with mortar,5176,308,13,318,108,483,1077,332,2517,20
+HH1303,10,220,00000,000000,District - Vaishali,Rural,G.I./ metal/asbestos sheets,474,171,17,51,13,23,38,107,49,5
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Burnt brick,310384,40295,1203,50942,3476,13014,14969,25667,159447,1371
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Concrete,5269,588,38,443,58,153,143,306,3511,29
+HH1303,10,220,00000,000000,District - Vaishali,Rural,Any other,1651,329,21,186,93,30,317,101,412,162
+HH1303,10,220,00000,000000,District - Vaishali,Urban,All Material,37461,7286,208,6870,456,1156,929,3454,16779,323
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Grass/thatch/bamboo etc.,3351,3059,27,140,10,4,15,83,0,13
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Plastic/ Polythene,130,56,17,21,3,3,5,23,0,2
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Mud/unburnt brick,5864,2174,69,2254,40,191,100,691,289,56
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Wood,57,38,7,7,1,0,0,3,0,1
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Stone not packed with mortar,481,95,1,52,15,39,32,77,167,3
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Stone packed with mortar,579,17,4,23,21,41,38,34,399,2
+HH1303,10,220,00000,000000,District - Vaishali,Urban,G.I./ metal/asbestos sheets,46,4,1,4,3,3,4,15,12,0
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Burnt brick,26140,1774,76,4323,343,862,681,2486,15365,230
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Concrete,557,45,3,30,9,7,17,16,427,3
+HH1303,10,220,00000,000000,District - Vaishali,Urban,Any other,256,24,3,16,11,6,37,26,120,13
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,All Material,23280,3953,151,2314,368,655,731,2541,12417,150
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,1605,1435,23,54,6,3,11,70,0,3
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Plastic/ Polythene,94,39,15,8,3,2,4,21,0,2
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Mud/unburnt brick,3206,1317,50,920,34,133,59,474,203,16
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Wood,38,23,6,5,1,0,0,3,0,0
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Stone not packed with mortar,389,90,1,27,8,23,26,70,141,3
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Stone packed with mortar,453,15,0,15,20,19,27,20,336,1
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,34,4,1,0,3,3,3,9,11,0
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Burnt brick,16903,993,50,1259,275,461,553,1836,11366,110
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Concrete,317,14,2,13,7,6,12,13,248,2
+HH1303,10,220,01278,801338,Hajipur (Nagar Parishad),Urban,Any other,241,23,3,13,11,5,36,25,112,13
+HH1303,10,221,00000,000000,District - Samastipur,Total,All Material,850353,263380,26001,285358,7050,18801,11928,30106,204765,2964
+HH1303,10,221,00000,000000,District - Samastipur,Total,Grass/thatch/bamboo etc.,230543,186278,15824,24654,435,244,361,2363,0,384
+HH1303,10,221,00000,000000,District - Samastipur,Total,Plastic/ Polythene,5012,1809,1665,1266,69,50,49,70,0,34
+HH1303,10,221,00000,000000,District - Samastipur,Total,Mud/unburnt brick,145571,32399,2786,95786,1798,2694,1179,4427,3723,779
+HH1303,10,221,00000,000000,District - Samastipur,Total,Wood,2373,1232,279,608,50,91,17,77,0,19
+HH1303,10,221,00000,000000,District - Samastipur,Total,Stone not packed with mortar,4980,531,126,1564,136,478,256,603,1256,30
+HH1303,10,221,00000,000000,District - Samastipur,Total,Stone packed with mortar,3893,278,65,617,101,347,277,253,1941,14
+HH1303,10,221,00000,000000,District - Samastipur,Total,G.I./ metal/asbestos sheets,421,148,35,107,11,6,25,40,46,3
+HH1303,10,221,00000,000000,District - Samastipur,Total,Burnt brick,450276,39936,5117,159462,4360,14723,9601,21955,193589,1533
+HH1303,10,221,00000,000000,District - Samastipur,Total,Concrete,5876,513,58,912,53,136,103,263,3781,57
+HH1303,10,221,00000,000000,District - Samastipur,Total,Any other,1408,256,46,382,37,32,60,55,429,111
+HH1303,10,221,00000,000000,District - Samastipur,Rural,All Material,822111,259324,25365,281249,6850,17370,11283,28556,189295,2819
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Grass/thatch/bamboo etc.,227772,184206,15495,24362,433,242,355,2308,0,371
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Plastic/ Polythene,4908,1777,1617,1248,69,49,48,67,0,33
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Mud/unburnt brick,142225,31458,2667,94190,1738,2613,1155,4175,3530,699
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Wood,2330,1204,272,604,49,91,16,76,0,18
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Stone not packed with mortar,4809,505,126,1540,133,472,253,582,1171,27
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Stone packed with mortar,3644,246,64,595,99,335,273,235,1791,6
+HH1303,10,221,00000,000000,District - Samastipur,Rural,G.I./ metal/asbestos sheets,398,142,35,106,11,6,25,33,37,3
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Burnt brick,429362,39039,4987,157335,4241,13404,9011,20788,179060,1497
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Concrete,5327,497,56,895,48,127,98,242,3308,56
+HH1303,10,221,00000,000000,District - Samastipur,Rural,Any other,1336,250,46,374,29,31,49,50,398,109
+HH1303,10,221,00000,000000,District - Samastipur,Urban,All Material,28242,4056,636,4109,200,1431,645,1550,15470,145
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Grass/thatch/bamboo etc.,2771,2072,329,292,2,2,6,55,0,13
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Plastic/ Polythene,104,32,48,18,0,1,1,3,0,1
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Mud/unburnt brick,3346,941,119,1596,60,81,24,252,193,80
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Wood,43,28,7,4,1,0,1,1,0,1
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Stone not packed with mortar,171,26,0,24,3,6,3,21,85,3
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Stone packed with mortar,249,32,1,22,2,12,4,18,150,8
+HH1303,10,221,00000,000000,District - Samastipur,Urban,G.I./ metal/asbestos sheets,23,6,0,1,0,0,0,7,9,0
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Burnt brick,20914,897,130,2127,119,1319,590,1167,14529,36
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Concrete,549,16,2,17,5,9,5,21,473,1
+HH1303,10,221,00000,000000,District - Samastipur,Urban,Any other,72,6,0,8,8,1,11,5,31,2
+HH1303,10,222,00000,000000,District - Begusarai,Total,All Material,596110,146137,8917,185576,4312,13157,14275,8533,212908,2295
+HH1303,10,222,00000,000000,District - Begusarai,Total,Grass/thatch/bamboo etc.,115394,101206,3845,8714,149,185,309,809,0,177
+HH1303,10,222,00000,000000,District - Begusarai,Total,Plastic/ Polythene,2844,1081,683,850,39,49,62,56,0,24
+HH1303,10,222,00000,000000,District - Begusarai,Total,Mud/unburnt brick,137953,25025,1912,95170,1376,3096,1503,2008,7282,581
+HH1303,10,222,00000,000000,District - Begusarai,Total,Wood,1925,1214,153,392,48,45,33,30,0,10
+HH1303,10,222,00000,000000,District - Begusarai,Total,Stone not packed with mortar,5823,357,71,1692,75,441,562,401,2207,17
+HH1303,10,222,00000,000000,District - Begusarai,Total,Stone packed with mortar,5962,222,27,612,117,538,1300,128,3007,11
+HH1303,10,222,00000,000000,District - Begusarai,Total,G.I./ metal/asbestos sheets,397,117,13,104,9,17,31,49,52,5
+HH1303,10,222,00000,000000,District - Begusarai,Total,Burnt brick,318442,16316,2151,77213,2379,8596,10191,4882,195387,1327
+HH1303,10,222,00000,000000,District - Begusarai,Total,Concrete,6430,428,41,637,61,164,190,148,4704,57
+HH1303,10,222,00000,000000,District - Begusarai,Total,Any other,940,171,21,192,59,26,94,22,269,86
+HH1303,10,222,00000,000000,District - Begusarai,Rural,All Material,488062,131140,7310,162385,3169,9945,10796,5731,155608,1978
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Grass/thatch/bamboo etc.,105723,92818,3434,8047,129,165,266,697,0,167
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Plastic/ Polythene,2341,933,502,755,9,34,54,39,0,15
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Mud/unburnt brick,117515,21004,1425,82750,1044,2375,1146,1436,5834,501
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Wood,1675,1135,105,319,29,43,17,17,0,10
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Stone not packed with mortar,4172,300,53,1416,50,258,351,282,1457,5
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Stone packed with mortar,3924,163,17,465,53,343,727,69,2077,10
+HH1303,10,222,00000,000000,District - Begusarai,Rural,G.I./ metal/asbestos sheets,318,103,11,88,4,8,26,41,35,2
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Burnt brick,246973,14165,1715,67848,1784,6562,7993,3013,142752,1141
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Concrete,4709,362,34,532,45,138,151,119,3276,52
+HH1303,10,222,00000,000000,District - Begusarai,Rural,Any other,712,157,14,165,22,19,65,18,177,75
+HH1303,10,222,00000,000000,District - Begusarai,Urban,All Material,108048,14997,1607,23191,1143,3212,3479,2802,57300,317
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Grass/thatch/bamboo etc.,9671,8388,411,667,20,20,43,112,0,10
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Plastic/ Polythene,503,148,181,95,30,15,8,17,0,9
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Mud/unburnt brick,20438,4021,487,12420,332,721,357,572,1448,80
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Wood,250,79,48,73,19,2,16,13,0,0
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Stone not packed with mortar,1651,57,18,276,25,183,211,119,750,12
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Stone packed with mortar,2038,59,10,147,64,195,573,59,930,1
+HH1303,10,222,00000,000000,District - Begusarai,Urban,G.I./ metal/asbestos sheets,79,14,2,16,5,9,5,8,17,3
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Burnt brick,71469,2151,436,9365,595,2034,2198,1869,52635,186
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Concrete,1721,66,7,105,16,26,39,29,1428,5
+HH1303,10,222,00000,000000,District - Begusarai,Urban,Any other,228,14,7,27,37,7,29,4,92,11
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,All Material,46721,5952,829,8054,306,1612,1829,1690,26314,135
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Grass/thatch/bamboo etc.,3813,3232,214,261,10,14,12,65,0,5
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Plastic/ Polythene,278,72,134,48,3,6,5,8,0,2
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Mud/unburnt brick,7858,1595,264,4449,108,352,204,294,570,22
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Wood,113,39,27,34,4,0,2,7,0,0
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Stone not packed with mortar,696,25,3,121,4,120,87,45,283,8
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Stone packed with mortar,1135,29,8,102,17,85,403,44,447,0
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,G.I./ metal/asbestos sheets,45,10,1,6,2,2,4,8,11,1
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Burnt brick,31968,916,173,2983,150,1027,1097,1196,24334,92
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Concrete,753,29,3,48,7,4,13,22,625,2
+HH1303,10,222,01314,801346,Begusarai (M Corp.) ,Urban,Any other,62,5,2,2,1,2,2,1,44,3
+HH1303,10,223,00000,000000,District - Khagaria,Total,All Material,327701,125848,6795,84905,1431,4137,6898,4205,92270,1212
+HH1303,10,223,00000,000000,District - Khagaria,Total,Grass/thatch/bamboo etc.,111262,100542,2852,5595,114,73,166,1739,0,181
+HH1303,10,223,00000,000000,District - Khagaria,Total,Plastic/ Polythene,2264,945,748,476,11,16,34,16,0,18
+HH1303,10,223,00000,000000,District - Khagaria,Total,Mud/unburnt brick,59611,12299,1151,40544,566,808,545,665,2647,386
+HH1303,10,223,00000,000000,District - Khagaria,Total,Wood,1501,1083,93,219,31,13,12,47,0,3
+HH1303,10,223,00000,000000,District - Khagaria,Total,Stone not packed with mortar,2510,182,20,709,23,187,268,114,999,8
+HH1303,10,223,00000,000000,District - Khagaria,Total,Stone packed with mortar,3070,206,34,501,11,126,685,28,1467,12
+HH1303,10,223,00000,000000,District - Khagaria,Total,G.I./ metal/asbestos sheets,140,52,4,39,5,2,11,10,14,3
+HH1303,10,223,00000,000000,District - Khagaria,Total,Burnt brick,143943,10245,1836,36403,655,2846,5080,1543,84792,543
+HH1303,10,223,00000,000000,District - Khagaria,Total,Concrete,2946,225,30,331,11,46,69,37,2183,14
+HH1303,10,223,00000,000000,District - Khagaria,Total,Any other,454,69,27,88,4,20,28,6,168,44
+HH1303,10,223,00000,000000,District - Khagaria,Rural,All Material,312199,124015,6529,80259,1330,3762,6458,3913,84757,1176
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Grass/thatch/bamboo etc.,110105,99687,2748,5431,108,73,160,1719,0,179
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Plastic/ Polythene,2111,837,718,463,11,15,33,16,0,18
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Mud/unburnt brick,57020,11854,1081,38726,513,786,525,610,2545,380
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Wood,1470,1070,89,208,31,13,12,44,0,3
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Stone not packed with mortar,2337,180,20,647,21,182,259,87,933,8
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Stone packed with mortar,2822,194,32,488,9,122,624,24,1317,12
+HH1303,10,223,00000,000000,District - Khagaria,Rural,G.I./ metal/asbestos sheets,133,50,4,36,5,2,11,8,14,3
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Burnt brick,133011,9859,1782,33877,618,2504,4737,1365,77753,516
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Concrete,2744,215,28,296,11,46,69,34,2032,13
+HH1303,10,223,00000,000000,District - Khagaria,Rural,Any other,446,69,27,87,3,19,28,6,163,44
+HH1303,10,223,00000,000000,District - Khagaria,Urban,All Material,15502,1833,266,4646,101,375,440,292,7513,36
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Grass/thatch/bamboo etc.,1157,855,104,164,6,0,6,20,0,2
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Plastic/ Polythene,153,108,30,13,0,1,1,0,0,0
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Mud/unburnt brick,2591,445,70,1818,53,22,20,55,102,6
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Wood,31,13,4,11,0,0,0,3,0,0
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Stone not packed with mortar,173,2,0,62,2,5,9,27,66,0
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Stone packed with mortar,248,12,2,13,2,4,61,4,150,0
+HH1303,10,223,00000,000000,District - Khagaria,Urban,G.I./ metal/asbestos sheets,7,2,0,3,0,0,0,2,0,0
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Burnt brick,10932,386,54,2526,37,342,343,178,7039,27
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Concrete,202,10,2,35,0,0,0,3,151,1
+HH1303,10,223,00000,000000,District - Khagaria,Urban,Any other,8,0,0,1,1,1,0,0,5,0
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,All Material,563306,173136,7034,122004,11058,14456,17218,8422,208271,1707
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Grass/thatch/bamboo etc.,103837,84840,2500,13703,722,204,364,1345,0,159
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Plastic/ Polythene,2989,1341,683,728,75,50,65,29,0,18
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Mud/unburnt brick,146032,63386,2073,62937,4176,2495,1671,1855,6818,621
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Wood,1721,1067,88,309,53,60,54,84,0,6
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Stone not packed with mortar,5202,680,53,868,175,544,555,407,1891,29
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Stone packed with mortar,9673,577,53,828,298,868,1684,347,5001,17
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,G.I./ metal/asbestos sheets,542,139,8,92,32,28,54,101,81,7
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Burnt brick,285744,20361,1503,41999,5422,10046,12482,4094,189083,754
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Concrete,6678,510,60,419,67,139,189,140,5128,26
+HH1303,10,224,00000,000000,District - Bhagalpur,Total,Any other,888,235,13,121,38,22,100,20,269,70
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,All Material,458960,161594,5219,100570,7677,10968,13374,5315,153098,1145
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Grass/thatch/bamboo etc.,98166,80790,2107,12773,633,147,315,1279,0,122
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Plastic/ Polythene,2432,1211,464,603,44,38,42,18,0,12
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Mud/unburnt brick,127443,59025,1330,52977,3066,2092,1363,1177,6015,398
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Wood,1511,991,78,263,43,49,43,39,0,5
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Stone not packed with mortar,3740,577,40,636,117,283,462,236,1369,20
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Stone packed with mortar,6267,446,35,534,173,625,1167,223,3057,7
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,G.I./ metal/asbestos sheets,393,120,4,73,23,21,36,54,58,4
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Burnt brick,213848,17808,1107,32296,3505,7580,9804,2189,139052,507
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Concrete,4550,426,46,343,53,117,96,86,3363,20
+HH1303,10,224,00000,000000,District - Bhagalpur,Rural,Any other,610,200,8,72,20,16,46,14,184,50
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,All Material,104346,11542,1815,21434,3381,3488,3844,3107,55173,562
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Grass/thatch/bamboo etc.,5671,4050,393,930,89,57,49,66,0,37
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Plastic/ Polythene,557,130,219,125,31,12,23,11,0,6
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Mud/unburnt brick,18589,4361,743,9960,1110,403,308,678,803,223
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Wood,210,76,10,46,10,11,11,45,0,1
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Stone not packed with mortar,1462,103,13,232,58,261,93,171,522,9
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Stone packed with mortar,3406,131,18,294,125,243,517,124,1944,10
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,G.I./ metal/asbestos sheets,149,19,4,19,9,7,18,47,23,3
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Burnt brick,71896,2553,396,9703,1917,2466,2678,1905,50031,247
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Concrete,2128,84,14,76,14,22,93,54,1765,6
+HH1303,10,224,00000,000000,District - Bhagalpur,Urban,Any other,278,35,5,49,18,6,54,6,85,20
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,All Material,68193,4700,1017,11551,2754,2857,2922,2536,39419,437
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Grass/thatch/bamboo etc.,1871,1215,164,349,51,21,25,45,0,1
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Plastic/ Polythene,305,45,130,76,23,6,11,8,0,6
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Mud/unburnt brick,10177,1706,449,5258,967,288,243,567,519,180
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Wood,102,41,6,23,10,4,11,6,0,1
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Stone not packed with mortar,1093,79,11,127,35,234,66,152,380,9
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Stone packed with mortar,2454,111,13,165,45,193,399,116,1411,1
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,G.I./ metal/asbestos sheets,125,8,4,13,9,7,17,46,19,2
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Burnt brick,50095,1410,228,5447,1585,2084,2015,1556,35553,217
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Concrete,1721,59,8,47,13,14,82,34,1458,6
+HH1303,10,224,01343,801354,Bhagalpur (M Corp.),Urban,Any other,250,26,4,46,16,6,53,6,79,14
+HH1303,10,225,00000,000000,District - Banka,Total,All Material,380013,170169,2332,78274,1985,6476,9951,4690,104962,1174
+HH1303,10,225,00000,000000,District - Banka,Total,Grass/thatch/bamboo etc.,20401,17554,339,2164,51,57,103,101,0,32
+HH1303,10,225,00000,000000,District - Banka,Total,Plastic/ Polythene,1298,729,200,285,14,18,30,15,0,7
+HH1303,10,225,00000,000000,District - Banka,Total,Mud/unburnt brick,206367,129334,1121,66893,957,1376,973,1347,3799,567
+HH1303,10,225,00000,000000,District - Banka,Total,Wood,415,303,21,40,25,14,8,3,0,1
+HH1303,10,225,00000,000000,District - Banka,Total,Stone not packed with mortar,2452,468,26,189,69,294,252,145,1001,8
+HH1303,10,225,00000,000000,District - Banka,Total,Stone packed with mortar,3157,309,20,166,57,278,535,76,1701,15
+HH1303,10,225,00000,000000,District - Banka,Total,G.I./ metal/asbestos sheets,262,128,9,31,3,13,21,34,23,0
+HH1303,10,225,00000,000000,District - Banka,Total,Burnt brick,141229,20850,571,8331,787,4376,7895,2889,95004,526
+HH1303,10,225,00000,000000,District - Banka,Total,Concrete,4141,385,15,153,20,36,123,60,3341,8
+HH1303,10,225,00000,000000,District - Banka,Total,Any other,291,109,10,22,2,14,11,20,93,10
+HH1303,10,225,00000,000000,District - Banka,Rural,All Material,366656,166024,2240,77505,1935,6290,9520,3991,98023,1128
+HH1303,10,225,00000,000000,District - Banka,Rural,Grass/thatch/bamboo etc.,19851,17060,332,2139,50,54,99,90,0,27
+HH1303,10,225,00000,000000,District - Banka,Rural,Plastic/ Polythene,1270,714,197,282,14,17,26,13,0,7
+HH1303,10,225,00000,000000,District - Banka,Rural,Mud/unburnt brick,202510,126431,1073,66400,944,1329,933,1175,3667,558
+HH1303,10,225,00000,000000,District - Banka,Rural,Wood,410,302,18,40,24,14,8,3,0,1
+HH1303,10,225,00000,000000,District - Banka,Rural,Stone not packed with mortar,2222,444,25,188,69,290,228,125,847,6
+HH1303,10,225,00000,000000,District - Banka,Rural,Stone packed with mortar,3018,303,18,164,57,273,477,68,1643,15
+HH1303,10,225,00000,000000,District - Banka,Rural,G.I./ metal/asbestos sheets,247,119,8,31,3,13,20,32,21,0
+HH1303,10,225,00000,000000,District - Banka,Rural,Burnt brick,132920,20171,554,8090,752,4255,7598,2412,88591,497
+HH1303,10,225,00000,000000,District - Banka,Rural,Concrete,3931,371,12,149,20,31,120,53,3168,7
+HH1303,10,225,00000,000000,District - Banka,Rural,Any other,277,109,3,22,2,14,11,20,86,10
+HH1303,10,225,00000,000000,District - Banka,Urban,All Material,13357,4145,92,769,50,186,431,699,6939,46
+HH1303,10,225,00000,000000,District - Banka,Urban,Grass/thatch/bamboo etc.,550,494,7,25,1,3,4,11,0,5
+HH1303,10,225,00000,000000,District - Banka,Urban,Plastic/ Polythene,28,15,3,3,0,1,4,2,0,0
+HH1303,10,225,00000,000000,District - Banka,Urban,Mud/unburnt brick,3857,2903,48,493,13,47,40,172,132,9
+HH1303,10,225,00000,000000,District - Banka,Urban,Wood,5,1,3,0,1,0,0,0,0,0
+HH1303,10,225,00000,000000,District - Banka,Urban,Stone not packed with mortar,230,24,1,1,0,4,24,20,154,2
+HH1303,10,225,00000,000000,District - Banka,Urban,Stone packed with mortar,139,6,2,2,0,5,58,8,58,0
+HH1303,10,225,00000,000000,District - Banka,Urban,G.I./ metal/asbestos sheets,15,9,1,0,0,0,1,2,2,0
+HH1303,10,225,00000,000000,District - Banka,Urban,Burnt brick,8309,679,17,241,35,121,297,477,6413,29
+HH1303,10,225,00000,000000,District - Banka,Urban,Concrete,210,14,3,4,0,5,3,7,173,1
+HH1303,10,225,00000,000000,District - Banka,Urban,Any other,14,0,7,0,0,0,0,0,7,0
+HH1303,10,226,00000,000000,District - Munger,Total,All Material,263749,71227,1923,44924,1803,6106,9464,4723,122521,1058
+HH1303,10,226,00000,000000,District - Munger,Total,Grass/thatch/bamboo etc.,28113,25753,328,1565,60,49,96,213,0,49
+HH1303,10,226,00000,000000,District - Munger,Total,Plastic/ Polythene,930,411,259,192,3,15,23,22,0,5
+HH1303,10,226,00000,000000,District - Munger,Total,Mud/unburnt brick,69191,32771,681,26734,609,913,1097,1296,4720,370
+HH1303,10,226,00000,000000,District - Munger,Total,Wood,530,407,9,59,9,20,11,7,0,8
+HH1303,10,226,00000,000000,District - Munger,Total,Stone not packed with mortar,2478,250,24,366,44,219,317,194,1060,4
+HH1303,10,226,00000,000000,District - Munger,Total,Stone packed with mortar,4145,234,14,371,46,447,1155,157,1708,13
+HH1303,10,226,00000,000000,District - Munger,Total,G.I./ metal/asbestos sheets,244,91,4,19,3,11,17,49,50,0
+HH1303,10,226,00000,000000,District - Munger,Total,Burnt brick,153848,10938,591,15420,979,4387,6618,2691,111636,588
+HH1303,10,226,00000,000000,District - Munger,Total,Concrete,3996,280,12,176,43,31,102,91,3252,9
+HH1303,10,226,00000,000000,District - Munger,Total,Any other,274,92,1,22,7,14,28,3,95,12
+HH1303,10,226,00000,000000,District - Munger,Rural,All Material,193801,63057,1271,33692,1314,3144,6871,2693,81163,596
+HH1303,10,226,00000,000000,District - Munger,Rural,Grass/thatch/bamboo etc.,26246,24172,260,1413,53,39,80,188,0,41
+HH1303,10,226,00000,000000,District - Munger,Rural,Plastic/ Polythene,776,369,197,170,2,6,16,11,0,5
+HH1303,10,226,00000,000000,District - Munger,Rural,Mud/unburnt brick,56031,28299,374,20927,460,670,758,806,3583,154
+HH1303,10,226,00000,000000,District - Munger,Rural,Wood,457,367,7,50,3,18,6,4,0,2
+HH1303,10,226,00000,000000,District - Munger,Rural,Stone not packed with mortar,1483,169,15,226,15,93,133,132,699,1
+HH1303,10,226,00000,000000,District - Munger,Rural,Stone packed with mortar,2475,149,14,322,12,255,746,72,903,2
+HH1303,10,226,00000,000000,District - Munger,Rural,G.I./ metal/asbestos sheets,173,83,3,14,2,8,11,22,30,0
+HH1303,10,226,00000,000000,District - Munger,Rural,Burnt brick,103461,9133,392,10438,753,2029,5024,1405,73909,378
+HH1303,10,226,00000,000000,District - Munger,Rural,Concrete,2474,237,8,112,7,13,72,52,1970,3
+HH1303,10,226,00000,000000,District - Munger,Rural,Any other,225,79,1,20,7,13,25,1,69,10
+HH1303,10,226,00000,000000,District - Munger,Urban,All Material,69948,8170,652,11232,489,2962,2593,2030,41358,462
+HH1303,10,226,00000,000000,District - Munger,Urban,Grass/thatch/bamboo etc.,1867,1581,68,152,7,10,16,25,0,8
+HH1303,10,226,00000,000000,District - Munger,Urban,Plastic/ Polythene,154,42,62,22,1,9,7,11,0,0
+HH1303,10,226,00000,000000,District - Munger,Urban,Mud/unburnt brick,13160,4472,307,5807,149,243,339,490,1137,216
+HH1303,10,226,00000,000000,District - Munger,Urban,Wood,73,40,2,9,6,2,5,3,0,6
+HH1303,10,226,00000,000000,District - Munger,Urban,Stone not packed with mortar,995,81,9,140,29,126,184,62,361,3
+HH1303,10,226,00000,000000,District - Munger,Urban,Stone packed with mortar,1670,85,0,49,34,192,409,85,805,11
+HH1303,10,226,00000,000000,District - Munger,Urban,G.I./ metal/asbestos sheets,71,8,1,5,1,3,6,27,20,0
+HH1303,10,226,00000,000000,District - Munger,Urban,Burnt brick,50387,1805,199,4982,226,2358,1594,1286,37727,210
+HH1303,10,226,00000,000000,District - Munger,Urban,Concrete,1522,43,4,64,36,18,30,39,1282,6
+HH1303,10,226,00000,000000,District - Munger,Urban,Any other,49,13,0,2,0,1,3,2,26,2
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,All Material,37800,3939,448,7076,305,1197,1287,832,22466,250
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Grass/thatch/bamboo etc.,971,848,34,72,5,2,4,4,0,2
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Plastic/ Polythene,108,26,54,15,1,5,3,4,0,0
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Mud/unburnt brick,7191,2023,219,3554,87,138,200,180,715,75
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Wood,49,27,2,4,5,2,3,0,0,6
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Stone not packed with mortar,650,69,6,95,28,41,129,44,238,0
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Stone packed with mortar,1248,68,0,22,31,160,284,68,604,11
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,G.I./ metal/asbestos sheets,43,3,1,5,1,1,4,17,11,0
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Burnt brick,26463,838,128,3259,111,835,639,485,20018,150
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Concrete,1051,27,4,49,36,13,19,28,870,5
+HH1303,10,226,01356,801357,Munger (M Corp.),Urban,Any other,26,10,0,1,0,0,2,2,10,1
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,All Material,20235,1707,134,2629,95,1618,775,840,12362,75
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,486,374,22,54,0,8,11,11,0,6
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Plastic/ Polythene,23,3,5,4,0,4,2,5,0,0
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Mud/unburnt brick,3001,804,56,1415,45,69,72,206,300,34
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Wood,2,0,0,0,0,0,0,2,0,0
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Stone not packed with mortar,262,7,2,35,0,76,50,12,77,3
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Stone packed with mortar,287,6,0,19,3,20,55,5,179,0
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,10,0,0,0,0,2,1,5,2,0
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Burnt brick,15816,503,49,1092,47,1433,577,587,11497,31
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Concrete,333,8,0,10,0,5,6,7,297,0
+HH1303,10,226,01358,801358,Jamalpur (Nagar Parishad),Urban,Any other,15,2,0,0,0,1,1,0,10,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,All Material,164430,35117,768,33202,2522,7265,5816,1851,77385,504
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Grass/thatch/bamboo etc.,11797,10197,171,1223,24,59,45,63,0,15
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Plastic/ Polythene,506,228,49,155,16,30,18,7,0,3
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Mud/unburnt brick,50891,19773,286,23642,581,1271,639,381,4121,197
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Wood,240,151,8,32,17,17,10,4,0,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Stone not packed with mortar,1769,171,7,265,37,191,173,97,814,14
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Stone packed with mortar,2116,197,15,115,42,318,465,116,835,13
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,G.I./ metal/asbestos sheets,142,55,2,44,7,4,11,4,15,0
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Burnt brick,94493,4200,218,7595,1621,5302,4268,1150,69917,222
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Concrete,1818,83,7,61,16,46,33,22,1540,10
+HH1303,10,227,00000,000000,District - Lakhisarai,Total,Any other,658,62,5,70,161,27,154,7,143,29
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,All Material,140728,32361,615,29298,1750,5676,4357,1450,64813,408
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Grass/thatch/bamboo etc.,11006,9553,152,1146,18,50,20,55,0,12
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Plastic/ Polythene,422,196,32,143,13,20,11,6,0,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Mud/unburnt brick,45852,18473,213,21162,484,924,498,253,3674,171
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Wood,215,143,8,20,16,16,8,4,0,0
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Stone not packed with mortar,1323,150,7,210,17,141,92,76,617,13
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Stone packed with mortar,1601,61,9,85,33,208,330,111,760,4
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,G.I./ metal/asbestos sheets,121,52,2,38,6,2,7,3,11,0
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Burnt brick,78106,3608,182,6388,1068,4264,3283,918,58217,178
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Concrete,1658,74,6,56,12,30,20,21,1430,9
+HH1303,10,227,00000,000000,District - Lakhisarai,Rural,Any other,424,51,4,50,83,21,88,3,104,20
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,All Material,23702,2756,153,3904,772,1589,1459,401,12572,96
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Grass/thatch/bamboo etc.,791,644,19,77,6,9,25,8,0,3
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Plastic/ Polythene,84,32,17,12,3,10,7,1,0,2
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Mud/unburnt brick,5039,1300,73,2480,97,347,141,128,447,26
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Wood,25,8,0,12,1,1,2,0,0,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Stone not packed with mortar,446,21,0,55,20,50,81,21,197,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Stone packed with mortar,515,136,6,30,9,110,135,5,75,9
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,G.I./ metal/asbestos sheets,21,3,0,6,1,2,4,1,4,0
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Burnt brick,16387,592,36,1207,553,1038,985,232,11700,44
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Concrete,160,9,1,5,4,16,13,1,110,1
+HH1303,10,227,00000,000000,District - Lakhisarai,Urban,Any other,234,11,1,20,78,6,66,4,39,9
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,All Material,103748,24419,553,15940,1070,25741,5044,1455,28662,864
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Grass/thatch/bamboo etc.,5447,4233,92,551,22,299,90,93,0,67
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Plastic/ Polythene,525,196,42,112,17,101,29,6,0,22
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Mud/unburnt brick,32566,16200,190,10605,242,3395,478,294,984,178
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Wood,168,42,5,30,16,41,19,9,0,6
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Stone not packed with mortar,1741,254,13,181,19,428,187,247,393,19
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Stone packed with mortar,2486,90,6,167,78,789,635,25,678,18
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,G.I./ metal/asbestos sheets,212,66,1,64,3,28,21,10,14,5
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Burnt brick,59230,3166,187,4135,637,20432,3456,745,25966,506
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Concrete,902,117,8,36,4,135,28,14,546,14
+HH1303,10,228,00000,000000,District - Sheikhpura,Total,Any other,471,55,9,59,32,93,101,12,81,29
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,All Material,86465,21989,475,13486,910,23960,3898,1165,19824,758
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Grass/thatch/bamboo etc.,4927,3851,75,499,18,281,67,77,0,59
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Plastic/ Polythene,468,161,36,108,13,97,26,5,0,22
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Mud/unburnt brick,28707,14618,158,8920,212,3222,398,214,807,158
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Wood,136,35,5,23,12,40,11,4,0,6
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Stone not packed with mortar,1507,235,12,159,15,394,154,228,293,17
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Stone packed with mortar,1863,74,4,152,68,713,484,12,348,8
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,G.I./ metal/asbestos sheets,186,63,0,54,2,26,16,8,12,5
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Burnt brick,47726,2810,170,3484,542,18969,2631,595,18080,445
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Concrete,541,98,6,32,2,126,25,12,229,11
+HH1303,10,228,00000,000000,District - Sheikhpura,Rural,Any other,404,44,9,55,26,92,86,10,55,27
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,All Material,17283,2430,78,2454,160,1781,1146,290,8838,106
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Grass/thatch/bamboo etc.,520,382,17,52,4,18,23,16,0,8
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Plastic/ Polythene,57,35,6,4,4,4,3,1,0,0
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Mud/unburnt brick,3859,1582,32,1685,30,173,80,80,177,20
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Wood,32,7,0,7,4,1,8,5,0,0
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Stone not packed with mortar,234,19,1,22,4,34,33,19,100,2
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Stone packed with mortar,623,16,2,15,10,76,151,13,330,10
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,G.I./ metal/asbestos sheets,26,3,1,10,1,2,5,2,2,0
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Burnt brick,11504,356,17,651,95,1463,825,150,7886,61
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Concrete,361,19,2,4,2,9,3,2,317,3
+HH1303,10,228,00000,000000,District - Sheikhpura,Urban,Any other,67,11,0,4,6,1,15,2,26,2
+HH1303,10,229,00000,000000,District - Nalanda,Total,All Material,487322,105079,3357,57306,3449,224625,10983,8854,71163,2506
+HH1303,10,229,00000,000000,District - Nalanda,Total,Grass/thatch/bamboo etc.,18966,14464,385,1717,57,1796,175,255,0,117
+HH1303,10,229,00000,000000,District - Nalanda,Total,Plastic/ Polythene,2828,974,265,428,51,903,86,85,0,36
+HH1303,10,229,00000,000000,District - Nalanda,Total,Mud/unburnt brick,136333,68757,1217,32546,809,26809,1235,2142,1955,863
+HH1303,10,229,00000,000000,District - Nalanda,Total,Wood,737,265,21,82,60,243,23,29,0,14
+HH1303,10,229,00000,000000,District - Nalanda,Total,Stone not packed with mortar,9463,1167,92,1010,119,4518,717,962,821,57
+HH1303,10,229,00000,000000,District - Nalanda,Total,Stone packed with mortar,8506,305,40,378,103,4165,1222,207,2019,67
+HH1303,10,229,00000,000000,District - Nalanda,Total,G.I./ metal/asbestos sheets,990,370,13,142,14,216,61,123,39,12
+HH1303,10,229,00000,000000,District - Nalanda,Total,Burnt brick,301405,18023,1211,20254,2044,183521,7126,4907,63197,1122
+HH1303,10,229,00000,000000,District - Nalanda,Total,Concrete,5246,411,30,226,55,1520,144,68,2757,35
+HH1303,10,229,00000,000000,District - Nalanda,Total,Any other,2848,343,83,523,137,934,194,76,375,183
+HH1303,10,229,00000,000000,District - Nalanda,Rural,All Material,411602,96435,2773,51146,2302,208052,7674,6672,34500,2048
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Grass/thatch/bamboo etc.,17545,13471,337,1569,42,1712,125,203,0,86
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Plastic/ Polythene,2501,877,224,367,33,837,66,67,0,30
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Mud/unburnt brick,124310,63616,1037,29315,679,24980,986,1712,1248,737
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Wood,640,242,17,70,30,226,19,23,0,13
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Stone not packed with mortar,7801,1019,74,928,79,3898,519,797,443,44
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Stone packed with mortar,5969,235,21,331,60,3502,706,163,902,49
+HH1303,10,229,00000,000000,District - Nalanda,Rural,G.I./ metal/asbestos sheets,806,349,13,131,10,198,39,40,17,9
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Burnt brick,246571,15965,954,17778,1273,170540,5027,3578,30550,906
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Concrete,3129,353,19,184,26,1272,91,37,1133,14
+HH1303,10,229,00000,000000,District - Nalanda,Rural,Any other,2330,308,77,473,70,887,96,52,207,160
+HH1303,10,229,00000,000000,District - Nalanda,Urban,All Material,75720,8644,584,6160,1147,16573,3309,2182,36663,458
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Grass/thatch/bamboo etc.,1421,993,48,148,15,84,50,52,0,31
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Plastic/ Polythene,327,97,41,61,18,66,20,18,0,6
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Mud/unburnt brick,12023,5141,180,3231,130,1829,249,430,707,126
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Wood,97,23,4,12,30,17,4,6,0,1
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Stone not packed with mortar,1662,148,18,82,40,620,198,165,378,13
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Stone packed with mortar,2537,70,19,47,43,663,516,44,1117,18
+HH1303,10,229,00000,000000,District - Nalanda,Urban,G.I./ metal/asbestos sheets,184,21,0,11,4,18,22,83,22,3
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Burnt brick,54834,2058,257,2476,771,12981,2099,1329,32647,216
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Concrete,2117,58,11,42,29,248,53,31,1624,21
+HH1303,10,229,00000,000000,District - Nalanda,Urban,Any other,518,35,6,50,67,47,98,24,168,23
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,All Material,48353,4710,404,3373,1021,8399,2482,1633,25975,356
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Grass/thatch/bamboo etc.,904,649,22,66,11,61,46,46,0,3
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Plastic/ Polythene,230,57,26,47,17,41,18,18,0,6
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Mud/unburnt brick,6409,2331,116,1648,101,1107,205,333,463,105
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Wood,72,15,3,7,24,13,4,5,0,1
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Stone not packed with mortar,1110,108,13,53,37,392,135,97,262,13
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Stone packed with mortar,1458,59,18,32,38,419,374,22,482,14
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,G.I./ metal/asbestos sheets,153,18,0,9,4,14,20,73,13,2
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Burnt brick,35915,1396,191,1428,698,6145,1541,992,23344,180
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Concrete,1633,47,10,37,25,171,43,25,1260,15
+HH1303,10,229,01386,801364,Biharsharif (M Corp.),Urban,Any other,469,30,5,46,66,36,96,22,151,17
+HH1303,10,230,00000,000000,District - Patna,Total,All Material,957441,170016,6748,123979,8177,163816,36827,37103,406540,4235
+HH1303,10,230,00000,000000,District - Patna,Total,Grass/thatch/bamboo etc.,43339,36827,1101,2795,135,865,374,998,0,244
+HH1303,10,230,00000,000000,District - Patna,Total,Plastic/ Polythene,3483,1350,620,667,66,470,131,153,0,26
+HH1303,10,230,00000,000000,District - Patna,Total,Mud/unburnt brick,193030,91570,2471,61016,1820,17046,2952,7723,6981,1451
+HH1303,10,230,00000,000000,District - Patna,Total,Wood,1224,432,155,147,46,254,113,72,0,5
+HH1303,10,230,00000,000000,District - Patna,Total,Stone not packed with mortar,15510,1486,116,1620,208,4605,1997,1359,4051,68
+HH1303,10,230,00000,000000,District - Patna,Total,Stone packed with mortar,29251,907,66,985,599,6150,5784,1132,13579,49
+HH1303,10,230,00000,000000,District - Patna,Total,G.I./ metal/asbestos sheets,1315,334,22,102,39,115,100,399,196,8
+HH1303,10,230,00000,000000,District - Patna,Total,Burnt brick,648080,35665,2098,55922,5096,132929,24785,24671,364688,2226
+HH1303,10,230,00000,000000,District - Patna,Total,Concrete,20572,1231,87,623,146,1187,532,543,16160,63
+HH1303,10,230,00000,000000,District - Patna,Total,Any other,1637,214,12,102,22,195,59,53,885,95
+HH1303,10,230,00000,000000,District - Patna,Rural,All Material,544392,136457,3730,103127,4896,133043,18588,13723,128029,2799
+HH1303,10,230,00000,000000,District - Patna,Rural,Grass/thatch/bamboo etc.,32712,28164,599,2398,99,733,202,335,0,182
+HH1303,10,230,00000,000000,District - Patna,Rural,Plastic/ Polythene,2409,1042,269,533,33,388,71,53,0,20
+HH1303,10,230,00000,000000,District - Patna,Rural,Mud/unburnt brick,157737,77412,1515,52885,1427,14588,1885,2863,3974,1188
+HH1303,10,230,00000,000000,District - Patna,Rural,Wood,699,292,24,111,27,188,35,19,0,3
+HH1303,10,230,00000,000000,District - Patna,Rural,Stone not packed with mortar,9401,1075,67,1264,143,3472,1084,696,1566,34
+HH1303,10,230,00000,000000,District - Patna,Rural,Stone packed with mortar,11515,581,33,657,300,4190,1932,292,3505,25
+HH1303,10,230,00000,000000,District - Patna,Rural,G.I./ metal/asbestos sheets,540,184,6,77,11,80,52,80,45,5
+HH1303,10,230,00000,000000,District - Patna,Rural,Burnt brick,322987,27055,1176,44684,2791,108412,13128,9248,115243,1250
+HH1303,10,230,00000,000000,District - Patna,Rural,Concrete,5631,492,36,427,57,848,169,123,3456,23
+HH1303,10,230,00000,000000,District - Patna,Rural,Any other,761,160,5,91,8,144,30,14,240,69
+HH1303,10,230,00000,000000,District - Patna,Urban,All Material,413049,33559,3018,20852,3281,30773,18239,23380,278511,1436
+HH1303,10,230,00000,000000,District - Patna,Urban,Grass/thatch/bamboo etc.,10627,8663,502,397,36,132,172,663,0,62
+HH1303,10,230,00000,000000,District - Patna,Urban,Plastic/ Polythene,1074,308,351,134,33,82,60,100,0,6
+HH1303,10,230,00000,000000,District - Patna,Urban,Mud/unburnt brick,35293,14158,956,8131,393,2458,1067,4860,3007,263
+HH1303,10,230,00000,000000,District - Patna,Urban,Wood,525,140,131,36,19,66,78,53,0,2
+HH1303,10,230,00000,000000,District - Patna,Urban,Stone not packed with mortar,6109,411,49,356,65,1133,913,663,2485,34
+HH1303,10,230,00000,000000,District - Patna,Urban,Stone packed with mortar,17736,326,33,328,299,1960,3852,840,10074,24
+HH1303,10,230,00000,000000,District - Patna,Urban,G.I./ metal/asbestos sheets,775,150,16,25,28,35,48,319,151,3
+HH1303,10,230,00000,000000,District - Patna,Urban,Burnt brick,325093,8610,922,11238,2305,24517,11657,15423,249445,976
+HH1303,10,230,00000,000000,District - Patna,Urban,Concrete,14941,739,51,196,89,339,363,420,12704,40
+HH1303,10,230,00000,000000,District - Patna,Urban,Any other,876,54,7,11,14,51,29,39,645,26
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,All Material,28478,3369,177,1426,244,1259,1793,1343,18658,209
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,1042,930,25,11,2,3,21,29,0,21
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Plastic/ Polythene,46,20,16,2,0,0,3,5,0,0
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Mud/unburnt brick,2931,1330,55,507,48,211,73,298,346,63
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Wood,17,12,0,1,0,0,0,4,0,0
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Stone not packed with mortar,249,22,0,33,2,24,33,14,119,2
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Stone packed with mortar,616,8,0,5,14,49,326,23,191,0
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,11,2,0,0,3,2,0,2,2,0
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Burnt brick,22543,1023,77,844,161,958,1318,944,17106,112
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Concrete,937,16,4,21,3,10,18,21,837,7
+HH1303,10,230,01399,801370,Dinapur Nizamat (Nagar Parishad),Urban,Any other,86,6,0,2,11,2,1,3,57,4
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,All Material,281986,18144,2156,7421,2076,17487,11867,17046,205071,718
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Grass/thatch/bamboo etc.,6917,5594,415,154,25,71,112,513,0,33
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Plastic/ Polythene,718,202,279,64,13,41,39,76,0,4
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Mud/unburnt brick,16669,6803,605,2575,153,979,631,3310,1525,88
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Wood,421,104,124,17,9,54,74,37,0,2
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Stone not packed with mortar,4168,272,37,128,31,680,689,498,1815,18
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Stone packed with mortar,13350,197,31,179,249,1239,2642,736,8059,18
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,G.I./ metal/asbestos sheets,460,129,15,13,22,23,29,137,91,1
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Burnt brick,226948,4190,600,4210,1529,14156,7386,11368,182994,515
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Concrete,11779,622,43,78,42,209,251,343,10165,26
+HH1303,10,230,01400,801373,Patna (M Corp. + OG),Urban,Any other,556,31,7,3,3,35,14,28,422,13
+HH1303,10,231,00000,000000,District - Bhojpur,Total,All Material,415555,81397,3299,65094,3217,16459,158444,6541,78733,2371
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Grass/thatch/bamboo etc.,23426,19744,550,1706,79,157,784,345,0,61
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Plastic/ Polythene,1960,642,289,321,26,90,531,43,0,18
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Mud/unburnt brick,105324,43668,1366,41082,1584,3239,9845,1444,2048,1048
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Wood,1039,430,33,84,35,116,312,26,0,3
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Stone not packed with mortar,7860,497,51,504,140,1007,4157,291,1187,26
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Stone packed with mortar,15565,474,55,516,126,1004,9402,483,3467,38
+HH1303,10,231,00000,000000,District - Bhojpur,Total,G.I./ metal/asbestos sheets,409,87,8,59,21,21,134,51,24,4
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Burnt brick,255309,15425,916,20524,1163,10629,131989,3776,69794,1093
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Concrete,3876,321,17,223,35,150,983,57,2077,13
+HH1303,10,231,00000,000000,District - Bhojpur,Total,Any other,787,109,14,75,8,46,307,25,136,67
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,All Material,357782,75034,2603,60861,2879,13977,147719,4687,47788,2234
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Grass/thatch/bamboo etc.,21991,18652,446,1601,78,143,719,294,0,58
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Plastic/ Polythene,1747,600,217,292,22,75,498,27,0,16
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Mud/unburnt brick,96435,39756,1083,38470,1484,2864,9076,1043,1649,1010
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Wood,942,411,20,73,27,97,294,17,0,3
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Stone not packed with mortar,6614,434,41,474,117,734,3903,238,650,23
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Stone packed with mortar,12283,433,41,453,100,701,8255,394,1873,33
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,G.I./ metal/asbestos sheets,370,83,8,54,15,20,127,42,17,4
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Burnt brick,213735,14279,723,19168,997,9176,123639,2571,42171,1011
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Concrete,2977,282,16,204,32,128,908,43,1351,13
+HH1303,10,231,00000,000000,District - Bhojpur,Rural,Any other,688,104,8,72,7,39,300,18,77,63
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,All Material,57773,6363,696,4233,338,2482,10725,1854,30945,137
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Grass/thatch/bamboo etc.,1435,1092,104,105,1,14,65,51,0,3
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Plastic/ Polythene,213,42,72,29,4,15,33,16,0,2
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Mud/unburnt brick,8889,3912,283,2612,100,375,769,401,399,38
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Wood,97,19,13,11,8,19,18,9,0,0
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Stone not packed with mortar,1246,63,10,30,23,273,254,53,537,3
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Stone packed with mortar,3282,41,14,63,26,303,1147,89,1594,5
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,G.I./ metal/asbestos sheets,39,4,0,5,6,1,7,9,7,0
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Burnt brick,41574,1146,193,1356,166,1453,8350,1205,27623,82
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Concrete,899,39,1,19,3,22,75,14,726,0
+HH1303,10,231,00000,000000,District - Bhojpur,Urban,Any other,99,5,6,3,1,7,7,7,59,4
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,All Material,37684,2981,391,1932,188,1686,4065,1243,25118,80
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Grass/thatch/bamboo etc.,724,533,61,40,0,8,36,45,0,1
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Plastic/ Polythene,135,32,43,18,3,13,11,14,0,1
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Mud/unburnt brick,4058,1614,152,1091,63,193,336,302,295,12
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Wood,77,16,7,11,8,18,10,7,0,0
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Stone not packed with mortar,786,36,4,15,7,167,94,32,430,1
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Stone packed with mortar,2068,18,1,35,7,281,443,41,1239,3
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,G.I./ metal/asbestos sheets,26,2,0,4,5,0,2,7,6,0
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Burnt brick,29212,705,120,706,93,994,3099,780,22654,61
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Concrete,522,23,1,9,1,9,31,9,439,0
+HH1303,10,231,01422,801385,Arrah (M Corp.),Urban,Any other,76,2,2,3,1,3,3,6,55,1
+HH1303,10,232,00000,000000,District - Buxar,Total,All Material,262398,49366,2773,30454,1926,14641,132391,4533,24707,1607
+HH1303,10,232,00000,000000,District - Buxar,Total,Grass/thatch/bamboo etc.,17610,15119,393,860,61,148,764,213,0,52
+HH1303,10,232,00000,000000,District - Buxar,Total,Plastic/ Polythene,1555,533,241,202,27,64,438,26,0,24
+HH1303,10,232,00000,000000,District - Buxar,Total,Mud/unburnt brick,60495,25471,1145,22535,672,2124,6695,951,505,397
+HH1303,10,232,00000,000000,District - Buxar,Total,Wood,573,165,27,53,17,103,162,33,0,13
+HH1303,10,232,00000,000000,District - Buxar,Total,Stone not packed with mortar,4299,273,42,207,48,745,2449,213,301,21
+HH1303,10,232,00000,000000,District - Buxar,Total,Stone packed with mortar,8618,363,32,166,80,569,5581,497,1287,43
+HH1303,10,232,00000,000000,District - Buxar,Total,G.I./ metal/asbestos sheets,413,69,7,68,52,39,120,37,14,7
+HH1303,10,232,00000,000000,District - Buxar,Total,Burnt brick,165665,7090,858,6216,922,10716,114804,2521,21715,823
+HH1303,10,232,00000,000000,District - Buxar,Total,Concrete,1856,104,13,81,11,71,789,17,765,5
+HH1303,10,232,00000,000000,District - Buxar,Total,Any other,1314,179,15,66,36,62,589,25,120,222
+HH1303,10,232,00000,000000,District - Buxar,Rural,All Material,236453,47329,2380,29292,1638,13454,122792,3468,14695,1405
+HH1303,10,232,00000,000000,District - Buxar,Rural,Grass/thatch/bamboo etc.,16773,14485,326,831,60,137,707,186,0,41
+HH1303,10,232,00000,000000,District - Buxar,Rural,Plastic/ Polythene,1412,497,195,190,19,62,407,19,0,23
+HH1303,10,232,00000,000000,District - Buxar,Rural,Mud/unburnt brick,57385,24587,984,21771,625,1936,6095,656,360,371
+HH1303,10,232,00000,000000,District - Buxar,Rural,Wood,519,150,22,49,17,97,148,23,0,13
+HH1303,10,232,00000,000000,District - Buxar,Rural,Stone not packed with mortar,3798,254,41,172,34,635,2253,176,218,15
+HH1303,10,232,00000,000000,District - Buxar,Rural,Stone packed with mortar,7235,327,29,152,67,518,4873,463,768,38
+HH1303,10,232,00000,000000,District - Buxar,Rural,G.I./ metal/asbestos sheets,360,66,5,58,52,36,102,27,7,7
+HH1303,10,232,00000,000000,District - Buxar,Rural,Burnt brick,146548,6717,758,5928,734,9929,106981,1886,12906,709
+HH1303,10,232,00000,000000,District - Buxar,Rural,Concrete,1339,91,9,80,7,51,716,14,367,4
+HH1303,10,232,00000,000000,District - Buxar,Rural,Any other,1084,155,11,61,23,53,510,18,69,184
+HH1303,10,232,00000,000000,District - Buxar,Urban,All Material,25945,2037,393,1162,288,1187,9599,1065,10012,202
+HH1303,10,232,00000,000000,District - Buxar,Urban,Grass/thatch/bamboo etc.,837,634,67,29,1,11,57,27,0,11
+HH1303,10,232,00000,000000,District - Buxar,Urban,Plastic/ Polythene,143,36,46,12,8,2,31,7,0,1
+HH1303,10,232,00000,000000,District - Buxar,Urban,Mud/unburnt brick,3110,884,161,764,47,188,600,295,145,26
+HH1303,10,232,00000,000000,District - Buxar,Urban,Wood,54,15,5,4,0,6,14,10,0,0
+HH1303,10,232,00000,000000,District - Buxar,Urban,Stone not packed with mortar,501,19,1,35,14,110,196,37,83,6
+HH1303,10,232,00000,000000,District - Buxar,Urban,Stone packed with mortar,1383,36,3,14,13,51,708,34,519,5
+HH1303,10,232,00000,000000,District - Buxar,Urban,G.I./ metal/asbestos sheets,53,3,2,10,0,3,18,10,7,0
+HH1303,10,232,00000,000000,District - Buxar,Urban,Burnt brick,19117,373,100,288,188,787,7823,635,8809,114
+HH1303,10,232,00000,000000,District - Buxar,Urban,Concrete,517,13,4,1,4,20,73,3,398,1
+HH1303,10,232,00000,000000,District - Buxar,Urban,Any other,230,24,4,5,13,9,79,7,51,38
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,All Material,16207,1129,255,392,163,889,4651,729,7949,50
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,411,313,53,5,0,5,18,14,0,3
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Plastic/ Polythene,71,18,31,4,6,2,8,2,0,0
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Mud/unburnt brick,1691,510,115,219,17,137,346,223,118,6
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Wood,34,10,3,3,0,2,6,10,0,0
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Stone not packed with mortar,346,6,1,26,9,97,111,29,66,1
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Stone packed with mortar,1008,29,2,10,6,28,449,24,458,2
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,36,2,1,0,0,3,15,10,5,0
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Burnt brick,12070,222,44,122,117,590,3634,412,6899,30
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Concrete,430,6,4,1,4,19,32,1,363,0
+HH1303,10,232,01441,801391,Buxar (Nagar Parishad),Urban,Any other,110,13,1,2,4,6,32,4,40,8
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,All Material,245048,49761,1672,57216,1239,25122,83341,2567,22819,1311
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Grass/thatch/bamboo etc.,9916,8020,291,838,31,180,440,92,0,24
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Plastic/ Polythene,1154,310,113,234,8,123,333,20,0,13
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Mud/unburnt brick,95617,36189,687,51309,381,2478,2932,498,773,370
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Wood,514,345,16,41,8,27,61,8,0,8
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Stone not packed with mortar,4008,411,48,612,81,707,1646,255,234,14
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Stone packed with mortar,4996,231,24,206,77,875,2794,269,493,27
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,G.I./ metal/asbestos sheets,360,105,16,96,3,36,64,27,9,4
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Burnt brick,125948,3959,461,3688,619,20431,73906,1355,20837,692
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Concrete,1100,113,4,102,3,108,424,29,307,10
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Total,Any other,1435,78,12,90,28,157,741,14,166,149
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,All Material,235155,49257,1584,56937,1147,24819,80863,2388,16899,1261
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Grass/thatch/bamboo etc.,9800,7941,286,829,29,179,424,88,0,24
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Plastic/ Polythene,1130,307,109,229,6,123,323,20,0,13
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Mud/unburnt brick,94778,35890,658,51119,368,2396,2801,456,726,364
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Wood,508,341,16,41,8,26,60,8,0,8
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Stone not packed with mortar,3839,408,48,611,76,697,1547,252,187,13
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Stone packed with mortar,4626,218,24,203,74,841,2579,251,412,24
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,G.I./ metal/asbestos sheets,353,101,16,96,3,35,62,27,9,4
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Burnt brick,117728,3870,412,3621,556,20262,71926,1246,15172,663
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Concrete,1059,107,3,101,3,108,417,28,282,10
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Rural,Any other,1334,74,12,87,24,152,724,12,111,138
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,All Material,9893,504,88,279,92,303,2478,179,5920,50
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Grass/thatch/bamboo etc.,116,79,5,9,2,1,16,4,0,0
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Plastic/ Polythene,24,3,4,5,2,0,10,0,0,0
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Mud/unburnt brick,839,299,29,190,13,82,131,42,47,6
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Wood,6,4,0,0,0,1,1,0,0,0
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Stone not packed with mortar,169,3,0,1,5,10,99,3,47,1
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Stone packed with mortar,370,13,0,3,3,34,215,18,81,3
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,G.I./ metal/asbestos sheets,7,4,0,0,0,1,2,0,0,0
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Burnt brick,8220,89,49,67,63,169,1980,109,5665,29
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Concrete,41,6,1,1,0,0,7,1,25,0
+HH1303,10,233,00000,000000,District - Kaimur (Bhabua),Urban,Any other,101,4,0,3,4,5,17,2,55,11
+HH1303,10,234,00000,000000,District - Rohtas,Total,All Material,455878,79563,3236,103876,2832,29027,129296,6186,100408,1454
+HH1303,10,234,00000,000000,District - Rohtas,Total,Grass/thatch/bamboo etc.,13209,10286,415,1609,25,185,480,145,0,64
+HH1303,10,234,00000,000000,District - Rohtas,Total,Plastic/ Polythene,1627,585,259,344,14,78,294,24,0,29
+HH1303,10,234,00000,000000,District - Rohtas,Total,Mud/unburnt brick,150669,54753,1285,81384,835,2891,5015,1201,2744,561
+HH1303,10,234,00000,000000,District - Rohtas,Total,Wood,765,335,33,100,19,90,160,22,0,6
+HH1303,10,234,00000,000000,District - Rohtas,Total,Stone not packed with mortar,7880,547,56,725,117,1254,3099,610,1451,21
+HH1303,10,234,00000,000000,District - Rohtas,Total,Stone packed with mortar,17170,546,68,457,339,1409,8712,440,5158,41
+HH1303,10,234,00000,000000,District - Rohtas,Total,G.I./ metal/asbestos sheets,352,87,11,56,7,29,59,44,57,2
+HH1303,10,234,00000,000000,District - Rohtas,Total,Burnt brick,259164,12021,1037,18829,1453,22745,110348,3622,88452,657
+HH1303,10,234,00000,000000,District - Rohtas,Total,Concrete,4216,308,42,292,21,263,851,52,2371,16
+HH1303,10,234,00000,000000,District - Rohtas,Total,Any other,826,95,30,80,2,83,278,26,175,57
+HH1303,10,234,00000,000000,District - Rohtas,Rural,All Material,387316,72647,2677,96301,2190,25197,117098,3211,66831,1164
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Grass/thatch/bamboo etc.,12043,9388,375,1505,24,175,423,104,0,49
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Plastic/ Polythene,1411,520,201,308,14,66,268,11,0,23
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Mud/unburnt brick,138503,50405,1042,76177,754,2591,4270,537,2248,479
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Wood,696,310,29,91,18,86,140,19,0,3
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Stone not packed with mortar,6476,466,46,636,99,1020,2481,524,1187,17
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Stone packed with mortar,13762,429,48,411,288,1136,7341,297,3779,33
+HH1303,10,234,00000,000000,District - Rohtas,Rural,G.I./ metal/asbestos sheets,304,80,10,53,7,20,47,38,48,1
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Burnt brick,210535,10693,865,16797,975,19935,101138,1635,58003,494
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Concrete,2918,268,33,256,9,104,734,34,1466,14
+HH1303,10,234,00000,000000,District - Rohtas,Rural,Any other,668,88,28,67,2,64,256,12,100,51
+HH1303,10,234,00000,000000,District - Rohtas,Urban,All Material,68562,6916,559,7575,642,3830,12198,2975,33577,290
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Grass/thatch/bamboo etc.,1166,898,40,104,1,10,57,41,0,15
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Plastic/ Polythene,216,65,58,36,0,12,26,13,0,6
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Mud/unburnt brick,12166,4348,243,5207,81,300,745,664,496,82
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Wood,69,25,4,9,1,4,20,3,0,3
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Stone not packed with mortar,1404,81,10,89,18,234,618,86,264,4
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Stone packed with mortar,3408,117,20,46,51,273,1371,143,1379,8
+HH1303,10,234,00000,000000,District - Rohtas,Urban,G.I./ metal/asbestos sheets,48,7,1,3,0,9,12,6,9,1
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Burnt brick,48629,1328,172,2032,478,2810,9210,1987,30449,163
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Concrete,1298,40,9,36,12,159,117,18,905,2
+HH1303,10,234,00000,000000,District - Rohtas,Urban,Any other,158,7,2,13,0,19,22,14,75,6
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,All Material,22964,1837,170,1019,233,1734,6729,607,10514,121
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,286,179,16,26,0,6,38,11,0,10
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Plastic/ Polythene,76,9,21,19,0,8,11,4,0,4
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Mud/unburnt brick,2432,1012,75,454,14,104,507,85,136,45
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Wood,22,5,2,1,0,0,12,2,0,0
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Stone not packed with mortar,818,49,5,40,8,67,502,37,109,1
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Stone packed with mortar,1824,57,5,25,39,175,801,34,685,3
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,26,1,1,0,0,7,8,1,7,1
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Burnt brick,16825,489,41,448,169,1342,4768,414,9099,55
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Concrete,576,31,4,5,3,6,65,6,456,0
+HH1303,10,234,01471,801397,Sasaram (Nagar Parishad),Urban,Any other,79,5,0,1,0,19,17,13,22,2
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,All Material,22963,1565,90,2270,171,1049,1298,1984,14435,101
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,168,137,5,14,0,2,1,8,0,1
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Plastic/ Polythene,39,20,7,7,0,0,1,4,0,0
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Mud/unburnt brick,3730,1099,40,1686,39,36,63,516,246,5
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Wood,5,3,1,1,0,0,0,0,0,0
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Stone not packed with mortar,282,20,1,16,4,96,49,26,70,0
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Stone packed with mortar,455,10,0,6,2,30,154,51,199,3
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,9,2,0,0,0,0,3,2,2,0
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Burnt brick,17782,270,35,510,119,855,1005,1364,13533,91
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Concrete,433,4,0,18,7,30,19,12,342,1
+HH1303,10,234,01473,801398,Dehri (Nagar Parishad),Urban,Any other,60,0,1,12,0,0,3,1,43,0
+HH1303,10,235,00000,000000,District - Aurangabad,Total,All Material,387122,104364,2397,111033,3890,7841,20914,3921,130433,2329
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Grass/thatch/bamboo etc.,14284,10632,478,2508,63,107,245,120,0,131
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Plastic/ Polythene,1923,789,215,584,82,66,102,45,0,40
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Mud/unburnt brick,181822,79894,1007,89873,1039,1748,2300,847,4042,1072
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Wood,409,144,43,63,52,35,41,20,0,11
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Stone not packed with mortar,3719,439,23,536,70,400,602,185,1432,32
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Stone packed with mortar,5601,206,17,242,122,322,1787,90,2753,62
+HH1303,10,235,00000,000000,District - Aurangabad,Total,G.I./ metal/asbestos sheets,874,338,15,282,22,15,50,60,85,7
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Burnt brick,173231,11320,571,16380,2251,4972,15390,2477,118993,877
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Concrete,3737,380,13,318,42,94,117,54,2696,23
+HH1303,10,235,00000,000000,District - Aurangabad,Total,Any other,1522,222,15,247,147,82,280,23,432,74
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,All Material,351828,100263,2206,106303,3365,6965,18764,3093,108891,1978
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Grass/thatch/bamboo etc.,13677,10185,462,2436,60,95,222,101,0,116
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Plastic/ Polythene,1810,762,193,577,68,52,94,27,0,37
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Mud/unburnt brick,174874,77166,941,86671,970,1597,2061,703,3769,996
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Wood,365,139,37,62,38,31,35,12,0,11
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Stone not packed with mortar,3009,410,18,511,58,227,494,165,1105,21
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Stone packed with mortar,4304,177,16,190,90,249,1412,68,2078,24
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,G.I./ metal/asbestos sheets,797,330,15,275,15,11,45,52,47,7
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Burnt brick,148791,10517,498,15046,1905,4590,14083,1903,99567,682
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Concrete,2959,366,13,300,36,50,99,46,2031,18
+HH1303,10,235,00000,000000,District - Aurangabad,Rural,Any other,1242,211,13,235,125,63,219,16,294,66
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,All Material,35294,4101,191,4730,525,876,2150,828,21542,351
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Grass/thatch/bamboo etc.,607,447,16,72,3,12,23,19,0,15
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Plastic/ Polythene,113,27,22,7,14,14,8,18,0,3
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Mud/unburnt brick,6948,2728,66,3202,69,151,239,144,273,76
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Wood,44,5,6,1,14,4,6,8,0,0
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Stone not packed with mortar,710,29,5,25,12,173,108,20,327,11
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Stone packed with mortar,1297,29,1,52,32,73,375,22,675,38
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,G.I./ metal/asbestos sheets,77,8,0,7,7,4,5,8,38,0
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Burnt brick,24440,803,73,1334,346,382,1307,574,19426,195
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Concrete,778,14,0,18,6,44,18,8,665,5
+HH1303,10,235,00000,000000,District - Aurangabad,Urban,Any other,280,11,2,12,22,19,61,7,138,8
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,All Material,14887,1117,120,713,384,367,713,569,10588,316
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Grass/thatch/bamboo etc.,226,137,15,18,3,7,20,11,0,15
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Plastic/ Polythene,69,12,15,1,14,1,7,18,0,1
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Mud/unburnt brick,1506,624,34,384,27,66,48,101,160,62
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Wood,33,2,6,1,13,2,4,5,0,0
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Stone not packed with mortar,341,11,1,12,8,123,32,11,137,6
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Stone packed with mortar,734,22,0,6,30,27,97,13,501,38
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,G.I./ metal/asbestos sheets,34,7,0,1,2,4,4,5,11,0
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Burnt brick,11319,289,48,277,260,75,435,393,9360,182
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Concrete,373,6,0,7,5,43,7,6,295,4
+HH1303,10,235,01481,801401,Aurangabad (Nagar Parishad),Urban,Any other,252,7,1,6,22,19,59,6,124,8
+HH1303,10,236,00000,000000,District - Gaya,Total,All Material,690505,200368,4211,204567,4997,22484,38528,6533,205687,3130
+HH1303,10,236,00000,000000,District - Gaya,Total,Grass/thatch/bamboo etc.,20387,15371,647,3472,64,225,315,101,0,192
+HH1303,10,236,00000,000000,District - Gaya,Total,Plastic/ Polythene,2489,1120,319,814,23,71,104,23,0,15
+HH1303,10,236,00000,000000,District - Gaya,Total,Mud/unburnt brick,348657,162713,1909,167815,2022,2763,2364,1203,6513,1355
+HH1303,10,236,00000,000000,District - Gaya,Total,Wood,606,191,27,140,41,138,43,25,0,1
+HH1303,10,236,00000,000000,District - Gaya,Total,Stone not packed with mortar,5314,494,53,852,62,833,842,339,1774,65
+HH1303,10,236,00000,000000,District - Gaya,Total,Stone packed with mortar,11117,493,44,524,135,1010,4608,222,4032,49
+HH1303,10,236,00000,000000,District - Gaya,Total,G.I./ metal/asbestos sheets,1134,218,11,215,27,52,93,347,162,9
+HH1303,10,236,00000,000000,District - Gaya,Total,Burnt brick,292592,18846,1117,29918,2501,17060,29879,4141,187809,1321
+HH1303,10,236,00000,000000,District - Gaya,Total,Concrete,7177,752,48,662,88,287,224,113,4950,53
+HH1303,10,236,00000,000000,District - Gaya,Total,Any other,1032,170,36,155,34,45,56,19,447,70
+HH1303,10,236,00000,000000,District - Gaya,Rural,All Material,603194,193798,3324,194631,4164,17866,30617,3823,152323,2648
+HH1303,10,236,00000,000000,District - Gaya,Rural,Grass/thatch/bamboo etc.,19307,14630,569,3328,63,185,268,89,0,175
+HH1303,10,236,00000,000000,District - Gaya,Rural,Plastic/ Polythene,2210,1075,232,713,20,55,91,14,0,10
+HH1303,10,236,00000,000000,District - Gaya,Rural,Mud/unburnt brick,336458,158433,1557,162228,1915,2494,2074,831,5683,1243
+HH1303,10,236,00000,000000,District - Gaya,Rural,Wood,431,182,12,124,24,51,24,13,0,1
+HH1303,10,236,00000,000000,District - Gaya,Rural,Stone not packed with mortar,3635,429,35,704,45,525,620,210,1044,23
+HH1303,10,236,00000,000000,District - Gaya,Rural,Stone packed with mortar,6102,433,28,404,69,616,2742,123,1662,25
+HH1303,10,236,00000,000000,District - Gaya,Rural,G.I./ metal/asbestos sheets,629,210,7,200,9,38,81,38,43,3
+HH1303,10,236,00000,000000,District - Gaya,Rural,Burnt brick,229033,17620,826,26180,1914,13703,24513,2429,140769,1079
+HH1303,10,236,00000,000000,District - Gaya,Rural,Concrete,4593,627,31,598,74,168,159,71,2832,33
+HH1303,10,236,00000,000000,District - Gaya,Rural,Any other,796,159,27,152,31,31,45,5,290,56
+HH1303,10,236,00000,000000,District - Gaya,Urban,All Material,87311,6570,887,9936,833,4618,7911,2710,53364,482
+HH1303,10,236,00000,000000,District - Gaya,Urban,Grass/thatch/bamboo etc.,1080,741,78,144,1,40,47,12,0,17
+HH1303,10,236,00000,000000,District - Gaya,Urban,Plastic/ Polythene,279,45,87,101,3,16,13,9,0,5
+HH1303,10,236,00000,000000,District - Gaya,Urban,Mud/unburnt brick,12199,4280,352,5587,107,269,290,372,830,112
+HH1303,10,236,00000,000000,District - Gaya,Urban,Wood,175,9,15,16,17,87,19,12,0,0
+HH1303,10,236,00000,000000,District - Gaya,Urban,Stone not packed with mortar,1679,65,18,148,17,308,222,129,730,42
+HH1303,10,236,00000,000000,District - Gaya,Urban,Stone packed with mortar,5015,60,16,120,66,394,1866,99,2370,24
+HH1303,10,236,00000,000000,District - Gaya,Urban,G.I./ metal/asbestos sheets,505,8,4,15,18,14,12,309,119,6
+HH1303,10,236,00000,000000,District - Gaya,Urban,Burnt brick,63559,1226,291,3738,587,3357,5366,1712,47040,242
+HH1303,10,236,00000,000000,District - Gaya,Urban,Concrete,2584,125,17,64,14,119,65,42,2118,20
+HH1303,10,236,00000,000000,District - Gaya,Urban,Any other,236,11,9,3,3,14,11,14,157,14
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,All Material,71153,3982,686,6010,744,4372,6458,2404,46044,453
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Grass/thatch/bamboo etc.,736,482,61,85,1,37,43,10,0,17
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Plastic/ Polythene,160,37,54,30,2,15,10,9,0,3
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Mud/unburnt brick,7243,2313,233,2995,86,250,238,326,698,104
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Wood,170,6,15,15,17,87,19,11,0,0
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Stone not packed with mortar,1508,54,17,123,16,296,176,123,661,42
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Stone packed with mortar,4659,57,16,106,64,370,1727,91,2204,24
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,G.I./ metal/asbestos sheets,484,6,4,11,18,14,12,304,109,6
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Burnt brick,53673,900,262,2599,527,3176,4167,1477,40342,223
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Concrete,2302,117,16,44,12,114,56,40,1883,20
+HH1303,10,236,01495,801404,Gaya (M Corp. + OG),Urban,Any other,218,10,8,2,1,13,10,13,147,14
+HH1303,10,237,00000,000000,District - Nawada,Total,All Material,346749,78472,2479,98851,3219,38939,14682,2636,105493,1978
+HH1303,10,237,00000,000000,District - Nawada,Total,Grass/thatch/bamboo etc.,11752,8320,407,2338,67,255,145,134,0,86
+HH1303,10,237,00000,000000,District - Nawada,Total,Plastic/ Polythene,1566,572,133,530,31,171,88,24,0,17
+HH1303,10,237,00000,000000,District - Nawada,Total,Mud/unburnt brick,146556,58902,1025,76087,904,3974,1215,539,3109,801
+HH1303,10,237,00000,000000,District - Nawada,Total,Wood,473,105,134,107,30,50,26,17,0,4
+HH1303,10,237,00000,000000,District - Nawada,Total,Stone not packed with mortar,3792,423,44,621,78,918,383,174,1112,39
+HH1303,10,237,00000,000000,District - Nawada,Total,Stone packed with mortar,4905,202,19,237,67,1083,1329,65,1867,36
+HH1303,10,237,00000,000000,District - Nawada,Total,G.I./ metal/asbestos sheets,822,253,19,287,28,28,65,41,96,5
+HH1303,10,237,00000,000000,District - Nawada,Total,Burnt brick,172228,9172,647,18130,1868,32097,11127,1587,96715,885
+HH1303,10,237,00000,000000,District - Nawada,Total,Concrete,3273,340,33,296,28,257,81,36,2183,19
+HH1303,10,237,00000,000000,District - Nawada,Total,Any other,1382,183,18,218,118,106,223,19,411,86
+HH1303,10,237,00000,000000,District - Nawada,Rural,All Material,313669,75097,2194,95470,2974,33558,13667,2114,86793,1802
+HH1303,10,237,00000,000000,District - Nawada,Rural,Grass/thatch/bamboo etc.,11079,7845,364,2295,63,198,130,109,0,75
+HH1303,10,237,00000,000000,District - Nawada,Rural,Plastic/ Polythene,1452,545,117,504,28,149,78,19,0,12
+HH1303,10,237,00000,000000,District - Nawada,Rural,Mud/unburnt brick,141440,56788,908,74114,813,3584,1174,472,2827,760
+HH1303,10,237,00000,000000,District - Nawada,Rural,Wood,437,101,130,90,27,45,25,15,0,4
+HH1303,10,237,00000,000000,District - Nawada,Rural,Stone not packed with mortar,3378,395,39,600,74,796,353,133,957,31
+HH1303,10,237,00000,000000,District - Nawada,Rural,Stone packed with mortar,4363,190,15,231,64,991,1296,50,1490,36
+HH1303,10,237,00000,000000,District - Nawada,Rural,G.I./ metal/asbestos sheets,767,233,19,275,28,25,62,30,90,5
+HH1303,10,237,00000,000000,District - Nawada,Rural,Burnt brick,146671,8520,556,16868,1741,27452,10270,1239,79239,786
+HH1303,10,237,00000,000000,District - Nawada,Rural,Concrete,2811,317,29,283,26,217,68,31,1828,12
+HH1303,10,237,00000,000000,District - Nawada,Rural,Any other,1271,163,17,210,110,101,211,16,362,81
+HH1303,10,237,00000,000000,District - Nawada,Urban,All Material,33080,3375,285,3381,245,5381,1015,522,18700,176
+HH1303,10,237,00000,000000,District - Nawada,Urban,Grass/thatch/bamboo etc.,673,475,43,43,4,57,15,25,0,11
+HH1303,10,237,00000,000000,District - Nawada,Urban,Plastic/ Polythene,114,27,16,26,3,22,10,5,0,5
+HH1303,10,237,00000,000000,District - Nawada,Urban,Mud/unburnt brick,5116,2114,117,1973,91,390,41,67,282,41
+HH1303,10,237,00000,000000,District - Nawada,Urban,Wood,36,4,4,17,3,5,1,2,0,0
+HH1303,10,237,00000,000000,District - Nawada,Urban,Stone not packed with mortar,414,28,5,21,4,122,30,41,155,8
+HH1303,10,237,00000,000000,District - Nawada,Urban,Stone packed with mortar,542,12,4,6,3,92,33,15,377,0
+HH1303,10,237,00000,000000,District - Nawada,Urban,G.I./ metal/asbestos sheets,55,20,0,12,0,3,3,11,6,0
+HH1303,10,237,00000,000000,District - Nawada,Urban,Burnt brick,25557,652,91,1262,127,4645,857,348,17476,99
+HH1303,10,237,00000,000000,District - Nawada,Urban,Concrete,462,23,4,13,2,40,13,5,355,7
+HH1303,10,237,00000,000000,District - Nawada,Urban,Any other,111,20,1,8,8,5,12,3,49,5
+HH1303,10,238,00000,000000,District - Jamui,Total,All Material,308291,58069,2530,127334,3998,6851,11054,3550,93429,1476
+HH1303,10,238,00000,000000,District - Jamui,Total,Grass/thatch/bamboo etc.,10882,7595,228,2626,74,101,87,104,0,67
+HH1303,10,238,00000,000000,District - Jamui,Total,Plastic/ Polythene,1892,582,282,769,52,48,117,28,0,14
+HH1303,10,238,00000,000000,District - Jamui,Total,Mud/unburnt brick,167263,43670,1348,110475,1256,1669,1469,1045,5570,761
+HH1303,10,238,00000,000000,District - Jamui,Total,Wood,477,213,40,102,49,35,16,17,0,5
+HH1303,10,238,00000,000000,District - Jamui,Total,Stone not packed with mortar,2936,409,39,659,69,280,318,200,948,14
+HH1303,10,238,00000,000000,District - Jamui,Total,Stone packed with mortar,2933,119,12,233,97,244,860,57,1298,13
+HH1303,10,238,00000,000000,District - Jamui,Total,G.I./ metal/asbestos sheets,524,142,10,204,26,8,53,17,62,2
+HH1303,10,238,00000,000000,District - Jamui,Total,Burnt brick,116125,4803,522,11446,2172,4382,7654,1996,82654,496
+HH1303,10,238,00000,000000,District - Jamui,Total,Concrete,3419,297,19,532,19,52,56,55,2369,20
+HH1303,10,238,00000,000000,District - Jamui,Total,Any other,1840,239,30,288,184,32,424,31,528,84
+HH1303,10,238,00000,000000,District - Jamui,Rural,All Material,283684,55124,2203,122076,3750,6134,9959,2895,80211,1332
+HH1303,10,238,00000,000000,District - Jamui,Rural,Grass/thatch/bamboo etc.,10330,7212,212,2513,73,97,80,85,0,58
+HH1303,10,238,00000,000000,District - Jamui,Rural,Plastic/ Polythene,1782,545,263,733,52,43,112,21,0,13
+HH1303,10,238,00000,000000,District - Jamui,Rural,Mud/unburnt brick,159929,41612,1155,106634,1140,1439,1291,873,5074,711
+HH1303,10,238,00000,000000,District - Jamui,Rural,Wood,447,200,38,97,49,32,16,10,0,5
+HH1303,10,238,00000,000000,District - Jamui,Rural,Stone not packed with mortar,2652,386,36,612,67,229,304,176,830,12
+HH1303,10,238,00000,000000,District - Jamui,Rural,Stone packed with mortar,2576,107,9,220,97,215,755,48,1115,10
+HH1303,10,238,00000,000000,District - Jamui,Rural,G.I./ metal/asbestos sheets,479,130,9,191,26,6,51,14,50,2
+HH1303,10,238,00000,000000,District - Jamui,Rural,Burnt brick,100665,4435,439,10317,2045,4007,6881,1598,70517,426
+HH1303,10,238,00000,000000,District - Jamui,Rural,Concrete,3090,269,15,490,18,34,50,46,2149,19
+HH1303,10,238,00000,000000,District - Jamui,Rural,Any other,1734,228,27,269,183,32,419,24,476,76
+HH1303,10,238,00000,000000,District - Jamui,Urban,All Material,24607,2945,327,5258,248,717,1095,655,13218,144
+HH1303,10,238,00000,000000,District - Jamui,Urban,Grass/thatch/bamboo etc.,552,383,16,113,1,4,7,19,0,9
+HH1303,10,238,00000,000000,District - Jamui,Urban,Plastic/ Polythene,110,37,19,36,0,5,5,7,0,1
+HH1303,10,238,00000,000000,District - Jamui,Urban,Mud/unburnt brick,7334,2058,193,3841,116,230,178,172,496,50
+HH1303,10,238,00000,000000,District - Jamui,Urban,Wood,30,13,2,5,0,3,0,7,0,0
+HH1303,10,238,00000,000000,District - Jamui,Urban,Stone not packed with mortar,284,23,3,47,2,51,14,24,118,2
+HH1303,10,238,00000,000000,District - Jamui,Urban,Stone packed with mortar,357,12,3,13,0,29,105,9,183,3
+HH1303,10,238,00000,000000,District - Jamui,Urban,G.I./ metal/asbestos sheets,45,12,1,13,0,2,2,3,12,0
+HH1303,10,238,00000,000000,District - Jamui,Urban,Burnt brick,15460,368,83,1129,127,375,773,398,12137,70
+HH1303,10,238,00000,000000,District - Jamui,Urban,Concrete,329,28,4,42,1,18,6,9,220,1
+HH1303,10,238,00000,000000,District - Jamui,Urban,Any other,106,11,3,19,1,0,5,7,52,8
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,All Material,181646,45323,1212,36393,1427,45114,7366,1923,41932,956
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Grass/thatch/bamboo etc.,6125,4608,191,830,46,326,74,37,0,13
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Plastic/ Polythene,708,221,141,149,16,124,36,10,0,11
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Mud/unburnt brick,55994,29560,407,20365,314,3162,455,382,1036,313
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Wood,174,41,15,41,17,41,12,5,0,2
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Stone not packed with mortar,2722,359,28,367,46,916,274,142,577,13
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Stone packed with mortar,3657,109,31,166,72,1079,595,35,1546,24
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,G.I./ metal/asbestos sheets,182,62,2,40,10,30,17,8,11,2
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Burnt brick,109722,10129,362,14192,880,39066,5751,1277,37557,508
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Concrete,1767,169,24,81,8,238,87,21,1126,13
+HH1303,10,239,00000,000000,District - Jehanabad ,Total,Any other,595,65,11,162,18,132,65,6,79,57
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,All Material,159632,42758,916,34751,1153,43554,6004,1477,28268,751
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Grass/thatch/bamboo etc.,5719,4391,90,794,43,304,55,32,0,10
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Plastic/ Polythene,600,201,84,144,5,119,32,9,0,6
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Mud/unburnt brick,52996,27970,354,19704,292,2986,392,270,754,274
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Wood,131,36,11,33,7,37,4,1,0,2
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Stone not packed with mortar,2302,321,25,336,37,842,230,122,379,10
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Stone packed with mortar,2585,103,25,157,71,1035,468,18,689,19
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,G.I./ metal/asbestos sheets,153,60,1,37,5,29,9,6,6,0
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Burnt brick,93457,9486,306,13325,678,37842,4727,1004,25697,392
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Concrete,1210,131,12,71,6,231,56,10,691,2
+HH1303,10,239,00000,000000,District - Jehanabad ,Rural,Any other,479,59,8,150,9,129,31,5,52,36
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,All Material,22014,2565,296,1642,274,1560,1362,446,13664,205
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Grass/thatch/bamboo etc.,406,217,101,36,3,22,19,5,0,3
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Plastic/ Polythene,108,20,57,5,11,5,4,1,0,5
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Mud/unburnt brick,2998,1590,53,661,22,176,63,112,282,39
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Wood,43,5,4,8,10,4,8,4,0,0
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Stone not packed with mortar,420,38,3,31,9,74,44,20,198,3
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Stone packed with mortar,1072,6,6,9,1,44,127,17,857,5
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,G.I./ metal/asbestos sheets,29,2,1,3,5,1,8,2,5,2
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Burnt brick,16265,643,56,867,202,1224,1024,273,11860,116
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Concrete,557,38,12,10,2,7,31,11,435,11
+HH1303,10,239,00000,000000,District - Jehanabad ,Urban,Any other,116,6,3,12,9,3,34,1,27,21
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,All Material,16969,1536,261,1209,118,1098,818,364,11461,104
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Grass/thatch/bamboo etc.,239,105,99,19,1,8,5,1,0,1
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Plastic/ Polythene,71,3,53,4,1,4,3,1,0,2
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Mud/unburnt brick,2035,991,46,479,15,130,44,89,209,32
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Wood,29,3,4,7,8,2,2,3,0,0
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Stone not packed with mortar,287,21,1,21,9,25,26,20,163,1
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Stone packed with mortar,991,5,6,7,1,40,93,10,828,1
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,G.I./ metal/asbestos sheets,9,0,0,1,2,0,0,1,5,0
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Burnt brick,12815,375,37,664,80,883,616,233,9865,62
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Concrete,475,31,12,6,1,6,26,6,386,1
+HH1303,10,239,01536,801413,Jehanabad (Nagar Parishad) ,Urban,Any other,18,2,3,1,0,0,3,0,5,4
+HH1303,10,240,00000,000000,District - Arwal,Total,All Material,117803,36197,419,30451,783,9554,8666,947,30383,403
+HH1303,10,240,00000,000000,District - Arwal,Total,Grass/thatch/bamboo etc.,3093,2380,123,519,13,22,7,23,0,6
+HH1303,10,240,00000,000000,District - Arwal,Total,Plastic/ Polythene,194,101,8,55,2,9,19,0,0,0
+HH1303,10,240,00000,000000,District - Arwal,Total,Mud/unburnt brick,46135,25668,173,17824,194,666,574,128,730,178
+HH1303,10,240,00000,000000,District - Arwal,Total,Wood,166,125,1,15,3,10,9,3,0,0
+HH1303,10,240,00000,000000,District - Arwal,Total,Stone not packed with mortar,1419,189,3,285,38,270,181,133,310,10
+HH1303,10,240,00000,000000,District - Arwal,Total,Stone packed with mortar,1763,51,9,80,25,157,629,20,788,4
+HH1303,10,240,00000,000000,District - Arwal,Total,G.I./ metal/asbestos sheets,30,13,1,9,2,0,0,2,3,0
+HH1303,10,240,00000,000000,District - Arwal,Total,Burnt brick,64021,7540,101,11582,490,8355,7202,626,27930,195
+HH1303,10,240,00000,000000,District - Arwal,Total,Concrete,906,117,0,73,15,53,34,12,601,1
+HH1303,10,240,00000,000000,District - Arwal,Total,Any other,76,13,0,9,1,12,11,0,21,9
+HH1303,10,240,00000,000000,District - Arwal,Rural,All Material,109546,35116,399,28541,755,9288,8377,829,25844,397
+HH1303,10,240,00000,000000,District - Arwal,Rural,Grass/thatch/bamboo etc.,2994,2304,123,499,13,20,7,22,0,6
+HH1303,10,240,00000,000000,District - Arwal,Rural,Plastic/ Polythene,187,98,8,51,2,9,19,0,0,0
+HH1303,10,240,00000,000000,District - Arwal,Rural,Mud/unburnt brick,44302,24942,168,16852,188,639,546,114,675,178
+HH1303,10,240,00000,000000,District - Arwal,Rural,Wood,158,124,1,15,3,3,9,3,0,0
+HH1303,10,240,00000,000000,District - Arwal,Rural,Stone not packed with mortar,1285,173,3,277,37,227,154,123,281,10
+HH1303,10,240,00000,000000,District - Arwal,Rural,Stone packed with mortar,1437,48,9,79,24,153,613,16,492,3
+HH1303,10,240,00000,000000,District - Arwal,Rural,G.I./ metal/asbestos sheets,28,11,1,9,2,0,0,2,3,0
+HH1303,10,240,00000,000000,District - Arwal,Rural,Burnt brick,58258,7286,86,10679,470,8172,6988,538,23849,190
+HH1303,10,240,00000,000000,District - Arwal,Rural,Concrete,821,117,0,71,15,53,30,11,523,1
+HH1303,10,240,00000,000000,District - Arwal,Rural,Any other,76,13,0,9,1,12,11,0,21,9
+HH1303,10,240,00000,000000,District - Arwal,Urban,All Material,8257,1081,20,1910,28,266,289,118,4539,6
+HH1303,10,240,00000,000000,District - Arwal,Urban,Grass/thatch/bamboo etc.,99,76,0,20,0,2,0,1,0,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Plastic/ Polythene,7,3,0,4,0,0,0,0,0,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Mud/unburnt brick,1833,726,5,972,6,27,28,14,55,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Wood,8,1,0,0,0,7,0,0,0,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Stone not packed with mortar,134,16,0,8,1,43,27,10,29,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Stone packed with mortar,326,3,0,1,1,4,16,4,296,1
+HH1303,10,240,00000,000000,District - Arwal,Urban,G.I./ metal/asbestos sheets,2,2,0,0,0,0,0,0,0,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Burnt brick,5763,254,15,903,20,183,214,88,4081,5
+HH1303,10,240,00000,000000,District - Arwal,Urban,Concrete,85,0,0,2,0,0,4,1,78,0
+HH1303,10,240,00000,000000,District - Arwal,Urban,Any other,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,
+Note:,City level data will be available only in electronic format.,,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/HLPCA-10227-2011_H14_census.xlsx",
+  "raw_sha256": "9bbd90809506473ac8099c4b6bca870385bfa2a1163b77c370f5e135d8613744",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/9525/download/12637",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:16:16+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/9bbd90809506/sheets/Sheet1.csv",
+    "data/processed/BR-DM-02/9bbd90809506/sheets/Sheet2.csv",
+    "data/processed/BR-DM-02/9bbd90809506/sheets/Sheet3.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

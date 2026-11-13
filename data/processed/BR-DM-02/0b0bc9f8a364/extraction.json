@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/Rdir_2001_MDDS_10.xls",
+  "raw_sha256": "0b0bc9f8a36464b5a9af578d22dfeb66cab56b210ae5e965a155e996dbafc4c0",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/7049/download/10161",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:17:43+00:00",
+  "obtained_on": null,
+  "kind": "xls",
+  "outputs": [
+    "data/processed/BR-DM-02/0b0bc9f8a364/sheets/Village_Directory.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

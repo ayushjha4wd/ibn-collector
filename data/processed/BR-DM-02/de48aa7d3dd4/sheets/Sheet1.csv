@@ -1,0 +1,485 @@
+HH-6 ST : SCHEDULED TRIBE HOUSEHOLDS BY MAIN SOURCE OF DRINKING WATER AND ITS LOCATION,,,,,,,,,,,,,,,,
+(Excluding Institutional Households),,,,,,,,,,,,,,,,
+Table Name,State Code,District Code,Area Name,"Total/
+Rural/
+Urban",Location of source of drinking water,Total Number of Households,Main Source of Drinking Water,,,,,,,,,
+,,,,,,,Tapwater from treated source,"Tapwater from
+un-treated source",Covered well,Un-covered well,Handpump,"Tubewell/
+Borehole",Spring,"River/
+Canal","Tank/
+Pond/
+Lake", Other sources
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+HH2406T,10,000,STATE - BIHAR,Total,Total,423568,15488,9664,4078,36116,329406,14885,1066,3053,802,9010
+HH2406T,10,000,STATE - BIHAR,Total,Within the premises,173066,9541,3160,1192,1506,149849,7818,0,0,0,0
+HH2406T,10,000,STATE - BIHAR,Total,Near the premises,175385,4509,4679,1798,15405,138302,5741,196,539,535,3681
+HH2406T,10,000,STATE - BIHAR,Total,Away,75117,1438,1825,1088,19205,41255,1326,870,2514,267,5329
+HH2406T,10,000,STATE - BIHAR,Rural,Total,387584,8956,7238,3714,35473,307837,11617,1032,2989,717,8011
+HH2406T,10,000,STATE - BIHAR,Rural,Within the premises,148684,4088,1863,972,1302,135349,5110,0,0,0,0
+HH2406T,10,000,STATE - BIHAR,Rural,Near the premises,167248,3736,3860,1690,15193,133102,5306,163,492,462,3244
+HH2406T,10,000,STATE - BIHAR,Rural,Away,71652,1132,1515,1052,18978,39386,1201,869,2497,255,4767
+HH2406T,10,000,STATE - BIHAR,Urban,Total,35984,6532,2426,364,643,21569,3268,34,64,85,999
+HH2406T,10,000,STATE - BIHAR,Urban,Within the premises,24382,5453,1297,220,204,14500,2708,0,0,0,0
+HH2406T,10,000,STATE - BIHAR,Urban,Near the premises,8137,773,819,108,212,5200,435,33,47,73,437
+HH2406T,10,000,STATE - BIHAR,Urban,Away,3465,306,310,36,227,1869,125,1,17,12,562
+HH2406T,10,203,District - Pashchim Champaran,Total,Total,50903,889,567,284,3730,44607,81,11,34,39,661
+HH2406T,10,203,District - Pashchim Champaran,Total,Within the premises,21003,396,139,45,196,20187,40,0,0,0,0
+HH2406T,10,203,District - Pashchim Champaran,Total,Near the premises,23242,422,334,153,2133,19849,34,10,26,36,245
+HH2406T,10,203,District - Pashchim Champaran,Total,Away,6658,71,94,86,1401,4571,7,1,8,3,416
+HH2406T,10,203,District - Pashchim Champaran,Rural,Total,48444,711,475,274,3702,42539,57,8,30,25,623
+HH2406T,10,203,District - Pashchim Champaran,Rural,Within the premises,19346,251,89,43,194,18751,18,0,0,0,0
+HH2406T,10,203,District - Pashchim Champaran,Rural,Near the premises,22583,404,299,145,2133,19300,33,7,22,22,218
+HH2406T,10,203,District - Pashchim Champaran,Rural,Away,6515,56,87,86,1375,4488,6,1,8,3,405
+HH2406T,10,203,District - Pashchim Champaran,Urban,Total,2459,178,92,10,28,2068,24,3,4,14,38
+HH2406T,10,203,District - Pashchim Champaran,Urban,Within the premises,1657,145,50,2,2,1436,22,0,0,0,0
+HH2406T,10,203,District - Pashchim Champaran,Urban,Near the premises,659,18,35,8,0,549,1,3,4,14,27
+HH2406T,10,203,District - Pashchim Champaran,Urban,Away,143,15,7,0,26,83,1,0,0,0,11
+HH2406T,10,204,District - Purba Champaran,Total,Total,8949,285,190,73,79,8166,37,2,8,12,97
+HH2406T,10,204,District - Purba Champaran,Total,Within the premises,3238,189,85,31,4,2901,28,0,0,0,0
+HH2406T,10,204,District - Purba Champaran,Total,Near the premises,4406,65,92,31,60,4087,7,2,5,9,48
+HH2406T,10,204,District - Purba Champaran,Total,Away,1305,31,13,11,15,1178,2,0,3,3,49
+HH2406T,10,204,District - Purba Champaran,Rural,Total,7894,169,122,56,78,7350,23,2,8,10,76
+HH2406T,10,204,District - Purba Champaran,Rural,Within the premises,2555,94,37,19,3,2388,14,0,0,0,0
+HH2406T,10,204,District - Purba Champaran,Rural,Near the premises,4120,54,78,28,60,3848,7,2,5,7,31
+HH2406T,10,204,District - Purba Champaran,Rural,Away,1219,21,7,9,15,1114,2,0,3,3,45
+HH2406T,10,204,District - Purba Champaran,Urban,Total,1055,116,68,17,1,816,14,0,0,2,21
+HH2406T,10,204,District - Purba Champaran,Urban,Within the premises,683,95,48,12,1,513,14,0,0,0,0
+HH2406T,10,204,District - Purba Champaran,Urban,Near the premises,286,11,14,3,0,239,0,0,0,2,17
+HH2406T,10,204,District - Purba Champaran,Urban,Away,86,10,6,2,0,64,0,0,0,0,4
+HH2406T,10,205,District - Sheohar,Total,Total,1402,12,12,11,0,1352,0,1,5,1,8
+HH2406T,10,205,District - Sheohar,Total,Within the premises,463,5,3,4,0,451,0,0,0,0,0
+HH2406T,10,205,District - Sheohar,Total,Near the premises,749,7,6,3,0,723,0,1,3,1,5
+HH2406T,10,205,District - Sheohar,Total,Away,190,0,3,4,0,178,0,0,2,0,3
+HH2406T,10,205,District - Sheohar,Rural,Total,1369,12,12,11,0,1319,0,1,5,1,8
+HH2406T,10,205,District - Sheohar,Rural,Within the premises,441,5,3,4,0,429,0,0,0,0,0
+HH2406T,10,205,District - Sheohar,Rural,Near the premises,741,7,6,3,0,715,0,1,3,1,5
+HH2406T,10,205,District - Sheohar,Rural,Away,187,0,3,4,0,175,0,0,2,0,3
+HH2406T,10,205,District - Sheohar,Urban,Total,33,0,0,0,0,33,0,0,0,0,0
+HH2406T,10,205,District - Sheohar,Urban,Within the premises,22,0,0,0,0,22,0,0,0,0,0
+HH2406T,10,205,District - Sheohar,Urban,Near the premises,8,0,0,0,0,8,0,0,0,0,0
+HH2406T,10,205,District - Sheohar,Urban,Away,3,0,0,0,0,3,0,0,0,0,0
+HH2406T,10,206,District - Sitamarhi,Total,Total,5814,136,123,67,16,5375,26,1,3,10,57
+HH2406T,10,206,District - Sitamarhi,Total,Within the premises,1418,30,15,11,0,1353,9,0,0,0,0
+HH2406T,10,206,District - Sitamarhi,Total,Near the premises,3200,75,79,44,13,2933,16,1,3,5,31
+HH2406T,10,206,District - Sitamarhi,Total,Away,1196,31,29,12,3,1089,1,0,0,5,26
+HH2406T,10,206,District - Sitamarhi,Rural,Total,5571,124,119,66,16,5160,24,0,3,10,49
+HH2406T,10,206,District - Sitamarhi,Rural,Within the premises,1246,20,12,10,0,1197,7,0,0,0,0
+HH2406T,10,206,District - Sitamarhi,Rural,Near the premises,3148,73,78,44,13,2888,16,0,3,5,28
+HH2406T,10,206,District - Sitamarhi,Rural,Away,1177,31,29,12,3,1075,1,0,0,5,21
+HH2406T,10,206,District - Sitamarhi,Urban,Total,243,12,4,1,0,215,2,1,0,0,8
+HH2406T,10,206,District - Sitamarhi,Urban,Within the premises,172,10,3,1,0,156,2,0,0,0,0
+HH2406T,10,206,District - Sitamarhi,Urban,Near the premises,52,2,1,0,0,45,0,1,0,0,3
+HH2406T,10,206,District - Sitamarhi,Urban,Away,19,0,0,0,0,14,0,0,0,0,5
+HH2406T,10,207,District - Madhubani,Total,Total,8054,205,205,163,33,6820,373,12,18,18,207
+HH2406T,10,207,District - Madhubani,Total,Within the premises,2484,86,50,51,4,2177,116,0,0,0,0
+HH2406T,10,207,District - Madhubani,Total,Near the premises,3843,93,123,78,16,3181,186,10,12,15,129
+HH2406T,10,207,District - Madhubani,Total,Away,1727,26,32,34,13,1462,71,2,6,3,78
+HH2406T,10,207,District - Madhubani,Rural,Total,7754,191,202,155,33,6565,363,12,18,18,197
+HH2406T,10,207,District - Madhubani,Rural,Within the premises,2327,77,49,47,4,2036,114,0,0,0,0
+HH2406T,10,207,District - Madhubani,Rural,Near the premises,3765,90,121,75,16,3121,180,10,12,15,125
+HH2406T,10,207,District - Madhubani,Rural,Away,1662,24,32,33,13,1408,69,2,6,3,72
+HH2406T,10,207,District - Madhubani,Urban,Total,300,14,3,8,0,255,10,0,0,0,10
+HH2406T,10,207,District - Madhubani,Urban,Within the premises,157,9,1,4,0,141,2,0,0,0,0
+HH2406T,10,207,District - Madhubani,Urban,Near the premises,78,3,2,3,0,60,6,0,0,0,4
+HH2406T,10,207,District - Madhubani,Urban,Away,65,2,0,1,0,54,2,0,0,0,6
+HH2406T,10,208,District - Supaul,Total,Total,4474,41,70,36,51,3905,227,1,8,9,126
+HH2406T,10,208,District - Supaul,Total,Within the premises,2548,21,38,10,1,2394,84,0,0,0,0
+HH2406T,10,208,District - Supaul,Total,Near the premises,1602,15,17,26,45,1277,133,1,7,8,73
+HH2406T,10,208,District - Supaul,Total,Away,324,5,15,0,5,234,10,0,1,1,53
+HH2406T,10,208,District - Supaul,Rural,Total,4389,39,70,36,51,3825,227,1,8,9,123
+HH2406T,10,208,District - Supaul,Rural,Within the premises,2488,20,38,10,1,2335,84,0,0,0,0
+HH2406T,10,208,District - Supaul,Rural,Near the premises,1588,14,17,26,45,1265,133,1,7,8,72
+HH2406T,10,208,District - Supaul,Rural,Away,313,5,15,0,5,225,10,0,1,1,51
+HH2406T,10,208,District - Supaul,Urban,Total,85,2,0,0,0,80,0,0,0,0,3
+HH2406T,10,208,District - Supaul,Urban,Within the premises,60,1,0,0,0,59,0,0,0,0,0
+HH2406T,10,208,District - Supaul,Urban,Near the premises,14,1,0,0,0,12,0,0,0,0,1
+HH2406T,10,208,District - Supaul,Urban,Away,11,0,0,0,0,9,0,0,0,0,2
+HH2406T,10,209,District - Araria,Total,Total,11872,135,60,30,7,10479,980,2,12,21,146
+HH2406T,10,209,District - Araria,Total,Within the premises,6027,51,35,19,6,5380,536,0,0,0,0
+HH2406T,10,209,District - Araria,Total,Near the premises,5191,81,23,9,1,4598,373,2,11,21,72
+HH2406T,10,209,District - Araria,Total,Away,654,3,2,2,0,501,71,0,1,0,74
+HH2406T,10,209,District - Araria,Rural,Total,11573,124,56,26,3,10268,936,2,11,21,126
+HH2406T,10,209,District - Araria,Rural,Within the premises,5795,42,31,15,2,5211,494,0,0,0,0
+HH2406T,10,209,District - Araria,Rural,Near the premises,5136,79,23,9,1,4559,371,2,10,21,61
+HH2406T,10,209,District - Araria,Rural,Away,642,3,2,2,0,498,71,0,1,0,65
+HH2406T,10,209,District - Araria,Urban,Total,299,11,4,4,4,211,44,0,1,0,20
+HH2406T,10,209,District - Araria,Urban,Within the premises,232,9,4,4,4,169,42,0,0,0,0
+HH2406T,10,209,District - Araria,Urban,Near the premises,55,2,0,0,0,39,2,0,1,0,11
+HH2406T,10,209,District - Araria,Urban,Away,12,0,0,0,0,3,0,0,0,0,9
+HH2406T,10,210,District - Kishanganj,Total,Total,15608,109,98,57,439,13020,1414,1,84,32,354
+HH2406T,10,210,District - Kishanganj,Total,Within the premises,6108,63,29,21,62,5351,582,0,0,0,0
+HH2406T,10,210,District - Kishanganj,Total,Near the premises,7469,42,61,27,189,6319,646,1,14,20,150
+HH2406T,10,210,District - Kishanganj,Total,Away,2031,4,8,9,188,1350,186,0,70,12,204
+HH2406T,10,210,District - Kishanganj,Rural,Total,14879,74,85,56,426,12406,1376,1,81,28,346
+HH2406T,10,210,District - Kishanganj,Rural,Within the premises,5677,33,18,20,62,4987,557,0,0,0,0
+HH2406T,10,210,District - Kishanganj,Rural,Near the premises,7250,39,60,27,189,6115,643,1,14,16,146
+HH2406T,10,210,District - Kishanganj,Rural,Away,1952,2,7,9,175,1304,176,0,67,12,200
+HH2406T,10,210,District - Kishanganj,Urban,Total,729,35,13,1,13,614,38,0,3,4,8
+HH2406T,10,210,District - Kishanganj,Urban,Within the premises,431,30,11,1,0,364,25,0,0,0,0
+HH2406T,10,210,District - Kishanganj,Urban,Near the premises,219,3,1,0,0,204,3,0,0,4,4
+HH2406T,10,210,District - Kishanganj,Urban,Away,79,2,1,0,13,46,10,0,3,0,4
+HH2406T,10,211,District - Purnia,Total,Total,33700,533,199,92,82,27661,3854,0,119,52,1108
+HH2406T,10,211,District - Purnia,Total,Within the premises,16603,353,89,39,9,14241,1872,0,0,0,0
+HH2406T,10,211,District - Purnia,Total,Near the premises,14258,122,97,43,49,11581,1708,0,106,44,508
+HH2406T,10,211,District - Purnia,Total,Away,2839,58,13,10,24,1839,274,0,13,8,600
+HH2406T,10,211,District - Purnia,Rural,Total,29466,423,148,82,76,24519,3147,0,117,46,908
+HH2406T,10,211,District - Purnia,Rural,Within the premises,14567,269,45,34,8,12736,1475,0,0,0,0
+HH2406T,10,211,District - Purnia,Rural,Near the premises,12651,109,96,39,47,10331,1439,0,104,39,447
+HH2406T,10,211,District - Purnia,Rural,Away,2248,45,7,9,21,1452,233,0,13,7,461
+HH2406T,10,211,District - Purnia,Urban,Total,4234,110,51,10,6,3142,707,0,2,6,200
+HH2406T,10,211,District - Purnia,Urban,Within the premises,2036,84,44,5,1,1505,397,0,0,0,0
+HH2406T,10,211,District - Purnia,Urban,Near the premises,1607,13,1,4,2,1250,269,0,2,5,61
+HH2406T,10,211,District - Purnia,Urban,Away,591,13,6,1,3,387,41,0,0,1,139
+HH2406T,10,212,District - Katihar,Total,Total,40977,539,277,100,136,35348,3093,1,43,23,1417
+HH2406T,10,212,District - Katihar,Total,Within the premises,19272,424,108,47,46,17266,1381,0,0,0,0
+HH2406T,10,212,District - Katihar,Total,Near the premises,17114,89,136,47,80,14809,1396,1,31,21,504
+HH2406T,10,212,District - Katihar,Total,Away,4591,26,33,6,10,3273,316,0,12,2,913
+HH2406T,10,212,District - Katihar,Rural,Total,39268,273,191,95,120,34329,2847,1,42,19,1351
+HH2406T,10,212,District - Katihar,Rural,Within the premises,17963,166,41,43,39,16466,1208,0,0,0,0
+HH2406T,10,212,District - Katihar,Rural,Near the premises,16813,84,123,46,73,14623,1336,1,30,18,479
+HH2406T,10,212,District - Katihar,Rural,Away,4492,23,27,6,8,3240,303,0,12,1,872
+HH2406T,10,212,District - Katihar,Urban,Total,1709,266,86,5,16,1019,246,0,1,4,66
+HH2406T,10,212,District - Katihar,Urban,Within the premises,1309,258,67,4,7,800,173,0,0,0,0
+HH2406T,10,212,District - Katihar,Urban,Near the premises,301,5,13,1,7,186,60,0,1,3,25
+HH2406T,10,212,District - Katihar,Urban,Away,99,3,6,0,2,33,13,0,0,1,41
+HH2406T,10,213,District - Madhepura,Total,Total,4273,62,34,17,4,3876,140,1,1,5,133
+HH2406T,10,213,District - Madhepura,Total,Within the premises,2462,37,17,12,0,2329,67,0,0,0,0
+HH2406T,10,213,District - Madhepura,Total,Near the premises,1398,23,15,5,4,1254,63,0,1,4,29
+HH2406T,10,213,District - Madhepura,Total,Away,413,2,2,0,0,293,10,1,0,1,104
+HH2406T,10,213,District - Madhepura,Rural,Total,4058,51,33,16,4,3678,139,1,1,5,130
+HH2406T,10,213,District - Madhepura,Rural,Within the premises,2302,31,17,11,0,2177,66,0,0,0,0
+HH2406T,10,213,District - Madhepura,Rural,Near the premises,1352,19,14,5,4,1214,63,0,1,4,28
+HH2406T,10,213,District - Madhepura,Rural,Away,404,1,2,0,0,287,10,1,0,1,102
+HH2406T,10,213,District - Madhepura,Urban,Total,215,11,1,1,0,198,1,0,0,0,3
+HH2406T,10,213,District - Madhepura,Urban,Within the premises,160,6,0,1,0,152,1,0,0,0,0
+HH2406T,10,213,District - Madhepura,Urban,Near the premises,46,4,1,0,0,40,0,0,0,0,1
+HH2406T,10,213,District - Madhepura,Urban,Away,9,1,0,0,0,6,0,0,0,0,2
+HH2406T,10,214,District - Saharsa,Total,Total,3338,68,54,12,5,2905,100,4,3,2,185
+HH2406T,10,214,District - Saharsa,Total,Within the premises,1369,20,14,2,1,1285,47,0,0,0,0
+HH2406T,10,214,District - Saharsa,Total,Near the premises,1479,48,37,6,1,1309,45,3,3,2,25
+HH2406T,10,214,District - Saharsa,Total,Away,490,0,3,4,3,311,8,1,0,0,160
+HH2406T,10,214,District - Saharsa,Rural,Total,2949,56,42,11,5,2575,75,1,3,1,180
+HH2406T,10,214,District - Saharsa,Rural,Within the premises,1078,9,4,2,1,1033,29,0,0,0,0
+HH2406T,10,214,District - Saharsa,Rural,Near the premises,1437,47,36,5,1,1284,38,0,3,1,22
+HH2406T,10,214,District - Saharsa,Rural,Away,434,0,2,4,3,258,8,1,0,0,158
+HH2406T,10,214,District - Saharsa,Urban,Total,389,12,12,1,0,330,25,3,0,1,5
+HH2406T,10,214,District - Saharsa,Urban,Within the premises,291,11,10,0,0,252,18,0,0,0,0
+HH2406T,10,214,District - Saharsa,Urban,Near the premises,42,1,1,1,0,25,7,3,0,1,3
+HH2406T,10,214,District - Saharsa,Urban,Away,56,0,1,0,0,53,0,0,0,0,2
+HH2406T,10,215,District - Darbhanga,Total,Total,7625,273,232,73,8,6380,325,0,14,22,298
+HH2406T,10,215,District - Darbhanga,Total,Within the premises,2554,135,67,20,3,2185,144,0,0,0,0
+HH2406T,10,215,District - Darbhanga,Total,Near the premises,3206,107,133,37,5,2669,107,0,12,14,122
+HH2406T,10,215,District - Darbhanga,Total,Away,1865,31,32,16,0,1526,74,0,2,8,176
+HH2406T,10,215,District - Darbhanga,Rural,Total,6871,192,176,69,8,5854,257,0,12,19,284
+HH2406T,10,215,District - Darbhanga,Rural,Within the premises,2105,64,45,18,3,1888,87,0,0,0,0
+HH2406T,10,215,District - Darbhanga,Rural,Near the premises,2959,97,111,35,5,2477,99,0,10,11,114
+HH2406T,10,215,District - Darbhanga,Rural,Away,1807,31,20,16,0,1489,71,0,2,8,170
+HH2406T,10,215,District - Darbhanga,Urban,Total,754,81,56,4,0,526,68,0,2,3,14
+HH2406T,10,215,District - Darbhanga,Urban,Within the premises,449,71,22,2,0,297,57,0,0,0,0
+HH2406T,10,215,District - Darbhanga,Urban,Near the premises,247,10,22,2,0,192,8,0,2,3,8
+HH2406T,10,215,District - Darbhanga,Urban,Away,58,0,12,0,0,37,3,0,0,0,6
+HH2406T,10,216,District - Muzaffarpur,Total,Total,11864,673,459,251,116,9619,451,2,17,37,239
+HH2406T,10,216,District - Muzaffarpur,Total,Within the premises,4752,432,156,117,17,3714,316,0,0,0,0
+HH2406T,10,216,District - Muzaffarpur,Total,Near the premises,5811,193,214,115,62,4949,112,2,12,31,121
+HH2406T,10,216,District - Muzaffarpur,Total,Away,1301,48,89,19,37,956,23,0,5,6,118
+HH2406T,10,216,District - Muzaffarpur,Rural,Total,9972,318,298,227,95,8619,174,0,12,30,199
+HH2406T,10,216,District - Muzaffarpur,Rural,Within the premises,3529,141,91,99,13,3117,68,0,0,0,0
+HH2406T,10,216,District - Muzaffarpur,Rural,Near the premises,5332,146,167,110,46,4628,93,0,11,25,106
+HH2406T,10,216,District - Muzaffarpur,Rural,Away,1111,31,40,18,36,874,13,0,1,5,93
+HH2406T,10,216,District - Muzaffarpur,Urban,Total,1892,355,161,24,21,1000,277,2,5,7,40
+HH2406T,10,216,District - Muzaffarpur,Urban,Within the premises,1223,291,65,18,4,597,248,0,0,0,0
+HH2406T,10,216,District - Muzaffarpur,Urban,Near the premises,479,47,47,5,16,321,19,2,1,6,15
+HH2406T,10,216,District - Muzaffarpur,Urban,Away,190,17,49,1,1,82,10,0,4,1,25
+HH2406T,10,217,District - Gopalganj,Total,Total,14369,466,326,77,53,13234,14,2,10,23,164
+HH2406T,10,217,District - Gopalganj,Total,Within the premises,7348,249,140,32,9,6907,11,0,0,0,0
+HH2406T,10,217,District - Gopalganj,Total,Near the premises,5970,200,169,43,34,5409,2,2,8,21,82
+HH2406T,10,217,District - Gopalganj,Total,Away,1051,17,17,2,10,918,1,0,2,2,82
+HH2406T,10,217,District - Gopalganj,Rural,Total,13931,431,320,76,41,12860,11,2,10,21,159
+HH2406T,10,217,District - Gopalganj,Rural,Within the premises,7033,214,137,31,9,6634,8,0,0,0,0
+HH2406T,10,217,District - Gopalganj,Rural,Near the premises,5864,200,166,43,22,5322,2,2,8,20,79
+HH2406T,10,217,District - Gopalganj,Rural,Away,1034,17,17,2,10,904,1,0,2,1,80
+HH2406T,10,217,District - Gopalganj,Urban,Total,438,35,6,1,12,374,3,0,0,2,5
+HH2406T,10,217,District - Gopalganj,Urban,Within the premises,315,35,3,1,0,273,3,0,0,0,0
+HH2406T,10,217,District - Gopalganj,Urban,Near the premises,106,0,3,0,12,87,0,0,0,1,3
+HH2406T,10,217,District - Gopalganj,Urban,Away,17,0,0,0,0,14,0,0,0,1,2
+HH2406T,10,218,District - Siwan,Total,Total,22072,803,300,103,61,20607,17,5,12,12,152
+HH2406T,10,218,District - Siwan,Total,Within the premises,12647,465,90,53,11,12022,6,0,0,0,0
+HH2406T,10,218,District - Siwan,Total,Near the premises,7791,311,179,34,27,7138,9,5,10,9,69
+HH2406T,10,218,District - Siwan,Total,Away,1634,27,31,16,23,1447,2,0,2,3,83
+HH2406T,10,218,District - Siwan,Rural,Total,21179,763,281,97,61,19792,13,5,10,12,145
+HH2406T,10,218,District - Siwan,Rural,Within the premises,11925,429,72,49,11,11361,3,0,0,0,0
+HH2406T,10,218,District - Siwan,Rural,Near the premises,7663,308,178,32,27,7021,9,5,8,9,66
+HH2406T,10,218,District - Siwan,Rural,Away,1591,26,31,16,23,1410,1,0,2,3,79
+HH2406T,10,218,District - Siwan,Urban,Total,893,40,19,6,0,815,4,0,2,0,7
+HH2406T,10,218,District - Siwan,Urban,Within the premises,722,36,18,4,0,661,3,0,0,0,0
+HH2406T,10,218,District - Siwan,Urban,Near the premises,128,3,1,2,0,117,0,0,2,0,3
+HH2406T,10,218,District - Siwan,Urban,Away,43,1,0,0,0,37,1,0,0,0,4
+HH2406T,10,219,District - Saran,Total,Total,12719,492,229,111,363,11268,55,1,9,12,179
+HH2406T,10,219,District - Saran,Total,Within the premises,7145,300,73,26,19,6682,45,0,0,0,0
+HH2406T,10,219,District - Saran,Total,Near the premises,4421,164,123,59,206,3780,9,1,4,10,65
+HH2406T,10,219,District - Saran,Total,Away,1153,28,33,26,138,806,1,0,5,2,114
+HH2406T,10,219,District - Saran,Rural,Total,11998,339,194,103,346,10799,21,1,7,11,177
+HH2406T,10,219,District - Saran,Rural,Within the premises,6648,172,51,24,17,6372,12,0,0,0,0
+HH2406T,10,219,District - Saran,Rural,Near the premises,4267,146,112,58,200,3666,8,1,3,9,64
+HH2406T,10,219,District - Saran,Rural,Away,1083,21,31,21,129,761,1,0,4,2,113
+HH2406T,10,219,District - Saran,Urban,Total,721,153,35,8,17,469,34,0,2,1,2
+HH2406T,10,219,District - Saran,Urban,Within the premises,497,128,22,2,2,310,33,0,0,0,0
+HH2406T,10,219,District - Saran,Urban,Near the premises,154,18,11,1,6,114,1,0,1,1,1
+HH2406T,10,219,District - Saran,Urban,Away,70,7,2,5,9,45,0,0,1,0,1
+HH2406T,10,220,District - Vaishali,Total,Total,5312,270,126,100,164,4338,94,3,2,20,195
+HH2406T,10,220,District - Vaishali,Total,Within the premises,1821,156,43,36,15,1532,39,0,0,0,0
+HH2406T,10,220,District - Vaishali,Total,Near the premises,2679,93,70,51,97,2258,42,3,1,14,50
+HH2406T,10,220,District - Vaishali,Total,Away,812,21,13,13,52,548,13,0,1,6,145
+HH2406T,10,220,District - Vaishali,Rural,Total,4846,238,116,93,158,4005,64,2,2,19,149
+HH2406T,10,220,District - Vaishali,Rural,Within the premises,1566,129,35,32,15,1337,18,0,0,0,0
+HH2406T,10,220,District - Vaishali,Rural,Near the premises,2551,88,68,48,95,2157,41,2,1,13,38
+HH2406T,10,220,District - Vaishali,Rural,Away,729,21,13,13,48,511,5,0,1,6,111
+HH2406T,10,220,District - Vaishali,Urban,Total,466,32,10,7,6,333,30,1,0,1,46
+HH2406T,10,220,District - Vaishali,Urban,Within the premises,255,27,8,4,0,195,21,0,0,0,0
+HH2406T,10,220,District - Vaishali,Urban,Near the premises,128,5,2,3,2,101,1,1,0,1,12
+HH2406T,10,220,District - Vaishali,Urban,Away,83,0,0,0,4,37,8,0,0,0,34
+HH2406T,10,221,District - Samastipur,Total,Total,4474,200,94,51,86,3745,172,5,11,9,101
+HH2406T,10,221,District - Samastipur,Total,Within the premises,1587,154,36,14,14,1268,101,0,0,0,0
+HH2406T,10,221,District - Samastipur,Total,Near the premises,2140,31,43,24,34,1881,58,3,9,8,49
+HH2406T,10,221,District - Samastipur,Total,Away,747,15,15,13,38,596,13,2,2,1,52
+HH2406T,10,221,District - Samastipur,Rural,Total,4158,134,83,49,85,3565,128,5,11,9,89
+HH2406T,10,221,District - Samastipur,Rural,Within the premises,1362,89,28,12,14,1157,62,0,0,0,0
+HH2406T,10,221,District - Samastipur,Rural,Near the premises,2090,30,41,24,33,1850,55,3,9,8,37
+HH2406T,10,221,District - Samastipur,Rural,Away,706,15,14,13,38,558,11,2,2,1,52
+HH2406T,10,221,District - Samastipur,Urban,Total,316,66,11,2,1,180,44,0,0,0,12
+HH2406T,10,221,District - Samastipur,Urban,Within the premises,225,65,8,2,0,111,39,0,0,0,0
+HH2406T,10,221,District - Samastipur,Urban,Near the premises,50,1,2,0,1,31,3,0,0,0,12
+HH2406T,10,221,District - Samastipur,Urban,Away,41,0,1,0,0,38,2,0,0,0,0
+HH2406T,10,222,District - Begusarai,Total,Total,4622,340,164,52,82,3770,29,2,14,3,166
+HH2406T,10,222,District - Begusarai,Total,Within the premises,2286,260,72,18,4,1915,17,0,0,0,0
+HH2406T,10,222,District - Begusarai,Total,Near the premises,1698,61,79,20,49,1411,1,0,1,3,73
+HH2406T,10,222,District - Begusarai,Total,Away,638,19,13,14,29,444,11,2,13,0,93
+HH2406T,10,222,District - Begusarai,Rural,Total,3865,126,110,45,63,3325,16,2,14,2,162
+HH2406T,10,222,District - Begusarai,Rural,Within the premises,1758,77,21,12,3,1639,6,0,0,0,0
+HH2406T,10,222,District - Begusarai,Rural,Near the premises,1528,38,76,19,34,1288,0,0,1,2,70
+HH2406T,10,222,District - Begusarai,Rural,Away,579,11,13,14,26,398,10,2,13,0,92
+HH2406T,10,222,District - Begusarai,Urban,Total,757,214,54,7,19,445,13,0,0,1,4
+HH2406T,10,222,District - Begusarai,Urban,Within the premises,528,183,51,6,1,276,11,0,0,0,0
+HH2406T,10,222,District - Begusarai,Urban,Near the premises,170,23,3,1,15,123,1,0,0,1,3
+HH2406T,10,222,District - Begusarai,Urban,Away,59,8,0,0,3,46,1,0,0,0,1
+HH2406T,10,223,District - Khagaria,Total,Total,2368,219,131,24,10,1833,77,1,1,1,71
+HH2406T,10,223,District - Khagaria,Total,Within the premises,798,88,29,5,3,643,30,0,0,0,0
+HH2406T,10,223,District - Khagaria,Total,Near the premises,1066,74,55,13,4,861,39,1,1,1,17
+HH2406T,10,223,District - Khagaria,Total,Away,504,57,47,6,3,329,8,0,0,0,54
+HH2406T,10,223,District - Khagaria,Rural,Total,2312,205,130,24,10,1793,77,1,1,1,70
+HH2406T,10,223,District - Khagaria,Rural,Within the premises,763,77,29,5,3,619,30,0,0,0,0
+HH2406T,10,223,District - Khagaria,Rural,Near the premises,1052,71,54,13,4,852,39,1,1,1,16
+HH2406T,10,223,District - Khagaria,Rural,Away,497,57,47,6,3,322,8,0,0,0,54
+HH2406T,10,223,District - Khagaria,Urban,Total,56,14,1,0,0,40,0,0,0,0,1
+HH2406T,10,223,District - Khagaria,Urban,Within the premises,35,11,0,0,0,24,0,0,0,0,0
+HH2406T,10,223,District - Khagaria,Urban,Near the premises,14,3,1,0,0,9,0,0,0,0,1
+HH2406T,10,223,District - Khagaria,Urban,Away,7,0,0,0,0,7,0,0,0,0,0
+HH2406T,10,224,District - Bhagalpur,Total,Total,17622,762,881,155,2004,12036,1357,12,26,36,353
+HH2406T,10,224,District - Bhagalpur,Total,Within the premises,6504,379,187,41,112,5037,748,0,0,0,0
+HH2406T,10,224,District - Bhagalpur,Total,Near the premises,7397,238,447,56,797,5143,507,8,18,27,156
+HH2406T,10,224,District - Bhagalpur,Total,Away,3721,145,247,58,1095,1856,102,4,8,9,197
+HH2406T,10,224,District - Bhagalpur,Rural,Total,16041,503,687,149,1872,11315,1128,9,21,34,323
+HH2406T,10,224,District - Bhagalpur,Rural,Within the premises,5585,229,152,36,79,4550,539,0,0,0,0
+HH2406T,10,224,District - Bhagalpur,Rural,Near the premises,6913,145,294,56,757,4966,503,5,14,26,147
+HH2406T,10,224,District - Bhagalpur,Rural,Away,3543,129,241,57,1036,1799,86,4,7,8,176
+HH2406T,10,224,District - Bhagalpur,Urban,Total,1581,259,194,6,132,721,229,3,5,2,30
+HH2406T,10,224,District - Bhagalpur,Urban,Within the premises,919,150,35,5,33,487,209,0,0,0,0
+HH2406T,10,224,District - Bhagalpur,Urban,Near the premises,484,93,153,0,40,177,4,3,4,1,9
+HH2406T,10,224,District - Bhagalpur,Urban,Away,178,16,6,1,59,57,16,0,1,1,21
+HH2406T,10,225,District - Banka,Total,Total,20676,663,395,326,6954,10956,176,75,885,66,180
+HH2406T,10,225,District - Banka,Total,Within the premises,1275,127,41,13,135,922,37,0,0,0,0
+HH2406T,10,225,District - Banka,Total,Near the premises,10115,420,154,195,2870,6262,112,5,31,14,52
+HH2406T,10,225,District - Banka,Total,Away,9286,116,200,118,3949,3772,27,70,854,52,128
+HH2406T,10,225,District - Banka,Rural,Total,20411,635,384,324,6947,10745,173,75,885,64,179
+HH2406T,10,225,District - Banka,Rural,Within the premises,1071,113,32,13,131,748,34,0,0,0,0
+HH2406T,10,225,District - Banka,Rural,Near the premises,10066,407,152,193,2867,6236,112,5,31,12,51
+HH2406T,10,225,District - Banka,Rural,Away,9274,115,200,118,3949,3761,27,70,854,52,128
+HH2406T,10,225,District - Banka,Urban,Total,265,28,11,2,7,211,3,0,0,2,1
+HH2406T,10,225,District - Banka,Urban,Within the premises,204,14,9,0,4,174,3,0,0,0,0
+HH2406T,10,225,District - Banka,Urban,Near the premises,49,13,2,2,3,26,0,0,0,2,1
+HH2406T,10,225,District - Banka,Urban,Away,12,1,0,0,0,11,0,0,0,0,0
+HH2406T,10,226,District - Munger,Total,Total,5783,395,204,189,2045,2730,45,13,109,17,36
+HH2406T,10,226,District - Munger,Total,Within the premises,1518,289,52,16,122,1000,39,0,0,0,0
+HH2406T,10,226,District - Munger,Total,Near the premises,2870,75,107,68,1270,1305,5,8,4,15,13
+HH2406T,10,226,District - Munger,Total,Away,1395,31,45,105,653,425,1,5,105,2,23
+HH2406T,10,226,District - Munger,Rural,Total,4932,197,179,176,2023,2204,6,13,109,14,11
+HH2406T,10,226,District - Munger,Rural,Within the premises,797,95,39,6,113,539,5,0,0,0,0
+HH2406T,10,226,District - Munger,Rural,Near the premises,2783,71,98,66,1265,1256,1,8,4,12,2
+HH2406T,10,226,District - Munger,Rural,Away,1352,31,42,104,645,409,0,5,105,2,9
+HH2406T,10,226,District - Munger,Urban,Total,851,198,25,13,22,526,39,0,0,3,25
+HH2406T,10,226,District - Munger,Urban,Within the premises,721,194,13,10,9,461,34,0,0,0,0
+HH2406T,10,226,District - Munger,Urban,Near the premises,87,4,9,2,5,49,4,0,0,3,11
+HH2406T,10,226,District - Munger,Urban,Away,43,0,3,1,8,16,1,0,0,0,14
+HH2406T,10,227,District - Lakhisarai,Total,Total,2796,103,126,46,1068,1312,23,51,20,10,37
+HH2406T,10,227,District - Lakhisarai,Total,Within the premises,615,29,30,20,34,485,17,0,0,0,0
+HH2406T,10,227,District - Lakhisarai,Total,Near the premises,1085,46,84,13,362,546,3,8,3,9,11
+HH2406T,10,227,District - Lakhisarai,Total,Away,1096,28,12,13,672,281,3,43,17,1,26
+HH2406T,10,227,District - Lakhisarai,Rural,Total,2567,77,121,41,1063,1151,8,50,19,9,28
+HH2406T,10,227,District - Lakhisarai,Rural,Within the premises,520,21,28,16,31,421,3,0,0,0,0
+HH2406T,10,227,District - Lakhisarai,Rural,Near the premises,1049,38,82,13,362,525,2,7,3,8,9
+HH2406T,10,227,District - Lakhisarai,Rural,Away,998,18,11,12,670,205,3,43,16,1,19
+HH2406T,10,227,District - Lakhisarai,Urban,Total,229,26,5,5,5,161,15,1,1,1,9
+HH2406T,10,227,District - Lakhisarai,Urban,Within the premises,95,8,2,4,3,64,14,0,0,0,0
+HH2406T,10,227,District - Lakhisarai,Urban,Near the premises,36,8,2,0,0,21,1,1,0,1,2
+HH2406T,10,227,District - Lakhisarai,Urban,Away,98,10,1,1,2,76,0,0,1,0,7
+HH2406T,10,228,District - Sheikhpura,Total,Total,1075,85,65,25,92,757,6,1,2,3,39
+HH2406T,10,228,District - Sheikhpura,Total,Within the premises,411,36,27,17,27,303,1,0,0,0,0
+HH2406T,10,228,District - Sheikhpura,Total,Near the premises,364,22,24,5,26,265,4,1,2,3,12
+HH2406T,10,228,District - Sheikhpura,Total,Away,300,27,14,3,39,189,1,0,0,0,27
+HH2406T,10,228,District - Sheikhpura,Rural,Total,908,55,52,22,63,671,4,1,2,2,36
+HH2406T,10,228,District - Sheikhpura,Rural,Within the premises,329,22,15,14,23,254,1,0,0,0,0
+HH2406T,10,228,District - Sheikhpura,Rural,Near the premises,338,19,23,5,24,249,3,1,2,2,10
+HH2406T,10,228,District - Sheikhpura,Rural,Away,241,14,14,3,16,168,0,0,0,0,26
+HH2406T,10,228,District - Sheikhpura,Urban,Total,167,30,13,3,29,86,2,0,0,1,3
+HH2406T,10,228,District - Sheikhpura,Urban,Within the premises,82,14,12,3,4,49,0,0,0,0,0
+HH2406T,10,228,District - Sheikhpura,Urban,Near the premises,26,3,1,0,2,16,1,0,0,1,2
+HH2406T,10,228,District - Sheikhpura,Urban,Away,59,13,0,0,23,21,1,0,0,0,1
+HH2406T,10,229,District - Nalanda,Total,Total,6472,451,535,196,527,4432,58,13,11,22,227
+HH2406T,10,229,District - Nalanda,Total,Within the premises,2585,297,183,81,123,1856,45,0,0,0,0
+HH2406T,10,229,District - Nalanda,Total,Near the premises,2240,93,267,63,179,1511,7,12,8,18,82
+HH2406T,10,229,District - Nalanda,Total,Away,1647,61,85,52,225,1065,6,1,3,4,145
+HH2406T,10,229,District - Nalanda,Rural,Total,5389,210,357,163,436,3974,18,8,6,16,201
+HH2406T,10,229,District - Nalanda,Rural,Within the premises,1899,111,110,66,75,1527,10,0,0,0,0
+HH2406T,10,229,District - Nalanda,Rural,Near the premises,1981,56,177,51,161,1439,5,7,3,12,70
+HH2406T,10,229,District - Nalanda,Rural,Away,1509,43,70,46,200,1008,3,1,3,4,131
+HH2406T,10,229,District - Nalanda,Urban,Total,1083,241,178,33,91,458,40,5,5,6,26
+HH2406T,10,229,District - Nalanda,Urban,Within the premises,686,186,73,15,48,329,35,0,0,0,0
+HH2406T,10,229,District - Nalanda,Urban,Near the premises,259,37,90,12,18,72,2,5,5,6,12
+HH2406T,10,229,District - Nalanda,Urban,Away,138,18,15,6,25,57,3,0,0,0,14
+HH2406T,10,230,District - Patna,Total,Total,13696,3034,1052,222,471,7356,1097,9,24,22,409
+HH2406T,10,230,District - Patna,Total,Within the premises,7481,2545,509,89,148,3142,1048,0,0,0,0
+HH2406T,10,230,District - Patna,Total,Near the premises,4463,380,429,88,227,3045,36,9,17,15,217
+HH2406T,10,230,District - Patna,Total,Away,1752,109,114,45,96,1169,13,0,7,7,192
+HH2406T,10,230,District - Patna,Rural,Total,7646,401,366,136,362,5986,81,5,14,19,276
+HH2406T,10,230,District - Patna,Rural,Within the premises,2781,228,89,26,94,2289,55,0,0,0,0
+HH2406T,10,230,District - Patna,Rural,Near the premises,3438,119,200,68,187,2686,14,5,8,13,138
+HH2406T,10,230,District - Patna,Rural,Away,1427,54,77,42,81,1011,12,0,6,6,138
+HH2406T,10,230,District - Patna,Urban,Total,6050,2633,686,86,109,1370,1016,4,10,3,133
+HH2406T,10,230,District - Patna,Urban,Within the premises,4700,2317,420,63,54,853,993,0,0,0,0
+HH2406T,10,230,District - Patna,Urban,Near the premises,1025,261,229,20,40,359,22,4,9,2,79
+HH2406T,10,230,District - Patna,Urban,Away,325,55,37,3,15,158,1,0,1,1,54
+HH2406T,10,231,District - Bhojpur,Total,Total,8731,400,415,60,146,7497,36,2,18,21,136
+HH2406T,10,231,District - Bhojpur,Total,Within the premises,5503,237,147,33,24,5032,30,0,0,0,0
+HH2406T,10,231,District - Bhojpur,Total,Near the premises,2356,140,199,23,69,1809,6,1,16,19,74
+HH2406T,10,231,District - Bhojpur,Total,Away,872,23,69,4,53,656,0,1,2,2,62
+HH2406T,10,231,District - Bhojpur,Rural,Total,7822,350,373,54,145,6725,22,2,14,21,116
+HH2406T,10,231,District - Bhojpur,Rural,Within the premises,4799,208,121,31,23,4398,18,0,0,0,0
+HH2406T,10,231,District - Bhojpur,Rural,Near the premises,2197,125,189,19,69,1689,4,1,14,19,68
+HH2406T,10,231,District - Bhojpur,Rural,Away,826,17,63,4,53,638,0,1,0,2,48
+HH2406T,10,231,District - Bhojpur,Urban,Total,909,50,42,6,1,772,14,0,4,0,20
+HH2406T,10,231,District - Bhojpur,Urban,Within the premises,704,29,26,2,1,634,12,0,0,0,0
+HH2406T,10,231,District - Bhojpur,Urban,Near the premises,159,15,10,4,0,120,2,0,2,0,6
+HH2406T,10,231,District - Bhojpur,Urban,Away,46,6,6,0,0,18,0,0,2,0,14
+HH2406T,10,232,District - Buxar,Total,Total,6811,255,196,76,140,5880,67,1,5,10,181
+HH2406T,10,232,District - Buxar,Total,Within the premises,4453,155,82,30,15,4118,53,0,0,0,0
+HH2406T,10,232,District - Buxar,Total,Near the premises,1700,83,90,25,52,1350,8,1,4,8,79
+HH2406T,10,232,District - Buxar,Total,Away,658,17,24,21,73,412,6,0,1,2,102
+HH2406T,10,232,District - Buxar,Rural,Total,5776,173,135,56,132,5132,37,1,5,9,96
+HH2406T,10,232,District - Buxar,Rural,Within the premises,3801,107,55,26,12,3574,27,0,0,0,0
+HH2406T,10,232,District - Buxar,Rural,Near the premises,1465,54,56,12,48,1225,6,1,4,7,52
+HH2406T,10,232,District - Buxar,Rural,Away,510,12,24,18,72,333,4,0,1,2,44
+HH2406T,10,232,District - Buxar,Urban,Total,1035,82,61,20,8,748,30,0,0,1,85
+HH2406T,10,232,District - Buxar,Urban,Within the premises,652,48,27,4,3,544,26,0,0,0,0
+HH2406T,10,232,District - Buxar,Urban,Near the premises,235,29,34,13,4,125,2,0,0,1,27
+HH2406T,10,232,District - Buxar,Urban,Away,148,5,0,3,1,79,2,0,0,0,58
+HH2406T,10,233,District - Kaimur (Bhabua),Total,Total,11711,191,199,160,3395,6721,34,443,370,45,153
+HH2406T,10,233,District - Kaimur (Bhabua),Total,Within the premises,2847,96,44,24,35,2630,18,0,0,0,0
+HH2406T,10,233,District - Kaimur (Bhabua),Total,Near the premises,3513,66,99,78,593,2579,5,8,2,13,70
+HH2406T,10,233,District - Kaimur (Bhabua),Total,Away,5351,29,56,58,2767,1512,11,435,368,32,83
+HH2406T,10,233,District - Kaimur (Bhabua),Rural,Total,11402,175,180,158,3395,6463,23,443,370,45,150
+HH2406T,10,233,District - Kaimur (Bhabua),Rural,Within the premises,2603,82,36,23,35,2419,8,0,0,0,0
+HH2406T,10,233,District - Kaimur (Bhabua),Rural,Near the premises,3470,66,96,77,593,2544,4,8,2,13,67
+HH2406T,10,233,District - Kaimur (Bhabua),Rural,Away,5329,27,48,58,2767,1500,11,435,368,32,83
+HH2406T,10,233,District - Kaimur (Bhabua),Urban,Total,309,16,19,2,0,258,11,0,0,0,3
+HH2406T,10,233,District - Kaimur (Bhabua),Urban,Within the premises,244,14,8,1,0,211,10,0,0,0,0
+HH2406T,10,233,District - Kaimur (Bhabua),Urban,Near the premises,43,0,3,1,0,35,1,0,0,0,3
+HH2406T,10,233,District - Kaimur (Bhabua),Urban,Away,22,2,8,0,0,12,0,0,0,0,0
+HH2406T,10,234,District - Rohtas,Total,Total,10307,602,270,123,2264,6615,51,20,185,42,135
+HH2406T,10,234,District - Rohtas,Total,Within the premises,4563,485,135,37,21,3840,45,0,0,0,0
+HH2406T,10,234,District - Rohtas,Total,Near the premises,2566,86,69,26,353,1946,6,3,19,19,39
+HH2406T,10,234,District - Rohtas,Total,Away,3178,31,66,60,1890,829,0,17,166,23,96
+HH2406T,10,234,District - Rohtas,Rural,Total,8882,257,127,113,2238,5790,3,19,179,37,119
+HH2406T,10,234,District - Rohtas,Rural,Within the premises,3443,182,38,31,17,3173,2,0,0,0,0
+HH2406T,10,234,District - Rohtas,Rural,Near the premises,2364,53,58,24,341,1827,1,2,13,14,31
+HH2406T,10,234,District - Rohtas,Rural,Away,3075,22,31,58,1880,790,0,17,166,23,88
+HH2406T,10,234,District - Rohtas,Urban,Total,1425,345,143,10,26,825,48,1,6,5,16
+HH2406T,10,234,District - Rohtas,Urban,Within the premises,1120,303,97,6,4,667,43,0,0,0,0
+HH2406T,10,234,District - Rohtas,Urban,Near the premises,202,33,11,2,12,119,5,1,6,5,8
+HH2406T,10,234,District - Rohtas,Urban,Away,103,9,35,2,10,39,0,0,0,0,8
+HH2406T,10,235,District - Aurangabad,Total,Total,5678,182,142,126,304,4662,36,7,36,7,176
+HH2406T,10,235,District - Aurangabad,Total,Within the premises,2918,82,58,55,34,2662,27,0,0,0,0
+HH2406T,10,235,District - Aurangabad,Total,Near the premises,1879,78,58,47,119,1460,6,7,32,5,67
+HH2406T,10,235,District - Aurangabad,Total,Away,881,22,26,24,151,540,3,0,4,2,109
+HH2406T,10,235,District - Aurangabad,Rural,Total,5248,161,130,118,294,4324,17,6,36,7,155
+HH2406T,10,235,District - Aurangabad,Rural,Within the premises,2570,65,47,49,33,2368,8,0,0,0,0
+HH2406T,10,235,District - Aurangabad,Rural,Near the premises,1806,74,57,45,112,1418,6,6,32,5,51
+HH2406T,10,235,District - Aurangabad,Rural,Away,872,22,26,24,149,538,3,0,4,2,104
+HH2406T,10,235,District - Aurangabad,Urban,Total,430,21,12,8,10,338,19,1,0,0,21
+HH2406T,10,235,District - Aurangabad,Urban,Within the premises,348,17,11,6,1,294,19,0,0,0,0
+HH2406T,10,235,District - Aurangabad,Urban,Near the premises,73,4,1,2,7,42,0,1,0,0,16
+HH2406T,10,235,District - Aurangabad,Urban,Away,9,0,0,0,2,2,0,0,0,0,5
+HH2406T,10,236,District - Gaya,Total,Total,11154,837,563,147,998,7987,221,45,30,24,302
+HH2406T,10,236,District - Gaya,Total,Within the premises,4347,529,151,42,60,3386,179,0,0,0,0
+HH2406T,10,236,District - Gaya,Total,Near the premises,4029,185,217,74,412,2936,29,33,14,15,114
+HH2406T,10,236,District - Gaya,Total,Away,2778,123,195,31,526,1665,13,12,16,9,188
+HH2406T,10,236,District - Gaya,Rural,Total,8692,241,291,110,984,6714,50,38,25,15,224
+HH2406T,10,236,District - Gaya,Rural,Within the premises,2645,83,53,23,56,2405,25,0,0,0,0
+HH2406T,10,236,District - Gaya,Rural,Near the premises,3672,123,146,64,408,2777,21,26,12,11,84
+HH2406T,10,236,District - Gaya,Rural,Away,2375,35,92,23,520,1532,4,12,13,4,140
+HH2406T,10,236,District - Gaya,Urban,Total,2462,596,272,37,14,1273,171,7,5,9,78
+HH2406T,10,236,District - Gaya,Urban,Within the premises,1702,446,98,19,4,981,154,0,0,0,0
+HH2406T,10,236,District - Gaya,Urban,Near the premises,357,62,71,10,4,159,8,7,2,4,30
+HH2406T,10,236,District - Gaya,Urban,Away,403,88,103,8,6,133,9,0,3,5,48
+HH2406T,10,237,District - Nawada,Total,Total,5464,144,180,101,469,4195,42,4,33,24,272
+HH2406T,10,237,District - Nawada,Total,Within the premises,1718,61,41,32,39,1509,36,0,0,0,0
+HH2406T,10,237,District - Nawada,Total,Near the premises,2244,58,91,42,255,1650,3,0,4,16,125
+HH2406T,10,237,District - Nawada,Total,Away,1502,25,48,27,175,1036,3,4,29,8,147
+HH2406T,10,237,District - Nawada,Rural,Total,5037,124,154,95,459,3873,14,3,30,21,264
+HH2406T,10,237,District - Nawada,Rural,Within the premises,1380,45,23,29,36,1239,8,0,0,0,0
+HH2406T,10,237,District - Nawada,Rural,Near the premises,2185,56,84,40,248,1618,3,0,1,14,121
+HH2406T,10,237,District - Nawada,Rural,Away,1472,23,47,26,175,1016,3,3,29,7,143
+HH2406T,10,237,District - Nawada,Urban,Total,427,20,26,6,10,322,28,1,3,3,8
+HH2406T,10,237,District - Nawada,Urban,Within the premises,338,16,18,3,3,270,28,0,0,0,0
+HH2406T,10,237,District - Nawada,Urban,Near the premises,59,2,7,2,7,32,0,0,3,2,4
+HH2406T,10,237,District - Nawada,Urban,Away,30,2,1,1,0,20,0,1,0,1,4
+HH2406T,10,238,District - Jamui,Total,Total,18059,522,288,291,9632,5828,72,311,864,84,167
+HH2406T,10,238,District - Jamui,Total,Within the premises,1010,221,45,27,131,566,20,0,0,0,0
+HH2406T,10,238,District - Jamui,Total,Near the premises,8881,173,167,103,4682,3541,17,42,84,37,35
+HH2406T,10,238,District - Jamui,Total,Away,8168,128,76,161,4819,1721,35,269,780,47,132
+HH2406T,10,238,District - Jamui,Rural,Total,17572,331,277,287,9602,5620,55,311,861,81,147
+HH2406T,10,238,District - Jamui,Rural,Within the premises,745,65,38,23,125,489,5,0,0,0,0
+HH2406T,10,238,District - Jamui,Rural,Near the premises,8752,140,164,103,4673,3472,15,42,82,34,27
+HH2406T,10,238,District - Jamui,Rural,Away,8075,126,75,161,4804,1659,35,269,779,47,120
+HH2406T,10,238,District - Jamui,Urban,Total,487,191,11,4,30,208,17,0,3,3,20
+HH2406T,10,238,District - Jamui,Urban,Within the premises,265,156,7,4,6,77,15,0,0,0,0
+HH2406T,10,238,District - Jamui,Urban,Near the premises,129,33,3,0,9,69,2,0,2,3,8
+HH2406T,10,238,District - Jamui,Urban,Away,93,2,1,0,15,62,0,0,1,0,12
+HH2406T,10,239,District - Jehanabad ,Total,Total,1971,100,191,41,53,1442,2,1,6,4,131
+HH2406T,10,239,District - Jehanabad ,Total,Within the premises,882,51,98,19,13,699,2,0,0,0,0
+HH2406T,10,239,District - Jehanabad ,Total,Near the premises,755,47,83,20,20,520,0,1,0,3,61
+HH2406T,10,239,District - Jehanabad ,Total,Away,334,2,10,2,20,223,0,0,6,1,70
+HH2406T,10,239,District - Jehanabad ,Rural,Total,1759,61,155,35,49,1326,0,0,6,4,123
+HH2406T,10,239,District - Jehanabad ,Rural,Within the premises,752,15,92,17,9,619,0,0,0,0,0
+HH2406T,10,239,District - Jehanabad ,Rural,Near the premises,690,44,56,16,20,494,0,0,0,3,57
+HH2406T,10,239,District - Jehanabad ,Rural,Away,317,2,7,2,20,213,0,0,6,1,66
+HH2406T,10,239,District - Jehanabad ,Urban,Total,212,39,36,6,4,116,2,1,0,0,8
+HH2406T,10,239,District - Jehanabad ,Urban,Within the premises,130,36,6,2,4,80,2,0,0,0,0
+HH2406T,10,239,District - Jehanabad ,Urban,Near the premises,65,3,27,4,0,26,0,1,0,0,4
+HH2406T,10,239,District - Jehanabad ,Urban,Away,17,0,3,0,0,10,0,0,0,0,4
+HH2406T,10,240,District - Arwal,Total,Total,773,12,12,10,29,692,3,0,1,2,12
+HH2406T,10,240,District - Arwal,Total,Within the premises,503,8,2,3,9,479,2,0,0,0,0
+HH2406T,10,240,District - Arwal,Total,Near the premises,195,3,9,4,10,158,1,0,1,2,7
+HH2406T,10,240,District - Arwal,Total,Away,75,1,1,3,10,55,0,0,0,0,5
+HH2406T,10,240,District - Arwal,Rural,Total,754,12,7,10,28,679,3,0,1,2,12
+HH2406T,10,240,District - Arwal,Rural,Within the premises,490,8,2,3,8,467,2,0,0,0,0
+HH2406T,10,240,District - Arwal,Rural,Near the premises,189,3,4,4,10,157,1,0,1,2,7
+HH2406T,10,240,District - Arwal,Rural,Away,75,1,1,3,10,55,0,0,0,0,5
+HH2406T,10,240,District - Arwal,Urban,Total,19,0,5,0,1,13,0,0,0,0,0
+HH2406T,10,240,District - Arwal,Urban,Within the premises,13,0,0,0,1,12,0,0,0,0,0
+HH2406T,10,240,District - Arwal,Urban,Near the premises,6,0,5,0,0,1,0,0,0,0,0
+HH2406T,10,240,District - Arwal,Urban,Away,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,
+Note:,Drinking water source 'Near the Premises' indicates that the source availed is within a radius of,,,,,,,,,,,,,,,
+,100 meters in urban areas and 500 meters in rural areas.,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DDW-HH01CITY-1000-2011.XLS",
+  "raw_sha256": "0e0902ad85f864fea392c35a9066f53cd668939dfaa13d190942255e3c00f712",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/7217/download/10329",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:10:51+00:00",
+  "obtained_on": null,
+  "kind": "xls",
+  "outputs": [
+    "data/processed/BR-DM-02/0e0902ad85f8/sheets/Sheet1.csv",
+    "data/processed/BR-DM-02/0e0902ad85f8/sheets/Sheet2.csv",
+    "data/processed/BR-DM-02/0e0902ad85f8/sheets/Sheet3.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}
