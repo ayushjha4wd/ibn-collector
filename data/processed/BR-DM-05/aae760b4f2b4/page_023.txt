@@ -1,0 +1,39 @@
+EXECUTIVE SUMMARY
+The Sample Registration System (SRS) is the largest demographic survey in the
+country mandated to provide annual estimates of fertility as well as mortality indicators
+at the State and National level. The present Report contains data on fertility and
+mortality indicators for the year 2020 for India and bigger States/UTs. The estimates
+are segregated by residence and also by gender, wherever required.
+2. The salient features of the report are as summarized below.
+ The Crude Birth Rate (CBR) at the National level during 2020 stands at 19.5
+exhibiting a decline of 0.2 points over 2019. Among the bigger States/UTs, the
+maximum CBR has been reported in Bihar (25.5) and the minimum in Kerala
+(13.2).
+ There has been a decline of 1.3 points in the CBR for the country from 2015 to
+2020. The corresponding decline in rural CBR is 1.0 points and in urban CBR
+0.9 points.
+ The Crude Death Rate (CDR) for the country is 6.0 in 2020. The maximum
+CDR has been reported for Chhattisgarh (7.9) and the minimum for Delhi (3.6).
+ During the last five years, the decline in National CDR has been to the tune of
+0.5 points. The corresponding decline in female CDR is 0.7 points whereas in
+male CDR it is 0.3 points.
+ The Infant Mortality Rate (IMR) has also registered 2-point decline to 28 in
+2020 from 30 in 2019 at the National level. The maximum IMR has been
+observed in Madhya Pradesh (43) and the minimum in Kerala (6).
+ IMR for the country has come down to 28 in 2020 from 37 in 2015, a decline of
+9 points over last 5 years and an annual average decline of about 1.8 points.
+The corresponding decline in rural IMR has been to the tune of 10 points (41 in
+2015 to 31 in 2020) against a decline of 6 points in urban IMR (25 in 2015 to 19
+in 2020). Both the gender have shown decline in the period 2015-20.
+ Despite this decline, one in every 35 infants at the National level, one in every
+32 infants in rural areas and one in every 52 infants in urban areas still die
+within one year of life.
+ In 2020, U5MR for the country has shown a decline of 3 points from 2019 (32
+in 2020 against 35 in 2019). There has been a decline of 4 points in male U5MR
+and 3 points in female U5MR during the corresponding period.
+ Sex Ratio at Birth for the country has gone up by 3 points to 907 in 2018-20
+from 904 in 2017-19. Kerala has reported the highest Sex Ratio at Birth (974)
+while Uttarakhand, the lowest (844).
+ Total Fertility Rate (TFR) for the country has come down to 2.0 in 2020 from
+2.1 in 2019. During 2020, Bihar has reported the highest TFR (3.0) while Delhi,
+xxiii

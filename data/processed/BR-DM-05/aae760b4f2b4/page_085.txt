@@ -1,0 +1,36 @@
+3.7 The Statement 16 below presents sex ratio at birth during the period 2018-20. The sex
+ratio at birth for the country for the period 2018-20 (3-years average) has been estimated at
+907. At National level, it is 907 in rural areas and 910 in urban areas. Among the bigger
+States/UTs, the sex ratio at birth varies from 974 in Kerala to 844 in Uttarakhand. In the rural
+areas, the highest and the lowest sex ratio at birth are in the States of Kerala (973) and
+Uttarakhand (853) respectively. The sex ratio at birth in urban areas varies from 975 in Kerala
+to 821 in Uttarakhand. Chart 35 depicts the variation in Sex Ratio at birth by residence among
+bigger States/UTs in the country.
+Statement 16
+Sex Ratio (female per 1000 male) at birth by Residence,
+India and bigger States/UTs, 2018-2020
+India and bigger States/UTs Total Rural Urban
+India 907 907 910
+Andhra Pradesh 926 930 919
+Assam 923 923 930
+Bihar 895 894 897
+Chhattisgarh 958 970 910
+Delhi 860 972 857
+Gujarat 877 882 869
+Haryana 870 868 874
+Himachal Pradesh 950 952 920
+Jammu & Kashmir 921 918 930
+Jharkhand 914 915 910
+Karnataka 916 942 871
+Kerala 974 973 975
+Madhya Pradesh 919 908 960
+Maharashtra 876 881 870
+Orissa 925 928 907
+Punjab 897 874 932
+Rajasthan 911 914 901
+Tamil Nadu 917 902 930
+Telangana 892 903 875
+Uttar Pradesh 905 890 960
+Uttaranchal 844 853 821
+West Bengal 936 941 920
+58

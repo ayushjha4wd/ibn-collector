@@ -1,0 +1,39 @@
+CHAPTER - 3
+ESTIMATES OF FERTILITY INDICATORS
+SRS has been providing data for estimating various fertility measures since its inception.
+The fertility indicators considered in this chapter are Crude Birth Rate, General Fertility Rate,
+Age Specific/Marital Fertility Rates, Total /Marital Fertility Rates and Gross Reproduction Rate.
+Apart from this, the chapter includes Sex Ratio at birth. To examine the changes in the levels of
+fertility during the last decade, the average values of these fertility indicators for the years 2018-
+20 are compared with that for 2008-10.
+3.2 The Crude Birth Rate (CBR) at all India level had declined from 36.9 in 1971 to 33.9 in
+1981, registering a fall of about 8 per cent. During 1991-2020, the decline has been about 34
+percent, from 29.5 to 19.5. The rural-urban differential has also narrowed over these years.
+However, the CBR has continued to be higher in rural areas compared to urban areas in the last
+three decades. The total fertility rate (TFR) has declined from 5.2 to 4.5 during 1971 to 1981 and
+from 3.6 to 2.0 during 1991 to 2020. The TFR in rural areas has declined from 5.4 to 2.2 from
+1971 to 2020 whereas the corresponding decline in urban areas has been from 4.1 to 1.6 during
+the same period. In 2020, around 82.6 percent of the deliveries were institutional which includes
+Government as well as private hospitals. The percentage of institutional deliveries in urban areas
+is 95.0 as against about 78.2 percent recorded in rural areas.
+3.3 The data on most of the fertility indicators has been presented by age, sex and residence
+for all bigger States/UTs and India. This chapter also includes data on fertility by level of
+education, order of birth, birth interval and medical attention at birth.
+3.4 Apart from the fertility indicators at State and National levels, the SRS report 2020 also
+provides estimates of birth rates at sub-State, viz. NSS Natural Division Level. NSS natural
+divisions have been formed taking into consideration the geography of the State and by
+grouping contiguous districts having similar topography, population density, cropping pattern
+and rainfall etc. The Table 11 of this report contains data on birth rate besides death and infant
+mortality rate for 71 Natural Divisions of 22 bigger States/UTs.
+3.5 The following Statement 14 provides the Crude Birth Rate (CBR) by residence for India
+and States/UTs for the year 2020. Although the birth rate has been estimated for all the
+states/UTs of India, the other fertility indicators are presented only for Bigger States/UTs in the
+report. The CBR at national level is 19.5 varying from 21.1 in rural to 16.1 in urban areas. Bihar
+has the highest birth rate in rural areas (26.2) followed by Uttar Pradesh (26.1) and Madhya
+Pradesh (26.0); whereas Uttar Pradesh has the highest birth rate in urban areas (22.1) followed
+by Dadra and Nagar Haveli and Daman and Diu (21.4) and Bihar (21.0). The lowest CBR was
+recorded in rural areas of A& N Islands (11.5) and in urban areas of A & N Islands (9.9). Based
+on the figures in the Statement 14 given below, the graphical representation of birth rate of
+States/UTs by residence is depicted in Chart 29. Chart 30 gives the distribution of States/UTs by
+values of birth rate for rural and urban areas.
+49

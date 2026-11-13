@@ -1,0 +1,39 @@
+2.6 Percentage of population of age less than 15 years for India and bigger States/UTs by
+Sex and Residence is given below in Statement 5. At the National level, 26.5 percent of rural
+population in the year 2020 is below 15 years of age against 21.5 percent for urban areas.
+Percentage of population below 15 years of age in rural areas varies from 19.0 in Telangana
+and Andhra Pradesh to 33.6 percent in Bihar. In urban areas, it varies from 17.2 in Jammu &
+Kashmir to 28.5 percent in Bihar. Percentage of population below 15 years of age among
+female varies from 18.5 percent in Tamil Nadu to 32.4 percent in Bihar. In case of male,
+percentage of population below 15 years of age varies from 19.0 percent in Andhra Pradesh
+to 33.5 percent in Bihar. Chart 6 and 7 gives the pictorial presentation of percentage of
+persons below 15 years of age for bigger States/UTs by Residence and Sex respectively.
+Statement 5
+Percentage of Population in the working age group 0-14 years by Sex and Residence, India and
+bigger States/UTs, 2020
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 24.8 25.4 24.3 26.5 27.0 25.9 21.5 22.0 21.0
+Andhra Pradesh 19.0 19.0 19.0 19.0 19.1 18.9 18.9 18.7 19.0
+Assam 26.7 27.2 26.2 27.9 28.5 27.4 19.5 20.0 19.1
+Bihar 33.0 33.5 32.4 33.6 34.3 33.0 28.5 28.7 28.2
+Chhattisgarh 27.4 27.6 27.1 28.3 28.4 28.3 24.2 25.0 23.4
+Delhi 22.6 22.5 22.7 22.1 21.9 22.5 22.6 22.5 22.7
+Gujarat 23.9 24.6 23.2 25.4 25.9 24.8 22.2 23.1 21.3
+Haryana 25.2 26.2 24.0 26.0 26.9 24.9 23.8 25.0 22.4
+Himachal Pradesh 20.9 22.0 19.8 21.0 22.3 19.8 19.3 19.3 19.3
+Jammu & Kashmir 20.2 20.9 19.6 21.6 22.2 21.0 17.2 17.9 16.4
+Jharkhand 28.6 29.2 27.9 30.2 31.0 29.3 23.6 23.8 23.5
+Karnataka 22.4 22.8 22.0 22.7 23.1 22.2 22.0 22.3 21.7
+Kerala 20.3 21.7 19.1 20.7 22.0 19.4 20.0 21.4 18.7
+Madhya Pradesh 28.5 28.8 28.3 29.8 29.9 29.7 24.9 25.6 24.1
+Maharashtra 23.0 23.6 22.3 24.9 25.8 23.9 20.7 21.0 20.4
+Odisha 22.1 22.2 21.9 22.3 22.4 22.2 20.9 21.3 20.5
+Punjab 19.7 20.3 19.1 20.0 20.7 19.3 19.4 19.8 18.9
+Rajasthan 27.9 28.9 26.8 29.2 30.2 28.1 24.2 25.1 23.3
+Tamil Nadu 19.1 19.6 18.5 20.6 21.4 19.8 17.7 17.9 17.4
+Telangana 19.9 20.2 19.6 19.0 19.3 18.7 21.3 21.5 21.1
+Uttar Pradesh 27.6 28.1 27.0 28.8 29.2 28.4 23.7 24.7 22.6
+Uttarakhand 27.9 29.0 26.7 28.5 30.0 27.0 26.1 26.3 25.9
+West Bengal 21.7 21.7 21.7 23.5 23.5 23.4 17.6 17.5 17.7
+17

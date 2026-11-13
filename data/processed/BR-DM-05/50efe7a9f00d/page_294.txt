@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2019
+Andhra Pradesh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 24.1 25.5 22.8 25.4 26.7 24.1 20.5 22.2 18.9
+1-4 1.5 1.8 1.1 1.8 2.4 1.3 0.6 0.6 0.7
+0-4 8.3 8.6 8.0 9.3 9.7 8.9 5.9 6.0 5.8
+5-9 0.2 0.3 0.0 0.3 0.5 0.0 0.0 0.0 0.0
+10-14 0.7 0.9 0.4 1.0 1.4 0.5 0.0 0.0 0.0
+15-19 0.6 0.7 0.5 0.8 0.9 0.7 0.2 0.3 0.0
+20-24 1.0 1.1 1.0 1.2 1.1 1.3 0.6 0.9 0.3
+25-29 1.2 1.5 0.8 1.2 1.7 0.7 1.1 1.3 1.0
+30-34 1.6 1.8 1.4 1.7 1.7 1.7 1.3 1.8 0.9
+35-39 2.2 2.8 1.7 2.9 3.6 2.2 0.9 1.2 0.6
+40-44 4.0 5.2 2.7 4.2 5.5 2.8 3.5 4.5 2.4
+45-49 5.3 6.3 4.1 6.1 7.3 4.6 3.7 4.1 3.1
+50-54 7.5 9.1 5.8 7.9 9.6 6.2 6.6 8.3 5.1
+55-59 13.0 15.9 9.9 12.9 16.3 9.5 13.2 15.2 10.9
+60-64 19.9 21.9 17.9 20.5 22.5 18.6 18.4 20.5 16.2
+65-69 27.9 27.4 28.4 29.6 28.3 31.1 22.9 24.6 21.0
+70-74 48.0 46.3 50.1 50.6 49.9 51.5 39.6 33.9 45.9
+75-79 75.8 70.4 82.2 76.9 74.3 80.0 72.8 60.7 88.5
+80-84 94.7 112.1 78.9 92.2 111.2 74.8 103.1 115.4 92.3
+85+ 110.1 104.4 115.6 108.0 100.7 115.6 118.6 122.5 115.8
+All ages 6.4 7.0 5.7 7.1 7.9 6.3 4.8 5.3 4.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2019
+Andhra Pradesh
+Indicators Total Rural Urban
+Child mortality rate 8 9 6
+Under-five mortality rate 31 35 21
+Infant mortality rate 25 28 19
+Neo-natal mortality rate 18 22 9
+Early neo-natal mortality rate 13 16 6
+Late neo-natal mortality rate 5 6 3
+Post neo-natal mortality rate 7 6 10
+Peri-natal mortality rate 14 17 7
+Still birth rate 1 1 1
+269

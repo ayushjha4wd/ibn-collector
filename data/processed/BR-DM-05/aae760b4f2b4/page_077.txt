@@ -1,0 +1,44 @@
+Statement 14
+CBR (Crude Birth Rate) by Residence, India and States/UTs, 2020
+India and States/UTs Total Rural Urban
+India 19.5 21.1 16.1
+Bigger States/UTs
+Andhra Pradesh 15.7 16.0 15.0
+Assam 20.8 21.9 14.3
+Bihar 25.5 26.2 21.0
+Chhattisgarh 22.0 23.4 17.3
+Delhi 14.2 15.5 14.1
+Gujarat 19.3 21.1 17.1
+Haryana 19.9 21.2 17.7
+Jammu & Kashmir 14.6 16.1 11.1
+Jharkhand 22.0 23.4 17.6
+Karnataka 16.5 17.5 15.0
+Kerala 13.2 13.1 13.3
+Madhya Pradesh 24.1 26.0 18.8
+Maharashtra 15.0 15.3 14.6
+Odisha 17.7 18.7 13.1
+Punjab 14.3 14.9 13.6
+Rajasthan 23.5 24.4 20.8
+Tamil Nadu 13.8 14.0 13.6
+Telangana 16.4 16.8 15.9
+Uttar Pradesh 25.1 26.1 22.1
+Uttarakhand 16.6 17.0 15.6
+West Bengal 14.6 16.1 11.2
+Smaller States
+Arunachal Pradesh 17.3 17.8 15.0
+Goa 12.1 11.7 12.4
+Himachal Pradesh 15.3 15.7 10.0
+Manipur 13.3 13.5 12.8
+Meghalaya 22.9 25.1 12.9
+Mizoram 14.4 16.8 11.7
+Nagaland 12.5 12.9 11.8
+Sikkim 15.6 14.0 18.2
+Tripura 12.6 13.4 10.7
+Smaller UTs
+A & N Islands 10.8 11.5 9.9
+Chandigarh 12.9 18.1 12.8
+Dadra and Nagar Haveli and Daman and 20.3 18.0 21.4
+DLaiud akh 14.3 15.2 10.8
+Puducherry 13.1 13.1 13.1
+Lakshadweep 14.6 20.1 13.1
+50

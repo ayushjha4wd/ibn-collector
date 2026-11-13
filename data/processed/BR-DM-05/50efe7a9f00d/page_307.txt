@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2019
+Maharashtra
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 16.8 15.7 18.1 22.9 20.2 26.1 10.5 10.9 9.9
+1-4 0.9 0.9 0.9 1.3 1.3 1.3 0.3 0.3 0.4
+0-4 4.3 4.1 4.6 5.3 4.8 5.9 2.9 3.0 2.8
+5-9 0.2 0.4 0.1 0.3 0.4 0.1 0.2 0.3 0.0
+10-14 0.3 0.3 0.2 0.4 0.4 0.4 0.1 0.2 0.0
+15-19 0.5 0.6 0.4 0.7 0.8 0.7 0.3 0.4 0.2
+20-24 0.5 0.6 0.3 0.7 0.9 0.4 0.2 0.3 0.2
+25-29 1.2 1.6 0.9 1.5 1.9 1.0 1.0 1.2 0.7
+30-34 1.6 1.9 1.2 2.0 2.5 1.4 1.2 1.4 1.0
+35-39 2.2 2.8 1.5 2.3 3.1 1.4 2.1 2.4 1.7
+40-44 3.1 3.7 2.4 3.2 4.0 2.3 3.0 3.4 2.6
+45-49 5.0 6.0 4.0 5.6 6.7 4.4 4.4 5.2 3.6
+50-54 7.5 9.0 5.8 7.3 9.2 5.2 7.8 8.8 6.5
+55-59 12.2 14.7 9.8 13.3 16.4 10.5 11.0 12.9 8.9
+60-64 17.8 22.3 13.2 17.7 23.1 12.5 17.9 21.3 14.2
+65-69 24.6 28.8 20.5 24.1 29.1 19.7 25.5 28.4 22.0
+70-74 34.2 39.8 29.4 35.7 41.8 30.5 31.5 36.2 27.2
+75-79 61.9 62.7 61.1 66.7 68.9 64.4 52.8 51.5 54.2
+80-84 87.1 82.7 91.9 92.8 91.8 94.0 78.2 69.1 88.6
+85+ 148.4 159.1 140.1 151.8 142.8 160.0 141.2 205.4 107.1
+All ages 5.4 5.9 4.8 6.2 6.7 5.6 4.4 4.9 3.9
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2019
+Maharashtra
+Indicators Total Rural Urban
+Child mortality rate 4 5 3
+Under-five mortality rate 21 27 13
+Infant mortality rate 17 22 12
+Neo-natal mortality rate 13 17 7
+Early neo-natal mortality rate 9 13 5
+Late neo-natal mortality rate 3 4 2
+Post neo-natal mortality rate 5 5 5
+Peri-natal mortality rate 12 16 6
+Still birth rate 3 4 1
+282

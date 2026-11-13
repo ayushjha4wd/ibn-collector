@@ -1,0 +1,36 @@
+Trend of Birth rate, Death rate, Infant Mortality rate, Total Fertility rate,
+Sex ratio at Birth and Sex ratio of children (0-4 age group), India
+Birth rate Death rate
+24.0 7.5
+7.0
+22.0
+6.5
+20.0
+6.0
+18.0
+5.5
+16.0 5.0
+2015 2016 2017 2018 2019 2020 2015 2016 2017 2018 2019 2020
+Total Rural Urban Total Male Female
+Infant mortality rate Total fertility rate
+3.0
+39
+37
+35 2.5
+33
+31
+2.0
+29
+27
+25 1.5
+2015 2016 2017 2018 2019 2020 2015 2016 2017 2018 2019 2020
+Total Male Female Total Rural Urban
+Sex ratio at birth
+920
+910
+900
+890
+880
+2014-16 2015-17 2016-18 2017-19 2018-20
+Total Rural Urban
+xxii

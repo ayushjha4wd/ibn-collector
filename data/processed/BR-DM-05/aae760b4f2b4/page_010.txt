@@ -1,0 +1,35 @@
+LIST OF CHARTS
+Page
+1. Flow chart 9
+2. Percentage distribution of population by broad age-groups and 12
+residence, India, 2020
+3. Population Pyramid, India, 2020 13
+4. Percentage of child population (0-4 years) to total population by 15
+residence, India and bigger States/UTs, 2020
+5. Percentage of child population (0-4 years) to total population by Sex, 16
+India and bigger States/UTs, 2020
+6. Percentage of population aged 0-14 years to total population by 18
+residence, India and bigger States/UTs, 2020
+7. Percentage of population aged 0-14 years to total population by Sex, 19
+India and bigger States/UTs, 2020
+8. Percentage of population aged 15-59 years to total population by 21
+residence, India and bigger States/UTs, 2020
+9. Percentage of population aged 15-59 years to total population by Sex, 22
+India and bigger States/UTs, 2020
+10. Percentage of population aged 60+ years to total population by 24
+residence, India and bigger States/UTs, 2020
+11. Percentage of population aged 60+ years to total population by Sex, 25
+India and bigger States/UTs, 2020
+12. Percentage distribution of population by marital status, India and 27
+bigger states/UTs, 2020
+13. Percentage distribution of MALE population by marital status, India 28
+and bigger states/UTs, 2020
+14. Percentage distribution of FEMALE population by marital status, 29
+India and bigger states/UTs, 2020
+15. Percentage distribution of population aged 10+ years by marital status, 31
+India and bigger states/UTs, 2020
+16. Percentage distribution of MALE population aged 10+ years by 32
+marital status, India and bigger states/UTs, 2020
+17. Percentage distribution of FEMALE population aged 10+ years by 33
+marital status, India and bigger states/UTs, 2020
+x

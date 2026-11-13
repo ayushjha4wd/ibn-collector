@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2019
+Karnataka
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 24.6 23.4 25.9 27.6 27.5 27.7 19.8 16.8 23.0
+1-4 1.2 1.4 1.1 1.3 1.0 1.7 1.1 2.0 0.1
+0-4 6.0 5.9 6.0 6.6 6.4 6.8 4.9 5.0 4.7
+5-9 0.9 0.9 0.9 0.5 0.5 0.5 1.5 1.4 1.5
+10-14 0.3 0.3 0.4 0.5 0.4 0.6 0.1 0.0 0.1
+15-19 0.5 0.5 0.5 0.8 0.8 0.8 0.1 0.2 0.0
+20-24 0.7 1.0 0.5 1.0 1.5 0.5 0.3 0.1 0.4
+25-29 1.7 1.9 1.5 1.8 2.4 1.2 1.5 1.1 1.8
+30-34 1.7 2.3 1.0 2.1 3.4 0.8 1.1 0.9 1.3
+35-39 2.2 2.6 1.8 2.6 3.2 1.9 1.8 1.8 1.7
+40-44 4.1 5.6 2.5 4.8 6.9 2.6 3.1 3.9 2.3
+45-49 5.0 6.3 3.6 5.7 8.3 3.1 4.0 3.5 4.5
+50-54 8.0 9.5 6.4 7.6 10.4 4.3 8.7 8.3 9.1
+55-59 14.9 17.8 11.9 17.2 19.8 14.6 11.0 14.5 7.3
+60-64 17.8 22.0 13.8 18.6 23.2 14.5 16.6 20.2 12.6
+65-69 30.7 37.2 24.4 35.1 42.8 28.0 23.2 28.4 17.8
+70-74 54.5 72.0 40.4 57.5 78.1 41.8 48.2 60.5 37.3
+75-79 73.7 83.4 65.3 81.5 96.6 69.2 56.6 57.5 55.7
+80-84 103.6 121.5 89.9 120.9 144.4 103.3 71.2 80.2 64.1
+85+ 235.3 222.4 245.8 293.1 222.4 385.9 152.5 222.3 125.1
+All ages 6.2 6.9 5.3 7.1 8.2 6.0 4.6 5.0 4.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2019
+Karnataka
+Indicators Total Rural Urban
+Child mortality rate 6 7 5
+Under-five mortality rate 26 28 22
+Infant mortality rate 21 23 18
+Neo-natal mortality rate 16 19 9
+Early neo-natal mortality rate 12 15 6
+Late neo-natal mortality rate 4 5 3
+Post neo-natal mortality rate 5 3 9
+Peri-natal mortality rate 17 19 12
+Still birth rate 5 5 5
+279

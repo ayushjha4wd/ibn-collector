@@ -1,0 +1,36 @@
+FIGURES AT A GLANCE, INDIA - 2020
+Item Total Rural Urban
+V. Percentage distribution of Current live births by birth interval (in months)
+10-12 1.5 1.6 1.2
+12-18 6.9 6.9 6.8
+18-24 12.7 13.5 9.7
+24-30 13.4 14.0 11.7
+30-36 13.1 13.6 11.5
+36+ 52.3 50.3 59.1
+VI. Mortality Indicators
+Crude Death Rate 6.0 6.4 5.1
+Percentage of infant deaths
+9.1 10.3 6.0
+to total deaths
+Percentage of deaths of less than one week
+53.3 54.7 46.8
+to total infant deaths
+Under-five Mortality Rate 32 36 21
+Infant Mortality Rate 28 31 19
+Neo-natal mortality rate 20 23 12
+Early neo-natal mortality rate 15 17 9
+Late neo-natal mortality rate 5 6 3
+Post neo-natal mortality rate 8 8 7
+Peri-natal Mortality Rate 18 21 12
+Still Birth Rate 3 4 3
+VII. Percentage distribution of births by type of medical attention at delivery
+Government Hospital 54.6 54.0 56.3
+Private Hospital 28.0 24.2 38.7
+Qualified Professional 9.7 11.6 4.4
+Untrained Functionary and Others 7.8 10.3 0.7
+VIII. Percentage distribution of deaths by type of medical attention before death
+Government Hospital 29.9 27.9 35.9
+Private Hospital 18.9 16.7 25.6
+Qualified Professional 33.2 33.9 31.1
+Untrained Functionary and Others 18.0 21.5 7.5
+xx

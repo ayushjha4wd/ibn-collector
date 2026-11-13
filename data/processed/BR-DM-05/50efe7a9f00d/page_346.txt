@@ -1,0 +1,52 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+14 Manipur 1 Manipur 272 01 Senapati
+273 02 Tamenglong
+274 03 Churachandpur
+275 04 Bishnupur
+276 05 Thoubal
+277 06 Imphal West
+278 07 Imphal East
+279 08 Ukhrul
+280 09 Chandel
+15 Mizoram 1 Mizoram 281 01 Mamit
+282 02 Kolasib
+283 03 Aizawl
+284 04 Champhai
+285 05 Serchhip
+286 06 Lunglei
+287 07 Lawngtlai
+288 08 Saiha
+16 Tripura 1 Tripura 289 01 West Tripura
+290 02 South Tripura
+291 03 Dhalai
+292 04 North Tripura
+17 Meghalaya 1 Meghalaya 293 01 West Garo Hills
+294 02 East Garo Hills
+295 03 South Garo Hills
+296 04 West Khasi Hills
+297 05 Ribhoi
+298 06 East Khasi Hills
+299 07 Jaintia Hills
+18 Assam 1 Plains Eastern 307 08 Lakhimpur
+308 09 Dhemaji
+309 10 Tinsukia
+310 11 Dibrugarh
+311 12 Sivasagar
+312 13 Jorhat
+313 14 Golaghat
+2 Plains Western 300 01 Kokrajhar
+301 02 Dhubri
+302 03 Goalpara
+303 04 Barpeta
+319 20 Bongaigaon
+320 21 Chirang
+321 22 Kamrup
+322 23 Kamrup Metropolitan
+323 24 Nalbari
+324 25 Baksa
+327

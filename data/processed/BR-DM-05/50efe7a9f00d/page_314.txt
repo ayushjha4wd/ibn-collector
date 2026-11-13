@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2019
+Uttarakhand
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 23.2 24.0 22.3 24.5 25.7 23.1 20.1 19.9 20.4
+1-4 0.8 0.7 1.0 0.7 0.7 0.8 1.0 0.6 1.4
+0-4 5.2 5.2 5.1 5.3 5.5 5.1 4.9 4.6 5.2
+5-9 0.4 0.3 0.5 0.4 0.3 0.6 0.1 0.2 0.0
+10-14 0.6 0.7 0.4 0.7 0.8 0.6 0.2 0.4 0.0
+15-19 0.7 0.5 0.9 0.8 0.6 1.0 0.5 0.3 0.6
+20-24 1.1 1.1 1.2 1.2 1.3 1.2 0.9 0.7 1.2
+25-29 1.3 1.4 1.2 1.3 1.5 1.1 1.2 1.0 1.4
+30-34 1.8 2.5 1.2 2.1 2.9 1.3 1.3 1.6 1.0
+35-39 2.8 4.6 0.9 2.7 5.0 0.4 3.0 3.9 2.1
+40-44 3.2 4.6 1.5 2.9 4.5 1.0 3.8 4.7 2.6
+45-49 7.0 9.8 4.2 7.8 10.8 5.1 4.9 7.7 2.1
+50-54 6.1 11.1 1.8 6.2 11.6 1.6 5.8 9.8 2.1
+55-59 15.7 17.3 14.1 15.1 15.9 14.3 17.2 20.7 13.6
+60-64 13.6 19.7 8.5 13.0 19.0 8.0 15.6 21.6 10.1
+65-69 45.4 62.8 31.5 46.0 64.5 32.3 43.1 57.9 28.1
+70-74 33.6 37.9 29.4 31.1 35.4 26.8 43.3 48.1 39.0
+75-79 110.5 112.5 108.6 119.2 123.1 115.7 78.2 79.0 77.1
+80-84 72.0 82.8 63.6 67.8 76.8 61.0 89.6 107.6 75.0
+85+ 154.8 174.9 137.8 156.2 175.6 139.3 148.8 171.7 131.9
+All ages 6.0 6.9 5.1 6.4 7.3 5.4 5.1 5.9 4.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2019
+Uttarakhand
+Indicators Total Rural Urban
+Child mortality rate 5 5 5
+Under-five mortality rate 30 30 30
+Infant mortality rate 27 28 26
+Neo-natal mortality rate 19 19 19
+Early neo-natal mortality rate 14 14 16
+Late neo-natal mortality rate 5 5 3
+Post neo-natal mortality rate 8 8 7
+Peri-natal mortality rate 18 17 19
+Still birth rate 3 3 3
+289

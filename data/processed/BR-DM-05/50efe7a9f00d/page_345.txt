@@ -1,0 +1,55 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+2 Central 224 22 Bhagalpur
+225 23 Banka
+226 24 Munger
+227 25 Lakhisarai
+228 26 Sheikhpura
+229 27 Nalanda
+230 28 Patna
+231 29 Bhojpur
+232 30 Buxar
+233 31 Kaimur (Bhabua)
+234 32 Rohtas
+235 33 Aurangabad
+236 34 Gaya
+237 35 Nawada
+238 36 Jamui
+239 37 Jehanabad
+240 38 Arwal
+11 Sikkim 1 Sikkim 241 01 North District
+242 02 West District
+243 03 South District
+244 04 East District
+12 Arnachal Pradesh 1 Arnachal Pradesh 245 01 Tawang
+246 02 West Kameng
+247 03 East Kameng
+248 04 Papum Pare
+249 05 Upper Subansiri
+250 06 West Siang
+251 07 East Siang
+252 08 Upper Siang
+253 09 Changlang
+254 10 Tirap
+255 11 Lower Subansiri
+256 12 Kurung Kumey
+257 13 Dibang Valley
+258 14 Lower Dibang Valley
+259 15 Lohit
+260 16 Anjaw
+13 Nagaland 1 Nagaland 261 01 Mon
+262 02 Mokokchung
+263 03 Zunheboto
+264 04 Wokha
+265 05 Dimapur
+266 06 Phek
+267 07 Tuensang
+268 08 Longleng
+269 09 Kiphire
+270 10 Kohima
+271 11 Peren
+326
