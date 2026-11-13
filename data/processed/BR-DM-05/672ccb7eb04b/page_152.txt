@@ -1,0 +1,39 @@
+4.5 Statement 40 below provides the Crude Death Rate (CDR) by residence for India
+and bigger States/UTs for the year 2018. The CDR at national level is 6.2 varying from
+6.7 in rural to 5.1 in urban areas. Among the bigger States/UTs, it varies from 3.3 in Delhi
+to 8.0 in Chhattisgarh. The CDR of the rural areas is higher than that of the urban areas in
+all the bigger States/UTs, except for West Bengal. The States having death rate higher
+than or equal to the National level are Telangana 6.3, Karnataka 6.3, Assam 6.4, Tamil
+Nadu 6.5, Punjab 6.6, Uttar Pradesh 6.6, Madhya Pradesh 6.7, Andhra Pradesh 6.7, Kerala
+6.9, Himachal Pradesh 6.9, Odisha 7.3 and Chhattisgarh 8.0. The graphical representation
+of death rate of bigger States/UTs by residence is depicted in Chart 72. Distribution of
+bigger States/UTs by level of CDR in rural and urban areas is shown in Chart 73. The
+estimated age-specific death rate by sex and residence for India and bigger States/UTs has
+been detailed in Table 8.
+Statement 40
+CDR (Crude Death Rates) by residence, India and bigger States/UTs, 2018
+India and bigger States/UTs Total Rural Urban
+India 6.2 6.7 5.1
+Andhra Pradesh 6.7 7.4 5.0
+Assam 6.4 6.6 5.1
+Bihar 5.8 5.9 5.1
+Chhattisgarh 8.0 8.6 6.3
+Delhi 3.3 3.7 3.3
+Gujarat 5.9 6.3 5.3
+Haryana 5.9 6.6 4.9
+Himachal Pradesh 6.9 7.1 4.8
+Jammu & Kashmir 4.9 5.1 4.2
+Jharkhand 5.4 5.7 4.5
+Karnataka 6.3 7.2 4.8
+Kerala 6.9 7.1 6.7
+Madhya Pradesh 6.7 7.1 5.5
+Maharashtra 5.5 6.3 4.5
+Odisha 7.3 7.6 5.9
+Punjab 6.6 7.7 5.1
+Rajasthan 5.9 6.1 5.0
+Tamil Nadu 6.5 7.8 5.3
+Telangana 6.3 7.5 4.5
+Uttar Pradesh 6.6 7.0 5.3
+Uttarakhand 6.2 6.5 5.3
+West Bengal 5.6 5.6 5.7
+122

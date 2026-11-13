@@ -1,0 +1,30 @@
+3.23 Values of the age specific marital fertility rates (ASMFR) for the year 2019 in bigger
+States/UTs are given below in Statement 28. There is significant decline in marital fertility for
+women aged 30 years onwards, for all major States.
+Statement 28
+ASMFRs (Age Specific Marital Fertility Rates), India and bigger States/UTs, 2019
+India and bigger States/UTs 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+India 337.0 329.5 192.2 101.1 42.5 14.5 5.0
+Andhra Pradesh 248.1 290.9 137.4 50.8 15.8 7.3 3.6
+Assam 576.3 281.0 184.6 119.9 59.1 17.6 7.4
+Bihar 388.9 399.8 242.8 161.8 72.5 27.3 7.4
+Chhattisgarh 326.6 371.9 216.3 94.8 39.5 11.4 0.4
+Delhi 333.0 271.0 163.9 95.9 42.2 18.7 4.9
+Gujarat 431.5 359.5 192.2 91.8 32.5 9.7 3.9
+Haryana 257.6 335.0 196.4 98.1 44.2 12.6 6.3
+Himachal Pradesh 308.8 232.8 153.6 94.7 30.5 4.8 1.6
+Jammu & Kashmir 396.4 296.3 260.7 139.9 64.6 24.9 9.4
+Jharkhand 502.0 429.2 234.9 109.5 45.3 13.4 12.0
+Karnataka 210.5 227.3 146.1 82.8 30.4 7.9 4.7
+Kerala 440.1 231.3 131.8 79.1 32.2 8.0 0.9
+Madhya Pradesh 340.3 326.5 236.7 107.7 44.4 15.4 4.1
+Maharashtra 236.1 325.9 165.9 68.6 23.1 5.1 1.8
+Odisha 235.3 261.8 158.9 81.4 33.8 12.6 3.4
+Punjab 268.3 319.4 185.3 91.8 31.5 6.7 1.8
+Rajasthan 233.1 351.0 226.0 104.1 37.1 11.8 6.0
+Tamil Nadu 259.7 285.6 164.5 64.9 16.9 3.1 0.6
+Telangana 212.5 276.1 153.9 70.1 19.9 10.7 3.4
+Uttar Pradesh 405.7 462.7 260.2 168.1 89.1 36.1 12.4
+Uttarakhand 32.0 228.3 186.5 113.2 50.4 17.1 4.9
+West Bengal 497.7 266.0 108.8 51.3 15.8 6.0 1.4
+90

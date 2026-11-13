@@ -1,0 +1,40 @@
+3.17 The difference in the pattern of child bearing can be measured in terms of the mean age
+of fertility, which describes the age pattern of fertility of synthetic cohort of hypothetical group
+of women viewed as having, in their lifetime, similar fertility experience recorded in a calendar
+year. The mean age of fertility has been calculated from the age specific fertility rates. The
+associated standard deviations are also shown. The States having lower values of standard
+deviation recorded higher concentration of fertility about the mean age as compared to those
+with higher values. Statement 23 below shows the mean age of fertility for India and bigger
+States/UTs. At the National level, the mean age of fertility is 28.6 years and varies from 26.3
+years in West Bengal to 31.8 years in Jammu & Kashmir with standard deviation 5.9, 5.6 and
+6.2 respectively. Chart 45 shows the mean age of fertility of India and bigger States/UTs by
+residence.
+Statement 23
+Mean age of Fertility and associated Standard Deviation,
+India and bigger States/UTs, 2019
+India and bigger States/UTs Mean age of fertility Standard deviation
+Total Rural Urban Total Rural Urban
+India 28.6 28.6 28.9 5.9 6.0 5.7
+Andhra Pradesh 27.0 26.8 27.5 5.5 5.5 5.5
+Assam 29.1 29.2 29.1 6.3 6.3 6.3
+Bihar 29.5 29.6 28.5 6.0 6.1 5.6
+Chhattisgarh 27.6 27.7 27.7 5.4 5.4 5.3
+Delhi 30.4 28.1 30.5 6.1 5.5 6.1
+Gujarat 27.9 27.7 28.4 5.6 5.6 5.5
+Haryana 28.8 28.8 29.0 5.8 5.6 6.2
+Himachal Pradesh 28.7 28.6 29.9 5.4 5.4 5.3
+Jammu & Kashmir 31.8 31.5 32.9 6.2 6.2 6.3
+Jharkhand 28.6 28.7 28.5 6.1 6.3 5.2
+Karnataka 28.3 27.7 29.5 5.7 5.3 6.2
+Kerala 28.4 28.3 28.4 5.5 5.7 5.4
+Madhya Pradesh 28.0 27.7 29.2 5.6 5.6 5.7
+Maharashtra 27.5 27.1 28.0 5.2 5.0 5.3
+Odisha 28.3 28.3 28.3 5.8 5.8 5.7
+Punjab 28.8 28.6 29.2 5.4 5.4 5.3
+Rajasthan 28.2 28.2 28.5 5.5 5.6 5.1
+Tamil Nadu 27.3 27.0 27.7 4.8 4.7 4.8
+Telangana 27.9 27.6 28.4 5.6 5.7 5.5
+Uttar Pradesh 30.5 30.4 30.9 6.3 6.4 6.1
+Uttarakhand 30.0 29.3 31.8 5.8 5.6 6.1
+West Bengal 26.3 26.2 27.1 5.6 5.6 5.7
+76

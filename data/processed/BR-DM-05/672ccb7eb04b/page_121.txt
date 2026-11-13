@@ -1,0 +1,38 @@
+3.24 Like TFR, Total Marital Fertility Rate (TMFR) is the cumulative value of age
+specific marital fertility rates at the end of the reproductive period. It indicates the average
+number of children expected to be born per married woman during the entire span of her
+reproductive period, if the ASMFRs continue to be the same and if there is no mortality.
+The TMFRs worked out on the basis of ASMFRs for the year 2018 are given below in
+Statement 29 for India and bigger States/UTs separately for rural and urban areas. The
+TMFR for India is found to be 4.9 and varies from 4.4 in urban areas to 5.1 in rural areas.
+The TMFR is 5 and above in Assam, Bihar, Chhattisgarh, Gujarat, Jammu & Kashmir,
+Jharkhand, Kerala and Uttar Pradesh. Chart 54 presents the TMFRs by residence for India and
+bigger States/UTs.
+Statement 29
+TMFRs (Total Marital Fertility Rates) by residence, India and bigger
+States/UTs, 2018
+India and bigger States/UTs Total Rural Urban
+India 4.9 5.1 4.4
+Andhra Pradesh 3.4 3.8 2.8
+Assam 6.3 6.4 5.2
+Bihar 6.3 6.3 6.2
+Chhattisgarh 5.5 5.9 4.4
+Delhi 4.3 5.2 4.3
+Gujarat 5.3 5.4 5.1
+Haryana 4.1 3.8 5.3
+Himachal Pradesh 4.0 4.0 2.4
+Jammu & Kashmir 5.3 6.1 3.8
+Jharkhand 6.1 6.0 7.0
+Karnataka 3.3 3.4 3.1
+Kerala 5.1 4.5 5.9
+Madhya Pradesh 5.0 5.2 4.1
+Maharashtra 3.7 3.6 3.8
+Odisha 3.8 3.9 3.4
+Punjab 4.3 4.4 4.2
+Rajasthan 4.7 4.8 4.5
+Tamil Nadu 3.7 3.8 3.6
+Telangana 3.6 3.5 3.6
+Uttar Pradesh 6.8 6.7 7.6
+Uttarakhand 2.8 2.6 4.8
+West Bengal 5.0 5.2 4.1
+91

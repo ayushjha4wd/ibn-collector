@@ -1,0 +1,47 @@
+Statement 2
+Number of sample units and population covered
+India, States and Union Territories, 2019
+India/States/ Union Territories Number of sample units Population covered (in'000)
+Total Rural Urban Total Rural Urban
+India 8844 4960 3884 8209 6003 2206
+Bigger States/UTs
+1. Andhra Pradesh 325 198 127 343 273 70
+2. Assam 299 89 210 227 111 116
+3. Bihar 330 200 130 378 298 79
+4. Chhattisgarh 158 73 85 121 73 47
+5. Delhi 197 10 187 145 16 129
+6. Gujarat 478 231 247 439 305 134
+7. Haryana 256 144 112 259 195 64
+8. Jammu & Kashmir 350 226 124 288 236 52
+9. Jharkhand 210 91 119 164 99 65
+10. Karnataka 511 361 150 496 414 82
+11. Kerala 280 175 105 369 314 55
+12. Madhya Pradesh 448 285 163 413 316 97
+13. Maharashtra 661 306 355 537 357 180
+14. Odisha 405 290 115 362 298 65
+15. Punjab 249 130 119 214 149 65
+16. Rajasthan 350 236 114 340 278 62
+17. Tamil Nadu 545 235 310 534 343 191
+18. Telangana 224 121 103 217 159 57
+19. Uttar Pradesh 500 328 172 532 427 105
+20. Uttarakhand 374 195 179 301 192 110
+21. West Bengal 555 304 251 565 431 134
+Smaller States
+1. Arunachal Pradesh 65 50 15 44 33 11
+2. Goa 95 45 50 91 68 24
+3. Himachal Pradesh 210 155 55 121 94 27
+4. Manipur 165 120 45 152 125 27
+5. Meghalaya 130 95 35 85 65 20
+6. Mizoram 45 25 20 36 25 11
+7. Nagaland 50 35 15 35 27 8
+8. Sikkim 65 50 15 63 50 12
+9. Tripura 90 65 25 113 97 16
+Union Territories
+1. Andaman & Nicobar Islands 55 37 18 51 39 11
+2. Chandigarh 40 5 35 35 10 24
+3. Dadra & Nagar Haveli 35 15 20 42 29 13
+4. Daman & Diu 25 15 10 30 22 7
+5. Lakshadweep 14 2 12 13 3 9
+6. Puducherry 55 18 37 54 29 25
+Note: ‘Total’ population may not add up to ‘Rural’ and ‘Urban’ population due to rounding.
+5

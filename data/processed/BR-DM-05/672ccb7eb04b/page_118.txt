@@ -1,0 +1,24 @@
+Marital Fertility
+3.22 Marriage is an important event in the social life of any population. In India,
+population censuses and large-scale demographic sample surveys invariably collect data on
+the marital status of population separately for males and females. Age at effective marriage
+of females is a key factor that influences fertility. Marital distribution of the population
+enumerated through SRS and the age at effective marriage of females has been discussed in
+Chapter 2. Based on the distribution of live births by age of married females, age specific
+marital fertility rates (ASMFRs) are calculated. Statement 27 below provides the estimates
+of the ASMFRs for India separately for rural and urban areas for the year 2018. Marital
+fertility is higher in rural areas than in urban areas in all the age groups. A perceptible
+decline in marital fertility is seen for females aged 30 years and above both in rural and
+urban areas. Chart 53 depicts ASMFRs by residence for India in 2018.
+Statement 27
+ASMFRs (Age Specific Marital Fertility Rates) by residence, India, 2018
+(Per thousand)
+Age group Total Rural Urban
+15-19 322.7 332.4 289.7
+20-24 299.8 309.0 273.6
+25-29 190.9 199.0 173.2
+30-34 103.4 109.2 92.6
+35-39 39.5 43.2 32.7
+40-44 13.7 15.9 9.9
+45-49 4.9 6.1 2.7
+88

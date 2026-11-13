@@ -1,0 +1,37 @@
+3.35 Statement 38 below presents the percentage distribution of second and higher order
+live births by interval between current and previous live birth separately for rural and urban
+areas. At the National level, 1.7 percent of live births have been reported within an interval
+of one year for rural areas and 1.2 percent in urban areas. More than 75 percent of births
+have birth interval of 24 and more months both in rural and urban areas. Charts 67 and 68
+give the percentage distribution of second and higher order live births by interval for rural
+and urban areas respectively.
+Statement 38
+Percentage distribution of second and higher order live births by interval and residence, India
+and bigger States/UTs, 2019
+India and bigger States/UTs Interval between current and previous live birth (in months)
+Rural Urban
+10-12 12-24 24-36 36+ 10-12 12-24 24-36 36+
+India 1.7 23.2 27.1 48.1 1.2 17.1 22.2 59.6
+Andhra Pradesh 1.4 25.8 34.7 38.1 0.0 32.4 27.2 40.4
+Assam 1.2 10.4 17.7 70.7 0.4 5.7 10.6 83.3
+Bihar 2.0 31.6 30.3 36.1 1.7 23.3 32.6 42.4
+Chhattisgarh 1.5 17.8 26.8 53.9 0.3 17.9 31.6 50.2
+Delhi 4.6 23.0 40.8 31.6 0.0 6.3 16.7 77.0
+Gujarat 1.4 21.2 28.9 48.5 2.1 17.1 19.6 61.2
+Haryana 3.0 27.4 27.6 42.0 2.9 18.2 26.9 52.0
+Himachal Pradesh 1.5 15.3 22.5 60.7 0.0 13.7 16.5 69.8
+Jammu & Kashmir 3.1 23.5 22.0 51.4 1.5 14.5 26.9 57.2
+Jharkhand 0.8 20.4 36.6 42.2 1.0 16.7 34.2 48.1
+Karnataka 1.0 25.9 33.9 39.2 0.0 19.6 24.6 55.8
+Kerala 0.3 10.5 17.3 71.9 0.6 12.3 17.5 69.6
+Madhya Pradesh 2.5 32.0 31.8 33.7 1.7 17.9 23.4 57.0
+Maharashtra 0.6 21.9 27.2 50.2 2.5 8.7 12.6 76.2
+Odisha 0.3 8.9 17.2 73.6 1.6 8.3 9.4 80.8
+Punjab 1.7 21.6 21.6 55.1 1.5 12.6 21.2 64.6
+Rajasthan 1.9 27.2 31.4 39.4 1.0 21.7 24.9 52.4
+Tamil Nadu 2.1 21.8 28.6 47.5 0.7 20.0 25.2 54.0
+Telangana 0.7 26.6 27.2 45.5 0.4 29.5 22.7 47.3
+Uttar Pradesh 1.3 21.2 24.3 53.2 1.2 16.0 22.3 60.5
+Uttarakhand 0.7 17.2 26.4 55.7 0.2 13.6 20.0 66.2
+West Bengal 2.9 8.3 15.9 72.9 0.6 14.4 14.7 70.3
+113

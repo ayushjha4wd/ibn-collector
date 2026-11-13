@@ -1,0 +1,11 @@
+4.7 Statement 42 given below presents the estimated Crude Death Rate for India by
+residence separately for males and females. It is observed that female death rate is
+lower than male death rate both in rural and urban areas. Chart 78 represents the crude
+death rate by sex and residence for India.
+Statement 42
+Crude Death Rate by sex and residence, India, 2018
+Residence Total Males Females
+Total 6.2 6.6 5.7
+Rural 6.7 7.2 6.2
+Urban 5.1 5.5 4.7
+130

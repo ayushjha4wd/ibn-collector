@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2018
+India
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 37.5 36.9 38.1 42.3 41.9 42.6 25.3 23.9 26.8
+1-4 1.1 1.0 1.1 1.2 1.1 1.2 0.8 0.7 0.9
+0-4 8.9 8.7 9.0 9.9 9.8 10.0 6.1 5.8 6.6
+5-9 0.5 0.4 0.6 0.5 0.5 0.6 0.4 0.4 0.5
+10-14 0.5 0.5 0.5 0.6 0.6 0.5 0.3 0.3 0.4
+15-19 0.8 0.8 0.7 0.9 0.9 0.8 0.6 0.6 0.5
+20-24 1.1 1.2 0.9 1.2 1.3 1.1 0.8 1.0 0.6
+25-29 1.3 1.6 1.0 1.5 1.8 1.2 0.9 1.3 0.6
+30-34 1.8 2.1 1.3 2.0 2.4 1.5 1.3 1.6 1.0
+35-39 2.3 2.9 1.6 2.5 3.3 1.8 1.7 2.3 1.1
+40-44 3.5 4.3 2.7 4.2 5.1 3.2 2.4 2.9 1.8
+45-49 4.9 6.0 3.7 5.5 6.8 4.2 3.7 4.6 2.8
+50-54 7.8 8.7 6.7 8.5 9.4 7.6 6.5 7.6 5.3
+55-59 13.5 15.4 11.5 15.1 17.9 12.4 10.7 11.5 9.9
+60-64 19.5 22.2 16.7 20.4 23.7 17.1 17.7 19.5 15.8
+65-69 31.3 35.1 27.4 32.7 37.1 28.3 28.5 31.3 25.5
+70-74 47.5 52.6 42.7 52.2 58.4 46.5 37.7 41.2 34.3
+75-79 66.0 70.6 61.7 69.8 74.9 65.1 57.8 61.6 53.9
+80-84 106.5 111.9 101.5 118.3 124.6 112.3 83.5 86.9 80.4
+85+ 174.7 189.4 163.3 183.3 189.5 177.9 155.5 189.0 135.6
+All ages 6.2 6.6 5.7 6.7 7.2 6.2 5.1 5.5 4.7
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2018
+India
+Indicators Total Rural Urban
+Child mortality rate 9 10 6
+Under-five mortality rate 36 40 26
+Infant mortality rate 32 36 23
+Neo-natal mortality rate 23 27 14
+Early neo-natal mortality rate 18 20 10
+Late neo-natal mortality rate 6 6 3
+Post neo-natal mortality rate 9 9 9
+Peri-natal mortality rate 22 25 14
+Still birth rate 4 4 4
+268

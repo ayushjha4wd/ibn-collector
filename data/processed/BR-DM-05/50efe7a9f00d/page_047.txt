@@ -1,0 +1,38 @@
+2.8 Percentage of aged persons (60 years and above) for India and bigger States/UTs by
+sex and residence is given below in Statement 7. At the National level, percentage of aged
+(60+) population is 8.1. Composition of 60+ aged female population is higher than males in
+all of the bigger States/UTs except Andhra Pradesh, Assam, Bihar, Jammu & Kashmir,
+Odisha and Telangana. In rural areas, population in the age group 60+ constitutes 8.0 percent
+of the total population and variation in aged population ranges from 6.0 percent in Assam,
+Bihar and Delhi to 13.2 percent in Kerala. The proportion of aged population in urban areas
+is 8.3 percent. The Pictorial presentation of percentage of old age population by residence for
+bigger States/UTs is given in Chart 7.
+Statement 7
+Percentage of Population in the age group 60 years and above to Total Population by sex and
+residence, India and bigger States/UTs, 2019
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 8.1 7.8 8.4 8.0 7.7 8.4 8.3 8.2 8.5
+Andhra Pradesh 9.4 9.7 9.1 10.2 10.5 9.9 7.7 8.0 7.5
+Assam 6.4 6.7 6.1 6.0 6.3 5.8 8.2 9.0 7.5
+Bihar 6.3 6.3 6.2 6.0 6.0 5.9 8.0 8.3 7.7
+Chhattisgarh 6.9 6.4 7.3 7.1 6.7 7.6 6.1 5.7 6.6
+Delhi 6.4 6.1 6.7 6.0 5.5 6.7 6.4 6.1 6.7
+Gujarat 8.3 7.5 9.2 8.7 7.8 9.7 7.9 7.2 8.6
+Haryana 7.2 6.7 7.7 7.3 6.8 7.9 6.9 6.4 7.4
+Himachal Pradesh 10.9 10.7 11.2 11.1 10.9 11.4 8.8 8.8 8.8
+Jammu & Kashmir 9.0 9.0 9.0 8.5 8.5 8.5 10.0 10.1 10.0
+Jharkhand 6.3 6.1 6.6 6.1 5.8 6.4 7.1 6.8 7.4
+Karnataka 8.1 7.6 8.6 8.6 7.9 9.3 7.4 7.3 7.5
+Kerala 12.9 12.2 13.7 13.2 12.5 14.0 12.6 11.8 13.4
+Madhya Pradesh 7.1 6.8 7.5 7.1 6.7 7.5 7.3 7.0 7.6
+Maharashtra 8.9 8.5 9.3 9.9 9.2 10.7 7.7 7.7 7.7
+Odisha 10.3 10.5 10.0 10.7 10.9 10.5 8.3 8.5 8.0
+Punjab 9.9 9.6 10.4 10.8 10.3 11.3 8.8 8.5 9.2
+Rajasthan 7.1 6.3 8.0 7.1 6.1 8.2 7.2 6.7 7.7
+Tamil Nadu 11.3 11.2 11.4 10.5 10.2 10.7 12.1 12.2 12.0
+Telangana 8.1 8.1 8.1 9.6 9.6 9.6 5.9 6.0 5.8
+Uttar Pradesh 6.8 6.5 7.2 6.9 6.5 7.3 6.8 6.6 7.0
+Uttarakhand 8.4 7.7 9.2 9.0 8.2 9.9 6.8 6.4 7.3
+West Bengal 8.5 8.5 8.6 7.5 7.1 8.0 10.8 11.6 10.0
+21

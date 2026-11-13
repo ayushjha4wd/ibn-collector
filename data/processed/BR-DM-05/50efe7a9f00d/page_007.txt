@@ -1,0 +1,34 @@
+Page
+Fertility Indicators
+14 CBR (Crude birth rate) by residence, India and bigger States/UTs, 48
+2019
+15 Percent change in average crude birth rate between 2007-09 and 51
+2017-19 by residence, India and bigger States/UTs
+16 Sex ratio (female per 1000 male) at birth by residence, India and 56
+bigger States/UTs 2017-19
+17 GFR (General fertility rate) by residence, India and bigger 58
+States/UTs, 2019
+18 Percentage change in average GFR (General fertility rate) between 61
+2007-09 and 2017-19, by residence, India and bigger States/UTs
+19 ASFRs (Age specific fertility rates) by residence, 2019 66
+20 Percentage change in age specific fertility rates by residence 68
+between 2007-09 and 2017-19, India
+21 ASFRs (Age specific fertility rates), India and bigger States/UTs, 73
+2019
+22 Percentage distribution of cumulative fertility by age group, India 74
+and bigger States/UTs, 2019
+23 Mean age of fertility and associated standard deviation, India and 76
+bigger States/UTs, 2019
+24 TFR (Total fertility rate) by residence, India and bigger 78
+States/UTs, 2019
+25 Percentage change in average TFR (Total fertility rate) between 81
+2007-09 and 2017-19 by residence, India and bigger States/UTs
+26 GRR (Gross reproduction rate) by residence, India and bigger 86
+States/UTs, 2019
+27 ASMFRs (Age specific marital fertility rates) by residence, India 88
+2019
+28 ASMFRs (Age specific marital fertility rates) India and bigger 90
+States/UTs, 2019
+29 TMFRs (Total marital fertility rates) by residence, India and 91
+bigger States/UTs, 2019
+vii

@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2018
+Jammu & Kashmir
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 29.4 29.5 29.3 32.0 31.9 32.2 22.3 22.7 21.9
+1-4 0.2 0.3 0.1 0.3 0.4 0.1 0.1 0.1 0.1
+0-4 5.5 5.2 5.8 6.0 5.7 6.2 4.2 3.7 4.7
+5-9 0.5 0.4 0.5 0.5 0.4 0.5 0.4 0.4 0.3
+10-14 0.4 0.4 0.4 0.4 0.4 0.4 0.4 0.3 0.4
+15-19 0.4 0.4 0.4 0.5 0.6 0.4 0.1 0.0 0.2
+20-24 0.4 0.5 0.3 0.5 0.6 0.4 0.1 0.3 0.0
+25-29 0.6 0.8 0.5 0.8 1.1 0.6 0.2 0.2 0.1
+30-34 1.2 1.7 0.8 1.2 1.3 1.1 1.3 2.5 0.2
+35-39 1.5 2.0 1.0 2.0 2.6 1.5 0.6 0.9 0.2
+40-44 3.5 4.7 2.2 4.1 5.1 3.0 2.3 4.0 0.6
+45-49 5.0 6.0 4.0 6.2 7.3 5.0 2.9 3.6 2.2
+50-54 7.7 8.4 6.8 9.3 10.3 8.2 4.7 4.8 4.6
+55-59 11.6 12.4 10.7 13.4 15.2 11.3 8.3 7.4 9.4
+60-64 17.4 21.6 13.3 18.3 23.1 13.7 15.6 18.7 12.5
+65-69 22.3 24.5 19.7 23.6 26.7 20.0 19.7 20.3 19.0
+70-74 31.3 35.7 26.6 33.0 37.8 27.5 28.3 31.7 24.9
+75-79 42.3 49.2 35.1 42.4 48.7 35.9 42.3 50.2 33.5
+80-84 78.2 85.4 70.0 89.2 97.1 80.4 60.5 66.9 53.0
+85+ 76.4 83.4 69.2 76.7 77.1 76.4 75.5 101.2 54.2
+All ages 4.9 5.6 4.1 5.1 5.9 4.3 4.2 5.0 3.5
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2018
+Jammu & kashmir
+Indicators Total Rural Urban
+Child mortality rate 5 6 4
+Under-five mortality rate 23 24 20
+Infant mortality rate 22 23 20
+Neo-natal mortality rate 17 18 14
+Early neo-natal mortality rate 12 13 9
+Late neo-natal mortality rate 5 5 5
+Post neo-natal mortality rate 5 5 6
+Peri-natal mortality rate 13 14 10
+Still birth rate 1 1 1
+277

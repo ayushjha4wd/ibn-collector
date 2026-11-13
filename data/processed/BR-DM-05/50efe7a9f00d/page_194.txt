@@ -1,0 +1,34 @@
+4.19 Death rates for children in the age group 5-14 are given below in Statement 54.
+As revealed by the data, at the National level, the death rate in this age group is
+estimated to be 0.5. Rural-urban differentials are small at the national level and for
+many States/UTs. Among the bigger States/UTs, the lowest death rate of 0.1 in this age
+group is registered in Himachal Pradesh; and the highest in Madhya Pradesh at 0.7.
+Statement 54
+Death Rates for Children aged 5-14 years by sex and residence
+India and bigger States/UTs, 2019
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 0.5 0.5 0.4 0.5 0.6 0.5 0.3 0.3 0.3
+Andhra Pradesh 0.4 0.7 0.2 0.6 1.0 0.3 0.0 0.0 0.0
+Assam 0.4 0.3 0.4 0.4 0.3 0.5 0.2 0.4 0.0
+Bihar 0.6 0.6 0.6 0.7 0.7 0.7 0.2 0.1 0.3
+Chhattisgarh 0.4 0.5 0.3 0.3 0.3 0.4 0.6 1.0 0.1
+Delhi 0.2 0.3 0.2 0.0 0.0 0.0 0.2 0.3 0.2
+Gujarat 0.3 0.2 0.4 0.4 0.3 0.5 0.1 0.0 0.2
+Haryana 0.4 0.2 0.6 0.4 0.3 0.6 0.4 0.2 0.6
+Himachal Pradesh 0.1 0.1 0.0 0.0 0.0 0.0 0.5 1.0 0.0
+Jammu & Kashmir 0.4 0.4 0.5 0.4 0.4 0.5 0.4 0.4 0.4
+Jharkhand 0.4 0.5 0.2 0.4 0.6 0.1 0.4 0.1 0.6
+Karnataka 0.6 0.6 0.6 0.5 0.5 0.6 0.7 0.7 0.8
+Kerala 0.2 0.3 0.0 0.3 0.6 0.0 0.0 0.0 0.0
+Madhya Pradesh 0.7 0.9 0.5 0.8 1.0 0.6 0.4 0.5 0.2
+Maharashtra 0.3 0.4 0.2 0.3 0.4 0.3 0.2 0.3 0.0
+Odisha 0.5 0.5 0.5 0.5 0.5 0.5 0.4 0.5 0.2
+Punjab 0.2 0.1 0.3 0.3 0.3 0.4 0.1 0.0 0.2
+Rajasthan 0.4 0.3 0.5 0.5 0.3 0.6 0.3 0.2 0.3
+Tamil Nadu 0.3 0.3 0.4 0.3 0.3 0.3 0.3 0.2 0.4
+Telangana 0.4 0.5 0.4 0.6 0.6 0.5 0.2 0.3 0.1
+Uttar Pradesh 0.6 0.6 0.7 0.7 0.7 0.7 0.4 0.2 0.6
+Uttarakhand 0.5 0.5 0.4 0.6 0.5 0.6 0.2 0.3 0.0
+West Bengal 0.3 0.4 0.2 0.3 0.4 0.2 0.3 0.4 0.1
+168

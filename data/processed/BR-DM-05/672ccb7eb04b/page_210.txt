@@ -1,0 +1,46 @@
+Medical attention before death
+4.22 The type of medical attention received before death is also collected in the SRS. In
+the new samples from 2004 onwards, the options on types of medical attention received
+before death have been modified to capture the deaths occurred specifically at private
+hospital/nursing homes. The options include ‘Government Hospital’, ‘Private Hospital’,
+‘Qualified professional’, ‘Untrained functionary’ and ‘others’. The options for the sample
+based on 1991 sample were ‘Institutional’; ‘Medical attention other than institution’; and
+‘No medical attention’. Statement 57 given below presents the percentage distribution of
+deaths by type of medical attention received before death for India and bigger States/UTs
+separately for rural and urban areas for the year 2018. At the National level, 29.4 percent
+of the deaths occurred at Government Hospitals and varies from 27.1 percent in rural areas
+to 35.4 percent in urban areas. Among the bigger States/UTs, Himachal Pradesh 51.0 has
+the highest percentage of deaths in Government Hospitals and Bihar (19.9) has the lowest.
+Deaths in private hospitals account for 18.5 percent and it varies from 11.9 percent in
+Jammu & Kashmir and West Bengal to 36.8 percent in Kerala. About 19.2 percent deaths
+were attended by untrained functionaries and others.
+Statement 57
+Percent distribution of deaths by Type of Medical Attention received before death by residence, India and
+bigger States/UTs, 2018
+India and bigger States/UTs Government Private Hospital Qualified Untrained
+Hospital professional functionary & others
+Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban
+India 29.4 27.1 35.4 18.5 16.1 24.9 33.0 33.7 31.0 19.2 23.1 8.7
+Andhra Pradesh 25.4 23.8 31.5 21.8 20.1 28.5 32.6 32.6 32.4 20.2 23.5 7.6
+Assam 20.4 19.0 29.8 15.1 14.9 16.8 52.2 52.7 49.2 12.2 13.4 4.2
+Bihar 19.9 18.9 27.4 12.2 10.7 23.2 41.3 41.4 40.3 26.6 29.0 9.1
+Chhattisgarh 25.5 21.6 41.3 14.7 13.4 19.9 27.7 27.7 27.6 32.2 37.3 11.2
+Delhi 49.5 25.2 50.2 17.2 16.3 17.2 23.8 43.7 23.3 9.4 14.8 9.3
+Gujarat 25.7 21.8 34.0 19.1 16.4 25.0 45.5 48.0 40.1 9.7 13.8 0.9
+Haryana 21.1 20.9 21.8 16.2 15.4 18.3 50.4 51.3 48.2 12.2 12.4 11.7
+Himachal Pradesh 51.0 51.5 41.7 15.8 15.2 27.6 28.5 28.9 21.3 4.7 4.4 9.4
+Jammu & Kashmir 44.9 38.0 61.9 11.9 11.1 13.9 31.7 34.9 24.0 11.4 16.0 0.2
+Jharkhand 20.2 17.8 35.0 14.6 12.9 25.2 31.2 30.7 34.0 34.1 38.6 5.8
+Karnataka 31.4 28.3 39.5 19.4 16.4 27.3 15.5 17.8 9.6 33.7 37.5 23.6
+Kerala 42.8 46.3 39.3 36.8 39.9 33.7 15.4 7.0 23.7 5.0 6.8 3.3
+Madhya Pradesh 37.3 34.6 46.9 18.6 16.5 26.1 26.0 26.1 25.6 18.1 22.8 1.4
+Maharashtra 30.4 27.4 37.3 19.5 16.8 25.7 37.1 39.1 32.6 12.9 16.7 4.4
+Odisha 29.9 28.9 36.4 17.8 17.5 19.8 15.4 15.0 18.2 36.9 38.6 25.6
+Punjab 20.1 20.5 19.5 36.3 31.2 45.6 40.8 44.1 34.8 2.7 4.2 0.1
+Rajasthan 35.3 34.6 37.5 13.8 12.4 18.1 35.3 34.7 37.2 15.6 18.3 7.2
+Tamil Nadu 26.3 23.1 30.0 20.6 14.9 27.0 22.3 21.8 22.9 30.7 40.2 20.1
+Telangana 23.9 21.7 29.2 21.0 18.1 27.8 35.2 35.7 34.0 19.9 24.5 9.0
+Uttar Pradesh 29.1 29.3 28.3 20.7 18.7 28.0 39.8 39.4 41.1 10.4 12.6 2.6
+Uttarakhand 31.9 32.2 30.8 23.2 22.2 26.3 37.1 36.7 38.4 7.8 8.9 4.5
+West Bengal 33.7 29.7 41.8 11.9 9.1 17.5 40.9 41.1 40.4 13.5 20.1 0.3
+180

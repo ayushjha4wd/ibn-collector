@@ -1,0 +1,49 @@
+for death events are: identification code of the head of household and mother in infant
+death, relationship of the deceased to head, date of death and sex of the deceased.
+1.14 Field verification of unmatched and partially matched events: Every
+unmatched or partially matched event is verified by a visit to the concerned household.
+This is done either by a third person or jointly by the supervisor and the enumerator,
+depending upon the availability of staff.
+Sample design
+1.15 The Sample design adopted for SRS is a uni-stage stratified simple random
+sample without replacement except in stratum II (larger villages) of rural areas, where two
+stage stratification has been applied. In rural areas of bigger States/UTs (population with
+ten million or more as per Census 2011), the NSS natural division is the first level of
+geographical stratification. The overall stratification in rural areas has been done on
+size of villages with villages having population less than 2,000 forming Stratum I and
+villages with population 2,000 or more forming Stratum II. Smaller villages with
+population less than 200 were excluded from the sampling frame in such a manner that
+the total population of villages so excluded did not exceed 2 per cent of the total
+population of the State. The number of sample villages in each State was allocated to
+the substrata proportionally to their size (population). The villages within each size
+stratum were ordered by the female literacy rate based on the Census 2011 data, and
+three equal size substrata were established. The sample villages within each substratum
+were selected at random with equal probability. In the case of villages of Stratum II,
+each sample village with a population of 2,000 or more was subdivided into two or
+more segments in a way that none of the segments cut across the Census Enumeration
+Blocks (CEBs) and the population of each segment formed by grouping the contiguous
+CEBs was approximately equal and did not exceed 2000. A frame of segments was
+then prepared and the selection of segments was done at random at the second sampling
+stage for the SRS enumeration.
+1.16 In urban areas, the categories of towns/cities have been divided into four strata
+based on the size classes in contrast to the six strata in the earlier sampling frame.
+Towns with population less than one lakh have been placed under stratum I,
+towns/cities with population one lakh or more but less than 5 lakhs under stratum II,
+towns/cities with population 5 lakh or more under stratum III and four metro cities of
+Delhi, Mumbai, Chennai and Kolkata as separate strata viz. stratum IV. The sampling
+unit in urban area is a Census Enumeration Block. The Census Enumeration Blocks
+within each size stratum were ordered by the female literacy rate based on the Census
+2011 data, and three equal size substrata were established. The sample Census
+Enumeration Block within each substratum was selected at random with equal
+probability. A simple random sample of these enumeration blocks has been selected
+within each sub-strata without replacement from each of the size classes of towns/cities in
+each State/Union Territory.
+Sample size
+1.17 The Infant Mortality is the decisive indicator for estimation of sample size. The
+permissible level of error has been taken as within 15prse (percentage relative standard
+error) at Natural Division level in respect of major States having population more than
+10 million as per Census 2011. For minor States, 15 prse has been fixed at the total
+State level. By and large the above criteria have been followed. However, there have
+been a few exceptions on account of operational constraints. Half Yearly survey 2019
+was conducted in 8844 sample units, covering about 8.2 million sample population.
+4

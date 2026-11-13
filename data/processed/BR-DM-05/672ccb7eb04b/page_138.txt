@@ -1,0 +1,39 @@
+3.33 Statement 36 below presents the percentage distribution of current live births by
+birth order and residence for India and bigger States/UTs. It may be observed that the
+percentage of current live births for ‘first’ and ‘second’ order taken together is generally
+higher for urban areas if compared to the rural areas for bigger States/UTs except Delhi,
+Maharashtra, Punjab, Telangana and West Bengal. For ‘third’, ‘fourth & above’ order live
+births, the percentage contribution at National level is significantly higher in rural areas
+(23.2) compared to urban areas (14.1). Charts 64 and 65 depict the percentage distribution
+of current live births by birth order for rural and urban areas respectively.
+Statement 36
+Percentage distribution of current live births by Birth Order and residence,
+India and bigger States/UTs, 2018
+India and bigger States/UTs Birth order
+Rural Urban
+1st 2nd 3rd 4th & 1st 2nd 3rd 4th &
+above above
+India 47.3 29.5 13.7 9.5 55.2 30.7 9.8 4.3
+Andhra Pradesh 58.3 34.7 5.9 1.1 56.3 38.2 4.5 0.9
+Assam 52.9 27.8 13.3 6.0 62.8 28.1 7.7 1.5
+Bihar 33.5 28.6 19.9 18.0 39.4 31.2 17.6 11.9
+Chhattisgarh 39.7 35.3 16.6 8.4 48.0 39.1 10.9 1.9
+Delhi 61.4 23.2 12.6 2.8 54.7 29.7 10.5 5.1
+Gujarat 58.3 27.3 9.1 5.3 66.0 25.4 6.3 2.3
+Haryana 45.5 31.6 13.6 9.4 51.0 31.1 14.0 3.9
+Himachal Pradesh 52.8 37.3 7.4 2.5 54.5 37.2 7.2 1.1
+Jammu & Kashmir 67.0 19.9 8.1 5.1 74.8 15.3 8.3 1.7
+Jharkhand 41.7 31.0 17.2 10.0 46.8 32.2 14.7 6.4
+Karnataka 48.1 35.7 12.0 4.2 52.2 37.8 8.0 2.0
+Kerala 45.9 38.5 12.5 3.1 46.2 39.7 10.0 4.1
+Madhya Pradesh 41.1 33.3 15.6 10.1 46.4 37.7 9.9 6.0
+Maharashtra 59.5 29.8 8.3 2.4 59.7 28.8 9.1 2.3
+Odisha 48.0 33.8 12.5 5.7 54.4 34.8 9.3 1.5
+Punjab 67.4 23.0 7.5 2.1 68.1 21.0 8.2 2.8
+Rajasthan 44.0 30.5 14.8 10.7 52.3 30.3 11.4 6.0
+Tamil Nadu 58.1 33.5 7.3 1.0 59.0 36.2 4.6 0.2
+Telangana 56.8 32.6 9.1 1.5 56.8 32.6 9.1 1.5
+Uttar Pradesh 44.2 26.3 15.5 14.0 52.1 26.4 13.3 8.1
+Uttarakhand 43.8 32.5 14.9 8.8 43.3 35.5 14.9 6.4
+West Bengal 66.1 24.9 6.9 2.1 67.5 21.5 7.7 3.2
+108

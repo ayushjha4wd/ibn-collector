@@ -1,0 +1,41 @@
+Table 8
+Age-specific death rate by sex and residence, 2018
+Kerala
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 8.1 10.2 6.0 10.1 9.0 11.2 6.0 11.4 0.0
+1-4 0.7 0.4 1.1 0.4 0.8 0.1 1.1 0.0 2.3
+0-4 2.1 2.2 2.0 2.1 2.2 2.1 2.0 2.1 1.8
+5-9 0.3 0.2 0.4 0.3 0.3 0.2 0.3 0.0 0.6
+10-14 0.2 0.4 0.1 0.2 0.3 0.1 0.2 0.5 0.0
+15-19 0.5 0.6 0.4 0.3 0.3 0.3 0.7 0.9 0.5
+20-24 0.5 0.5 0.6 0.4 0.4 0.3 0.7 0.5 0.9
+25-29 0.8 1.2 0.4 0.7 1.0 0.4 0.9 1.5 0.4
+30-34 0.8 0.9 0.7 0.9 1.2 0.5 0.7 0.5 0.9
+35-39 1.0 1.7 0.5 1.1 1.7 0.6 1.0 1.6 0.4
+40-44 2.3 3.3 1.5 1.5 2.0 1.0 3.1 4.6 1.9
+45-49 2.5 3.1 1.9 2.4 3.4 1.5 2.6 2.8 2.4
+50-54 4.7 6.3 3.2 5.1 7.2 3.1 4.3 5.4 3.3
+55-59 7.9 11.5 4.8 7.9 11.1 4.9 8.0 11.9 4.6
+60-64 13.4 16.8 10.2 13.2 16.4 10.3 13.7 17.2 10.2
+65-69 28.0 38.5 18.7 26.1 35.0 17.8 30.0 42.5 19.8
+70-74 35.1 46.4 26.0 45.2 57.6 35.6 25.0 35.7 16.1
+75-79 58.0 73.6 47.6 51.8 67.7 40.3 65.1 80.9 55.4
+80-84 98.6 122.9 83.3 91.5 113.6 77.4 107.3 134.5 90.5
+85+ 236.2 301.4 204.2 227.0 250.3 213.9 249.8 395.7 191.5
+All ages 6.9 7.9 5.9 7.1 8.0 6.1 6.7 7.8 5.7
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and infant mortality indicators, 2018
+Kerala
+Indicators Total Rural Urban
+Child mortality rate 2 2 2
+Under-five mortality rate 10 11 9
+Infant mortality rate 7 9 5
+Neo-natal mortality rate 5 6 4
+Early neo-natal mortality rate 5 5 4
+Late neo-natal mortality rate 1 1 0
+Post neo-natal mortality rate 2 3 1
+Peri-natal mortality rate 10 9 11
+Still birth rate 5 4 7
+280

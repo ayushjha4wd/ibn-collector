@@ -1,0 +1,38 @@
+Birth interval
+3.34 The percentage distribution of second and higher order live births by interval
+between current and previous live birth is shown below in Statement 37 for India and bigger
+States/UTs for the year 2019. At the National level, 1.5 percent of the live births occur
+within one year from the previous live birth. Such percentage varies from 0.1 in Delhi to
+2.9 in Haryana. The percentage of births beyond three years of birth interval from the
+previous live birth for India is 50.8. It varies from 36.7 in Bihar to 74.4 in Odisha. Chart 66
+presents the percentage distribution of second and higher order live births by interval for
+India and bigger States/UTs.
+Statement 37
+Percentage distribution of second and higher order live births by interval,
+India and bigger States/UTs, 2019
+India and bigger States/UTs Interval between current and previous live birth (in months)
+10-12 12-24 24-36 36+
+India 1.5 21.7 25.9 50.8
+Andhra Pradesh 1.0 27.7 32.5 38.8
+Assam 1.1 9.9 17.0 72.0
+Bihar 2.0 30.8 30.5 36.7
+Chhattisgarh 1.3 17.8 27.6 53.2
+Delhi 0.1 6.6 17.1 76.2
+Gujarat 1.6 19.8 25.8 52.8
+Haryana 2.9 24.4 27.4 45.3
+Himachal Pradesh 1.4 15.2 22.2 61.1
+Jammu & Kashmir 2.8 21.6 23.0 52.6
+Jharkhand 0.8 19.7 36.1 43.3
+Karnataka 0.6 23.7 30.6 45.1
+Kerala 0.5 11.4 17.4 70.7
+Madhya Pradesh 2.3 29.4 30.2 38.1
+Maharashtra 1.4 16.4 21.1 61.2
+Odisha 0.5 8.9 16.3 74.4
+Punjab 1.6 17.8 21.4 59.1
+Rajasthan 1.7 26.0 30.0 42.2
+Tamil Nadu 1.4 20.9 26.9 50.8
+Telangana 0.6 27.7 25.4 46.2
+Uttar Pradesh 1.3 20.2 23.9 54.6
+Uttarakhand 0.6 16.3 24.7 58.4
+West Bengal 2.3 9.7 15.7 72.3
+111

@@ -1,0 +1,31 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+3 Southern 612 11 Dindigul
+622 21 Sivaganga
+623 22 Madurai
+624 23 Theni
+625 24 Virudhunagar
+626 25 Ramanathapuram
+627 26 Thoothukkudi
+628 27 Tirunelveli
+629 28 Kanniyakumari
+4 Inland 608 07 Salem
+609 08 Namakkal
+610 09 Erode
+611 10 The Nilgiris
+630 29 Dharmapuri
+631 30 Krishnagiri
+632 31 Coimbatore
+633 32 Tiruppur
+34 Puducherry 1 Puducherry 634 01 Yanam
+635 02 Puducherry
+636 03 Mahe
+637 04 Karaikal
+35 Andaman & Nicobar Island 1 Andaman & Nicobar Island 638 01 Nicobars
+639 02 North & Middle Andaman
+640 03 South Andaman
+335

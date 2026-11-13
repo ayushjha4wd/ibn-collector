@@ -1,0 +1,25 @@
+3.13 The percentage change in age specific fertility rate during the last decade is
+presented below in Statement 20 separately for rural and urban areas. The data pertains to
+changes in the age specific fertility rates for the quinquennial age groups based on average
+value for three years period viz. 2007-09 and 2017-19 for all-India.
+3.14 During the last decade, the fertility declined in the older age groups in rural areas
+while it increased for the corresponding age groups in urban areas. At the national level,
+there is a shift in trend of fertility with an increase in fertility in the later ages 30-44, while a
+decrease in fertility in the lower age-groups 15-29. Charts 40, 41 and 42 depict the average
+Age-Specific Fertility Rates of India between 2007-09 and 2017-19 for Total, Rural and
+Urban areas respectively. Chart 43 shows the percentage change in average Age-Specific
+Fertility Rates between 2007-09 and 2017-19 by residence.
+Statement 20
+Percent change in Age Specific Fertility Rates by residence between
+2007-09 and 2017-19, India
+Age Total Rural Urban
+group 2007- 2017- % 2007- 2017- % 2007- 2017- %
+09 19 Change 09 19 Change 09 19 Change
+15-19 40.4 11.9 -70.5 46.4 13.6 -70.7 23.3 7.8 -66.5
+20-24 206.8 124.9 -39.6 227.3 139.3 -38.7 156.6 92.7 -40.8
+25-29 157.8 148.4 -6.0 168.3 162.5 -3.4 133.4 121.6 -8.8
+30-34 74.5 90.0 20.8 82.1 96.2 17.2 56.0 78.7 40.5
+35-39 31.5 35.6 13.0 37.2 39.2 5.4 18.0 29.1 61.7
+40-44 12.0 12.4 3.3 15.0 14.4 -4.0 5.0 8.8 76.0
+45-49 4.6 4.1 -10.9 6.1 5.0 -18.0 1.4 2.5 78.6
+68
