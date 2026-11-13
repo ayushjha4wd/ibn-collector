@@ -1,0 +1,15 @@
+RAID and FIR Management System: A separate WhatsApp number has been provided for
+lodging complaints exclusively related to power theft. A new facility has been introduced from
+August, 01 2023 for maintaining RAID and FIR records through online mode which was being
+done manually earlier and was difficult for tracking and monitoring of the records at the central
+level. A unique system-generated reference number is being provided for each RAID/FIR entry
+done by DISCOM officials. This application is directly linked with collection counters for
+centralised cash collection under this head. Tracking and monitoring of records are made easy
+through various MIS reports generated in this module. By utilizing this application, it has become
+easy to find how many RAID/FIRs have been conducted by field officials in their respective
+Circle/Division/Sub-Division/Sections. Consumers for whom RAID/FIR has been conducted will
+get an SMS at every stage of the process to make them aware of the process and can also pay the
+RAID/FIR amount using their reference number at the Collection Counter. This application has
+also significantly helped in revenue generation.
+
+312
