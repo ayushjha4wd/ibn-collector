@@ -1,0 +1,58 @@
+Chart 47: Percentage Distribution of Cummulative
+Fertility by Residence, India, 2024
+120
+y
+t
+i
+l i 100
+t
+r
+e
+F
+e 80
+v
+i
+t
+a
+l u 60
+m
+m
+u 40
+C
+Total Rural Urban
+e
+g
+a 20
+t
+n
+e
+c
+r 0
+e
+P
+15-19 15-24 15-29 15-34 15-39 15-44 15-49
+Age-group
+Chart 47 A: Contribution of various Age-Groups in
+Total Fertility by Residence, India, 2024
+100%
+80%
+y
+t 60%
+i
+l
+i
+t
+r
+e
+F 40%
+20%
+0%
+Total Rural Urban
+15-49 100.0 100.0 100.0
+15-44 99.5 99.5 99.6
+15-39 97.7 97.7 97.6
+15-34 91.2 91.7 89.8
+15-29 72.9 75.1 67.0
+15-24 34.0 36.4 27.5
+15-19 2.7 3.1 1.8
+82

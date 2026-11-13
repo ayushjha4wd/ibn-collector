@@ -1,0 +1,33 @@
+53. Average Total fertility rate (TFR) and percentage change between 2010- 91
+12 and 2020-22, India and bigger States/UTs - URBAN
+54. Trends in Total Fertility Rate, 1986-2022 by Residence, India 92
+55. Gross Reproduction Rate (GRR) by Residence, India and bigger 94
+States/UTs, 2022
+56. Age Specific Marital Fertility Rates (ASMFRs) by Residence, India, 95
+2022
+57. Total Marital Fertility Rate (TMFRs) by Residence, India and bigger 98
+States/UTs, 2022
+58. Average Total Marital Fertility Rate (TMFR) and percentage change 100
+between 2010-12 and 2020-22, India and bigger States/UTs
+59. Average Total Marital Fertility Rate (TMFR) and percentage change 101
+between 2010-12 and 2020-22, India and bigger States/UTs -RURAL
+60. Average Total Marital Fertility Rate (TMFR) and percentage change 102
+between 2010-12 and 2020-22, India and bigger States/UTs – URBAN
+61. Age Specific Fertility Rate by Level of Education of Women, India, 106
+2022
+62. Age Specific Fertility Rate by Level of Education of Women, India, 107
+2022 –RURAL
+63. Age Specific Fertility Rate by Level of Education of Women, India, 108
+2022 –URBAN
+64. Total Fertility Rate by Level of Education of Women, India, 2022 110
+65. Percentage distribution of current live births by Birth Order, India and 112
+bigger States/UTs, 2022
+66. Percentage distribution of current live births by Birth Order, India and 114
+bigger States/UTs, 2022 - RURAL
+67. Percentage distribution of current live births by Birth Order, India and 115
+bigger States/UTs, 2022 - URBAN
+68. Percentage distribution of second and higher order live births by Birth 117
+Interval, India and bigger States/UTs, 2022
+69. Percentage distribution of second and higher order live births by Birth 119
+Interval, India and bigger States/UTs, 2022- RURAL
+xiii

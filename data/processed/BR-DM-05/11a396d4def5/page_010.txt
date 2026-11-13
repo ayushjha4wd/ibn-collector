@@ -1,0 +1,35 @@
+LIST OF CHARTS
+Page
+1. Flow chart 11
+2. Percentage distribution of population by broad age-groups and 15
+Residence, India, 2023
+3. Population Pyramid, India, 2023 16
+4. Percentage of child population (0-4 years) to total population by 19
+Residence, India and bigger States/UTs, 2023
+5. Percentage of child population (0-4 years) to total population by Sex, 20
+India and bigger States/UTs, 2023
+6. Percentage of population aged 0-14 years to total population by 22
+Residence, India and bigger States/UTs, 2023
+7. Percentage of population aged 0-14 years to total population by Sex, 23
+India and bigger States/UTs, 2023
+8. Percentage of population aged 15-59 years to total population by 25
+Residence, India and bigger States/UTs, 2023
+9. Percentage of population aged 15-59 years to total population by Sex, 26
+India and bigger States/UTs, 2023
+10. Percentage of population aged 60+ years to total population by 29
+Residence, India and bigger States/UTs, 2023
+11. Percentage of population aged 60+ years to total population by Sex, 30
+India and bigger States/UTs, 2023
+12. Percentage distribution of population by marital status, India and 32
+bigger States/UTs, 2023
+13. Percentage distribution of MALE population by marital status, India 33
+and bigger States/UTs, 2023
+14. Percentage distribution of FEMALE population by marital status, 34
+India and bigger States/UTs, 2023
+15. Percentage distribution of population aged 10+ years by marital status, 37
+India and bigger States/UTs, 2023
+16. Percentage distribution of MALE population aged 10+ years by 38
+marital status, India and bigger States/UTs, 2023
+17. Percentage distribution of FEMALE population aged 10+ years by 39
+marital status, India and bigger States/UTs, 2023
+x

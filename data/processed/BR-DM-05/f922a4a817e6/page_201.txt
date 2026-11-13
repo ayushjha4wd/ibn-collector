@@ -1,0 +1,38 @@
+Survival to Age-5:
+4.19 Survival to Age-5 or the Probability of Survival to Age-5 is defined as the probability
+that a child born during the specified year will survive till age 5, subject to current Age-Specific
+Mortality Rates. Survival to Age 5 or Probability of Survival to Age 5 is calculated as the
+complement of the Under-5 Mortality Rate. Probability of Survival to Age-5 by sex and
+residence for the year 2024 is given in statement 54 for India and bigger States/UTs. The
+probability of survival to Age 5 in the year 2024 was estimated at 0.972 for the country, and
+remains identical for both males and females. The Probability of Survival to Age 5 was
+estimated as 0.968 for Rural areas and 0.981 for Urban Areas during 2024. The probability of
+Survival to Age-5 varies from 0.959 in Madhya Pradesh and Uttar Pradesh to 0.991 in Kerala.
+Statement 54
+Survival to Age-five by Sex and Residence, India and Bigger States/UTs, 2024
+India & bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 0.972 0.972 0.972 0.968 0.969 0.968 0.981 0.980 0.982
+Andhra Pradesh 0.979 0.978 0.980 0.976 0.975 0.978 0.985 0.986 0.985
+Assam 0.966 0.966 0.966 0.964 0.965 0.964 0.984 0.982 0.986
+Bihar 0.975 0.977 0.973 0.975 0.977 0.972 0.976 0.975 0.977
+Chhattisgarh 0.961 0.963 0.958 0.959 0.962 0.955 0.970 0.969 0.972
+Delhi 0.987 0.986 0.989 0.987 0.985 0.990 0.987 0.986 0.989
+Gujarat 0.979 0.978 0.980 0.976 0.975 0.978 0.983 0.983 0.983
+Haryana 0.971 0.971 0.971 0.967 0.967 0.968 0.977 0.978 0.977
+Himachal Pradesh 0.985 0.985 0.986 0.985 0.984 0.987 0.988 0.993 0.981
+Jammu & Kashmir 0.985 0.983 0.986 0.984 0.983 0.986 0.986 0.984 0.989
+Jharkhand 0.968 0.967 0.969 0.966 0.966 0.966 0.977 0.973 0.981
+Karnataka 0.982 0.983 0.982 0.979 0.978 0.979 0.987 0.988 0.986
+Kerala 0.991 0.992 0.991 0.994 0.995 0.993 0.989 0.989 0.989
+Madhya Pradesh 0.959 0.959 0.959 0.957 0.956 0.957 0.967 0.967 0.966
+Maharashtra 0.985 0.985 0.985 0.982 0.982 0.982 0.988 0.988 0.989
+Odisha 0.967 0.966 0.967 0.965 0.964 0.966 0.976 0.975 0.977
+Punjab 0.981 0.980 0.982 0.980 0.979 0.982 0.983 0.982 0.983
+Rajasthan 0.966 0.968 0.964 0.964 0.967 0.961 0.973 0.970 0.976
+Tamil Nadu 0.986 0.986 0.986 0.984 0.985 0.983 0.988 0.987 0.989
+Telangana 0.980 0.981 0.980 0.978 0.980 0.975 0.984 0.982 0.986
+Uttar Pradesh 0.959 0.959 0.959 0.955 0.954 0.955 0.974 0.974 0.973
+Uttarakhand 0.979 0.979 0.979 0.978 0.978 0.979 0.981 0.982 0.979
+West Bengal 0.981 0.982 0.981 0.982 0.982 0.981 0.981 0.981 0.981
+173

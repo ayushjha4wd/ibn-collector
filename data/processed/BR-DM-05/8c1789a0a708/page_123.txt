@@ -1,0 +1,35 @@
+3.23 Values of the Age-Specific Marital Fertility Rates (ASMFR) for the year 2022 in bigger
+States/UTs are given below in Statement 28. Age-Specific Marital Fertility Rate is at peak level in
+the age-group 20-24 at the National level and the majority of bigger States/UTs; however, for the
+States/UTs of Assam, Delhi, Himachal Pradesh, Jharkhand,Kerala and West Bengal, the ASMFR is
+at peak level in the age-group 15-19. There is a significant decline in marital fertility for women
+aged 30 years onwards, for all bigger States/UTs.
+Statement 28
+ASMFRs (Age-Specific Marital Fertility Rates), India and bigger
+States/UTs, 2022
+India and bigger 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+States/UTs
+India 311.3 329.7 216.5 95.2 36.2 12.3 4.7
+Andhra Pradesh 249.0 300.5 183.5 45.7 13.6 5.1 3.2
+Assam 458.7 277.1 198.8 118.7 51.0 18.3 5.6
+Bihar 387.3 397.7 323.8 142.7 56.8 19.4 9.1
+Chhattisgarh 294.6 378.0 238.4 106.5 39.1 15.5 6.1
+Delhi 305.4 289.9 199.2 82.7 24.5 9.0 2.7
+Gujarat 319.7 332.4 206.3 86.2 29.0 9.5 3.6
+Haryana 238.4 348.6 234.9 83.6 25.3 9.4 4.3
+Himachal Pradesh 309.7 242.2 186.8 82.2 28.7 8.6 1.9
+Jammu & Kashmir 301.5 350.7 286.1 189.5 64.1 30.8 12.9
+Jharkhand 382.9 340.3 244.4 90.1 45.9 16.1 11.1
+Karnataka 205.9 244.7 171.9 81.8 26.9 6.8 3.1
+Kerala 323.6 245.4 153.1 73.8 25.6 5.5 1.7
+Madhya Pradesh 300.5 327.2 247.7 100.0 42.2 14.5 4.4
+Maharashtra 240.9 321.4 181.1 67.3 21.1 6.8 2.9
+Odisha 186.5 246.0 167.7 87.6 27.8 7.8 3.3
+Punjab 237.4 270.8 188.4 95.3 26.8 8.2 2.2
+Rajasthan 250.0 372.7 252.2 101.2 38.2 12.0 7.0
+Tamil Nadu 223.0 278.7 152.5 54.3 14.4 4.6 1.0
+Telangana 210.8 272.1 194.6 72.8 20.0 7.8 5.4
+Uttar Pradesh 402.9 429.1 293.4 150.1 70.3 26.1 7.7
+Uttarakhand 260.5 288.1 240.8 104.5 39.1 10.9 3.8
+West Bengal 292.9 259.3 120.9 51.3 14.3 4.2 2.2
+96

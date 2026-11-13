@@ -1,0 +1,26 @@
+40.0 0.0
+35.0
+-10.0
+30.0
+-20.0
+25.0
+-30.0
+20.0
+-40.0
+15.0
+-50.0
+10.0
+-60.0
+5.0
+0.0 -70.0
+151
+etaR
+ytiltaroM
+tnafnI
+egarevA
+Percent
+change
+Chart 90: Average Infant Mortality Rate between 2012-14 & 2022-24, India and
+Bigger States/UTs - URBAN
+2012-14 2022-24 % Change
+India and bigger States/UTs

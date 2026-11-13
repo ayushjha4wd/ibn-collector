@@ -1,0 +1,50 @@
+Annex.-II
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+6 Eastern 506 10 Bhandara
+507 11 Gondiya
+508 12 Gadchiroli
+509 13 Chandrapur
+36 Telangana 3 Inland North Western 532 01 Adilabad
+533 02 Nizamabad
+535 04 Medak
+536 05 Hyderabad
+537 06 Rangareddy
+538 07 Mahbubnagar
+4 Inland North Eastern 534 03 Karimnagar
+539 08 Nalgonda
+540 09 Warangal
+541 10 Khammam
+37 Andhra Pradesh 1 Coastal Northern 542 11 Srikakulam
+543 12 Vizianagaram
+544 13 Visakhapatnam
+545 14 East Godavari
+546 15 West Godavari
+2 Coastal Southern 547 16 Krishna
+548 17 Guntur
+549 18 Prakasam
+550 19 Sri Potti Sriramulu Nellore
+5 Inland Southern 551 20 Y.S.R.
+552 21 Kurnool
+553 22 Anantapur
+554 23 Chittoor
+29 Karnataka 1 Coastal & Ghats 563 09 Uttara Kannada
+569 15 Udupi
+575 21 Dakshina Kannada
+2 Inland Eastern 568 14 Shimoga
+570 16 Chikmagalur
+574 20 Hassan
+576 22 Kodagu
+3 Inland Southern 571 17 Tumkur
+572 18 Bangalore
+573 19 Mandya
+577 23 Mysore
+578 24 Chamarajanagar
+581 27 Kolar
+582 28 Chikkaballapura
+583 29 Bangalore Rural
+584 30 Ramanagara
+331

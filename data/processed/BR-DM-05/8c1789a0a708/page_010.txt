@@ -1,0 +1,35 @@
+LIST OF CHARTS
+Page
+1. Flow chart 11
+2. Percentage distribution of population by broad age-groups and 15
+Residence, India, 2022
+3. Population Pyramid, India, 2022 16
+4. Percentage of child population (0-4 years) to total population by 19
+Residence, India and bigger States/UTs, 2022
+5. Percentage of child population (0-4 years) to total population by Sex, 20
+India and bigger States/UTs, 2022
+6. Percentage of population aged 0-14 years to total population by 22
+Residence, India and bigger States/UTs, 2022
+7. Percentage of population aged 0-14 years to total population by Sex, 23
+India and bigger States/UTs, 2022
+8. Percentage of population aged 15-59 years to total population by 25
+Residence, India and bigger States/UTs, 2022
+9. Percentage of population aged 15-59 years to total population by Sex, 26
+India and bigger States/UTs, 2022
+10. Percentage of population aged 60+ years to total population by 29
+Residence, India and bigger States/UTs, 2022
+11. Percentage of population aged 60+ years to total population by Sex, 30
+India and bigger States/UTs, 2022
+12. Percentage distribution of population by marital status, India and bigger 32
+States/UTs, 2022
+13. Percentage distribution of MALE population by marital status, India 33
+and bigger States/UTs, 2022
+14. Percentage distribution of FEMALE population by marital status, India 34
+and bigger States/UTs, 2022
+15. Percentage distribution of population aged 10+ years by marital status, 37
+India and bigger States/UTs, 2022
+16. Percentage distribution of MALE population aged 10+ years by marital 38
+status, India and bigger States/UTs, 2022
+17. Percentage distribution of FEMALE population aged 10+ years by 39
+marital status, India and bigger States/UTs, 2022
+x

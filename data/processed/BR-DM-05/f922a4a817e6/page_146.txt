@@ -1,0 +1,40 @@
+3.35 Statement 38 below presents the percentage distribution of second and higher-order live
+births by the interval between current and previous live birth separately for rural and urban
+areas in 2024. In India, 1.4% of second and higher-order live births in rural areas occurred
+within 10-12 months of the previous live birth, while 20.6%, 26.6%, and 51.4% of births
+occurred within 12-24 months, 24-36 months and 36+ months respectively. In urban areas, the
+percentage distribution of live births by interval was 1.3%, 15.5%, 23.7%, and 59.5%
+respectively. The percentage distribution of live births by interval and residence varied across
+different States and UTs. Charts 69 and 70 give the percentage distribution of second and
+higher order live births by interval for rural and urban areas respectively.
+Statement 38
+Percentage Distribution of Second and higher Order live Births by Birth
+Interval and Residence, India and Bigger States/UTs, 2024
+India and Bigger The interval between current and previous live birth (in
+States/UTs months)
+Rural Urban
+10-12 12-24 24-36 36+ 10-12 12-24 24-36 36+
+India 1.4 20.6 26.6 51.4 1.3 15.5 23.7 59.5
+Andhra Pradesh 1.0 28.6 34.8 35.7 2.1 32.7 38.0 27.2
+Assam 0.4 6.5 14.7 78.4 0.4 3.6 8.8 87.2
+Bihar 1.5 22.2 32.3 43.9 1.3 23.6 30.4 44.8
+Chhattisgarh 1.0 14.0 34.9 50.1 0.5 18.2 19.6 61.7
+Delhi 0.0 19.9 17.5 62.7 2.1 10.6 17.4 69.9
+Gujarat 1.2 20.7 24.5 53.6 1.6 12.1 25.5 60.8
+Haryana 2.3 22.2 30.4 45.2 0.7 17.5 33.3 48.5
+Himachal Pradesh 1.0 11.5 20.7 66.8 0.0 10.0 16.0 74.0
+Jammu & Kashmir 0.8 11.7 22.9 64.5 1.0 7.0 19.5 72.5
+Jharkhand 0.8 17.9 21.0 60.3 1.9 15.5 18.0 64.7
+Karnataka 1.4 25.3 31.0 42.3 0.9 14.4 24.5 60.2
+Kerala 0.9 10.3 16.0 72.8 0.3 9.5 12.3 77.9
+Madhya Pradesh 2.2 30.7 30.1 37.1 1.8 17.4 20.0 60.8
+Maharashtra 0.5 17.1 24.4 58.0 1.5 11.4 24.5 62.6
+Odisha 0.4 8.8 18.5 72.4 0.0 11.0 8.8 80.2
+Punjab 1.0 15.7 18.4 64.9 1.6 19.5 20.5 58.3
+Rajasthan 2.0 22.7 28.1 47.2 0.5 18.0 26.8 54.7
+Tamil Nadu 0.9 20.6 30.5 48.0 1.2 16.1 24.2 58.5
+Telangana 1.2 40.3 32.6 25.9 0.0 22.3 35.3 42.4
+Uttar Pradesh 1.8 21.5 25.9 50.8 2.2 15.9 25.7 56.2
+Uttarakhand 3.0 20.3 23.9 52.9 2.1 17.1 19.8 61.0
+West Bengal 0.3 6.7 15.1 77.9 0.2 12.2 17.9 69.7
+118

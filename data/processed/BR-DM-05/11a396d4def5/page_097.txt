@@ -1,0 +1,37 @@
+110.0
+100.0
+90.0
+80.0
+Bihar
+Rajasthan
+70.0
+Uttar Pradesh
+Madhya Pradesh
+60.0
+Haryana
+Jharkhand
+Gujarat Chhattisgarh
+Uttarakhand
+India
+50.0 Telangana
+Andhra Pradesh
+Punjab Karnataka
+Kerala Assam
+Maharashtra
+Delhi
+Tamil Nadu
+40.0 Odisha
+Jammu & Kashmir
+West Bengal
+Himachal Pradesh
+30.0
+30.0 40.0 50.0 60.0 70.0 80.0 90.0 100.0 110.0
+70
+etaR
+ytilitreF
+lareneG
+nabrU
+Chart 37: Distribution of bigger States/UTs by General Fertility Rate(GFR) for Rural and
+Urban areas, 2023
+Line of Equity
+Rural General Fertility Rate

@@ -1,0 +1,41 @@
+Table 8
+Age-Specific Death Rate by Sex and Residence, 2021
+Andhra Pradesh
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 21.7 21.5 21.9 24.4 24.6 24.2 15.9 14.7 17.1
+1-4 0.7 0.7 0.6 0.9 0.9 0.9 0.2 0.5 0.0
+0-4 5.8 5.8 5.9 6.9 6.8 6.9 3.8 3.8 3.8
+5-9 0.4 0.8 0.0 0.6 1.3 0.0 0.0 0.0 0.0
+10-14 0.2 0.2 0.2 0.1 0.2 0.1 0.4 0.4 0.4
+15-19 0.6 1.0 0.2 1.0 1.5 0.3 0.0 0.0 0.0
+20-24 1.1 1.1 1.2 1.4 1.2 1.6 0.6 0.8 0.3
+25-29 1.5 2.3 0.7 1.7 2.5 0.9 1.1 2.0 0.3
+30-34 2.3 3.3 1.1 2.3 3.4 1.2 2.2 3.3 1.1
+35-39 3.2 4.7 1.7 3.2 4.6 1.9 3.2 4.9 1.5
+40-44 5.2 7.1 3.2 5.2 7.3 3.1 5.0 6.8 3.2
+45-49 6.8 8.5 4.9 7.4 9.3 5.4 5.4 7.0 3.6
+50-54 9.7 13.2 6.3 11.1 14.7 7.7 7.0 10.4 3.7
+55-59 15.3 17.8 12.8 15.9 18.3 13.5 14.2 16.8 11.4
+60-64 22.9 26.1 19.7 23.4 26.1 20.7 21.7 26.0 17.4
+65-69 36.0 40.1 31.2 38.2 41.5 34.2 30.7 36.7 24.4
+70-74 59.9 68.2 50.4 68.8 78.0 58.0 37.0 41.7 31.9
+75-79 86.1 97.4 74.3 99.3 111.1 87.2 57.4 68.6 45.1
+80-84 102.8 122.3 84.9 103.6 124.0 84.7 100.6 117.2 85.6
+85+ 135.4 155.9 113.2 135.2 151.5 118.3 135.9 167.7 97.0
+All ages 8.0 9.6 6.2 8.9 10.6 7.2 6.0 7.6 4.4
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and Infant Mortality Indicators, 2021
+Andhra Pradesh
+Indicators Total Rural Urban
+Child mortality rate 6 7 4
+Under-five mortality rate 24 28 17
+Infant mortality rate 22 24 16
+Neo-natal mortality rate 16 18 11
+Early neo-natal mortality rate 13 14 9
+Late neo-natal mortality rate 3 4 2
+Post neo-natal mortality rate 6 6 5
+Peri-natal mortality rate 17 20 12
+Still birth rate 5 6 3
+273

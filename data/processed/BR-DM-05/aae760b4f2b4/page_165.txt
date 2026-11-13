@@ -1,0 +1,37 @@
+4.12 The percentage change in the average level of infant mortality between 2008-10
+and 2018-20 is given below in Statement 47. During this period, IMR, at the National
+level, declined by 40.2 percent. Among the bigger States/UTs, the decline varies from
+63.2 percent in Delhi to 26.5 percent in Chhattisgarh. In the rural areas, decline in IMR
+varies from 76.0 percent in Delhi to 25.4 percent in Chhattisgarh. In urban areas, the
+highest decline in IMR during the period has been 61.8 percent in Delhi.
+Statement 47
+Percent change in average Infant Mortality Rates between 2008-10 and 2018-20
+by residence, India and bigger States/UTs
+India and Bigger States/UTs Total Rural Urban
+2008- 2018- % 2008- 2018- % 2008- 2018- %
+10 20 Change 10 20 Change 10 20 Change
+India 50.3 30.1 -40.2 55.0 33.6 -38.9 33.6 20.7 -38.4
+Andhra Pradesh* 48.9 25.3 -48.3 54.3 28.4 -47.7 34.7 19.0 -45.2
+Assam 60.9 39.1 -35.8 63.4 41.5 -34.5 37.3 18.6 -50.1
+Bihar 51.7 29.4 -43.1 52.7 29.7 -43.6 40.0 27.2 -32.0
+Chhattisgarh 53.9 39.6 -26.5 55.1 41.1 -25.4 46.0 33.1 -28.0
+Delhi 32.6 12.0 -63.2 38.8 9.3 -76.0 31.4 12.0 -61.8
+Gujarat 47.1 25.1 -46.7 55.0 29.6 -46.2 32.6 18.2 -44.2
+Haryana 50.6 28.4 -43.9 54.4 31.0 -43.0 40.4 23.5 -41.8
+Himachal Pradesh 43.0 18.7 -56.5 44.0 18.9 -57.0 28.3 14.4 -49.1
+Jammu & Kashmir# 45.8 19.6 -57.2 48.0 20.5 -57.3 34.3 16.6 -51.6
+Jharkhand 44.1 27.3 -38.1 46.3 28.3 -38.9 30.7 23.0 -25.1
+Karnataka 41.4 21.0 -49.3 46.6 22.7 -51.3 30.7 18.0 -41.4
+Kerala 12.2 6.5 -46.7 12.8 6.7 -47.7 10.3 6.3 -38.8
+Madhya Pradesh 66.5 45.9 -31.0 70.9 49.4 -30.3 44.7 32.6 -27.1
+Maharashtra 30.6 17.5 -42.8 36.7 21.6 -41.1 21.7 12.2 -43.8
+Odisha 65.0 37.6 -42.2 67.2 38.8 -42.3 45.7 29.5 -35.4
+Punjab 37.6 19.2 -48.9 41.5 20.0 -51.8 30.5 18.0 -41.0
+Rajasthan 58.9 34.8 -40.9 65.1 37.8 -41.9 34.6 24.7 -28.6
+Tamil Nadu 27.7 14.1 -49.1 29.5 16.7 -43.4 25.3 11.7 -53.8
+Uttar Pradesh 63.6 40.6 -36.2 66.9 43.1 -35.6 46.6 31.4 -32.6
+Uttarakhand 41.1 27.4 -33.3 44.4 27.8 -37.4 25.5 26.4 3.5
+West Bengal 33.0 20.2 -38.8 34.4 20.7 -39.8 26.9 18.4 -31.6
+* Andhra Pradesh includes Telangana.
+# Jammu & Kashmir includes Ladakh
+138

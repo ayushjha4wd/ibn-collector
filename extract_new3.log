@@ -1,3 +1,12 @@
 Skipping 376 flagged file(s) (see flag.py)
 [           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2018.pdf  (370 outputs)
 [           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2019.pdf  (369 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2020.pdf  (458 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2021.pdf  (1939 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2022.pdf  (2026 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2023.pdf  (398 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/Corrigendum_to_SRS_Reports_2023.pdf  (1 outputs)
+[           ok] BR-DM-05   data/raw/BR-DM-05/2026-11-13/SRS_STAT_2024.pdf  (405 outputs)
+
+Extraction: already_done=13, ok=8
+extract exit 0

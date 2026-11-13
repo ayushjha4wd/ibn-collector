@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DDW-1000C-02ST-fer3-MDDS.xls",
+  "raw_sha256": "f8339be9ea4dd079455de8c44dca6682dbf309675f765f83409c2987f0d4a83d",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/10375/download/13487",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:02:07+00:00",
+  "obtained_on": null,
+  "kind": "xls",
+  "outputs": [
+    "data/processed/BR-DM-02/f8339be9ea4d/sheets/C02ST.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

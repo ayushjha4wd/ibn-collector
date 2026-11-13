@@ -1,0 +1,44 @@
+4.6 Statement 41 given below shows the percentage change in the level of Crude Death Rate
+between the period 2010-12 and 2020-22 for India and bigger States/UTs. Overall, there was a
+decrease in the Crude Death Rate in India from 7.1% in 2010-12 to 6.8% in 2020-22, representing
+a decline by 4.2%. The rural Crude Death Rate also decreased from 7.6% to 7.2%, a percentage
+change of -5.3%, while the urban Crude Death Rate decreased from 5.7% to 5.9%, a percentage
+change of 3.5%. Among the bigger States and Union Territories, there was a significant decrease in
+the Crude Death Rate for Assam (-20.0%), Uttar Pradesh (-15.2%) and Jharkhand (-14.5%), while
+the highest increase in the Crude Death Rate was for Punjab (17.6%) followed by Chhattisgarh
+(13.9%), Kerala (12.9%) and Haryana (10.8%). Other States and Union Territories showed more
+modest changes in the Crude Death Rate over the period. Chart 76, 77 and 78 depict the average
+death rate between 2010-12 and 2020-22 in India and bigger States/UTs for Total, Rural and Urban
+areas respectively along with the respective rate of change. Chart 79 shows the year-wise death rate
+from 1985 to 2022 by Residence for India.
+Statement 41
+Average Crude Death Rate and percentage change between 2010-12 and 2020-22,
+by Residence, India and bigger States/UTs
+India and bigger States/UTs Total Rural Urban
+2010- 2020- % 2010- 2020- % 2010- 2020- %
+12 22 Change 12 22 Change 12 22 Change
+India 7.1 6.8 -4.2 7.6 7.2 -5.3 5.7 5.9 3.5
+Andhra Pradesh* 7.5 6.9 -8.0 8.5 7.8 -8.2 5.2 5.3 1.9
+Assam 8.0 6.4 -20.0 8.5 6.5 -23.5 5.7 5.9 3.5
+Bihar 6.7 6.2 -7.5 6.9 6.2 -10.1 5.5 5.8 5.5
+Chhattisgarh 7.9 9.0 13.9 8.3 9.4 13.3 6.1 7.7 26.2
+Delhi 4.2 4.5 7.1 4.6 5.5 19.6 4.2 4.5 7.1
+Gujarat 6.7 7.0 4.5 7.4 8.0 8.1 5.6 5.8 3.6
+Haryana 6.5 7.2 10.8 7.0 7.6 8.6 5.4 6.6 22.2
+Himachal Pradesh 6.8 7.4 8.8 7.1 7.6 7.0 3.8 5.2 36.8
+Jammu & Kashmir# 5.5 5.4 -1.8 5.8 5.5 -5.2 4.7 5.3 12.8
+Jharkhand 6.9 5.9 -14.5 7.3 6.0 -17.8 5.2 5.4 3.8
+Karnataka 7.1 7.4 4.2 8.0 8.5 6.3 5.4 5.7 5.6
+Kerala 7.0 7.9 12.9 7.1 7.7 8.5 6.6 8.1 22.7
+Madhya Pradesh 8.2 7.2 -12.2 8.8 7.6 -13.6 6.1 6.4 4.9
+Maharashtra 6.4 6.5 1.6 7.3 7.6 4.1 5.1 5.2 2.0
+Odisha 8.6 7.9 -8.1 8.9 8.2 -7.9 6.5 6.5 0.0
+Punjab 6.8 8.0 17.6 7.6 9.3 22.4 5.6 6.4 14.3
+Rajasthan 6.7 6.2 -7.5 6.9 6.3 -8.7 5.8 5.7 -1.7
+Tamil Nadu 7.5 7.2 -4.0 8.1 8.5 4.9 6.6 6.1 -7.6
+Uttar Pradesh 7.9 6.7 -15.2 8.3 6.9 -16.9 6.1 6.1 0.0
+Uttarakhand 6.2 6.5 4.8 6.5 6.7 3.1 4.9 5.9 20.4
+West Bengal 6.2 6.2 0.0 6.1 6.1 0.0 6.5 6.5 0.0
+* Andhra Pradesh includes Telangana.
+# Jammu & Kashmir includes Ladakh
+131

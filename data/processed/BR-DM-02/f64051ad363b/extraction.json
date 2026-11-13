@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DS-1000-D01-MDDS.XLSX",
+  "raw_sha256": "f64051ad363bb1f78e50ddee6aafd18d30c1cc19dfaf2ce4995d2c5694ee39d9",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/10676/download/13788",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:04:26+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/f64051ad363b/sheets/D-01.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

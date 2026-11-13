@@ -1,0 +1,32 @@
+Statement 18
+Percent change in average GFR (General Fertility Rate) between
+2010-12 and 2020-22 by residence, India and bigger States/UTs
+Total Rural Urban
+India and bigger
+2010- 2020- % 2010- 2020- % 2010- 2020- %
+States/UTs
+12 22 Change 12 22 Change 12 22 Change
+India 81.8 66.7 -18.5 89.5 73.6 -17.8 62.5 53.3 -14.7
+Andhra Pradesh 61.9 52.0 -16.0 64.3 53.7 -16.5 56.5 48.9 -13.5
+Assam 82.8 69.6 -15.9 88.6 73.8 -16.7 51.9 46.3 -10.8
+Bihar 110.6 95.3 -13.8 115.6 97.9 -15.3 78.5 77.6 -1.1
+Chhattisgarh 92.4 75.6 -18.2 99.6 82.1 -17.6 62.7 55.8 -11.0
+Delhi 63.8 46.1 -27.7 71.7 51.5 -28.2 68.7 46.0 -33.0
+Gujarat 84.3 65.8 -21.9 91.5 73.7 -19.5 67.2 56.9 -15.3
+Haryana 81.2 68.3 -15.9 86.4 73.5 -14.9 70.0 60.2 -14.0
+Himachal Pradesh 57.6 51.0 -11.5 59.7 52.7 -11.7 38.1 33.3 -12.6
+Jammu & Kashmir 62.7 48.1 -23.3 67.9 53.1 -21.8 44.0 37.1 -15.7
+Jharkhand 96.4 75.7 -21.5 103.1 81.5 -21.0 69.6 58.9 -15.4
+Karnataka 66.3 54.2 -18.3 70.9 58.1 -18.1 58.5 48.5 -17.1
+Kerala 53.5 45.1 -15.7 54.1 45.0 -16.8 51.6 45.1 -12.6
+Madhya Pradesh 103.7 86.0 -17.1 112.6 94.4 -16.2 72.4 63.9 -11.7
+Maharashtra 62.1 51.3 -17.4 67.4 55.2 -18.1 55.8 47.1 -15.6
+Odisha 73.0 59.2 -18.9 76.9 63.5 -17.4 50.8 41.4 -18.5
+Punjab 59.5 49.5 -16.8 62.1 52.0 -16.3 55.4 46.3 -16.4
+Rajasthan 102.5 83.8 -18.2 109.3 88.6 -18.9 82.3 70.9 -13.9
+Tamil Nadu 56.3 45.8 -18.7 58.1 46.1 -20.7 54.0 45.5 -15.7
+Uttar Pradesh 108.2 86.1 -20.4 114.1 90.9 -20.3 85.5 72.2 -15.6
+West Bengal 58.5 47.5 -18.8 65.6 52.1 -20.6 40.3 37.2 -7.7
+Note: Andhra Pradesh, Jammu & Kashmir and Uttar Pradesh include Telangana, Ladakh
+and Uttarakhand respectively
+72

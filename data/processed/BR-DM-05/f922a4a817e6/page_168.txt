@@ -1,0 +1,23 @@
+100.0
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+140
+egatnecreP
+Chart 82: Distribution of deaths by broad age groups, India and Bigger
+States/UTs, 2024
+0-4 years
+5-14
+years
+15-59
+years
+60+
+years
+India and bigger States/UTs

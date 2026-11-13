@@ -1,0 +1,32 @@
+Page
+46 Infant Mortality Rate by Sex and Residence, India and States/UTs, 143
+2024
+47 Average Infant Mortality Rate and percentage change between 148
+2012-14 and 2022-24 by Residence, India and bigger States/UTs
+48 Neo-natal Mortality Rate and percentage share of neo-natal deaths 152
+to infant deaths by Residence, India and bigger States/UTs, 2024
+49 Early Neo-natal Mortality Rate and percentage share of early neo- 156
+natal deaths to infant deaths by Residence, India and bigger
+States/UTs, 2024
+50 Peri-natal Mortality Rate and Still Birth Rate by Residence, India 160
+and bigger States/UTs, 2024
+51 Percentage of deaths in the age group 0-4 years to total deaths by 163
+Residence, India and bigger States/UTs, 2024
+52 Estimated death rate for children aged 0-4 years by Sex and 165
+Residence, India and bigger States/UTs, 2024
+53 Under-5 Mortality Rate (U5MR) by Sex and Residence, India and 169
+bigger States/UTs, 2024
+54 Survival to Age-five by Sex and Residence, India and bigger 173
+States/UTs, 2024
+55 Death Rate for children aged 5-14 years by Sex and Residence, 174
+India and bigger States/UTs, 2024
+56 Death Rate for persons aged 15-59 years by Sex and Residence, 178
+India and bigger States/UTs, 2024
+57 Adult Survival Rate by Sex and Residence, India and bigger 182
+States/UTs, 2024
+58 Death Rate for persons aged 60 years and above by Sex and 183
+Residence, India and bigger States/UTs, 2024
+59 Percent distribution of deaths by Type of Medical Attention 188
+received before death by Residence, India and bigger States/UTs,
+2024
+ix

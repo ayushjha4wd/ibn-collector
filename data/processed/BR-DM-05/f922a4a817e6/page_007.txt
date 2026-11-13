@@ -1,0 +1,30 @@
+LIST OF STATEMENTS
+Page
+General
+1 Number of Sample Units at different replacement period 2
+2 Number of Sample Units and population covered, India, States and 6
+Union Territories, 2024
+Population Composition
+3 Percentage distribution of the population by broad age groups, 14
+Sex and Residence, India, 2024
+4 Percentage of population in the age group 0-4 years by Sex and 18
+Residence, India and bigger States/UTs, 2024
+5 Percentage of population in the age group 0-14 years by Sex and 21
+Residence, India and bigger States/UTs, 2024
+6 Percentage of population in the age group 15-59 years by Sex 24
+and Residence, India and bigger States/UTs, 2024
+7 Percentage of population in the age group 60 years and above by 28
+Sex and Residence, India and bigger States/UTs, 2024
+8 Percentage distribution of population by Marital Status and Sex, 31
+India and bigger States/UTs, 2024
+9 Percentage distribution of population aged 10+ by Marital Status 36
+and Sex, India and bigger States/UTs, 2024
+10 Percentage distribution of females aged 10+ by Marital Status 40
+and Residence, India and bigger States/UTs, 2024
+11 Percentage distribution of females aged 15+ by Marital Status 43
+and Residence, India and bigger States/UTs, 2024
+12 Percentage of females by age at effective marriage and by 48
+Residence, India and bigger States/UTs, 2024
+13 Mean Age at Effective Marriage of females by Residence, India 53
+and bigger States/UTs, 2024
+vi

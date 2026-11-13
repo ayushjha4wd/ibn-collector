@@ -1,0 +1,39 @@
+4.10 The percentage share of infant deaths to total deaths by residence for 2024 is shown below
+in Statement 45 for India and bigger States/UTs. The data shows that in India, 7.0% of deaths
+were in the ‘less than 1 year’ age-group while 8.2% of rural deaths and 4.4% urban deaths are of
+Infants. The percentage vary across different States/UTs, with higher percentage of infant deaths
+in rural areas compared to urban areas in most cases except Delhi, Tamil Nadu, and Kerala. The
+percentage of infant deaths varies across different States/UTs, with some States having much
+higher rates of Infant Mortality than others. For example, Uttar Pradesh has the highest percentage
+of infant deaths (13.2%) while Kerala has the lowest at 1.2%. However, the higher percentage of
+infant deaths in rural areas compared to urban areas is consistent across most States/UTs,
+indicating that this is a nationwide trend. Chart 83 provides the pictorial representation of the
+percentage of Infants deaths to total deaths by residence for India and bigger States/UTs.
+Statement 45
+Percentage of Infant Deaths to Total Deaths by Residence,
+India and Bigger States/UTs, 2024
+India and bigger States/UTs Total Rural Urban
+India 7.0 8.2 4.4
+Andhra Pradesh 3.9 4.1 3.2
+Assam 9.3 10.3 3.4
+Bihar 10.2 10.4 8.4
+Chhattisgarh 9.6 10.6 6.0
+Delhi 3.0 2.2 3.1
+Gujarat 5.2 5.8 4.2
+Haryana 6.7 7.7 5.0
+Himachal Pradesh 2.1 2.2 1.3
+Jammu & Kashmir 3.7 4.2 2.6
+Jharkhand 9.3 10.3 5.7
+Karnataka 3.2 3.3 2.9
+Kerala 1.2 0.8 1.6
+Madhya Pradesh 11.9 13.1 8.3
+Maharashtra 3.0 3.2 2.7
+Odisha 5.7 6.0 4.3
+Punjab 3.0 3.1 2.9
+Rajasthan 11.1 12.0 8.5
+Tamil Nadu 1.9 1.8 1.9
+Telangana 4.1 4.1 4.1
+Uttar Pradesh 13.2 14.6 8.6
+Uttarakhand 5.3 5.5 4.7
+West Bengal 3.9 4.4 2.8
+141

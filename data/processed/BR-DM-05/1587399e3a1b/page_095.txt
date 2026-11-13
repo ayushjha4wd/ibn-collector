@@ -1,0 +1,39 @@
+General Fertility Rate:
+3.9 Estimates of General Fertility Rate (GFR), a refined measure of fertility, being defined as
+the number of live births per thousand women in the reproductive age group 15-49 years, is a
+useful tool for measuring fertility. The GFR for all-India and bigger States/UTs for the year 2021
+are given below in Statement 17, separately for rural and urban areas. The overall GFR for India
+was 67.2 in 2021, with higher rates in rural areas (74.0) compared to urban areas (53.9). Among
+the bigger States/UTs, Bihar had the highest GFR (94.1), followed by Uttar Pradesh (87.6) and
+Madhya Pradesh (86.8). These States also had higher GFR in rural areas compared to urban areas.
+Kerala had the lowest GFR among the bigger States/UTs (45.8), and there is no significant
+difference between rural and urban areas. Chart 36 gives the distribution GFR for bigger
+States/UTs in rural and urban areas.
+Statement 17
+GFR (General Fertility Rate) by Residence, India and
+bigger States/UTs, 2021
+India and bigger States/UTs Total Rural Urban
+India 67.2 74.0 53.9
+Andhra Pradesh 51.4 52.9 48.6
+Assam 70.1 74.3 46.5
+Bihar 94.1 96.7 76.7
+Chhattisgarh 74.3 80.5 55.3
+Delhi 46.9 51.5 46.8
+Gujarat 66.5 74.2 57.6
+Haryana 68.1 73.3 60.2
+Himachal Pradesh 51.9 53.7 33.7
+Jammu & Kashmir 47.7 53.1 35.9
+Jharkhand 76.6 82.4 59.7
+Karnataka 54.8 58.9 48.9
+Kerala 45.8 45.9 45.8
+Madhya Pradesh 86.8 95.3 64.4
+Maharashtra 51.2 54.7 47.4
+Odisha 60.3 64.9 41.5
+Punjab 49.4 51.8 46.5
+Rajasthan 84.3 89.2 70.9
+Tamil Nadu 47.2 47.3 47.2
+Telangana 52.7 53.9 51.0
+Uttar Pradesh 87.6 92.4 73.7
+Uttarakhand 59.7 61.5 55.4
+West Bengal 48.1 52.7 37.6
+68

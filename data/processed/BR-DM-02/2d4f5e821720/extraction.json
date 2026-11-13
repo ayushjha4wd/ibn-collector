@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/ST-1000-PCA-A-11-ddw.xlsx",
+  "raw_sha256": "2d4f5e821720d34178faa83d3d6b24cd7561de1af4319c9c385f8f662eb319ae",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/42949/download/46617",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:58:29+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/2d4f5e821720/sheets/ST-1000.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

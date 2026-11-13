@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/10_A-2_Bihar.xls",
+  "raw_sha256": "0eba88c367d2c31653aa5d8cf4cd1e9f2aa82804e94b43ca7d3ed08bfa1146d2",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/43343/download/47021",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:58:15+00:00",
+  "obtained_on": null,
+  "kind": "xls",
+  "outputs": [
+    "data/processed/BR-DM-02/0eba88c367d2/sheets/A-2.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

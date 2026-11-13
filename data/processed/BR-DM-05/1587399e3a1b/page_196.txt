@@ -1,0 +1,44 @@
+Under-5 Mortality Rate:
+4.18 The Under-Five Mortality Rates by residence are given below in Statement 53 separately
+for males and females for the year 2021. The U5MR indicates the probability of a child dying
+before their fifth birthday, expressed as the number of deaths per 1,000 live births. For India as a
+whole, the U5MR was 31 in 2021, which means that out of every 1,000 live births, 31 children
+died before reaching the age of five. The U5MR is higher in rural areas (35) compared to urban
+areas (21). Among the bigger States/UTs, the U5MR ranges from 8 in Kerala to 49 in Madhya
+Pradesh for the year 2021. Kerala (8) had the lowest U5MR, followed by Delhi (14) and Tamil
+Nadu (14). Madhya Pradesh (49) had the highest U5MR, followed by Uttar Pradesh (43) and
+Chhattisgarh (41). The U5MR is generally higher in rural areas compared to urban areas for most
+States/UTs. Chart 103 to 105 represents Under-five Mortality Rates (U5MR) by Sex for India &
+bigger States/UTs by place of residence viz, Total, Rural and Urban respectively.
+Statement 53
+Under-5 Mortality Rate (U5MR) by Sex and Residence,
+India and bigger States/UTs, 2021
+India & bigger
+Total Rural Urban
+States/UTs
+Total Male Female Total Male Female Total Male Female
+India 31 31 31 35 35 36 21 22 20
+Andhra Pradesh 24 25 24 28 28 28 17 17 17
+Assam 37 36 38 39 38 41 18 18 17
+Bihar 31 29 33 31 30 33 29 29 28
+Chhattisgarh 41 37 46 44 39 49 32 33 30
+Delhi 14 16 13 17 17 18 14 16 13
+Gujarat 24 25 24 28 30 27 19 17 21
+Haryana 33 32 33 37 37 37 25 25 25
+Himachal Pradesh* 23 26 19 23 27 19 15 9 20
+Jammu & Kashmir 16 16 17 17 17 18 13 14 12
+Jharkhand 28 26 31 29 27 32 24 23 25
+Karnataka 21 21 21 24 25 24 15 15 16
+Kerala 8 9 6 6 7 5 10 11 8
+Madhya Pradesh 49 50 47 53 54 52 31 35 28
+Maharashtra 16 17 16 21 21 20 11 11 11
+Odisha 38 37 39 39 38 40 29 30 28
+Punjab 22 22 23 21 19 22 24 26 23
+Rajasthan 39 36 43 42 38 46 31 29 32
+Tamil Nadu 14 14 14 18 19 17 10 9 11
+Telangana 22 24 19 25 28 22 17 19 15
+Uttar Pradesh 43 43 42 45 45 46 33 35 30
+Uttarakhand 27 27 26 27 27 26 26 26 26
+West Bengal 20 21 19 21 22 20 18 19 16
+*Based on three-year period 2019-21
+169

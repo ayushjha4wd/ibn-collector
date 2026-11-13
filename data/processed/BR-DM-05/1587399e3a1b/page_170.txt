@@ -1,0 +1,58 @@
+Infant Mortality Rate:
+4.11 Statement 46 given below presents Infant Mortality Rate (IMR) by sex and residence for
+the year 2021 for India and States/UTs. The IMR varies across different States/UTs in India,
+ranging from 4 in Sikkim and Manipur to 41 in Madhya Pradesh. In most cases, the IMR is higher
+in rural areas compared to urban areas. Assam had the highest difference in IMR between rural
+(36) and urban areas (16). There was also the discernible difference in the IMR between Males
+and Females in Some of the States/UTs. Himachal Pradesh had the highest difference in IMR
+between males and females, with a rate of 22 for males and 12 for females. Lakshadweep had the
+highest IMR among the smaller UTs with a rate of 16, and Meghalaya had the highest IMR
+among the smaller States with a rate of 30. Chart 84-86 below represents the IMR by Sex for
+Total, Rural and Urban. Chart 87 presents the distribution of bigger States/UTs by Rural and
+Urban IMR.
+Statement 46
+Infant Mortality Rate by Sex and Residence, India and States/UTs, 2021
+Total Rural Urban
+India and bigger States/UTs
+Total Males Females Total Males Females Total Males Females
+India 27 27 27 30 30 31 18 18 18
+Andhra Pradesh 22 22 22 24 25 24 16 15 17
+Assam 34 33 36 36 34 38 16 17 15
+Bihar 27 26 28 27 26 28 24 23 26
+Chhattisgarh 38 34 42 40 35 45 30 31 30
+Delhi 12 11 12 17 17 18 11 11 11
+Gujarat 21 22 21 25 27 24 16 15 16
+Haryana 27 28 27 30 31 30 22 23 21
+Himachal Pradesh* 17 22 12 18 23 12 12 9 15
+Jammu & Kashmir 16 16 16 17 16 17 13 14 12
+Jharkhand 25 24 26 26 25 27 21 21 21
+Karnataka 17 18 17 19 22 17 14 12 16
+Kerala 6 6 5 4 5 4 7 8 6
+Madhya Pradesh 41 42 40 45 46 44 28 30 27
+Maharashtra 15 14 15 18 18 19 10 10 10
+Odisha 35 35 34 36 36 36 27 28 26
+Punjab 18 17 18 19 18 20 16 16 15
+Rajasthan 31 30 32 34 32 36 23 23 22
+Tamil Nadu 12 12 11 14 15 13 9 9 9
+Telangana 20 21 19 23 24 21 16 16 15
+Uttar Pradesh 37 37 37 40 39 40 27 28 26
+Uttarakhand 23 23 24 24 24 23 23 22 24
+West Bengal 18 18 17 18 19 18 17 17 16
+Smaller States*
+Arunachal Pradesh 21 24 18
+Goa 5 5 4
+Manipur 4 4 4
+Meghalaya 30 28 33
+Mizoram 4 3 5
+Nagaland 7 3 10 Infant Mortality Rates for smaller States and Union
+Sikkim 4 4 4 Territories are based on three-year period 2019-21. On
+Tripura 19 20 18 account of wide year-to-year fluctuations due to
+Smaller UTs* inadequate sample size, the Infant Mortality Rate by sex,
+A & N Islands 7 4 10 separately for rural and urban areas, is not given.
+Chandigarh 7 4 10
+DNH and D&D 9 10 7
+Ladakh 11 10 11
+Lakshadweep 16 13 18
+Puducherry 5 8 2
+*Based on three-year period 2019-21.
+143

@@ -1,0 +1,45 @@
+Early Neo-Natal Mortality Rate:
+4.14 Early Neo-Natal Mortality Rate, i.e. number of infant deaths less than seven days of life
+per thousand live births, forms an important component of Infant Mortality Rate and more
+specifically of the Neo-Natal Mortality Rate. Statement 49 given below presents the Early Neo-
+Natal Mortality Rate along with the percentage of Early Neo-Natal deaths to the total infant
+deaths for the year 2023. The Early Neo-Natal Mortality Rate in India was 13 in 2023, with
+higher rates in rural areas (15) than urban areas (9). The percentage share of Early Neo-Natal
+deaths to infant deaths in India is 52.8, with a slightly higher rate in Rural areas (52.8) than in
+urban areas (52.7). Among the bigger States and Union Territories, Kerala had the lowest early
+neo-natal mortality rate of 3, while Chhattisgarh and Madhya Pradesh had the highest rate of
+20. Delhi had the lowest percentage share of early neo-natal deaths to infant deaths at 47.3,
+while Kerala had the highest percentage at 62.6. Chart 94 to 96 shows the Early Neo-Natal
+Mortality Rates and percentage share of Early Neo-Natal deaths to infant deaths for India and
+bigger States/UTs by place of residence viz, Total, Rural and Urban.
+Statement 49
+Early Neo-Natal Mortality Rate and Percentage Share of Early Neo-Natal Deaths to
+Infant Deaths by Residence, India and Bigger States/UTs, 2023
+India and Early Neo-Natal Mortality Percentage of Early neo-natal
+Bigger States/UTs Rate deaths to Infant deaths
+Total Rural Urban Total Rural Urban
+India 13 15 9 52.8 52.8 52.7
+Andhra Pradesh 11 13 8 60.7 62.4 55.4
+Assam 15 15 8 48.6 48.4 51.7
+Bihar 14 14 12 59.2 60.2 51.2
+Chhattisgarh 20 21 17 54.8 54.0 60.3
+Delhi 6 0 7 47.3 0.0 47.7
+Gujarat 12 13 9 58.4 57.3 60.7
+Haryana 13 15 10 50.0 50.1 49.9
+Himachal Pradesh* 7 8 5 53.7 54.1 45.0
+Jammu & Kashmir 6 7 4 47.6 52.1 33.2
+Jharkhand 15 16 11 52.1 52.0 52.5
+Karnataka 7 9 5 49.3 52.7 41.8
+Kerala 3 3 4 62.6 49.3 75.1
+Madhya Pradesh 20 20 18 53.2 51.9 59.7
+Maharashtra 8 9 6 54.4 53.5 56.2
+Odisha 16 16 12 52.4 52.4 51.8
+Punjab 8 9 7 49.0 48.2 50.5
+Rajasthan 15 16 11 50.4 50.4 50.2
+Tamil Nadu 6 6 6 50.3 48.6 52.0
+Telangana 9 10 8 52.4 50.4 56.0
+Uttar Pradesh 19 20 14 51.3 51.6 49.8
+Uttarakhand 10 10 10 51.2 50.6 53.2
+West Bengal 9 9 9 52.2 51.8 53.3
+*Based on three-year period 2021-23
+156

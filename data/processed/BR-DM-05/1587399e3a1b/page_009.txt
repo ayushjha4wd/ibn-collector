@@ -1,0 +1,33 @@
+Page
+46 IMR (Infant Mortality Rate) by Sex and Residence, India and 143
+States/UTs, 2021
+47 Average IMR (Infant Mortality Rate) and percentage change 148
+between 2009-11 and 2019-21 by Residence, India and bigger
+States/UTs
+48 Neo-natal Mortality Rate and percentage share of neo-natal deaths 152
+to infant deaths by Residence, India and bigger States/UTs, 2021
+49 Early Neo-natal Mortality Rate and percentage share of early neo- 156
+natal deaths to infant deaths by Residence, India and bigger
+States/UTs, 2021
+50 Peri-natal Mortality Rate and Still Birth Rate by Residence, India 160
+and bigger States/UTs, 2021
+51 Percentage of deaths in the age group 0-4 years to total deaths by 163
+Residence, India and bigger States/UTs, 2021
+52 Estimated death rate for children age 0-4 years by Sex and 165
+Residence, India and bigger States/UTs, 2021
+53 Under-5 Mortality Rate by Sex and Residence, India and bigger 169
+States/UTs, 2021
+54 Survival to Age-5 by Sex and Residence, India and bigger 173
+States/UTs, 2021
+55 Death Rate for children age 5-14 years by Sex and Residence, India 174
+and bigger States/UTs, 2021
+56 Death Rate for persons age 15-59 years by Sex and Residence, India 178
+and bigger States/UTs, 2021
+57 Adult Survival Rate by Sex and Residence, India and bigger 182
+States/UTs, 2021
+58 Death Rate for persons age 60 years and above by Sex and 183
+Residence, India and bigger States/UTs, 2021
+59 Percentage distribution of deaths by Type of Medical Attention 188
+received before death by Residence, India and bigger States/UTs,
+2021
+ix

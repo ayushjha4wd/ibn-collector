@@ -1,0 +1,42 @@
+Age-Specific Fertility Rate across bigger States/UTs:
+3.16 The fertility pattern by age groups in different States/UTs in India for 2022 is presented
+below in Statement 21. The data shows that the highest fertility rate was for the age group of 25-
+29 years with a value of 142.1 for India in 2022. This is followed by the age group of 20-24
+years having ASFR of 112.4. The data also indicates significant variations in fertility rates across
+States/UTs. Bihar has the highest ASFR for the age group of 25-29 years with a rate of 213.1,
+whereas the State of West Bengal had the lowest ASFR of 83.3 for the same age group. The
+Age-Specific Fertility Rate peaks at the age group 25-29 years for India and all States/UTs,
+except for UT of Jammu & Kashmir, where it peaks at the age-group of 30-34 years. Age-Specific
+Fertility Rate of age group 15-19 years, which is also known as Adolescent Birth Rate (ABR) is
+an important indicator and is 11.1 for the year 2022 for a whole Country. The State of West
+Bengal had the highest ASFR for 15-19 years or ABR of (23.5) followed by Assam (18.8) and
+Jharkhand (15.5), whereas NCT of Delhi had the lowest ABR of (2.6) followed by Jammu
+Kashmir (4.3) and Uttarakhand & Kerala at 4.8 each. The rural-urban levels in ASFR for bigger
+States/UTs are shown in Table 3.
+Statement 21
+ASFRs (Age Specific Fertility Rates), India and bigger States/UTs, 2022
+India and bigger States/UTs 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+India 11.1 112.4 142.1 82.4 33.7 11.4 4.3
+Andhra Pradesh 9.7 108.0 131.8 40.6 12.6 4.6 2.8
+Assam 18.8 109.7 125.9 97.1 45.6 16.5 5.0
+Bihar 12.5 156.5 213.1 131.5 55.4 18.8 8.7
+Chhattisgarh 12.2 145.1 161.3 93.0 35.6 14.0 5.4
+Delhi 2.6 63.1 99.1 62.7 22.1 8.4 2.5
+Gujarat 9.7 116.9 143.0 77.1 27.5 8.9 3.3
+Haryana 5.0 116.5 161.0 75.1 24.5 9.1 4.1
+Himachal Pradesh 8.1 70.3 117.0 71.2 27.1 8.3 1.8
+Jammu & Kashmir 4.3 39.8 86.8 97.8 47.4 26.6 11.9
+Jharkhand 15.5 130.7 150.8 76.6 42.3 14.9 10.3
+Karnataka 8.9 86.0 118.8 71.0 24.4 6.1 2.6
+Kerala 4.8 78.4 111.6 68.3 24.3 5.1 1.5
+Madhya Pradesh 14.3 147.9 186.2 92.0 40.0 13.6 4.0
+Maharashtra 6.4 96.1 119.4 55.9 19.2 6.3 2.6
+Odisha 8.3 98.5 121.0 76.9 25.4 7.0 2.9
+Punjab 5.7 73.4 106.4 76.4 24.6 7.7 2.0
+Rajasthan 10.4 143.8 187.2 94.2 37.1 11.5 6.6
+Tamil Nadu 5.8 86.3 105.6 47.6 13.3 4.2 0.9
+Telangana 7.0 87.5 137.3 62.8 18.4 7.1 4.7
+Uttar Pradesh 10.6 115.4 167.9 129.2 66.9 25.1 7.3
+Uttarakhand 4.8 73.1 141.9 89.2 36.7 10.3 3.5
+West Bengal 23.5 108.3 83.3 44.3 13.2 3.9 2.0
+80

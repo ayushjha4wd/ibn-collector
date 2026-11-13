@@ -1,0 +1,30 @@
+Chart 64: Total Fertility Rate by level of education of women, India, 2022
+3.5
+3.0
+2.5
+e
+t
+a
+R 2.0
+y
+t
+i l Total
+i
+t
+r
+e
+F
+l 1.5 Rural
+a
+t
+o
+T
+Urban
+1.0
+0.5
+0.0
+Illiterate Total literate Without any Below Primary Middle Class X Class XII Graduate and
+formal primary above
+education
+Educational level of women
+110

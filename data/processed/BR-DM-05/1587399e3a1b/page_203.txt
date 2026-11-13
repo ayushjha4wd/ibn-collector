@@ -1,0 +1,29 @@
+Chart 107: Death Rate for children aged 5-14 years by Sex, India and bigger
+States/UTs, 2021 - RURAL
+1.2
+1.0
+)
+s r Total
+a 0.8
+e
+y
+4
+1
+- Male
+5
+(
+e
+t 0.6
+a
+R
+Female
+h
+t
+a
+e
+D
+0.4
+0.2
+0.0
+India and bigger States/UTs
+176

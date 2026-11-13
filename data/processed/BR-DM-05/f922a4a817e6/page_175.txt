@@ -1,0 +1,33 @@
+50
+45
+40
+35
+30
+Madhya Pradesh
+Chhattisgarh
+25
+Uttar Pradesh
+Rajasthan
+Bihar Odisha
+20 Haryana
+Jharkhand
+West Bengal Uttarakhand
+India
+15 Telangana Gujarat
+Punjab Assam
+Andhra Pradesh
+Karnataka
+Kerala
+10 Maharashtra
+5
+0
+0 5 10 15 20 25 30 35 40 45 50
+147
+etaR
+ytilatroM
+tnafnI
+nabrU
+Chart 87: Distribution of bigger States/UTs by Infant Mortality Rate for Rural
+and Urban areas, 2024
+Line of Equity
+Rural Infant Mortality Rate

@@ -1,0 +1,22 @@
+35.0 0.0
+30.0
+-5.0
+25.0
+-10.0
+20.0
+15.0
+-15.0
+10.0
+-20.0
+5.0
+0.0 -25.0
+63
+etaR
+htriB
+egarevA
+egnahC
+tnecreP
+Chart 32: Average Birth Rate between 2011-13 and 2021-23 and Percent Change,
+India and Bigger States/UTs - RURAL
+2011-13 2021-23 % Change
+India and Bigger States/UTs

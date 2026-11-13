@@ -1,0 +1,40 @@
+Death Rate for persons aged 15-59 years:
+4.21 Death Rates in the age group 15-59 years for the year 2022, by Sex and Residence, are
+given below in Statement 56. Overall, the death rate for this age group in India was 3.2, with a
+higher rate for males (4.0) than females (2.4). The rural death rate (3.4) was higher than the urban
+death rate (2.8). Among the States and Union Territories, Chhattisgarh had the highest death rate
+(4.8), followed by Punjab (4.1) and Andhra Pradesh & Assam at 3.8 each. Delhi had the lowest
+death rate (2.1), followed by Himachal Pradesh (2.2) and Kerala (2.4) for the persons in age-
+group 15-59 years. In most cases, the death rate was higher for males than females and higher in
+rural areas than urban areas. Chart 109 to 111 shows the death rates for Persons aged 15-59 years
+by Sex for India and bigger States/UTs by place of residence viz, Total, Rural and Urban
+respectively.
+Statement 56
+Death Rate for persons aged 15-59 years by Sex and Residence,
+India and bigger States/UTs, 2022
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 3.2 4.0 2.4 3.4 4.3 2.5 2.8 3.4 2.1
+Andhra Pradesh 3.8 5.0 2.6 4.3 5.8 2.7 2.9 3.5 2.3
+Assam 3.8 5.0 2.5 3.9 5.1 2.6 3.3 4.6 1.9
+Bihar 2.9 3.2 2.6 2.9 3.2 2.7 2.8 3.3 2.3
+Chhattisgarh 4.8 6.7 3.0 5.1 6.9 3.3 4.0 6.1 1.9
+Delhi 2.1 2.5 1.7 3.3 4.8 1.5 2.1 2.5 1.7
+Gujarat 3.5 4.6 2.4 4.3 5.8 2.8 2.7 3.4 2.0
+Haryana 3.6 4.9 2.1 3.7 5.3 1.9 3.4 4.3 2.3
+Himachal Pradesh 2.2 3.0 1.5 2.2 3.0 1.5 2.0 2.7 1.2
+Jammu & Kashmir 2.8 3.1 2.4 2.6 2.9 2.4 3.0 3.6 2.4
+Jharkhand 3.0 3.7 2.4 3.1 3.8 2.4 2.9 3.5 2.2
+Karnataka 3.7 4.8 2.6 4.3 6.0 2.5 2.9 3.1 2.7
+Kerala 2.4 3.6 1.3 2.3 3.3 1.4 2.6 4.0 1.3
+Madhya Pradesh 3.5 4.6 2.3 3.7 4.9 2.5 2.9 4.0 1.7
+Maharashtra 2.8 3.7 2.0 3.5 4.4 2.4 2.2 2.9 1.5
+Odisha 3.5 4.0 2.9 3.6 4.1 3.1 3.0 3.7 2.4
+Punjab 4.1 5.2 3.0 4.8 6.0 3.5 3.3 4.1 2.4
+Rajasthan 2.9 3.8 1.9 2.9 3.8 1.9 2.8 3.7 1.9
+Tamil Nadu 3.3 4.1 2.4 3.9 5.1 2.7 2.8 3.3 2.2
+Telangana 3.3 4.4 2.3 3.9 5.3 2.5 2.6 3.2 1.9
+Uttar Pradesh 3.1 3.6 2.6 3.1 3.5 2.7 3.0 3.7 2.3
+Uttarakhand 2.9 3.8 2.0 3.0 3.9 2.2 2.6 3.5 1.7
+West Bengal 2.8 3.3 2.2 2.7 3.4 2.1 2.9 3.2 2.5
+178

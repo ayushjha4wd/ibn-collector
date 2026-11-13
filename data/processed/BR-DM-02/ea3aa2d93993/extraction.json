@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DDW-B18SC-1000-nic-final.xlsx",
+  "raw_sha256": "ea3aa2d93993446e7244fa8821b23516f1e49dd25c00edeb47ad38c259c63eb4",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/43280/download/46948",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:00:30+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/ea3aa2d93993/sheets/Sheet1.csv",
+    "data/processed/BR-DM-02/ea3aa2d93993/sheets/Sheet2.csv",
+    "data/processed/BR-DM-02/ea3aa2d93993/sheets/Sheet3.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

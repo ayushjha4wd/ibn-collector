@@ -1,0 +1,34 @@
+Page
+Fertility Indicators
+14 CBR (Crude Birth Rate) by Residence, India and States/UTs, 2024 58
+15 Percentage change in average Crude Birth Rate between 2012-14 61
+and 2022-24 by Residence, India and bigger States/UTs
+16 Sex Ratio (female per 1000 male) at Birth by Residence, India and 66
+bigger States/UTs, 2022-24
+17 GFR (General Fertility Rate) by Residence, India and bigger 68
+States/UTs, 2024
+18 Percentage change in average GFR (General Fertility Rate) 72
+between 2012-14 and 2022-24 by Residence, India and bigger
+States/UTs
+19 ASFRs (Age-Specific Fertility Rates) by Residence, India, 2024 77
+20 Percentage change in Age-Specific Fertility Rates by Residence 78
+between 2012-14 and 2022-24, India
+21 ASFRs (Age-Specific Fertility Rates), India and bigger 80
+States/UTs, 2024
+22 Percentage distribution of cumulative fertility by age group, India 81
+and bigger States/UTs, 2024
+23 Mean age of Fertility and associated Standard Deviation, India and 83
+bigger States/UTs, 2024
+24 TFR (Total Fertility Rate) by Residence, India and bigger 85
+States/UTs, 2024
+25 Percentage change in average TFR (Total Fertility Rate) between 88
+2012-14 and 2022-24 by Residence, India and bigger States/UTs
+26 GRR (Gross Reproduction Rate) by Residence, India and bigger 93
+States/UTs, 2024
+27 ASMFR (Age-Specific Marital Fertility Rate) by Residence, India 95
+2024
+28 ASMFR (Age-Specific Marital Fertility Rate), India and bigger 96
+States/UTs, 2024
+29 TMFR (Total Marital Fertility Rate) by Residence, India and 97
+bigger States/UTs, 2024
+vii

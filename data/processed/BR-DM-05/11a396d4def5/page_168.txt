@@ -1,0 +1,39 @@
+4.10 The percentage share of infant deaths to total deaths by residence for 2023 is shown below
+in Statement 45 for India and bigger States/UTs. The data shows that in India, 7.3% of deaths
+were in the ‘less than 1 year’ age-group while 8.4% of rural deaths and 4.6% urban deaths are of
+Infants. The percentage vary across different States/UTs, with higher percentage of infant deaths
+in rural areas compared to urban areas in most cases except Delhi and Himachal Pradesh. The
+percentage of infant deaths varies across different States/UTs, with some States having much
+higher rates of Infant Mortality than others. For example, Uttar Pradesh has the highest percentage
+of infant deaths (13.3%) while Kerala has the lowest (0.9%). However, the higher percentage of
+infant deaths in rural areas compared to urban areas is consistent across most States/UTs,
+indicating that this is a nationwide trend. Chart 83 provides the pictorial representation of the
+percentage of Infants deaths to total deaths by residence for India and bigger States/UTs.
+Statement 45
+Percentage of Infant Deaths to Total Deaths by Residence,
+India and Bigger States/UTs, 2023
+India and bigger States/UTs Total Rural Urban
+India 7.3 8.4 4.6
+Andhra Pradesh 4.1 4.3 3.5
+Assam 9.6 10.6 3.5
+Bihar 9.9 10.1 8.6
+Chhattisgarh 10.0 11.0 6.5
+Delhi 3.9 1.1 4.0
+Gujarat 5.4 6.1 4.4
+Haryana 7.1 8.3 5.1
+Himachal Pradesh 1.9 1.8 2.0
+Jammu & Kashmir 3.6 4.0 2.7
+Jharkhand 9.5 10.5 6.0
+Karnataka 3.2 3.4 2.9
+Kerala 0.9 0.9 0.9
+Madhya Pradesh 12.3 13.4 8.7
+Maharashtra 3.2 3.6 2.6
+Odisha 6.2 6.5 4.7
+Punjab 3.2 3.4 2.9
+Rajasthan 11.2 12.2 8.1
+Tamil Nadu 2.0 2.0 2.0
+Telangana 4.5 4.7 4.1
+Uttar Pradesh 13.3 14.4 9.5
+Uttarakhand 5.5 5.7 5.0
+West Bengal 4.1 4.6 3.1
+141

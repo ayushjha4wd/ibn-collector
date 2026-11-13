@@ -1,0 +1,42 @@
+Mean Age of Fertility:
+3.18 The difference in the pattern of child bearing can be measured in terms of the Mean Age of
+Fertility, which describes the age pattern of fertility of synthetic cohort of hypothetical group of
+women viewed as having, in their lifetime, similar fertility experience recorded in a calendar year.
+The Mean Age of Fertility has been calculated from the Age-Specific Fertility Rate. The Mean Age
+of Fertility is the average age at which women give birth to their first child. The associated standard
+deviations are also shown. The States/UTs having lower values of standard deviation recorded
+higher concentrations of fertility about the mean age as compared to those with higher values.
+Statement 23 below shows the Mean Age of Fertility for India and bigger States/UTs in 2022. The
+Mean Age of Fertility for India was 28.3 years, ranging from 26.3 years in West Bengal to 31.8
+years in Jammu & Kashmir. The Mean Age of Fertility is slightly higher in urban areas (28.7 years)
+compared to rural areas (28.2 years). Chart 48 shows the Mean Age of Fertility of India and bigger
+States/UTs by residence.
+Statement 23
+Mean age of Fertility and associated Standard Deviation,
+India and bigger States/UTs, 2022
+India and bigger Mean Age of Fertility Standard deviation
+States/UTs Total Rural Urban Total Rural Urban
+India 28.3 28.2 28.7 5.8 5.8 5.7
+Andhra Pradesh 26.9 26.7 27.3 5.1 5.1 5.1
+Assam 28.8 28.9 28.4 6.3 6.3 6.1
+Bihar 28.8 28.8 28.5 5.9 5.9 5.8
+Chhattisgarh 28.1 28.1 28.3 5.8 5.9 5.3
+Delhi 28.9 28.3 28.9 5.5 5.4 5.5
+Gujarat 28.0 27.5 28.6 5.5 5.5 5.6
+Haryana 28.0 28.0 28.1 5.4 5.4 5.2
+Himachal Pradesh 28.7 28.6 30.4 5.5 5.5 5.7
+Jammu & Kashmir 31.8 31.9 31.8 6.6 6.6 6.5
+Jharkhand 28.5 28.3 29.1 6.4 6.5 6.1
+Karnataka 28.2 27.5 29.4 5.5 5.4 5.4
+Kerala 28.4 28.3 28.4 5.3 5.3 5.2
+Madhya Pradesh 28.0 27.8 29.1 5.7 5.6 5.7
+Maharashtra 27.7 27.0 28.6 5.4 5.0 5.7
+Odisha 28.2 28.1 28.9 5.5 5.5 5.5
+Punjab 28.7 28.7 28.8 5.5 5.5 5.4
+Rajasthan 28.2 28.2 28.2 5.7 5.8 5.2
+Tamil Nadu 27.4 27.1 27.6 5.0 4.9 5.0
+Telangana 28.1 27.7 28.7 5.5 5.4 5.4
+Uttar Pradesh 29.7 29.5 30.4 6.2 6.1 6.2
+Uttarakhand 29.2 28.9 30.1 5.5 5.3 5.9
+West Bengal 26.3 26.1 27.2 5.6 5.6 5.6
+83

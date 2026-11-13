@@ -1,0 +1,43 @@
+250
+200
+150
+100
+50
+0
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+79
+etaR
+ytilitreF
+cificepS-egA
+Chart 44: Age-Specific Fertility Rates, India-Rural
+: 2011-13 and 2021-23
+2011-13 2021-23
+Age-Group
+150
+100
+50
+0
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+etaR
+ytilitreF
+cificepS-egA
+Chart 45: Age-Specific Fertility Rates, India-Urban
+: 2011-13 and 2021-23
+2011-13 2021-23
+Age-Group
+300
+250
+200
+150
+100
+50
+0
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+-50
+-100
+egnahC
+tnecreP
+Chart 46: Percent Change in Age-Specific Fertility
+Rate by Residence between 2011-13 and 2021-23
+Total Rural Urban
+Age-Group

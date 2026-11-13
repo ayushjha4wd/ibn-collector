@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/A3-Appendix_1000.xlsx",
+  "raw_sha256": "6d2ea602f2c03e392919ccea6e4e31799f0dfbc25906feee2eebc756ada14469",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/6882/download/9995",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:58:19+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/6d2ea602f2c0/sheets/Sheet1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

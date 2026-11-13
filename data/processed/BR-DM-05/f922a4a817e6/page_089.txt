@@ -1,0 +1,43 @@
+3.7 Statement 15 below provides the percentage change in Average Crude Birth Rate between
+the periods 2012-14 and 2022-24 for India and the bigger States/UTs separately for rural and
+urban areas. Between 2012-14 and 2022-24, there was an overall 12.7% decrease in the average
+CBR for India. Among the bigger States/UTs, the percentage change in the average CBR ranged
+from -24.0% for Delhi to -3.7% for Bihar. In terms of residence, the 3-year average Crude Birth
+Rate has declined in both rural and urban areas for all bigger States/UTs except for the State of
+Bihar (Urban). Further, the rural CBR was higher than the urban CBR in all bigger States/UTs
+except Kerala for 2022-24. The percentage change in rural CBR ranged from -23.0% for Delhi to
+-3.2% for Bihar whereas the percentage change in urban CBR ranged from -29.3% for Delhi to
+1.0% for Bihar. Chart 31, 32 and 33 depict the average birth rate between 2012-14 and 2022-24
+of India and bigger States/UTs for Total, Rural and Urban areas respectively along with respective
+rate of change. Chart 34 shows the year-wise birth rate from 1985 to 2024 by Residence for India.
+Statement 15
+Percentage Change in Average Crude Birth Rate between 2012-14 and 2022-24
+by Residence, India, and Bigger States/UTs
+India and bigger States/UTs Total Rural Urban
+2012- 2022- % 2012- 2022- % 2012- 2022- %
+14 24 Change 14 24 Change 14 24 Change
+India 21.3 18.6 -12.7 22.9 20.4 -10.9 17.4 15.0 -13.8
+Andhra Pradesh* 17.5 15.4 -12.0 17.8 15.9 -10.7 16.7 14.7 -12.0
+Assam 22.4 20.0 -10.7 23.6 21.1 -10.6 15.5 13.5 -12.9
+Bihar 27.1 26.1 -3.7 27.8 26.9 -3.2 21.0 21.2 1.0
+Chhattisgarh 24.1 22.4 -7.1 25.6 24.2 -5.5 18.1 16.8 -7.2
+Delhi 17.1 13.0 -24.0 18.7 14.4 -23.0 18.4 13.0 -29.3
+Gujarat 22.0 17.6 -20.0 23.6 19.5 -17.4 18.2 15.4 -15.4
+Haryana 21.3 18.8 -11.7 22.5 20.1 -10.7 19.0 16.9 -11.1
+Himachal Pradesh 16.2 14.2 -12.3 16.7 14.7 -12.0 10.9 9.6 -11.9
+Jammu & Kashmir# 17.3 14.9 -13.9 18.7 16.1 -13.9 12.6 12.3 -2.4
+Jharkhand 24.4 21.1 -13.5 25.7 22.6 -12.1 18.9 16.7 -11.6
+Karnataka 18.3 15.3 -16.4 19.2 16.3 -15.1 16.8 14.0 -16.7
+Kerala 14.8 11.9 -19.6 15.0 11.9 -20.7 14.3 12.0 -16.1
+Madhya Pradesh 26.2 22.8 -13.0 28.2 24.6 -12.8 19.8 17.7 -10.6
+Maharashtra 16.5 14.2 -13.9 17.1 14.8 -13.5 15.6 13.5 -13.5
+Odisha 19.7 16.1 -18.3 20.6 17.0 -17.5 14.4 12.2 -15.3
+Punjab 15.7 13.9 -11.5 16.3 14.5 -11.0 14.7 13.1 -10.9
+Rajasthan 25.5 23.2 -9.0 26.5 24.2 -8.7 22.1 20.3 -8.1
+Tamil Nadu 15.6 11.9 -23.7 15.6 12.4 -20.5 15.5 11.5 -25.8
+Uttar Pradesh 27.2 23.4 -14.0 28.3 24.4 -13.8 23.4 20.4 -12.8
+Uttarakhand 18.3 16.9 -7.7 18.8 17.6 -6.4 16.3 15.1 -7.4
+West Bengal 15.9 14.1 -11.3 17.7 15.5 -12.4 11.3 11.2 -0.9
+* Andhra Pradesh includes Telangana.
+# Jammu & Kashmir includes Ladakh
+61

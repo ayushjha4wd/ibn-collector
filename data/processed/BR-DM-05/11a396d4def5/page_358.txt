@@ -1,0 +1,49 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+4 Saurashtra 475 08 Surendranagar
+476 09 Rajkot
+477 10 Jamnagar
+478 11 Porbandar
+479 12 Junagadh
+480 13 Amreli
+481 14 Bhavnagar
+25, Dadra & Nagar Haveli and
+26 Daman & Diu 1 Daman & Diu 494 01 Diu
+495 02 Daman
+2 Dadra & Nagar Haveli 496 01 Dadra & Nagar Haveli
+27 Maharashtra 1 Coastal 517 21 Thane
+518 22 Mumbai Suburban
+519 23 Mumbai
+520 24 Raigarh
+528 32 Ratnagiri
+529 33 Sindhudurg
+2 Inland Western 521 25 Pune
+522 26 Ahmadnagar
+526 30 Solapur
+527 31 Satara
+530 34 Kolhapur
+531 35 Sangli
+3 Inland Northern 497 01 Nandurbar
+498 02 Dhule
+499 03 Jalgaon
+516 20 Nashik
+4 Inland Central 511 15 Nanded
+512 16 Hingoli
+513 17 Parbhani
+514 18 Jalna
+515 19 Aurangabad
+523 27 Bid
+524 28 Latur
+525 29 Osmanabad
+5 Inland Eastern 500 04 Buldana
+501 05 Akola
+502 06 Washim
+503 07 Amravati
+504 08 Wardha
+505 09 Nagpur
+510 14 Yavatmal
+330

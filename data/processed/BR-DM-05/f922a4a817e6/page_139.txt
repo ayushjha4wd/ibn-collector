@@ -1,0 +1,45 @@
+Birth Order:
+3.31 Information on order of the live birth and interval between current and previous live births
+are also collected in SRS from 1990 onwards. These provide useful information on spacing of
+children and level of fertility. The estimated percentages on order of live birth and birth interval
+for India and bigger States/UTs are given in Tables 5, 6, and 7. Based on these tables, State-wise
+comparative Statements are presented below.
+3.32 The percentage distribution of live births by birth order for India and bigger States/UTs for
+the year 2024 is presented below in Statement 35. As per 2024 data, in India, 66.4% of current live
+births are first-order births, 22.7% are second-order births, 7.3% are third-order births and 3.5%
+are fourth or higher-order births. As per 2024 data, among the bigger States/UTs, Telangana has
+the highest percentage of first-order births at 82.7%, while Kerala has the lowest at 47.9%. Kerala
+has the highest percentage of second-order births at 34.9%, while Telangana has the lowest at
+13.4%. Kerala has the highest percentage of third-order births at 13.3%, while Telangana has the
+lowest at 2.9%. Madhya Pradesh has the highest percentage of fourth or higher-order births at
+6.5%, while Andhra Pradesh has the lowest at 0.5%. Chart 65 shows the percentage distribution
+of current live births by birth order for India and bigger States/UTs.
+Statement 35
+Percentage Distribution of Current live Births by Birth Order,
+India and Bigger States/UTs, 2024
+India and Bigger States/UTs Birth order
+1st 2nd 3rd 4th & above
+India 66.4 22.7 7.3 3.5
+Andhra Pradesh 72.1 23.7 3.8 0.5
+Assam 69.6 22.6 6.0 1.9
+Bihar 62.5 21.5 10.1 5.9
+Chhattisgarh 64.8 22.9 7.6 4.6
+Delhi 78.4 16.2 4.1 1.3
+Gujarat 72.9 19.4 5.6 2.2
+Haryana 68.1 22.4 7.2 2.4
+Himachal Pradesh 63.0 29.9 5.9 1.2
+Jammu & Kashmir 77.1 16.1 4.9 1.8
+Jharkhand 67.0 19.7 8.9 4.5
+Karnataka 69.8 23.3 5.7 1.2
+Kerala 47.9 34.9 13.3 3.9
+Madhya Pradesh 55.8 27.6 10.1 6.5
+Maharashtra 73.8 20.2 4.8 1.3
+Odisha 68.2 24.4 5.3 2.1
+Punjab 67.4 24.1 6.2 2.2
+Rajasthan 65.2 23.4 7.9 3.5
+Tamil Nadu 60.6 33.2 5.6 0.6
+Telangana 82.7 13.4 2.9 0.9
+Uttar Pradesh 64.6 22.0 8.4 5.0
+Uttarakhand 63.9 25.0 7.7 3.4
+West Bengal 71.4 22.6 4.6 1.3
+111

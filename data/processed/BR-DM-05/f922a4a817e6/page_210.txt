@@ -1,0 +1,36 @@
+Adult Survival Rate:
+4.22 Adult Survival rate is the probability of survival from age 15 to age 60, based on
+estimated mortality rates over this age range. The adult Survival Rate is calculated as a
+complement to the probability of dying between the age-group 15-59. The statement 57 below
+gives the Adult Survival Rates by sex and residence for India and bigger States/UTs of the
+Country. The Adult Survival Rate for Country was 0.874 in 2024 ranging from 0.809 in
+Chhattisgarh to 0.917 in Delhi. The Adult Survival Rate for male and female was 0.841 and
+0.909 respectively. It was 0.865 for rural and 0.890 for urban areas of the Country during 2024.
+Statement 57
+Adult Survival Rate by Sex and Residence, India and Bigger States/UTs, 2024
+India and bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 0.874 0.841 0.909 0.865 0.827 0.905 0.890 0.866 0.915
+Andhra Pradesh 0.870 0.829 0.912 0.850 0.801 0.901 0.905 0.879 0.931
+Assam 0.859 0.817 0.902 0.855 0.813 0.898 0.880 0.837 0.925
+Bihar 0.887 0.875 0.899 0.885 0.870 0.899 0.900 0.906 0.895
+Chhattisgarh 0.809 0.759 0.859 0.798 0.753 0.844 0.840 0.775 0.904
+Delhi 0.917 0.902 0.933 0.900 0.888 0.913 0.917 0.902 0.933
+Gujarat 0.869 0.831 0.909 0.848 0.795 0.903 0.892 0.869 0.916
+Haryana 0.858 0.810 0.912 0.843 0.782 0.912 0.882 0.854 0.913
+Himachal Pradesh 0.897 0.846 0.946 0.895 0.841 0.947 0.912 0.886 0.939
+Jammu & Kashmir 0.894 0.887 0.900 0.894 0.894 0.895 0.893 0.873 0.912
+Jharkhand 0.862 0.822 0.904 0.856 0.806 0.910 0.876 0.866 0.888
+Karnataka 0.850 0.804 0.898 0.833 0.766 0.906 0.870 0.852 0.888
+Kerala 0.909 0.869 0.945 0.905 0.855 0.952 0.912 0.883 0.938
+Madhya Pradesh 0.864 0.825 0.906 0.856 0.813 0.902 0.885 0.856 0.916
+Maharashtra 0.889 0.856 0.924 0.870 0.830 0.914 0.906 0.880 0.934
+Odisha 0.851 0.818 0.887 0.846 0.812 0.883 0.872 0.841 0.903
+Punjab 0.857 0.818 0.900 0.826 0.782 0.876 0.893 0.860 0.929
+Rajasthan 0.889 0.855 0.925 0.888 0.853 0.924 0.892 0.860 0.926
+Tamil Nadu 0.860 0.818 0.902 0.835 0.776 0.896 0.879 0.852 0.907
+Telangana 0.849 0.801 0.900 0.819 0.752 0.888 0.886 0.860 0.915
+Uttar Pradesh 0.878 0.853 0.906 0.879 0.852 0.909 0.876 0.855 0.899
+Uttarakhand 0.879 0.840 0.921 0.878 0.836 0.922 0.882 0.849 0.918
+West Bengal 0.893 0.870 0.916 0.893 0.869 0.918 0.893 0.871 0.914
+182

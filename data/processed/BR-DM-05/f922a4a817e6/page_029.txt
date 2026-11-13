@@ -1,0 +1,39 @@
+CHAPTER – 1
+INTRODUCTION
+Registration of births and deaths is an important source for demographic data for socio-
+economic development and population control in developing countries. The data on population
+growth, fertility and mortality serves as the prime constituent for population projections. Apart from
+these vital indicators, an adequate evaluation of a number of programs in the health sector, including
+family planning, maternal and reproductive health, immunization programs, is dependent upon the
+availability of accurate, up-to-date fertility and mortality data. In India, the need for dependable
+demographic data was felt soon after independence heralding the era of five-year planning. The
+registration of births and deaths started on voluntary basis and there was no uniformity in statistical
+returns resulting in both under-registration and incomplete coverage. In order to unify the Civil
+Registration activities, the Registration of Births & Deaths Act, 1969 was enacted. Despite having
+the registration of birth & death compulsory under the statute and various efforts taken by Office of
+Registrar General of India for complete birth & death registration, the level of registration of births
+and deaths under the Act is improving but, continued to be under-reported in some States/UTs. With
+a view to generate reliable and continuous data on these indicators, the Office of Registrar General
+of India, initiated the scheme of sample registration of births and deaths in India popularly known
+as Sample Registration System (SRS) in 1964-65 on a pilot basis and on full scale from 1969-70.
+The SRS since then has been providing data on a regular basis.
+1.2 The demographic scenario in the Country has been undergoing a change since the inception
+of SRS; however, the profile and rate of change is not uniform across all the States/UTs. Overall,
+the Crude Birth Rate in the Country has come down from 36.9 per thousand population in 1971 to
+18.3 in 2024, whereas the Crude Death Rate has declined from 14.9 to a low of 6.4 during the year
+2024. The Infant Mortality Rate, which is an important indicator of the health status of the Country,
+has registered a significant decline from 129 per thousand live births in 1971 to 24 in 2024. During
+the period, the Total Fertility Rate of the Country has declined from 5.2 to 1.9. To fulfil its objective
+of monitoring the changes in vital indicators, the SRS sampling units are retained for about ten years,
+making it a panel household survey.
+1.3 Various methods based on the application of sampling techniques have been tried and tested
+in many developing countries. Such methods include single and multi-round retrospective surveys
+and the dual record system. The SRS in India is based on a dual record system. The field
+investigation under Sample Registration System consists of continuous enumeration of births and
+deaths in a sample of villages/urban blocks by a resident part-time enumerator, and an independent
+six-monthly retrospective survey by a full-time supervisor. The data obtained through these two
+sources are matched. The unmatched and partially matched events are re-verified in the field to get
+a deduplicated count of events. The advantage of this procedure, in addition to the elimination of
+errors of duplication, is that it leads to a quantitative assessment of the sources of distortion in the
+two sets of records making it a self-evaluating technique.
+1

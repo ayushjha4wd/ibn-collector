@@ -1,0 +1,23 @@
+Table 11
+Birth rate, death rate and infant mortality rate by NSSO natural Division, 2020
+Estimated vital rates
+No. of Sample Units
+Name of the Number Infant
+Bigger States Birth Death
+natural Division of ND mortality
+rate rate
+Total Rural Urban rate
+Karnataka Coastal & Ghats 1 227 160 67 13.4 6.4 10
+Inland Eastern 2 119 84 35 13.8 7.8 17
+Inland Southern 3 58 41 17 15.0 5.9 18
+Inland Northern 4 107 76 31 18.7 6.1 21
+Total 511 361 150 16.5 6.2 19
+Kerala Northern 1 110 66 44 15.3 6.1 6
+Southern 2 170 109 61 11.4 7.8 7
+Total 280 175 105 13.2 7.0 6
+Tamil Nadu Coastal Northern 1 197 80 117 14.3 5.5 13
+Coastal 2 87 54 33 13.7 5.8 16
+Southern 3 138 57 81 13.9 7.0 12
+Inland 4 123 44 79 13.1 6.3 12
+Total 545 235 310 13.8 6.1 13
+298

@@ -1,0 +1,39 @@
+Peri-Natal Mortality Rate and Still Birth Rate
+4.15 Statement 50 given below presents the Peri-Natal Mortality Rate and Still Birth Rate for the
+year 2022 by Residence for India and bigger States/UTs. The Total Peri-Natal Mortality Rate in
+India was 19 in 2022, with a Still Birth Rate of 5. In terms of residence, the rural Peri-Natal Mortality
+Rate was higher than the urban rate, with a difference of 8. The state of Chhattisgarh had the highest
+Peri-Natal Mortality Rate of 32, and the highest Still-Birth Rate of 15 in Odisha. On the other hand,
+Telangana had the lowest still birth rate of 2 and Delhi had the lowest Peri-Natal Mortality Rate of
+8. Chart 97 and 98 represents Peri-Natal Mortality Rate and Still Birth Rate for India and bigger
+States/UTs by residence respectively.
+Statement 50
+Peri-Natal Mortality Rate and Still Birth Rate by Residence,
+India and bigger States/UTs, 2022
+India and Peri-Natal Mortality Rate Still Birth Rate
+Bigger States/UTs Total Rural Urban Total Rural Urban
+India 19 21 13 5 6 4
+Andhra Pradesh 14 16 10 3 3 2
+Assam 21 22 12 6 7 4
+Bihar 17 17 14 3 3 2
+Chhattisgarh 32 33 26 11 12 9
+Delhi 8 4 9 3 4 3
+Gujarat 14 15 12 3 2 3
+Haryana 21 23 17 8 8 7
+Himachal Pradesh* 13 14 10 4 4 4
+Jammu & Kashmir 11 13 6 4 5 1
+Jharkhand 16 17 11 3 4 1
+Karnataka 12 14 10 4 4 3
+Kerala 9 7 10 5 4 5
+Madhya Pradesh 25 26 20 4 5 4
+Maharashtra 12 15 8 4 6 3
+Odisha 31 33 22 15 17 9
+Punjab 13 15 11 6 7 4
+Rajasthan 20 21 15 5 6 4
+Tamil Nadu 10 11 9 4 5 4
+Telangana 12 13 11 2 2 2
+Uttar Pradesh 25 27 20 7 7 6
+Uttarakhand 17 18 17 7 7 5
+West Bengal 13 14 13 5 5 3
+*Based on three-year period 2020-22
+160

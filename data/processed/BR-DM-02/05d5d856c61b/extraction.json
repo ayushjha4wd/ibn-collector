@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/SC-10-PCA-A10-APPENDIX.xlsx",
+  "raw_sha256": "05d5d856c61b722f7e2bfc4370310d28f651792308479972eb663e85a3481fb6",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/42891/download/46559",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T09:58:25+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/05d5d856c61b/sheets/SC-10.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

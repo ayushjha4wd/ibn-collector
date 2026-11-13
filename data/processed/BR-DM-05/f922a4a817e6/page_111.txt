@@ -1,0 +1,40 @@
+Mean Age of Fertility:
+3.18 The difference in the pattern of child bearing can be assessed in terms of the Mean Age of
+Fertility, which describes the age pattern of fertility of synthetic cohort of hypothetical group of
+women viewed as having, in their lifetime, similar fertility experience recorded in a given year.
+The Mean Age of Fertility has been calculated from the Age-Specific Fertility Rate. The Mean
+Age of Fertility is the average age at which women give birth to their first child. The associated
+standard deviations are also shown. Statement 23 below shows the Mean Age of Fertility for India
+and bigger States/UTs in 2024. The Mean Age of Fertility for India was 28.4 years, ranging from
+26.5 years in West Bengal to 31.3 years in Jammu & Kashmir. The Mean Age of Fertility is
+slightly higher in urban areas (28.8 years) compared to rural areas (28.3 years). Chart 48 shows the
+Mean Age of Fertility for India and bigger States/UTs by residence.
+Statement 23
+Mean age of Fertility and associated Standard Deviation,
+India and Bigger States/UTs, 2024
+India and Bigger Mean Age of Fertility Standard deviation
+States/UTs Total Rural Urban Total Rural Urban
+India 28.4 28.3 28.8 5.8 5.8 5.6
+Andhra Pradesh 27.0 26.7 27.5 5.1 5.1 5.2
+Assam 28.8 28.9 28.6 6.4 6.4 6.2
+Bihar 28.7 28.8 28.3 5.9 5.9 5.6
+Chhattisgarh 28.1 28.1 28.5 5.8 5.9 5.5
+Delhi 28.1 28.7 28.1 5.0 6.0 5.0
+Gujarat 27.9 27.5 28.5 5.5 5.4 5.6
+Haryana 28.1 28.0 28.2 5.3 5.4 5.1
+Himachal Pradesh 28.7 28.6 30.7 5.3 5.3 5.7
+Jammu & Kashmir 31.3 31.2 31.5 6.6 6.7 6.3
+Jharkhand 28.4 28.4 29.0 6.4 6.5 6.1
+Karnataka 28.1 27.4 29.1 5.4 5.2 5.4
+Kerala 28.7 28.6 28.8 5.4 5.4 5.3
+Madhya Pradesh 28.0 27.8 28.8 5.6 5.7 5.4
+Maharashtra 27.9 27.2 28.7 5.5 5.2 5.7
+Odisha 28.2 28.1 29.0 5.6 5.5 5.5
+Punjab 29.2 29.0 29.4 5.6 5.6 5.6
+Rajasthan 28.3 28.3 28.5 5.7 5.9 5.3
+Tamil Nadu 27.7 27.3 28.1 5.1 5.0 5.1
+Telangana 28.1 27.7 28.6 5.4 5.3 5.5
+Uttar Pradesh 29.7 29.5 30.4 6.1 6.1 6.1
+Uttarakhand 29.0 28.8 29.7 5.4 5.3 5.6
+West Bengal 26.5 26.3 27.3 5.7 5.7 5.7
+83

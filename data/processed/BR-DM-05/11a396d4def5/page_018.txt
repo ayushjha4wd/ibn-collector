@@ -1,0 +1,38 @@
+Number of deaths in a particular age-group
+Age-Specific Mortality = ------------------------------------------------------------ x 1000
+Rate (ASMR) Mid-year population of the same age-group
+Under-five Mortality Rate = The Under-Five Mortality is the probability ( q ) that a child
+5 0
+born in a specific year or time period will die before reaching
+the age of five, subject to current Age-Specific Mortality
+Rates. It is expressed as a rate per 1,000 live births.
+Number of infant deaths during the year
+Infant Mortality Rate = ------------------------------------------------------------- x 1000
+(IMR) Number of live births during the year
+Infant Mortality Rate comprises of two parts viz. Neo-natal Mortality Rate and Post Neo-natal
+Mortality Rate. The Neo-natal Mortality Rate also comprises of two parts viz. Early Neo-natal
+Mortality Rate and late Neo-natal Mortality Rate. These are defined as:
+Number of infant deaths of < than 29 days
+during the year
+Neo-natal Mortality = ----------------------------------------------------------------- x 1000
+Rate (NMR) Number of live births during the year
+Number of infant deaths of < than 7 days
+during the year
+Early Neo-natal = ---------------------------------------------------------------- x 1000
+Mortality Rate Number of live births during the year
+Number of infant deaths of 7 days to < than 29 days
+during the year
+Late Neo-natal = --------------------------------------------------------------------x 1000
+Mortality Rate Number of live births during the year
+Number of infant deaths of 29 days to < than
+one year during the year
+Post Neo-natal = -------------------------------------------------------------- x 1000
+Mortality Rate (PNMR) Number of live births during the year
+Number of still births and infant deaths of
+< than 7 days during the year
+Peri-natal Mortality = ------------------------------------------------------------------- x 1000
+Rate (PMR) Number of live births and still births during the year
+Number of still births during the year
+Still Birth Rate = ------------------------------------------------------------------ x 1000
+(SBR) Number of live births and still births during the year
+xviii

@@ -1,0 +1,41 @@
+Table 8
+Age-Specific Death Rate by Sex and Residence, 2023
+Telangana
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 17.8 18.6 16.9 22.5 23.5 21.2 12.8 13.0 12.6
+1-4 1.0 0.9 1.1 1.0 1.2 0.8 1.0 0.7 1.4
+0-4 5.1 5.3 4.9 6.1 6.5 5.5 4.0 3.8 4.2
+5-9 0.7 0.6 0.9 0.6 0.4 0.9 0.8 0.7 1.0
+10-14 0.9 0.9 1.0 0.9 0.7 1.1 0.9 1.1 0.7
+15-19 1.0 1.0 1.1 0.9 0.7 1.0 1.3 1.3 1.2
+20-24 1.2 1.1 1.3 1.3 1.2 1.3 1.2 1.0 1.3
+25-29 1.3 1.9 0.8 1.4 2.1 0.7 1.2 1.5 0.9
+30-34 2.1 2.9 1.4 2.9 4.1 1.6 1.3 1.4 1.2
+35-39 3.1 4.5 1.6 3.5 5.9 1.1 2.6 3.0 2.2
+40-44 3.3 4.3 2.1 4.4 6.0 2.8 1.9 2.5 1.3
+45-49 5.9 8.1 3.8 6.1 8.7 3.9 5.6 7.3 3.7
+50-54 8.4 10.6 6.1 9.1 11.7 6.5 7.4 9.2 5.4
+55-59 13.2 16.4 10.0 14.8 19.3 10.6 10.9 12.7 8.9
+60-64 18.0 22.0 14.3 18.3 24.3 13.3 17.5 18.7 16.2
+65-69 23.9 26.4 21.5 23.9 27.5 20.8 23.9 24.8 23.0
+70-74 42.0 48.9 35.8 38.9 44.4 34.1 49.8 58.3 40.4
+75-79 69.3 75.6 63.0 63.0 70.2 56.7 81.4 84.6 77.3
+80-84 81.0 86.9 76.0 74.5 80.5 69.4 96.5 101.4 92.0
+85+ 117.0 121.6 112.9 101.9 101.1 102.7 146.2 156.9 135.0
+All ages 6.3 7.2 5.4 7.1 8.1 6.0 5.3 5.9 4.7
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and Infant Mortality Indicators, 2023
+Telangana
+Indicators Total Rural Urban
+Child mortality rate 5 6 4
+Under-five mortality rate 22 24 19
+Infant mortality rate 18 20 15
+Neo-natal mortality rate 14 15 12
+Early neo-natal mortality rate 9 10 8
+Late neo-natal mortality rate 4 5 3
+Post neo-natal mortality rate 4 5 3
+Peri-natal mortality rate 12 12 13
+Still birth rate 3 2 5
+291

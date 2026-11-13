@@ -1,0 +1,45 @@
+Statement 40
+CDR (Crude Death Rate) by Residence, India and States/UTs, 2022
+India and bigger States/UTs Total Rural Urban
+India 6.8 7.2 6.0
+Andhra Pradesh 7.5 8.5 5.7
+Assam 6.5 6.6 6.0
+Bihar 6.4 6.4 6.0
+Chhattisgarh 9.0 9.4 7.9
+Delhi 4.6 5.4 4.6
+Gujarat 6.9 8.0 5.6
+Haryana 7.3 7.6 6.9
+Himachal Pradesh 6.9 7.1 5.0
+Jammu & Kashmir 5.9 5.8 5.9
+Jharkhand 5.8 6.0 5.4
+Karnataka 7.4 8.5 5.9
+Kerala 7.6 7.5 7.8
+Madhya Pradesh 7.1 7.5 6.2
+Maharashtra 6.6 7.8 5.2
+Odisha 7.8 8.2 6.2
+Punjab 8.3 9.5 6.7
+Rajasthan 6.2 6.3 5.9
+Tamil Nadu 7.3 8.5 6.3
+Telangana 6.6 7.4 5.5
+Uttar Pradesh 6.6 6.8 6.2
+Uttarakhand 6.3 6.5 5.9
+West Bengal 6.3 6.2 6.4
+Smaller States
+Arunachal Pradesh 5.9 6.2 4.5
+Goa 8.2 8.9 7.6
+Manipur 4.9 4.8 5.1
+Meghalaya 5.9 5.8 6.1
+Mizoram 6.0 5.9 6.1
+Nagaland 5.4 5.9 4.8
+Sikkim 4.9 5.1 4.7
+Tripura 6.8 6.5 7.5
+Smaller UTs
+A & N Islands 6.0 6.9 5.0
+Chandigarh 4.2 4.5 4.2
+Dadra and Nagar Haveli and
+5.2 6.3 4.8
+Daman and Diu
+Ladakh 6.1 6.1 6.2
+Lakshadweep 5.6 7.0 5.3
+Puducherry 6.6 6.8 6.5
+128

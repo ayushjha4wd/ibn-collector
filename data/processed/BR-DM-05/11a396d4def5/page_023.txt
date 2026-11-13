@@ -1,0 +1,39 @@
+EXECUTIVE SUMMARY
+The Sample Registration System (SRS) is the largest demographic survey in the
+Country mandated to provide annual estimates of fertility as well as mortality indicators
+at the State and National level. The present Report contains data on fertility and mortality
+indicators for the year 2023 for India and bigger States/UTs. The estimates are segregated
+by residence and also by gender, wherever required.
+2. The salient features of the report are summarized below.
+ The Crude Birth Rate (CBR) at the National level during 2023 stands at 18.4
+exhibiting a decline of 0.7 points over 2022. Among the bigger States/UTs, the
+maximum CBR has been reported in Bihar (25.8) and the minimum in Tamil
+Nadu (12.0).
+ There has been a decline of 1.6 points in the CBR for the Country from 2018 to
+2023. The corresponding decline in rural CBR is 1.3 points and in urban CBR is
+1.8 points.
+ The Crude Death Rate (CDR) for the Country is 6.4 in 2023. Among the bigger
+States/UTs, the maximum CDR has been reported for Chhattisgarh (8.3) and the
+minimum for Delhi (4.5).
+ The Infant Mortality Rate (IMR) has also registered 1-point decline to 25 in 2023
+from 26 in 2022 at the National level. Among the bigger States/UTs, the
+maximum IMR has been observed in Chhattisgarh, Madhya Pradesh and Uttar
+Pradesh (37) and the minimum in Kerala (5).
+ IMR for the Country has come down to 25 in 2023 from 32 in 2018, a decline of
+7 points over last 5 years and an annual average decline of about 1.4 points. The
+corresponding decline in rural IMR has been to the tune of 8 points (36 in 2018
+to 28 in 2023) against a decline of 5 points in urban IMR (23 in 2018 to 18 in
+2023). Both the genders have shown decline in the period 2018-23.
+ Despite this decline, one in every 40 infants at the National level, one in every 36
+infants in rural areas and one in every 56 infants in urban areas still die within
+one year of life.
+ In 2023, U5MR for the Country has shown a decline of 1 point from 2022 (29 in
+2023 against 30 in 2022). There has been a decline of 1 point in female U5MR
+and no changes has been observed in male U5MR during the corresponding
+period.
+ Sex Ratio at Birth for the Country has gone up by 3 points to 917 in 2021-23 from
+914 in 2020-22. Chhattisgarh and Kerala have reported the highest Sex Ratio at
+Birth at 974 and 971 respectively, while Uttarakhand has the lowest (868). Sex
+Ratio at Birth for Rural and Urban areas was 914 and 925 respectively during
+2021-23.
+xxiii

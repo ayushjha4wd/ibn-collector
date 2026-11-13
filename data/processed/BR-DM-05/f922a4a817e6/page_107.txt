@@ -1,0 +1,82 @@
+Chart 44: Age Specific Fertility Rates, India-Rural :
+2012-14 and 2022-24
+250
+2012-14 2022-24
+e
+t
+a
+200
+R
+y
+t
+i l 150
+i
+t
+r
+e
+F
+100
+c
+i
+f
+i
+c
+e 50
+p
+S
+e
+g 0
+A
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Age-Group
+Chart 45: Age Specific Fertility Rates, India-Urban :
+2012-14 and 2022-24
+160
+e 2012-14 2022-24
+t a 140
+R
+120
+y
+t
+i l 100
+i
+t
+r
+e 80
+F
+c 60
+i
+f
+i
+c 40
+e
+p
+S 20
+e
+g 0
+A
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Age-Group
+Chart 46: Percent change in Age Specific Fertility Rate by
+Residence between 2012-14 and 2022-24
+80
+Total Rural Urban
+60
+e 40
+g
+n
+a 20
+h
+C
+0
+t
+n 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+e-20
+c
+r
+e
+P-40
+-60
+-80
+Age-Group
+79

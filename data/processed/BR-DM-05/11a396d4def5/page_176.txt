@@ -1,0 +1,19 @@
+70.0 0.0
+60.0 -10.0
+50.0 -20.0
+40.0 -30.0
+30.0 -40.0
+20.0 -50.0
+10.0 -60.0
+0.0 -70.0
+149
+etaR
+ytilatroM
+tnafnI
+egarevA
+egnahc
+tnecreP
+Chart 88: Average Infant Mortality Rate between 2011-13 & 2021-23, India and
+Bigger States/UTs
+2011-13 2021-23 % Change
+India and Bigger States/UTs

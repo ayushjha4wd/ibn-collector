@@ -1,0 +1,44 @@
+Neo-natal Mortality Rate:
+4.13 Statement 48 given below presents the Neo-Natal (less than 29 days) Mortality Rate and the
+percentage of neo-natal deaths to infant deaths for the year 2021 both for India and the bigger
+States/UTs. India's overall Neo-Natal Mortality Rate was 19 deaths per 1,000 live births in 2021,
+with a higher rate in rural areas (22 deaths per 1,000 live births) than in urban areas (13 deaths per
+1,000 live births). The percentage of neo-natal deaths to infant deaths was 71.9% indicating that a
+significant proportion of infant deaths occurred within the first 28 days of life. Among the bigger
+States, Kerala had the lowest Neo-Natal Mortality Rate of 4 deaths per 1,000 live births, while
+Madhya Pradesh had the highest rate of 30 deaths per 1,000 live births. Jammu and Kashmir had the
+highest percentage of neo-natal deaths to infant deaths at 78.3%. Kerala had the lowest percentage
+of neo-natal deaths to infant deaths at 64.7%. Chart 91 to 93 represents the Neo-Natal Mortality
+Rates and percentage share of neo-natal deaths to infant deaths for India and bigger States/UTs
+by place of residence viz, Total, Rural and Urban.
+Statement 48
+Neo-Natal Mortality Rate and percentage share of Neo-Natal Deaths to Infant
+Deaths by Residence, India and bigger States/UTs, 2021
+India and Neo-natal Mortality Percentage of Neo-natal
+Bigger States/UTs Rate deaths to Infant deaths
+Total Rural Urban Total Rural Urban
+India 19 22 13 71.9 72.2 70.4
+Andhra Pradesh 16 18 11 73.3 74.4 70.0
+Assam 23 24 12 67.9 67.4 77.0
+Bihar 19 20 16 73.3 74.0 66.9
+Chhattisgarh 28 29 21 72.7 73.2 69.6
+Delhi 8 13 8 66.6 75.0 66.3
+Gujarat 16 19 12 73.7 73.9 73.4
+Haryana 20 21 16 71.6 70.5 74.6
+Himachal Pradesh* 12 13 9 71.9 72.0 70.1
+Jammu & Kashmir 12 12 12 78.3 74.6 93.9
+Jharkhand 17 18 13 68.9 70.2 62.4
+Karnataka 13 15 10 74.0 74.8 72.1
+Kerala 4 3 4 64.7 72.1 60.0
+Madhya Pradesh 30 32 21 72.2 71.8 74.1
+Maharashtra 11 14 7 73.4 74.4 71.0
+Odisha 25 26 20 73.5 73.7 71.9
+Punjab 13 14 11 72.4 71.9 73.2
+Rajasthan 22 23 16 69.8 70.0 69.2
+Tamil Nadu 9 10 7 75.1 72.2 79.1
+Telangana 15 17 13 76.4 75.2 79.0
+Uttar Pradesh 26 28 18 70.9 71.7 66.3
+Uttarakhand 17 17 17 71.0 70.7 72.0
+West Bengal 13 14 12 74.5 74.5 74.5
+*Based on three-year period 2019-21
+152

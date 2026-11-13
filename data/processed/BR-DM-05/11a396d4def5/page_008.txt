@@ -1,0 +1,36 @@
+Page
+30 Percentage change in average Total Marital Fertility rate (TMFR) 99
+between 2011-13and 2021-23 by Residence, India and bigger
+States/UTs
+31 Percentage of female population in the age group 15-49 by Level 103
+of Education, India and bigger States/UTs, 2023
+32 GFR (General Fertility Rate) by Level of Education of Women, 104
+India and bigger States/UTs, 2023
+33 ASFR (Age-Specific Fertility Rate) by Level of Education of 105
+Women and Residence, India, 2023
+34 TFR (Total Fertility Rate) by Level of Education of Women, India 109
+and bigger States/UTs, 2023
+35 Percentage distribution of current live births by Birth Order, India 111
+and bigger States/UTs, 2023
+36 Percentage distribution of current live births by Birth Order and 113
+Residence, India and bigger States/UTs, 2023
+37 Percentage distribution of second and higher order live births by 116
+Interval, India and bigger States/UTs, 2023
+38 Percentage distribution of second and higher order live births by 118
+Interval and Residence, India and bigger States/UTs, 2023
+39 Percentage distribution of live births by Type of Medical Attention 122
+received by the mother at delivery by Residence, India and bigger
+States/UTs, 2023
+Mortality Indicators
+40 CDR (Crude Death Rate) by Residence, India and States/UTs, 128
+2023
+41 Average Crude Death Rate and percentage change between 2011- 131
+12 and 2021-23, by Residence, India and bigger States/UTs
+42 CDR (Crude Death Rate) by Sex and Residence, India, 2023 136
+43 CDR (Crude Death Rate) by Sex, India and bigger States/UTs, 137
+2023
+44 Percentage distribution of deaths by broad age groups, India and 139
+bigger States/UTs, 2023
+45 Percentage of Infant Deaths to total deaths by Residence, India and 141
+bigger States/UTs, 2023
+viii

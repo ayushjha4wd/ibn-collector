@@ -1,0 +1,25 @@
+Table 3
+Fertility Indicators, 2022
+Indicators Age group Total Rural Urban Total Rural Urban
+Uttarakhand West Bengal
+Age specific fertility rates 15-19 4.8 4.7 5.0 23.5 26.9 13.9
+20-24 73.1 78.3 58.9 108.3 120.5 77.1
+25-29 141.9 155.5 107.0 83.3 86.2 76.7
+30-34 89.2 88.1 91.7 44.3 43.7 45.4
+35-39 36.7 33.6 44.2 13.2 12.7 14.1
+40-44 10.3 9.1 12.9 3.9 3.7 4.3
+45-49 3.5 3.2 4.1 2.0 2.4 1.2
+Age specific marital fertility rates 15-19 260.5 267.4 243.9 292.9 302.9 249.3
+20-24 288.1 310.8 227.2 259.3 265.0 238.5
+25-29 240.8 256.8 195.2 120.9 119.6 124.2
+30-34 104.5 100.5 115.2 51.3 49.0 56.6
+35-39 39.1 35.5 48.1 14.3 13.6 15.9
+40-44 10.9 9.7 13.8 4.2 4.0 4.8
+45-49 3.8 3.5 4.5 2.2 2.6 1.4
+Crude birth rate 17.1 17.8 15.3 14.5 15.8 11.5
+General fertility rate 60.6 63.5 53.2 47.0 51.3 37.5
+Total fertility rate 1.8 1.9 1.6 1.4 1.5 1.2
+Gross reproduction rate 0.8 0.9 0.8 0.7 0.7 0.6
+General marital fertility rate 107.2 112.1 94.4 72.5 77.8 60.0
+Total marital fertility rate 4.7 4.9 4.2 3.7 3.8 3.5
+234

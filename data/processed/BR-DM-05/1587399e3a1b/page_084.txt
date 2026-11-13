@@ -1,0 +1,42 @@
+CHAPTER 3
+ESTIMATES OF FERTILITY INDICATORS
+SRS has been providing data for estimating various fertility measures since its inception.
+The fertility indicators considered in this chapter are Crude Birth Rate, General Fertility Rate, Age
+Specific/Marital Fertility Rates, Total /Marital Fertility Rates and Gross Reproduction Rate. Apart
+from this, the chapter includes Sex Ratio at Birth. To examine the changes in the levels of fertility
+during the last decade, the average values of these fertility indicators for the years 2019-21 are
+compared with that for 2009-11.
+3.2 The Crude Birth Rate (CBR) at all India level had declined from 36.9 in 1971 to 33.9 in
+1981, registering a fall of about 8 per cent. In the next three decades ending 1991, 2001 and 2011,
+the crude birth rate reached 29.5, 25.4 and 21.8 respectively. In the last decade during 2011-2021,
+there was an 11 per cent decline in Crude Birth Rate, from 21.8 in 2011 to 19.3 in 2021. The CBR
+has been continued to be higher in rural areas compared to urban areas, though the rural-urban
+differential in CBR has narrowed down over these years, from a difference of 8.6 in 1981 to 5.0 in
+2021.
+3.3 The Total Fertility Rate (TFR) has declined from 5.2 to 4.5 during 1971 to 1981 and from
+3.6 to 2.0 during 1991 to 2021. The TFR in rural areas has declined from 5.4 to 2.2 from 1971 to
+2021 whereas the corresponding decline in urban areas has been from 4.1 to 1.6 during the same
+period. In 2021, around 91.1 percent of the deliveries were institutional which includes Government
+as well as private hospitals. The percentage of institutional deliveries in urban areas was 95.5 as
+against about 89.7 percent recorded in rural areas. The data on most of the fertility indicators have
+been presented by age, sex and residence for all bigger States/UTs and India. This chapter also
+includes data on fertility by level of education, order of birth, birth interval and medical attention at
+the time of birth.
+3.4 Apart from the fertility indicators at State and National levels, the SRS report 2021 also
+provides estimates of birth rates at Sub-State, viz. NSS Natural Division Level. NSS natural
+divisions have been formed taking into consideration the geography of the State and by grouping
+contiguous districts having similar topography, population density, cropping pattern and rainfall
+etc. Table 11 of this report contains data on the birth rate besides Death and Infant Mortality Rate
+for 71 Natural Divisions of 22 bigger States/UTs.
+3.5 The following Statement 14 provides the Crude Birth Rate (CBR) by residence for India and
+States/UTs for the year 2021. Although the Birth Rate has been estimated for all the states/UTs of
+India, the other fertility indicators are presented only for Bigger States/UTs in the report. The CBR
+for India was 19.3 in 2021, with a higher rate in rural areas (20.9) compared to urban areas (15.9).
+Among the Bigger States/UTs, Bihar had the highest CBR of 25.6, followed by Uttar Pradesh (24.8)
+and Madhya Pradesh (23.8). The lowest CBR in this group was in Kerala (12.9) followed by Tamil
+Nadu (13.4) and Delhi (13.9).
+3.6 Among the Smaller States, Meghalaya had the highest CBR of 23.0, whereas the lowest
+CBR in this group was in Goa (11.7). Among the Smaller UTs, Dadra and Nagar Haveli and Daman
+and Diu had the highest CBR of 19.8 and lowest CBR in this group was in A & N Islands (10.6).
+Based on the figures in the Statement 14 given below, the graphical representation of Crude Birth
+57

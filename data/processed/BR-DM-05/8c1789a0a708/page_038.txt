@@ -1,0 +1,27 @@
+Chart 1: Flow Chart
+Base Line Survey
+(By Supervisor wit h the help of enumerator)
+Houselist Household schedule List of pregnant women
+(Form1) (Form2) (Form3)
+Continuous Enumeration by Retrospective Survey (Half Yearly Survey)
+Part Time Enumerator (PTE) By Supervisor
+BIRTHS DEATHS BIRTHS DEATHS
+Netting of Births Netting of Deaths U p d a t i n g Netting of Births Netting of Deaths
+(Form 4) (Form 5) F o r m s 1 , 2 & 3 (Form 9) (Form 10)
+Monthly Report Monthly Report
+(Form 6) (Form 7)
+Matching
+1. Births: Form4
+with Form 9
+2. Deaths: Form5
+with Form 10
+partially match or unmatched completely match
+RE-VERIFICATION Form 11: Finalised list of births
+Correct birth & death
+Form 12: Finalised list of deaths
+(Independently by another supervisor)
+Form 13: Result of HYS for births
+Form 14: Result of HYS for deaths
+Generation of Forms 11 to 17 in
+portal
+11

@@ -1,0 +1,28 @@
+100.0
+90.0
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+124
+egatnecreP
+Chart 72: Distribution of live Births by type of Medical Attention Received by the mother
+at Delivery, India and Bigger States/UTs, 2023 - RURAL
+Govt.
+Hospital
+Private
+Hospital
+Qualified
+professional
+Untrained
+functionary
+& Others
+No Medical
+Attention
+Received
+India and Bigger States/UTs

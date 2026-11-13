@@ -1,0 +1,40 @@
+Gross Reproduction Rate:
+3.21 Another refined measure of fertility that accounts for future mothers is the Gross
+Reproduction Rate (GRR). It measures the average number of female children a woman is expected
+to give birth during her entire reproductive span conforming to the Age-Specific Fertility Rates
+(ASFRs) for a given year, if there is no mortality. The GRR for India for 2022 has been estimated
+as 0.9, which means that on average, each woman in India is having one daughter who survives to
+reproductive age and has children of her own. The rural GRR (1.0) was slightly higher than the
+urban GRR (0.8), which suggests that women in rural areas are having more daughters than women
+in urban areas. The GRR values for the major States/UTs range from 0.6 in Delhi and Tamil Nadu
+to 1.3 in Bihar. Most of the States/UTs had lower GRR values for their urban populations compared
+to their rural populations. Statement 26 provides the GRR by Residence for India and bigger
+States/UTs and the same is represented in Chart 55.
+Statement 26
+GRR (Gross Reproduction Rate) by Residence, India and bigger
+States/UTs, 2022
+India and bigger States/UTs Total Rural Urban
+India 0.9 1.0 0.8
+Andhra Pradesh 0.7 0.8 0.7
+Assam 1.0 1.1 0.7
+Bihar 1.3 1.4 1.0
+Chhattisgarh 1.2 1.3 0.8
+Delhi 0.6 0.6 0.6
+Gujarat 0.9 1.0 0.7
+Haryana 0.9 1.0 0.8
+Himachal Pradesh 0.8 0.8 0.5
+Jammu & Kashmir 0.7 0.8 0.7
+Jharkhand 1.0 1.1 0.8
+Karnataka 0.8 0.8 0.7
+Kerala 0.8 0.7 0.8
+Madhya Pradesh 1.2 1.3 1.0
+Maharashtra 0.7 0.8 0.7
+Odisha 0.8 0.8 0.6
+Punjab 0.7 0.7 0.6
+Rajasthan 1.2 1.2 1.0
+Tamil Nadu 0.6 0.6 0.6
+Telangana 0.8 0.8 0.8
+Uttar Pradesh 1.2 1.3 1.0
+Uttarakhand 0.8 0.9 0.8
+West Bengal 0.7 0.7 0.6
+93

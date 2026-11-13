@@ -1,0 +1,42 @@
+with their pregnancy status, which helps in better netting of all the births is available through mobile
+app to enumerator, so that better netting of event could be possible. While carrying out this survey
+the supervisor does not have access to the birth and death records of the enumerator for the same.
+The Half Yearly Surveys are retrospective in nature and therefore the first HYS for the reference
+period January-June of a year takes place in July- November period of that year and the Second
+HYS pertaining to July-December of a year takes place in January-May of the subsequent Year.
+Matching:
+1.12 On completion of the half-yearly survey, the events captured in the Forms 9 & 10 (filled-in
+by the supervisors) are compared with those in the Forms 4 & 5 (filled-in by the enumerators). This
+is done through online portal specially developed for SRS at the Office of Directorate of Census
+Operations for all States/UTs except for rural areas of Kerala, where it is done at the Directorate of
+Economics and Statistics of the States. Selected important entries in the enumerator's and
+supervisor's record are matched item by item and events are classified as fully matched, partially
+matched and unmatched. The items generally considered for matching for birth events are:
+Identification code of the head of Household and mother, Relationship of the mother to head,
+date of live birth, month in case of still-birth/abortion, sex in case of live birth /still-birth and the
+items considered for death events are: identification code of the head of household and mother in
+infant death, relationship of the deceased to head, date of death and sex of the deceased.
+Field verification of unmatched and partially matched events:
+1.13 Every unmatched or partially matched event is verified by a visit to the concerned household.
+This is done either by a third person or jointly by the supervisor and the enumerator, depending upon
+the availability of staff.
+Sample Design:
+1.14 The Sample design adopted for SRS is a uni-stage stratified simple random sample without
+replacement except in stratum II (larger villages) of rural areas, where two-stage stratification has
+been applied. In rural areas of bigger States/UTs (population with ten million or more as per
+Census 2011), the NSS natural division is the first level of geographical stratification. The overall
+stratification in rural areas has been done on size of villages with villages having population less
+than 2,000 forming Stratum I and villages with population 2,000 or more forming Stratum II.
+Smaller villages with population less than 200 were excluded from the sampling frame in such a
+manner that the total population of villages so excluded did not exceed 2 percent of the total
+population of the State. The number of sample villages in each State was allocated to the substrata
+proportionally to their size (population). The villages within each size stratum were ordered by
+the female literacy rate based on the Census 2011 data, and three equal-size substrata were
+established. The sample villages within each substratum were selected at random with equal
+probability. In the case of villages of Stratum II, each sample village with a population of 2,000
+or more was subdivided into two or more segments in a way that none of the segments cut across
+the Census Enumeration Blocks (CEBs) and the population of each segment formed by grouping
+the contiguous CEBs was approximately equal and did not exceed 2000. A frame of segments
+was then prepared and the selection of segments was done at random at the second sampling
+stage for the SRS enumeration.
+4

@@ -1,0 +1,30 @@
+Chart 38: Average GFR (General Fertility Rate) and percentage change between
+2012-14 & 2022-24, India and Bigger States/UTs
+140.0 0.0
+2012-14 2022-24 % Change
+120.0 -5.0
+e100.0 -10.0
+t
+a P
+R e
+r
+y c
+t 80.0 -15.0 e
+i n
+l
+i t
+t a
+r
+e g
+F e
+60.0 -20.0 c
+l a h
+r a
+e n
+n g
+e e
+G 40.0 -25.0
+20.0 -30.0
+0.0 -35.0
+India and bigger States/UTs
+73

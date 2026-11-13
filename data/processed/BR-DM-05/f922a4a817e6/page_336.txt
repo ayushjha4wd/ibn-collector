@@ -1,0 +1,47 @@
+Table 11
+Birth Rate, Death Rate, Infant Mortality Rate and Under 5 Mortality Rate
+by NSSO Natural Division, 2024
+No. of Sample Estimated vital rates
+No.
+Name of the Natural Units Infant Under 5
+Bigger States of Birth Death
+Division Mortality Motality
+ND Total Rural Urban Rate Rate
+Rate Rate
+Jammu & Kashmir Mountainous 1 133 70 63 13.1 5.7 10 16
+Outer Hills 2 73 66 7 16.3 5.4 10 10
+Jhelam Valley 3 73 41 32 14.6 5.5 17 17
+Total 279 177 102 14.6 5.5 14 15
+Punjab Northern 1 118 62 56 13.1 7.2 15 19
+Southern 2 131 68 63 14.0 7.0 17 18
+Total 249 130 119 13.6 7.1 16 19
+Haryana Eastern 1 155 75 80 18.4 6.6 25 30
+Western 2 101 69 32 18.7 7.1 24 27
+Total 256 144 112 18.5 6.7 24 29
+Rajasthan Western 1 73 51 22 22.4 5.3 29 32
+North Eastern 2 81 49 32 22.8 6.0 28 33
+Southern 3 49 39 10 25.1 6.0 35 49
+South Eastern 4 65 41 24 24.2 6.4 29 34
+Northern 5 82 56 26 20.8 5.8 23 25
+Total 350 236 114 22.8 5.8 28 34
+Uttar Pradesh Northern Upper Ganga Plain 1 119 61 58 20.3 5.7 31 35
+Central 2 101 64 37 21.5 6.9 49 55
+Eastern 3 98 81 17 26.4 6.1 29 34
+Southern 4 96 66 30 21.8 6.5 27 31
+Southern Upper Ganga Plain 5 86 56 30 21.1 6.6 51 59
+Total 500 328 172 23.5 6.3 35 41
+Bihar Northern 1 158 96 62 27.0 5.9 22 24
+Central 2 172 104 68 26.2 6.0 24 27
+Total 330 200 130 26.8 5.9 23 25
+Assam Plains Eastern 1 70 21 49 19.4 6.9 26 27
+Plains Western 2 87 26 61 19.7 5.9 26 31
+Cachar Plain 3 73 22 51 20.2 6.1 32 34
+Central Brahamputra plains 4 70 20 49 19.3 5.8 36 44
+Total 299 89 210 19.6 6.1 29 34
+West Bengal Himalayan 1 93 62 31 14.0 5.6 15 19
+Eastern Plains 2 62 46 16 16.4 5.7 19 23
+Southern Plains 3 150 81 69 13.2 5.7 15 17
+Central Plains 4 155 54 101 11.5 5.9 15 16
+Western Plains 5 95 61 34 13.7 5.8 15 17
+Total 555 304 251 13.9 5.8 16 19
+307

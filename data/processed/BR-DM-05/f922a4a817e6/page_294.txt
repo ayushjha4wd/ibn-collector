@@ -1,0 +1,40 @@
+Table 6
+Percentage distribution of current live births by birth interval, 2024
+Birth interval Kerala Madhya Pradesh Maharashtra
+in months Total Rural Urban Total Rural Urban Total Rural Urban
+10-12 0.6 0.9 0.3 2.1 2.2 1.8 1.0 0.5 1.5
+12-18 3.3 3.3 3.3 9.0 9.8 5.5 5.0 5.7 4.2
+18-24 6.6 6.9 6.2 19.2 20.8 11.9 9.5 11.5 7.2
+24-30 6.4 8.2 4.8 17.2 18.5 11.5 12.7 13.1 12.3
+30-36 7.6 7.8 7.4 11.0 11.6 8.5 11.7 11.3 12.2
+36+ 75.6 72.8 77.9 41.5 37.1 60.8 60.2 58.0 62.6
+Total 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+Birth interval Odisha Punjab Rajasthan
+in months Total Rural Urban Total Rural Urban Total Rural Urban
+10-12 0.3 0.4 0.0 1.3 1.0 1.6 1.7 2.0 0.5
+12-18 3.4 3.4 2.8 6.4 6.1 6.8 7.6 7.5 8.0
+18-24 5.7 5.3 8.2 11.0 9.6 12.7 14.1 15.1 10.0
+24-30 6.6 7.0 3.9 10.4 10.5 10.3 15.6 15.2 17.2
+30-36 10.7 11.5 4.9 9.0 8.0 10.3 12.2 12.9 9.6
+36+ 73.4 72.4 80.2 62.0 64.9 58.3 48.8 47.2 54.7
+Total 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+Birth interval Tamil Nadu Telangana Uttar Pradesh
+in months Total Rural Urban Total Rural Urban Total Rural Urban
+10-12 1.1 0.9 1.2 0.6 1.2 0.0 1.8 1.8 2.2
+12-18 5.7 6.1 5.3 11.6 15.0 7.9 6.9 7.3 5.0
+18-24 12.7 14.5 10.8 20.1 25.4 14.3 13.6 14.2 10.9
+24-30 14.3 16.4 12.3 20.2 20.2 20.2 12.1 12.8 9.1
+30-36 13.0 14.1 11.9 13.7 12.4 15.1 13.8 13.1 16.6
+36+ 53.3 48.0 58.5 33.8 25.9 42.4 51.8 50.8 56.2
+Total 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+Birth interval Uttarakhand West Bengal
+in months Total Rural Urban Total Rural Urban
+10-12 2.7 3.0 2.1 0.3 0.3 0.2
+12-18 7.5 7.8 6.6 1.4 1.4 1.3
+18-24 11.9 12.4 10.5 6.8 5.2 10.9
+24-30 12.4 13.4 9.5 7.9 5.1 15.2
+30-36 10.4 10.5 10.3 8.0 10.0 2.7
+36+ 55.0 52.9 61.0 75.6 77.9 69.7
+Total 100.0 100.0 100.0 100.0 100.0 100.0
+Note : Total may not add up to 100 due to rounding off.
+265

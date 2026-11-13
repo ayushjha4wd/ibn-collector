@@ -1,0 +1,38 @@
+Survival to Age-5:
+4.19 Survival to Age-5 or the Probability of Survival to Age-5 is defined as the probability
+that a child born during the specified year will survive till age 5, subject to current Age-Specific
+Mortality Rates. Survival to Age 5 or Probability of Survival to Age 5 is calculated as the
+complement of the Under-5 Mortality Rate. Probability of Survival to Age-5 by sex and
+residence for the year 2023 is given in statement 54 for India and bigger States/UTs. The
+probability of survival to Age 5 in the year 2023 was estimated at 0.971 for the country as a
+whole, 0.970 for males, and 0.971 for females. The Probability of Survival to Age 5 was
+estimated as 0.967 for Rural areas and 0.980 for Urban Areas during 2023. The probability of
+Survival to Age-5 varies from 0.956 in Madhya Pradesh to 0.992 in Kerala.
+Statement 54
+Survival to Age-five by Sex and Residence, India and Bigger States/UTs, 2023
+India & bigger Total Rural Urban
+States/UTs Total Male Female Total Male Female Total Male Female
+India 0.971 0.970 0.971 0.967 0.967 0.968 0.980 0.980 0.980
+Andhra Pradesh 0.979 0.979 0.980 0.977 0.977 0.976 0.984 0.982 0.986
+Assam 0.967 0.966 0.967 0.965 0.964 0.965 0.984 0.983 0.985
+Bihar 0.973 0.974 0.972 0.973 0.974 0.972 0.974 0.974 0.974
+Chhattisgarh 0.959 0.960 0.957 0.957 0.959 0.954 0.967 0.962 0.972
+Delhi 0.984 0.986 0.982 0.991 0.984 1.000 0.984 0.986 0.982
+Gujarat 0.977 0.977 0.977 0.973 0.972 0.974 0.983 0.983 0.982
+Haryana 0.970 0.968 0.973 0.966 0.963 0.970 0.977 0.976 0.979
+Himachal Pradesh 0.983 0.981 0.984 0.982 0.980 0.984 0.987 0.991 0.983
+Jammu & Kashmir 0.985 0.984 0.985 0.984 0.984 0.985 0.986 0.986 0.986
+Jharkhand 0.968 0.967 0.969 0.966 0.965 0.967 0.977 0.979 0.976
+Karnataka 0.983 0.983 0.984 0.980 0.978 0.982 0.988 0.990 0.986
+Kerala 0.992 0.990 0.995 0.994 0.993 0.995 0.991 0.987 0.995
+Madhya Pradesh 0.956 0.958 0.953 0.954 0.957 0.951 0.963 0.963 0.963
+Maharashtra 0.984 0.983 0.985 0.980 0.977 0.982 0.988 0.989 0.987
+Orissa 0.965 0.964 0.966 0.964 0.962 0.965 0.975 0.975 0.974
+Punjab 0.978 0.978 0.979 0.977 0.976 0.977 0.981 0.980 0.982
+Rajasthan 0.966 0.968 0.963 0.964 0.967 0.960 0.973 0.973 0.972
+Tamil Nadu 0.987 0.988 0.985 0.986 0.986 0.985 0.987 0.990 0.984
+Telangana 0.978 0.977 0.979 0.976 0.974 0.978 0.981 0.982 0.981
+Uttar Pradesh 0.958 0.957 0.960 0.955 0.953 0.957 0.970 0.969 0.971
+Uttarakhand 0.977 0.978 0.977 0.977 0.978 0.976 0.979 0.977 0.981
+West Bengal 0.982 0.980 0.983 0.982 0.980 0.983 0.982 0.980 0.983
+173

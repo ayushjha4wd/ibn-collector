@@ -1,0 +1,32 @@
+Chart 64: Total Fertility Rate by Level of Education of Women by Residence, India, 2020
+3.5
+India Rural Urban
+3.0
+2.5
+e
+t
+a
+R
+y 2.0
+t
+i
+l
+i
+t
+r
+e
+F 1.5
+l
+a
+t
+o
+T
+1.0
+0.5
+0.0
+Total Without any Below Primary Middle Class X Class XII Graduate and
+formal primary above
+education
+Illiterate Literate
+Level of education of Women
+102

@@ -1,0 +1,39 @@
+Sex Ratio at Birth:
+3.8 Statement 16 below presents Sex Ratio (number of females per 1000 males) at birth
+during the period 2020-22 in India and bigger States/Union Territories in 2020-22, categorized
+by residence. Overall, India had a Sex Ratio of 914 females per 1000 males at birth during the
+period 2020-22 (3-years average). Kerala and Chhattisgarh had the highest sex ratio at birth with
+970 females per 1000 males, while Uttarakhand has the lowest sex ratio at birth with 857 females
+per 1000 males. When categorized by residence, the urban areas had a higher sex ratio than the
+rural areas in 9 bigger States/UTs. In Delhi, the sex ratio was significantly lower in urban areas
+compared to rural areas. Chart 35 depicts the variation in Sex Ratio at birth by residence among
+bigger States/UTs in the Country.
+Statement 16
+Sex Ratio (female per 1000 male) at birth by Residence,
+India and bigger States/UTs, 2020-2022
+India and bigger Total Rural Urban
+States/UTs
+India 914 912 921
+Andhra Pradesh 936 931 947
+Assam 935 932 955
+Bihar 898 898 903
+Chhattisgarh 970 980 926
+Delhi 864 970 861
+Gujarat 897 903 888
+Haryana 883 878 891
+Himachal Pradesh 953 955 932
+Jammu & Kashmir 927 924 934
+Jharkhand 926 931 906
+Karnataka 929 940 910
+Kerala 970 971 969
+Madhya Pradesh 915 908 945
+Maharashtra 888 899 874
+Odisha 919 919 919
+Punjab 898 884 918
+Rajasthan 924 926 919
+Tamil Nadu 924 909 937
+Telangana 899 904 893
+Uttar Pradesh 913 898 973
+Uttarakhand 857 860 848
+West Bengal 934 934 932
+66

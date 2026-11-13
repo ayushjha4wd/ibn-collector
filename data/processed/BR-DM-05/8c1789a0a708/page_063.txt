@@ -1,0 +1,31 @@
+Statement 9
+Percentage distribution of Population aged 10+ by Marital Status and sex
+India and bigger States/UTs, 2022
+Never married Married W/D/S
+India and bigger States/UTs
+Total Male Female Total Male Female Total Male Female
+India 41.8 47.7 35.7 54.2 50.5 58.1 4.0 1.8 6.2
+Andhra Pradesh 35.4 41.4 29.3 58.8 56.0 61.7 5.8 2.6 9.0
+Assam 44.2 49.6 38.8 52.4 48.9 56.0 3.3 1.5 5.3
+Bihar 47.4 52.7 41.9 50.5 45.9 55.3 2.1 1.4 2.8
+Chhattisgarh 40.3 44.9 35.9 54.9 52.8 57.0 4.8 2.3 7.2
+Delhi 46.8 51.8 41.4 50.6 47.1 54.6 2.5 1.1 4.0
+Gujarat 39.5 44.5 34.2 56.6 53.5 59.9 3.9 2.0 5.9
+Haryana 42.1 47.6 36.1 55.6 51.2 60.4 2.3 1.2 3.5
+Himachal Pradesh 37.8 43.8 32.1 57.8 54.5 60.8 4.5 1.7 7.1
+Jammu & Kashmir 52.5 55.8 49.1 45.6 43.1 48.1 2.0 1.1 2.8
+Jharkhand 45.2 51.1 39.2 51.8 47.4 56.2 3.0 1.5 4.6
+Karnataka 40.2 48.0 32.3 54.2 50.4 58.0 5.6 1.6 9.7
+Kerala 34.5 43.1 26.7 59.1 55.2 62.6 6.4 1.7 10.7
+Madhya Pradesh 40.6 45.9 35.0 55.0 51.4 58.7 4.4 2.6 6.3
+Maharashtra 41.9 49.3 34.1 54.4 49.3 59.7 3.7 1.4 6.1
+Odisha 37.6 43.4 31.6 57.5 54.5 60.5 5.0 2.0 7.9
+Punjab 41.3 47.3 34.9 55.1 50.7 60.0 3.5 2.1 5.1
+Rajasthan 41.5 47.2 35.6 55.4 51.3 59.6 3.1 1.5 4.9
+Tamil Nadu 34.6 41.0 28.2 58.4 56.2 60.5 7.0 2.8 11.3
+Telangana 39.4 45.9 32.7 55.6 52.1 59.0 5.1 1.9 8.2
+Uttar Pradesh 47.2 52.3 41.9 50.1 45.9 54.4 2.7 1.8 3.7
+Uttarakhand 46.2 52.6 39.7 49.7 45.8 53.8 4.1 1.6 6.5
+West Bengal 38.7 44.7 32.8 57.2 53.8 60.4 4.1 1.4 6.8
+Note: Total may not add to 100 due to rounding off. W/D/S- Widowed/Divorced/Separated
+36

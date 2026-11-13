@@ -1,0 +1,36 @@
+Chart 89: Average Infant Mortality Rate and percentage change between 2009-11
+& 2019-21, India and bigger States/UTs -RURAL
+80.0 0.0
+2009-11 2019-21 % Change
+70.0 -10.0
+60.0 -20.0
+e
+t
+a
+R
+y t i 50.0 -30.0 e g
+l n
+t
+a a
+r h
+o c
+M
+40.0 -40.0 t n
+t e
+n c
+a r
+f e
+n P
+I
+e
+30.0 -50.0
+g
+a
+r
+e
+v
+A 20.0 -60.0
+10.0 -70.0
+0.0 -80.0
+India and bigger States/UTs
+150

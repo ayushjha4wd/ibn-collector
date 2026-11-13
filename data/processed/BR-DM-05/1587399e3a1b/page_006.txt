@@ -1,0 +1,31 @@
+LIST OF STATEMENTS
+Page
+General
+1 Number of Sample Units at different replacement period 2
+2 Number of Sample Units and population covered, India, States and 6
+Union Territories, 2021
+Population Composition
+3 Percentage distribution of population by broad age groups, Sex 14
+and Residence, India, 2021
+4 Percentage of population in the age group 0-4 years by Sex and 18
+Residence, India and bigger States/UTs, 2021
+5 Percentage of population in the age group 0-14 years by Sex and 21
+Residence, India and bigger States/UTs, 2021
+6 Percentage of population in the age group 15-59 years by Sex and 24
+Residence, India and bigger States/UTs, 2021
+7 Percentage of population in the age group 60 years and above to 28
+total population by Sex and Residence, India and bigger
+States/UTs, 2021
+8 Percentage distribution of population by Marital Status and Sex, 31
+India and bigger States/UTs, 2021
+9 Percentage distribution of population age 10+ by Marital Status 36
+and Sex, India and bigger States/UTs, 2021
+10 Percentage distribution of females aged 10+ by Marital Status and 40
+Residence, India and bigger States/UTs, 2021
+11 Percentage distribution of females aged 15+ by Marital Status and 43
+Residence, India and bigger States/UTs, 2021
+12 Percentage of females by age at effective marriage and by 48
+Residence, India and bigger States/UTs, 2021
+13 Mean age at effective marriage of females by Residence, India 53
+and bigger States/UTs, 2021
+vi

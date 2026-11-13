@@ -1,0 +1,18 @@
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+190
+egatnecreP
+Chart 116: Distribution of Deaths by Type of Medical Attention received before
+death, India & Bigger States/UTs, 2023 - RURAL
+Govt. Hospital
+Private Hospital
+Qualified professional
+Untrained functionary & Others
+India and Bigger States/UTs

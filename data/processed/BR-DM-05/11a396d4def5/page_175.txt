@@ -1,0 +1,44 @@
+4.12 The percentage change in the average level of Infant Mortality between 2011-13 and
+2021-23 in India and the bigger States/Union Territories is given below in Statement 47. The
+data reveals that the overall Infant Mortality Rate in India has decreased by 37.8% from 42.3 in
+2011-13 to 26.3 in 2021-23. The rural Infant Mortality Rate has decreased by 36.3%, while the
+urban Infant Mortality Rate has decreased by 36.0%. Among the bigger States/UTs, the highest
+decline in percentage change for Infant Mortality Rate was observed in Jammu & Kashmir,
+which is 63.0%. Chhattisgarh had the lowest decline in the percentage for Infant Mortality Rate
+which is 19.8%. Madhya Pradesh had the highest Infant Mortality Rate in both periods and has
+shown a decrease of 30.3%. Chart 88 to 90 represents the Infant Mortality Rate between 2011-
+13 & 2021-23 and the percent change by residence viz, Total, Rural and Urban for India and
+bigger States/UTs.
+Statement 47
+Average Infant Mortality Rate and Percentage Change between 2011-13 and 2021-23
+by Residence, India and Bigger States/UTs
+Total Rural Urban
+India and Bigger
+% % %
+States/UTs 2011-13 2021-23 2011-13 2021-23 2011-13 2021-23
+Change Change Change
+India 42.3 26.3 -37.8 46.3 29.5 -36.3 27.8 17.8 -36.0
+Andhra Pradesh* 41.2 19.5 -52.7 45.7 22.1 -51.6 29.8 15.0 -49.7
+Assam 54.9 32.1 -41.5 57.4 34.0 -40.8 32.7 15.3 -53.2
+Bihar 43.0 25.3 -41.2 43.7 25.3 -42.1 33.9 24.8 -26.8
+Chhattisgarh 47.0 37.7 -19.8 48.1 39.6 -17.7 39.2 29.0 -26.0
+Delhi 25.6 12.2 -52.3 35.8 7.1 -80.2 23.6 12.4 -47.5
+Gujarat 38.1 20.4 -46.5 45.3 23.9 -47.2 24.2 15.4 -36.4
+Haryana 42.4 26.6 -37.3 45.9 29.8 -35.1 33.2 20.6 -38.0
+Himachal Pradesh 36.1 15.9 -56.0 36.8 16.2 -56.0 25.0 11.1 -55.6
+Jammu & Kashmir# 38.9 14.4 -63.0 40.8 15.1 -63.0 28.1 12.2 -56.6
+Jharkhand 39.2 26.4 -32.7 41.0 27.9 -32.0 28.2 20.3 -28.0
+Karnataka 32.4 15.7 -51.5 36.1 17.8 -50.7 24.9 12.4 -50.2
+Kerala 11.8 6.1 -48.3 12.7 5.1 -59.8 9.1 7.0 -23.1
+Madhya Pradesh 56.4 39.3 -30.3 60.0 42.1 -29.8 37.6 28.7 -23.7
+Maharashtra 24.5 14.0 -42.9 29.5 17.5 -40.7 16.9 9.8 -42.0
+Odisha 53.5 32.0 -40.2 55.2 33.0 -40.2 39.0 25.6 -34.4
+Punjab 28.0 17.0 -39.3 30.3 18.6 -38.6 23.9 14.9 -37.7
+Rajasthan 49.2 29.9 -39.2 53.9 32.0 -40.6 30.9 23.0 -25.6
+Tamil Nadu 21.4 11.4 -46.7 24.0 13.7 -42.9 17.8 9.4 -47.2
+Uttar Pradesh 53.3 37.1 -30.4 56.0 39.9 -28.8 39.2 27.1 -30.9
+Uttarakhand 33.8 21.6 -36.1 36.1 21.9 -39.3 22.6 20.7 -8.4
+West Bengal 31.7 17.3 -45.4 33.1 17.4 -47.4 26.0 17.1 -34.2
+* Andhra Pradesh includes Telangana.
+# Jammu & Kashmir includes Ladakh
+148

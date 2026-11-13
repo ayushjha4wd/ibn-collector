@@ -1,0 +1,47 @@
+Annex.-II
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+3 Cachar Plain 314 15 Karbi Anglong
+315 16 Dima Hasao*
+316 17 Cachar
+317 18 Karimganj
+318 19 Hailakandi
+4 Central Brahmaputra plains 304 05 Morigaon
+305 06 Nagaon
+306 07 Sonitpur
+325 26 Darrang
+326 27 Udalguri
+19 West Bengal 1 Himalayan 327 01 Darjiling
+328 02 Jalpaiguri
+329 03 Koch Bihar
+2 Eastern Plains 330 04 Uttar Dinajpur
+331 05 Dakshin Dinajpur
+332 06 Maldah
+333 07 Murshidabad
+334 08 Birbhum
+336 10 Nadia
+3 Southern Plains 337 11 North Twenty Four Parganas
+343 17 Kolkata
+344 18 South Twenty Four Parganas
+4 Central Plains 335 09 Barddhaman
+338 12 Hugli
+342 16 Howrah
+5 Western Plains 339 13 Bankura
+340 14 Puruliya
+341 15 Paschim Medinipur
+345 19 Purba Medinipur
+20 Jharkhand 1 Ranchi Plateau 346 01 Garhwa
+356 11 Lohardaga
+357 12 Purbi Singhbhum
+358 13 Palamu
+359 14 Latehar
+364 19 Ranchi
+365 20 Khunti
+366 21 Gumla
+367 22 Simdega
+368 23 Pashchimi Singhbhum
+369 24 Saraikela-Kharsawan
+326

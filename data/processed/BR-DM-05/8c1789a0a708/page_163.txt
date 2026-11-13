@@ -1,0 +1,38 @@
+4.7 Statement 42 given below presents the estimated Crude Death Rate for India by residence
+separately for males and females in 2022. It is observed that female death rate is lower than male
+death rate both in rural and urban areas. While the total CDR in India in 2022 was 6.8 per 1,000
+population. The CDR for males (7.7 per 1,000 population) was higher than that for females (5.8 per
+1,000 population). The CDR was also higher for rural areas compared to urban areas. Chart 80
+represents the Crude Death Rate by Sex and Residence for India.
+Statement 42
+Crude Death Rate by Sex and Residence, India, 2022
+Residence Total Males Females
+Total 6.8 7.7 5.8
+Rural 7.2 8.2 6.1
+Urban 6.0 6.7 5.2
+Chart 80: Crude Death Rates by sex and residence, India
+2022
+9.0
+Total Males Females
+8.0
+7.0
+e 6.0
+t
+a
+R
+h
+t 5.0
+a
+e
+D
+e
+d 4.0
+u
+r
+C
+3.0
+2.0
+1.0
+0.0
+Total Rural Urban
+136

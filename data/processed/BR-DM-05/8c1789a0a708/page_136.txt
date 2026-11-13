@@ -1,0 +1,45 @@
+3.30 Total Fertility Rates by education levels of the women for India and bigger States/UTs
+for 2022 are presented below in Statement 34. For India as a whole, the TFR was 3.0 for illiterate
+women and 1.9 for literate women in 2022. Among literate women, those without any formal
+education had the TFR at 2.4, followed by those with below primary education (2.5), primary
+education (2.3), middle education (2.1), class X (1.9), class XII (1.8), and graduate and above
+(1.6). The TFR classified by education levels also varies across different States/UTs of India.
+Among the bigger States/UTs, Chhattisgarh had highest TFR among illiterate women (3.9), while
+Bihar had the highest TFR for literate women (2.9). On the other hand, Tamil Nadu had the
+lowest TFR for illiterate women (1.6) and Delhi & Tamil Nadu has lowest TFR for literate
+women at 1.3. The TFR for other States/UTs falls between these ranges. Chart 64 presents, at
+the National level, Total Fertility Rate by level of education of women separately for rural and
+urban areas for the year 2022. The TFR by levels of education of the women for India and bigger
+States/UTs by place of residence are given in Table-4.
+Statement 34
+Total Fertility Rate by Level of Education of Women, India and bigger States/UTs,
+2022
+India and Educational level of women
+Bigger States/UTs Illiterate Literate
+Total Without any Below Primary Middle Class Class Graduate
+literate formal primary X XII and
+education above
+India 3.0 1.9 2.4 2.5 2.3 2.1 1.9 1.8 1.6
+Andhra Pradesh 2.1 1.5 1.4 1.8 1.6 1.5 1.8 1.6 1.2
+Assam 2.6 2.1 1.7 2.4 2.1 2.3 2.0 1.9 1.7
+Bihar 3.7 2.9 3.9 3.8 3.0 3.0 2.7 2.4 2.1
+Chhattisgarh 3.9 2.3 3.3 3.3 2.7 2.5 2.2 2.0 1.9
+Delhi 2.2 1.3 1.6 1.7 1.4 1.3 1.3 1.4 1.4
+Gujarat 3.1 1.9 2.0 2.3 2.2 2.0 1.9 1.6 1.6
+Haryana 3.1 1.9 1.6 2.4 2.2 2.1 1.8 2.1 1.9
+Himachal Pradesh 2.3 1.5 1.3 1.5 1.4 1.7 1.6 1.4 1.6
+Jammu & Kashmir 2.5 1.6 2.4 2.5 2.1 1.7 1.5 1.6 1.4
+Jharkhand 3.4 2.2 1.6 2.4 2.6 2.4 2.3 2.2 2.0
+Karnataka 2.0 1.6 2.0 2.1 2.1 1.9 1.5 1.5 1.4
+Kerala 2.9 1.5 1.7 1.8 1.4 1.2 1.4 1.5 1.7
+Madhya Pradesh 3.5 2.5 3.2 3.2 2.9 2.6 2.3 2.2 1.9
+Maharashtra 1.9 1.5 1.2 1.6 1.7 1.5 1.6 1.6 1.4
+Odisha 2.3 1.7 2.1 2.4 2.0 1.7 1.8 1.4 1.4
+Punjab 3.0 1.4 1.2 1.8 1.8 1.7 1.5 1.4 1.4
+Rajasthan 3.3 2.4 3.2 3.2 3.2 3.0 2.5 2.2 1.5
+Tamil Nadu 1.6 1.3 1.4 1.4 1.4 1.3 1.3 1.3 1.4
+Telangana 2.9 1.6 1.2 2.0 1.8 1.6 1.8 1.7 1.5
+Uttar Pradesh 3.0 2.7 2.5 3.3 3.1 2.9 2.6 2.6 2.4
+Uttarakhand 2.7 1.8 2.4 3.0 2.2 2.0 1.8 1.6 1.7
+West Bengal 2.3 1.4 1.9 1.5 1.3 1.4 1.5 1.4 1.3
+109

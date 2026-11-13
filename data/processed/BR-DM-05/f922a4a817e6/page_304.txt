@@ -1,0 +1,41 @@
+Table 8
+Age-Specific Death Rate by Sex and Residence, 2024
+Bihar
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 23.7 21.8 26.1 23.7 21.5 26.4 23.9 24.6 23.0
+1-4 0.6 0.7 0.6 0.6 0.7 0.6 0.6 0.9 0.3
+0-4 5.9 5.6 6.4 6.0 5.5 6.5 5.8 6.3 5.2
+5-9 0.6 0.7 0.5 0.6 0.7 0.5 0.5 0.5 0.5
+10-14 0.8 0.7 0.8 0.8 0.7 0.8 0.7 0.5 1.0
+15-19 1.2 1.0 1.4 1.3 1.1 1.4 0.7 0.4 0.9
+20-24 1.4 1.5 1.3 1.4 1.5 1.3 1.3 1.2 1.4
+25-29 1.6 1.7 1.4 1.6 1.8 1.4 1.3 1.1 1.4
+30-34 1.9 2.3 1.6 2.0 2.5 1.6 1.3 1.2 1.4
+35-39 2.2 2.7 1.6 2.1 2.7 1.5 2.3 2.3 2.4
+40-44 3.5 4.2 2.7 3.6 4.3 2.9 2.7 3.3 2.1
+45-49 4.7 5.1 4.2 4.7 5.2 4.1 4.6 4.4 4.7
+50-54 6.5 7.5 5.4 6.9 8.1 5.3 4.6 3.8 5.5
+55-59 7.6 6.4 9.2 7.6 6.5 9.2 7.3 5.9 9.1
+60-64 17.3 20.3 14.7 18.3 22.0 15.1 12.5 12.0 12.9
+65-69 33.4 34.6 32.0 34.2 35.9 32.5 28.9 28.3 29.5
+70-74 61.7 63.4 59.6 64.7 67.6 61.1 46.4 41.8 52.3
+75-79 72.7 75.2 69.8 73.2 77.2 68.4 70.2 64.8 77.4
+80-84 115.5 104.5 131.9 116.6 103.8 136.2 109.4 109.0 110.0
+85+ 163.2 155.6 174.0 165.5 152.0 184.6 148.0 178.1 101.6
+All ages 5.9 6.4 5.5 6.0 6.4 5.5 5.7 5.8 5.6
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and Infant Mortality Indicators, 2024
+Bihar
+Indicators Total Rural Urban
+Child Mortality rate 6 6 6
+Under-five Mortality rate 25 25 24
+Infant Mortality rate 23 23 22
+Neo-natal Mortality rate 17 18 16
+Early neo-natal Mortality rate 13 13 11
+Late neo-natal Mortality rate 5 5 5
+Post neo-natal Mortality rate 5 5 6
+Peri-natal Mortality rate 15 15 14
+Still birth rate 2 2 3
+275

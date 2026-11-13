@@ -1,0 +1,45 @@
+Birth Order:
+3.31 Information on order of the live birth and interval between current and previous live births
+are also collected in SRS from 1990 onwards. These provide useful information on spacing of
+children and level of fertility. The estimated percentages on order of live birth and birth interval
+for India and bigger States/UTs are given in Tables 5, 6 and 7. Based on these tables, State-wise
+comparative Statements are presented below.
+3.32 The percentage distribution of live births by birth order for India and bigger States/UTs for
+the year 2023 is presented below in Statement 35. As per 2023 data, in India, 66.0% of current live
+births are first-order births, 22.9% are second-order births, 7.5% are third-order births and 3.6%
+are fourth or higher-order births. As per 2023 data, among the bigger States/UTs, Telangana has
+the highest percentage of first-order births at 82.4%, while Kerala has the lowest at 47.5%. Kerala
+has the highest percentage of second-order births at 34.9%, while Telangana has the lowest at
+13.8%. Kerala has the highest percentage of third-order births at 13.3%, while Telangana has the
+lowest at 3.2%. Madhya Pradesh has the highest percentage of fourth or higher-order births at
+6.7%, while Andhra Pradesh has the lowest at 0.4%. Chart 65 shows the percentage distribution
+of current live births by birth order for India and bigger States/UTs.
+Statement 35
+Percentage Distribution of Current live Births by Birth Order,
+India and Bigger States/UTs, 2023
+India and Bigger States/UTs Birth order
+1st 2nd 3rd 4th & above
+India 66.0 22.9 7.5 3.6
+Andhra Pradesh 71.9 23.9 3.8 0.4
+Assam 69.4 22.8 5.9 1.8
+Bihar 62.0 21.4 10.4 6.2
+Chhattisgarh 64.7 22.7 7.8 4.9
+Delhi 78.2 16.3 4.4 1.1
+Gujarat 72.7 19.3 5.6 2.4
+Haryana 67.8 22.4 7.2 2.6
+Himachal Pradesh 62.6 29.8 6.1 1.5
+Jammu & Kashmir 76.7 16.2 5.0 2.1
+Jharkhand 66.4 20.0 8.9 4.7
+Karnataka 69.3 23.7 6.0 1.0
+Kerala 47.5 34.9 13.3 4.3
+Madhya Pradesh 55.2 27.8 10.2 6.7
+Maharashtra 73.2 20.8 4.8 1.2
+Odisha 67.2 24.6 5.8 2.4
+Punjab 66.7 24.5 6.3 2.5
+Rajasthan 65.3 23.5 7.7 3.5
+Tamil Nadu 60.3 33.7 5.3 0.6
+Telangana 82.4 13.8 3.2 0.6
+Uttar Pradesh 63.9 22.1 8.9 5.1
+Uttarakhand 63.1 25.6 8.0 3.3
+West Bengal 70.9 22.9 5.0 1.2
+111

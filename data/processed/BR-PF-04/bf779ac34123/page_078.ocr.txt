@@ -1,0 +1,48 @@
+Table A 1.2 : Gross State Domestic Product (GSDP) of Bihar at Current Prices (2018-19 to 2023-24)
+
+(Rs. crore)
+Ey tem | 2018-19 | 2019-20 | 2020-21 | 2021-22 i ar
+1 pi po forestry 114549 | 129136 | 150694 | 170118 | 183492 | 202488
+1.1 | Crops 63132 | 71496 | $2203 | 80970 | 87851 | 98422
+12 | Livestock 33755 | 37974 | 46445 | 64981 | 68304 | 74740
+1.3 | Forestry and logging 8540 9756 | 10506 | 11408 | 12285 | 13549
+1.4 | Fishing and aquaculture 9122 9909 11540 12759 14962 15777
+}2 | Mining and quarrying 1902 | 6561 | 953 | 1181 | 181 3586 4530
+Primary | 116451 | 138697 | 151647 | 171299 | 187079 | 207017
+| 3. | Manufacturing 34364 | 37518 | 41533 | 49031 | 50578 | 52579
+EGWUS 8627 9366 | 8606 | 9561 | 15223 | 18081 |
+|5 | Construction 44221 | 45828 | 42574 | 58785 | 72778 | 84473
+Secondary | 8722 | 9273 | 9272 | 117378 | 138578 | 155132
+6 | Trade, repair, hotels & |. 95035 | 102045 | 88889 | 97537 | 118296 | 141908 |
+restaurants
+| 6.1 | Trade & repair services 89647 96301 86342 93841 111297 132396
+| 6.2 | Hotels & restaurants 5389 5741 2547 3696 6998 9513
+7 | TSC&S 49251 | 54229 | 50920 | 68707 | 73519 | 85196 |
+7.1 | Railways $320 | 5664 | 6847 7541 6917 7522
+7.2 | Road transport 27601 | 30671 | 24999 | 37979 | 39055 | 45123
+7.3 | Water transport | 51 | | 51 | | 49 | | 681 | | 116 | 16 | 140 |
+7.4 | Air transport iss | _ 314 276 214 | 234 | 282 |
+1g | ee nes 2959 | 3320 | 2556 | 4007 | 4327 | 4962
+7.6 [Storage |; 368 | 385 | 411 430 | 48] | | 59 |
+7.7 | C&SRB 11794 | 13824 | 15782 | 18454 | 22389 | 26573
+ls | Financial services 22339 23286 25492 26702 32136 38675
+| 9. | REID&PS 44017 | 44614 | 44105 | 50242 | 54562 | 60531
+| 10.| Public administration 23525 | 25992 | 29165 | 32277 | 40326 | 46211
+| 11 | Other services 73521 | 81231 | 6939 | 76965 | 98321 | 115080 |
+Tertiary 306688 | 331398 | 307968 | 352430 | 417159 | 487601
+12 | TotalGSVA | 510351 | 559805 | 552327 | 641107 | 742817 | 849750
+| 13. | Taxes on Products 39810 | 44212 | 50802 | 54289 | 63387 | 74010
+14 | Subsidies on products | 22185 | 22162 | 35315 | 48002 | 59787 | 69331
+[15 |GsppP .. [| 527976 | 581855 | 567814 | 647394 | 746417 | 854429
+16 | Population (crore) | 11.88 | 12.06 12.23 12.42 12.60 12.79
+
+17 | Per Capita GSDP (Rs.) | 44451 | 48263 | 46412 | | 52144 | | 59244 | 66828
+Note : EGWUS = Electricity, Gas, Water Supply & Other Utility Services
+TSC&S = Transport, Storage, Communication & Services related 10 Broadcasting
+C&SRB = Communication and Services related to Broadcasting
+REID&PS = Real Estate, Ownership of Dwelling & Professional Services
+Note; For 2022-23, the figures are Provisional estimates (P) and for 2023-24 Quick estimates (0),
+Source ; Directorate of Economics and Statistics, GoB
+
+21
+

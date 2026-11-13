@@ -1,0 +1,25 @@
+Table 3
+Fertility Indicators, 2022
+Indicators Age group Total Rural Urban
+India
+Age specific fertility rates 15-19 11.1 13.1 6.5
+20-24 112.4 127.5 79.9
+25-29 142.1 155.4 117.1
+30-34 82.4 87.4 73.8
+35-39 33.7 36.4 29.1
+40-44 11.4 12.9 8.8
+45-49 4.3 4.9 3.3
+Age specific marital fertility rates 15-19 311.3 320.6 274.2
+20-24 329.7 340.1 298.5
+25-29 216.5 225.9 196.0
+30-34 95.2 98.0 89.9
+35-39 36.2 38.7 31.9
+40-44 12.3 13.8 9.6
+45-49 4.7 5.3 3.6
+Crude birth rate 19.1 20.8 15.5
+General fertility rate 66.0 73.1 52.4
+Total fertility rate 2.0 2.2 1.6
+Gross reproduction rate 0.9 1.0 0.8
+General marital fertility rate 107.2 117.8 86.7
+Total marital fertility rate 5.0 5.2 4.5
+228

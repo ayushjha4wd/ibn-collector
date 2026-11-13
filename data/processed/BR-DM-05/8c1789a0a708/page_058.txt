@@ -1,0 +1,50 @@
+Marital Status
+2.15 Besides age, the other important demographic characteristic collected and subsequently
+updated during each half-yearly survey of the SRS is marital status. Distribution of the population
+by marital status is thus available from SRS.
+2.16 The statement 8 presents the percentage distribution of the population by marital status and
+sex for India and bigger States/UTs in India in the year 2022. The data is presented in three
+categories: Never married, Married and Widowed/Divorced/Separated (W/D/S). For India in 2022,
+51.1% of the total population had never been married, with a higher percentage among males
+(56.3%) than females (45.7%). On the other hand, 45.5% of the total population was reported as
+married, with a higher percentage among females (49.0%) than males (42.2%). The remaining 3.3%
+of the population was either widowed, divorced or separated, with a higher percentage among
+females (5.2%) than males (1.5%).
+2.17 Among the bigger States/UTs, the percentage distribution of the population by marital status
+and sex varied considerably in 2022. For instance, Bihar and Jammu & Kashmir has the highest
+percentage of the never married population (58.8%), while Tamil Nadu has the lowest percentage
+(42.3%). The highest percentage of the population was reported as widowed, divorced or separated
+in Tamil Nadu (6.2%) and lowest in Bihar (1.6%). The highest and lowest percentage of married
+population was reported in Kerala (51.6%) and Jammu & Kashmir (39.5%). Chart 12-14 represents
+the distribution of population according to marital status for Persons, Males and Females
+respectively.
+Statement 8
+Percentage distribution of Population by Marital Status and Sex,
+India and bigger States/UTs, 2022
+India and bigger States/UTs Never married Married W/D/S
+Total Male Female Total Male Female Total Male Female
+India 51.1 56.3 45.7 45.5 42.2 49.0 3.3 1.5 5.2
+Andhra Pradesh 43.7 49.0 38.2 51.3 48.7 53.9 5.0 2.3 7.9
+Assam 53.9 58.4 49.2 43.4 40.4 46.5 2.8 1.2 4.4
+Bihar 58.8 63.2 54.1 39.6 35.7 43.7 1.6 1.1 2.2
+Chhattisgarh 51.1 55.0 47.2 45.0 43.1 46.9 3.9 1.9 5.9
+Delhi 54.2 58.6 49.3 43.7 40.4 47.2 2.2 1.0 3.5
+Gujarat 48.8 53.4 44.0 47.8 44.9 50.9 3.3 1.7 5.0
+Haryana 51.6 56.5 46.2 46.5 42.5 50.9 1.9 1.0 2.9
+Himachal Pradesh 46.0 51.7 40.5 50.1 46.8 53.2 3.9 1.4 6.2
+Jammu & Kashmir 58.8 62.0 55.6 39.5 37.1 41.9 1.7 0.9 2.5
+Jharkhand 55.1 60.2 49.8 42.4 38.6 46.4 2.5 1.2 3.8
+Karnataka 48.8 55.7 41.9 46.3 42.9 49.8 4.8 1.4 8.3
+Kerala 42.8 50.7 35.4 51.6 47.9 55.1 5.6 1.4 9.5
+Madhya Pradesh 51.4 55.8 46.7 45.0 42.0 48.1 3.6 2.2 5.2
+Maharashtra 50.3 56.8 43.3 46.5 42.0 51.4 3.2 1.2 5.3
+Odisha 46.2 51.4 40.9 49.5 46.8 52.2 4.3 1.8 6.9
+Punjab 48.8 54.1 42.9 48.2 44.1 52.6 3.1 1.8 4.5
+Rajasthan 52.4 57.3 47.3 45.1 41.5 48.7 2.5 1.2 4.0
+Tamil Nadu 42.3 48.1 36.4 51.5 49.4 53.7 6.2 2.4 10.0
+Telangana 47.5 53.4 41.5 48.1 44.9 51.3 4.4 1.7 7.2
+Uttar Pradesh 56.8 61.2 52.2 41.0 37.3 44.8 2.2 1.5 3.1
+Uttarakhand 55.7 61.4 49.9 40.9 37.3 44.6 3.4 1.3 5.4
+West Bengal 47.1 52.4 41.8 49.3 46.3 52.3 3.6 1.2 5.9
+Note: Total may not add to 100 due to rounding off. W/D/S- Widowed/Divorced/Separated
+31

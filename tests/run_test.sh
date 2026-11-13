@@ -141,6 +141,22 @@ check "inventory marks flagged files invalid with reason" 'grep T-OLD $IBN_ROOT/
 check "verify passes on untouched originals" 'python3 $REPO/scripts/verify.py >/dev/null'
 check "inventory.csv written" '[ -s $IBN_ROOT/data/inventory.csv ]'
 
+echo "== zip of district tables"
+python3 - "$WORK/tables.zip" <<'PYZIP'
+import io, sys, zipfile, openpyxl
+wb = openpyxl.Workbook(); wb.active.title = "T01"; wb.active.append(["District", "Population"]); wb.active.append(["Khagaria", "1666886"])
+buf = io.BytesIO(); wb.save(buf)
+with zipfile.ZipFile(sys.argv[1], "w") as z:
+    z.writestr("1021-Khagaria/T01_1021.xlsx", buf.getvalue())
+    z.writestr("../../evil.csv", "a,b\n1,2\n")
+    z.writestr("1021-Khagaria/readme.txt", "notes")
+PYZIP
+python3 "$REPO/scripts/register_manual.py" --source-id T-ZIP --file "$WORK/tables.zip" --obtained-on 2026-11-13 >/dev/null
+python3 "$REPO/scripts/extract.py" --only T-ZIP >/dev/null
+check "spreadsheet inside a zip extracted to CSV" 'grep -rq 1666886 $IBN_ROOT/data/processed/T-ZIP --include=T01.csv'
+check "zip member names cannot escape the output folder" '[ -z "$(find $WORK $IBN_ROOT -name evil.csv -not -path "*/data/processed/T-ZIP/*")" ]'
+check "non-spreadsheet zip members are listed" 'grep -rq readme.txt $IBN_ROOT/data/processed/T-ZIP --include=members.txt'
+
 echo "== tamper with one original"
 F="$(find $IBN_ROOT/data/raw -name '*.xlsx' | head -1)"; chmod u+w "$F"; echo x >> "$F"
 check "verify detects modified original" '! python3 $REPO/scripts/verify.py >/dev/null'

@@ -1,0 +1,82 @@
+Chart 44: Age Specific Fertility Rates, India-Rural:
+2009-11 and 2019-21
+250
+e
+t a 2009-11 2019-21
+r 200
+y
+t
+i
+l i 150
+t
+r
+e
+f
+c 100
+i
+f
+i
+c
+e 50
+p
+s
+e
+g 0
+A
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Age-Group
+Chart 45: Age Specific Fertility Rates, India-Urban :
+2009-11 and 2019-21
+200
+e
+t 2009-11 2019-21
+a
+r
+y 150
+t
+i
+l
+i
+t
+r
+e
+f 100
+c
+i
+f
+i
+c
+e
+p 50
+s
+e
+g
+A
+0
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Age-Group
+Chart 46: Percent change in Age Specific Fertility Rate
+by Residence between 2009-11 and 2019-21
+300
+250 Total Rural Urban
+200
+e
+g
+n 150
+a
+h
+C
+100
+t
+n
+e
+c 50
+r
+e
+P
+0
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+-50
+-100
+Age-Group
+79

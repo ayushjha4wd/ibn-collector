@@ -1,0 +1,50 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+01 Jammu & Kashmir 1 Mountainous 007 07 Kathua
+021 21 Jammu
+022 22 Samba
+2 Outer Hills 005 05 Punch
+006 06 Rajouri
+016 16 Doda
+017 17 Ramban
+018 18 Kishtwar
+019 19 Udhampur
+020 20 Reasi
+3 Jhelam Valley 001 01 Kupwara
+002 02 Badgam
+008 08 Baramula
+009 09 Bandipore
+010 10 Srinagar
+011 11 Ganderbal
+012 12 Pulwama
+013 13 Shupiyan
+014 14 Anantnag
+015 15 Kulgam
+01A 1 Ladakh 003 03 Leh (Ladakh)
+004 04 Kargil
+02 Himachal Pradesh 1 Himachal Pradesh 023 01 Chamba
+024 02 Kangra
+025 03 Lahul & Spiti
+026 04 Kullu
+027 05 Mandi
+028 06 Hamirpur
+029 07 Una
+030 08 Bilaspur
+031 09 Solan
+032 10 Sirmaur
+033 11 Shimla
+034 12 Kinnaur
+03 Punjab 1 Northern 035 01 Gurdaspur
+036 02 Kapurthala
+037 03 Jalandhar
+038 04 Hoshiarpur
+039 05 Shahid Bhagat Singh Nagar
+049 15 Amritsar
+050 16 Tarn Taran
+051 17 Rupnagar
+052 18 Sahibzada Ajit Singh Nagar
+319

@@ -1,0 +1,43 @@
+1.6 Prices and Inflation
+
+Price changes significantly impact economic activities, influencing decisions related to
+consumption, saving, and investment. The Central Statistical Office (CSO) tracks the evolution of
+prices in the country through the Consumer Price Index (CPI). The CSO provides data both at the
+all-India level and for individual states, and it regularly publishes price indices for rural and urban
+areas. The percentage increase in the prices of commodities and services over a specific period is
+referred to as the inflation rate.
+
+Table 1.9 presents the state-wise Consumer Price Index (CPI) for September 2023 and September
+2024, along with the year-on-year percentage changes in the price index over this period. In Bihar,
+the year-on-year percentage change in prices was 7.6 percent in rural areas and 7.1 percent in urban
+areas, resulting in an overall increase of 7.5 percent in general prices across the state during this
+period, Compared to the base year price of 2012, the CPI for Bihar as of September 2024 remains
+lower than that of many other states in the country for both rural and urban areas.
+
+Table 1.9 ; State-wise CPI (Base : 2012=100) and Inflation Rate (Sept, 2023 and Sept, 2024)
+
+Niitie of the | Rot | Urban Combined
+State/UT Sept. | Sept. | Inflation | Sept. Sept. | Inflation | Sept. Sept, | Inflation
+2023 | 2024 | Rate(%)| 2023 2024 | Rate(%)| 2023 2024 | Rate (%)
+Andhra Pradesh | 188.9 | | 198.1 | | 4.9 | | 190 | 198.7 | 4.6 | 189.3 | 198.3 | 48 |
+‘Bihar 180.3 | 194 | 7.6 187.2 | 200.4 | 7 | 181. | =) | 194.9 | 7.5
+Chhattisgarh 175.9 | 190.3 | 8.2 | 174.2 | 185.3 | 64 | 175.2 | 1884 | 7.5
+Gujarat 182,3 | 192.5 | 5.6 | 173 | 184.1 | | 64 | 177 187.7 | 6.0 |
+Haryana 187.5 | 200.1 | 6.7 176.4 186.4 5.7 182.3 193.7 6.3
+Jharkhand | 181,8 | 190.3 4.7 183.4 | 194.2 5.9 182.4 | 191.8 | $2
+| Karnataka | 187.3 | 197.4 | 5.4 | | 1904 | 199 | _45 | | 189 | 198.3 4.9
+Kerala | 189.1 | 1 | 200.3 5.9 187.3 196.3 48 188.5 | 198.9 | 98.9 5.5
+Madhya Pradesh | 182.1 | | 194.1 | | 66 | | 185.8 | 195.2 | 5.1 | 183.6 | 194.6 | | 6.0 |
+Maharashtra 186.2 | 19429 | 4.7 178 187.2 5.2 180.7 | 189.8 | 89.8 | 5.0 |
+Odisha 187.8 | 201.3 7.2 | 181.5 | | 191 | 5.2 | 186 | 198.4 6,7
+Punjab | 180.9 | 80.9 | 189.8 | | 4.9 | 172.2 182 5.7 177 186.3 5.3
+Rajasthan 183.0 | 192.9 54 182.3 | 191.8 | | 5.2 | 182.8 | 192.5 53
+Tamil Nadu 189.3 | 199.7 35 188.3 197.7 5.0 188.7 198.5 | 5.2 |
+Telangana | 198.6 | 98.6 | 207.5 4.5 192.8 | 201.2 | 44 | 195.4 | 204 | 4.4
+Uttar Pradesh | 184.1 | 84.1 | 197.9 75 183.6 193.3 5.3 183.9 196.3 6.7
+Uttarakhand 181.2 | 188.9 4.2 183.9 193.7 5.3 182.2 190.7 4.7
+West Bengal 192.6 | 200.6 4.2 186.8 195 44 | 189.9 | | 198 | | 4.3 |
+All-India 185.8 | 196.7 5.9 182.2 | 191.4 | | 5.0 | 184.1 | 194.2 | | 5.5 |
+
+Source ; MOSPI, Gol website
+14

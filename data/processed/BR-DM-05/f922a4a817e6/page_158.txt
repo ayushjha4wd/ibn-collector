@@ -1,0 +1,26 @@
+10.0
+9.0
+8.0
+Chhattisgarh
+7.0 Kerala
+Haryana
+West Bengal
+Uttar Pradesh
+6.0
+Bihar
+Assam
+Rajasthan Karnataka
+Jammu & Kashmir Telangana
+5.0
+Himachal Pradesh
+Delhi
+4.0
+3.0
+3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0
+130
+etaR
+htaeD
+nabrU
+Chart 75: Distribution of Bigger States/UTs by Death Rate for Rural and Urban
+areas, 2024
+Rural Death Rate

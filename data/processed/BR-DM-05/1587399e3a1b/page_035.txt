@@ -1,0 +1,36 @@
+inspect the work at the field level. Officers of Vital Statistics Division in the headquarters also
+undertake surprise checks and visits in SRS units to control of the quality of work.
+Data collection
+1.23 In the baseline survey, which is conducted jointly by both the enumerator and the
+supervisor, the data is being collected in Forms 1, 2 and 3 and Form 0 is also filled at the end of
+survey in a unit. The baseline survey is a decennial exercise which takes place after availability
+of new frame through latest census. The data collection in the field is carried out by the
+enumerators for continuous enumeration and supervisors for retrospective survey. Half Yearly
+Survey is conducted by the full-time supervisor. In Half Yearly Survey, besides updating the
+Forms 1, 2 and 3, the details of births and deaths occurred in the sample units in the reference
+period are also collected in Forms 9 and 10 respectively.
+Introduction of Automation in SRS
+1.24 The quality of data collection is of paramount importance in any survey especially in
+Sample Registration System considering its focus on data of births, deaths, infant deaths, details
+of pregnancy, etc. which are to be collected with utmost care. Towards fulfilling this objective,
+dual record system has been in practice in SRS apart from other quality measures in the field. To
+take the credibility and efficiency of the field survey to greatest heights, it was the endeavor of
+the Office of the Registrar General, India, to implement full automation in Sample Registration
+System. Accordingly from Baseline 2014 onwards the entire process of data collection and
+processing has been automated. This pioneering step of a paper-less survey, for the first time in
+the history of SRS, can be viewed as greatly contributed to the recent Digital India initiatives of
+the Government of India.
+1.25 In the automated procedure, the supervisor and enumerators are now carrying a mobile
+app to the sample units and the data is collected directly on the android-based apps saving time
+and cost of the survey with efficiency. Dedicated apps for all 4 modules of the Sample
+Registration System and portal have been developed for this purpose by the Office of Registrar
+General, India and user-based access has been given to the different users. The Directorate of
+Census Operation monitors the operation of fieldwork through a portal including activities like
+allocation of units to different users, matching of the data and finalization of the collected data
+under the survey. This has made the system paperless as there is no need to send finalized results
+in paper format by any user.
+1.26 These apps enable survey supervisors and enumerators to directly collect and upload data
+on the SRS portal without any manual intervention. The app is developed for all 4 modules of
+the Sample Registration System and PTE module is also available in local languages for data
+collection by Part-Time Enumerators.
+8

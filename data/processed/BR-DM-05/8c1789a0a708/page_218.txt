@@ -1,0 +1,25 @@
+Chart 117: Distribution of deaths by Type of Medical Attention received before
+death, India & bigger States/UTs, 2022- URBAN
+70.0
+60.0
+50.0
+Govt.
+Hospital
+e 40.0
+g
+a
+t Private
+n
+e
+c Hospital
+r
+e 30.0
+P
+Qualified
+20.0 professional
+10.0 Untrained
+functionary &
+Others
+0.0
+India and bigger States/UTs
+191

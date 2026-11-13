@@ -1,0 +1,41 @@
+Total Marital Fertility Rate:
+3.24 Like TFR, Total Marital Fertility Rate (TMFR) is the cumulative value of Age-Specific
+Marital Fertility Rates at the end of the reproductive period. It indicates the average number of
+children expected to be born per married woman during the entire span of her reproductive
+period, if the ASMFRs continue to be the same and if there is no mortality. The TMFRs worked
+out on the basis of ASMFRs for the year 2023 are given below in Statement 29 for India and
+bigger States/UTs separately for rural and urban areas. The TMFR for India in 2023 was 5.0,
+with a higher TMFR in rural areas (5.2) compared to urban areas (4.5). The TMFRs for the
+individual States/UTs vary, with the highest TMFR being observed in Bihar (6.6), while the
+lowest TMFR is seen in Tamil Nadu each at 3.6 followed by Karnataka, Odisha & West Bengal
+each at 3.7. The data also shows that the TMFR tends to be higher in rural areas compared to
+urban areas across most of the States/UTs. Chart 57 presents the TMFRs by residence for India
+and bigger States/UTs.
+Statement 29
+TMFRs (Total Marital Fertility Rates) by Residence, India and
+Bigger States/UTs, 2023
+India and Bigger States/UTs Total Rural Urban
+India 5.0 5.2 4.5
+Andhra Pradesh 4.1 4.1 4.1
+Assam 5.5 5.5 5.2
+Bihar 6.9 7.0 6.3
+Chhattisgarh 5.7 6.0 4.6
+Delhi 4.7 8.1 4.6
+Gujarat 5.0 5.3 4.5
+Haryana 4.8 4.8 5.0
+Himachal Pradesh 4.3 4.3 4.5
+Jammu & Kashmir 6.4 6.6 5.0
+Jharkhand 5.3 5.3 5.3
+Karnataka 3.7 3.8 3.5
+Kerala 4.3 4.3 4.2
+Madhya Pradesh 5.3 5.5 4.2
+Maharashtra 3.9 3.8 4.1
+Odisha 3.7 3.8 3.2
+Punjab 4.2 4.4 4.2
+Rajasthan 5.3 5.3 5.4
+Tamil Nadu 3.6 3.5 3.6
+Telangana 3.8 3.8 3.9
+Uttar Pradesh 6.6 6.6 6.6
+Uttarakhand 4.7 4.8 4.2
+West Bengal 3.7 3.7 3.4
+97

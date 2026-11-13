@@ -1,0 +1,35 @@
+Page
+30 Percentage change in average Total Marital Fertility rate (TMFR) 99
+between 2012-14 and 2022-24 by Residence, India and bigger
+States/UTs
+31 Percentage of female population in the age group 15-49 by Level 103
+of Education, India and bigger States/UTs, 2024
+32 General Fertility Rate by Level of Education of Women, India and 104
+bigger States/UTs, 2024
+33 Age-Specific Fertility Rate by Level of Education of Women and 105
+Residence, India, 2024
+34 Total Fertility Rate by Level of Education of Women, India and 109
+bigger States/UTs, 2024
+35 Percentage distribution of current live births by Birth Order, India 111
+and bigger States/UTs, 2024
+36 Percentage distribution of current live births by Birth Order and 113
+Residence, India and bigger States/UTs, 2024
+37 Percentage distribution of second and higher order live births by 116
+Interval, India and bigger States/UTs, 2024
+38 Percentage distribution of second and higher order live births by 118
+Interval and Residence, India and bigger States/UTs, 2024
+39 Percentage distribution of live births by Type of Medical Attention 122
+received by the mother at delivery by Residence, India and bigger
+States/UTs, 2024
+Mortality Indicators
+40 CDR (Crude Death Rate) by Residence, India and States/UTs, 128
+2024
+41 Average Crude Death Rate and percentage change between 2012- 131
+14 and 2022-24, by Residence, India and bigger States/UTs
+42 Crude Death Rate by Sex and Residence, India, 2024 136
+43 Crude Death Rate by Sex, India and bigger States/UTs, 2024 137
+44 Percentage distribution of deaths by broad age groups, India and 139
+bigger States/UTs, 2024
+45 Percentage of Infant Deaths to total deaths by Residence, India and 141
+bigger States/UTs, 2024
+viii

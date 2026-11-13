@@ -1,0 +1,39 @@
+Chart 37: Distribution of bigger States/UTs by General Fertility Rate(GFR) for
+Rural and Urban areas, 2024
+110.0
+100.0
+90.0
+e
+t Line of Equity
+a
+R 80.0 Bihar
+y
+t
+i
+l
+i t Rajasthan
+r e 70.0 Uttar Pradesh
+F
+l
+a
+r
+e n 60.0 Madhya Pradesh
+e Haryana Jharkhand
+G
+n Chhattisgarh
+a
+b 50.0 India
+r Telangana
+U
+Punjab
+Karnataka
+Assam
+Maharashtra
+Kerala
+40.0
+Odisha
+Himachal Pradesh
+30.0
+30.0 40.0 50.0 60.0 70.0 80.0 90.0 100.0 110.0
+Rural General Fertility Rate
+70

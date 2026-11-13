@@ -1,0 +1,28 @@
+Chart 65: Percentage distribution of current live births by Birth Order, India and
+bigger States/UTs, 2021
+e 100%
+g
+a
+t
+n
+e 90%
+c
+r
+e
+P
+80%
+Order of Birth
+70%
+4th &
+above
+60%
+3rd
+50%
+2nd
+40%
+30% 1st
+20%
+10%
+0%
+India and bigger States/UTs
+112

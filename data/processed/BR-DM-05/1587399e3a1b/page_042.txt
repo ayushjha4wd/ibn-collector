@@ -1,0 +1,39 @@
+Chart 2: Percentage distribution of the population by broad age groups and
+Residence, India, 2021
+Total
+8.0%
+9.0%
+Age-groups
+8.1%
+(years)
+0-4
+8.8% 5-9
+10-14
+15-59
+60+
+66.2%
+Rural
+8.8% 8.7%
+Age-groups
+8.5% (years)
+0-4
+5-9
+9.3%
+10-14
+15-59
+60+
+64.8%
+Urban
+6.7%
+9.4%
+Age-groups
+7.1%
+(years)
+0-4
+7.8%
+5-9
+10-14
+15-59
+60+
+69.0%
+15

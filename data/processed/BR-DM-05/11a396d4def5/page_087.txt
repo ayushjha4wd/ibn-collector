@@ -1,0 +1,37 @@
+28.0
+26.0
+24.0
+22.0
+Bihar
+Uttar Pradesh
+20.0 Rajasthan
+18.0
+Madhya Pradesh
+Sikkim Haryana
+Chhattisgarh
+Dadra and Nagar Haveli Jharkhand
+16.0
+and Daman and Diu Gujarat
+TelanganaUttarakhand
+India
+Arunachal Pradesh
+Tripura
+14.0 Nagaland Karnataka
+Maharashtra Andhra Pradesh Assam Meghalaya
+Kerala Delhi
+ManipurPunjab Jammu & Kashmir
+12.0 Puducherry Odisha Lakshadweep
+Tamil Nadu Ladakh Mizoram
+Goa West Bengal
+Chandigarh
+10.0 A & N Islands
+Himachal Pradesh
+8.0
+8.0 10.0 12.0 14.0 16.0 18.0 20.0 22.0 24.0 26.0 28.0
+60
+etaR
+htriB
+nabrU
+Chart 30: Distribution of States/UTs by Birth Rate for Rural and Urban, 2023
+Line of Equity
+Rural Birth Rate

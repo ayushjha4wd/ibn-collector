@@ -1,0 +1,37 @@
+Chart 2: Percentage distribution of the population by broad age groups and
+Residence, India, 2022
+Total
+9.0% 8.1%
+7.9% Age-groups
+(years)
+0-4
+8.7%
+5-9
+10-14
+15-59
+60+
+66.3%
+Rural
+8.8% 8.8%
+8.4% Age-groups
+(years)
+0-4
+5-9
+9.2%
+10-14
+15-59
+60+
+64.9%
+Urban
+6.7%
+9.5%
+7.0%
+Age-groups
+(years)
+7.6% 0-4
+5-9
+10-14
+15-59
+60+
+69.2%
+15

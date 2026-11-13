@@ -1,0 +1,40 @@
+EXECUTIVE SUMMARY
+The Sample Registration System (SRS) is the largest demographic survey in the
+Country mandated to provide annual estimates of fertility as well as mortality indicators
+at the State and National level. The present Report contains data on fertility and mortality
+indicators for the year 2021 for India and bigger States/UTs. The estimates are segregated
+by residence and also by gender, wherever required.
+2. The salient features of the report are as summarized below.
+❖ The Crude Birth Rate (CBR) at the National level during 2021 stands at 19.3
+exhibiting a decline of 0.2 points over 2020. Among the bigger States/UTs, the
+maximum CBR has been reported in Bihar (25.6) and the minimum in Kerala
+(12.9).
+❖ There has been a decline of 1.1 points in the CBR for the Country from 2016 to
+2021. The corresponding decline in rural CBR is 1.2 points and in urban CBR 1.1
+points.
+❖ The Crude Death Rate (CDR) for the Country is 7.5 in 2021. Among the bigger
+States/UTs, the maximum CDR has been reported for Chhattisgarh (10.1) and the
+minimum for Delhi (5.4).
+❖ The Infant Mortality Rate (IMR) has also registered 1-point decline to 27 in 2021
+from 28 in 2020 at the National level. Among the bigger States/UTs, the
+maximum IMR has been observed in Madhya Pradesh (41) and the minimum in
+Kerala (6).
+❖ IMR for the Country has come down to 27 in 2021 from 34 in 2016, a decline of
+7 points over last 5 years and an annual average decline of about 1.4 points. The
+corresponding decline in rural IMR has been to the tune of 8 points (38 in 2016
+to 30 in 2021) against a decline of 5 points in urban IMR (23 in 2016 to 18 in
+2021). Both the genders have shown decline in the period 2016-21.
+❖ Despite this decline, one in every 37 infants at the National level, one in every 33
+infants in rural areas and one in every 56 infants in urban areas die within one
+year of life.
+❖ In 2021, U5MR for the Country has shown a decline of 1 point from 2020 (31 in
+2021 against 32 in 2020). There has been no a decline in male U5MR and 2 points
+decline in female U5MR during the corresponding period.
+❖ Sex Ratio at Birth for the Country has gone up by 6 points to 913 in 2019-21 from
+907 in 2018-20. Kerala has reported the highest Sex Ratio at Birth (962) while
+Uttarakhand, the lowest (852). Sex Ratio at Birth for Rural and Urban areas was
+912 and 918 respectively during 2019-21.
+❖ Total Fertility Rate (TFR) for the Country has remain same at 2.0 in 2021 and
+2020. During 2021, Bihar has reported the highest TFR (3.0) while Delhi and
+West Bengal have reported the lowest TFR (1.4). It is noteworthy that the
+xxiii

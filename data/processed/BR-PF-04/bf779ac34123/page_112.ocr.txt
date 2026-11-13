@@ -1,0 +1,46 @@
+Table 2.17 : Act-wise Commercial Tax Collection (2019-20 to 2023-24)
+
+(Rs, crore)
+Year VAT CsT ENT, | ED | LT. ET P. Tax | Total
+2019-20 | 6188.5 | 28.2 | 08 | 438.6 | 03 | 55.4 | 108.3 6820.0
+2020-21 | 6123.0} 29.7 | 1.6 | 1337.6 | 03 | 34.8 | 119.7 7646.7
+2021-22 | 6994.3] 25.0 | 00 | 595.1 | 00 | | 9.1 | 142.3 7765.7
+2022-23 | 9982.3 | 12.9 | | 0.0 | | 965.0 | aU | 0.0 | | 35.0 | | 161.8 | 8 | 11157.0
+2023-24 | 9392.7 | 10.0 | | 00 | 845.7 | 00 | 16 | 187.4 | 10437.3
+
+Note ; VAT ; Value Added Tax, ENT : Entertainment Tax, ED : Electricity Duty,
+ET : Tax on Entry of Goods into Local Area, P. Tax : Professional Tax,
+Source ; Department of Commercial Tax, Government of Bihar
+
+Table 2.18 displays the revenue received by the State government from collections of SGST (State
+Goods and Services Tax) and IGST (Integrated Goods and Services Tax) from 2019-20 to
+2023-24. Additionally, it reports the GST compensation received by the State government during
+these years. When GST was implemented in the country, State governments were promised
+compensation for any shortfall in revenue, guaranteeing a 14 percent annual growth in their GST
+revenues for the first five years of implementation. The compensation for these shortfalls was
+provided from the collections in the GST compensation cess fund. This guarantee period for
+compensation ended on June 30, 2022. The total revenue from SGST, IGST, and the compensation
+has increased from Rs. 19,345.6 crore in 2019-20 to Rs. 28,171.5 crore in 2023-24. In 2023-24,
+the IGST collection accounted for Rs. 19.238.0 crore, representing 68.3 percent of the total revenue
+from these sources. The SGST collection, amounting to Rs. 8,535.4 crore, constituted 30.3 percent
+of the total receipts under these heads in 2023-24,
+
+Table 2.18 : Collection against State GST and Integrated GST (2019-20 to 2023-24)
+
+(Rs. crore)
+IGST
+Settlement SGST
+Year SGST IGST (Advance! |Compensation® Total
+Ad-hoc)
+2019-20 | 5841.6 9459.0 $20.3 3524.8 19345.6
+2020-21 | 5371.5 9603.4 1197.5 8264.3 24436.7
+2021-22 6083.4 12049.7 1243.6 8760.7 28137.3
+2022-23 | 7543.3 15069,5 713 183.7 23567.7
+2023-24 | 8535.4 19238.0 00 398.2 28171.5
+
+* Amount received by way of Compensation against Protected Revenue
+(Protected up to June 2022 as per GST (Compensation to States) Act-2017)
+& Amount received in licu of Compensation,
+Source : Department of Commercial Taxes, Government of Bihar
+
+55

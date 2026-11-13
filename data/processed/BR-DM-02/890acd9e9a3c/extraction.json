@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DDW-C16-TOWN-STMT-MDDS-1000.XLSX",
+  "raw_sha256": "890acd9e9a3ce11596684ace458f55c472db397908f38666d1baff26c6064a9e",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/10236/download/13348",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:04:11+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/890acd9e9a3c/sheets/Sheet1.csv",
+    "data/processed/BR-DM-02/890acd9e9a3c/sheets/Sheet2.csv",
+    "data/processed/BR-DM-02/890acd9e9a3c/sheets/Sheet3.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

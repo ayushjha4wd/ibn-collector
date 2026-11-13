@@ -1,0 +1,53 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+2 Southern 040 06 Fatehgarh Sahib
+041 07 Ludhiana
+042 08 Moga
+043 09 Firozpur
+044 10 Muktsar
+045 11 Faridkot
+046 12 Bathinda
+047 13 Mansa
+048 14 Patiala
+053 19 Sangrur
+054 20 Barnala
+04 Chandigarh 1 Chandigarh 055 01 Chandigarh
+05 Uttarakhand 1 Uttarakhand 056 01 Uttarkashi
+057 02 Chamoli
+058 03 Rudraprayag
+059 04 Tehri Garhwal
+060 05 Dehradun
+061 06 Garhwal
+062 07 Pithoragarh
+063 08 Bageshwar
+064 09 Almora
+065 10 Champawat
+066 11 Nainital
+067 12 Udham Singh Nagar
+068 13 Haridwar
+06 Haryana 1 Eastern 069 01 Panchkula
+070 02 Ambala
+071 03 Yamunanagar
+072 04 Kurukshetra
+073 05 Kaithal
+074 06 Karnal
+075 07 Panipat
+076 08 Sonipat
+082 14 Rohtak
+083 15 Jhajjar
+086 18 Gurgaon
+087 19 Mewat
+088 20 Faridabad
+089 21 Palwal
+2 Western 077 09 Jind
+078 10 Fatehabad
+079 11 Sirsa
+080 12 Hisar
+081 13 Bhiwani
+084 16 Mahendragarh
+085 17 Rewari
+320

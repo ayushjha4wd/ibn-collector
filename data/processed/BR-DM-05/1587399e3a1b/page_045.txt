@@ -1,0 +1,29 @@
+Statement 4
+Percentage of population in the age group 0-4 years by Sex and Residence, India
+and bigger States/UTs, 2021
+India and bigger Total Rural Urban
+States/UTs Total Males Females Total Males Females Total Males Females
+India 8.0 8.2 7.8 8.7 8.9 8.4 6.7 6.9 6.5
+Andhra Pradesh 6.2 6.3 6.1 6.2 6.3 6.0 6.4 6.4 6.4
+Assam 8.7 8.9 8.5 9.1 9.4 8.9 6.3 6.4 6.1
+Bihar 11.2 11.5 10.8 11.5 11.8 11.2 8.7 9.0 8.5
+Chhattisgarh 9.0 9.3 8.8 9.6 9.9 9.3 7.1 7.3 7.0
+Delhi 6.4 6.5 6.4 6.4 6.2 6.7 6.4 6.5 6.4
+Gujarat 7.7 8.0 7.5 8.1 8.5 7.8 7.3 7.4 7.1
+Haryana 8.1 8.3 7.8 8.4 8.8 8.0 7.6 7.7 7.5
+Himachal Pradesh 6.4 6.7 6.1 6.5 6.9 6.2 5.0 4.9 5.1
+Jammu & Kashmir 6.7 7.0 6.5 7.2 7.4 7.0 5.7 6.0 5.4
+Jharkhand 9.1 9.3 9.0 9.8 10.0 9.7 7.0 7.2 6.8
+Karnataka 7.3 7.4 7.2 7.5 7.6 7.5 6.9 7.1 6.8
+Kerala 6.4 6.8 6.1 6.6 6.8 6.3 6.2 6.7 5.8
+Madhya Pradesh 9.3 9.3 9.2 9.8 9.8 9.7 7.9 8.0 7.8
+Maharashtra 7.2 7.3 7.0 7.9 8.2 7.5 6.3 6.4 6.3
+Odisha 7.0 7.0 6.9 7.1 7.2 7.0 6.3 6.4 6.2
+Punjab 6.0 6.0 6.0 6.2 6.3 6.2 5.7 5.7 5.8
+Rajasthan 9.2 9.4 9.0 9.8 10.0 9.5 7.6 7.8 7.4
+Tamil Nadu 6.0 6.2 5.8 6.5 6.8 6.3 5.5 5.7 5.4
+Telangana 6.4 6.5 6.2 6.0 6.1 5.8 6.9 7.1 6.7
+Uttar Pradesh 8.9 9.1 8.6 9.3 9.6 9.1 7.4 7.8 7.0
+Uttarakhand 9.3 9.8 8.9 9.4 10.0 8.9 9.2 9.2 9.1
+West Bengal 7.0 7.1 6.9 7.7 7.9 7.6 5.3 5.3 5.3
+18

@@ -1,0 +1,36 @@
+SRS Forms and their flow
+1.27 For collecting information on population and vital events, various forms/ schedules have
+been prescribed under the SRS. Depending upon various operations under the system, the follow-
+ing 17 types of forms are used under SRS:
+A. Baseline Survey Forms
+Form 1: House List
+Form 2: Household Schedule
+Form 3: Pregnancy Status of Women
+B. Continuous Enumeration Forms
+Form 4: Outcome of Pregnancy recorded by Enumerator
+(January-June/July-December)
+Form 5: Deaths recorded by Enumerator (January-June/July-December)
+Form 6: Monthly report of Outcome of Pregnancy
+Form 7: Monthly report of Deaths
+C. Half-yearly Survey Forms
+Form 9: Outcome of Pregnancy recorded by Supervisor
+(January-June/July-December)
+Form 10: Deaths recorded by Supervisor (January-June/July-December)
+Form 15: Distribution of usual resident population by age, sex and marital status
+(as on 1st July/1st January)
+Form 16: Distribution of Female population by broad age groups and levels of
+education (as on 1st July/1st January)
+Form 17: Number of females who got married by age at effective marriage
+(January-June/July-December)
+D. Compilation/Tabulation Forms
+Form 8: Consolidated monthly report on births and deaths
+Form 11: Finalized list of Outcome of Pregnancy (January-June/July-December)
+Form 12: Finalized list of Deaths (January-June/July-December)
+Form 13: Results of the HYS for Outcome of Pregnancy (January-June/July-December)
+Form 14: Results of the HYS for Deaths (January-June/July-December)
+1.28 The enumerator records the details of each birth and death event that occurred during the
+reference period in Forms 4 and 5 respectively on a continuous basis. A monthly report on births
+and deaths (Forms 6 and 7) is required to be uploaded by the enumerators on the app in the first
+week of the following month. The relevant entries of birth and death records in the monthly report
+are auto-populated in six monthly records and uploaded on the portal. Enumerator can add any
+9

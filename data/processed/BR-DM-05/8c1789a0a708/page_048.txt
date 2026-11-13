@@ -1,0 +1,45 @@
+2.8 Percentage of the population of age less than 15 years for India and bigger States/UTs by
+Sex and Residence for the year 2022 is given below in Statement 5. The data shows that the
+percentage of the population in the age group 0-14 years in India is 24.7%. Among them, the
+percentage of less than 15 years of males is 25.3% and that of females is 24.1%. The data further
+shows that the percentage of the population in the age group 0-14 years in rural areas of India is
+26.4%, and in urban areas, it is 21.3%. Among the bigger States/UTs, Bihar has the highest
+percentage of population in the age group 0-14 years with 32.4%, followed by Jharkhand 28.2%,
+and Madhya Pradesh 28.1%. States like Tamil Nadu, Andhra Pradesh and Punjab have relatively
+lower percentages with 18.7%, 19.7% and 19.8% respectively.
+2.9 The data shows that the percentage of males in the 0-14 age group is higher than females for
+all the States/UTs except in urban areas of West Bengal, where the percentage of females is higher
+than males. The data also shows that the percentage of the population in the age group 0-14 years is
+higher in rural areas compared to urban areas in all the bigger States/UTs. Chart 6 and 7 gives the
+pictorial presentation of the percentage of persons below 15 years of age for bigger States/UTs by
+Residence and Sex respectively.
+Statement 5
+Percentage of population in the age group 0-14 years by Sex and Residence,
+India and bigger States/UTs, 2022
+India and bigger Total Rural Urban
+States/UTs
+Total Males Females Total Males Females Total Males Females
+India 24.7 25.3 24.1 26.4 27.0 25.7 21.3 21.9 20.7
+Andhra Pradesh 19.7 20.1 19.3 19.6 20.0 19.1 19.9 20.1 19.7
+Assam 26.2 26.6 25.8 27.5 27.9 27.1 19.2 19.8 18.5
+Bihar 32.4 33.1 31.6 33.0 33.8 32.3 27.8 28.6 27.0
+Chhattisgarh 27.0 27.3 26.6 28.0 28.3 27.7 23.6 24.3 22.9
+Delhi 22.1 22.4 21.7 22.1 22.4 21.8 22.1 22.4 21.7
+Gujarat 24.3 25.0 23.6 26.0 26.6 25.4 22.4 23.2 21.5
+Haryana 24.8 25.8 23.6 25.6 26.5 24.6 23.4 24.6 22.0
+Himachal Pradesh 21.2 22.2 20.2 21.5 22.6 20.4 18.6 18.6 18.5
+Jammu & Kashmir 20.6 21.5 19.7 21.9 23.0 20.8 17.8 18.3 17.3
+Jharkhand 28.2 29.1 27.3 29.8 30.9 28.6 23.5 23.8 23.3
+Karnataka 22.1 22.6 21.7 22.6 23.0 22.2 21.5 21.9 21.1
+Kerala 19.9 21.2 18.8 20.2 21.5 18.9 19.7 20.9 18.6
+Madhya Pradesh 28.1 28.4 27.7 29.4 29.6 29.3 24.3 25.0 23.5
+Maharashtra 22.3 22.9 21.8 24.4 25.2 23.6 20.0 20.2 19.7
+Odisha 21.8 22.1 21.5 22.1 22.4 21.8 20.3 20.9 19.8
+Punjab 19.8 20.3 19.2 20.2 20.8 19.5 19.4 19.7 19.0
+Rajasthan 28.1 28.8 27.3 29.3 29.9 28.6 24.6 25.7 23.6
+Tamil Nadu 18.7 19.2 18.1 20.2 20.9 19.4 17.5 17.8 17.1
+Telangana 20.8 21.2 20.4 19.9 20.3 19.5 22.0 22.4 21.7
+Uttar Pradesh 27.9 28.5 27.2 29.1 29.6 28.5 24.2 25.3 23.0
+Uttarakhand 26.9 28.1 25.7 27.5 28.9 26.0 25.4 26.0 24.8
+West Bengal 21.4 21.6 21.1 23.3 23.7 22.8 17.1 17.1 17.2
+21

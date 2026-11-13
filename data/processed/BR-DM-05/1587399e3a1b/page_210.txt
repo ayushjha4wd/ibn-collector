@@ -1,0 +1,39 @@
+Death Rate for persons aged 60 years and above:
+4.23 Death rates for persons aged 60 years and above for the year 2021 by sex and residence
+are given below in Statement 58. At the National level, death rate in this age group is estimated
+to be 48.6 and males have higher mortality rate (55.3) than females (42.0). This difference exists
+in both rural and urban areas and across States. Chhattisgarh had the highest death rate for persons
+aged 60 years and above with a death rate of 72.2 for the total population, 86.9 for males and
+59.1 for females. The state of Jammu & Kashmir had lowest death rate of 36.1 for the total
+population, 37.4 for males and 34.8 for females. Chart 112 to 114 represents death rates for
+Persons aged 60 years and above by sex for India and bigger States/UTs by place of residence
+viz, Total, Rural and Urban respectively.
+Statement 58
+Death Rate for persons aged 60 years and above by Sex and Residence, India and
+bigger States/UTs, 2021
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 48.6 55.3 42.0 51.8 59.5 44.3 42.6 47.6 37.6
+Andhra Pradesh 47.1 53.8 40.0 51.1 57.7 44.2 37.4 44.3 30.2
+Assam 43.9 54.4 31.8 44.7 56.7 31.1 40.3 44.5 35.1
+Bihar 55.8 60.5 50.4 58.4 63.6 52.5 42.4 45.2 39.0
+Chhattisgarh 72.2 86.9 59.1 72.0 86.9 58.9 73.0 87.0 60.0
+Delhi 45.0 51.2 38.7 52.3 70.7 34.0 44.8 50.8 38.8
+Gujarat 55.5 63.5 48.1 61.8 69.7 54.4 47.3 55.4 39.7
+Haryana 59.3 66.1 52.7 63.3 70.1 56.6 52.9 59.5 46.5
+Himachal Pradesh 48.3 51.4 45.4 48.7 51.9 45.7 43.3 44.9 41.7
+Jammu & Kashmir 36.1 37.4 34.8 36.9 36.1 37.8 34.5 39.9 28.8
+Jharkhand 47.4 55.2 39.6 48.6 57.9 39.4 44.2 48.2 40.0
+Karnataka 57.1 62.3 52.1 64.6 72.7 57.1 44.9 46.4 43.4
+Kerala 47.4 53.1 42.5 43.8 49.9 38.7 51.0 56.5 46.4
+Madhya Pradesh 49.8 56.3 43.4 50.0 57.5 42.7 49.2 53.0 45.3
+Maharashtra 48.1 56.3 40.0 53.5 64.2 43.6 40.3 45.7 34.7
+Odisha 46.1 49.1 42.9 45.5 49.0 41.8 49.5 49.2 49.8
+Punjab 49.1 52.0 46.0 55.3 59.4 51.2 40.1 41.7 38.3
+Rajasthan 42.8 53.4 33.9 43.0 56.3 32.0 42.5 45.5 39.6
+Tamil Nadu 42.1 46.4 37.9 55.2 61.9 48.6 32.6 35.2 30.1
+Telangana 42.4 48.1 36.8 40.1 44.6 35.6 47.3 54.9 39.3
+Uttar Pradesh 49.9 59.6 40.6 50.9 60.2 41.9 46.9 57.6 36.8
+Uttarakhand 47.5 57.6 38.9 45.9 57.1 36.5 52.8 59.1 46.9
+West Bengal 46.3 51.7 40.7 50.8 56.8 45.0 39.1 44.3 33.3
+183

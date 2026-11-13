@@ -1,0 +1,24 @@
+8.0 100.0
+7.0
+80.0
+6.0
+60.0
+5.0
+40.0
+4.0
+20.0
+3.0
+0.0
+2.0
+-20.0
+1.0
+0.0 -40.0
+101
+RFMT
+egarevA
+egnahC
+tnecreP
+Chart 59: Average Total Marital Fertility Rate (TMFR) between 2011-13 & 2021-
+23, India and Bigger States/UTs - RURAL
+2011-13 2021-23 % Change
+India and Bigger States/UTs

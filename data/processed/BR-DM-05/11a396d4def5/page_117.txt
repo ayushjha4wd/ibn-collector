@@ -1,0 +1,24 @@
+4.0 0.0
+3.5
+-5.0
+3.0
+-10.0
+2.5
+2.0 -15.0
+1.5
+-20.0
+1.0
+-25.0
+0.5
+- -30.0
+90
+etaR
+ytilitreF
+latoT
+egarevA
+egnahC
+tnecreP
+Chart 52: Total Fertility Rate (TFR) between 2011-13 and 2021-23, India and Bigger
+States/UTs-RURAL
+2011-13 2021-23 % Change
+India and Bigger States/UTs

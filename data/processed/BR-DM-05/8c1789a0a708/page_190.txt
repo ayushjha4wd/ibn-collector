@@ -1,0 +1,39 @@
+4.16 Percentage share of deaths to children below age five to total deaths by residence
+for India and bigger States/UTs is shown below in Statement 51. The National average of
+percentage of deaths in the age group 0-4 years to total deaths in India was 8.3% in 2022,
+with a higher proportion in rural areas (9.6%) compared to urban areas (5.1%). Among the
+States and UTs, Uttar Pradesh had the highest percentage (15.0%) of deaths in the age group
+0-4 years to total deaths, followed by Madhya Pradesh (14.9%) and Rajasthan (13.0%).
+Kerala had the lowest percentage (1.5%) of such deaths followed by Tamil Nadu (2.2%). In
+general, the percentage of such deaths is higher in rural areas than in urban areas across all
+States and UTs, with some exceptions like Delhi, Kerala, Punjab and Telangana where the
+proportion is higher in urban areas. Chart 99 shows the Percentage of deaths in the age group
+0-4 years to total deaths for India and bigger States/UTs.
+Statement 51
+Percentage of Deaths in the age group 0-4 years to total Deaths
+by Residence, India and bigger States/UTs, 2022
+India and bigger States/UTs Total Rural Urban
+India 8.3 9.6 5.1
+Andhra Pradesh 4.7 4.9 4.4
+Assam 10.8 11.9 4.2
+Bihar 12.1 12.3 10.3
+Chhattisgarh 10.2 10.9 7.4
+Delhi 4.2 0.0 4.3
+Gujarat 6.3 7.1 5.1
+Haryana 8.1 9.4 5.7
+Himachal Pradesh 3.9 4.0 2.6
+Jammu & Kashmir 4.4 5.1 3.0
+Jharkhand 10.3 11.4 6.7
+Karnataka 3.7 4.1 3.0
+Kerala 1.5 1.1 1.9
+Madhya Pradesh 14.9 16.7 8.7
+Maharashtra 3.6 4.0 2.9
+Odisha 7.6 7.8 6.0
+Punjab 3.2 3.1 3.4
+Rajasthan 13.0 14.3 9.0
+Tamil Nadu 2.2 2.3 2.0
+Telangana 5.3 5.2 5.4
+Uttar Pradesh 15.0 16.5 9.8
+Uttarakhand 6.8 6.8 6.7
+West Bengal 4.5 5.0 3.5
+163

@@ -1,0 +1,49 @@
+Annex.-II
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+4 South 450 33 Katni
+451 34 Jabalpur
+452 35 Narsimhapur
+453 36 Dindori
+454 37 Mandla
+455 38 Chhindwara
+456 39 Seoni
+457 40 Balaghat
+5 South Western 440 23 Khargone (West Nimar)
+441 24 Barwani
+447 30 Betul
+448 31 Harda
+449 32 Hoshangabad
+466 49 Khandwa (East Nimar)
+467 50 Burhanpur
+6 Northern 418 01 Sheopur
+419 02 Morena
+420 03 Bhind
+421 04 Gwalior
+422 05 Datia
+423 06 Shivpuri
+458 41 Guna
+459 42 Ashoknagar
+24 Gujarat 1 South Eastern 484 17 Panch Mahals
+485 18 Dohad
+486 19 Vadodara
+487 20 Narmada
+488 21 Bharuch
+489 22 The Dangs
+490 23 Navsari
+491 24 Valsad
+492 25 Surat
+493 26 Tapi
+2 Plains Northern 471 04 Mahesana
+472 05 Sabar Kantha
+473 06 Gandhinagar
+474 07 Ahmedabad
+482 15 Anand
+483 16 Kheda
+3 Dry areas 469 02 Banas Kantha
+470 03 Patan
+468 01 Kachchh
+329

@@ -1,0 +1,41 @@
+Table 8
+Age-Specific Death Rate by Sex and Residence, 2023
+Jharkhand
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 25.4 25.5 25.2 26.1 26.4 25.7 21.9 21.0 22.9
+1-4 0.8 0.9 0.8 0.9 1.0 0.8 0.5 0.4 0.7
+0-4 7.1 7.3 6.9 7.6 7.9 7.3 5.2 4.8 5.6
+5-9 0.8 0.7 0.9 0.9 0.8 1.0 0.4 0.6 0.3
+10-14 0.7 0.5 0.8 0.8 0.6 0.9 0.3 0.2 0.3
+15-19 1.3 1.2 1.4 1.5 1.5 1.5 0.5 0.2 0.9
+20-24 1.5 1.6 1.4 1.7 1.9 1.5 0.9 0.8 1.0
+25-29 2.1 2.6 1.5 2.3 2.9 1.6 1.5 1.6 1.3
+30-34 2.3 3.2 1.3 2.3 3.1 1.5 2.0 3.2 0.8
+35-39 3.2 4.3 2.0 3.4 4.7 1.9 2.8 3.5 2.1
+40-44 4.2 5.8 2.5 4.8 6.9 2.6 2.7 3.2 2.2
+45-49 5.8 6.1 5.6 6.3 6.5 6.0 4.8 5.0 4.6
+50-54 10.2 12.8 7.1 10.5 13.3 7.0 9.7 11.9 7.3
+55-59 13.1 14.4 11.3 13.6 14.4 12.4 12.0 14.3 9.4
+60-64 22.9 27.0 19.8 26.3 34.6 20.1 15.2 11.3 18.8
+65-69 28.9 34.6 23.2 30.4 37.5 23.5 25.2 27.8 22.5
+70-74 52.1 44.8 61.2 53.3 45.8 62.7 48.7 42.1 56.9
+75-79 75.5 64.0 88.9 74.0 57.8 92.3 79.5 79.3 79.8
+80-84 82.9 70.6 100.9 78.9 63.8 100.9 94.6 90.4 100.9
+85+ 134.7 126.0 145.4 145.6 135.2 157.1 109.2 107.3 112.1
+All ages 6.3 6.8 5.7 6.5 7.1 5.8 5.6 6.0 5.2
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and Infant Mortality Indicators, 2023
+Jharkhand
+Indicators Total Rural Urban
+Child mortality rate 7 8 5
+Under-five mortality rate 32 34 23
+Infant mortality rate 29 31 21
+Neo-natal mortality rate 20 22 13
+Early neo-natal mortality rate 15 16 11
+Late neo-natal mortality rate 5 5 2
+Post neo-natal mortality rate 9 9 7
+Peri-natal mortality rate 22 24 16
+Still birth rate 7 8 5
+282

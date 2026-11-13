@@ -1,0 +1,42 @@
+Baseline Survey:
+1.8 The baseline survey is carried out prior to the start of continuous enumeration. This involves
+preparation of a notional map of the area to be surveyed, house numbering and house listing and
+filling of a household schedule. The supervisor prepares a notional map with the help of the
+enumerator showing important landmarks and location of the houses to be covered in the sample
+unit. Subsequently, a list of houses/households to be covered by the sample in the House List (Form-
+1) is prepared and the Household Schedule (Form-2) is filled in. In the Household Schedule (Form-
+2), the residential status and other demographic particulars of each individual residing in the
+household viz. identification code, name, sex, date of birth, age, educational/marital status and
+relation to head of household, etc. are recorded. The inmates of public institutions like hotels, inns,
+schools and hospitals are excluded, but households living permanently within the compound of such
+institutions are covered. A list of all women in the reproductive span along with their pregnancy
+status is also prepared in Form 3 at the time of the baseline survey.
+Continuous enumeration:
+1.9 The enumerator maintains a Birth Record (Form 4 and 6) and a Death Record (Form 5 and
+7) in respect of his/her area. The enumerator is expected to record all births and deaths occurring
+within the sample unit, as well as those of the usual residents occurring outside the sample unit. The
+events in respect of visitors occurring within the sample unit are also listed, but these are not
+considered while calculating rates. Thus, the events to be netted by the enumerator are those
+pertaining to: (i) usual residents inside the sample unit; (ii) usual residents outside the sample unit;
+(iii) in-migrants present; (iv) in-migrants absent; and (v) visitors inside the sample unit.
+1.10 For ensuring complete netting, the enumerator uses different sources to get information of
+the occurrence of vital events in the sample unit. These include the help of the village priest, barber,
+village headman, midwife and such other functionaries. The enumerators maintain contact with
+these informants at frequent intervals and collects information about the occurrence of births and
+deaths. On being informed about the occurrence of an event, the enumerator visits the concerned
+household and records the prescribed particulars. The enumerator also keeps in touch with other
+socially important persons and visits local or nearby hospitals, nursing homes, cremation or burial
+grounds, at frequent intervals to keep updated about the occurrence of events. Despite all these
+efforts, the enumerator may miss information about some of the events and is, therefore, required to
+visit all the households once a month in sample villages/enumeration blocks so as to ensure that all
+the events have been recorded.
+Half-yearly Survey:
+1.11 Half-yearly survey is carried out independently in each sample unit by a full-time supervisor.
+The supervisor belonging to the statistical cadre of the State Census Directorates (either a Compiler
+or a Sr. Compiler or a Statistical Investigator or any suitable official) visits each and every household
+in the sample unit and records the particulars of births and deaths in Forms 9 & 10 respectively in
+respect of all the usual residents and visitors (only those occurring within the sample unit) which
+had occurred during the half-yearly period (January-June or July-December) under reference.
+Simultaneously, the house-list, the household schedule and the pregnancy status of women are
+updated by making entries of changes, if any. The list of all women in the reproductive span along
+3

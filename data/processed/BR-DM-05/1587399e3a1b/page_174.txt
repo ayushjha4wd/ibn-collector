@@ -1,0 +1,43 @@
+60
+Chart 87: Distribution of bigger States/UTs by Infant Mortality Rate for Rural
+and Urban areas, 2021
+50
+40
+Line of Equity
+e
+t
+a
+r
+y
+t
+i
+l
+a 30 Chhattisgarh
+t
+r Madhya Pradesh
+o
+m Odisha
+t
+Uttar Pradesh
+n Uttarakhand Bihar
+a
+f
+n Haryana Rajasthan
+i
+n 20
+Jharkhand
+a West Bengal
+b Telangana India
+r
+U Punjab Assam
+Karnataka Gujarat
+Jammu & Kashmir Andhra Pradesh
+Himachal Pradesh
+10 Maharashtra
+Delhi
+Kerala
+Tamil Nadu
+0
+0 10 20 30 40 50 60
+Rural infant mortality rate
+147

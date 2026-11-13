@@ -1,0 +1,28 @@
+Chart 116: Distribution of deaths by Type of Medical Attention received before
+death, India & bigger States/UTs, 2021 - RURAL
+80.0
+70.0
+Govt.
+60.0
+Hospital
+50.0
+Private
+e
+g Hospital
+a
+t
+n 40.0
+e
+c
+r Qualified
+e
+P professional
+30.0
+Untrained
+20.0
+functionary
+& Others
+10.0
+0.0
+India and bigger States/UTs
+190

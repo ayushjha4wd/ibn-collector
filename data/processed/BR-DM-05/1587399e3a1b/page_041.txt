@@ -1,0 +1,27 @@
+Age composition:
+2.4 Age composition by residence and broad age groups 0-14, 15-59, and 60+ for the year 2021
+at the National level is shown below in Statement 3. The age group 0-14 is further sub-categorized
+into the age groups 0-4, 5-9 and 10-14. In the age group 0-14, Male population is about one percent
+more than Female, whereas in the older age-groups 15-59, 60+, 15-64 and 65+, the percentage of
+Females is more than that of Males by 0.7, 0.5, 0.8 and 0.4 percentage points respectively. The
+proportion of young children in the age group 0-4 and also the proportion of the population in the
+age group 0-14 are higher in rural areas than in urban areas both for Males and Females. A higher
+proportion of Males and Females in the working age group 15-59 live in urban areas as compared
+to rural areas. Chart 2 gives a pictorial presentation of data shown in Statement 3. The population
+pyramid of India is presented in Chart 3.
+Statement 3
+Percentage distribution of the population by broad age group, Sex and Residence,
+India, 2021
+Residence Sex Broad age groups (years)
+0-4 5-9 10-14 0-14 15-59 60+ 15-64 65+
+Total Total 8.0 8.1 8.8 24.8 66.2 9.0 69.3 5.9
+Male 8.2 8.3 9.0 25.4 65.8 8.7 68.9 5.7
+Female 7.8 7.8 8.6 24.2 66.5 9.2 69.7 6.1
+Rural Total 8.7 8.5 9.3 26.5 64.8 8.8 67.7 5.8
+Male 8.9 8.7 9.5 27.1 64.4 8.5 67.3 5.6
+Female 8.4 8.3 9.1 25.8 65.1 9.1 68.2 6.0
+Urban Total 6.7 7.1 7.8 21.5 69.0 9.4 72.4 6.0
+Male 6.9 7.3 8.0 22.1 68.7 9.2 72.0 5.8
+Female 6.5 6.9 7.5 20.9 69.5 9.6 72.9 6.2
+Note: Total percentage do not add to 100 on account of rounding in broad age groups
+14

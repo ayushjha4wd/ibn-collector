@@ -1,0 +1,41 @@
+Table 9
+Age-Specific Death Rate by Sex and Residence, 2021
+Telangana
+Age- Total Rural Urban
+group Total Male Female Total Male Female Total Male Female
+Below 1 20.1 21.3 18.7 23.3 25.0 21.4 15.6 16.2 14.9
+1-4 0.5 0.9 0.1 0.6 1.0 0.2 0.4 0.7 0.0
+0-4 5.4 6.0 4.8 6.7 7.5 5.8 3.9 4.3 3.5
+5-9 0.3 0.1 0.5 0.5 0.3 0.8 0.0 0.0 0.0
+10-14 0.2 0.2 0.1 0.3 0.4 0.2 0.0 0.0 0.0
+15-19 0.3 0.4 0.2 0.5 0.7 0.3 0.0 0.0 0.0
+20-24 0.8 1.0 0.7 1.2 1.6 0.9 0.2 0.0 0.4
+25-29 1.0 1.7 0.3 1.4 2.3 0.5 0.4 0.8 0.0
+30-34 1.7 2.6 0.8 2.5 3.8 1.2 0.8 1.2 0.4
+35-39 2.7 3.6 1.9 3.7 4.9 2.5 1.5 1.9 1.0
+40-44 4.8 6.4 3.0 6.1 9.1 3.1 2.9 2.9 2.9
+45-49 6.5 9.2 3.6 7.4 11.0 3.8 5.1 6.8 3.4
+50-54 10.7 15.1 6.5 10.6 16.3 5.7 10.8 13.4 8.0
+55-59 14.0 17.2 10.9 14.5 18.5 11.0 13.1 15.4 10.6
+60-64 22.0 27.7 16.5 20.1 24.2 16.2 25.6 34.0 17.0
+65-69 31.7 38.3 24.9 30.9 37.1 24.7 33.3 40.4 25.1
+70-74 44.7 50.7 38.4 44.2 49.9 38.3 46.0 52.8 38.6
+75-79 76.8 86.2 67.7 72.8 84.0 62.1 86.6 91.1 81.9
+80-84 95.8 96.4 95.1 86.4 82.5 90.4 113.1 120.8 104.3
+85+ 133.9 137.7 131.0 110.7 94.5 125.0 183.2 265.8 141.3
+All ages 6.5 7.8 5.2 7.3 8.9 5.8 5.3 6.2 4.3
+(Crude death rate)
+Table 9
+Child (Aged 0-4 years) and Infant Mortality Indicators, 2021
+Telangana
+Indicators Total Rural Urban
+Child mortality rate 5 7 4
+Under-five mortality rate 22 25 17
+Infant mortality rate 20 23 16
+Neo-natal mortality rate 15 17 13
+Early neo-natal mortality rate 11 12 9
+Late neo-natal mortality rate 4 5 3
+Post neo-natal mortality rate 5 6 3
+Peri-natal mortality rate 13 13 14
+Still birth rate 3 1 5
+291

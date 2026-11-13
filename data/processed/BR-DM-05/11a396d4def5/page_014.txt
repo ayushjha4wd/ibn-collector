@@ -1,0 +1,32 @@
+70. Percentage distribution of second and higher order live births by Birth 120
+Interval, India and bigger States/UTs, 2023-URBAN
+71. Distribution of live births by type of Medical Attention received by the 123
+mother at delivery, India and bigger States/UTs, 2023
+72. Distribution of live births by type of Medical Attention received by the 124
+mother at delivery, India and bigger States/UTs, 2023 – RURAL
+73. Distribution of live births by type of Medical Attention received by the 125
+mother at delivery, India and bigger States/UTs, 2023 – URBAN
+74. CDR (Crude Death Rate) by Residence, India and States/UTs, 2023 129
+75. Distribution of bigger States/UTs by values of Death Rate for Rural 130
+and Urban areas, 2023
+76. Average Death Rate between 2011-13and 2021-23 and percentage 132
+change, India and bigger States/UTs
+77. Average Death Rate between 2011-13and 2021-23 and percentage 133
+change, India and bigger States/UTs –RURAL
+78. Average Death Rate between 2011-13and 2021-23 and percentage 134
+change, India and bigger States/UTs – URBAN
+79. Death Rate 1985-2023 by Residence, India 135
+80. Crude Death Rate by Sex and Residence, India, 2023 136
+81. Crude Death Rate by Sex, India and bigger States/UTs, 2023 138
+82. Distribution of deaths by broad age groups India and bigger 140
+States/UTs, 2023
+83. Percentage of Infant deaths to total deaths by Residence, India and 142
+bigger States/UTs, 2023
+84. Infant Mortality Rate by Sex, India and bigger States/UTs, 2023 144
+85. Infant Mortality Rate by Sex, India and bigger States/UTs, 2023 – 145
+RURAL
+86. Infant Mortality Rate by Sex, India and bigger States/UTs, 2023 – 146
+URBAN
+87. Distribution of bigger States/UTs by IMR (Infant Mortality Rate) for 147
+Rural and Urban areas, 2023
+xiv

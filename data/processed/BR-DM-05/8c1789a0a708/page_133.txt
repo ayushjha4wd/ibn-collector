@@ -1,0 +1,29 @@
+Chart 61: Age-Specific Fertility Rate by level of education of women, India, 2022
+300.0
+250.0
+200.0
+15-19 years
+e
+t 20-24 years
+a
+r
+y
+t i 150.0 25-29 years
+l
+i
+t
+r
+e
+F 30-34 years
+35-39 years
+100.0
+40-44 years
+45-49 years
+50.0
+0.0
+Total Without any Below Primary Middle Class X Class XII Graduate and
+formal primary above
+education
+Illiterate Literate
+Educational level of women
+106

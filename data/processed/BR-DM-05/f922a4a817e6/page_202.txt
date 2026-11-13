@@ -1,0 +1,40 @@
+Death Rate for Children Aged 5-14 years:
+4.20 Death rates for children in the age-group 5-14 for the year 2024 are given below in
+Statement 55. The overall death rate for children aged 5–14 years in India was recorded at 0.5
+for the country, and 0.5 for male and 0.6 for female respectively. The rural death rate (0.6) was
+higher than the urban death rate (0.5). Among the bigger States and UTs, Chhattisgarh had the
+highest death rate for children aged 5-14 years (0.9), followed by Bihar, Jammu & Kashmir,
+Jharkhand, Madhya Pradesh, Odisha and Punjab at (0.7). Himachal Pradesh, Maharashtra, and
+Uttarakhand had the lowest death rate at 0.3 for the children in the age-group 5-14. There were
+also considerable differences in death rates between rural and urban areas within each
+State/UT. Chart 106 to 108 shows death rates for children aged 5-14 years by sex for India and
+bigger States/UTs by place of residence viz, Total, Rural, and Urban.
+Statement 55
+Death Rate for Children Aged 5-14 years by Sex and Residence
+India and Bigger States/UTs, 2024
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 0.5 0.5 0.6 0.6 0.5 0.6 0.5 0.5 0.5
+Andhra Pradesh 0.5 0.6 0.5 0.6 0.6 0.5 0.4 0.5 0.4
+Assam 0.5 0.3 0.7 0.5 0.3 0.7 0.5 0.5 0.5
+Bihar 0.7 0.7 0.7 0.7 0.7 0.6 0.6 0.5 0.8
+Chhattisgarh 0.9 1.0 0.7 0.8 1.0 0.7 1.0 0.9 1.0
+Delhi 0.6 0.6 0.5 0.8 0.7 0.8 0.6 0.6 0.5
+Gujarat 0.4 0.4 0.4 0.4 0.4 0.5 0.4 0.5 0.3
+Haryana 0.6 0.6 0.6 0.4 0.4 0.4 0.9 0.9 0.9
+Himachal Pradesh 0.3 0.2 0.3 0.2 0.2 0.2 0.7 0.5 1.0
+Jammu & Kashmir 0.7 0.6 0.8 0.4 0.5 0.4 1.4 1.1 1.7
+Jharkhand 0.7 0.8 0.6 0.7 0.7 0.6 0.7 0.9 0.5
+Karnataka 0.4 0.3 0.5 0.3 0.4 0.2 0.4 0.1 0.7
+Kerala 0.4 0.4 0.3 0.1 0.1 0.2 0.6 0.7 0.5
+Madhya Pradesh 0.7 0.7 0.7 0.8 0.9 0.7 0.3 0.3 0.4
+Maharashtra 0.3 0.2 0.4 0.4 0.3 0.5 0.2 0.1 0.2
+Odisha 0.7 0.8 0.7 0.7 0.8 0.7 0.7 0.7 0.7
+Punjab 0.7 0.6 0.7 0.5 0.5 0.5 0.9 0.7 1.0
+Rajasthan 0.6 0.5 0.7 0.6 0.5 0.6 0.7 0.5 1.1
+Tamil Nadu 0.4 0.4 0.4 0.4 0.3 0.5 0.4 0.5 0.4
+Telangana 0.5 0.6 0.4 0.4 0.6 0.3 0.6 0.5 0.6
+Uttar Pradesh 0.6 0.5 0.7 0.6 0.5 0.7 0.5 0.6 0.4
+Uttarakhand 0.3 0.3 0.4 0.3 0.3 0.3 0.4 0.4 0.5
+West Bengal 0.4 0.3 0.5 0.4 0.3 0.5 0.6 0.6 0.7
+174

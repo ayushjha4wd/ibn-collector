@@ -1,0 +1,31 @@
+4.8 Crude death rates for males and females in the bigger States/UTs are shown
+below in Statement 43. It is observed that male death rate exceeds female death rate in
+all bigger States/UTs except Jharkhand. The death rate by sex for all the States/UTs for
+the year 2020 has been brought out in the ‘SRS Bulletin 2020’.
+Statement 43
+Crude Death Rate by sex, India and bigger States/UTs, 2020
+India and bigger States/UTs Total Males Females
+India 6.0 6.6 5.4
+Andhra Pradesh 6.3 7.1 5.6
+Assam 6.2 6.7 5.8
+Bihar 5.4 5.4 5.4
+Chhattisgarh 7.9 8.6 7.2
+Delhi 3.6 4.0 3.1
+Gujarat 5.6 6.2 4.9
+Haryana 6.1 7.1 5.0
+Himachal Pradesh 6.8 8.1 5.5
+Jammu & Kashmir 4.6 5.5 3.7
+Jharkhand 5.2 5.0 5.5
+Karnataka 6.2 7.1 5.3
+Kerala 7.0 8.3 5.9
+Madhya Pradesh 6.5 7.2 5.8
+Maharashtra 5.5 6.1 4.8
+Odisha 7.3 7.9 6.8
+Punjab 7.2 7.9 6.3
+Rajasthan 5.6 6.3 4.9
+Tamil Nadu 6.1 7.1 5.1
+Telangana 6.0 6.6 5.3
+Uttar Pradesh 6.5 6.7 6.2
+Uttarakhand 6.3 7.0 5.5
+West Bengal 5.5 6.2 4.7
+127

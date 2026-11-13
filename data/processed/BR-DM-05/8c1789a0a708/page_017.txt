@@ -1,0 +1,38 @@
+D E F I N I T I O N S
+Number of live births during the year
+Crude Birth Rate = --------------------------------------------------- x 1000
+(CBR) Mid-year population
+Number of live births in a particular age-group
+Age-Specific Fertility = -----------------------------------------------------------------x 1000
+Rate (ASFR) Mid-year female population of the same age-group
+Number of live births in a year
+General Fertility Rate = -------------------------------------------------------------- x 1000
+(GFR) Mid-year female population in the age-group
+(15-49) years
+45-49
+5 x  ASFR
+15-19
+Total Fertility Rate = ----------------------
+(TFR) 1000
+45-49
+5 x  ASFR for female live births
+15-19
+Gross Reproduction = --------------------------------------------
+Rate (GRR) 1000
+Number of live births in a particular age-group
+Age-Specific Marital = --------------------------------------------------------- x 1000
+Fertility Rate (ASMFR) Mid-year married female population of the
+same age-group
+Number of live births in a year
+General Marital = --------------------------------------------------- x 1000
+Fertility Rate (GMFR) Mid-year married female population in the
+age-group (15-49) year
+45-49
+5 x  ASMFR
+15-19
+Total Marital Fertility = -----------------------
+Rate (TMFR) 1000
+Number of deaths during the year
+Crude Death Rate = -------------------------------------------- x 1000
+(CDR) Mid-year population
+xvii

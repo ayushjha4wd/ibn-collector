@@ -1,0 +1,43 @@
+Birth Interval:
+3.34 The percentage distribution of second and higher-order live births by interval between
+current and previous live birth is shown below in Statement 37 for India and bigger States/UTs
+for the year 2022. For India as a whole, 1.5% of second and higher-order live-births occurred
+within 10-12 months of the previous live birth, 18.9% occurred within 12-24 months, 25.2%
+occurred within 24-36 months, and 54.3% occurred 36 months or more after the previous live
+birth. Looking at the individual States and UTs, we can see that the percentage distributions vary
+considerably. The percentage of second and higher-order live-births occurred within 10-12
+months of the previous live birth were ranging from 0.2% in Assam to 3.4% in Punjab. The
+percentage of second and higher-order live-births occurred after 36 months or more after the
+previous live birth is ranging from 39.9% in Madhya Pradesh to 83.2% in Assam. Chart 68
+presents the percentage distribution of second and higher-order live-births by interval for India
+and bigger States/UTs.
+Statement 37
+Percentage distribution of second and higher order live births by interval,
+India and bigger States/UTs, 2022
+India and bigger States/UTs Interval between current and previous live birth (in
+months)
+10-12 12-24 24-36 36+
+India 1.5 18.9 25.2 54.3
+Andhra Pradesh 1.1 26.1 30.7 42.2
+Assam 0.2 7.4 9.3 83.2
+Bihar 1.4 20.5 29.0 49.0
+Chhattisgarh 0.6 15.4 28.5 55.5
+Delhi 0.6 9.9 23.4 66.1
+Gujarat 0.7 17.0 21.2 61.2
+Haryana 1.6 20.2 31.0 47.2
+Himachal Pradesh 0.8 17.9 19.3 61.9
+Jammu & Kashmir 3.2 20.3 24.7 49.2
+Jharkhand 1.9 13.4 26.7 58.0
+Karnataka 0.6 20.8 30.0 48.6
+Kerala 0.5 11.1 17.4 71.0
+Madhya Pradesh 2.9 27.8 29.3 39.9
+Maharashtra 1.3 15.6 21.3 61.8
+Odisha 0.5 9.2 16.9 73.4
+Punjab 3.4 16.1 21.6 59.0
+Rajasthan 2.1 23.2 25.0 49.7
+Tamil Nadu 1.5 20.8 25.2 52.6
+Telangana 0.5 30.0 24.0 45.5
+Uttar Pradesh 1.8 19.4 27.6 51.2
+Uttarakhand 3.1 17.5 23.6 55.7
+West Bengal 0.8 9.1 14.7 75.4
+116

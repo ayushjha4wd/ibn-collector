@@ -1,0 +1,18 @@
+missed events in six monthly reports as per Form 4 and 5 and upload them on the portal missed in
+any of the monthly reports.
+1.29 The supervisor records the details of each birth and death event occurring during the six-
+month reference period in Forms 9 and 10 respectively in addition to the updation of Forms 1, 2
+and 3. After matching of each birth and death event recorded in Form 4 and 5 with those in Form
+9 and 10 and verification of partially and unmatched events in the field, finalized Form 11 and 12
+are prepared after necessary corrections and inclusion of additional events recorded during the re-
+verification. These forms i.e. Form 11 and Form 12 are auto-generated in the portal along with the
+half-yearly survey results in Form 13, 14, 15, 16 and 17 after the finalization of the data on the
+portal. The complete processes automization i.e. aggregation of birth and death events reported by
+PTEs as well as HYS Supervisors, matching, re-verification and generation of report 11 to 17;
+reduces time required for data collection and data processing; thereby leading to improvement in
+quality of data.
+1.30 Flow-chart of SRS returns are shown in Chart 1. Due to automation most of the errors in
+terms of wrong classification of sex or invalid coding, not legible details are taken care of. We do
+not get birth and death without sex classification or without essential details as the application does
+not allow for such omission /commission.
+10

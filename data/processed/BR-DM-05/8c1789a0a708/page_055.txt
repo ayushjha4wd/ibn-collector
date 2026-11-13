@@ -1,0 +1,31 @@
+Statement 7
+Percentage of Population in the age group 60 years and above to total
+Population by Sex and Residence, India and bigger States/UTs, 2022
+India and bigger
+Total Rural Urban
+States/UTs
+Total Male Female Total Male Female Total Male Female
+India 9.0 8.8 9.3 8.8 8.5 9.0 9.5 9.3 9.7
+Andhra Pradesh 10.1 10.2 10.0 10.7 10.8 10.6 8.8 9.0 8.7
+Assam 7.1 7.4 6.8 6.8 7.1 6.5 9.0 9.4 8.5
+Bihar 6.9 7.0 6.7 6.6 6.7 6.4 8.8 8.9 8.7
+Chhattisgarh 7.7 7.3 8.0 7.9 7.6 8.3 6.9 6.6 7.2
+Delhi 7.3 7.0 7.6 6.8 6.3 7.5 7.3 7.0 7.6
+Gujarat 9.0 8.4 9.6 9.4 8.8 10.0 8.5 7.9 9.2
+Haryana 7.9 7.4 8.4 7.9 7.5 8.3 7.8 7.2 8.5
+Himachal Pradesh 12.3 12.0 12.6 12.5 12.2 12.8 10.0 10.0 10.0
+Jammu & Kashmir 9.9 10.0 9.9 9.6 9.7 9.5 10.7 10.7 10.6
+Jharkhand 7.3 7.1 7.5 7.1 6.8 7.3 8.0 7.8 8.2
+Karnataka 9.3 9.0 9.5 9.6 9.2 10.1 8.8 8.8 8.8
+Kerala 14.4 13.8 15.0 14.8 14.3 15.4 14.0 13.4 14.6
+Madhya Pradesh 8.0 7.8 8.3 7.9 7.7 8.2 8.3 8.0 8.6
+Maharashtra 9.8 9.5 10.2 10.7 10.0 11.4 8.9 8.9 8.9
+Odisha 11.1 11.3 11.0 11.7 11.9 11.5 8.7 8.8 8.6
+Punjab 10.7 10.4 11.1 11.4 10.9 11.9 10.0 9.8 10.1
+Rajasthan 8.3 7.5 9.2 8.3 7.4 9.2 8.5 7.8 9.1
+Tamil Nadu 13.1 12.9 13.3 11.6 11.3 11.8 14.3 14.1 14.5
+Telangana 8.8 8.6 8.9 10.1 9.9 10.3 7.0 7.0 6.9
+Uttar Pradesh 7.5 7.2 7.9 7.5 7.2 7.8 7.8 7.3 8.2
+Uttarakhand 8.7 8.0 9.5 9.3 8.4 10.1 7.4 6.9 7.9
+West Bengal 9.3 9.4 9.2 8.2 8.1 8.4 11.7 12.2 11.2
+28

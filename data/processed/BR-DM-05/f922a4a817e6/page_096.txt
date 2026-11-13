@@ -1,0 +1,39 @@
+General Fertility Rate:
+3.9 Estimates of General Fertility Rate (GFR), a refined measure of fertility, being defined
+as the number of live births per thousand women in the reproductive age group 15-49 years, is a
+useful tool for measuring fertility. The GFR for all-India and bigger States/UTs for the year
+2024 are given below in Statement 17, separately for rural and urban areas. The overall GFR
+for India was 63.6 in 2024, with higher rates in rural areas (71.1) compared to urban areas
+(49.8). Among the bigger States/UTs, Bihar had the highest GFR (98.7), followed by Uttar
+Pradesh (84.1) and Rajasthan (81.3). These States/UTs also had higher GFR in rural areas
+compared to urban areas. Further, Kerala had the lowest GFR among the bigger States/UTs
+(40.2). Chart 36 and 37 gives the distribution of GFR for bigger States/UTs in rural and urban
+areas.
+Statement 17
+GFR (General Fertility Rate) by Residence, India and
+Bigger States/UTs, 2024
+India and Bigger States/UTs Total Rural Urban
+India 63.6 71.1 49.8
+Andhra Pradesh 47.8 50.6 43.1
+Assam 65.5 69.6 43.6
+Bihar 98.7 101.5 80.3
+Chhattisgarh 75.3 82.9 53.1
+Delhi 42.3 47.8 42.2
+Gujarat 58.9 67.0 50.1
+Haryana 64.9 69.9 57.5
+Himachal Pradesh 48.7 50.5 31.8
+Jammu & Kashmir 47.1 50.9 38.9
+Jharkhand 74.3 80.4 57.4
+Karnataka 50.5 54.9 45.2
+Kerala 40.2 40.2 40.2
+Madhya Pradesh 80.8 88.5 60.6
+Maharashtra 47.9 52.6 43.5
+Odisha 54.1 57.9 38.9
+Punjab 47.8 50.5 44.6
+Rajasthan 81.3 84.9 70.5
+Tamil Nadu 41.3 42.3 40.4
+Telangana 51.0 53.3 48.2
+Uttar Pradesh 84.1 89.2 69.8
+Uttarakhand 59.5 62.7 51.7
+West Bengal 44.5 48.4 35.7
+68

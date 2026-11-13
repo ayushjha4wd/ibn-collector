@@ -1,0 +1,40 @@
+4.7 Statement 42 given below presents the estimated Crude Death Rate for India by residence
+separately for males and females in 2021. It is observed that female death rate is lower than male
+death rate both in rural and urban areas. While the total CDR in India in 2021 was 7.5 per 1,000
+population. The CDR for males (8.5 per 1,000 population) was higher than that for females (6.4 per
+1,000 population). The CDR was also higher for rural areas compared to urban areas. Chart 80
+represents the Crude Death Rate by Sex and Residence for India.
+Statement 42
+Crude Death Rate by Sex and Residence, India, 2021
+Residence Total Males Females
+Total 7.5 8.5 6.4
+Rural 7.9 9.0 6.7
+Urban 6.6 7.5 5.7
+Chart 80: Crude Death Rate by Sex and Residence,
+India, 2021
+10.0
+9.0
+Total Males Females
+8.0
+7.0
+e
+t
+a
+R 6.0
+h
+t
+a
+e 5.0
+D
+e
+d 4.0
+u
+r
+C
+3.0
+2.0
+1.0
+0.0
+Total Rural Urban
+Residence
+136

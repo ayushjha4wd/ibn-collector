@@ -1,0 +1,45 @@
+Total Fertility Rate:
+3.19 The cumulative value of the Age-Specific Fertility Rates at the end of the child bearing age
+gives a measure of fertility known as Total Fertility Rate (TFR). TFR indicates the average
+number of children expected to be born per woman during her entire span of reproductive period
+assuming that the Age-Specific Fertility Rates, to which she is exposed to, continue to be the same
+and that there is no mortality. The TFRs worked out on the basis of the ASFRs for the year 2023
+are presented below in Statement 24 for India and bigger States/UTs separately for rural and urban
+areas. The TFR for India in 2023 was 1.9, with a higher TFR in rural areas (2.1) than in urban
+areas (1.5). Bihar had the highest TFR among the bigger States/UTs with 2.8, followed by Uttar
+Pradesh (2.6) and Madhya Pradesh & Rajasthan at 2.4 and 2.3 respectively. Delhi records the
+lowest Total Fertility Rate (TFR) at 1.2, followed by Tamil Nadu and West Bengal at 1.3 each.
+Maharashtra stands at 1.4, while Andhra Pradesh, Jammu & Kashmir, Karnataka, Kerala, Punjab,
+and Telangana each have a TFR of 1.5. The TFR in urban areas was generally lower than in rural
+areas across all major States/UTs in India, except for Kerala and Tamil Nadu. Chart 49 presents
+levels of TFR by residence for India and bigger States/UTs. Distribution of bigger States/UTs by
+values of TFR in rural and urban areas is shown in Chart 50.
+Statement 24
+TFR (Total Fertility Rate) by Residence, India and bigger
+States/UTs, 2023
+India and bigger States/UTs Total Rural Urban
+India 1.9 2.1 1.5
+Andhra Pradesh 1.5 1.6 1.3
+Assam 2.0 2.1 1.3
+Bihar 2.8 2.9 2.2
+Chhattisgarh 2.2 2.5 1.6
+Delhi 1.2 1.3 1.2
+Gujarat 1.8 2.1 1.6
+Haryana 1.9 2.1 1.7
+Himachal Pradesh 1.6 1.6 1.1
+Jammu & Kashmir 1.5 1.6 1.2
+Jharkhand 2.1 2.3 1.7
+Karnataka 1.5 1.7 1.4
+Kerala 1.5 1.5 1.5
+Madhya Pradesh 2.4 2.6 1.8
+Maharashtra 1.4 1.6 1.3
+Odisha 1.7 1.8 1.2
+Punjab 1.5 1.5 1.4
+Rajasthan 2.3 2.4 2.1
+Tamil Nadu 1.3 1.3 1.3
+Telangana 1.5 1.6 1.5
+Uttar Pradesh 2.6 2.7 2.2
+Uttarakhand 1.7 1.8 1.6
+West Bengal 1.3 1.4 1.1
+Note: Rounded off to one decimal point.
+85

@@ -1,0 +1,39 @@
+Death Rate for Children aged 0-4 years:
+4.17 The death rates for children below age 5 by residence are given below in Statement 52
+separately for males and females for the year 2021. While the total death rate for India was 7.3 in
+2021, the male death rate was 7.3 and the female death rate was slightly higher at 7.4. The death rate
+in rural areas was however much higher at 8.3 than that of urban areas at 4.9. Among the bigger
+States, Madhya Pradesh had the highest total death rate for children below 5 years of age at 12.1,
+with the male death rate at 12.5 and the female death rate at 11.6. Kerala had the lowest total death
+rate at 1.5, with the male death rate at 1.8 and the female death rate at 1.3. Chart 100 to 102 shows
+Death rate for children age 0-4 years by Sex for India and bigger States/UTs 2021 by place of
+residence viz, Total, Rural and Urban respectively.
+Statement 52
+Estimated Death Rate for Children aged 0-4 years by Sex and Residence
+India and bigger States/UTs, 2021
+India and bigger States/UTs Total Rural Urban
+Total Male Female Total Male Female Total Male Female
+India 7.3 7.3 7.4 8.3 8.2 8.4 4.9 4.9 4.8
+Andhra Pradesh 5.8 5.8 5.9 6.9 6.8 6.9 3.8 3.8 3.8
+Assam 8.7 8.4 9.0 9.2 8.9 9.6 3.9 4.0 3.9
+Bihar 7.0 6.6 7.3 7.0 6.7 7.4 6.7 6.6 6.8
+Chhattisgarh 9.8 9.0 10.7 10.3 9.2 11.5 7.5 7.9 7.1
+Delhi 3.1 3.3 2.8 4.1 3.9 4.2 3.0 3.3 2.7
+Gujarat 5.8 5.9 5.8 7.0 7.3 6.7 4.2 3.9 4.6
+Haryana 7.6 7.4 7.8 8.8 8.5 9.1 5.6 5.5 5.6
+Himachal Pradesh 4.9 5.3 4.5 5.1 5.5 4.7 2.1 2.8 1.4
+Jammu & Kashmir 3.5 3.3 3.8 3.9 3.6 4.2 2.5 2.6 2.4
+Jharkhand 6.6 6.1 7.2 6.8 6.2 7.5 5.7 5.5 6.0
+Karnataka 4.6 4.6 4.5 5.4 5.6 5.2 3.2 3.1 3.3
+Kerala 1.5 1.8 1.3 1.1 1.4 0.9 2.0 2.2 1.7
+Madhya Pradesh 12.1 12.5 11.6 13.5 13.9 13.0 7.3 8.0 6.5
+Maharashtra 3.4 3.4 3.3 4.0 3.9 4.0 2.5 2.6 2.3
+Odisha 9.3 9.2 9.3 9.9 9.8 10.0 5.9 6.0 5.8
+Punjab 5.1 5.0 5.1 4.8 4.5 5.2 5.4 5.7 5.1
+Rajasthan 9.6 8.8 10.4 10.1 9.2 11.0 7.7 7.3 8.1
+Tamil Nadu 3.1 3.1 3.0 3.7 4.0 3.4 2.4 2.2 2.6
+Telangana 5.4 6.0 4.8 6.7 7.5 5.8 3.9 4.3 3.5
+Uttar Pradesh 11.4 11.4 11.5 12.0 12.0 12.1 9.1 9.2 9.1
+Uttarakhand 4.9 5.0 4.7 5.0 5.2 4.8 4.5 4.6 4.5
+West Bengal 4.3 4.5 4.0 4.4 4.7 4.1 3.8 4.1 3.5
+165

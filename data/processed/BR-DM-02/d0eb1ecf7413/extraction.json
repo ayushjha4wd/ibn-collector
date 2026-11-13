@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/CITY-1000-D03-MDDS.XLSX",
+  "raw_sha256": "d0eb1ecf74132806e3385f3b7e29ecef5eb2323657a9c57eb240bb0c30fd2d67",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/10941/download/14053",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:05:12+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/d0eb1ecf7413/sheets/D-03.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

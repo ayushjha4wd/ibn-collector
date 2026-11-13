@@ -1,0 +1,40 @@
+4.16 Percentage share of deaths to children below age five to total deaths by residence
+for India and bigger States/UTs is shown below in Statement 51. The national average of
+percentage of deaths in the age-group 0-4 years to total deaths in India was 8.2% in 2023,
+with a higher proportion in rural areas (9.5%) compared to urban areas (5.3%). Among the
+States and UTs, Uttar Pradesh had the highest percentage (14.7%) of deaths in the age-
+group 0-4 years to total deaths, followed by Madhya Pradesh (14.3%) and Rajasthan
+(12.8%). Kerala had the lowest percentage (1.3%) of such deaths followed by Himachal
+Pradesh and Tamil Nadu (2.3%). In general, the percentage of such deaths is higher in
+rural areas than in urban areas across all States and UTs, with some exceptions like Delhi,
+Himachal Pradesh, Kerala and Tamil Nadu where the proportion is higher in urban areas.
+Chart 99 shows the Percentage of deaths in the age-group 0-4 years to total deaths for
+India and bigger States/UTs.
+Statement 51
+Percentage of Deaths in the Age-group 0-4 years to Total Deaths
+by Residence, India and Bigger States/UTs, 2023
+India and Bigger States/UTs Total Rural Urban
+India 8.2 9.5 5.3
+Andhra Pradesh 4.5 4.7 4.0
+Assam 10.4 11.4 3.8
+Bihar 11.3 11.6 9.4
+Chhattisgarh 10.9 11.9 7.4
+Delhi 4.5 2.3 4.6
+Gujarat 6.2 7.0 5.0
+Haryana 8.0 9.3 5.8
+Himachal Pradesh 2.3 2.2 2.7
+Jammu & Kashmir 4.0 4.4 3.1
+Jharkhand 10.4 11.5 6.5
+Karnataka 3.7 4.0 3.0
+Kerala 1.3 1.1 1.6
+Madhya Pradesh 14.3 15.5 10.5
+Maharashtra 3.8 4.3 3.0
+Odisha 7.1 7.5 5.1
+Punjab 3.9 4.0 3.8
+Rajasthan 12.8 13.9 9.4
+Tamil Nadu 2.3 2.2 2.4
+Telangana 5.3 5.3 5.1
+Uttar Pradesh 14.7 16.1 10.1
+Uttarakhand 6.3 6.5 5.8
+West Bengal 4.5 5.0 3.4
+163

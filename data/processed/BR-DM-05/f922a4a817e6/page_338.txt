@@ -1,0 +1,24 @@
+Table 11
+Birth Rate, Death Rate, Infant Mortality Rate and Under 5 Mortality Rate
+by NSSO Natural Division, 2024
+No. of Sample Estimated vital rates
+No.
+Name of the Natural Units Infant Under 5
+Bigger States of Birth Death
+Division Mortality Motality
+ND Total Rural Urban Rate Rate
+Rate Rate
+Karnataka Coastal & Ghats 1 227 160 67 12.3 7.2 11 12
+Inland Eastern 2 119 84 35 12.5 8.4 17 17
+Inland Southern 3 58 41 17 13.7 6.5 13 16
+Inland Northern 4 107 76 31 16.8 7.3 16 20
+Total 511 361 150 14.9 7.0 15 18
+Kerala Northern 1 110 66 44 12.5 6.0 11 13
+Southern 2 170 109 61 10.0 8.3 4 4
+Total 280 175 105 11.1 7.3 8 9
+Tamil Nadu Coastal Northern 1 196 80 116 11.8 6.4 12 14
+Coastal 2 87 54 33 11.9 7.0 10 12
+Southern 3 138 57 81 11.8 7.4 12 17
+Inland 4 123 44 79 11.2 6.8 9 12
+Total 544 235 309 11.6 6.8 11 14
+309

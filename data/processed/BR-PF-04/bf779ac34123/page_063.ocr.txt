@@ -1,0 +1,32 @@
+1.2 Structure of the Bihar Economy
+
+The size of economic activity in a state during a specific period can be estimated by measuring the
+total value added from those economic activities. The Gross State Value Added (GSVA) reflects
+the overall yalue added to the state economy, calculated by subtracting the intermediate costs
+incurred in producing output from the total value of that output. Table 1.4 presents the sectoral
+composition of GSVA at constant prices (2011-12) in Bihar for the years 2019-20 to 2023-24, The
+figures for 2023-24 are quick estimates, while those for 2022-23 are provisional estimates.
+
+The share of primary, secondary and tertiary sectors in the GSVA at constant (2011-12) prices in
+Bihar for 2019-20 and 2023-24 is shown in Chart 1,2. The share of the tertiary sector is estimated
+to have declined from 61 percent of the Gross State Value Added (GSVA) in 2019-20 to 59 percent
+in 2023-24, Despite this decrease, it remains the most significant contributor to value addition
+through economic activities in the state. Conversely, the share of the secondary sector is estimated
+to have increased from 19 percent to 21 percent during the same period. Meanwhile, the share of
+the primary sector in the state's GSVA is estimated to remain at 20 percent in 2023-24, unchanged
+from its share in 2019-20.
+
+Chart 1.2 ; Sectoral composition of GSVA at constant (2011-12) prices (2019-20 and 2023-24)
+
+2019-20 2023-24
+
+Note : For 2023-24, the figures are Quick estimates.
+Source : Directorate of Economics and Statistics, GoB
+
+In the tertiary sector, Trade and Repair Services are estimated to be the most significant contributor
+to the state’s Gross State Value Added (GSVA) in 2023-24, accounting for 14.8 percent. This is
+followed by a 10.2 percent contribution from Transport, Storage, Communication, and
+Broadcasting Services, as well as a 9.5 percent contribution from the Real Estate, Ownership of
+Dwelling & Professional Services. The share of Road Transport in the GSVA of the State is
+estimated at 5.4 percent in 2023-24, Additionally, the Financial Services are estimated to contribute
+4.6 percent to the GSVA,

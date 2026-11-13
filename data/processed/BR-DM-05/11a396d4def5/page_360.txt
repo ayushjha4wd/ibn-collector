@@ -1,0 +1,53 @@
+Annexure-2
+SAMPLE REGISTRATION SYSTEM
+List of Natural Division
+State ND Sl. No. Distt.
+State Name Region Name of District
+code Code of Distt. Code
+4 Inland Northern 555 01 Belgaum
+556 02 Bagalkot
+557 03 Bijapur
+558 04 Bidar
+559 05 Raichur
+560 06 Koppal
+561 07 Gadag
+562 08 Dharwad
+564 10 Haveri
+565 11 Bellary
+566 12 Chitradurga
+567 13 Davanagere
+579 25 Gulbarga
+580 26 Yadgir
+30 Goa 1 Goa 585 01 North Goa
+586 02 South Goa
+31 Lakshadweep 1 Lakshadweep 587 01 Lakshadweep
+32 Kerala 1 Northern 588 01 Kasaragod
+589 02 Kannur
+590 03 Wayanad
+591 04 Kozhikode
+592 05 Malappuram
+593 06 Palakkad
+2 Southern 594 07 Thrissur
+595 08 Ernakulam
+596 09 Idukki
+597 10 Kottayam
+598 11 Alappuzha
+599 12 Pathanamthitta
+600 13 Kollam
+601 14 Thiruvananthapuram
+33 Tamil Nadu 1 Coastal Northern 602 01 Thiruvallur
+603 02 Chennai
+604 03 Kancheepuram
+605 04 Vellore
+606 05 Tiruvannamalai
+607 06 Viluppuram
+617 16 Cuddalore
+2 Coastal 613 12 Karur
+614 13 Tiruchirappalli
+615 14 Perambalur
+616 15 Ariyalur
+618 17 Nagapattinam
+619 18 Thiruvarur
+620 19 Thanjavur
+621 20 Pudukkottai
+332

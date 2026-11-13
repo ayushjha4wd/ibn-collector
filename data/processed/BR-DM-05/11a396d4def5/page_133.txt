@@ -1,0 +1,22 @@
+250.0
+200.0
+150.0
+100.0
+50.0
+0.0
+Total Without Below Primary Middle Class X Class XII Graduate
+any formal primary and above
+education
+Illiterate Literate
+Educational level of women
+106
+etaR
+ytilitreF
+Chart 61: Age-Specific Fertility Rate by level of Education of Women, India, 2023
+15-19 years
+20-24 years
+25-29 years
+30-34 years
+35-39 years
+40-44 years
+45-49 years

@@ -1,0 +1,63 @@
+Chart 47: Percentage Distribution of Cumulative Fertility
+by Residence, India, 2021
+120
+y 97.4 99.3 100.0
+t
+i l 100 90.7
+i
+t
+r
+e
+f
+e 80 72.4
+v
+i
+t
+a
+l
+u
+m 60
+m
+u Total Rural Urban
+c
+e 40
+34.6
+g
+a
+t
+n
+e
+c 20
+r
+e
+P 2.8
+0
+15-19 15-24 15-29 15-34 15-39 15-44 15-49
+Age-group
+Chart 47 B: Contribution of various Age-Groups in Total
+Fertility by Residence, India, 2021
+100%
+90%
+80%
+70%
+y 60%
+t
+i
+l i 50%
+t
+r
+e 40%
+F
+30%
+20%
+10%
+0%
+Total Rural Urban
+15-49 100.0 100.0 100.0
+15-44 99.3 99.3 99.3
+15-39 97.4 97.5 97.3
+15-34 90.7 91.0 89.9
+15-29 72.4 74.1 68.1
+15-24 34.6 37.0 28.3
+15-19 2.8 3.1 1.8
+82

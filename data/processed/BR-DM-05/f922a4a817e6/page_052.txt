@@ -1,0 +1,46 @@
+2.10 Statement 6 provides information on the percentage of the population in the working age-
+group 15-59 years by sex and residence for India and bigger States/UTs in 2024. At the National
+level, the total percentage of the population in the age-group 15-59 years in India is 66.4%, with
+66.2% for males and 66.6% for females. The rural areas have a slightly lower percentage of the
+population in this age-group 65.0% compared to urban areas 69.0 %. Among the States/UTs, Delhi
+has the highest percentage of the population in the age-group 15-59 years, with 71.1%, followed by
+Telangana (70.5%), and Andhra Pradesh (70.4%). Bihar has the lowest percentage of the population
+in this age group at 60.7%, followed by Rajasthan (63.7%), Madhya Pradesh (64.1), and Uttar
+Pradesh (64.2).
+2.11 There are also variations in the percentage of males and females in this age-group across
+different States/UTs and between rural and urban areas. For instance, Jammu & Kashmir has the
+highest percentage of females in this age-group in rural areas at 70.1%, and also has the highest
+percentage of females in the age-group 15-59 years in urban areas at 72.8%. Delhi has the highest
+percentage of males in the age-group 15-59 years in rural areas at 72.4% while Telangana has the
+highest percentage of males in this age-group in urban areas at 71.3%. Chart 8 and 9 gives the
+pictorial presentation of percentage of population in the age-group 15-59 years for bigger
+States/UTs by Residence and Sex respectively.
+Statement 6
+Percentage of population in the Age-group 15-59 years by Sex and Residence, India and Bigger
+States/UTs, 2024
+India and Bigger Total Rural Urban
+States/UTs Total Male Female Total Male Females Total Males Females
+India 66.4 66.2 66.6 65.0 64.8 65.1 69.0 68.7 69.3
+Andhra Pradesh 70.4 70.3 70.4 69.7 69.9 69.5 71.6 71.1 72.1
+Assam 67.1 66.3 67.8 66.2 65.5 66.9 71.8 71.1 72.5
+Bihar 60.7 59.6 61.9 60.4 59.3 61.6 63.0 62.2 63.8
+Chhattisgarh 65.6 65.4 65.7 64.4 64.4 64.3 69.4 68.6 70.2
+Delhi 71.1 70.9 71.3 71.1 72.4 69.7 71.1 70.9 71.4
+Gujarat 66.6 66.6 66.6 64.6 64.6 64.7 68.8 68.8 68.8
+Haryana 67.1 67.0 67.3 66.2 66.1 66.2 68.6 68.3 68.9
+Himachal Pradesh 66.5 66.3 66.8 66.1 65.8 66.3 71.1 70.6 71.6
+Jammu & Kashmir 69.9 68.9 70.9 69.1 68.1 70.1 71.7 70.7 72.8
+Jharkhand 65.1 64.9 65.5 64.0 63.9 64.1 68.5 67.7 69.3
+Karnataka 68.6 68.8 68.4 67.7 68.5 66.9 69.6 69.0 70.2
+Kerala 65.3 65.1 65.4 65.0 64.9 65.1 65.5 65.3 65.6
+Madhya Pradesh 64.1 64.4 63.8 63.0 63.3 62.6 67.3 67.5 67.1
+Maharashtra 68.1 67.9 68.2 65.5 65.5 65.5 70.7 70.3 71.0
+Odisha 67.3 67.5 67.1 66.5 66.8 66.1 70.7 70.5 71.0
+Punjab 69.3 69.6 69.0 68.5 68.8 68.1 70.3 70.6 70.0
+Rajasthan 63.7 63.9 63.5 62.9 63.1 62.7 66.2 66.6 65.7
+Tamil Nadu 67.8 67.9 67.8 68.4 68.7 68.0 67.4 67.2 67.5
+Telangana 70.5 70.5 70.6 69.7 69.8 69.6 71.5 71.3 71.7
+Uttar Pradesh 64.2 64.3 64.2 63.0 63.0 63.0 67.9 67.9 68.0
+Uttarakhand 64.3 64.3 64.3 63.3 63.3 63.2 66.9 66.6 67.3
+West Bengal 69.9 69.1 70.7 69.2 68.6 69.9 71.3 70.3 72.3
+24

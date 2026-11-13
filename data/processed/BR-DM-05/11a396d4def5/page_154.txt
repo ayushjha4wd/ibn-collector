@@ -1,0 +1,38 @@
+CHAPTER 4
+ESTIMATES OF MORTALITY INDICATORS
+Mortality is one of the basic components of population change and the related data is
+essential for demographic studies and public health administration. It is the principal ingredient
+for population projections and life tables. Information on death events recorded in SRS is used to
+estimate mortality indicators. The various measures of mortality published under SRS are Crude
+Death Rate (CDR), Under-five Mortality Rate (U5MR), Infant Mortality Rate (IMR) and its
+components, Age-Specific Mortality Rates (ASMR), Still Birth Rate (SBR) and Peri-Natal
+Mortality Rate (PMR).
+4.2 SRS has continued to provide data for estimating various mortality measures since its
+inception. The Crude Death Rate at all India level has declined from 14.9 to 12.5 during the
+decade 1971 to 1981. In the next three decades ending 1991, 2001 and 2011, the Crude Death
+Rate reached 9.8, 8.4 and 7.1 respectively and thereafter from 7.5 to 6.4 during 2021 to 2023. The
+decline has been steeper in rural areas as compared to urban areas meaning the decline in rural
+areas is greater while the decline in urban areas is gradual. The Infant Mortality Rate has shown a
+considerable decline from 129 per 1000 live births in 1971 to 110 in 1981 and from 80 in 1991 to
+25 in 2023.
+4.3 Apart from the all India scenario, this chapter presents data on mortality indicators for
+bigger States/UTs by sex, residence and broad age-groups. Besides Under-Five Mortality Rate, it
+includes data on Infant Mortality and its components viz., Neo-Natal Mortality and Post Neo-
+Natal, Peri-Natal Mortality and changes in mortality over the last decade. It also includes data on
+medical attention before death.
+4.4 Apart from the mortality indicators at State and National levels, this report also includes
+estimates of death rates at sub-State, viz. NSS Natural Division Level. The Table 11 in the
+annexure to this report contains data on Death Rate and Infant Mortality Rate besides Birth Rate
+for 71 Natural Divisions of 22 bigger States/UTs.
+4.5 Statement 40 below provides the Crude Death Rate (CDR) by residence for India and
+States/UTs for the year 2023. Although the death rate has been estimated for all the States/UTs of
+India, the other mortality indicators are presented only for bigger States/UTs in the report. The
+overall CDR for India in 2023 was 6.4, with a higher CDR of 6.8 in rural areas and a lower CDR
+of 5.7 in urban areas. Among the bigger States/UTs, Chhattisgarh had the highest CDR of 8.3,
+while Delhi had the lowest CDR of 4.5. Among the smaller States, Manipur had the lowest CDR
+of 4.5 and Goa had the highest CDR of 6.8. Among the smaller UTs, Puducherry had the highest
+CDR of 6.4, while Chandigarh had the lowest CDR of 4.0. Based on the figures in the Statement
+40 given below, the graphical representation of death rate of States/UTs by residence is depicted in
+Charts 74 and 75. The estimated Age-Specific Death Rate by sex and residence for India and
+bigger States/UTs has been detailed in Table 8.
+127

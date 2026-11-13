@@ -1,0 +1,33 @@
+88. Average Infant Mortality Rate between 2012-14 and 2022-24 and 149
+percentage change, India and bigger States/UTs
+89. Average Infant Mortality Rate between 2012-14 and 2022-24 and 150
+percentage change, India and bigger States/UTs -RURAL
+90. Average Infant Mortality Rate between 2012-14 and 2022-24 and 151
+percentage change, India and bigger States/UTs – URBAN
+91. Neo-natal Mortality Rate and percentage share of neo-natal deaths to 153
+infant deaths, India and bigger States/UTs, 2024
+92. Neo-natal Mortality Rate and percentage share of neo-natal deaths to 154
+infant deaths, India and bigger States/UTs, 2024 - RURAL
+93. Neo-natal Mortality Rate and percentage share of neo-natal deaths to 155
+infant deaths, India and bigger States/UTs, 2024 – URBAN
+94. Early neo-natal Mortality Rate and percentage share of early neo-natal 157
+deaths to infant deaths, India and bigger States/UTs, 2024
+95. Early neo-natal Mortality Rate and percentage share of early neo-natal 158
+deaths to infant deaths, India and bigger States/UTs, 2024 – RURAL
+96. Early neo-natal Mortality Rate and percentage share of early neo-natal 159
+deaths to infant deaths, India and bigger States/UTs, 2024 - URBAN
+97. Perinatal Mortality Rate, India & bigger States/UTs, 2024 161
+98. Still Birth Rate, India & bigger States/UTs, 2024 162
+99. Percentage of deaths in the age group 0-4 years to total deaths, India 164
+and bigger States/UTs, 2024
+100. Death Rate for children aged 0-4 years by Sex, India and bigger 166
+States/UTs, 2024
+101. Death Rate for children aged 0-4 years by Sex, India and bigger 167
+States/UTs, 2024 – RURAL
+102. Death Rate for children aged 0-4 years by Sex, India and bigger 168
+States/UTs, 2024– URBAN
+103. Under-5 Mortality Rate (U5MR) by Sex, India & bigger States/UTs, 170
+2024
+104. Under-5 Mortality Rate (U5MR) by Sex, India & bigger States/UTs, 171
+2024- RURAL
+xv

@@ -1,0 +1,29 @@
+Chart 62: Age-Specific Fertility Rate by Level of Education of Women, India,
+2021 -RURAL
+300.0
+250.0
+15-19 years
+20-24 years
+200.0 25-29 years
+e
+t 30-34 years
+a
+R
+y 150.0 35-39 years
+t
+i
+l
+i
+t r 40-44 years
+e
+F
+45-49 years
+100.0
+50.0
+0.0
+Total Without Below Primary Middle Class X Class XII Graduate
+any formal primary and above
+education
+Illiterate Literate
+Educational level of women
+107

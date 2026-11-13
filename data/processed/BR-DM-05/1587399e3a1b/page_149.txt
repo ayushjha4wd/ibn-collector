@@ -1,0 +1,30 @@
+Statement 39
+Percentage distribution of live births by Type of Medical Attention received
+by the Mother during delivery by Residence, India and bigger States/UTs, 2021
+India and bigger Govt. Hospital Private Hospital Qualified Untrained functionary No Medical Attention
+states professional & Others Received
+Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban Total Rural Urban
+India 66.2 68.4 59.1 24.9 21.3 36.4 5.0 5.8 2.4 2.7 3.0 1.6 1.3 1.5 0.5
+Andhra Pradesh 57.6 59.2 52.4 41.9 40.1 47.6 0.5 0.6 0.0 0.1 0.1 0.0 0.0 0.0 0.0
+Assam 81.8 83.3 69.1 12.7 10.8 28.3 3.0 3.2 1.4 2.0 2.2 0.5 0.4 0.4 0.6
+Bihar 63.1 62.8 65.6 14.8 13.4 25.9 13.8 14.9 4.5 6.3 6.7 3.0 2.0 2.2 1.0
+Chhattisgarh 69.4 70.5 63.5 19.5 17.2 30.9 7.8 8.5 4.1 2.5 2.8 1.0 0.8 0.9 0.4
+Delhi 68.8 59.6 69.1 29.2 30.7 29.2 0.8 4.8 0.6 1.1 2.5 1.1 0.1 2.5 0.0
+Gujarat 56.1 60.0 49.8 41.2 37.0 47.8 1.5 1.8 1.1 1.1 1.0 1.3 0.1 0.1 0.0
+Haryana 53.8 54.2 53.0 41.2 39.1 45.2 2.5 3.1 1.2 2.4 3.4 0.6 0.1 0.2 0.0
+Himachal Pradesh 75.5 75.3 79.2 20.2 20.3 18.8 2.5 2.6 1.9 1.2 1.2 0.0 0.5 0.6 0.0
+Jammu & Kashmir 89.4 91.2 83.9 8.3 6.5 13.8 2.0 2.0 1.8 0.3 0.3 0.5 0.0 0.0 0.0
+Jharkhand 71.0 72.7 58.8 14.8 12.1 34.8 3.9 3.8 4.3 4.7 5.2 0.9 5.6 6.2 1.2
+Karnataka 65.5 69.8 57.1 33.5 28.9 42.5 0.7 0.8 0.5 0.3 0.5 0.0 0.0 0.0 0.0
+Kerala 34.2 35.3 33.2 65.7 64.5 66.8 0.0 0.0 0.0 0.1 0.2 0.0 0.0 0.0 0.0
+Madhya Pradesh 83.9 84.7 80.4 11.0 9.5 17.0 2.4 2.6 1.7 1.1 1.3 0.4 1.5 1.8 0.5
+Maharashtra 57.0 61.6 48.3 41.4 37.0 49.9 1.2 1.2 1.2 0.3 0.2 0.5 0.1 0.1 0.0
+Odisha 77.3 77.8 73.9 16.0 15.3 21.5 3.0 3.1 2.1 3.3 3.5 2.3 0.3 0.3 0.1
+Punjab 45.2 49.4 38.4 50.9 46.7 57.8 3.4 3.8 2.8 0.5 0.2 1.0 0.0 0.0 0.0
+Rajasthan 80.8 80.9 80.4 14.8 14.4 16.4 3.3 3.8 1.2 1.0 0.8 1.8 0.2 0.2 0.2
+Tamil Nadu 66.3 71.3 59.9 33.1 27.9 39.6 0.5 0.6 0.3 0.2 0.2 0.1 0.0 0.0 0.0
+Telangana 60.2 63.5 54.9 37.1 33.5 42.8 2.0 2.4 1.5 0.7 0.6 0.7 0.0 0.0 0.0
+Uttar Pradesh 60.5 62.3 53.4 25.3 23.4 32.8 6.8 6.8 6.9 4.6 4.3 5.7 2.8 3.2 1.3
+Uttarakhand 53.4 54.5 50.3 32.2 29.7 39.2 9.7 11.1 5.6 4.4 4.4 4.3 0.4 0.3 0.5
+West Bengal 70.9 72.6 65.1 22.7 20.8 29.1 4.5 4.8 3.1 1.2 1.3 0.9 0.8 0.5 1.9
+122

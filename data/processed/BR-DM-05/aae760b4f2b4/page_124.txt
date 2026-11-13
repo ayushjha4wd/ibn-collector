@@ -1,0 +1,43 @@
+3.29 Statement 33 below presents, at the National level, age specific fertility rates by level of
+education of women separately for rural and urban areas. Fertility attains the peak in the age-
+group 25-29 years both in the rural and urban areas for literate female population, whereas it
+attains peak in the age-group 20-24 years for illiterate female population in both rural and
+urban areas. On average, 'Illiterate' women have higher levels of age-specific fertility rates than
+the 'Literate'. Within the 'Literate' group, there is a general decline in the fertility rates with the
+increase in the educational status both in the rural and urban areas, barring a few exceptions.
+Charts 61, 62 and 63 depict the Age Specific Fertility Rate by level of education of women for
+Total, Rural and Urban areas respectively.
+Statement 33
+Age Specific Fertility Rate by level of education of women and residence,
+India, 2020
+Age Educational level of women
+group Illiterate Literate
+Total Without Below Primary Middle Class Class Graduate
+literate any primary X XII and
+formal above
+education
+Total
+15-19 33.9 11.0 20.0 10.5 10.6 9.6 11.3 15.6 0.0
+20-24 213.4 110.9 169.0 179.2 154.7 118.1 101.1 79.5 92.2
+25-29 190.3 136.3 158.4 162.0 160.2 152.8 145.8 114.7 101.4
+30-34 109.5 81.2 84.5 86.8 80.2 79.7 82.7 82.3 77.4
+35-39 53.1 31.9 38.8 39.3 30.5 28.5 30.2 33.3 30.5
+40-44 17.7 10.0 11.9 13.3 11.4 9.5 8.3 8.9 7.8
+45-49 7.4 3.8 4.0 5.0 3.2 5.0 2.0 2.2 4.8
+Rural
+15-19 33.7 12.9 17.7 12.1 12.7 11.5 13.0 20.1 0.0
+20-24 222.9 125.1 178.0 190.6 166.9 129.5 111.9 90.8 103.8
+25-29 195.2 149.0 167.6 173.7 170.1 158.4 153.4 123.3 112.8
+30-34 116.1 84.7 90.4 90.7 85.4 81.3 86.7 83.2 78.9
+35-39 56.4 33.7 40.5 43.4 34.3 29.4 28.9 32.5 32.5
+40-44 18.7 11.6 12.8 15.5 12.3 10.5 9.0 6.6 14.0
+45-49 7.8 3.9 4.1 5.7 3.7 3.8 3.0 1.6 2.7
+Urban
+15-19 34.8 6.4 29.8 5.5 4.9 4.6 7.7 9.1 0.0
+20-24 174.3 80.3 134.1 133.8 112.6 83.6 77.1 63.0 82.0
+25-29 167.4 113.6 121.4 121.7 131.0 137.1 130.1 102.2 93.5
+30-34 77.0 75.5 61.0 74.3 65.9 76.1 76.5 81.0 76.7
+35-39 36.0 29.0 32.0 25.5 20.9 26.7 32.1 34.1 29.7
+40-44 13.4 7.9 8.7 6.3 9.4 7.8 7.5 10.6 5.9
+45-49 5.6 3.6 3.9 2.7 2.0 7.0 1.1 2.6 5.3
+97

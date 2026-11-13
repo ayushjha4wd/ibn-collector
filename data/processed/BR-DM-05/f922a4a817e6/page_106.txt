@@ -1,0 +1,53 @@
+3.14 The percentage change in Age-Specific Fertility Rate during the last decade is presented
+below in Statement 20 separately for rural and urban areas. The data pertains to changes in the
+Age-Specific Fertility Rates for the quinquennial age-groups based on average value for three
+years period viz. 2012-14 and 2022-24 for all-India.
+3.15 At the National level, there is a shift in fertility trends, with an increase in fertility in the
+later ages 30-49 and a decrease in the lower age-groups 15-29. Charts 43, 44 and 45 depict the
+average Age-Specific Fertility Rates of India between 2012-14 and 2022-24 for Total, Rural
+and Urban areas respectively. Chart 46 shows the percentage change in average Age-Specific
+Fertility Rates between 2012-14 and 2022-24 by residence.
+Statement 20
+Percent change in Age-Specific Fertility Rates by Residence between
+2012-14 and 2022-24, India
+Age Total Rural Urban
+group 2012- 2022- % 2012- 2022- % 2012- 2022- %
+14 24 Change 14 24 Change 14 24 Change
+15-19 29.0 11.0 -62.1 32.6 13.0 -60.1 17.9 6.4 -64.2
+20-24 187.0 108.4 -42.0 206.3 123.1 -40.3 137.2 77.0 -43.9
+25-29 149.3 137.9 -7.6 159.6 151.7 -4.9 127.0 112.1 -11.7
+30-34 68.4 79.7 16.5 72.9 84.5 15.9 58.8 71.7 21.9
+35-39 24.1 33.1 37.3 27.0 35.7 32.2 17.5 28.6 63.4
+40-44 8.7 11.3 29.9 10.3 12.8 24.3 5.1 8.8 72.5
+45-49 2.6 3.9 50.0 3.1 4.6 48.4 1.6 2.7 68.8
+Chart 43: Age Specific Fertility Rates, India :
+2012-14 and 2022-24
+200
+180
+2012-14 2022-24
+e
+t 160
+a
+R 140
+y
+t 120
+i
+l
+i t 100
+r
+e 80
+F
+c 60
+i
+f
+i 40
+c
+e
+p 20
+S
+0
+e
+g
+A 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Age-Group
+78

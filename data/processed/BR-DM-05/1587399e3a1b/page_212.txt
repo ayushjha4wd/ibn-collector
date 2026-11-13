@@ -1,0 +1,31 @@
+Chart 113: Death rates for Persons aged 60 years and above by sex,
+India and bigger States/UTs, 2021 - RURAL
+100.0
+90.0
+80.0
+70.0
+)
+s
+r
+a
+e 60.0
+y
++
+0
+6 50.0 Total
+(
+e
+t
+a
+R 40.0
+Male
+h
+t
+a 30.0
+e
+D Female
+20.0
+10.0
+0.0
+India and bigger States/UTs
+185

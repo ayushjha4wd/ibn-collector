@@ -1,0 +1,29 @@
+Chart 63: Age Specific Fertility Rate by Level of Education, India, 2020 - URBAN
+200
+15-19
+20-24
+25-29
+150 30-34
+35-39
+40-44
+e
+t
+a
+R 45-49
+y
+t 100
+i
+l
+i
+t
+r
+e
+F
+50
+0
+Total Without any Below Primary Middle Class X Class XII Graduate
+formal primary and above
+education
+Illiterate Literate
+Level of education of Women
+100

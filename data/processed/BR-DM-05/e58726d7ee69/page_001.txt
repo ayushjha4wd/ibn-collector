@@ -1,0 +1,7 @@
+CORRIGENDUM
+Corrigendum No. 09/6/2020-VS (SRS)
+In the SRS Statistical Report, 2023, a typographical error has
+inadvertently occurred in the title of Table 2, appearing on
+pages 206 to 227.
+The year mentioned as “2022” in the title of Table 2 may be
+read as “2023”. Accordingly, the report has been reuploaded.

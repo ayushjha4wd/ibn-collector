@@ -1,0 +1,27 @@
+Chart 71: Distribution of live births by type of Medical Attention received by the mother
+at delivery, India and bigger States/UTs, 2022
+120.0
+100.0
+Govt. Hospital
+80.0
+e Private
+g
+a Hospital
+t
+n 60.0
+e
+c
+r
+e Qualified
+P
+professional
+40.0
+Untrained
+functionary &
+Others
+20.0 No Medical
+Attention
+Received
+0.0
+India and bigger States/UTs
+123

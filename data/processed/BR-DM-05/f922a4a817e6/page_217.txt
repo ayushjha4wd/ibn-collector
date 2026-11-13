@@ -1,0 +1,18 @@
+80.0
+70.0
+60.0
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+189
+egatnecreP
+Chart 115: Distribution of deaths by Type of Medical Attention received before
+death, India & Bigger States/UTs, 2024
+Govt. Hospital
+Private Hospital
+Qualified professional
+Untrained functionary & Others
+India and bigger States/UTs

@@ -1,0 +1,40 @@
+EXECUTIVE SUMMARY
+The Sample Registration System (SRS) is the largest demographic survey in the
+Country mandated to provide annual estimates of fertility as well as mortality indicators
+at the State and National level. The present Report contains data on fertility and mortality
+indicators for the year 2024 for India and bigger States/UTs. The estimates are segregated
+by residence and also by gender, wherever required.
+2. The salient features of the report are summarized below.
+❖ The Crude Birth Rate (CBR) at the National level during 2024 stands at 18.3
+exhibiting a decline of 0.1 points over 2023. Among the bigger States/UTs, the
+maximum CBR has been reported in Bihar (26.8) and the minimum in Kerala
+(11.1).
+❖ There has been a decline of 1.4 points in the CBR for the Country from 2019 to
+2024. The corresponding decline in rural CBR is 1.2 points and in urban CBR is
+of 1.7 points.
+❖ The Crude Death Rate (CDR) for the Country is 6.4 in 2024. Among the bigger
+States/UTs, the maximum CDR has been reported for Chhattisgarh (8.4) and the
+minimum for Delhi (4.5).
+❖ The Infant Mortality Rate (IMR) declined by one point to 24 in 2024 at the
+National level. Among the bigger States/UTs, Chhattisgarh recorded the highest
+IMR at 36, while Kerala reported the lowest at 8.
+❖ IMR for the Country stands at 24 in 2024 from 30 in 2019, a decline of 6 points
+over last 5 years and an annual average decline of about 1.0 point. The
+corresponding decline in rural IMR has been to the tune of 7 points (34 in 2019
+to 27 in 2024) against a decline of 3 points in urban IMR (20 in 2019 to 17 in
+2024). Both the genders have shown decline during the period 2019-24.
+❖ Despite this decline, one in every 42 infants at the National level, one in every 37
+infants in rural areas and one in every 59 infants in urban areas still die within
+one year of life.
+❖ In 2024, U5MR for the Country has shown a decline of 1 point from 2024 (28 in
+2024 against 29 in 2023). There has been a decline of 2 points in male U5MR and
+of 1 point in female U5MR respectively during the corresponding period.
+❖ Sex Ratio at Birth for the Country has gone up by 1 point to 918 in 2022-24 from
+917 in 2021-23. Chhattisgarh and Kerala have reported the highest Sex Ratio at
+Birth at 978 and 974 respectively, while Uttarakhand has the lowest (872). Sex
+Ratio at Birth for Rural and Urban areas were 914 and 928 respectively during
+2022-24.
+❖ The Total Fertility Rate (TFR) for the Country is estimated at 1.9 in 2024. In the
+same year, Bihar recorded the highest TFR at 2.9, while Delhi had the lowest at
+1.2. Notably, the National TFR has fallen below the replacement level of 2.1.
+xxiii

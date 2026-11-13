@@ -1,0 +1,39 @@
+Peri-natal Mortality Rate and Still Birth Rate
+4.15 Statement 50 given below presents the Peri-Natal Mortality Rate and Still Birth Rate for the
+year 2021 by Residence for India and bigger States/UTs. The total Peri-Natal Mortality Rate in India
+was 18 in 2021, with a Still Birth Rate of 4. In terms of residence, the rural Peri-Natal Mortality
+Rate was higher than the urban rate, with a difference of 7. The state of Odisha had the highest Peri-
+Natal Mortality Rate of 31, and the highest Still-Birth Rate of 12. On the other hand, Delhi and Bihar
+had the lowest Still Birth Rate of 1 and Delhi had the lowest Peri-Natal Mortality Rate of 6. Chart
+97 and 98 represents Peri-Natal Mortality Rate and Still Birth Rate for India and bigger States/UTs
+by residence respectively.
+Statement 50
+Peri-natal Mortality Rate and Still Birth Rate by Residence,
+India and bigger States/UTs, 2021
+India and Peri-natal Mortality Rate Still Birth Rate
+Bigger States/UTs Total Rural Urban Total Rural Urban
+India 18 20 13 4 4 3
+Andhra Pradesh 17 20 12 5 6 3
+Assam 21 22 10 4 4 2
+Bihar 15 16 12 1 1 1
+Chhattisgarh 29 31 21 8 8 4
+Delhi 6 9 6 1 0 1
+Gujarat 15 17 11 2 3 1
+Haryana 22 23 19 8 8 7
+Himachal Pradesh* 13 13 9 4 4 2
+Jammu & Kashmir 11 11 10 3 3 2
+Jharkhand 16 17 12 3 3 2
+Karnataka 15 17 11 5 6 3
+Kerala 9 6 11 5 4 7
+Madhya Pradesh 28 29 23 6 6 6
+Maharashtra 12 15 8 4 4 3
+Odisha 31 32 21 12 13 7
+Punjab 12 13 11 3 4 3
+Rajasthan 20 21 16 5 5 4
+Tamil Nadu 9 11 8 3 4 2
+Telangana 13 13 14 3 1 5
+Uttar Pradesh 22 23 16 3 3 2
+Uttarakhand 18 17 21 7 6 9
+West Bengal 16 17 14 6 7 4
+*Based on three-year period 2019-21.
+160

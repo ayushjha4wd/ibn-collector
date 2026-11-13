@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-DM-02/2026-11-13/DDW-C20ST-1000.xlsx",
+  "raw_sha256": "da834c541fe504bb23ec5b7275df759dc90436ce173b67d41c941b863d69a47a",
+  "source_id": "BR-DM-02",
+  "source_url": "https://censusindia.gov.in/nada/index.php/catalog/43443/download/47147",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T10:04:24+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-DM-02/da834c541fe5/sheets/C-20.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.2",
+  "tool": "ibn-collector/0.1"
+}

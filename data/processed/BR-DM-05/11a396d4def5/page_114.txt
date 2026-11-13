@@ -1,0 +1,30 @@
+3.2
+2.8
+2.4
+Uttar Pradesh
+Bihar
+Rajasthan
+2.0
+Haryana Madhya Pradesh
+Jharkhand
+Uttarakhand
+Gujarat
+1.6 Telangana Chhattisgarh
+Kerala India
+Punjab Karnataka
+A.P.
+Tamil Nadu
+Maharashtra Assam
+1.2 Delhi Jammu & Kashmir
+West Bengal
+Odisha
+Himachal Pradesh
+0.8
+0.8 1.2 1.6 2.0 2.4 2.8 3.2
+87
+RFT
+nabrU
+Chart 50: Distribution of Bigger States/UTs by values of TFR for Rural and
+Urban areas, 2023
+Line of Equity
+Rural TFR
