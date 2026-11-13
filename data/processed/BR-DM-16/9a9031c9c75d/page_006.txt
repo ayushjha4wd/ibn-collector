@@ -1,0 +1,47 @@
+SUMMARY OF FINDINGS
+Population projection is a scientific attempt to peep into the future population scenario, conditioned
+by certain assumptions using past data. Assumptions used and their holding true in future, is a critical
+condition in this exercise. Predicting the future course of human fertility and mortality is not easy, as medical
+and health interventions, production of food and its equitable availability, climatic variability, socio-cultural
+setting, politico-economic conditions and a host of other factors influence population dynamics, making it
+difficult to predict population with certainty. Therefore, caution must be exercised while using the projected
+numbers in the context of various assumptions prevailing. Apart from dynamic growth arising out of physical
+problems, it may also be added that despite the best efforts in Census for complete and correct enumeration,
+slight omission or duplication of population during enumeration can’t be ruled out. In estimation of fertility
+and mortality from Sample Registration System, there may be some under or over-enumeration, in spite of
+best efforts to control non-sampling errors.
+The Component Method is the universally accepted method of making population projections because
+growth of population is determined by fertility, mortality and migration rates. Twenty-one States and one UT
+have been considered and applied the Component method. They are Andhra Pradesh, Assam, Bihar,
+Chhattisgarh, NCT of Delhi, Gujarat, Haryana, Himachal Pradesh, Jammu & Kashmir (UT), Jharkhand,
+Karnataka, Kerala, Madhya Pradesh, Maharashtra, Odisha, Punjab, Rajasthan, Tamil Nadu, Telangana,
+Uttarakhand, Uttar Pradesh and West Bengal. The projection of the seven north-eastern states (excluding
+Assam) has also been carried out as a whole using the Component Method. Based on the residual of the
+projected population of Jammu & Kashmir (State) and Jammu & Kashmir (UT), for which Component method
+has applied, projection of the Ladakh UT have been made. For the remaining state- Goa and UTs,
+Mathematical Method has been applied. The data used are 2011 Census and Sample Registration System (SRS).
+SRS provides time series data of fertility and mortality, which has been used for predicting their future levels.
+The figures for the year 2011 are the actual Census figures. The salient features of the population projections at
+the national level are as under:
+ The population of India is expected to increase from 121.1 crores to 151.8 crores during the period
+2011-2036 - an increase of 25 percent in twenty- five years at the rate of 1.0 percent annually. As a
+consequence, the density of population will increase from 368 to 462 persons per square kilometer.
+• The crude birth rate will decline from 19.6 during 2011-15 to 13.0 during 2031-35 because of falling
+level of total fertility. In contrast, the crude death rate is expected to increase marginally due to
+changing age structure of the population with the rising median age as a result of continuing decline
+in fertility and increase in the expectation of life at birth. It will increase from 6.9 during 2011-15 to 7.3
+during 2031-35.
+• The infant mortality rate of the country, which is reported to be 46 in 2010 is expected to go down to
+30 by the end of the period 2031-35.
+• Between 2011 and 2036, because of the declining fertility, the proportion of population aged under
+15 years is projected to decline from 30.8 to 19.8 percent; the proportion of the middle age-group (15-
+59 years) and the older ages (60 years and above) are set to increase considerably. With the declining
+fertility, along-with the increases in life expectancy, the number of older persons in the population is
+expected to increase by more than double from 10 crores in 2011 to 23 crores in 2036 - an increase in
+their share to the total population from 8.4 to 15.0 percent. The proportion of population in the
+working age-group 15-59 years is expected to rise from 60.7 percent in 2011 to 65.1 percent in 2036.
+• Another important consequence of the declining fertility will be that, at the national level, the
+population in the school-going age of 5-14 years is expected to decline from 25.4 crores in 2011 to 20.7
+crores in 2036. The share of the population aged 5-14 years to total population of all ages is expected to
+decrease by 7.3 percent from 20.9 percent in 2011 to 13.6 percent in 2036.
+2

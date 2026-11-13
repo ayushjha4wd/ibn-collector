@@ -1,0 +1,43 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+CHHATTISGARH
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 25545 27571 29493 31211 32719 34081
+Male 12833 13834 14794 15651 16404 17076
+Female 12712 13738 14698 15560 16315 17005
+Sex Ratio 991 993 994 994 995 996
+Population Density (Sq. Km.) 189 204 218 231 242 252
+Population by broad age-group
+(000')
+18 years and above 15755 17680 19650 21477 23248 25033
+0-14 8191 8211 8208 8144 7772 7411
+15-59 15408 17150 18699 19930 21125 22119
+60+ 1946 2210 2586 3137 3822 4551
+Proportion (percent)
+0-14 32.1 29.8 27.8 26.1 23.8 21.7
+15-59 60.3 62.2 63.4 63.9 64.6 64.9
+15-49 (female population) 52.8 53.9 54.0 53.8 54.0 53.7
+60+ 7.6 8.0 8.8 10.1 11.7 13.4
+Median age (years) 24.15 25.34 26.92 28.60 30.63 32.51
+Dependency Ratio
+Young (0-14) 532 479 439 409 368 335
+Old (60+) 126 129 138 157 181 206
+Total (Young and old) 658 608 577 566 549 541
+TABLE-17A
+Demographic Indicators : 2011-2035
+CHHATTISGARH
+2016- 2021- 2026- 2031-
+Indicator 2011-15 20 25 30 35
+1 2 3 4 5 6
+Population growth rate 15.3 13.5 11.3 9.4 8.2
+Crude Birth Rate (CBR) 22.5 20.2 17.8 15.8 14.7
+Crude Death Rate (CDR) 8.1 7.6 7.3 7.3 7.4
+Infant Mortality Rate (IMR) 47 42 38 34 30
+Under-5 mortality rate (q ) 63 56 50 45 40
+5
+Total Fertility Rate (TFR) 2.62 2.31 2.05 1.90 1.83
+Life expectancy of males 63.61 65.61 67.11 68.61 69.81
+Life expectancy of females 66.79 68.79 70.79 72.29 73.79
+217

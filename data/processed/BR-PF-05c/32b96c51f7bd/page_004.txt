@@ -1,0 +1,35 @@
+13. Information on the borrowing from Public Account as on 31.12.2025
+(₹ in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the month balance as on borrowed
+on month December 2025 31.12.2025 from public
+01.12.2025 December Account as
+2025 on 31.12.2025
+8009-State Provident Funds -581.50 111.59 176.79 -646.70 0.00
+8011-Insurance and Pension -82.62 3.44 12.55 -91.73
+Funds
+8121-General and other 538.00 27.67 0.00 565.67
+Reserve Funds
+8222-Sinking funds 0.00 0.00 0.00 0.00
+8235- General and other 0.00 211.35 211.35 0.00
+Reserve Funds
+8342-Other Deposits -1088.51 1192.89 1056.91 -952.53
+8443-Civil Deposits 1334.95 255.72 247.26 1343.41
+8448-Deposits of Local 1148.78 3689.22 3441.63 1396.37
+Funds
+8449- Other Deposits -3.81 5334.10 5334.08 -3.79
+8658-Suspense Accounts 74098.22 -53381.82 -6350.91 27067.31
+8670-Cheque and Bills 2526.33 21595.42 21785.43 2336.32
+8671-Departmental 0.01 0.00 0.00 0.01
+Balances
+8672-Permanent cash -0.04 0.00 0.00 -0.04
+Imprest
+8673-Cash Balance 10800.75 27249.64 28361.44 9688.95
+Investment account
+8782-Cash Remittances and -0.1 0.00 0.00 -0.1
+adjustments b/w rendering
+accounts to the same
+Accounts officer
+8793-Inter-State Suspense -326.86 0.00 7.92 -334.78
+Account
+Total 88363.60 6289.22 54284.45 40368.37 0.00

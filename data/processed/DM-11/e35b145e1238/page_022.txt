@@ -1,0 +1,40 @@
+CHAPTER – I
+CIVIL REGISTRATION SYSTEM - AN INTRODUCTION
+1.1 The requirement for a complete and up to date Vital Statistical System to yield reliable
+data on vital events hardly needs any emphasis. These data are essential for socio-economic
+planning and development and also to evaluate the effective implementation of various public
+schemes and programs. The main sources of data on vital events in India are Civil Registration
+System (CRS), Sample Registration System (SRS) and Population Census. Though the Population
+Census is the main source of information on population and its characteristics; however, being
+a decennial exercise, it does not provide the measure of changes in population from year to year.
+The measures of fertility and mortality derived from Census are centered on the midpoint of the
+decade and as such do not provide yearly change in the population. Of the other two sources of
+vital statistics for getting the vital rates on a regular basis, the SRS has been designed to provide
+reliable estimates at National and State level. Robust estimates of vital rates at District level on
+an annual basis through sample survey are difficult to obtain on account of prohibitively large
+sample size and variety of resultant factors such as controlling of non-sampling errors etc. CRS
+is thus the only source for providing vital rates at district level. Rather, a complete CRS can
+provide these rates at lower administrative levels as well.
+1.2 The Civil Registration System (CRS) may be defined as a unified process of continuous,
+permanent, compulsory and universal recording of the vital events and characteristics thereof,
+as per legal requirements in the country. In India, the Civil Registration System covers
+registration of births and deaths. Registration of marriages and divorce are not covered under
+the CRS in India. Civil Registration System provides the best source of information on the vital
+rates at all levels. Ensuring cent percent coverage of vital events by registration machinery can
+help in getting the critical vital statistics at all administrative levels, important for planning and
+research. Therefore, emphasis should also be given to the proper monitoring of the activities
+under the system. Civil Registration System is considered to be complete if it covers 100 percent
+births and deaths taking place within a country or area and birth and death certificates are issued
+to all registered events.
+1.3 The registration records are primarily useful for their value as legal documents and
+secondarily as the source of vital statistics. Civil registration as a source of vital statistics is
+relatively less expensive, as the statistics generated from the registration records are the by-
+products of an essential administrative process. The registration records can also generate
+current and continuous statistics, which can be more accurate than any other method of data
+collection apart from being a continuous source of such data. However, the accuracy of the vital
+statistics obtained through the registration system depends much on the completeness and
+promptness with which events are registered and the correctness of the information in the
+registration records. The improvement in the system of registration of births and deaths is
+critically dependent on the importance given by the respective States and District
+administrations to this work and regular monitoring by them. Besides, the level of awareness
+3

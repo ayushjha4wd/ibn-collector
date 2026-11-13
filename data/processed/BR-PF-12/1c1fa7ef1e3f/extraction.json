@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/ewb-data-2019-20.xlsx",
+  "raw_sha256": "1c1fa7ef1e3f3a048f9b3fc7e36fd67a86479dfcfc2a0f6bd56f50b6e2db70d5",
+  "source_id": "BR-PF-12",
+  "source_url": "https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2019-20.xlsx",
+  "parent_url": "https://www.gst.gov.in/download/gststatistics",
+  "retrieved_at_utc": "2026-11-13T07:02:42+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-12/1c1fa7ef1e3f/sheets/2019-2020.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

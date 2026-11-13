@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+UTTARAKHAND
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 10086 10755 11399 11993 12524 12974
+Male 5138 5496 5840 6152 6429 6665
+Female 4949 5258 5560 5841 6096 6309
+Sex Ratio 963 957 952 949 948 947
+Population Density (Sq. Km.) 189 201 213 224 234 243
+Population by broad age-group
+(000')
+18 years and above 6286 7195 8063 8822 9458 10003
+0-14 3134 2884 2709 2592 2542 2437
+15-59 6058 6825 7482 7990 8330 8610
+60+ 894 1046 1209 1410 1652 1928
+Proportion (percent)
+0-14 31.1 26.8 23.8 21.6 20.3 18.8
+15-59 60.1 63.5 65.6 66.6 66.5 66.4
+15-49 (female population) 53.3 55.9 56.9 56.7 55.2 53.5
+60+ 8.9 9.7 10.6 11.8 13.2 14.9
+Median age (years) 24.21 26.30 28.48 30.79 33.13 35.55
+Dependency Ratio
+Young (0-14) 517 423 362 324 305 283
+Old (60+) 148 153 162 176 198 224
+Total (Young and old) 665 576 524 500 503 507
+TABLE-17A
+Demographic Indicators : 2011-2035
+UTTARAKHAND
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 12.8 11.6 10.1 8.7 7.1
+Crude Birth Rate (CBR) 17.0 16.0 14.6 13.3 12.0
+Crude Death Rate (CDR) 6.1 6.3 6.5 6.7 6.9
+Infant Mortality Rate (IMR) 34 30 27 24 22
+Under-5 mortality rate (q ) 38 34 31 28 25
+5
+Total Fertility Rate (TFR) 1.95 1.77 1.65 1.61 1.60
+Life expectancy of males 68.90 70.10 71.10 72.10 73.10
+Life expectancy of females 74.90 75.90 76.90 77.90 78.70
+177

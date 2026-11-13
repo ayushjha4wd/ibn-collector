@@ -1,0 +1,41 @@
+CONTENTS
+Pages
+ACKNOWLEDGEMENT 1
+SUMMARY OF FINDINGS 2
+CHAPTER 1 : INTRODUCTION 14
+CHAPTER 2 : POPULATION PROJECTIONS FOR INDIA 16
+APPENDIX 1 : INPUT TABLES 22
+TABLE – 1 : Summary of base year population data, fertility and mortality indices and 24
+assumptions: 2011- India and States
+TABLE – 2 : Percentage distribution of 2011 Census smoothed population by age and 25
+sex for India and States
+TABLE – 3 : Projected levels of Total Fertility Rates (TFR) for India and States 36
+(excluding Goa): 2011-2035
+TABLE – 4 : Projected levels of expectation of life at birth for India and States 37
+(excluding Goa): 2011-2035 (Males)
+TABLE – 5 : Projected levels of expectation of life at birth for India and States 38
+(excluding Goa): 2011-2035 (Females)
+TABLE – 6 : Projected values of sex ratio at birth, India and States (excluding Goa): 39
+2011-2035
+TABLE – 7 : Projected values of net-migration rate (per 100), India and States 40
+(excluding Goa): 2011-2035
+APPENDIX 2 : OUTPUT TABLES 41
+I-SUMMARY TABLES
+TABLE – 8 : Projected total population by sex as on 1st March, 2011-2036: India, States 43
+and Union territories
+TABLE – 9 : Projected urban population by sex as on 1st March, 2011-2036: India, 56
+States and Union territories
+TABLE – 10 : Proportion (percent) of projected urban population to total population by 70
+sex as on 1st March, 2011-2036: India, States and Union territories
+TABLE – 11 : Projected total population by sex as on 1st July, 2011-2036: India, States 83
+and Union territories
+TABLE – 12 : Projected urban population by sex as on 1st July, 2011-2036: India, States 96
+and Union Territories
+TABLE – 13 : Proportion (percent) of projected urban population to total population by 109
+sex as on 1st July, 2011-2036: India, States and Union territories
+TABLE – 14 : Projected total population by sex as on 1st October, 2011-2036: India, 122
+States and Union territories
+TABLE – 15 : Projected urban population by sex as on 1st October, 2011-2036: India, 135
+States and Union territories
+TABLE – 16 : Proportion (percent) of projected urban population to total population by 148
+sex as on 1st October, 2011-2036: India, States and Union territories

@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/GSTR-1-2018-2019.xlsx",
+  "raw_sha256": "fc57076fb70bf4458ca1d9e2f2261957d6fc6040438c57a3c46ae8f3f045e478",
+  "source_id": "BR-PF-12",
+  "source_url": "https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2018-2019.xlsx",
+  "parent_url": "https://www.gst.gov.in/download/gststatistics",
+  "retrieved_at_utc": "2026-11-13T07:02:16+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-12/fc57076fb70b/sheets/GSTR-1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

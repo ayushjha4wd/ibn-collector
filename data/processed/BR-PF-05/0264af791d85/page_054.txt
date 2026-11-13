@@ -1,0 +1,41 @@
+NOTES TO FINANCE ACCOUNTS- Contd…
+Cash basis: The accounts represent the actual cash receipts and disbursements during the
+reporting period with the exception of such book adjustments which are authorized. Receipts
+and disbursements in the Finance Accounts are on net basis; net of recoveries, deductions and
+refunds.
+Book Adjustments: Book adjustments are non-cash transactions that appear in the accounts as
+adjustments/settlements. Some of these transactions take place at the level of the account
+rendering units e.g., treasuries, divisions etc., for adjustments of deductions and recoveries from
+salaries to Revenue Receipts/Loans/Public Account, 'nil' bills for transfer of moneys between
+the Consolidated Fund and the Public Account, etc.
+Book adjustments are also carried out at Office of the Accountant General (A&E). These,
+amongst others, include booking for creation of and contribution to funds in Public Account by
+debit to the Consolidated Fund (e.g., State Disaster Response Fund, Central Road and
+Infrastructure Fund, Sinking Fund etc.) crediting deposit heads of accounts in the Public
+Account by debiting the Consolidated Fund; annual adjustment of interest on General Provident
+Fund and State Government Group Insurance Scheme by debiting Major Head 2049-Interest
+Payments and crediting relevant Major Heads in Public Account; adjusting Debt waiver under
+the scheme of Government of India based on the recommendations of the Central Finance
+Commissions, recoupment of Contingency Fund etc.
+Classification between Capital and Revenue Expenditure: Significant expenditure incurred
+with the object of acquiring tangible assets of a permanent nature (for use in the organisation
+and not for sale in the ordinary course of business) or enhancing the utility of existing assets,
+are broadly defined as Capital expenditure. Subsequent charges on maintenance, repair, upkeep
+and working expenses, which are required to maintain the assets in a running order as also all
+other expenses incurred for the day to day running of the organisation, including establishment
+and administrative expenses are classified as Revenue expenditure. Capital and Revenue
+expenditure are shown separately in the Accounts.
+Physical and Financial Assets and Liabilities: Physical Assets and Financial Assets (such as,
+investments, loans and advances made by the Government etc.), as well as Liabilities, such as,
+debt etc., are measured at historical cost. Physical Assets are not depreciated, and financial
+assets are not amortised. Losses in Physical Assets at the end of their life are also not expensed
+or recognised.
+Grants-in-aid: In compliance with the Indian Government Accounting Standard (IGAS) 2:
+Accounting and Classification of Grants-in-aid, grants-in-aid in cash are recognised as revenue
+expenditure at the time of disbursement even if they involve creation of assets by the grantee,
+except in cases specifically authorised by the President on the advice of the Comptroller and
+Auditor General of India. All grants received are recognised as revenue receipts. Details for
+meeting the requirements of accounting and classification of Grants-in-aid given by the State
+Government are depicted in Statement 10 and Appendix III of the Finance Accounts. Detailed
+information in respect of Grants-in-aid given in kind is not available.
+36

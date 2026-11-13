@@ -1,0 +1,43 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+BIHAR
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 104099 114176 123083 132265 141041 148576
+Male 54278 59473 64012 68645 73045 76797
+Female 49821 54703 59071 63620 67996 71779
+Sex Ratio 918 920 923 927 931 935
+Population Density (Sq. Km.) 1106 1213 1307 1405 1498 1578
+Population by broad age-group
+(000')
+18 years and above 55777 63882 73449 83027 91884 99727
+0-14 41884 42329 41288 41012 41226 41208
+15-59 55648 63751 72331 80049 86365 91175
+60+ 6568 8096 9464 11205 13449 16193
+Proportion (percent)
+0-14 40.2 37.1 33.5 31.0 29.2 27.7
+15-59 53.5 55.8 58.8 60.5 61.2 61.4
+15-49 (female population) 47.4 49.3 51.5 52.6 52.4 52.0
+60+ 6.3 7.1 7.7 8.5 9.5 10.9
+Median age (years) 19.95 21.00 21.98 22.65 25.83 28.08
+Dependency Ratio
+Young (0-14) 753 664 571 512 477 452
+Old (60+) 118 127 131 140 156 178
+Total (Young and old) 871 791 702 652 633 630
+TABLE-17A
+Demographic Indicators : 2011-2035
+BIHAR
+2026-
+Indicator 2011-15 2016-20 2021-25 30 2031-35
+1 2 3 4 5 6
+Population growth rate 18.5 15.0 14.4 12.8 10.4
+Crude Birth Rate (CBR) 27.5 24.2 23.5 22.0 19.6
+Crude Death Rate (CDR) 5.9 6.0 6.0 6.0 6.0
+Infant Mortality Rate (IMR) 42.3 38.3 33.7 30.1 26.9
+Under-5 mortality rate (q ) 57.3 52.0 45.8 40.9 36.6
+5
+Total Fertility Rate (TFR) 3.81 3.23 2.92 2.64 2.38
+Life expectancy of males 68.50 69.70 70.90 71.90 72.90
+Life expectancy of females 68.30 69.80 71.80 73.30 74.50
+197

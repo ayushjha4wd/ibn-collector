@@ -1,0 +1,40 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2022-23 2021-22 during the year
+C. Grants-in-Aid and Contributions
+1601 Grants-in-aid from Central Government
+02 Grants for State/Union Territory Plan Schemes
+900 Deduct-Refunds (-)37,447.78 0.00 0
+Agriculture Ministry, Animal Milk and Fisheries resource department (-)9,393.34 0.00 0
+Ministry of Skill Development Entrepreneurship, Youth Affairs & Sport Department of youth (-)200.00 0.00 0
+Affairs
+Ministry of agriculture department of agriculture Co-operation & Farmers Welfare (-)7,924.55 0.00 0
+Ministry of Social Justice and Empowerment (-)6,682.72 0.00 0
+Ministry of Women and Child Development (-)208.71 0.00 0
+Ministry of Environment, Forest and Climate change (-)429.50 0.00 0
+Urban Ministry (-)12,608.96 0.00 0
+Total : 02 (-)37,447.78 0.00 0
+06 Centrally Sponsored Schemes
+101 Central Assistance/Share 15,68,326.45 13,85,790.41 13.17
+Grants for Implementation of Infrastructure Maintenance a CSS maintenance of State FW bureau
+10,109.33 0.00 0
+Integrated Animal habitat development (pfms code 9186) 0.00 255.44 (-)100.00
+Mission Shakti (Samarthya) 305.01 0.00 0
+Tiger Project (PFMS code 9155) 179.48 345.54 (-)48.06
+Grant for Digitization of Primary Agricultural Cooperative Societies 3,295.00 0.00 0
+Scheme of Providing education of Madarsho, Minorities and Disabled (PFMS Code 9169) 0.00 61.33 (-)100.00
+Flexible Pool for RCH and Health Systems to strengthen National Health Program and Urban
+Health Mission 38,369.00 0.00 0
+Grant for Nirmal Bharat Abhiyan (PFMS Code 9151) 54,000.57 10,611.88 408.87
+National Health Mission including NRHM (PFMS Code 9156) 0.00 51,644.00 (-)100.00
+Indira Gandhi Yojana/Pradhan Mantri Awas Yojana (Rural)(PFMS Code 9180) 4,19,259.18 2,08,679.97 100.91
+Mahatma Gandhi National Rural Employment Guarantee Scheme (MNREGA)(PFMS Code 9178) 1,37,740.37 1,90,000.00 (-)27.51
+Grant for Pradhan Mantri Gram Sadak Yojana(PFMS Code 9179) 1,38,618.00 17,499.75 692.11
+Grant for National Rural Livelihood Mission(PFMS Code 9181) 51,380.46 42,808.32 20.02
+Pre Matric Scholarship(OBC)(PFMS Code 9493) 1,094.50 3,790.50 (-)71.13
+Mission Shakti (Sambal) 660.00 0.00 0
+Grant for Samagra Shiksha (Elementary Education-EE) 1,44,514.54 0.00 0
+Grant for Post-Matric Scholarship (OBC)(PFMS Code 9494) 0.00 10,572.50 (-)100.00
+69

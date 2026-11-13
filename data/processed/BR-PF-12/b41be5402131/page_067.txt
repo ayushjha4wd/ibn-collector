@@ -1,0 +1,15 @@
+RETURNS · JUL 2025 – JUN 2026 · RETURNS
+Key Functionalities on the GST Portal
+◆ GSTR-9/GSTR-9CEnhancements— multiplestructuralupdatestoimproveease,accuracyandreportingcompliance,includingauto-populationofdatafromGSTR-1A,revisedlogic
+forTable8A,updatedtaxpayablelogicinTable9,andECO-relatedchangesinGSTR-9C.
+◆ RevisedInterestCalculationinGSTR-3B— interestonthecashamountlyingintheCashLedgerisnowexemptedfromtheduedatetillthedateofitsdebitatthetimeoffiling.
+◆ Auto-population ofPreviousPeriodLiability— previousperiodtaxliabilityisnowauto-populatedinthe‘BreakupofTaxLiability’tableofGSTR-3B,basedoninvoicedatedeclared
+inGSTR-1/1A/IFF.
+◆ IMSOfflineTool— introductionofanofflinetoolfortheInvoiceManagementSystem(IMS).
+◆ IMSEnhancements— pendingoptionextendedtomoredocumenttypesincludingCreditNotes,alongwitharemarksfacilityandITCreductiondeclarationontheIMSdashboard.
+◆ BillofEntryPopulationfromICEGATE— BillofEntrydetailsfromICEGATEarenowpopulateddirectlyintheInvoiceManagementSystem(IMS).
+◆ Bulk Search for Bill of Entry — a bulk search facility introduced for retrieving Bill of Entry details from ICEGATE.
+◆ Invoice-wise TDS Reporting in GSTR-7 — invoice-wise reporting of TDS and amendments enabled in Tables 3 and 4 of GSTR-7, the return filed by Tax Deductors.
+◆ Three-Year Filing Restriction — taxpayers are now restricted from filing GSTR-1, GSTR-3B, GSTR-9 and GSTR-8 after expiry of three years from the due date.
+◆ GSTR-10 for Expired Casual Taxable Persons — the Final Return GSTR-10 has been enabled for Casual Taxable Persons with an expired registration status.
+RETURNS Goods and Services Tax Network | 67

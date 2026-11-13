@@ -1,0 +1,36 @@
+13. Information on the borrowing from Public Account as on 31.01.2023
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month January on from
+01.01.2023 January 2023 31.01.2023 public
+2023 Account
+as on
+31.01.2023
+8009-State Provident -505.87 89.15 211.36 -628.08 0.00
+Funds
+8011-Insurance and -127.39 0.98 19.27 -145.68 0.00
+Pension Funds
+8115 Depreciation/ 0.00 0.00 0.00 0.00 0.00
+Renewal Reserve Fund
+8121- General and other 1,746.03 0.00 0.00 1,746.03 0.00
+Reserve Funds Funds
+8222-Sinking Funds 0.00 0.00 0.00 0.00 0.00
+8342-Other Deposits 27.34 167.50 241.20 -46.36 0.00
+8443-Civil Deposits 82.53 257.12 330.26 9.39 0.00
+8448-Deposits of Local -5,242.34 3,563.86 1,502.84 -3,181.32 0.00
+Funds
+8449-Other Deposits 0.14 0.00 0.00 0.14 0.00
+8658-Suspense 26,724.65 -14,586.20 2,410.85 9,727.60 0.00
+Accounts
+8670-Cheque and Bills 119.24 13,101.59 12,750.59 470.24 0.00
+8672-Permament cash -2.58 0.00 0.00 -2.58 0.00
+Imperest
+8673-Cash Balance 1,657.84 35,499.03 27,235.79 9,921.08 0.00
+Investment Account
+8679-Accounts with -0.01 0.00 0.00 -0.01 0.00
+Government of other
+countries
+8793-Inter-State -88.91 0.00 9.71 -98.62 0.00
+Suspense Account
+Total 24,390.67 38,093.03 44,711.87 17,771.83 0.00

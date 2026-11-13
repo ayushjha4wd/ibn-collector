@@ -1,0 +1,45 @@
+Chart 18: Level of Registration of Births and Deaths, 2023
+KA
+GJ WB
+PB TN TL HR
+100.0 MH
+SK OR KL AP TR ME
+INDIA RJ MZ
+HP
+GO
+90.0
+CG
+MP
+UK
+s 80.0
+h
+t
+a
+e UP
+D
+f
+o 70.0 AS
+n
+o
+it
+a
+r
+t s ig 60.0 MN JH
+e
+R
+f
+o AR
+le 50.0 BR
+v
+e
+L
+40.0
+NG
+30.0
+60.0 70.0 80.0 90.0 100.0
+Level of Registration of Births
+Andhra Pradesh (AP), Arunachal Pradesh (AR), Assam (AS), Bihar (BR), Chhattisgarh (CG), Goa (GO), Gujarat (GJ),Haryana (HR),
+Himachal Pradesh (HP), Jharkhand (JH), Karnataka (KA), Kerala (KL), Madhya Pradesh (MP), Maharashtra (MH),
+Manipur (MN), Meghalaya (ME), Mizoram (MZ), Nagaland (NG), Odisha (OR), Punjab (PB), Rajasthan (RJ), Sikkim (SK), Tamil Nadu (TN),
+Tripura (TR), Telangana (TL), Uttar Pradesh (UP), Uttarakhand (UK), West Bengal (WB)
+65

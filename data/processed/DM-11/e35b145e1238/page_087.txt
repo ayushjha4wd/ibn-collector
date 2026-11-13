@@ -1,0 +1,49 @@
+Statement 27: Time Gap in Birth Registration – States/Union Territories, 2023
+More than 21 More than 30
+Sl. Within Time
+State/ Union Territory days but within days but within After One Year
+No. Limit
+30 days 1 year
+States
+1. Andhra Pradesh 652636 3253 15077 91127
+2. Arunachal Pradesh 3358 2196 2977 34866
+3. Assam 474572 20965 23476 80726
+4. Bihar 1984627 25741 124964 803487
+5. Chhattisgarh 497312 8723 15051 54381
+6. Goa 16643 479 118 563
+7. Gujarat 1175314 780 152 74
+8. Haryana 575384 4304 1316 17413
+9. Himachal Pradesh 89389 939 975 2932
+10. Jharkhand 598974 7140 47664 320433
+11. Karnataka 691520 52488 190802 81731
+12. Kerala 284298 16375 87199 5359
+13. Madhya Pradesh 1552412 28038 72133 335992
+14. Maharashtra 1571235 69425 111963 52861
+15. Manipur 14437 187 2344 44235
+16. Meghalaya 78008 5474 2006 42004
+17. Mizoram 23980 202 216 2782
+18. Nagaland 1741 1375 3117 59336
+19. Odisha 583295 14175 6362 49449
+20. Punjab 371252 2715 502 31927
+21. Rajasthan 1219479 24097 82247 606251
+22. Sikkim N.A N.A N.A N.A
+23. Tamil Nadu 888787 1986 4866 7079
+24. Telangana 477293 145020 19690 10685
+25. Tripura 50851 351 1157 15936
+26. Uttarakhand 96355 11109 33732 84889
+27. Uttar Pradesh 2998787 176766 394124 1400896
+28. West Bengal 874841 87032 361999 103704
+Union Territories
+1. A & N Islands 3937 4 88 49
+2. Chandigarh 26968 21 58 142
+3. D & N Haveli and Daman & 12824 18 14 92
+4. DDieulh i 285837 7648 38001 31139
+5. Jammu & Kashmir 179253 1744 11233 95965
+6. Ladakh 3288 8 547 10497
+7. Lakshadweep 788 0 8 11
+8. Puducherry 32914 10 31 66
+Note: N.A.- Not Available
+- In respect of Goa and Delhi Delayed Registration is added hence State figures mentioned may not tally with State/UT
+Birth Registration Figures
+- Partial Data in respect of Sikkim have been received and therefore not included.
+68

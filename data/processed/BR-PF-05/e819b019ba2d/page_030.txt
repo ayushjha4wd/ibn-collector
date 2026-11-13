@@ -1,0 +1,49 @@
+STATEMENT 4: STATEMENT OF EXPENDITURE (CONSOLIDATED FUND)
+A. EXPENDITURE BY FUNCTION
+(```` in crore)
+Description Revenue Capital L&A Total
+B.3 Water Supply, Sanitation, Housing and Urban Development
+Water Supply and Sanitation 7,691.58 1,002.63 0.00 8,694.21
+Housing 747.93 677.30 0.00 1,425.23
+Urban Development 8,788.40 0.00 0.00 8,788.40
+B.4 Information and Broadcasting
+Information and Publicity 213.59 0.00 0.00 213.59
+B.5 Welfare of Scheduled Castes, Scheduled Tribes and Other Backward Classes
+Welfare of Scheduled Castes, Scheduled Tribes, Other
+975.10 49.26 0.00 1,024.36
+Backward Classes and Minorities
+B.6 Labour and Labour Welfare
+Labour, Employment and Skill Development 604.42 0.00 0.00 604.42
+B.7 Social Welfare and Nutrition
+Social Security and Welfare 7,472.04 3.00 0.00 7,475.04
+Nutrition 1,997.87 0.00 0.00 1,997.87
+Relief on account of Natural Calamities 2,859.12 0.00 0.00 2,859.12
+B.8 Others
+Other Social Services 46.14 105.47 0.00 151.61
+Secretariat- Social Services 99.46 0.00 0.00 99.46
+Total - Social Services** 83,225.12 7,000.43 1,603.09 91,828.64
+C Economic Services
+C.1 Agriculture and Allied Activities
+Crop Husbandry 1,794.11 (-)32.69 0.00 1,761.42
+Soil and Water Conservation 59.12 0.00 0.00 59.12
+Animal Husbandry 646.92 84.91 0.00 731.83
+Dairy Development 196.26 0.00 0.00 196.26
+Fisheries 341.09 0.00 0.00 341.09
+Forestry and Wild Life 370.32 63.02 0.00 433.34
+Food Storage and Warehousing 437.23 22.52 0.00 459.75
+Agricultural Research and Education 499.66 0.00 0.00 499.66
+Co-operation 659.84 3.36 11.54 674.74
+Other Agricultural Programmes 13.44 0.00 0.00 13.44
+C.2 Rural Development
+Special Programmes for Rural Development 2,596.95 0.00 0.00 2,596.95
+Rural Employment 3,180.26 0.00 0.00 3,180.26
+Land Reforms 4.54 0.00 0.00 4.54
+Other Rural Development Programmes 12,341.41 7,083.98 5.97 19,431.36
+C.3 Irrigation and Flood Control
+Major Irrigation 649.46 2,852.38 0.00 3,501.84
+Medium Irrigation 0.16 0.00 0.00 0.16
+Minor Irrigation 207.77 821.01 0.00 1,028.78
+Command Area Development 19.44 0.00 0.00 19.44
+Flood Control and Drainage 629.32 2,202.41 0.00 2,831.73
+**Revenue Expenditure on Social Services differs with Statement No. 2 & 15 by ₹0.02 crore is due to rounding.
+12

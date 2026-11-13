@@ -1,0 +1,30 @@
+Table 2 A.1
+DDDDaaaatttteeee OOOOffff RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+TTTTaaaabbbblllleeee 2222 AAAA....1111
+1111....1111....1111999988881111 ttttoooo 33331111....11112222....1111999988885555
+PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt
+RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+333355550000----444422225555 333377775555----444488880000 444400000000----555544440000 444422225555----666600005555 444488880000----666688880000
+NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll
+BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc
+PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn
+1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666
+400 18000 400 18000 400 18500 425 20500 480 20500
+425 18000 425 18000 435 18500 435 20500 490 20500
+435 18500 435 18500 480 19700 445 20500 500 20500
+445 18500 490 19700 635 23100 510 20500
+480 19100 500 19700 520 20500
+510 20300 530 20500
+520 20300 540 20500
+530 20300 550 21100
+540 20300 560 21100
+550 20300 570 21100
+560 20900 580 21700
+570 20900 590 21700
+600 22400
+610 22400
+620 22400
+650 23800
+680 24500
+710 25200
+22

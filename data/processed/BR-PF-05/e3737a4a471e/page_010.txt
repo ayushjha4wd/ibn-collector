@@ -1,0 +1,43 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2021-22 2020-21 during the year
+A. Tax Revenue- Contd…
+(d) Taxes on Commodities and Services other than Goods and Services Tax
+0037 Customs
+901 Share of net proceeds assigned to States 6,77,597.00 3,17,993.00 113.09
+Total : 0037 6,77,597.00 3,17,993.00 113.09
+0038 Union Excise Duties
+01 Shareable Duties
+901 Share of net proceeds assigned to States 3,86,886.00 2,01,203.00 92.29
+Total : 01 3,86,886.00 2,01,203.00 92.29
+Total : 0038 3,86,886.00 2,01,203.00 92.29
+0039 State Excise
+101 Country Spirits (-)42.561 (-)345.081 (-)87.67
+105 Foreign Liquors and spirits (-)91.001 (-)108.781 (-)16.34
+106 Commercial and denatured spirits and medicated wines 0.03 0.02 50.00
+107 Medicinal and toilet preparations containing alcohol, opium etc. 1.94 5.00 (-)61.20
+150 Fines and confiscations 0.74 6.39 (-)88.42
+800 Other Receipts 1.59 0.63 152.38
+Total : 0039 (-)129.26 (-)441.82 (-)70.74
+0040 Taxes on Sales, Trade etc.$
+101 Receipts under Central Sales Tax Act 2,119.26 2,310.31 (-)8.27
+102 Receipts under State Sales Tax Act 70.38 1,549.99 (-)95.46
+107 Receipts of Turnover Tax 0.00 0.02 (-)100.00
+111 Value Added Tax (VAT) Receipts 6,84,980.31 5,99,282.07 14.30
+Total : 0040 6,87,169.95 6,03,142.39 13.93
+0041 Taxes on Vehicles
+101 Receipts under the Indian Motor Vehicles Act 72,200.86 64,859.00 11.32
+102 Receipts under the State Motor Vehicles Taxation Acts 1,74,275.58 # 1,58,544.96 9.92
+800 Other Receipts 1,032.88 3,371.33 (-)69.36
+Total : 0041 2,47,509.32 2,26,775.29 9.14
+0042 Taxes on Goods and Passengers
+102 Tolls on Roads 0.00 0.12 (-)100.00
+106 Tax on entry of goods into Local Areas (-)4.69 567.75 (-)100.83
+800 Other Receipts 3.27 0.00 0
+Total : 0042 (-)1.42 567.87 (-)100.25
+1 Negative balance appears due to refunds.
+#Includes `13,228.99 lakh as Road Safety Cess.
+$ Note of error : `721.75 crore pertaining to MH 0040-111 was inadvertently shown under MH 0040-101 in Finance Accounts 2018-19.
+54

@@ -1,0 +1,49 @@
+13. Information on the borrowing from Public Account as on 31.03.2022
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month March on from
+01.03.2022 March 2022 31.03.2022 public
+2022 Account
+as on
+31.03.2022
+8009-State Provident 9,800.56 0.00 0.00 9,800.56 0.00
+Funds
+8011-Insurance and -278.91 0.00 0.00 -278.91 0.00
+Pension Funds
+8115- 0.00 0.00 0.00 0.00 0.00
+Depreciation/Renewal
+Reserve Fund
+8121-General and Other 1,041.49 378.00 378.00 1,041.49 0.00
+Reserve Funds
+8336-Civil Deposits -0.55 0.00 0.00 -0.55 0.00
+8342-Other Deposits 217.67 0.00 0.00 217.67 0.00
+8443-Civil Deposits 11,169.00 0.00 0.00 11,169.00 0.00
+8448-Deposits of Local 26,561.64 0.00 0.00 26,561.64 0.00
+Funds
+8449-Other Deposits 86.04 0.00 0.00 86.04 0.00
+8550-Civil Advances 249.96 0.00 0.00 249.96 0.00
+8658-Suspense 13,561.88 -2,190.81 -136.66 15,616.04 0.00
+Accounts
+8670-Cheque and Bills 207.48 0.00 0.00 207.48 0.00
+8671-Departmental 234.65 0.00 0.00 234.65 0.00
+Balanaces
+8672-Permanent Cash 762.39 0.00 0.00 762.39 0.00
+Imperest
+8673-Cash Balance 22,070.26 0.00 0.00 22,070.26 0.00
+Investment Account
+8679-Accounts with 0.56 0.00 0.00 0.56 0.00
+Government of other
+countries
+8782-Cash Remittances 1,123.08 0.00 0.00 1,123.08 0.00
+and adjustments
+between officers
+rendering accounts to
+the same accounts
+officer
+8786-Adjusting Account 0.82 0.00 0.00 0.82 0.00
+between Central and
+State Governments
+8793-Inter-State 57.48 0.00 -55.42 2.06 0.00
+Suspense Account
+Total 10,743.34 -1812.81 185.92 8744.61 0.00

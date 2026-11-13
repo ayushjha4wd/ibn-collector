@@ -1,0 +1,19 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/statewise_GST_collection_2021-22.xlsx",
+  "raw_sha256": "9e68d4cfb86721a9c363759b641c4e01beb5ce07a29c9df848de09e3bfff7b87",
+  "source_id": "BR-PF-12",
+  "source_url": "https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2021-22.xlsx",
+  "parent_url": "https://www.gst.gov.in/download/gststatistics",
+  "retrieved_at_utc": "2026-11-13T07:03:01+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-12/9e68d4cfb867/sheets/GST_Revenue-All_India.csv",
+    "data/processed/BR-PF-12/9e68d4cfb867/sheets/Collections-Statewise.csv",
+    "data/processed/BR-PF-12/9e68d4cfb867/sheets/Refund-Statewise.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

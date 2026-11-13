@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+MAHARASHTRA
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 112374 118727 124437 129308 133451 136764
+Male 58243 61649 64702 67292 69484 71208
+Female 54131 57078 59735 62016 63967 65556
+Sex Ratio 929 926 923 922 921 921
+Population Density (Sq. Km.) 365 386 404 420 434 444
+Population by broad age-group
+(000')
+18 years and above 75874 83993 91435 98127 103928 108680
+0-14 30026 28375 26938 25337 24158 22847
+15-59 71167 77625 82950 87010 89318 90544
+60+ 11181 12726 14548 16962 19974 23373
+Proportion (percent)
+0-14 26.7 23.9 21.6 19.6 18.1 16.7
+15-59 63.3 65.4 66.7 67.3 66.9 66.2
+15-49 (female population) 54.9 55.9 55.9 55.4 53.8 51.8
+60+ 10.0 10.7 11.7 13.1 15.0 17.1
+Median age (years) 27.27 29.23 31.29 33.43 35.58 37.69
+Dependency Ratio
+Young (0-14) 422 366 325 291 270 252
+Old (60+) 157 164 175 195 224 258
+Total (Young and old) 579 530 500 486 494 510
+TABLE-17A
+Demographic Indicators : 2011-2035
+MAHARASHTRA
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 11.0 9.4 7.7 6.3 4.9
+Crude Birth Rate (CBR) 15.2 13.9 12.4 11.4 10.4
+Crude Death Rate (CDR) 6.6 7.0 7.2 7.6 8.0
+Infant Mortality Rate (IMR) 25 23 21 19 18
+Under-5 mortality rate (q ) 27 25 23 21 19
+5
+Total Fertility Rate (TFR) 1.77 1.67 1.56 1.52 1.51
+Life expectancy of males 70.30 71.10 71.90 72.70 73.20
+Life expectancy of females 73.90 74.90 75.90 76.70 77.50
+229

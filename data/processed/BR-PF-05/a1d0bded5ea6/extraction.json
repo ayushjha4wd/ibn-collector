@@ -1,0 +1,15 @@
+{
+  "raw_path": "data/raw/BR-PF-05/2026-11-13/state-accounts-report.html",
+  "raw_sha256": "a1d0bded5ea6652dd267ff2a23ac34acdbdc5337312302156d3b1ebfb78849cf",
+  "source_id": "BR-PF-05",
+  "source_url": "https://cag.gov.in/ae/bihar/en/state-accounts-report?defuat_account_report_type=359",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T07:13:19+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

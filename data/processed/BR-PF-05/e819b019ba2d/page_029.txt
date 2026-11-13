@@ -1,0 +1,56 @@
+STATEMENT 4: STATEMENT OF EXPENDITURE (CONSOLIDATED FUND)
+A. EXPENDITURE BY FUNCTION
+(```` in crore)
+Description Revenue Capital L&A Total
+A General Services
+A.1 Organs of State
+Parliament/State/Union Territory Legislatures 227.58 0.00 0.00 227.58
+President, Vice President/Governor/Administrator
+49.34 0.00 0.00 49.34
+of Union Territories
+Council of Ministers 32.22 0.00 0.00 32.22
+Administration of Justice 1,431.01 0.00 0.00 1,431.01
+Elections 400.88 0.00 0.00 400.88
+A.2 Fiscal Services
+Land Revenue 1,124.98 0.00 0.00 1,124.98
+Stamps and Registration 101.72 0.00 0.00 101.72
+State Excise 324.74 0.00 0.00 324.74
+Taxes on Sales, Trade etc. 0.78 0.00 0.00 0.78
+Taxes on Vehicles 157.50 0.00 0.00 157.50
+Collection Charges under State Gooods and Services Tax 167.14 0.00 0.00 167.14
+Other Taxes and Duties on Commodities and Services 1.19 0.00 0.00 1.19
+Other Fiscal Services 3.01 23.95 0.00 26.96
+Appropriation for reduction or avoidance of Debt 1,466.57 0.00 0.00 1,466.57
+Interest Payments 17,605.80 0.00 0.00 17,605.80
+A.3 Administrative Services
+Public Service Commission 234.07 0.00 0.00 234.07
+Secretariat-General Services 415.04 0.00 0.00 415.04
+District Administration 605.86 0.00 0.00 605.86
+Treasury and Accounts Administration 105.00 0.00 0.00 105.00
+Police 10,817.90 923.76 0.00 11,741.66
+Jails 501.69 0.00 0.00 501.69
+Stationery and Printing 10.83 3.51 0.00 14.34
+Public Works 1,037.85 3,270.68 0.00 4,308.53
+Other Administrative Services 1,315.27 1,442.51 0.00 2,757.78
+A.4 Pensions and Misc. General Services
+Pensions and Other Retirement Benefits$ 24,290.92 0.00 0.00 24,290.92
+Miscellaneous General Services (-)3,211.09 1 0.00 0.00 (-)3,211.09
+Total - General Services* 59,217.80 5,664.41 * 0.00 64,882.21
+B Social Services
+B.1 Education, Sports, Art and Culture
+General Education# 40,192.85 2,987.77 1,603.09 44,783.71
+Technical Education 504.07 0.00 0.00 504.07
+Sports and Youth Services 100.67 0.00 0.00 100.67
+Art and Culture 92.38 0.00 0.00 92.38
+B.2 Health and Family Welfare
+Medical and Public Health 9,846.24 2,175.00 0.00 12,021.24
+Family Welfare 993.26 0.00 0.00 993.26
+$ Depicts Net expenditure. Recovery of overpayments of ₹29.66 crore is excluded.
+1
+Negative figure is due to recoveries of Overpayments.
+*RevenueExpenditureandCapitalExpenditureonGeneralServicesdifferwithStatementNo.2by₹0.02croreand₹0.01crorerespectivelyisdueto
+rounding.
+# TherearedistinctRevenueExpenditureMajorHeadsforGeneralEducation,TechnicalEducation,Sports&Youth Servicesand Art&Culture.But
+thereisasingleCapitalOutlayMajorHeadfortheabovementionedRevenueExpenditureMajorHeads.Hence,totalfigureisshownunderasingle
+Capital Major Head (4202) for all these functions.
+11

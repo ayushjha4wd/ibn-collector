@@ -1,0 +1,47 @@
+Guide to the Finance Accounts
+A. Broad overview of the structure of Government Accounts
+1. The Finance Accounts of the State of Bihar present the accounts of receipts and outgoings of
+the Government for the year, together with the financial results disclosed by the Revenue and Capital
+accounts, the accounts of the Public Debt and the liabilities and assets of the State Government as
+worked out from the balances recorded in the accounts. The Finance Accounts is accompanied by
+Appropriation Accounts, which present comparison of expenditure against the Grants/Appropriations.
+2. The Accounts of the Government are kept in three parts:
+Part I: The Consolidated Fund: This Fund comprises all revenues received by the State
+Government, all loans raised by the State Government (market loans, bonds, loans from the Central
+Government, loans from Financial Institutions, Special Securities issued to National Small Savings
+Fund, etc.), Ways and Means advances extended by the Reserve Bank of India and all moneys
+received by the State Government in repayment of loans. No moneys can be appropriated from this
+Fund except in accordance with law and for the purposes and in the manner provided by the
+Constitution of India. Certain categories of expenditure (e.g., salaries of Constitutional authorities,
+loan repayments etc.), constitute a charge on the Consolidated Fund of the State (Charged
+expenditure) and are not subject to vote by the Legislature. All other expenditure (Voted expenditure)
+is voted by the Legislature.
+The Consolidated Fund comprises two sections: Revenue and Capital (including Public Debt,
+Loans and Advances). These are further categorised under ‘Receipts’ and ‘Expenditure’. The
+Revenue Receipts section is divided into three sectors, viz., ‘Tax Revenue’, ‘Non Tax Revenue’ and
+‘Grants-in-aid and Contributions’. These three sectors are further divided into sub-sectors like ‘Taxes
+on Income and Expenditure’, ‘Fiscal Services’, etc. The Capital Receipts section does not contain any
+sectors or sub-sectors. The Revenue Expenditure section is divided into four sectors, viz., ‘General
+Services’, ‘Social Services’, ‘Economic Services’ and ‘Grants-in-aid and Contributions’. These
+sectors in the Revenue Expenditure section are further divided into sub-sectors like, ‘Organs of
+State’, ‘Education, Sports, Art and Culture’ etc. The Capital Expenditure section is sub-divided into
+seven sectors, viz., ‘General Services’, ‘Social Services’, ‘Economic Services’, ‘Public Debt’, ‘Loans
+and Advances’, ‘Inter-State Settlement’ and ‘Transfer to Contingency Fund’.
+Part II: The Contingency Fund: This Fund is in the nature of an imprest which is established by the
+State Legislature by law, and is placed at the disposal of the Governor to enable advances to be made
+for meeting unforeseen expenditure pending authorisation of such expenditure by the State
+Legislature. The fund is recouped by debiting the expenditure to the concerned functional Major
+Head relating to the Consolidated Fund of the State. The Contingency Fund of the Government of
+Bihar for 2023-24 is `350 crore.
+Part III: The Public Account: All other public moneys received by or on behalf of the Government,
+where the Government acts as a banker or trustee, are credited to the Public Account. The Public
+Account includes repayables like Small Savings and Provident Funds, Deposits (bearing interest and
+not bearing interest), Advances, Reserve Funds (bearing interest and not bearing interest),
+Remittances and Suspense heads (both of which are transitory heads, pending final booking). The net
+cash balance available with the Government is also included under the Public Account. The Public
+Account comprises six sectors, viz., ‘Small Savings, Provident Funds etc.’, ‘Reserve Funds’, ‘Deposit
+and Advances’, ‘Suspense and Miscellaneous’, ‘Remittances’, and ‘Cash Balance’. These sectors are
+further sub-divided into sub-sectors. The Public Account is not subject to the vote of the Legislature.
+3. Government accounts are presented under a six tier classification, viz., Major Heads (four
+digits), Sub-Major Heads (two digits), Minor Heads (three digits), Sub-Heads (four digits), Detailed
+ix

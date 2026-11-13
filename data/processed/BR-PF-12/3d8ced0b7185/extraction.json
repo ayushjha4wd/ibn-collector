@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/gststatistics.html",
+  "raw_sha256": "3d8ced0b71857bdab41a5ed57273c5b2655bb0cdb95fce53597167a90863917d",
+  "source_id": "BR-PF-12",
+  "source_url": "https://www.gst.gov.in/download/gststatistics",
+  "parent_url": null,
+  "retrieved_at_utc": "2026-11-13T06:51:56+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [
+    "data/processed/BR-PF-12/3d8ced0b7185/tables/table_1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

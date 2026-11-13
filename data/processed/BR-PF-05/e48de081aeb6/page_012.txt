@@ -1,0 +1,32 @@
+Annexure C: Table 1 &2 (See Chapter 5, Para 7 III)
+Table 1 A.1
+DDDDaaaatttteeee OOOOffff RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+TTTTaaaabbbblllleeee 1111 AAAA....1111
+1111....1111....1111999988881111 ttttoooo 33331111....11112222....1111999988885555
+PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt
+RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+333355550000----444422225555 333377775555----444488880000 444400000000----555544440000 444422225555----666600005555 444488880000----666688880000
+NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll
+BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc
+BBBBaaaassssiiiicccc PPPPAAAAYYYY
+PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn
+1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666
+350 18000 375 18000 407 18500 455 20500 630 23100
+355 18000 380 18000 414 18500 465 20500 640 23100
+360 18000 385 18000 421 18500 475 20500 660 23800
+365 18000 390 18000 428 18500 485 20500 670 23800
+370 18000 395 18000 442 18500 495 20500 690 25200
+375 18000 405 18000 449 18500 505 20500 700 25200
+380 18000 410 18000 456 19100 515 20500
+385 18000 415 18000 463 19100 525 20500
+390 18000 420 18000 470 19100 535 20500
+395 18000 430 18500 545 21100
+405 18000 440 18500 555 21100
+410 18000 452 18500 565 21100
+415 18000 459 19100 575 21100
+420 18000 466 19100 585 21700
+430 18500 473 19100 595 21700
+440 18500 487 19700 605 22400
+494 19700 615 22400
+501 19700 625 23100
+8

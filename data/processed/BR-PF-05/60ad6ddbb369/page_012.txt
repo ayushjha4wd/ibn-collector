@@ -1,0 +1,45 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+B. Non-Tax Revenue- Contd…
+(b) Interest Receipts, Dividends and Profits-Concld.
+0050 Dividends and Profits
+101 Dividends from Public Undertakings 787.53 1.28 61425.78
+200 Dividends from other investments 163.81 147.54 11.03
+800 Other Receipts 0.04 0.00 0
+Total : 0050 951.38 148.82 539.28
+Total : (b) 90,651.71 64,352.07 40.87
+(c) Other Non-Tax Revenue
+(i) General Services
+0051 Public Service Commission
+104 Union Public Service Commission/Staff Selection Commission Examination Fees 0.00 3,589.02 (-)100.00
+105 State PSC Examination Fees 30,733.27 3,194.27 862.14
+Total : 0051 30,733.27 6,783.29 353.07
+0055 Police
+101 Police supplied to other Governments 425.71 334.12 27.41
+102 Police supplied to other parties 855.58 866.62 (-)1.27
+103 Fees, Fines and Forfeitures 9,197.79 2,682.49 242.88
+104 Receipts under Arms Act 363.14 621.01 (-)41.52
+105 Receipts of State-Head-quarters Police 0.00 0.39 (-)100.00
+800 Other Receipts 10,880.40 390.94 2683.14
+900 Deduct-Refunds (-)12.40 0.00 0
+Total : 0055 21,710.22 4,895.57 343.47
+0056 Jails
+102 Sale of Jail Manufactures 470.54 1,645.19 (-)71.40
+800 Other Receipts 1.33 3.84 (-)65.36
+900 Deduct-Refunds 0.00 (-)0.40 (-)100.00
+Total : 0056 471.87 1,648.63 (-)71.38
+0058 Stationery and Printing
+101 Stationery receipts 0.04 0.04 0
+200 Other Press receipts 144.21 15.64 822.06
+Total : 0058 144.25 15.68 819.96
+0059 Public Works
+01 Office Buildings
+011 Rents 3.52 3.21 9.66
+501 Services and Service Fees 1,132.90 318.75 255.42
+800 Other Receipts 1.38 1.55 (-)10.97
+Total : 01 1,137.80 323.51 251.70
+62

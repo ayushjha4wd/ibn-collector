@@ -1,0 +1,29 @@
+ANNEXURE TO STATEMENT 21
+Analysis of Suspense Balances and Remittance Balances
+( ```` in lakh )
+Balance as on
+Earliest year Impact of outstanding on
+Sl. Head of Account & Ministry/ Department with 31 March 2022
+Nature of transaction in brief from which
+No. which pending
+Dr Cr pending# Cash balance Accounts
+1 8658 Suspense Accounts
+101 Pay and Accounts Office- Suspense 36,508.00 Nil
+(i) Ministry of Transport and Highway 8,783.91 Nil Expenditure incurred on National Highway in Decrease
+Bihar
+(ii) Department of Economic Affairs, Ministry of 27,724.09 Nil Claims with CPAO, New Delhi Decrease
+Finance, New Delhi
+102 Suspense Account (Civil) 16,19,557.35 1,40,966.43
+(i) OB Suspense 14,68,525.79 13,809.83 Non availability of Vouchers No impact
+(ii) Treasury Suspense 11,485.27 3,224.14 Difference between LOP & SOP No impact
+(iii) Other Circles 1,39,546.29 1,23,932.46 Payment made on behalf of Railway, Defence Increase
+and P&T
+107 Cash Settlement Suspense Account Nil 3,229.41 No impact
+109 Reserve Bank Suspense-Headquarters 32,440.77 6,268.29 Inward accounts received from PAOs. Decrease
+110 Reserve Bank Suspense-Central Accounts Office 1,24,960.58 89,462.28 Transactions with RBI (CAS) Nagpur Decrease
+111 Departmental Adjusting Account 13,074.34 2,632.93 Transaction related with Service Heads No impact
+112 Tax Deducted at Source(TDS) Suspense 0.00 28,444.21 Income Tax credits received from Treasuries Decrease
+and Divisions to be settled with ZAO/CBDT
+123 A.I.S. Officers' Group Insurance Scheme 0.00 559.59 Group Insurance Subscription of A.I.S. Decrease
+Officers' of Bihar Cadre
+314

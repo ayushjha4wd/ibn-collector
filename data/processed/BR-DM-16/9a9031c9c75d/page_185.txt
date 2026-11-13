@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+HARYANA
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 25351 27455 29483 31299 32946 34469
+Male 13495 14585 15623 16529 17330 18061
+Female 11857 12870 13860 14770 15616 16408
+Sex Ratio 879 882 887 894 901 908
+Population Density (Sq. Km.) 573 621 667 708 745 780
+Population by broad age-group
+(000')
+18 years and above 16213 18434 20581 22552 24425 26269
+0-14 7539 7416 7362 7253 6968 6676
+15-59 15637 17530 19232 20640 21915 22970
+60+ 2175 2509 2890 3406 4063 4823
+Proportion (percent)
+0-14 29.7 27.0 25.0 23.2 21.2 19.4
+15-59 61.7 63.9 65.2 65.9 66.5 66.6
+15-49 (female population) 54.7 55.9 56.0 55.4 54.8 53.8
+60+ 8.6 9.1 9.8 10.9 12.3 14.0
+Median age (years) 24.94 26.69 28.52 30.52 32.55 34.49
+Dependency Ratio
+Young (0-14) 482 423 383 351 318 291
+Old (60+) 139 143 150 165 185 210
+Total (Young and old) 621 566 533 516 503 501
+TABLE-17A
+Demographic Indicators : 2011-2035
+HARYANA
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 15.9 14.3 12.0 10.3 9.0
+Crude Birth Rate (CBR) 19.2 17.4 15.1 13.6 12.6
+Crude Death Rate (CDR) 6.9 6.8 6.8 7.0 7.3
+Infant Mortality Rate (IMR) 42 38 35 32 29
+Under-5 mortality rate (q ) 52 47 43 40 37
+5
+Total Fertility Rate (TFR) 2.26 2.06 1.86 1.76 1.72
+Life expectancy of males 66.87 68.37 69.37 70.37 71.17
+Life expectancy of females 71.89 73.09 74.09 75.09 75.89
+181

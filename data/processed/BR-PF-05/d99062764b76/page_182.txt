@@ -1,0 +1,37 @@
+STATEMENT 17: DETAILED STATEMENT OF BORROWINGS AND OTHER LIABILITIES
+(a) Statement of Public Debt and Other Obligations
+( ```` in lakh )
+Discharge Net Increase(+) /
+Balance as on Addition Balance as on
+Description of debt during the Decrease(-) Interest paid
+1 April 2022 during the year 31 March 2023
+year In ```` Per cent
+E. Public Debt-Concld.
+6004 Loans and Advances from the Central Government-Concld.
+03 Loans for Central Plan Schemes
+800 Other Loans 100.69 0.00 0.00 100.69 0.00 0 0.00
+Total : 03 100.69 0.00 0.00 100.69 0.00 0 0.00
+04 Loans for Centrally Sponsored Plan Schemes 0.00
+800 Other Loans 53.14 0.00 0.00 53.14 0.00 0 0.00
+Total : 04 53.14 0.00 0.00 53.14 0.00 0 0.00
+06 Ways and Means Advances 0.00
+101 Ways and Means Advances for Plan Schemes 4,295.83 0.00 0.00 4,295.83 0.00 0 0.00
+Total :06 4,295.83 0.00 0.00 4,295.83 0.00 0 0.00
+07 Pre-1984-85 Loans 0.00
+102 National Loans Scholarship Scheme 364.37 0.00 0.00 364.37 0.00 0 0.00
+109 Rehabilitation of Gold Smiths 17.30 0.00 0.00 17.30 0.00 0 0.00
+800 Other Loans 9.36 0.00 0.00 9.36 0.00 0 0.00
+Total : 07 391.03 0.00 0.00 391.03 0.00 0 0.00
+08 Centrally Sponsored Scheme
+201 House Building Advances (-)83.17 0.00 7.75 (-)90.92 (-)7.75 9.32 1.55
+800 Other Loans 3,724.97 0.00 324.35 3,400.62 (-)324.35 (-)8.71 209.10
+Total : 08 3,641.80 0.00 332.10 3,309.70 (-)332.10 (-)9.12 210.65
+09 Other Loans for States/Union Territory with Legislature Schemes
+101 Block Loans* 12,20,126.00 1,69,869.22 1,07,661.94 12,82,333.28 62,207.28 5.10 3,388.59
+106 Special Assistance 12,81,013.00 8,45,585.01 0.00 21,26,598.01 8,45,585.01 66.01 22,727.36
+800 Consolidated Loans 76,986.88 0.00 38,493.45 38,493.43 (-)38,493.45 (-)50.00 11,495.00
+Total : 09 25,78,125.88 10,15,454.23 1,46,155.39 34,47,424.72 8,69,298.84 33.72 37,610.95
+Total : 6004 26,05,795.70 10,15,454.23 1,46,487.49 34,74,762.44 8,68,966.74 33.35 37,821.60
+Total : E. Public Debt 2,08,91,327.46 48,28,352.82 14,35,107.48 2,42,84,572.80 33,93,245.34 16.24 15,50,536.66
+*Includes `1,62,709.37 lakh as Externally Adided Project.
+228

@@ -1,0 +1,46 @@
+CHAPTER 2
+POPULATION PROJECTIONS FOR INDIA
+The Component Method is the universally accepted method of making population projections because
+of the fact that the growth of population is determined by fertility, mortality and migration rates. In this
+exercise, 21 States and one UT have been applied the component method. These are Andhra Pradesh, Assam,
+Bihar, Gujarat, Haryana, Himachal Pradesh, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Odisha,
+Punjab, Rajasthan, Tamil Nadu, Telangana, Uttar Pradesh, West Bengal, Jharkhand, Chhattisgarh,
+Uttarakhand, Jammu & Kashmir (UT) and NCT of Delhi. Based on the residual of the projected population of
+Jammu & Kashmir (State) and Jammu & Kashmir (UT), for which Component method has applied, projection
+of the Ladakh UT have been made. For the projections of Jammu & Kashmir (UT), SRS fertility and mortality
+estimates of Jammu & Kashmir (State) are used. The projection of the seven north-eastern states (excluding
+Assam) has also been carried out as a whole using the Component Method. Separate projections for Andhra
+Pradesh and Telangana were done using the re-casted populations of these states. For the projections, for the
+years before 2014, combined SRS estimates of Andhra Pradesh and year 2014 onwards, separate SRS estimates
+of fertility and mortality of Andhra Pradesh and Telangana are used. For the remaining States and Union
+territories, Mathematical Method has been applied. The sources of data used are 2011 Census and Sample
+Registration System (SRS). SRS provides time series data of fertility and mortality, which has been used for
+predicting their future levels.
+Base level population
+It is well known that the age-sex data, whatever may be the source, would be subject to errors to some
+degree. In many cases, the erroneous reporting of age is attributable to ignorance of respondents. Accordingly,
+there has been a need to smoothen age-sex distribution. The various indices, which measure the accuracy of
+age-sex data, are the sex ratio score, the age ratio score, Whipple’s index and Myers’ index etc. A number of
+methods are available for smoothing of the data pertaining to the age-sex distribution. A summary of the
+indices of the different smoothing procedures for all India on the basis of the Census 2011 age-sex data is given
+below in Statement I.
+STATEMENT 1
+SUMMARY OF INDICES MEASURING THE ACCURACY OF DATA-CENSUS 2011
+Smoothed
+Index Reported Carrier K.-King Arriaga United Strong
+Farrag Newton Nations TGPP
+Sex ratio score 3.84 2.52 2.57 2.54 2.76 1.19 2.28
+Male age ratio score 4.07 3.10 2.84 2.61 2.02 0.58 1.50
+Female age ratio score 5.40 2.83 2.47 2.41 1.94 0.87 1.41
+Accuracy index 21.00 13.49 13.02 12.66 12.25 5.01 9.75
+Note: The accuracy index is the sum of the male and female age ratio scores plus three times the sex ratio
+score, all calculated using data for ages 10-14 through 65-69.
+Although Strong method of smoothing gave the lowest values of sex and age ratio scores, the
+Technical Group recommended the following method for age smoothing. The methodology is described
+below.
+If W1, W2, W3,……., Wn are respectively the n quinquennial age groups, 0-4,5-9,10-14 and so on upto
+75+, then
+S (W2) = 0.25* O (W1) +0.50* O (W2) +0.25*O (W3)
+Where S is the smoothed population and O is the observed population
+Similarly, S (W3) = 0.25* O (W2) + 0.50* O (W3) + 0.25* O (W4)
+16

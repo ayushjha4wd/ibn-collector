@@ -1,0 +1,36 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2021-22 2020-21 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(ii) Social Services- Contd…
+0210 Medical and Public Health- Concld.
+80 General
+800 Other Receipts 1,132.40 1,831.92 (-)38.19
+Total : 80 1,132.40 1,831.92 (-)38.19
+Total : 0210 4,068.51 4,179.93 (-)2.67
+0215 Water Supply and Sanitation
+01 Water Supply
+102 Receipts from Rural Water Supply Schemes 58.69 2.14 2642.52
+103 Receipts from Urban Water Supply Schemes 0.00 0.03 (-)100.00
+104 Fees, Fines etc. 180.93 292.34 (-)38.11
+501 Services and Service Fees 0.25 281.77 (-)99.91
+800 Other Receipts 246.68 382.20 (-)35.46
+Total : 01 486.55 958.48 (-)49.24
+Total : 0215 486.55 958.48 (-)49.24
+0216 Housing
+01 Government Residential Buildings
+106 General Pool accommodation 465.01 424.38 9.57
+107 Police Housing 0.01 0.00 0
+700 Other Housing 3.48 0.95 266.32
+Total : 01 468.50 425.33 10.15
+02 Urban Housing
+800 Other Receipts 1.88 0.44 327.27
+Total : 02 1.88 0.44 327.27
+80 General
+800 Other Receipts 3.94 3.63 8.54
+Total : 80 3.94 3.63 8.54
+Total : 0216 474.32 429.40 10.46
+60

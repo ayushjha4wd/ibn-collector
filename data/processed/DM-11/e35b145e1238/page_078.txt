@@ -1,0 +1,52 @@
+Level of Registration (LOR)
+3.17.1 The level of registration, defined as the percentage of registered births/deaths to the
+births/deaths estimated through SRS, determines the performance of a State / Union Territory in
+registration of births and deaths. In the absence of reliable estimates of number of births and deaths on
+a year to year basis from any other source, the estimated number of events as revealed from SRS is used
+to calculate the level of registration. The level of registration so calculated is very high for some of the
+smaller States/Union Territories either due to the lower estimates of vital events than the actual and
+due to the fact that SRS estimates of vital events are based on the place of usual residence while events
+are registered at the place of occurrence irrespective of the place of residence.
+3.17.2 Under this section, level of registration of Births & Deaths is based on revised mid-year
+population projections based on census 2011. The levels of registration of births and deaths for India
+and States/UTs for the period 2011 to 2019 and 2023 are shown in Statements 23 and 24 respectively.
+The level of registration of births has increased to 98.4% in 2023 from 92.7% in 2019 i.e. in last 5 years
+an increase of about 5.7%. Similarly, the level of registration of deaths has also increased to 97.2% in
+2023 from 92.0% in 2019, showing an increase of 5.2% over the last 5 years. Chart 16 depicts the trend
+in level of registration of births and deaths over the years. Due to continuous efforts of the States and
+UTs the gap between Levels of Birth and Death Registration is narrowing down with a difference of
+1.2% observed in 2023.
+Chart 16: Level of Registration of Births and Deaths over the years
+98.4
+100
+)% 95 92.7
+N
+97.2
+I(
+N 90 86.9 92.0
+O
+IT 85 82.4
+A
+R
+T
+S 80
+IG
+E
+R
+F
+75
+O
+L E 70
+75.3
+V
+E
+L 65
+66.4
+60
+LOR(Birth) LOR(Death)
+55
+50
+45
+2011 2015 2019 2023
+YEAR
+59

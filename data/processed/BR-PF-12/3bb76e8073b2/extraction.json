@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/Settlement-of-IGST-to-State-2024-2025.xlsx",
+  "raw_sha256": "3bb76e8073b26d56fc1d5ac98922024f75b0e125caff6a5547d2fafc3357f403",
+  "source_id": "BR-PF-12",
+  "source_url": "https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2024-2025.xlsx",
+  "parent_url": "https://www.gst.gov.in/download/gststatistics",
+  "retrieved_at_utc": "2026-11-13T07:03:37+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-12/3bb76e8073b2/sheets/Settlement_2024-25.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

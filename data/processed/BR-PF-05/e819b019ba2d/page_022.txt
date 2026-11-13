@@ -1,0 +1,46 @@
+STATEMENT 2: STATEMENT OF RECEIPTS AND DISBURSEMENTS
+(```` in crore )
+Receipts Disbursements
+2023-24 2022-23 2023-24 2022-23
+Part- I Consolidated Fund
+Section-A: Revenue
+Revenue Receipts# 1,93,347.23 1,72,688.02 Revenue Expenditure 1,90,514.17 1,83,976.22
+(Ref. Statement 3 & 14) (Ref. Statement 4-A, 4-B & 15)
+Tax revenue 48,360.69 44,017.73 Salaries1 28,385.60 24,816.02
+(raised by the State)# (Ref. Statement 4-B & Appendix-I)
+(Ref. Statement 3 & 14)
+Non-Tax revenue@ 5,257.05 4,134.90 Grants-in-aid2 77,600.47 79,940.88
+(Ref. Statement 3 & 14) (Ref. Statement 4-B, 10 & Appendix-III)
+Subsidies 16,244.61 14,827.79
+(Ref. Appendix-II)
+Interest receipts 897.00 642.03 General services* 46,145.74 44,305.03
+(Ref. Statement 3 & 14) (Ref. Statement 4 & 15)
+Others 4,360.05 3,492.87 Pension$$ 24,290.92 23,107.87
+(Ref. Statement 3) (Ref. Statement 4-A, 4-B & 15)
+Interest Payment** 19,072.37 16,471.54
+and Debt Service
+(Ref. Statement 4-A, 4-B & 15)
+Others 2,782.45 4,725.62
+(Ref. Statement 4-B)
+Share of Union Taxes/ Duties 1,13,604.49 95,509.85 Social services* 14,347.82 13,555.91
+(Ref. Statement 3 & 14) (Ref. Statement 4- A & 15)
+Economic services 7,790.06 6,530.48
+(Ref. Statement 4- A & 15)
+Grants from Central 26,125.00 29,025.54 Compensation and assignment to (-)0.13 0.11
+Government Local Bodies and Panchayati Raj
+(Ref. Statement 3 & 14) Institutions (PRIs)3
+(Ref. Statement 4- A & 15)
+Revenue Deficit 0.00 11,288.20 Revenue Surplus 2,833.06 0.00
+1Salary,SubsidyandGrants-in-aidfigureshavebeensummedupacrossallsectors(GeneralSector-₹13,072.08crore,SocialSector-₹68,877.28croreandEconomic
+Sector- ₹40,281.32crore)topresentaconsolidatedfigure.Theexpenditureinthisstatementunderthesectors'General','Social' and'EconomicServices'doesnot
+include expenditure on Salaries, Subsidies and Grants-in-aid (explained in footnote 2).
+2Grants-in-aidaregiventostatutorycorporations,companies,autonomousbodies,localbodiesetc.bytheStateGovernmentwhichareincludedas alineitemabove.
+These grants are distinct from compensation and assignment of taxes, duties to the Local Bodies which is depicted as a separate line item 'Compensation and
+Assignment to Local Bodies and PRIs'.
+3 Corresponds to the bookings under MH 3604.
+#Differs with Statement No. 3 by ₹0.01 crore is due to rounding.
+.@Differs with Statement No. 3 by ₹0.02 crore is due to rounding.
+*Expenditure on Genereal Services and Social Services differs by ₹0.02 crore with Statement No. 4 is due to rounding.
+$$Depicts Net expenditure. Excludes ₹29.66 crore being Recovery of Overpayments.
+**lncludes ₹1,466.57 crore being expenditure on Appropriation for reduction or avoidance of debt under MH-2048.
+4

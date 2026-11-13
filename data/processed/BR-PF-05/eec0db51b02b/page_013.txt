@@ -1,0 +1,38 @@
+was added to the OB Suspense Accounts, while ₹ 2,063.14 crore was cleared from the OB
+Suspense Accounts pertaining to previous years. There is no assurance that the amount of
+₹ 321.42 crore has actually been spent, during the financial year, for the purpose for which it
+was sanctioned/ authorised by the Legislature. As such, there is an understatement of
+expenditure to that extent in the year 2021-22. The progressive balance under the head 8658-
+102-Suspense Account (Civil) stood at ₹ 14,785.91 crore at the end of March 2022.
+(Note 3(xix) and Statement 21 of Finance Accounts)
+8. The Budget Speech (2020-21) of the Government of Bihar, as also the Finance Department’s
+order of 01.04.2019, stated that the Comprehensive Financial Management System (CFMS) had
+been implemented with effect from 01.04.2019.
+The office of the Accountant General (Audit), Bihar, has been in regular touch with the
+Government of Bihar for taking up the Information Technology Audit of CFMS. The Finance
+Department had, however, responded that CFMS was still under development, which was
+contrary to the Department’s own orders.
+The State Government had also found several serious issues with the system like duplicate pay
+bills, twice payments of salary, difference in the transaction Digital Signature, dates and
+approval dates being corrected from back-end, incorrect handling of Debit Notifications and
+Return Notifications resulting in accounts mismatch and subsequent correction being made from
+back-end, database changes being made without any approval, updation/deletion of data without
+consent of the department, bills being generated without allotment/authorisations being
+available, net amount paid exceeding the actual payable amounts, excess withdrawal of claims
+against the available budget allotment amount etc. and raised these issues with the System
+Developer.
+In the light of above facts and issues with the CFMS, there is a risk in running such System.
+Therefore, Accountant General (Audit), Bihar, sought (19.08.2022) comments/replies from the
+Finance Department about the assurance of integrity and reliability of CFMS data. The Finance
+Department responded (23.09.2022) that all the highlighted issues have been resolved and
+assured that such operational issues have not been reported in the recent past. However,
+the Department had earlier stated (29.04.2022) that the User Acceptance Test of all
+functionalities as per the Request for Proposal (RFP) had not been done yet.
+Further, transactions had been made in the System since over two years of its implementation,
+without adequately testing the System. Given the above facts, there is a risk of material
+accounting entries still being done through the back end of the CFMS, without any valid
+rationale, which can potentially lead to misrepresentation of Government Finances.
+My opinion on the Finance Accounts is not modified due to Emphasis of Matter section.
+Date: (GlRISH CHANDRA MURMU)
+Place: New Delhi Comptroller and Auditor General of India
+ix

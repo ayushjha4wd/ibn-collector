@@ -1,0 +1,41 @@
+Projected Population Characteristics As On 1st March : 2011 - 2036
+ODISHA
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 41974 43128 44033 44677 45008 45025
+Male 21212 21341 21340 21222 20953 20542
+Female 20762 21787 22693 23455 24055 24483
+Sex Ratio 979 1021 1063 1105 1148 1192
+Population Density (Sq. Km.) 270 277 283 287 289 289
+Population by broad age-group
+(000')
+18 years and above 27434 29497 31369 32847 33856 34456
+0-14 12111 11200 10395 9747 9275 8757
+15-59 25971 27424 28444 28852 28633 28107
+60+ 3892 4504 5194 6078 7100 8161
+Proportion (percent)
+0-14 28.9 26.0 23.6 21.8 20.6 19.4
+15-59 61.9 63.6 64.6 64.6 63.6 62.4
+15-49 (female population) 53.9 55.0 55.0 54.2 52.9 51.2
+60+ 9.3 10.4 11.8 13.6 15.8 18.1
+Median age (years) 26.55 28.53 30.57 32.67 34.79 37.00
+Dependency Ratio
+Young (0-14) 466 408 365 338 324 312
+Old (60+) 150 164 183 211 248 290
+Total (Young and old) 616 572 548 549 572 602
+TABLE-17A
+Demographic Indicators : 2011-2035
+ODISHA
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 5.4 4.2 2.9 1.5 0.1
+Crude Birth Rate (CBR) 18.1 16.9 15.8 14.7 13.7
+Crude Death Rate (CDR) 8.0 8.1 8.3 8.7 9.2
+Infant Mortality Rate (IMR) 53 47 42 39 35
+Under-5 mortality rate (q ) 69 61 55 51 46
+5
+Total Fertility Rate (TFR) 2.10 1.93 1.81 1.75 1.71
+Life expectancy of males 65.61 67.11 68.61 69.61 70.61
+Life expectancy of females 68.26 70.26 71.46 72.66 73.66
+213

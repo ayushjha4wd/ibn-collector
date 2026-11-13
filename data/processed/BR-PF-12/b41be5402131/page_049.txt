@@ -1,0 +1,24 @@
+INVOICE REGISTRATION PORTAL · Till 30th JUN 2026 · ₹ CRORE
+IRP wise
+Count of IRN
+IRP NAME 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 *2026-27
+ClearTax (Defmacro Software Pvt. Ltd.) 70 17,16,182 69,40,541 1,09,39,123 25,21,726
+Cygnet Infotech Pvt. Ltd. 1,99,368 83,70,086 76,99,342 52,25,086 12,04,834
+IRIS Business Services Llt. (IRIS IRP) 15,146 66,30,603 99,56,683 88,70,136 20,69,626
+Ernst & Young LLP (IRP 5) 2 4,69,304 17,63,640 1,44,14,740 40,00,152
+NIC 1 39,82,06,309 1,09,14,87,761 1,76,35,36,247 2,35,57,16,434 2,76,86,08,758 3,22,74,46,179 86,20,01,345
+NIC 2 27,67,461 2,89,14,455 66,59,891 76,14,933
+Grand Total 39,82,06,309 1,09,14,87,761 1,76,37,50,833 2,37,56,70,070 2,82,38,83,419 3,27,35,55,155 87,94,12,616
+Taxable Value in crore ₹
+IRP NAME 2020-21 2021-22 2022-23 2023-24 2024-25 2025-26 *2026-27
+ClearTax (Defmacro Software Pvt. Ltd.) 38 25,908 1,29,691 2,03,337 50,320
+Cygnet Infotech Pvt. Ltd. 3,944 1,79,295 1,15,236 99,466 23,199
+IRIS Business Services Llt. (IRIS IRP) 86 95,635 1,10,376 97,137 31,045
+Ernst & Young LLP (IRP 5) 0 25,816 95,520 4,64,763 1,49,316
+NIC 1 78,12,031 3,52,85,219 4,14,15,006 4,80,97,893 1,31,02,669
+2,21,64,177 3,44,74,141
+NIC 2 84,731 4,00,063 2,15,567 1,62,874
+Grand Total 78,12,031 2,21,64,177 3,44,78,209 3,56,96,605 4,22,65,890 4,91,78,162 1,35,19,421
+• E-Invoice start from Oct-2020.
+• This e-Invoice statistics for reference and general information. The data presented here is updated from system generated sources and has not been reconciled or audited..
+E-INVOICE Goods and Services Tax Network | 49

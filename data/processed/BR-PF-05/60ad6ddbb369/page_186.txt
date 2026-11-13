@@ -1,0 +1,37 @@
+STATEMENT 17: DETAILED STATEMENT OF BORROWINGS AND OTHER LIABILITIES
+(a) Statement of Public Debt and Other Obligations
+( ```` in lakh )
+Net Increase(+) /
+Balance as on Addition Discharge Balance as on
+Description of debt Decrease(-) Interest paid
+1 April 2023 during the year during the year 31 March 2024
+In ```` Per cent
+I. Small Saving Provident Funds
+8009 State Provident Funds 9,45,568.36 1,96,914.70 2,47,329.55 8,95,153.51 (-)50,414.85 (-)5.33 63,306.00
+8011 Insurance and Pension Funds (-)5,880.69(a) 44,669.23 19,830.06 18,958.48 24,839.17 (-)422.39 43,000.00
+Total : I. Small Savings, Provident Funds etc. 9,39,687.67 2,41,583.93 2,67,159.61 9,14,111.99 (-)25,575.68 (-)2.72 1,06,306.00
+J. Reserve Funds
+(a) Reserve Funds Bearing Interest
+8121 General and Other Reserve Funds 2,62,660.09 2,39,672.55 1,17,401.08 3,84,931.56 1,22,271.47 46.55 0.00
+Total (a) Reserve Funds Bearing Interest 2,62,660.09 2,39,672.55 1,17,401.08 3,84,931.56 1,22,271.47 46.55 0.00
+(b) Reserve Funds not Bearing Interest
+8222 Sinking Funds 0.00 1,46,654.00 1,46,654.00 0.00 0.00 0 0.00
+8223 Famine Relief Fund 0.00 0.00 0.00 0.00 0.00 0 0.00
+8229 Development and Welfare Funds 0.00 0.00 0.00 0.00 0.00 0 0.00
+8235 General and other Reserve Funds 0.00 0.00 0.00 0.00 0.00 0 0.00
+Total (b) Reserve Funds not Bearing interest 0.00 1,46,654.00 1,46,654.00 0.00 0.00 0 0.00
+Total: J. Reserve Funds 2,62,660.09 3,86,326.55 2,64,055.08 3,84,931.56 1,22,271.47 46.55 0.00
+K. Deposits and Advances
+(a) Deposits Bearing Interest
+8336 Civil Deposits (-)55.39(a) 0.00 0.00 (-)55.39(a) 0.00 0 0.00
+8342 Other Deposits 25,818.65 3,40,208.82 3,65,000.16 1,027.31 (-)24,791.34 (-)96.02 0.00
+Total (a) Deposits Bearing Interest 25,763.26 3,40,208.82 3,65,000.16 971.92 (-)24,791.34 (-)96.23 0.00
+(b) Deposits not Bearing Interest
+8443 Civil Deposits 11,16,589.10 2,93,256.84 4,54,661.21 9,55,184.73 (-)161404.37 (-)14.46 0.00
+8448 Deposits of Local Funds 26,92,743.24 41,97,564.52 38,88,544.06 30,01,763.70 3,09,020.46 11.48 0.00
+8449 Other Deposits 8,700.15 47,91,823.46 47,91,787.64 8,735.97 35.82 0.41 0.00
+Total (b) Deposits not Bearing Interest 38,18,032.49 92,82,644.82 91,34,992.91 39,65,684.40 147,651.91 3.87 0.00
+Total: K Deposits and Advances 38,43,795.75 96,22,853.64 94,99,993.07 39,66,656.32 122,860.57 3.20 0.00
+Grand Total 2,93,30,716.31 1,62,72,518.71 1,23,29,145.99 3,32,74,089.03 39,43,372.72 13.44 17,56,421.22
+(a) Correspondance has been made with the State Government for reconciliation.
+236

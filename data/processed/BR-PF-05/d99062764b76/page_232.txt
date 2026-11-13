@@ -1,0 +1,47 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 1 : Major and Minor head wise details of Loans and Advances
+( ```` in lakh )
+Write off of Net Increase(+)/
+Advanced Repaid Interest received
+Balance as on irrecoverable Balance as on D e c r ease (-)
+Head of Account during the Total during the and credited to
+1 April 2022 loans and 31 March 2023 during the year
+year year Revenue
+advances (7-2)
+1 2 3 4 5 6 7 8 9
+2. Economic Services- Concld.
+(j) General Economic Services- Concld.
+7465 Loans for General Financial and Trading Institutions-Concld.
+796 Tribal Area Sub-Plan
+0001 Loans to Bihar State Export Corporation 2.00 0.00 2.00 0.00 0.00 2.00 0.00 0.00
+Total : 796 2.00 0.00 2.00 0.00 0.00 2.00 0.00 0.00
+800 Other Loans
+0001 Loans for Gross Expenditure 2,485.99 0.00 2,485.99 0.00 0.00 2,485.99 0.00 0.00
+0002 Loans for arrear payment against the Bonds
+issued by the Bihar State Financial 9,915.42 0.00 9,915.42 0.00 0.00 9,915.42 0.00 0.00
+Corporation
+Total : 800 12,401.41 0.00 12,401.41 0.00 0.00 12,401.41 0.00 0.00
+Total : 7465 17,428.41 0.00 17,428.41 0.00 0.00 17,428.41 0.00 0.00
+7475 Loans for Other General Economic Services
+103 Civil Supplies
+0010 Loans for creation of revolving funds for
+350.00 0.00 350.00 0.00 0.00 350.00 0.00 0.00
+lifting of sugar
+0011 Loans for updating the account of Bihar
+7.10 0.00 7.10 0.00 0.00 7.10 0.00 0.00
+State Food and Civil Supply Corporation
+Total : 103 357.10 0.00 357.10 0.00 0.00 357.10 0.00 0.00
+Total : 7475 357.10 0.00 357.10 0.00 0.00 357.10 0.00 0.00
+Total (j) 17,785.51 0.00 17,785.51 0.00 0.00 17,785.51 0.00 0.00
+Total 2 20,22,959.71 63,293.21 20,86,252.92 135.78 0.00 20,86,117.14 63,157.43 0.00
+3. Loans to Government Servants, etc.
+7610 Loans to Government Servants, etc.
+201 House Building Advances
+0001 House Building Advances to Government
+8,261.52 1,883.55 10,145.07 1,338.49 0.00 8,806.58 545.06 0.00
+Servants
+0002 House Building Advances to Officers of
+721.50 0.25 721.75 44.15 0.00 677.60 (-)43.90 0.00
+All India Services
+Total : 201 8,983.02 1,883.80 10,866.82 1,382.64 0.00 9,484.18 501.16 0.00
+278

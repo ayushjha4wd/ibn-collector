@@ -1,0 +1,40 @@
+Heads (two digits), and Object Heads (two digits). Major Heads represent functions of Government,
+Sub- Major Heads represent sub-functions, Minor Heads represent programmes/activities, Sub-Heads
+represent schemes, Detailed Heads represent sub-schemes and Object Heads represent purpose/object
+of expenditure.
+4. The main unit of classification in accounts is the Major Head which contains the following
+coding pattern (according to the List of Major and Minor Heads corrected upto 31 March 2023).
+0005 to 1606 Revenue Receipts
+2011 to 3606 Revenue Expenditure
+4000 Capital Receipts
+4046 to 7810 Capital Expenditure (including Public Debt, Loans and Advances)
+7999 Appropriation to the Contingency Fund
+8000 Contingency Fund
+8001 to 8999 Public Account
+5. A pictorial representation of the structure of accounts is given below:
+33.
+Structure of Government Accounts
+Government Accounts
+Consolidated Fund Contingency Fund Public Account
+Small Savings, Provident Fund etc.,
+Reserve Funds, Deposits and Advances,
+Suspense and Miscellaneous, Remittances
+and Cash Balance
+Capital, Public Debt, Loans etc.
+Revenue
+Receipts Expenditure
+Receipts Expenditure
+General Services, Social Services,
+Tax, Non-Tax, General Services, Social
+Economic Services, Public Debt, Loans
+Grants-in-aid and Services, Economic Services,
+and Advances, Inter-State Settlement
+Contributions Grants-in-aid and Contributions
+etc., Transfer to Contingency Fund
+B. What the Finance Accounts contain
+The Finance Accounts are presented in two volumes.
+Volume I contains the Certificate of the Comptroller and Auditor General of India, the Guide to the
+Finance Accounts, 13 statements which give summarised information on the financial position and
+transactions of the State Government for the current financial year and Notes to Finance Accounts.
+Description of 13 Statements and Notes to Finance Accounts in Volume I are given below:
+x

@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+RAJASTHAN
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000') 68548 74240 79281 83642 87198 90563
+Total
+Male 35551 38350 40772 42803 44369 46048
+Female 32997 35890 38509 40839 42829 44514
+Sex Ratio 928 936 945 954 965 967
+Population Density (Sq. Km.) 200 217 232 244 255 265
+Population by broad age-group
+(000')
+18 years and above 40194 45854 51509 56611 61348 66216
+0-14 23819 23569 23120 22571 21204 19943
+15-59 39833 44888 49327 52882 56204 59008
+60+ 4897 5783 6833 8189 9789 11611
+Proportion (percent)
+0-14 34.7 31.7 29.2 27.0 24.3 22.0
+15-59 58.1 60.5 62.2 63.2 64.5 65.2
+15-49 (female population) 51.5 53.1 54.0 54.1 54.3 53.9
+60+ 7.1 7.8 8.6 9.8 11.2 12.8
+Median age (years) 22.39 23.86 25.65 27.72 29.91 32.09
+Dependency Ratio
+Young (0-14) 598 525 469 427 377 338
+Old (60+) 123 129 139 155 174 197
+Total (Young and old) 721 654 608 582 551 535
+TABLE-17A
+Demographic Indicators : 2011-2035
+RAJASTHAN
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 16.0 13.1 10.7 8.3 7.6
+Crude Birth Rate (CBR) 24.3 21.4 18.8 16.5 14.9
+Crude Death Rate (CDR) 7.8 7.7 7.5 7.6 6.8
+Infant Mortality Rate (IMR) 53 49 44 40 36
+Under-5 mortality rate (q ) 73 67 60 55 50
+5
+Total Fertility Rate (TFR) 2.95 2.51 2.20 1.99 1.87
+Life expectancy of males 65.70 67.20 68.70 69.70 70.70
+Life expectancy of females 70.40 71.60 72.80 73.80 74.80
+189

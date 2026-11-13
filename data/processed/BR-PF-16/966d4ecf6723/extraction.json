@@ -1,0 +1,21 @@
+{
+  "raw_path": "data/raw/BR-PF-16/2026-11-13/16th_FC_Report_Summary.pdf",
+  "raw_sha256": "966d4ecf672391adfefb1785f4c82aa7d9751718f42369e06e9efb396dc43881",
+  "source_id": "BR-PF-16",
+  "source_url": "https://prsindia.org/files/policy/policy_committee_reports/16th_FC_Report_Summary.pdf",
+  "parent_url": "https://prsindia.org/budgets/states/bihar-budget-analysis-2026-27",
+  "retrieved_at_utc": "2026-11-13T06:59:16+00:00",
+  "obtained_on": null,
+  "kind": "pdf",
+  "outputs": [
+    "data/processed/BR-PF-16/966d4ecf6723/page_001.txt",
+    "data/processed/BR-PF-16/966d4ecf6723/page_002.txt",
+    "data/processed/BR-PF-16/966d4ecf6723/page_003.txt",
+    "data/processed/BR-PF-16/966d4ecf6723/page_004.txt",
+    "data/processed/BR-PF-16/966d4ecf6723/tables/page_004_table_1.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

@@ -1,0 +1,54 @@
+Grant No. 3 - Concld.
+(ix)(a) Suspense Transactions: Transactions booked under this head, not adjusted under final heads
+of account, are carried forward from year to year. The transactions include both debits and
+credits. The minor head “Suspense” has four sub-divisions viz, (i) Stock (ii) Purchases (iii)
+Miscellaneous Works Advances and (iv) Workshop Suspense.
+The nature of transactions under each of these sub-divisions is explained below:
+(i) Stock: This head is charged with the value of materials received for stock purposes (not for any
+particular works). Value of the materials issued for use on works or otherwise disposed off is
+reduced from such a charge. The balance represents the value of materials held in stock.
+(ii) Purchases: When materials are received for specific works or for holding in stock without
+beingpaidfor oradjustedduringa month, their value is credited tothe subhead “Purchases” by
+contra debit to the particular “Works” head of account or “Stock” sub head as the case may be.
+When payment is made or the value is adjusted by transfer of stores to other, the head
+“Purchases” is debited with the amounts thus relieving it of initial credit. This head will,
+therefore, show a negative balance representing the value of materials received but not paid for
+or adjusted. From 1974-75, this sub head has been abolished and the transactions of this nature
+is to be recorded under the head “8658-Suspense Accounts, 129-Material Purchase Settlement
+Suspense Account”. But the Departments, viz., Building Construction Department and Road
+Construction Department are still following the pre 1974-75 classification pattern.
+(iii) Miscellaneous Works Advances: Under this sub head debits are booked for the value of stores
+sold on credit, expenditure incurred on deposit works in excess of deposits received, losses of
+cash or stores not written off and sums recoverable from Government Servants etc. A debit
+balance under the sub head thus represents recoverable amounts.
+(iv) Workshop Suspense: The charges for jobs executed or other operations in Public works
+Departmental Workshop are debited to this sub head pending their recovery or adjustment.
+(b) The details of the transactions under each of these sub-divisions during 2023-24 together with
+the opening and closing balances are given below:
+Head Opening Balance on Debits Credits Net Closing Balance
+1 April 2023 on 31 March 2024
+( in lakh)
+Public Works and Housing
+Purchase (-)2,777.22 0.00 0.00 0.00 (-)2,777.22
+Stock 1,349.82 0.00 0.00 0.00 1,349.82
+Miscellaneous
+19,503.64 0.00 0.00 0.00 19,503.64
+Works Advances
+Total 18,076.24 0.00 0.00 0.00 18,076.24
+(x) ReviewofEstablishmentandMachineryandEquipmentChargesof BuildingandHousing
+Construction Department- From the gross charges on establishment and machinery and
+equipment charges of Public Works Department, percentage recoveries for work done for other
+Governments, Local Bodies etc. are deducted and the balance is distributed among the
+appropriate heads of account in proportion to the works outlay recorded thereunder. The table
+below shows these charges for the year 2021-22 to 2023-24 and their percentage to the works
+outlay during the year.
+Years Works Establishment Percentage of Machinery Percentage of
+Outlay Charges Establishment and Machinery and
+Charges to Equipment Equipment
+Works Outlay Charges Charges to
+Works Outlay
+( in lakh)
+2021-22 2,43,894.46 64,887.54 26.60 166.10 0.07
+2022-23 2,60,070.78 64,539.76 24.82 124.45 0.05
+2023-24 2,97,960.39 79,538.62 26.69 739.54 0.25
+77

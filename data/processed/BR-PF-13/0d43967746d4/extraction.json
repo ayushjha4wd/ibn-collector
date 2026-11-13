@@ -1,0 +1,15 @@
+{
+  "raw_path": "data/raw/BR-PF-13/2026-11-13/1APPENDIX23012026_17425ACAC5CC04CA89C85718ED3D03279.PDF",
+  "raw_sha256": "0d43967746d4bacef071e7d2867b63422ce3d9e658b126dc0c2eed7714edb8b9",
+  "source_id": "BR-PF-13",
+  "source_url": "https://rbidocs.rbi.org.in/rdocs/Publications/PDFs/1APPENDIX23012026_17425ACAC5CC04CA89C85718ED3D03279.PDF",
+  "parent_url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=State+Finances+%3A+A+Study+of+Budgets",
+  "retrieved_at_utc": "2026-11-13T07:23:50+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

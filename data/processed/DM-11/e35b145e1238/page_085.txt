@@ -1,0 +1,55 @@
+3.18 Sex Ratio at Birth
+3.18.1 The Sex Ratio (Number of females per thousand males) at birth of registered events is an
+important indicator to map the sex differential of the population at the beginning of their life.
+The sex ratio at birth has been calculated after deducting the delayed registration of more than
+1 year for the year 2023. Statement 26 shows Sex Ratio at Birth (SRB) based on registered events
+for the years 2017-2023. Sex Ratio at Birth based on registered events for the year 2023 for All
+India (excluding figures of Sikkim) stood at 928 females per thousand males.
+Statement 26: Sex Ratio at Birth (SRB) based on registered events, 2017-2023
+Sl.
+No. States/Union Territories 2017 2018 2019 2020 2021 2022 2023
+States
+1. Andhra Pradesh 935 931 935 939 935 938 931
+2. Arunachal Pradesh 1047 1084 1024 1011 997 1036 1085
+3. Assam 921 904 903 956 863 933 960
+4. Bihar N.A. N.A. N.A. 964 908 891 900
+5. Chhattisgarh 968 934 931 940 949 965 960
+6. Goa 910 943 948 947 947 943 973
+7. Gujarat 898 897 901 909 909 908 910
+8. Haryana N.A. 914 923 916 911 916 911
+9. Himachal Pradesh 934 930 918 936 947 936 939
+10. Jharkhand N.A. N.A. N.A. 948 955 925 899
+11. Karnataka 949 957 947 949 954 947 947
+12. Kerala 965 963 960 969 967 971 967
+13. Madhya Pradesh N.A. 902 905 921 934 921 948
+14. Maharashtra N.A. N.A. N.A. N.A. 910 906 909
+15. Manipur N.A. 757 934 880 974 922 924
+16. Meghalaya 937 942 927 922 960 972 956
+17. Mizoram 964 964 975 954 958 959 911
+18. Nagaland 948 965 1001 953 962 1068 1007
+19. Odisha 930 928 947 941 933 937 926
+20. Punjab 890 896 914 925 924 923 922
+21. Rajasthan 931 949 916 952 905 933 945
+22. Sikkim N.A. N.A. N.A. N.A. N.A. N.A. N.A.
+23. Tamil Nadu 932 933 942 939 941 940 941
+24. Telangana 915 924 953 937 922 907 906
+25. Tripura 962 945 949 974 948 960 972
+26. Uttarakhand 929 956 960 954 975 933 955
+27. Uttar Pradesh N.A. N.A. N.A. N.A. 995 945 926
+28. West Bengal N.A. N.A. 941 951 948 944 951
+Union Territories
+1. A & N Islands 957 953 965 984 957 959 961
+2. Chandigarh 907 909 938 943 925 921 913
+D & N Haveli and D & N Haveli 936 923 921
+3. 898 879 913 929
+Daman & Diu
+Daman & Diu 879 877 926
+4. Delhi 918 9 2 9 N . A . N.A. 941 935 926
+5. Jammu & Kashmir (J&K) 909 952 909 967 933 909 940
+6. Ladakh Included in UT J&K 1104 949 1027 972
+7. Lakshadweep 914 839 953 957 963 934 923
+8. Puducherry 931 941 934 947 941 957 936
+Note : Sex Ratio of Registered Births arrived at after deducting figures of delayed Registration of More than 1 year from the
+respective Total Registered Births
+N.A. – Not Available
+66

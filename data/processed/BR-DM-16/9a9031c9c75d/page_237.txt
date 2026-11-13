@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+ANDHRA PRADESH
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 49577 51371 52787 53709 54175 54252
+Male 24831 25710 26403 26834 27033 27029
+Female 24747 25661 26384 26874 27142 27223
+Sex Ratio 997 998 999 1002 1004 1007
+Population Density (Sq. Km.) 309 321 329 335 338 339
+Population by broad age-group
+(000')
+18 years and above 34226 37090 39521 41332 42664 43713
+0-14 12527 11582 10825 10185 9359 8528
+15-59 32026 34030 35406 35928 35953 35460
+60+ 5025 5759 6557 7596 8863 10263
+Proportion (percent)
+0-14 25.3 22.5 20.5 19.0 17.3 15.7
+15-59 64.6 66.2 67.1 66.9 66.4 65.4
+15-49 (female population) 55.9 56.5 55.9 54.4 52.4 49.9
+60+ 10.1 11.2 12.4 14.1 16.4 18.9
+Median age (years) 28.23 30.29 32.52 34.83 37.20 39.56
+Dependency Ratio
+Young (0-14) 391 340 306 283 260 241
+Old (60+) 157 169 185 211 247 289
+Total (Young and old) 548 509 491 494 507 530
+TABLE-17A
+Demographic Indicators : 2011-2035
+ANDHRA PRADESH
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 7.1 5.4 3.5 1.7 0.3
+Crude Birth Rate (CBR) 15.2 13.8 12.2 10.9 9.9
+Crude Death Rate (CDR) 7.8 8.0 8.4 8.8 9.4
+Infant Mortality Rate (IMR) 39 35 32 29 27
+Under-5 mortality rate (q ) 43 39 35 32 30
+5
+Total Fertility Rate (TFR) 1.68 1.61 1.54 1.51 1.50
+Life expectancy of males 67.10 68.60 69.60 70.60 71.40
+Life expectancy of females 71.20 72.40 73.60 74.60 75.60
+233

@@ -1,0 +1,40 @@
+13. Information on the borrowing from Public Account as on 21.12.2021
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month on from
+01.11.2021 November November 21.12.2021 public
+2021 2021 Account as
+on
+21.12.2021
+8009-State Provident Funds 9,729.53 105.59 149.78 9,685.34 0.00
+8011-Insurance and Pension -592.61 1.12 13.39 -604.88 0.00
+Funds
+8115-Depreciation/Renewal 0.00 0.00 0.00 0.00 0.00
+Reserve Fund
+8121-General and Other Reserve 1,801.38 0.00 690.45 1,110.93 0.00
+Funds
+8336-Civil Deposits -0.55 0.00 0.00 -0.55 0.00
+8342-Other Deposits 265.55 187.89 261.03 192.42 0.00
+8443-Civil Deposits 10,248.95 122.97 151.59 10,220.33 0.00
+8448-Deposits of Local Funds 24,252.79 998.99 2,794.30 22,457.48 0.00
+8449-Other Deposits 85.23 4,003.62 4,003.58 85.27 0.00
+8550-Civil Advances 249.96 0.00 0.00 249.96 0.00
+8658-Suspense Accounts 9,037.26 6,240.09 -346.08 2,451.09 0.00
+8670-Cheque and Bills 390.99 10,509.52 10,591.40 309.12 0.00
+8671-Departmental Balanaces 234.65 0.00 0.00 234.65 0.00
+8672-Permanent Cash Imperest 761.89 0.00 0.39 762.28 0.00
+8673-Cash Balance Investment 15,444.96 30,024.35 36,093.53 21,514.13 0.00
+Account
+8679-Accounts with 0.56 0.00 0.00 0.56 0.00
+Government of other countries
+8782-Cash Remittances and 1,123.07 0.00 0.00 1,123.07 0.00
+adjustments between officers
+rendering accounts to the same
+accounts officer
+8786-Adjusting Account 0.82 0.00 0.00 0.82 0.00
+between Central and State
+Governments
+8793-Inter-State Suspense 109.28 0.00 -27.08 82.19 0.00
+Account
+Total 19,218.81 52,194.14 54,376.28 17,036.67 0.00

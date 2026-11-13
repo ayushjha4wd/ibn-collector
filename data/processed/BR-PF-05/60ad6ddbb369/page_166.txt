@@ -1,0 +1,46 @@
+STATEMENT 16: DETAILED STATEMENT OF CAPITAL EXPENDITURE BY MINOR HEADS AND SUB HEADS
+Figures in italics represent charged expenditure
+( ```` in lakh)
+Expenditure during 2023-24 Percentage
+Scheme Expenditure Expenditure Increase (+)/
+Nature of expenditure Establishment during to the end Decrease (-)
+CSS/ Total
+& Committed State Scheme 2022-23 of 2023-24 during the
+CAS
+year
+C. CAPITAL ACCOUNT OF ECONOMIC SERVICES- Contd…
+(f) Capital Account of Industry and Minerals- Contd…
+4858 Capital Outlay on Engineering Industries
+01 Electrical Engineering Industries
+800 Other Expenditure
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 800 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 01 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 4858 0.00 0.00 0.00 0.00 0.00 88.18 0
+4859 Capital Outlay on Telecommunication and E lectronic Industries
+02 Electronics
+004 Research and Development
+Bihar State Wide Area Network (SWAN) 0.00 9,550.00 0.00 9,550.00 6,209.27 64,436.49 53.80
+Total : 004 0.00 9,550.00 0.00 9,550.00 6,209.27 64,436.49 53.80
+051 Construction
+State data center 0.00 10,681.74 0.00 10,681.74 6,873.85 31,137.18 55.40
+Deduct- Receipts and Recoveries on Capital Account 0.00 (-)0.73 0.00 (-)0.73 0.00 (-)0.73 0
+Total : 051 0.00 10,681.01 0.00 10,681.01 6,873.85 31,136.45 55.39
+190 Investment in Public Sector and other Undertakings
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 413.57 0
+Total : 190 0.00 0.00 0.00 0.00 0.00 413.57 0
+796 Tribal Area Sub-Plan
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 150.93 0
+Total : 796 0.00 0.00 0.00 0.00 0.00 150.93 0
+800 Other Expenditure
+Bihar State Wide Area Network (SWAN) 0.00 0.00 0.00 0.00 0.00 8,501.73 0
+Total : 800 0.00 0.00 0.00 0.00 0.00 8,501.73 0
+Total : 02 0.00 20,231.01 0.00 20,231.01 13,083.12 1,04,639.17 54.63
+Total : 4859 0.00 20,231.01 0.00 20,231.01 13,083.12 1,04,639.17 54.63
+4860 Capital Outlay on Consumer Industries
+01 Textiles
+190 Investment in Public Sector and other Undertakings
+Bihar State Textile Corporation 0.00 0.00 0.00 0.00 0.00 1,553.82 0
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 303.85 0
+Total : 190 0.00 0.00 0.00 0.00 0.00 1,857.67 0
+216

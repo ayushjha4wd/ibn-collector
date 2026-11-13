@@ -1,0 +1,84 @@
+87
+1.2.2 Compilation of Accounts
+Flow Diagram for Account Compilation
+OVERVIEW
+1.1 Introduction
+AG Office
+Drawing and
+The Pr. Accountant General (Accounts and Entitlements), B(Siheacro ncdoalrlya Cteosm, pcillaatsiosnif) ies, compiles
+Disbursing Officers
+the accounts data rendered by multiple agencies, and prepares the accounts of the
+Prepare and submit
+Govbeilrlsn mtoe tnhte Torfe aBsiuhrayr . The compilation is done from Dtheet aiilneidti al accounts Mreanjodre Hreedad b y the
+Booking Booking
+Treasuries, accounts rendered by the other states/accounting offices through their monthly
+accounts and advices of the Reserve Bank of India. The accounts of Public Works & Forest
+Division have been merged with Treasury Accounts after implementation of CFMS w.e.f.
+Treasury Passes
+01.04.2019. Every month a Monthly Civil Account is presented by the office Bof the
+the Bills
+Generation of u
+Accountant General (A&E) to the Government of Bihar. Th
+V
+e
+o u
+y
+c
+e
+h
+a
+e
+rl
+r
+o
+L
+n
+e
+g
+v e
+c
+l
+ompilation activity
+(Generates Vouchers) Sub-Account and Computerization d
+culminates into preparation of the annual Finance Accounts and Appropriation Acgcounts.
+(VLC)
+Main Account e
+They are subjected to audit by the Pr. Accountant General (Audit), Bihar and certification by
+t
+(Primary Compilation)
+the Comptroller and Auditor General of India after which they are placed before Legislature.
+1.2 Structure of Accounts
+Detailed Book &
+1.2.1 Government Accounts are kept in three parts:
+Consolidated Monthly Civil
+Abstract Account
+All revenue received by the Government including tax and non-tax
+Reconciliation of revenues, loans raised and repayment of loans given (including
+Part 1
+interest thereon) from the Consolidated Fund.
+CONSOLEIDleActTrEonDi cF TUrNeaDs ury Dat
+A
+a
+l l expenditure and disbursement of the Government, including
+release of loans and repaymentAs nonfu alol aAncsc otuanktesn (and interest
+with VLC Data
+thereon) are met from this fund.
+The Contingency Fund is in the nature of an imprest, intended to
+Part 2 meet unforeseen expenditure, pending authorization by the
+Legislature. Such expenditure is recouped subsequently from the
+CONTINGENCY FUND
+1.3 Finance Accounts andC Aonpsporlidoaptreida tFiuonnd A. Tchceo uconrtpsu s of this fund for the Government of
+Bihar is 350 crore.
+1 .3.1 Finance Accounts
+In Public Accounts the transactions relating to Debt (Other than
+The Finance Accounts depict the receipts and disbursement of the Government for the year,
+those included in Part I), 'Deposits', 'Advances', 'Remittances' and
+tPoagrett 3h er with the financial re'sSuulstsp ednissec'l ossheadl l bbye three cRoredveedn. ueD eabntsd Canadp itDale pAocscitos unretsp,r ePsuenbtl ic
+repayable liabilities of the Government. Advances are receivables
+DPUebBtL aICnd A PCuCbOliUc NATc count balances recorded in the accounts. Finance Accounts are prepared in
+of the Government. Remittances and Suspense transactions are
+two volumes to make them maodrjeu sctionmg pernethrieens sitvhaet aanrde irnefqourimreadt ivtoe . bVe oclluemaree dI eovf etnhteu aFlliyn abnyc e
+booking to final heads of account.
+Accounts contains the certificate of the Comptroller and Auditor General of India,
+summarized statements of overall receipts and disbursements and ‘Notes to Finance
+AACCCCOOUUNNTTSS AATT AA GGLLAANNCCE E PPRRIINNCCIIPPAALL AACCCCOOUUNNTTAANNTT G GEENNEERRAALL ( (AA&&EE)), ,B BIIHHAARR, ,P PAATTNNAA 877

@@ -1,0 +1,17 @@
+RETURNS · FY 2025-26 · TAXPAYERS VS AVERAGE INVOICES
+Invoice Count by Turnover Slab
+COUNT OF TAXPAYERS BY SLAB
+20,00,000
+15,00,000
+10,00,000
+5,00,000
+0
+AVERAGE INVOICES PER TAXPAYER PER MONTH (LOG SCALE)
+10,000
+1,000
+100
+10
+1
+0
+• Average invoice axis uses a logarithmic scale so every slab remains visible despite the wide range (0.6 to 6,882).
+RETURNS Goods and Services Tax Network | 14

@@ -1,0 +1,15 @@
+{
+  "raw_path": "data/raw/BR-PF-14/2026-11-13/89T_11122025CC34A78CE2D64C1D880A9B4B6FA1135D.XLSX",
+  "raw_sha256": "47364d05bc8f8d732c5b423b509d624dec0c789d5b30a1d2b3a700804f6352fe",
+  "source_id": "BR-PF-14",
+  "source_url": "https://rbidocs.rbi.org.in/rdocs/Publications/DOCs/89T_11122025CC34A78CE2D64C1D880A9B4B6FA1135D.XLSX",
+  "parent_url": "https://rbi.org.in/Scripts/AnnualPublications.aspx?head=Handbook+of+Statistics+on+Indian+States",
+  "retrieved_at_utc": "2026-11-13T07:30:34+00:00",
+  "obtained_on": null,
+  "kind": "html",
+  "outputs": [],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

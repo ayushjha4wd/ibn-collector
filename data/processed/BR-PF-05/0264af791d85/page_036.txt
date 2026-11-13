@@ -1,0 +1,34 @@
+STATEMENT 5: STATEMENT OF PROGRESSIVE CAPITAL EXPENDITURE
+( ```` in crore )
+Expenditure Progressive Expenditure Progressive Increase (+)/
+Major
+Description during expenditure during expenditure Decrease (-) in
+Head
+2021-22 upto 2021-22 2022-23 upto 2022-23 percentage
+1 2 3 4 5 6 7
+(b) Capital Account of Rural Development
+4515 Capital Outlay on Other Rural Development Programmes 3,955.66 51,352.52 6,218.08 57,570.60 57.19
+Total - (b) 3,955.66 51,352.52 6,218.08 57,570.60 57.19
+(d) Capital Account of Irrigation and Flood Control
+4700 Capital Outlay on Major Irrigation 2,231.42 12,864.88 1,207.61 14,072.49 (-)45.88
+4701 Capital Outlay on Medium Irrigation 0.00 7,327.91 0.00 7,327.91 0
+4702 Capital Outlay on Minor Irrigation 270.27 3,038.56 460.03 3,498.59 70.21
+4705 Capital Outlay on Command Area Development 0.00 0.58 0.00 0.58 0
+4711 Capital Outlay on Flood Control Projects 1,108.97 13,034.40 983.93 14,018.33 (-)11.28
+Total - (d) 3,610.66 36,266.33 2,651.57 38,917.90 (-)26.56
+(e) Capital Account of Energy
+4801 Capital Outlay on Power Projects 1,430.00 35,656.06 3,078.71 38,734.77 115.29
+4810 Capital Outlay on New and Renewable Energy 0.00 1.50 0.00 1.50 0
+Total - (e) 1,430.00 35,657.56 3,078.71 38,736.27 115.29
+(f) Capital Account of Industry and Minerals
+4851 Capital Outlay on Village and Small Industries 16.44 193.76 1,392.24 1,586.00 0
+4853 Capital Outlay on Non-Ferrous Mining and Metallurgical Industries 0.00 43.72 0.00 43.72 0
+4855 Capital Outlay on Fertilizer Industries 0.00 1.36 0.00 1.36 0
+4857 Capital Outlay on Chemicals and Pharmaceutical Industries 0.00 9.00 0.00 9.00 0
+4858 Capital Outlay on Engineering Industries 0.00 0.88 0.00 0.88 0
+4859 Capital Outlay on Telecommunication and Electronic Industries 63.00 713.26 130.83 844.09 107.67
+4860 Capital Outlay on Consumer Industries 0.00 54.86 0.00 54.86 0
+4875 Capital Outlay on Other Industries 0.00 0.24 0.00 0.24 0
+4885 Capital Outlay on Industries and Minerals 50.00 1,793.35 170.00 1,963.35 0
+Total - (f) 129.44 2,810.43 1,693.07 4,503.50 1208.00
+18

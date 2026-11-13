@@ -1,0 +1,24 @@
+REFUND · JUL 2025 – JUN 2026
+IGST Refund on Exports — Data to Customs
+IGST TRANSMITTED FOR REFUND (₹ CRORE)
+Month IGST (₹ cr) Invoice Count GSTR-1 Count
+14,000
+Jul-25 11,347.12 3,93,185 23,578
+Aug-25 11,653.19 3,89,015 22,252
+12,000
+Sep-25 11,213.53 3,59,421 21,728
+Oct-25 12,222.52 3,79,042 23,127 10,000
+Nov-25 10,219.19 3,32,672 21,797
+8,000
+Dec-25 10,918.46 3,68,511 22,140
+Jan-26 12,088.96 4,10,967 24,240
+6,000
+Feb-26 11,040.84 3,73,808 22,767
+Mar-26 10,185.93 3,73,483 22,836 4,000
+Apr-26 10,961.13 3,73,613 22,565
+2,000
+May-26 11,120.86 3,85,454 22,081
+Jun-26 12,605.25 3,82,051 22,820
+0
+• Data transmitted to Customs for refund of IGST paid on export of goods.
+REFUND Goods and Services Tax Network | 36

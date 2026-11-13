@@ -1,0 +1,14 @@
+REFUNDS · JUL 2025 – JUN 2026 · REFUNDS
+Key Functionalities on the GST Portal
+◆ ProvisionalRefundforInvertedDutyStructure— provisionalrefundfunctionalityenabledforcases ofInvertedDutyStructurerefunds.
+◆ RefundNotices&OrdersinOneTab— allrefund-relatedNoticesandOrdersarenowavailableundertheViewNoticesandOrderstabunderServices.
+◆ New Refund Reason for Unregistered Users — ‘On account of Assessment/Enforcement/Appeal/Revision/Any Other Order’ added, allowing unregistered users to apply for
+refundbasedonarefund-relatedappealorder.
+◆ ExportofElectricityRefundReason— anewrefundreasonenabledforexportersofelectricity:exportofelectricitywithoutpaymentoftax(accumulatedITC).
+◆ Offline UtilityforAnnexure-B— introduced fortaxpayersclaimingITC-basedrefunds; invoices entered are validated against GSTR-2Btohelp ensure accuracyand consistency
+inrefundclaims.
+◆ LEI Field in Form RFD-01 — a field added to capture the LEI number when the refund amount is equal to or exceeds ₹50 crores.
+◆ Refund of Negative Balances — taxpayers can now apply for refund of negative balances appearing in any minor head of a Demand ID in the Electronic Liability Register Part II.
+◆ Improvements to Form RFD-01 — changes made across various tables of Form RFD-01 for ITC-related refunds, simplifying preparation of refund claims and aligning with the
+order of debit in major heads of the Credit Ledger.
+REFUNDS Goods and Services Tax Network | 68

@@ -1,0 +1,28 @@
+Table 1 B.2
+DDDDaaaatttteeee OOOOffff RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+TTTTaaaabbbblllleeee 1111 BBBB....2222
+1111....1111....1111999988886666 ttttoooo 33331111....11112222....1111999999995555
+PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt
+RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+1111333322220000----33330000----1111555566660000----44440000---- 1111444400000000----44440000----1111888800000000----55550000---- 1111444400000000----44440000----1111666600000000----55550000----
+999977775555----22225555----1111111155550000----33330000----1111555544440000 1111222200000000----33330000----1111888800000000
+2222000044440000 2222333300000000 2222333300000000----66660000----2222666600000000
+NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll
+BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc PPPPaaaayyyy BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc
+PPPPAAAAYYYY oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn
+1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666
+975 20500 1230 25500 1320 26300 2480 47600
+1075 21100 1290 26300 1380 27100 2540 49000
+1125 21700 1320 26300 1410 27900 2660 50500
+1270 23800 1380 27100 1470 27900 2720 50500
+1300 24500 1410 27900 1530 28700
+1330 25200 1470 27900 1840 33300
+1360 25200 1530 28700 1960 35300
+1390 26000 1590 30500 2080 35300
+1420 26000 1620 30500
+1450 26800 1710 31400
+1510 27600 1740 32300
+1540 27600 1770 32300
+1570 27600 1830 33300
+1630 27600 1890 34300
+14

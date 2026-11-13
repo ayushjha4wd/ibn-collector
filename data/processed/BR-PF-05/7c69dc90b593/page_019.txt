@@ -1,0 +1,67 @@
+Divisional Forest
+Officer Aurangabad
+18 20 24 11 61 84 91 60 34 74 56 52 43 50.8
+Forest Division,
+Aurangabad
+Divisional Forest
+19 Officer Banka Forest 2 0 4 15 12 24 28 7 20 20 2 24 13.2
+Division, Banka
+Divisional Forest
+Officer Begusarai
+20 10 20 8 37 23 21 14 57 2 20 27 13 21
+Forest Division,
+Begusarai
+Divisional Forest
+21 Officer Bettiah Forest 101 70 40 9 20 151 121 91 60 69 41 45 68.2
+Division, Bettiah
+Divisional Forest
+22 Officer Kaimur Forest 30 0 8 36 37 41 53 23 55 56 52 43 36.2
+Division, Bhabhua
+Divisional Forest
+Officer Bhagalpur
+23 52 23 19 9 36 27 30 19 31 37 35 35 29.4
+Forest Division,
+Bhagalpur
+Divisional Forest
+Officer Nalanda
+24 6 21 1 37 33 31 38 51 53 49 48 45 34.4
+Forest Division,
+Biharsharif
+Divisional Forest
+Officer-cum-Deputy
+25 Director VTP 1, 89 58 28 12 29 102 72 82 51 48 20 42 52.8
+Ramnagar, West
+Champaran
+Divisional Forest
+Officer-cum-Deputy
+26 44 13 12 26 112 82 80 83 108 85 57 42 62
+Director VTP 2, West
+Champaran
+Divisional Forest
+27 Officer Saran Forest 30 0 32 1 85 75 95 91 114 97 71 49 61.7
+Division, Chapra
+Divisional Forest
+28 Officer Mithila Forest 2 0 34 37 40 54 45 15 13 2 34 33 25.8
+Division, Darbhanga
+Divisional Forest
+29 Officer Gaya Forest 74 43 13 80 93 76 99 84 96 84 65 42 70.8
+Division, Gaya
+Divisional Forest
+Officer Gopalganj
+30 30 0 8 15 65 63 74 62 31 70 55 39 42.7
+Forest Division,
+Gopalganj
+Divisional Forest
+Officer Vaishali
+31 0 3 0 38 33 68 58 28 44 48 35 38 32.8
+Forest Division,
+Hajipur
+Divisional Forest
+32 Officer Jamui Forest 51 20 8 44 40 10 32 19 23 16 34 39 28
+Division, Jamui
+Divisional Forest
+Officer Motihari
+33 10 15 12 24 21 34 30 43 37 22 34 41 26.9
+Forest Division,
+Motihari
+[19]

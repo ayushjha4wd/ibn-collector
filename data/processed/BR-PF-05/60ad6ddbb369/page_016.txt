@@ -1,0 +1,45 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(ii) Social Services- Contd…
+0210 Medical and Public Health- Concld.
+80 General
+800 Other Receipts 172.17 547.65 (-)68.56
+Total : 80 172.17 547.65 (-)68.56
+Total : 0210 459.96 3,159.94 (-)85.44
+0215 Water Supply and Sanitation
+01 Water Supply
+102 Receipts from Rural Water Supply Schemes 4.54 6.05 (-)24.96
+104 Fees, Fines etc. 883.22 192.95 357.75
+501 Services and Service Fees 21.42 1.28 1573.44
+800 Other Receipts 28.02 69.30 (-)59.57
+Total : 01 937.20 269.58 247.65
+Total : 0215 937.20 269.58 247.65
+0216 Housing
+01 Government Residential Buildings
+106 General Pool accommodation 516.26 421.46 22.49
+107 Police Housing 0.01 0.00 0
+700 Other Housing 5.77 28.06 (-)79.44
+900 Deduct-Refunds (-)0.09 0.00 0
+Total : 01 521.95 449.52 16.11
+02 Urban Housing
+800 Other Receipts 0.73 0.36 102.78
+Total : 02 0.73 0.36 102.78
+80 General
+800 Other Receipts 7.34 4.87 50.72
+Total : 80 7.34 4.87 50.72
+Total : 0216 530.02 454.75 16.55
+0217 Urban Development
+01 State Capital Development
+501 Services and service fees 0.00 346.89 (-)100.00
+Total 01 0.00 346.89 (-)100.00
+60 Other Urban Development Schemes
+501 Services and service fees 0.00 0.40 (-)100.00
+Total 60 0.00 0.40 (-)100.00
+Total: 0217 0.00 347.29 (-)100.00
+66

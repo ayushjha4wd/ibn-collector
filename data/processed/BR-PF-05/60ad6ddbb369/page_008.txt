@@ -1,0 +1,37 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+RECEIPT HEADS (Revenue Account)
+A. Tax Revenue
+(a) Goods and Services Tax
+0005 Central Goods and Services Tax
+901 Share of net proceeds assigned to States 34,47,756.00 26,98,902.00 27.75
+Total : 0005 34,47,756.00 26,98,902.00 27.75
+0006 State Goods and Services Tax
+101 Tax 8,42,387.53 7,42,321.15 13.48
+102 Interest 6,386.66 6,423.22 (-)0.57
+103 Penalty 1,704.90 2,789.03 (-)38.87
+104 Fees 3,010.89 2,787.91 8.00
+105 Input Tax Credit cross utilisation of SGST and IGST 13,62,580.29 12,43,731.86 9.56
+106 Apportionment of IGST-Transfer-in of Tax component to SGST 5,84,657.08 2,55,116.84 129.17
+107 Apportionment of IGST-Transfer-in of Interest component to SGST 463.24 407.71 13.62
+110 Advance apportionment from IGST (-)33,480.00 70,706.56 (-)147.35
+500 Receipts awaiting transfer to other Minor Heads 0.76 (-)109.60 100.69
+800 Other Receipts 48.17 118.26 (-)59.27
+Total : 0006 27,67,759.52 23,24,292.94 19.08
+Total : (a) 62,15,515.52 50,23,194.94 23.74
+(b) Taxes on Income and Expenditure
+0020 Corporation Tax
+901 Share of net proceeds assigned to States 34,09,901.00 32,01,947.00 6.49
+Total : 0020 34,09,901.00 32,01,947.00 6.49
+0021 Taxes on Income other than Corporation Tax
+901 Share of net proceeds assigned to States 39,37,986.00 31,26,219.00 25.97
+Total : 0021 39,37,986.00 31,26,219.00 25.97
+0028 Other Taxes on Income and Expenditure
+107 Taxes on Professions, Trades, Callings and Employment 17,995.86 15,649.85 14.99
+Total : 0028 17,995.86 15,649.85 14.99
+Total : (b) 73,65,882.86 63,43,815.85 16.11
+58

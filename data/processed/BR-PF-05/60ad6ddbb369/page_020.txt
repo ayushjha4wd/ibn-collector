@@ -1,0 +1,42 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(iii) Economic Services- Contd…
+0700 Major Irrigation- Concld.
+80 General
+501 Services and Service Fees 7,159.38 8,298.84 (-)13.73
+Total : 80 7,159.38 8,298.84 (-)13.73
+Total : 0700 7,159.98 8,299.84 (-)13.73
+0701 Medium Irrigation
+01 Irrigation project of Koshi Basin (Commercial)
+101 Kosi Project 0.35 0.95 (-)63.16
+102 North Koel Project 0.28 0.00 0.00
+908 Gandak Project 0.00 0.19 (-)100.00
+Total : 01 0.63 1.14 (-)44.74
+03 Medium Irrigation-Commercial
+923 Medium Irrigation Project, South Bihar 3.76 4.59 (-)18.08
+Total : 03 3.76 4.59 (-)18.08
+Total : 0701 4.39 5.73 (-)23.39
+0702 Minor Irrigation
+01 Surface Water
+101 Receipts from water tanks 12.03 19.19 (-)37.31
+Total : 01 12.03 19.19 (-)37.31
+02 Ground Water
+101 Receipts from tube wells 8.28 1.44 475.00
+800 Other Receipts 0.00 13.05 (-)100.00
+Total : 02 8.28 14.49 (-)42.86
+03 Command Area Development
+101 Sone Command Area Development Agency 3.97 29.49 (-)86.54
+800 Other Receipts 0.48 0.00 0
+Total : 03 4.45 29.49 (-)84.91
+80 General
+501 Services and Service Fees 80.75 257.00 (-)68.58
+800 Other Receipts 0.10 0.00 0
+Total : 80 80.85 257.00 (-)68.54
+Total : 0702 105.61 320.17 (-)67.01
+70

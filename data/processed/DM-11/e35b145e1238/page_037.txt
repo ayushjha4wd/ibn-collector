@@ -1,0 +1,35 @@
+functioning online on ORGI uniform CRS software (www.crsorgi.gov.in). Registration of
+births and deaths record in physical form for the period 2015 to Dec, 2022 around
+40,000 data records digitization process is going on with the fund provided by the state
+government
+➢ Tamil Nadu: The common CRS software (www.crstn.org) is implemented
+uniformly throughout the State from 2018 onwards for registration of birth and death
+and to issue/download the birth and death certificates. The digitization of legacy
+records of registered births and deaths are carried out in the phased manner and the
+data entry of about 3 crore data have been done and the process of transferring it to the
+TNCRS portal is under process.
+➢ Telangana: Civil registration records are fully digitalized in the State.
+➢ Tripura: The work of online registration of births & deaths and reporting of
+each event has been started through ORGI uniform CRS software (www.crsorgi.gov.in)
+all over the State from 8th April 2016 onwards.
+➢ Uttarakhand: The online registration of births & deaths is done in complete
+State through ORGI uniform CRS software (www.crsorgi.gov.in). Computerization of old
+registration record was done partially some districts due to shortage manpower in
+others birth and death registration work.
+➢ Uttar Pradesh: The registration of births and deaths is being done using ORGI
+uniform CRS portal (www.crsorgi.gov.in) and computerized birth and death certificates
+are issued by all registration units. Tablets have been provided to health units for
+implementation of aadhaar based birth registration process for birth registration of
+new born. Apart from this, birth and death registration data is link with various
+beneficiaries schemes such as shramik kalyan yojana, Mukhya Mantri Kanya sumangla
+yojana and Parivar Labh yojana through API based authentication.
+➢ West Bengal: The State’s own portal Janma Mrityu Tathya (JMT) has been used
+since 5th May, 2022 and the use of ORGI Portal has been discontinued. CRS Portal & JMT
+Portal have been integrated and almost all data registered in CRS Portal are available as
+old legacy data in JMT Portal. During the year, “1427576” births and “662991” deaths
+were registered using the State’s own Software.
+➢ Andaman & Nicobar Islands: The ORGI uniform CRS online software
+(www.crsorgi.gov.in) has been implemented in all the registration units w.e.f. 01-01-
+2016 and all the old birth and death records have been uploaded in CRS portal w.e.f.
+Aug 1982.
+18

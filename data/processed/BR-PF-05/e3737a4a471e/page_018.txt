@@ -1,0 +1,42 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2021-22 2020-21 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(ii) Social Services- Concld.
+0235 Social Security and Welfare
+01 Rehabilitation
+200 Other Rehabiliation Schemes 29.50 0.00 0
+800 Other Receipts 7.81 5.54 40.97
+Total : 01 37.31 5.54 573.47
+60 Other Social Security and Welfare Programmes
+800 Other Receipts 0.00 0.91 (-)100.00
+Total : 60 0.00 0.91 (-)100.00
+Total : 0235 37.31 6.45 478.45
+0250 Other Social Services
+101 Nutrition 0.03 0.00 0
+800 Other Receipts 0.27 0.28 (-)3.57
+Total : 0250 0.30 0.28 7.14
+Total : (ii) Social Services 57,346.26 7,890.25 626.80
+(iii) Economic Services
+0401 Crop Husbandry
+103 Seeds 23.64 56.48 (-)58.14
+104 Receipts from Agricultural Farms 17.90 32.96 (-)45.69
+105 Sale of manures and fertilisers 9.30 79.26 (-)88.27
+107 Receipts from Plant Protection Services 2.22 89.40 (-)97.52
+108 Receipts from Commercial crops 0.32 9.56 (-)96.65
+119 Receipts from Horticulture and Vegetable crops 101.82 107.53 (-)5.31
+800 Other Receipts 441.91 471.37 (-)6.25
+Total : 0401 597.11 846.56 (-)29.47
+0403 Animal Husbandry
+102 Receipts from Cattle and Buffalo development 4.13 4.00 3.25
+103 Receipts from Poultry development 25.06 20.07 24.86
+105 Receipts from Piggery development 0.00 0.19 (-)100.00
+106 Receipts from Fodder and Feed development 0.32 0.35 (-)8.57
+108 Receipts from other Live Stock development 2.43 2.69 (-)9.67
+501 Services and Service Fees 28.37 33.89 (-)16.29
+800 Other Receipts 6.51 5.58 16.67
+Total : 0403 66.82 66.77 0.07
+62

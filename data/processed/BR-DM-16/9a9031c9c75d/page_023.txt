@@ -1,0 +1,47 @@
+20 KARNATAKA 2005
+21 KERALA 1998
+22 TAMIL NADU 2000
+Sex Ratio at Birth (SRB) and Population Sex Ratio
+Sex Ratio at Birth (number of females per thousand males) for the period 2009-11 has been presented
+in the report of the Sample Registration System, 2011 published by the Office of the Registrar General, India,
+for the country and the major states. These have been used for the present projection exercise. The Population
+Sex Ratio that has been used for the projection purposes has been taken from the data of Census 2011. Sex ratio
+at birth are kept varying at state level during the projection period. In the projections, the Sex Ratio at Birth are
+linearly projected in 2031 as 909 for the states (except Tamilnadu) in which in 2015-17, SRB were lower than
+909. The states are Maharashtra, Punjab, Haryana, Rajasthan, Uttar Pradesh, Bihar, Gujarat, Uttarakhand and
+NCT of Delhi. For the remaining states, the projected SRB in 2031 is taken at constant level of 943 (converging
+SRB as per the international standards). Statement 4 showing the SRBs for the states, which have been
+considered for the projection exercise, is as follows:
+STATEMENT 4
+SEX RATIO AT BIRTH
+Sex ratio at
+Sex ratio at Population sex ratio-
+India/State birth
+birth 2011 (F/M*1000)
+2009-11
+2015-17
+1 2 3
+INDIA 906 896 943
+JAMMU & KASHMIR (UT) 880 917 892
+HIMACHAL PRADESH 938 918 972
+PUNJAB 841 886 895
+UTTARAKHAND NA 841 963
+HARYANA 854 833 879
+NCT OF DELHI 880 850 868
+RAJASTHAN 878 856 912
+UTTAR PRADESH 875 878 918
+BIHAR 910 900 918
+ASSAM 926 915 958
+WEST BENGAL 941 939 950
+JHARKHAND 915 916 948
+ODISHA 946 938 979
+CHHATTISGARH 991 961 991
+MADHYA PRADESH 920 916 931
+GUJARAT 909 855 919
+MAHARASHTRA 893 881 929
+ANDHRA PRADESH 915 916 997
+KARNATAKA 945 929 973
+KERALA 965 948 1084
+TAMIL NADU 926 907 996
+TELANGANA NA 897 988
+19

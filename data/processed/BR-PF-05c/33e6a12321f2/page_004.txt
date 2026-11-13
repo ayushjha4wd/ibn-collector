@@ -1,0 +1,30 @@
+13. Information on the borrowing from Public Account as on 31.07.2023
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month July on from
+01.07.2023 July 2023 2023 31.07.2023 public
+Account
+as on
+31.07.2023
+8009-State Provident -184.32 67.58 173.99 -290.73 7,397.97
+Funds
+8011-Insurance and -50.54 0.77 14.32 -64.09 0.00
+Pension Funds
+8121-General and other 0.00 396.60 0.00 396.60 0.00
+Reserve Funds
+8342-Other Deposits 38.52 144.09 304.82 -122.21 0.00
+8443-Civil Deposits -121.90 286.37 402.34 -237.87 0.00
+8448-Deposits of Local -1,383.76 1,124.79 2,053.31 -2,312.28 0.00
+Funds
+8449-Other Deposits 0.05 4,001.49 4,001.48 0.06 0.00
+8658-Suspense 30,283.61 5,819.32 -2,999.20 39,102.13 0.00
+Accounts
+8670-Cheque and Bills 7.78 9,627.35 9,601.64 33.49 0.00
+8672-Permanent cash -0.05 0.00 0.00 -0.05 0.00
+Imprest
+8673-Cash Balance -5,070.71 41,832.28 42,346.87 -5,585.30 0.00
+Investment account
+8793-Inter-State -101.96 0.00 3.08 -105.04 0.00
+Suspense Account
+Total 23,416.72 63,300.64 55,902.65 30,814.71 7,397.97

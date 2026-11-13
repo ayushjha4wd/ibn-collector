@@ -1,0 +1,81 @@
+IRRIGATION DIVISION, TARAPUR,
+23 िसंचाई (cid:366)मंडल, तारापुर, भागलपुर
+BGPWRD137 BHAGALPUR
+GANGA PUMP CANAL DIVISION,
+24 गंगा पंप नहर (cid:366)मंडल, िशवनारायणपुर, भागलपुर
+BGPWRD139 SHEONARAYANPUR, BHAGALPUR
+GANGA PUMP CANAL DIVISION,
+25 गंगा पंप नहर (cid:366)मंडल, कहलगांव, भागलपुर
+BGPWRD140 KAHALGAON, BHAGALPUR
+26 िसंचाई (cid:366)मंडल, बांका
+BGPWRD191 IRRIGATION DIVISION, BANKA, BANKA
+FLOOD CONTROL DIVISION,
+27 बाढ़ िनयं(cid:361)ण (cid:366)मंडल,बेगूसराय
+BGSWRD061 BEGUSARAI, BEGUSARAI
+FLOOD CONTROL DIVISION, ARRAH,
+28 बाढ़ िनयं(cid:361)ण (cid:366)मंडल, आरा, भोजपुर
+BJRWRD037 BHOJPUR
+SONE CANAL DIVISION, ARRAH,
+29 सोन नहर (cid:366)मंडल, आरा, भोजपुर
+BJRWRD096 BHOJPUR
+ADVANCE PLANNING INVESTIGATION सम(cid:356) योजना अ(cid:587)ेषण एवं (cid:366)ोजे(cid:387) ि(cid:366)परेशन (cid:366)मंडल,
+30
+& PROJECT PREPARATION DIVISION, बौसं ी, बांका
+BNKWRD004 BAUNSI, BANKA
+FLOOD CONTROL DIVISION, BAUNSI,
+31 बाढ़ िनयं(cid:361)ण (cid:366)मंडल, बौसं ी, बांका
+BNKWRD043 BANKA
+IRRIGATION DIVISION, BIJIKHORWA,
+32 िसंचाई (cid:366)मंडल, िबजीखोरबा , बांका
+BNKWRD136 BANKA
+IRRIGATION DIVISION, BAUNSI,
+33 िसंचाई (cid:366)मंडल, बौसं ी, बांका
+BNKWRD141 BANKA
+QUALITY CONTROL (FIOOD CONTROL
+गुण िनयं(cid:361)ण (बाढ़ िनयं(cid:361)ण एवं जल िन(cid:739)रण) (cid:366)मंडल,
+34 & DRAINAGE) DIVISION, BIRPUR,
+बीरपुर, सुपौल
+BRPWRD017 SUPAUL
+DRAINAGE DIVISION, RAGHOPUR,
+35 जल िनसंरन (cid:366)मंडल, राघोपुर, सुपौल
+BRPWRD046 SUPAUL
+EASTERN EMBANKMENT DIVISION -2,
+36 पूव(cid:334) तटबंध (cid:366)मंडल-2 बीरपुर, सुपौल
+BRPWRD056 BIRPUR, SUPAUL
+EASTERN EMBANKMENT DIVISION,
+37 पूव(cid:334) तटबंध (cid:366)मंडल, बीरपुर, सुपौल
+BRPWRD057 BIRPUR, SUPAUL
+WESTERN EMBANKMENT DIVISION,
+38 पि(cid:686)मी तटबंध (cid:366)मंडल, बीरपुर, सुपौल
+BRPWRD059 BIRPUR, SUPAUL
+HEAD WORKS DIVISION, BIRPUR,
+39 शीष(cid:330) (cid:366)मंडल, बीरपुर, सुपौल
+BRPWRD060 SUPAUL
+IRRIGATION DIVISION, BIRPUR,
+40 िसंचाई (cid:366)मंडल, बीरपुर, सुपौल
+BRPWRD149 SUPAUL
+IRRIGATION DIVISION, RAGHOPUR ,
+41 िसंचाई (cid:366)मंडल, राघोपुर, सुपौल
+BRPWRD151 SUPAUL
+WESTERN KOSI CANAL
+42 पि(cid:686)मी कोसी नहर (cid:366)मंडल, कु नौली, सुपौल
+BRPWRD154 DIVISION,KUNAULI , SUPAUL
+FLOOD CONTROL DIVISION, BUXAR,
+43 बाढ़ िनयं(cid:361)ण (cid:366)मंडल, ब(cid:411)र
+BXRWRD038 BUXAR
+GANGA PUMP CANAL DIVISION,
+44 गंगा पंप नहर (cid:366)मंडल, चौसा, ब(cid:411)र
+BXRWRD093 CHAUSA, BUXAR
+SONE CANAL DIVISION, BUXAR,
+45 सोन नहर (cid:366)मंडल, ब(cid:411)र
+BXRWRD094 BUXAR
+FLOOD CONTROL DIVISION,
+46 बाढ़ िनयं(cid:361)ण (cid:366)मंडल, दलिसंहसराय, सम(cid:721)ीपुर
+DALWRD069 DALSINGHSARAI, SAMASTIPUR
+ADVANCE PLANNING INVESTIGATION
+47 सम(cid:356) योजना अ(cid:587)ेषण एवं एवं (cid:366)ोजे(cid:387) (cid:366)मंडल, दरभंगा
+& PROJECT PREPARATION DIVISION,
+DBGWRD010 DARBHANGA, DARBHANGA
+QUALITY CONTROL (IRRIGATION
+48 CREATION) DIVISION, DARBHANGA, गुण िनयं(cid:361)ण (िसंचाई सृजन) (cid:366)मंडल, दरभंगा
+DBGWRD027 DARBHANGA

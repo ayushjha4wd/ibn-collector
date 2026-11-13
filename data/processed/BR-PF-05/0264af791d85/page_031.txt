@@ -1,0 +1,42 @@
+STATEMENT 4: STATEMENT OF EXPENDITURE (CONSOLIDATED FUND)
+A. EXPENDITURE BY FUNCTION
+(```` in crore)
+Description Revenue Capital L&A Total
+C.4 Energy
+Power 12,701.36 3,078.71 91.03 15,871.10
+New and Renewable Energy 48.62 0.00 0.00 48.62
+C.5 Industry and Minerals
+Village and Small Industries 636.33 1,392.24 524.33 2,552.90
+Industries 639.72 0.00 0.00 639.72
+Non-ferrous Mining and Metallurgical Industries 37.56 0.00 0.00 37.56
+Telecommunication and Electronic Industries 0.00 130.83 0.00 130.83
+Industries and Minerals 0.00 170.00 0.00 170.00
+C.6 Transport
+Civil Aviation 3.52 0.00 0.00 3.52
+Roads and Bridges 4,583.72 6,601.92 0.00 11,185.64
+Road and Transport 131.49 7.76 0.00 139.25
+Other Transport Services 0.50 959.00 0.00 959.50
+C.7 Science Technology and Environment
+Ecology and Environment 2.26 0.00 0.00 2.26
+C.8 General Economic Services
+Secretariat- Economic Services 135.70 0.00 0.00 135.70
+Tourism 171.24 203.14 0.00 374.38
+Census Surveys and Statistics 509.34 0.00 0.00 509.34
+Civil Supplies 814.72 0.00 0.00 814.72
+Other General Economic Services 15.16 235.11 0.00 250.27
+Total - Economic Services 39,598.45 22,297.64 632.93 62,529.02
+D Grants-in-aid and Contributions
+Compensation and Assignments to Local Bodies
+0.11 0.00 0.00 0.11
+and Panchayati Raj Institutions
+E Public Debt
+Internal Debt of the State Government 0.00 12,886.20 0.00 12,886.20
+Loans and Advances from the Central Government 0.00 1,464.87 0.00 1,464.87
+F Loans and Advances
+Loans to Government Servants etc. 0.00 0.00 26.92 26.92
+Total - Grants-in-aid and Contributions,
+0.11 14,351.07 26.92 14,378.10
+Public Debt and Loans and Advances
+G Inter - State Settlement 0.00 0.00 0.00 0.00
+Total - Consolidated Fund Expenditure 1,83,976.22 45,870.89 2,056.77 2,31,903.88
+13

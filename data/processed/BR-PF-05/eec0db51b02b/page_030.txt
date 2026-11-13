@@ -1,0 +1,39 @@
+STATEMENT 3: STATEMENT OF RECEIPTS (CONSOLIDATED FUND)
+(```` in crore)
+Actuals
+Description
+2021-22 2020-21
+III - CAPITAL, PUBLIC DEBT AND OTHER RECEIPTS
+D. Capital Receipts
+Disinvestment proceeds 0.00 0.00
+Others 0.00 0.00
+Total - D 0.00 0.00
+E. Public Debt receipts
+Internal Debt 30,917.46 29,412.30
+Market Loans 28,517.46 27,285.00
+WMA1 from the RBI 0.00 0.00
+Bonds 0.00 0.00
+Loans from Financial Institutions 2,400.00 2,127.30
+Special Securities issued to
+0.00 0.00
+National Small Savings Fund
+Other Loans 0.00 0.00
+Loans and Advances from Central Government 9,527.44 6,502.77
+Non-Plan Loans 0.00 0.00
+Loans for State Plan Schemes 0.00 0.00
+Loans for Centrally Sponsored
+0.00 0.33
+Schemes
+Other Loans for States/Union Territory
+9,527.44 6,502.44
+with Legislature Schemes
+Total - E 40,444.90 35,915.07
+F. Loans and Advances by State Government (Recoveries)2 27.92 820.43
+G. Inter-State Settlement 0.00 0.00
+Total - Receipts in Consolidated Fund3
+1,99,270.15 1,64,903.84
+(A+B+C+D+E+F+G)
+1 WMA: Ways and Means Advances
+2 Details are in Statement 7 in Volume I and 18 in Volume II.
+3 Details are in Statement 7 in Volume I and 14 and 17 in Volume II.
+10

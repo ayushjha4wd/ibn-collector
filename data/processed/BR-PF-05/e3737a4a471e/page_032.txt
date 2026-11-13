@@ -1,0 +1,26 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2021-22 2020-21 during the year
+C. Grants-in-Aid and Contributions- Concld.
+1601 Grants-in-aid from Central Government- Concld.
+08 Other Transfer/Grants to States/Union Territories with Legislatures- Concld.
+Grants for Direct Benefit Transfer in Kerosene 0.00 9,545.72 (-)100.00
+Grants for road sector projects under special Assistance Capital 0.00 19,573.85 (-)100.00
+114 Compensation for Loss of Revenue Arising out of Implementation of GST 1,94,508.35 4,35,927.91 (-)55.38
+Compensation to State Governments for Revenue due to Implementation of GST 1,94,508.35 4,35,927.91 (-)55.38
+796 Tribal Area Sub Plan 642.08 0.00 0
+Grants under Provison to Article 275 (i) of the Constitution 642.08 0.00 0
+Total : 08 3,69,536.32 6,33,789.02 (-)41.69
+Total : 1601 28,60,583.08 31,76,388.20 (-)9.94
+Total : C 28,60,583.08 31,76,388.20 (-)9.94
+TOTAL - RECEIPT HEADS (Revenue Account) 1,58,79,733.24 1,28,16,834.50 23.90
+RECEIPT HEAD (Capital Account)
+4000 Miscellaneous Capital Receipts
+01 Civil
+105 Retirement of Capital/ Disinvestments of Co-operative Societies /Banks 0.00 0.00 0
+Total : 4000 0.00 0.00 0
+TOTAL - RECEIPT HEAD (Capital Account) 0.00 0.00 0
+GRAND TOTAL - Receipt Heads 1,58,79,733.24 1,28,16,834.50 23.90
+76

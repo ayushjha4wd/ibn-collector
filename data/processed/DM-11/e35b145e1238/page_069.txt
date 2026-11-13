@@ -1,0 +1,47 @@
+In Statement 15, the State/UT-wise percentage of deaths registered within the
+prescribed time period and arranged in descending order.
+Statement 15: State/UT wise Death Registration completed within the prescribed time
+limit of 21 days
+Death Registration
+Sl. No. State/ Union Territory Completed Within 21 Registered Deaths %
+days
+1. Chandigarh 20239 20751 97.5
+2. Punjab 237777 245339 96.9
+3. Lakshadweep 346 365 94.8
+4. D & N Haveli and Daman & Diu 3950 4179 94.5
+5. Haryana 227800 244171 93.3
+6. Mizoram 8385 9037 92.8
+7. Puducherry 12377 13382 92.5
+8. Himachal Pradesh 45162 49681 90.9
+9. A & N Islands 2540 2804 90.6
+10. Gujarat 429041 487971 87.9
+11. Tamil Nadu 608248 693205 87.7
+12. Andhra Pradesh 387390 442218 87.6
+13. Meghalaya 17172 19619 87.5
+14. Maharashtra 669568 773010 86.6
+15. Goa 13331 15397 86.6
+16. Chhattisgarh 189917 231663 82.0
+17. Telangana 192455 240058 80.2
+18. Madhya Pradesh 405204 520452 77.9
+19. Tripura 24365 31435 77.5
+20. Odisha 318501 415288 76.7
+21. Jammu & Kashmir 46894 64211 73.0
+22. Rajasthan 331670 464476 71.4
+23. West Bengal 465615 662991 70.2
+24. Delhi 95192 140562 67.7
+25. Uttar Pradesh 800089 1229687 65.1
+26. Assam 98796 153858 64.2
+27. Karnataka 342773 539277 63.6
+28. Kerala 190915 304286 62.7
+29. Bihar 251194 415107 60.5
+30. Jharkhand 90704 152750 59.4
+31. Uttarakhand 33452 58465 57.2
+32. Ladakh 510 952 53.6
+33. Manipur 4353 9145 47.6
+34. Nagaland 1024 3934 26.0
+35. Arunachal Pradesh 634 4443 14.3
+Note:
+- Total Registered Deaths in respect of Delhi and Goa include all delayed Deaths registered and may not tally
+with Registered Deaths of State/UT.
+- Partial Information has been provided by Sikkim and therefore not included.
+50

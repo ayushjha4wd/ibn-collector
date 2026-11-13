@@ -1,0 +1,49 @@
+Statement 28: Time Gap in Death Registration – States/Union Territories, 2023
+More than 21 More than 30
+Sl. Within Time
+State/ Union Territory days but within days but within After One Year
+No. Limit
+30 days 1 year
+States
+1. Andhra Pradesh 387390 11141 20812 22875
+2. Arunachal Pradesh 634 553 460 2796
+3. Assam 98796 15165 19910 19987
+4. Bihar 251194 23516 94587 45810
+5. Chhattisgarh 189917 6731 14576 20439
+6. Goa 13331 1562 369 135
+7. Gujarat 429041 24651 18970 15309
+8. Haryana 227800 7966 3825 4580
+9. Himachal Pradesh 45162 2212 1401 906
+10. Jharkhand 90704 7788 34858 19400
+11. Karnataka 342773 65801 91167 39536
+12. Kerala 190915 38361 69850 5160
+13. Madhya Pradesh 405204 21669 38676 54903
+14. Maharashtra 669568 33266 50836 19340
+15. Manipur 4353 302 1734 2756
+16. Meghalaya 17172 1020 694 733
+17. Mizoram 8385 166 202 284
+18. Nagaland 1024 704 779 1427
+19. Odisha 318501 29546 15625 51616
+20. Punjab 237777 53 1323 6186
+21. Rajasthan 331670 38044 43601 51161
+22. Sikkim N.A N.A N.A N.A
+23. Tamil Nadu 608248 13313 43149 28495
+24. Telangana 192455 29274 13846 4483
+25. Tripura 24365 1202 2487 3381
+26. Uttarakhand 33452 5933 12984 6096
+27. Uttar Pradesh 800089 88991 198187 142420
+28. West Bengal 465615 54854 113229 29293
+Union Territories
+1. A & N Islands 2540 40 166 58
+2. Chandigarh 20239 185 296 31
+3. D & N Haveli and Daman & 3950 103 68 58
+4. DDieulh i 95192 12785 30285 2300
+5. Jammu & Kashmir 46894 1710 4351 11256
+6. Ladakh 510 48 228 166
+7. Lakshadweep 346 4 15 0
+8. Puducherry 12377 472 471 62
+Note: N.A.- Not Available
+- In respect of Goa and Delhi Delayed Registration is added hence State figures mentioned may not tally with State/UT
+Death Registration Figures
+- Partial Data in respect of Sikkim have been received and therefore not included.
+69

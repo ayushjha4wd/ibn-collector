@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As on 1st March : 2011 - 2036
+HIMACHAL PRADESH
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 6865 7158 7394 7579 7712 7785
+Male 3482 3631 3750 3843 3908 3945
+Female 3383 3528 3644 3737 3804 3840
+Sex Ratio 972 972 972 972 973 973
+Population Density (Sq. Km.) 123 129 133 136 139 140
+Population by broad age-group
+(000')
+18 years and above 4701 5136 5523 5851 6108 6284
+0-14 1778 1648 1520 1400 1309 1225
+15-59 4373 4682 4909 5048 5082 5034
+60+ 713 829 965 1131 1320 1526
+Proportion (percent)
+0-14 25.9 23.0 20.6 18.5 17.0 15.7
+15-59 63.7 65.4 66.4 66.6 65.9 64.7
+15-49 (female population) 55.4 55.6 55.0 53.6 51.4 48.8
+60+ 10.4 11.6 13.1 14.9 17.1 19.6
+Median age (years) 28.22 30.30 27.55 34.84 37.18 39.48
+Dependency Ratio
+Young (0-14) 407 352 310 277 258 243
+Old (60+) 163 177 197 224 260 303
+Total (Young and old) 570 529 507 501 518 546
+TABLE-17A
+Demographic Indicators : 2011-2035
+HIMACHAL PRADESH
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 8.4 6.5 5.0 3.5 1.9
+Crude Birth Rate (CBR) 14.8 13.2 12.0 10.9 10.0
+Crude Death Rate (CDR) 6.9 7.2 7.6 8.0 8.7
+Infant Mortality Rate (IMR) 37.6 34.4 31.6 28.8 26.6
+Under-5 mortality rate (q ) 41.0 37.6 34.7 31.7 29.3
+5
+Total Fertility Rate (TFR) 1.71 1.59 1.54 1.51 1.50
+Life expectancy of males 69.10 70.10 70.90 71.70 72.50
+Life expectancy of females 75.17 75.97 76.77 77.57 78.07
+169

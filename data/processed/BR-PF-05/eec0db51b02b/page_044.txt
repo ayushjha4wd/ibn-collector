@@ -1,0 +1,36 @@
+STATEMENT 7: STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 2: Summary of Loans and Advances - Sector wise
+( ```` in crore )
+Write off of Net increase (+)/ Interest
+Balance on Disbursements Repayments during Balance on
+Sector irrecoverable loans decrease(-) during the payment in
+1 April 2021 during the year the year 31 March 2022
+and advances year arrears
+1 2 3 4 5 6 7 8
+General Services 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Social Services 2,172.33 682.15 0.00 0.00 2,854.48 682.15 103.03
+Economic Services 19,469.44 767.60 7.44 0.00 20,229.60 760.16 12,659.34
+Government Servant 101.15 28.76 20.48 0.00 109.43 8.28 0.00
+Loans for Miscellaneous purposes 0.85 0.00 0.00 0.00 0.85 0.00 0.00
+Total 21,743.77 1,478.51 27.92 0.00 23,194.36 1,450.59 12,762.37
+Section 3: Summary of Loans in arrears- from Loanee entity and Loanee Group-wise
+( ```` in crore )
+Amount of arrears as on 31 March 2022* Total loans outstanding against the
+Loanee - Entity Earliest period to which arrears relate*
+entity on 31 March 2022
+Principal Interest Total
+Municipalities/ Municipal Councils/
+19.54 63.40 82.94 2001-02 386.85
+Municipal Corporations
+Housing Boards 4.75 6.40 11.15 2001-02 127.47
+Government Companies 5,193.33 6,054.40 11,247.73 2001-02 7,978.93
+Co-operative Societies/Co-operative
+122.09 887.48 1,009.57 2001-02 807.21
+Corporations/Banks
+Panchayati Raj Institutions 17.47 33.23 50.70 2001-02 57.63
+Statutory Corporations 3,685.32 4,768.52 8,453.84 2001-02 13,111.81
+Others 241.99 948.94 1,190.93 2001-02 609.40
+Total 9,284.49 12,762.37 22,046.86 23,079.30
+*An amount of `3,446.27 crore ( Principal `1,522.50 crore and interest `1,923.77 crore) relating to arrears upto 2000-01 has not been included as the details of the same is not available.
+Note: Reconciliation with State Government is still awaited.
+24

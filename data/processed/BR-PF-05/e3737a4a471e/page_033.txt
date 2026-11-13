@@ -1,0 +1,39 @@
+Explanatory Notes to Statement 14
+Revenue Receipts:-The revenue increased from `1,28,16,834.50 lakh in 2020-21 to `1,58,79,733.24 lakh in 2021-22. The net increase of `30,62,898.74 lakh was mainly under
+the following heads:-
+2020-21 2021-22 Increase
+Head Main Reason
+(```` in lakh)
+Central Goods and Services Tax
+0005 17,78,867.00 25,44,220.00 7,65,353.00 More receipts mainly under share of net proceeds assigned to States.
+(CGST)
+More receipts mainly under Apportionment of IGST-Transfer-in of Tax
+0006 State Goods and Services Tax 16,05,023.22 19,26,414.86 3,21,391.64
+component to SGST.
+0020 Corporation Tax 18,06,214.00 27,17,850.00 9,11,636.00 More receipts mainly under share of net proceeds assigned to States.
+Taxes on Income other than
+0021 18,51,749.00 26,66,132.00 8,14,383.00 More receipts mainly under share of net proceeds assigned to States.
+Corporation Tax
+Other Taxes on Income and More receipts mainly under Taxes on profession Trades, Callings and
+0028 12,581.11 14,117.76 1,536.65
+Expenditure Employment.
+0030 Stamps and Registration Fees 4,20,632.19 5,22,397.94 1,01,765.75 More receipts mainly under sale of Stamps.
+0037 Customs 3,17,993.00 6,77,597.00 3,59,604.00 More receipts mainly under share of net proceeds assigned to States.
+0038 Union Excise Duties 2,01,203.00 3,86,886.00 1,85,683.00 More receipts mainly under share of net proceeds assigned to States.
+0040 Taxes on Sales, Trade etc. 6,03,142.39 6,87,169.95 84,027.56 More receipts mainly under Value Added Tax (VAT) Receipts.
+0041 Taxes on Vehicles 2,26,775.29 2,47,509.32 20,734.03 More receipts mainly under the State Motor and Vehicles Taxation Act.
+0044 Service Tax 25,809.00 1,32,622.00 1,06,813.00 More receipts mainly under share of net proceeds assigned to States.
+Other Taxes and Duties on
+0045 4,446.94 9,300.67 4,853.73 More receipts mainly under share of net proceeds assigned to States.
+Commodities and Services
+0059 Public Works 479.23 2,204.06 1,724.83 More receipts mainly under Rents.
+0070 Other Administrative Services 2,652.74 57,812.41 55,159.67 More receipts mainly under services and service fees.
+Education, Sports, Art and
+0202 1,150.14 50,912.50 49,762.36 More receipts mainly under Tuitions and other Fees.
+Culture
+0406 Forestry and Wild Life 1,552.62 3,109.68 1,557.06 More receipts mainly under other receipts.
+0700 Major Irrigation 2,407.04 4,058.90 1,651.86 More receipts mainly under services and service fees.
+Non-ferrous Mining and
+0853 1,70,892.68 1,76,614.15 5,721.47 More receipts mainly under Mineral concession fees, rents and royalities.
+Metallurgical Industries
+77

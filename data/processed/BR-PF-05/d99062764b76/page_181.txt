@@ -1,0 +1,40 @@
+STATEMENT 17: DETAILED STATEMENT OF BORROWINGS AND OTHER LIABILITIES
+(a) Statement of Public Debt and Other Obligations
+( ```` in lakh )
+Discharge Net Increase(+) /
+Balance as on Addition Balance as on
+Description of debt during the Decrease(-) Interest paid
+1 April 2022 during the year 31 March 2023
+year In ```` Per cent
+E. Public Debt (b)
+6003 Internal Debt of the State Government
+#
+101 Market Loans 1,56,57,511.27 36,80,000.00 9,10,000.11 1,84,27,511.16 27,69,999.89 17.69 11,64,532.05
+103 Loans from Life Insurance Corporation of India 2,155.15 0.00 0.00 2,155.15 0.00 0 0.00
+(a) (a)
+104 Loans from General Insurance Corporation of India (-)127.08 0.00 0.00 (-)127.08 0.00 0 0.00
+105 Loans from the National Bank for Agriculture and Rural
+9,61,748.64 1,32,898.59 1,61,447.42 9,33,199.81 (-)28,548.83 (-)2.97 34,942.05
+Development
+106 Compensation and other Bonds 2,19,524.93 0.00 23,317.79 1,96,207.14 (-)23,317.79 (-)10.62 1,75,516.72
+(a) (a)
+107 Loans from the State Bank of India and other Banks (-)12.00 0.00 0.00 (-)12.00 0.00 0 0.00
+108 Loans from National Co-operative Development Corporation 47,325.71 0.00 5,019.89 42,305.82 (-)5,019.89 (-)10.61 4,616.52
+109 Loans from other Institutions 99.48 0.00 0.00 99.48 0.00 0 0.00
+111 Special Securities issued to National Small Savings Fund of
+13,96,560.39 0.00 1,88,834.78 12,07,725.61 (-)1,88,834.78 (-)13.52 1,33,107.72
+the Central Government
+800 Other Loans 745.27 0.00 0.00 745.27 0.00 0 0.00
+Total : 6003 1,82,85,531.76 38,12,898.59 12,88,619.99 2,08,09,810.36 25,24,278.60 13.80 15,12,715.06
+6004 Loans and Advances from the Central Government
+01 Non-plan Loans
+800 Other Loans 57.93 0.00 0.00 57.93 0.00 0 0.00
+Total : 01 57.93 0.00 0.00 57.93 0.00 0 0.00
+02 Loans for State/Union Territory Plan Schemes
+103 Loans against External Assistance received in kind 19,129.40 0.00 0.00 19,129.40 0.00 0 0.00
+Total : 02 19,129.40 0.00 0.00 19,129.40 0.00 0 0.00
+(a)
+Correspondance has been made with the State Government for reconciliation.
+(b) For details please see Annexure to this Statement.
+# Interest of Management of debt amounting `2,545.17 lakh is included.
+227

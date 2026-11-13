@@ -1,0 +1,44 @@
+STATEMENT 21: DETAILED STATEMENT ON CONTINGENCY FUND AND OTHER PUBLIC ACCOUNT TRANSACTIONS
+( ```` in lakh )
+Net Increase (+)/
+Opening Balance as Closing Balance as on
+Head of Account Receipts Disbursements Decrease (-)
+on 1 April 2022 31 March 2023
+Per cent
+B- Public Account- Contd…
+L. Suspense and Miscellaneous- Concld.
+(c) Other Accounts- Concld.
+8671 Departmental Balances
+101 Civil Dr. 23,465.19 0.00 0.00 Dr. 23,465.19 0
+Total- 8671 Departmental Balances Dr. 23,465.19 0.00 0.00 Dr. 23,465.19 0
+8672 Permanent Cash Imprest
+101 Civil Dr. 76,239.55 0.00 306.90 Dr. 76,546.45 0.40
+Total- 8672 Permanent Cash Imprest Dr. 76,239.55 0.00 306.90 Dr. 76,546.45 0.40
+8673 Cash Balance Investment Account
+101 Cash Balance Investment Account Dr. 22,07,025.36 4,37,72,771.70 4,29,72,728.90 Dr. 14,06,982.56 (-)36.25
+Total- 8673 Cash Balance Investment Account Dr. 22,07,025.36 4,37,72,771.70 4,29,72,728.90 Dr. 14,06,982.56 (-)36.25
+Total (c) Other Accounts Dr. 22,85,982.32 6,26,26,863.28 6,18,30,743.95 Dr. 14,89,862.99 (-)34.83
+(d) Accounts with Governments of Foreign Countries
+8679 Accounts with Governments of other Countries
+102 Bangladesh Dr. 0.01 0.00 0.00 Dr. 0.01 0
+103 Burma Dr. 36.30 0.00 0.45 Dr. 36.75 1.24
+105 Pakistan Dr. 19.99 0.00 0.00 Dr. 19.99 0
+106 Singapore Dr. 0.10 0.00 0.00 Dr. 0.10 0
+Total- 8679 Accounts with Governments of other Countries Dr. 56.40 0.00 0.45 Dr. 56.85 0.80
+Total (d) Accounts with Governments of Foreign Countries Dr. 56.40 0.00 0.45 Dr. 56.85 0.80
+Total L. Suspense and Miscellaneous Dr. 38,47,642.14 6,28,34,723.05 6,19,18,622.01 Dr. 29,31,541.10 (-)23.81
+M. Remittances
+(a) Money orders and other remittances
+8782 Cash Remittances and adjustments between officers rendering
+accounts to the same Accounts Officer
+102 Public Works Remittances Dr. 91,910.72 0.00 0.00 Dr. 91,910.72 0
+103 Forest Remittances Dr. 20,354.58 0.00 0.00 Dr. 20,354.58 0
+104 Remittances of Government Commercial Undertakings Cr. 25.99 0.00 0.00 Cr. 25.99 0
+105 Reserve Bank of India Remittances Dr. 59.70 0.00 0.00 Dr. 59.70 0
+108 Other Departmental Remittances Cr. 3.24 0.00 0.00 Cr. 3.24 0
+110 Miscellaneous Remittances Dr. 12.31 0.00 0.00 Dr. 12.31 0
+Total- 8782 Cash Remittances and adjustments between officers
+Dr. 1,12,308.08 0.00 0.00 Dr. 1,12,308.08 0
+rendering accounts to the same Accounts Officer
+Total (a) Money orders and other Remittances Dr. 1,12,308.08 0.00 0.00 Dr. 1,12,308.08 0
+313

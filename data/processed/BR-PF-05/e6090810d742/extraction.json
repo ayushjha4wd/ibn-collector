@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-05/2026-11-13/Guidelines-on-Transfer-and-posting-20200728163940.pdf",
+  "raw_sha256": "e6090810d742488159c9d8d47d6469294ceae0abe737118e8ca8df43766a6afe",
+  "source_id": "BR-PF-05",
+  "source_url": "https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Guidelines-on-Transfer-and-posting-20200728163940.pdf",
+  "parent_url": "https://cag.gov.in/ae/bihar/en/page-ae-bihar-accounts-vlc",
+  "retrieved_at_utc": "2026-11-13T07:01:08+00:00",
+  "obtained_on": null,
+  "kind": "pdf",
+  "outputs": [
+    "data/processed/BR-PF-05/e6090810d742/page_001.txt"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

@@ -1,0 +1,43 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+MADHYA PRADESH
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 72627 78806 84516 89673 94057 97804
+Male 37612 40737 43609 46157 48288 50073
+Female 35015 38069 40907 43515 45769 47731
+Sex Ratio 931 935 938 943 948 953
+Population Density (Sq. Km.) 236 256 274 291 305 317
+Population by broad age-group
+(000')
+18 years and above 43669 49227 54949 60196 65346 70696
+0-14 24330 24645 24767 24847 23572 22230
+15-59 42839 47993 52588 56211 60038 63064
+60+ 5458 6168 7161 8614 10448 12510
+Proportion (percent)
+0-14 33.5 31.3 29.3 27.7 25.1 22.7
+15-59 59.0 60.9 62.2 62.7 63.8 64.5
+15-49 (female population) 51.8 53.0 53.3 53.0 53.3 53.2
+60+ 7.5 7.8 8.5 9.6 11.1 12.8
+Median age (years) 23.31 24.44 25.98 27.77 29.73 31.70
+Dependency Ratio
+Young (0-14) 568 514 471 442 393 353
+Old (60+) 127 129 136 153 174 198
+Total (Young and old) 695 643 607 595 567 551
+TABLE-17A
+Demographic Indicators : 2011-2035
+MADHYA PRADESH
+2021- 2026- 2031-
+Indicator 2011-15 2016-20 25 30 35
+1 2 3 4 5 6
+Population growth rate 16.3 14.0 11.8 9.5 7.8
+Crude Birth Rate (CBR) 24.9 22.1 19.5 17.1 15.4
+Crude Death Rate (CDR) 8.2 7.6 7.3 7.1 7.2
+Infant Mortality Rate (IMR) 58 51 46 41 37
+Under-5 mortality rate (q ) 85 75 67 60 54
+5
+Total Fertility Rate (TFR) 3.04 2.64 2.34 2.12 1.96
+Life expectancy of males 63.20 65.20 66.70 68.20 69.40
+Life expectancy of females 66.50 68.50 70.50 72.00 73.50
+221

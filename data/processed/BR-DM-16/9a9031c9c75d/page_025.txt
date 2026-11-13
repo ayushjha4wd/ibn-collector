@@ -1,0 +1,19 @@
+In case of mortality, the age specific death rates for the years 2009-2011, has been used for working out the
+expectation of life at birth for the base year.
+Based on the projected population of the combined North-Eastern Region, as worked out for the quinquennial
+periods 2011-2035, the projected population of each of the seven states of the region (excluding Assam) for the
+quinquennial periods 2011-2035 have been worked out by pro-rata distribution of the population based on
+Census 2011 population, that is,
+(a) Proportion of population of each of the seven states to the total population of these seven states
+based on Census 2011 have been worked out;
+(b) Assuming the proportions to be constant in future years as well and using the same and the total
+projected population of the north-eastern region for each of the quinquennial periods, the
+projected population of each of the seven north-eastern states for the quinquennial periods 2011-
+2035 have been worked out.
+Population Projection of Urban Population
+For projecting the urban population, the URGD method as given in Manual – VIII of U.N. has been
+adopted. This method is based on the fact that the urban-rural growth differentials follow a logistic pattern.
+The URGD for the period 2001-2011 has been assumed to be same in future as well upto 2036. These projected
+urban population by sex for India, states and union territories as on 1st March, 1st July and 1st October are
+provided in Tables 9, 12 and 15 respectively.
+21

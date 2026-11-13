@@ -1,0 +1,50 @@
+Add 0.00 0.57 0.00 0.00 0.00 0.00 0.57
+Other basic Structures(5)
+Bihar State water council 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Bihar state Agro Industries 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+development
+corporation
+Bihar State basic structure 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Development
+Regional Development 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Authority
+Bihar State Minor Industries 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Corporation
+Bihar State sugar Corporation 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Ltd.
+Bihar Drug and chemical Ltd. 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Add 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Any Others(10)
+Bihar state Agro 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Development council
+Bihar State food and civil 3900 127.62 10832 6959.57 0.00 0.00 7900.55
+supply corporation .00 .50
+Bihar State Leather Industries 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+development
+corporation
+Bihar State seeds corporation 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+limited
+Bihar State Fisheries 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+development
+corporation
+Bihar State Minorities 30.0 0.00 0.00 0.00 0.00 0.00 30.00
+Finance corporation , 00
+Patna
+Bihar State Backward class 15.3 16.22 0.00 0.00 0.00 0.00 32.51
+Finance and 9
+Development
+Corporation
+Bihar State fruits and 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+vegetables
+development
+corporation Ltd.
+Bihar State schedule tribe 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+development
+corporation
+Bihar State Text book 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Publishing
+Corporation
+Add 3945 143.84 10832 6959.57 0.00 0.00 7963.06
+.39 .50
+Total add 1608 327.63 17400 9407.99 0.00 0.00 25069.77
+0.07 .73

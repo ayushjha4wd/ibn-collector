@@ -1,0 +1,21 @@
+Explanatory Notes to Statement 14
+The net decrease in Revenue Receipts was partly offset by increase mainly under :-
+2021-22 2022-23 Decrease
+Head Main Reason
+(```` in lakh)
+0037 Customs 6,77,597.00 3,75,466.00 3,02,131.00 Less receipts mainly under share of net proceeds assigned to States.
+0038 Union Excise Duties 3,86,886.00 1,17,803.00 2,69,083.00 Less receipts mainly under share of net proceeds assigned to States.
+0044 Service Tax 1,32,622.00 14,928.00 1,17,694.00 Less receipts mainly under share of net proceeds assigned to States.
+0049 Interest Receipts 72,247.28 64,203.25 8,044.03 Less receipts mainly under Other Receipts.
+0050 Dividend and Profits 653.99 148.82 505.17 Less receipts mainly under Dividend from Public Undertakings.
+0059 Public Works 2,204.06 1,721.60 482.46 Less receipts mainly under Rents and Services and Service Fees.
+0070 Other Administrative Services 57,812.41 30,134.22 27,678.19 Less receipts mainly under services and service fees.
+Education, Sports, Art and
+0202 50,912.50 582.90 50,329.60 Less receipts mainly under Secondary Education.
+Culture
+0210 Medical and Public Health 4,068.51 3,159.94 908.57 Less receipts mainly under other receipts.
+Other Rural Development
+0515 3,542.03 2,814.21 727.82 Less receipts mainly under Services and Service Fees and other receipts.
+Programmes
+1054 Roads and Bridges 5,187.85 (-)34.85 5,222.70 Less receipts mainly under Services and Service Fees.
+79

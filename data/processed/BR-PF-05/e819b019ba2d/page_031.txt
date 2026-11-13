@@ -1,0 +1,46 @@
+STATEMENT 4: STATEMENT OF EXPENDITURE (CONSOLIDATED FUND)
+A. EXPENDITURE BY FUNCTION
+(```` in crore)
+Description Revenue Capital L&A Total
+C.4 Energy
+Power 13,918.44 1,782.31 86.73 15,787.48
+New and Renewable Energy 55.20 136.00 0.00 191.20
+C.5 Industry and Minerals
+Village and Small Industries 786.40 419.90 415.10 1,621.40
+Industries 901.97 0.00 0.00 901.97
+Non-ferrous Mining and Metallurgical Industries 46.40 0.00 0.00 46.40
+Telecommunication and Electronic Industries 0.00 202.31 0.00 202.31
+Industries and Minerals 0.00 100.00 0.00 100.00
+C.6 Transport
+Civil Aviation 4.68 65.05 0.00 69.73
+Roads and Bridges 6,209.89 6,931.88 0.00 13,141.77
+Road Transport 120.15 12.44 0.00 132.59
+Other Transport Services 0.68 590.00 0.00 590.68
+C.7 Science Technology and Environment
+Ecology and Environment 2.91 0.00 0.00 2.91
+C.8 General Economic Services
+Secretariat- Economic Services 140.30 0.00 0.00 140.30
+Tourism 187.09 273.05 0.00 460.14
+Census Surveys and Statistics 54.36 0.00 0.00 54.36
+Civil Supplies 972.83 0.00 0.00 972.83
+General Financial and Trading Institutions 0.00 65.00 0.00 65.00
+Other General Economic Services 22.78 109.32 0.00 132.10
+Total - Economic Services## 48,071.38 23,788.16 519.34 72,378.88
+D Grants-in-aid and Contributions
+Compensation and Assignments to Local Bodies
+(-)0.13 0.00 0.00 (-)0.13
+and Panchayati Raj Institutions
+E Public Debt
+Internal Debt of the State Government 0.00 21,438.71 0.00 21,438.71
+Loans and Advances from the Central Government 0.00 1,540.67 0.00 1,540.67
+F Loans and Advances
+Loans to Government Servants etc. 0.00 0.00 13.43 13.43
+Total - Grants-in-aid and Contributions,
+(-)0.13 22,979.38 13.43 22,992.68
+Public Debt and Loans and Advances
+G Inter - State Settlement 0.00 0.00 0.00 0.00
+Total - Consolidated Fund Expenditure$$ 1,90,514.17 59,432.38 * 2,135.86 2,52,082.41
+##Capital Expenditure on Economic Services differs with Statement No. 2 by ₹0.01 crore is due to rounding.
+$$Total Expenditure on Consolidated Fund differs with Statement No. 2 by ₹0.02 crore is due to rounding.
+* Differs with Statement No. l6 by ₹0.02 crore is due to rounding.
+13

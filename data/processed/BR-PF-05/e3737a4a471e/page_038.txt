@@ -1,0 +1,35 @@
+STATEMENT 15: DETAILED STATEMENT OF REVENUE EXPENDITURE BY MINOR HEADS
+Figures in italics represent charged expenditure
+( ```` in lakh )
+Actuals for the year 2021-22 Percentage
+Scheme Actuals for I n crease (+)/
+Heads Establishment
+CSS/ Total 2020-21 Decrease (-)
+and Committed State Scheme
+CAS during the year
+A. General Services- Contd…
+(b) Fiscal Services-Contd…
+(iii) Collection of Taxes on Commodities and Services
+2039 State Excise
+001 Direction and Administration 12,128.08 200.00 0.00 12,328.08 11,099.33 11.07
+911 Deduct - Recoveries of Overpayments (-)0.49 (-)0.39 0.00 (-)0.88 (-)3.37 73.89
+Total : 2039 12,127.59 199.61 0.00 12,327.20 11,095.96 11.10
+2040 Taxes on Sales, Trade etc.
+911 Deduct - Recoveries of Overpayments (-)0.34 0.00 0.00 (-)0.34 (-)2.20 84.55
+Total : 2040 (-)0.34 0.00 0.00 (-)0.34 (-)2.20 84.55
+2041 Taxes on Vehicles
+001 Direction and Administration 425.13 0.00 0.00 425.13 453.54 (-)6.26
+101 Collection Charges 8,363.23 0.00 0.00 8,363.23 7,391.28 13.15
+102 Inspection of Motor Vehicles 263.93 0.00 0.00 263.93 271.93 (-)2.94
+911 Deduct - Recoveries of Overpayments (-)0.06 0.00 0.00 (-)0.06 0.00 0
+Total : 2041 9,052.23 0.00 0.00 9,052.23 8,116.75 11.53
+2043 Collection charges under State Goods and Services Tax
+001 Direction and Administration 4,128.65 0.00 0.00 4,128.65 4,508.42 (-)8.42
+101 Collection Charges 9,178.96 0.00 0.00 9,178.96 8,671.17 5.86
+911 Deduct - Recoveries of Overpayments (-)9.36 0.00 0.00 (-)9.36 (-)74.79 87.48
+Total : 2043 13,298.25 0.00 0.00 13,298.25 13,104.80 1.48
+2045 Other Taxes and Duties on Commodities and Services
+103 Collection Charges-Electricity Duty 119.97 0.00 0.00 119.97 131.80 (-)8.98
+Total : 2045 119.97 0.00 0.00 119.97 131.80 (-)8.98
+Total (iii) Collection of Taxes on Commodities and Services 34,597.70 199.61 0.00 34,797.31 32,447.11 7.24
+82

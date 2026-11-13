@@ -1,0 +1,33 @@
+13. Information on the borrowing from Public Account as on 31.08.2022
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month August on from
+01.08.2022 August 2022 31.08.2022 public
+2022 Account
+as on
+31.08.2022
+8009-State Provident -288.29 81.93 104.79 -311.15 0.00
+Funds
+8011-Insurance and -65.47 0.86 9.52 -74.13 0.00
+Pension Funds
+8121- General and other 1,416.56 0.00 0.00 1,416.56
+Reserve Funds Funds
+8342-Other Deposits -8.59 150.13 244.46 -102.92 0.00
+8443-Civil Deposits -290.19 306.29 27.94 -11.84 0.00
+8448-Deposits of Local -3,266.65 2,138.47 2,072.86 -3,201.04 0.00
+Funds
+8449-Other Deposits 0.08 3,003.73 3,003.71 0.10 0.00
+8658-Suspense 8,434.44 4,124.71 518.29 12,040.86 0.00
+Accounts
+8670-Cheque and Bills 331.19 10,190.78 10,476.25 45.72 0.00
+8672-Permament cash -2.98 0.00 -0.40 -2.58
+Imperest
+8673-Cash Balance 11,710.60 27,252.73 34,318.50 4,644.83 0.00
+Investment Account
+8679-Accounts with -0.01 0.00 0.00 -0.01 0.00
+Government of other
+countries
+8793-Inter-State -83.63 -0.04 35.26 -118.93 0.00
+Suspense Account
+Total 17,887.06 47,249.59 50,811.18 14,325.47 0.00

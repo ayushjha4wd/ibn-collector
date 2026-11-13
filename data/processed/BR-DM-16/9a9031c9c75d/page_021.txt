@@ -1,0 +1,44 @@
+In this way, smoothing of all the n-2 (except the first group W1 and last group Wn) quinquennial age
+groups has been carried out. For smoothing, W1 and Wn, this formula cannot be applied since there are
+respectively no preceding and succeeding age groups in these two cases. So, W1 has been smoothed as under:
+S (W0-4) = O (W0-14) – (S (W5-9) + S (W10-14))
+Similarly, S (W75+) = O (W15-75+) – (S (W15-19) +. ... + S (W70-74))
+Smoothing of age sex distribution for India and all major states including Himachal Pradesh and NCT
+of Delhi have been carried out by using the above-mentioned procedure. The smoothed population of 2011 by
+age and sex for India and states (for which Component Method has been applied) is presented in Table 2.
+Assumptions regarding fertility
+SRS and NFHS provide estimates of TFR for States of the country. The SRS data has been used as base
+level estimates, these being available as a time series. The SRS data shows that in most of the States, the level of
+total fertility has been falling since 1971. It may be seen from the SRS data that there has been consistent
+decline in fertility during the last two decades. The trend analysis of TFR in terms of Exponential, Log linear,
+logistic and Gompertz model may be used for projecting the future levels of TFR in all the States as well as for
+the country as a whole. Following are the mathematical forms of the three models.
+1. Log linear: Ln (TFR-L) = a+b (time)
+2. Gompertz:
+TFR – L = (a)b^t
+U – L
+or alternatively,
+Ln [- (Ln (TFR-L)/(U-L))] = Ln (-Ln.a) + (time).Ln.b
+3. Logistic: Ln [(TFR-L)/(U-TFR)] =a+b(time)
+Where U and L are the upper and lower limits of TFR respectively and a and b are constants.
+For all the States except Himachal Pradesh, the observed values of TFRs from 1991-2017 were
+considered for projecting the future levels of TFR as the reliable estimates from SRS are available from 1991
+onwards. In fitting the Gompertz model, three types of upper asymptotes have been taken for the States
+depending upon whether the particular State is a higher or medium or low TFR State. The upper asymptote
+(U) has been taken as 4 for southern states and 6 for the northern states. For western and eastern states, U has
+been taken as 5. The projected values of TFR for India for the quinquennial period 2011-2035 at five yearly
+intervals have been presented below in Statement 2.
+STATEMENT 2
+PROJECTED LEVELS OF TFR, INDIA, 2011-2035
+Year/Period Projected level of TFR
+SRS 2009-11 2.50
+SRS 2011-15 2.37
+2016-2020 2.13
+2021-2025 1.94
+2026-2030 1.81
+2031-2035 1.73
+The following lowest thresholds of TFR were assumed in fitting the Gompertz model for projecting
+the TFR for future years. The TFR obtained through the Gompertz function specify that the replacement level
+TFR of 2.1 for the country as a whole is likely to be achieved by 2019. By 2030, the TFR is expected to reach 1.8.
+The probable year by which replacement level of fertility will be achieved by selected states, under the
+17

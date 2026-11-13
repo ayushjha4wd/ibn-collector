@@ -1,0 +1,53 @@
+STATEMENT 4: STATEMENT OF EXPENDITURE (CONSOLIDATED FUND)
+A. EXPENDITURE BY FUNCTION
+(```` in crore)
+Description Revenue Capital L&A Total
+A General Services
+A.1 Organs of State
+Parliament/State/Union Territory Legislatures 197.73 0.00 0.00 197.73
+President, Vice President/Governor/Administrator
+4.25 0.00 0.00 4.25
+of Union Territories
+Council of Ministers 30.77 0.00 0.00 30.77
+Administration of Justice 1,076.28 0.00 0.00 1,076.28
+Elections 568.01 0.00 0.00 568.01
+A.2 Fiscal Services
+Land Revenue 756.52 0.00 0.00 756.52
+Stamps and Registration 90.41 0.00 0.00 90.41
+State Excise 123.27 0.00 0.00 123.27
+Taxes on Sales, Trade etc. 0.00 0.00 0.00 0.00
+Taxes on Vehicles 90.52 0.00 0.00 90.52
+Collection Charges under State Gooods and Services Tax 132.98 0.00 0.00 132.98
+Other Taxes and Duties on Commodities and Services 1.20 0.00 0.00 1.20
+Other Fiscal Services 2.94 20.20 0.00 23.14
+Appropriation for reduction or avoidance of Debt 0.01 0.00 0.00 0.01
+Interest Payments 13,821.93 0.00 0.00 13,821.93
+A.3 Administrative Services
+Public Service Commission 84.40 0.00 0.00 84.40
+Secretariat-General Services 327.34 0.00 0.00 327.34
+District Administration 510.17 0.00 0.00 510.17
+Treasury and Accounts Administration 118.63 0.00 0.00 118.63
+Police 8,265.23 609.75 0.00 8,874.98
+Jails 509.74 0.00 0.00 509.74
+Stationery and Printing 11.72 0.00 0.00 11.72
+Public Works 628.55 1,528.06 0.00 2,156.61
+Other Administrative Services 1,338.45 1,349.48 0.00 2,687.93
+A.4 Pension and Misc. General Services
+Pensions and Other Retirement Benefits 20,257.58 0.00 0.00 20,257.58
+Miscellaneous General Service (-)9.40 1 0.00 0.00 (-)9.40
+Total - General Services 48,939.23 3,507.49 0.00 52,446.72
+B Social Services
+B.1 Education, Sports, Art and Culture
+General Education# 33,361.92 1,760.73 682.15 35,804.80
+Technical Education 303.86 0.00 0.00 303.86
+Sports and Youth Services 58.14 0.00 0.00 58.14
+Art and Culture 45.77 0.00 0.00 45.77
+B.2 Health and Family Welfare
+Medical and Public Health 9,639.74 865.44 0.00 10,505.18
+Family Welfare 1,004.79 0.00 0.00 1,004.79
+1
+Negative figure is due to recoveries of Overpayments
+# TherearedistinctRevenueExpenditureMajorHeadsforGeneralEducation,TechnicalEducation,Sports&YouthServicesandArt&Culture.But
+thereisasingleCapitalOutlayMajorHeadfortheabovementionedRevenueExpenditureMajorHeads.Hence,totalfigureisshownunderasingle
+Capital Major Head (4202) for all these functions.
+11

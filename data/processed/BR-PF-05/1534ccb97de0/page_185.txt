@@ -1,0 +1,42 @@
+STATEMENT 17: DETAILED STATEMENT OF BORROWINGS AND OTHER LIABILITIES
+(a) Statement of Public Debt and Other Obligations
+( in lakh )
+Net Increase(+) /
+Balance as on Addition Discharge Balance as on
+Description of debt Decrease(-) Interest paid
+1 April 2024 during the year during the year 31 March 2025
+In Per cent
+E. Public Debt-Concld.
+6004 Loans and Advances from the Central Government-Concld.
+03 Loans for Central Plan Schemes
+800 Other Loans 100.69 0.00 0.00 100.69 0.00 0 0.00
+Total : 03 100.69 0.00 0.00 100.69 0.00 0 0.00
+04 Loans for Centrally Sponsored Plan Schemes 0.00
+800 Other Loans 53.14 0.00 0.00 53.14 0.00 0 0.00
+Total : 04 53.14 0.00 0.00 53.14 0.00 0 0.00
+06 Ways and Means Advances 0.00
+101 Ways and Means Advances for Plan Schemes 4,295.83 0.00 0.00 4,295.83 0.00 0 0.00
+Total :06 4,295.83 0.00 0.00 4,295.83 0.00 0 0.00
+07 Pre-1984-85 Loans 0.00
+102 National Loans Scholarship Scheme 364.37 0.00 0.00 364.37 0.00 0 0.00
+109 Rehabilitation of Gold Smiths 17.30 0.00 0.00 17.30 0.00 0 0.00
+800 Other Loans 9.36 0.00 0.00 9.36 0.00 0 0.00
+Total : 07 391.03 0.00 0.00 391.03 0.00 0 0.00
+08 Centrally Sponsored Scheme
+201 House Building Advances 26.12 107.40 4.00 129.52 103.40 395.87 0.00
+800 Other Loans 3,003.25 0.00 266.87 2,736.38 (-)266.87 (-)8.89 0.00
+Total : 08 3,029.37 107.40 270.87 2,865.90 (-)163.47 (-)5.40 0.00
+09 Other Loans for States/Union Territory with Legislature Schemes
+* $
+101 Block Loans 13,52,031.16 1,70,749.08 1,32,855.46 13,89,924.78 37,893.62 2.80 677.72
+106 Special Assistance 22,25,325.70# 14,79,131.54 0.00 37,04,457.24 14,79,131.54 66.47 108,682.26
+800 Consolidated Loans 707.16 0.00 0.00 707.16 ,.00 .00 0.00
+Total : 09 35,78,064.02 16,49,880.62 1,32,855.46 50,95,089.18 15,17,025.16 42.40 11,0099,,335599..9988
+Total : 6004 36,05,121.41 16,49,988.02 1,33,126.33 51,21,983.10 15,16,861.69 42.08 11,0099,,444400..2244
+Total : E. Public Debt 2,72,25,637.16 66,04,919.89 21,94,366.85 3,16,36,190.20 44,10,553.04 16.20 18,96,596.55
+#Proforma adjustment for repayment of ₹7,82,752.00 lakh back to back loan in lieu of GST Compensation paid by Government of India from GST Compensation Fund in the Public Account of India.
+*
+Pertains to EAP Loan.
+$
+Amount of ₹1,25,325.22 lakh has included towards Repayment for EAP Loans.
+235

@@ -1,0 +1,35 @@
+STATEMENT 1: STATEMENT OF FINANCIAL POSITION
+(```` in crore)
+Reference
+(Sl. No.)
+As on As on
+Liabilities Notes to
+31 March 2022 31 March 2021
+Finance Statement
+Accounts
+Borrowings (Public Debt) 2,08,913.28 1,77,214.85
+(i) Internal Debt 17 1,82,855.32 1,59,557.50
+(ii) Loans and Advances
+17 26,057.96 17,657.35
+from Central Government
+Non-Plan Loans 17 0.58 0.58
+Loans for State Plan Schemes 17 191.29 191.29
+Loans for Central Plan Schemes 17 1.01 1.01
+Loans for Centrally Sponsored Plan Schemes 17 0.53 0.53
+Loans for Centrally Sponsored Schemes 17 36.42 40.63
+Other Loans 17 25,828.13 17,423.31
+Inter-State Settlement 12 74.01 74.01
+Contingency Fund (corpus) 21 350.00 350.00
+Liabilities on Public Account 54,544.54 55,831.77
+(i) Small Savings, Provident Funds etc. 21 9,521.65 9,445.38
+(ii) Deposits 21 38,033.80 39,634.21
+(iii) Reserve Funds 21 6,781.61 6,641.19
+(iv) Remittance Balances 0.00 0.00
+(v) Suspense and Miscellaneous Balances 21 207.48 110.99
+Cumulative excess of Receipts
+12 65,149.91 65,572.29
+over Expenditure5
+Total 3,29,031.74 2,99,042.92
+5Thefigure`65,149.91crorehasbeenworkedoutbynettingoftotalCapitalandOtherExpenditureandPrincipalsourcesoffunds.Detailsaregivenin
+Statement 12.
+3

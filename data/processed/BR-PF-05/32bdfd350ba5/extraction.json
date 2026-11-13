@@ -1,0 +1,17 @@
+{
+  "raw_path": "data/raw/BR-PF-05/2026-11-13/Pension-Guidelines-20200619114037.pdf",
+  "raw_sha256": "32bdfd350ba539184b64bdd6a37fe9bb04f1e35d182ea57a20777a773e68525a",
+  "source_id": "BR-PF-05",
+  "source_url": "https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Pension-Guidelines-20200619114037.pdf",
+  "parent_url": "https://cag.gov.in/ae/bihar/en/page-ae-bihar-accounts-vlc",
+  "retrieved_at_utc": "2026-11-13T07:01:21+00:00",
+  "obtained_on": null,
+  "kind": "pdf",
+  "outputs": [
+    "data/processed/BR-PF-05/32bdfd350ba5/page_001.txt"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

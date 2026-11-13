@@ -1,0 +1,46 @@
+STATEMENT 16: DETAILED STATEMENT OF CAPITAL EXPENDITURE BY MINOR HEADS AND SUB HEADS
+Figures in italics represent charged expenditure
+( ```` in lakh)
+Expenditure during 2023-24 Percentage
+Scheme Expenditure Expenditure Increase (+)/
+Nature of expenditure Establishment during to the end Decrease (-)
+CSS/ Total
+& Committed State Scheme 2022-23 of 2023-24 during the
+CAS
+year
+A. CAPITAL ACCOUNT OF GENERAL SERVICES
+4047 Capital Outlay on Other Fiscal Services
+039 State Excise
+For Barrack, Lockup, Exhibit, Store and Laboratory 0.00 0.00 0.00 0.00 0.00 509.85 0
+Deduct - Recoveries and Refund under Capital Accounts 0.00 0.00 0.00 0.00 0.00 (-)100.00 0
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 100.00 0
+Total : 039 0.00 0.00 0.00 0.00 0.00 509.85 0
+050 Land
+For Land Acquisition (Commercial Tax Department) 0.00 0.00 0.00 0.00 0.00 624.46 0
+For Land Acquisition
+(Revenue and Land Reforms Department) 0.00 (-)1.09 0.00 (-)1.09 0.00 6,976.37 0
+Purchase of land for Road Construction
+(Revenue and Land Reforms Department) 0.00 13.69 0.00 13.69 1.00 3,743.58 1269.00
+Deduct-Recoveries and Refund under Capital Accounts 0.00 0.00 0.00 0.00 (-)9.05 (-)49.77 (-)100.0
+Other Schemes each costing `5 crore or less 0.00 6.64 0.00 6.64 6.75 471.80 (-)1.63
+Total : 050 0.00 19.24 0.00 19.24 (-)1.30 11,766.44 1580.00
+051 Construction
+Buildings of Commercial Taxes Department 0.00 2,472.77 0.00 2,472.77 1,625.28 10,045.16 52.14
+Construction and Renovation of Circuit House 0.00 0.00 0.00 0.00 0.00 2,220.91 0
+Construction of Judicial Chamber for Land Reforms
+Deputy Collectors 0.00 0.00 0.00 0.00 0.00 621.80 0
+Installation of Additional Resources in Treasury Offices 0.00 10.57 0.00 10.57 8.19 3,024.79 29.06
+Deduct-Recoveries and Refund under Capital Accounts 0.00 (-)95.21 0.00 (-)95.21 0.00 (-)1056.16 0
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 273.71 0
+Total : 051 0.00 2,388.13 0.00 2,388.13 1,633.47 15,130.21 46.20
+190 Investment in Public Sector and Other Undertakings
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 500.00 0
+Total : 190 0.00 0.00 0.00 0.00 0.00 500.00 0
+789 Special Component Plan for Scheduled Castes
+For Land Acquisition
+(Revenue and Land Reforms Department) 0.00 (-)6.85 0.00 (-)6.85 0.00 6,851.99 0
+For Home less families Purchasing of Raiyati Land 0.00 0.00 0.00 0.00 31.76 1,482.59 (-)100.00
+Deduct-Recoveries and Refund under Capital Accounts 0.00 (-)28.67 0.00 (-)28.67 0.00 (-)1,036.67 0
+Other Schemes each costing `5 crore or less 0.00 0.00 0.00 0.00 0.00 423.06 0
+Total : 789 0.00 (-)35.52 0.00 (-)35.52 31.76 7,720.97 (-)211.84
+138

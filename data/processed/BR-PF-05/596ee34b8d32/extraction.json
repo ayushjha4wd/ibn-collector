@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-PF-05/2026-11-13/document-7-068b6ab1b938668-18753517.pdf",
+  "raw_sha256": "596ee34b8d32fcec008b3ffb1da8b8b6c02af1e2d29e6350c9d28125c686ab6b",
+  "source_id": "BR-PF-05",
+  "source_url": "https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/document-7-068b6ab1b938668-18753517.pdf",
+  "parent_url": "https://cag.gov.in/ae/bihar/en/page-ae-bihar-accounts-vlc",
+  "retrieved_at_utc": "2026-11-13T07:01:34+00:00",
+  "obtained_on": null,
+  "kind": "pdf",
+  "outputs": [
+    "data/processed/BR-PF-05/596ee34b8d32/page_001.txt",
+    "data/processed/BR-PF-05/596ee34b8d32/page_002.txt"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

@@ -1,0 +1,36 @@
+STATEMENT 10: STATEMENT OF GRANTS-IN-AID GIVEN BY THE GOVERNMENT
+(i) Grants-in-aid paid in cash
+( ```` in crore )
+Funds allocated for Creation of Assets out of Total Funds
+Total Funds released as Grants-in-aid Total Funds released under Column no. released as
+Name/ Category of the Grantee
+(2) Grants-in-aid
+Sl. 2021-22 2021-22 2020-21
+No.
+(1 ) (2 ) (3 ) (4 )
+Establishment and Establishment
+Scheme Total Scheme Total
+Committed and Committed
+1. Panchayati Raj Institutions 2,268.20 11,000.20 13,268.40 113.18 2,493.88 2,607.06 12,899.38
+(i) Zila Parishads 3.20 3,275.86 3,279.06 0.00 1,148.06 1,148.06 1,760.12
+(ii) Panchayat Samities 215.39 3,350.85 3,566.24 0.00 209.29 209.29 3,101.87
+(iii) Gram Panchayats 2,049.61 4,373.49 6,423.10 113.18 1,136.53 1,249.71 8,037.39
+2. Urban Local Bodies 541.71 4,844.82 5,386.53 395.36 1,989.68 2,385.04 4,785.08
+(i) Municipal Corporations 396.81 4,646.40 5,043.21 395.36 1,989.68 2,385.04 4,555.04
+(ii) Development Authorities 3.73 0.00 3.73 0.00 0.00 0.00 0.00
+(iii) Municipalities/Municipal Councils 141.17 198.42 339.59 0.00 0.00 0.00 229.04
+(iv) Others 0.00 0.00 0.00 0.00 0.00 0.00 1.00
+3. Public Sector Undertakings 70.78 766.86 837.64 0.00 55.43 55.43 807.06
+(i) Government Companies 0.00 757.63 757.63 0.00 0.00 0.00 757.63
+(ii) Development Authorities 4.70 5.32 10.02 0.00 0.00 0.00 6.53
+(iii) Statutory Corporations 66.08 3.91 69.99 0.00 55.43 55.43 42.90
+4. Autonomous Bodies 421.08 3,957.97 4,379.05 344.30 7.30 351.60 4,299.68
+(i) Universities 222.45 3,461.80 3,684.25 164.48 0.80 165.28 3,716.00
+(ii) Development Authorities 29.11 11.54 40.65 25.00 6.50 31.50 14.58
+(iii) Co-operative Institutions 103.09 0.00 103.09 103.09 0.00 103.09 33.95
+(iv) Others 66.43 484.63 551.06 51.73 0.00 51.73 535.15
+5. Non-Government Organisations 39,846.01 1,297.38 41,143.39 754.82 23.99 778.81 32,137.78
+(i) Development Authorities 1,635.02 7.95 1,642.97 320.11 0.00 320.11 978.04
+(ii) Others 38,210.99 1,289.43 39,500.42 434.71 23.99 458.70 31,159.74
+Grand Total 43,147.78 21,867.23 65,015.01 1,607.66 4,570.28 6,177.94 54,928.98
+27

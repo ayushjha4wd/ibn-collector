@@ -1,0 +1,23 @@
+Table 2 A.5
+DDDDaaaatttteeee OOOOffff RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+TTTTaaaabbbblllleeee 2222 AAAA....5555
+1111....1111....1111999988881111 ttttoooo 33331111....11112222....1111999988885555
+PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt
+RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+2222666600000000----3333222200000000 3333000000000000----3333555500000000
+NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll
+BBBBaaaassssiiiicccc PPPPaaaayyyy BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc PPPPaaaayyyy
+BBBBaaaassssiiiicccc PPPPAAAAYYYY
+oooonnnn PPPPAAAAYYYY oooonnnn
+1111....1111....2222000011116666 1111....1111....2222000011116666
+2600 131100 3000 144200
+2700 131100 3100 144200
+2800 131100 3200 144200
+2900 131100 3300 144200
+3000 131100 3400 144200
+3100 131100 3500 144200
+3200 131100
+3300 131100
+3400 131100
+3500 131100
+26

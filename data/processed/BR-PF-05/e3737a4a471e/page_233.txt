@@ -1,0 +1,25 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section : 2 Repayment in arrears from other Loanee Entities
+( ```` in lakh )
+Amount of arrears as on 31 March 2022 Total loans outstanding
+Earlies period to which
+Loanee-Entity against the entity on
+Principal Interest Total arrears relate
+31 March 2022
+1 2 3 4 5 6
+NIL
+Additional Disclosure
+Fresh Loans and Advances made during the year (2021-22)
+( ```` in lakh )
+Terms and conditions
+Loanee-Entity Number of Loans Total Amount of loans
+Rate of interest Moratorium period if any
+1 2 3 4 5
+North Bihar Power Distribution Company Ltd. 9 3,500.00 10.50% -
+South Bihar Power Distribution Company Ltd. 12 2,800.00 10.50% -
+Bihar State Hydro Electric Corporation 2 1,412.89 N.A -
+Bihar State Education Finance Corporation 6 68,214.81 N.A -
+Loans for Village and Small Industry 16 52,045.39 N.A -
+Loans for Co-operations 153 17,001.71 N.A -
+Total : 198 1,44,974.80
+277

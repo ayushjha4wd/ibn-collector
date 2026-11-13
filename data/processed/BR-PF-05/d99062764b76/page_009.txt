@@ -1,0 +1,41 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2022-23 2021-22 during the year
+A. Tax Revenue- Contd…
+(c) Taxes on Property, Capital and other transactions
+0029 Land Revenue
+101 Land Revenue/Tax 8,771.58 8,922.03 (-)1.69
+102 Taxes on Plantations 39.72 78.15 (-)49.17
+103 Rates and Cesses on Land 14,339.21 8,802.67 62.90
+104 Receipts from Management of ex-Zamindari Estates 62.65 82.74 (-)24.28
+105 Receipts from Sale of Government Estates 0.58 17.11 (-)96.61
+106 Receipts on account of Survey and Settlement Operations 4,575.11 7.84 58255.99
+107 Sale proceeds of Waste Lands and redemption of Land Tax 0.00 0.00 0
+800 Other Receipts 8,268.04 10,509.34 (-)21.33
+Total : 0029 36,056.89 28,419.88 26.87
+0030 Stamps and Registration Fees
+01 Stamps-Judicial
+101 Court Fees realised in stamps 7.04 3.81 84.78
+102 Sale of Stamps 8,500.29 9,521.61 (-)10.73
+800 Other Receipts 208.06 64.24 223.88
+Total : 01 8,715.39 9,589.66 (-)9.12
+02 Stamps-Non-Judicial
+102 Sale of Stamps 63,672.72 51,545.34 23.53
+103 Duty on Impressing of Documents 4,62,727.65 3,70,713.77 24.82
+800 Other Receipts 1,747.86 2,060.50 (-)15.17
+901 Deduct-Payments to Local bodies of net proceeds on duty levied by them on transfer of
+(-)43,883.25 (-)32,557.37 34.79
+property
+Total : 02 4,84,264.98 3,91,762.24 23.61
+03 Registration Fees
+104 Fees for registering documents 1,51,973.21 1,20,975.66 25.62
+800 Other Receipts 152.59 70.38 116.81
+Total : 03 1,52,125.80 1,21,046.04 25.68
+Total : 0030 6,45,106.17 5,22,397.94 23.49
+0032 Taxes on Wealth
+901 Share of net proceeds assigned to States 0.00 638.00 (-)100
+Total : 0032 0.00 638.00 (-)100
+Total : (c) 6,81,163.06 5,51,455.82 23.52
+55

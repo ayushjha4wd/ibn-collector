@@ -1,0 +1,54 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 1 : Major and Minor head wise details of Loans and Advances
+( ```` in lakh )
+Write off of Net Increase(+)/
+Advanced Repaid Interest received
+Balance as on irrecoverable Balance as on D e c r ease (-)
+Head of Account during the Total during the and credited to
+1 April 2021 loans and 31 March 2022 during the year
+year year Revenue
+advances (7-2)
+1 2 3 4 5 6 7 8 9
+2. Economic Services- Contd…
+(e) Energy- Contd…
+6801 Loans for Power Projects- Contd…
+0007 Loans to Bihar State Power (Holding)
+Company Ltd. regarding Rural
+2,063.46 0.00 2,063.46 0.00 0.00 2,063.46 0.00 0.00
+Electrification from Central Cell by Rural
+Electrification Coorporation Ltd.
+0015 South Bihar Power Distribution Company
+4,934.11 1,500.00 6,434.11 0.00 0.00 6,434.11 1,500.00 0.00
+Ltd. (Payment of Interest)
+0016 North Bihar Power Distribution Company
+16,022.07 2,500.00 18,522.07 0.00 0.00 18,522.07 2,500.00 0.00
+Ltd. (Payment of Interest)
+0017 South Bihar Power Distribution Company
+1,199.12 1,300.00 2,499.12 0.00 0.00 2,499.12 1,300.00 0.00
+Ltd. (Payment of Principal)
+0018 North Bihar Power Distribution Company
+5,715.96 1,000.00 6,715.96 0.00 0.00 6,715.96 1,000.00 0.00
+Ltd. (Re-payment of Principal)
+0101 Loans for Structure and Distribution of
+2,441.77 0.00 2,441.77 0.00 0.00 2,441.77 0.00 0.00
+Bihar State Electricity Board
+0104 Loans to Bihar State Electricity Board 28,112.00 0.00 28,112.00 0.00 0.00 28,112.00 0.00 0.00
+0108 Distribution project of Bihar State Power
+31,513.47 0.00 31,513.47 0.00 0.00 31,513.47 0.00 0.00
+(Holding) Company Ltd. (EAP)
+0109 Loans for Project of Bihar State Power
+77,345.91 0.00 77,345.91 0.00 0.00 77,345.91 0.00 0.00
+( Holding) Company Ltd.
+0110 Loans to Bihar State Power (Holding)
+2,641.00 0.00 2,641.00 0.00 0.00 2,641.00 0.00 0.00
+Company Ltd.
+0111 Loans to Project of Bihar State Power
+1,000.00 0.00 1,000.00 0.00 0.00 1,000.00 0.00 0.00
+Generation Company Ltd.
+0112 Loans to Project of Bihar State Power
+1,500.00 0.00 1,500.00 0.00 0.00 1,500.00 0.00 0.00
+Transmission Company Ltd.
+0113 Loans to Project of South Bihar Power
+8,500.00 0.00 8,500.00 0.00 0.00 8,500.00 0.00 0.00
+Distribution Company Ltd.
+260

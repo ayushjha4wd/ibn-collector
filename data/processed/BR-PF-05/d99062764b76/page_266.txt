@@ -1,0 +1,45 @@
+STATEMENT 21: DETAILED STATEMENT ON CONTINGENCY FUND AND OTHER PUBLIC ACCOUNT TRANSACTIONS
+( ```` in lakh )
+Net Increase (+)/
+Opening Balance as Closing Balance as on
+Head of Account Receipts Disbursements Decrease (-)
+on 1 April 2022 31 March 2023
+Per cent
+B- Public Account- Contd…
+L. Suspense and Miscellaneous
+(b) Suspense
+8658 Suspense Accounts
+101 Pay and Accounts Office- Suspense Dr. 36,508.00 28,040.54 27,605.48 Dr. 36,072.94 (-)1.19
+102 Suspense Account (Civil) Dr. 14,78,590.92 27,776.08 (-)67,595.29 Dr. 13,83,219.55 (-)6.45
+107 Cash Settlement Suspense Account Cr. 3,229.41 0.00 0.00 Cr. 3,229.41 0
+108 Public Sector Bank Suspense Dr. 0.32 0.00 0.00 Dr. 0.32 0
+109 Reserve Bank Suspense- Headquarters Dr. 26,172.48 (-)24.21 (-)456.191 Dr. 25,740.50 (-)1.65
+110 Reserve Bank Suspense- Central Accounts Office Dr. 35,498.30 (-)1.55 325.68 Dr. 35,825.53 0.92
+111 Departmental adjusting account Dr. 10,441.41 0.00 0.00 Dr. 10,441.41 0
+112 Tax Deducted at Source (TDS) Suspense Cr. 28,444.21 1,52,060.89 1,27,966.23 Cr. 52,538.87 84.71
+113 Provident Fund Suspense Dr. 37.81 0.00 0.00 Dr. 37.81 0
+117 Transactions on behalf of the Reserve Bank Cr. 23.46 0.00 0.00 Cr. 23.46 0
+120 Additional Dearness Allowance Deposit Cr. 13.46 0.00 0.00 Cr. 13.46 0
+121 Additional Dearness Allowance Deposit Suspense Account (New) Dr. 0.18 0.00 0.00 Dr. 0.18 0
+123 A.I.S. Officers' Group Insurance Scheme Cr. 559.59 6.25 31.70 Cr. 534.14 (-)4.55
+124 Payment on behalf of Central claims organisation Pension and
+Dr. 0.17 0.00 0.00 Dr. 0.17 0
+Provident Fund
+129 Material Purchase Settlement Suspense Account Dr. 6,611.41 0.00 0.00 Dr. 6,611.41 0
+134 Cash Settlement between Accountant General, Jammu and Kashmir
+Dr. 12.49 0.00 0.00 Dr. 12.49 0
+and other State Accountants General
+135 Cash Settlement between Accountant General, Sikkim and
+Dr. 0.06 0.00 0.00 Dr. 0.06 0
+other State Accountants General
+139 GST-Tax Deducted at Source Suspense Cr. 0.00 1.77 0.00 Cr. 1.77 0
+Total- 8658 Suspense Accounts Dr. 15,61,603.42 2,07,859.77 87,877.61 Dr. 14,41,621.26 (-)7.68
+Total (b) Suspense Dr. 15,61,603.42 2,07,859.77 87,877.61 Dr. 14,41,621.26 (-)7.68
+(c) Other Accounts
+8670 Cheques and Bills
+113 Treasury Electronic Advices Cr. 20,747.78 1,88,54,091.58 1,88,57,708.15 Cr. 17,131.21 (-)17.43
+Total- 8670 Cheques and Bills Cr. 20,747.78 1,88,54,091.58 1,88,57,708.15 Cr. 17,131.21 (-)17.43
+1 Advice for issuing of cheque/DD had been sent to State treasury, which would be settled in accounts of next financial year 2023-24.
+@
+Correspondence has been made with the State Government for reconciliation in respect of minus balance.
+312

@@ -1,0 +1,10 @@
+Sex,,,"No. of Registered
+Deaths",,,"No. of Registered
+Infant Deaths",,,,% Share of Registered,
+,,,,,,,,,,Infant Deaths to Total,
+,,,,,,,,,,registered Deaths,
+,,,,,,,,,,(Col 3/Col 4 x 100),
+,(1),,,(2),,,(3),,,(4),
+Male,,,5244179,,,84597,,,1.6,,
+Female,,,3415179,,,61339,,,1.8,,
+Person*,,,8659679,,,145992,,,1.7,,

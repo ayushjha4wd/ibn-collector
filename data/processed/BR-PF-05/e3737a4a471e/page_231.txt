@@ -1,0 +1,49 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 1 : Major and Minor head wise details of Loans and Advances
+( ```` in lakh )
+Write off of Net Increase(+)/
+Advanced Repaid Interest received
+Balance as on irrecoverable Balance as on D e c r ease (-)
+Head of Account during the Total during the and credited to
+1 April 2021 loans and 31 March 2022 during the year
+year year Revenue
+advances (7-2)
+1 2 3 4 5 6 7 8 9
+3. Loans to Government Servants, etc.- Concld.
+7610 Loans to Government Servants, etc.- Concld.
+202 Advances for purchase of Motor Conveyances
+0001 Advances to Government Servants for
+186.39 0.00 186.39 342.94 0.00 (-)156.55 (-)342.94 0.00
+purchase of Motor Conveyances
+0003 Advances for purchase of Motor-Car to
+19.79 60.00 79.79 10.64 0.00 69.15 49.36 0.00
+Ministers etc.
+0004 Advances to Members of Legislatures for
+3,051.01 666.14 3,717.15 417.54 0.00 3,299.61 248.60 0.00
+purchase of Motor Conveyances
+Total : 202 3,257.19 726.14 3,983.33 771.12 0.00 3,212.21 (-)44.98 0.00
+203 Advances for purchase of other conveyances
+0001 Advances to Non-Gazetted Employees for
+(-)82.51 0.00 (-)82.51 0.00 0.00 (-)82.51(a) 0.00 0.00
+purchase of Cycles
+Total : 203 (-)82.51 0.00 (-)82.51 0.00 0.00 (-)82.51 0.00 0.00
+204 Advances for purchase of Computers
+0001 Advances to officers for purchase of
+12.59 7.18 19.77 29.70 0.00 (-)9.93 (-)22.52 0.00
+Computers
+Total : 204 12.59 7.18 19.77 29.70 0.00 (-)9.93 (-)22.52 0.00
+800 Other Advances
+0001 Advance for Marriae to Government
+(-)0.09 0.00 (-)0.09 0.00 0.00 (-)0.09 0.00
+Servent
+0002 Advances to Gr.'D' Government Servants
+0.37 0.00 0.37 0.00 0.00 0.37 0.00 0.00
+for purchase of Fans
+0004 Government Servants Passage, Advances
+for study abroad and study in India, (-)1,159.90 0.00 (-)1,159.90 0.09 0.00 (-)1,159.99(a) (-)0.09 0.00
+Marriage and Other Advances
+Total : 800 (-)1,159.62 0.00 (-)1,159.62 0.09 0.00 (-)1,159.71 (-)0.09 0.00
+Total : 7610 10,114.80 2,876.53 12,991.33 2,048.25 0.00 10,943.08 828.28 0.00
+Total 3 10,114.80 2,876.53 12,991.33 2,048.25 0.00 10,943.08 828.28 0.00
+(a) Figures are under reconciliation and correspondance has been made with the State Government in respect of minus balance.
+275

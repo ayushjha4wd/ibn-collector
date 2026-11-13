@@ -1,0 +1,48 @@
+Statement 2: Estimated Events and Level of Registration by India, States/UTs 2023
+Mid-Year Level of Registration
+Sl. Estimated Estimated
+States/UTs Population
+No. Births Deaths Births Deaths
+(in '000)
+India 1392329 25618854 8910906 98.4 97.2
+States
+1. Andhra Pradesh 53217 798255 367197 95.5 100.0
+2. Arunachal Pradesh 1565 25979 8608 100.0 51.6
+3. Assam 35824 709315 222109 84.6 69.3
+4. Bihar 127368 3286094 776945 89.4 53.4
+5. Chhattisgarh 30294 675556 251440 85.2 92.1
+6. Goa 1577 17032 10724 100.0 100.0
+7. Gujarat 71794 1263574 459482 93.1 100.0
+8. Haryana 30331 567190 206251 100.0 100.0
+9. Himachal Pradesh 7480 106964 50116 88.1 99.1
+10. Jharkhand 39632 816419 249682 100.0 61.2
+11. Karnataka 67833 1031062 461264 98.6 100.0
+12. Kerala 35824 440635 257933 89.2 100.0
+13. Madhya Pradesh 86923 1955768 591076 100.0 88.1
+14. Maharashtra 126710 1773940 772931 100.0 100.0
+15. Manipur 3231 42003 14540 100.0 62.9
+16. Meghalaya 3356 76181 18458 100.0 100.0
+17. Mizoram 1241 17622 7322 100.0 100.0
+18. Nagaland 2238 30437 12309 100.0 32.0
+19. Odisha 46373 741968 357072 88.0 100.0
+20. Punjab 30796 424985 224811 95.6 100.0
+21. Rajasthan 81316 1862136 479764 100.0 96.8
+22. Sikkim 691 10158 3317 64.0 100.0
+23. Tamil Nadu 76936 923232 530858 97.8 100.0
+24. Telangana 38135 602533 240251 100.0 99.9
+25. Tripura 4156 63587 25767 100.0 100.0
+26. Uttarakhand 11676 197324 71224 100.0 82.1
+27. Uttar Pradesh 236484 5581022 1537146 89.1 80.0
+28. West Bengal 99243 1389402 565685 100.0 100.0
+Union Territories
+1. A & N Islands 403 4070 2539 100.0 100.0
+2. Chandigarh 1235 13709 4940 100.0 100.0
+3. D & N Haveli & Daman & Diu 1293 20559 6206 63.0 67.3
+4. Delhi 21490 277221 96705 100.0 100.0
+5. Jammu & Kashmir 13636 201813 76362 100.0 84.1
+6. Ladakh 301 4395 1656 100.0 57.5
+7. Lakshadweep 69 925 380 87.3 96.2
+8. Puducherry 1658 20062 10611 100.0 100.0
+Note: Mid-Year Population is based on Population Projections for India and States 2011-2036, A Report of Technical Group
+on Population Projections constituted by National Commission on Population, Ministry of Health & Family Welfare.
+2

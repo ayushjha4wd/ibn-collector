@@ -1,0 +1,42 @@
+NOTES TO FINANCE ACCOUNTS- Contd…
+Trust a sum equivalent to two percent of the royalty as NMET contribution by depositing the
+same in the Public Account of the State under Major Head 8449 – 123 – NMET Deposits. The
+receipts collected by the State Government under Major Head 8449 – 123 – NMET Deposits
+will be transferred to Central Government on monthly basis by debiting the same HOA. The
+NMET Fund is non-lapsable and non-interest-bearing fund created under the Public Account of
+India.
+During the year 2023-24, an amount of ₹ 0.36 crore was deposited in the Major Head 8449-
+123. However, no amount was transferred to the Consolidated Fund of India during the year.
+The closing balance under the Major Head 8449-123 was ₹2.15 crore. Non-transfer of
+₹2.15 crore has resulted in overstatement of Cash Balance.
+(ix) Adverse Balance:
+Adverse balance is a situation, when a head of account closing to balances at the end of the
+financial year reflects minus balance, debit/(-)credit balance representing liability heads or
+heads where it should normally have credit balance, and credit/(-)debit balance representing
+Assets heads or heads where it should normally have debit balance. The adverse balance in a
+head of account arises due to misclassification, more disbursement than the availability of
+funds, more disbursement than the contribution received, non-carrying forward of balances
+from one accounting unit to another, administrative reorganization leading to creation of
+States/more accounting units, etc. In 2023-24, there was new Adverse Balance of ₹0.26 crore
+in Major Head 7610. Cumulative adverse balance appears in 15 heads, as detailed below, at the
+end of March 31, 2024.
+(₹ in crore)
+Minus
+Sl. No. Major Head Major Head Description No. of Items
+balance
+1 6003 Internal Debt of the State Government 5 (-) 2.95
+2 6215 Loans for Water Supply and Sanitation 1 (-) 0.08
+3 6216 Loans for Housing 3 (-) 0.13
+4 6245 Loans for Relief on account of Natural Calamities 3 (-) 2.83
+5 6401 Loans for Crop Husbandry 1 (-) 0.01
+6 6425 Loans for Co-operation 4 (-) 588.21
+7 6851 Loans for Village and Small Industries 3 (-) 1.38
+8 6885 Other Loans to Industries and Minerals 2 (-) 0.03
+9 7610 Loans to Government Servants, etc. 7 (-) 17.33
+10 8009 State Provident Fund 3 (-) 593.95
+11 8336 Civil Deposits (Bearing Interest) 1 (-)0.55
+12 8443 Civil Deposits (Not bearing Interest) 3 (-)0.54
+13 8448 Deposits of Local Funds 1 (-) 1.00
+14 8550 Civil Advances 1 (-) 3.41
+15 8793 Inter State Suspense Account 1 (-) 0.01
+54

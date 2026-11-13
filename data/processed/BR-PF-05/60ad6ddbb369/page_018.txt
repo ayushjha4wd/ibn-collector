@@ -1,0 +1,40 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(iii) Economic Services
+0401 Crop Husbandry
+103 Seeds 7.27 13.02 (-)44.16
+104 Receipts from Agricultural Farms 4.11 2.42 69.83
+105 Sale of manures and fertilisers 33.51 18.79 78.34
+107 Receipts from Plant Protection Services 1.59 1.92 (-)17.19
+108 Receipts from Commercial crops 0.00 0.38 (-)100.00
+119 Receipts from Horticulture and Vegetable crops 80.02 112.37 (-)28.79
+800 Other Receipts 332.77 392.76 (-)15.27
+Total : 0401 459.27 541.66 (-)15.21
+0403 Animal Husbandry
+102 Receipts from Cattle and Buffalo development 4.26 4.78 (-)10.88
+103 Receipts from Poultry development 2.91 18.19 (-)84.00
+105 Receipts from Piggery development 0.09 0.00 0
+106 Receipts from Fodder and Feed development 0.45 0.53 (-)15.09
+108 Receipts from other Live Stock development 2.23 2.12 5.19
+501 Services and Service Fees 42.66 29.25 45.85
+800 Other Receipts 6.58 4.44 48.20
+Total : 0403 59.18 59.31 (-)0.22
+0404 Dairy Development
+501 Service and charge 0.03 0.00 0
+800 Other Receipts 0.24 0.14 71.43
+Total : 0404 0.27 0.14 92.86
+0405 Fisheries
+011 Rents 1,618.28 1,579.14 2.48
+102 Licence Fees, Fines etc. 17.80 5.22 241.00
+103 Sale of Fish, Fish Seeds etc. 25.30 43.67 (-)42.07
+110 Grants from I.C.A.R 78.67 93.55 (-)15.91
+501 Services and Service Fees 48.77 36.22 34.65
+800 Other Receipts 126.20 119.14 5.93
+Total : 0405 1,915.02 1,876.94 2.03
+68

@@ -1,0 +1,43 @@
+STATEMENT 16: DETAILED STATEMENT OF CAPITAL EXPENDITURE BY MINOR HEADS AND SUB HEADS
+Figures in italics represent charged expenditure
+( ```` in lakh)
+Expenditure during 2021-22 Percentage
+Scheme Expenditure Expenditure Increase (+)/
+Nature of expenditure Establishment during to the end Decrease (-)
+CSS/ Total
+& Committed State Scheme 2020-21 of 2021-22 during the
+CAS
+year
+B. CAPITAL ACCOUNT OF SOCIAL SERVICES- Concld.
+(h) Capital Account of Other Social services
+4250 Capital Outlay on other Social Services
+050 Land
+Land Acquisition for National Disaster Response Force 0.00 0.00 0.00 0.00 0.00 2,636.24 0
+Land Acquisition for Industrial Training Institute 0.00 0.00 0.00 0.00 150.24 2,281.88 (-)100.00
+Deduct- Receipts and Recoveries on Capital Account 0.00 (-)5.40 0.00 (-)5.40 0.00 (-)5.40 0
+Other Schemes each costing ` 5 crore or less 0.00 0.00 0.00 0.0 (-)375.77 (-)375.77 100.00
+Total : 050 0.00 (-)5.40 0.00 (-)5.40 (-)225.53 4,536.95 (-)97.61
+051 Construction
+Construction of Buildings of Industrial Training Institutes 0.00 0.00 0.00 0.00 0.00 19,649.18 0
+For ITIs on recommendation of the Finance Commission 0.00 0.00 0.00 0.00 0.00 1,603.99 0
+Multisectoral Development Programme for Minorities 0.00 0.00 1,956.92 1,956.92 2,219.92 88,816.77 (-)11.85
+Deduct - Recoveries of Overpayments 0.00 0.00 (-)14.00 (-)14.00 (-)50.88 (-)7,679.36 72.48
+Other Schemes each costing ` 5 crore or less 0.00 0.00 219.67 219.67 0.00 292.25 0
+Total : 051 0.00 0.0 2,162.59 2,162.59 2,169.04 1,02,682.83 (-)0.30
+201 Labour
+Other Schemes each costing ` 5 crore or less 0.00 0.00 0.00 0.00 0.00 262.78 0
+Total : 201 0.00 0.00 0.00 0.00 0.00 262.78 0
+203 Employment
+Other Schemes each costing ` 5 crore or less 0.00 0.00 0.00 0.00 0.00 138.45 0
+Total : 203 0.00 0.00 0.00 0.00 0.00 138.45 0
+796 Tribal Area Sub-Plan
+Other Schemes each costing ` 5 crore or less 0.00 0.00 0.00 0.00 0.00 73.58 0
+Total : 796 0.00 0.00 0.00 0.00 0.00 73.58 0
+799 Suspense
+Other Schemes each costing ` 5 crore or less 0.00 0.00 0.00 0.00 0.00 129.19 0
+Total : 799 0.00 0.00 0.00 0.00 0.00 129.19 0
+800 Other Expenditure
+State Calamity Response Force 0.00 0.00 0.00 0.00 0.00 885.00 0
+Warehouses 0.00 0.00 0.00 0.00 0.00 405.50 0
+Total : 800 0.00 0.00 0.00 0.00 0.00 1,290.50 0
+168

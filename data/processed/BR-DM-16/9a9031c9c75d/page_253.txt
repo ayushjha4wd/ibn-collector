@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+TELANGANA
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 35004 36462 37725 38636 39207 39467
+Male 17612 18346 18978 19417 19675 19772
+Female 17392 18116 18747 19219 19532 19696
+Sex Ratio 988 987 988 990 993 996
+Population Density (Sq. Km.) 312 325 337 345 350 352
+Population by broad age-group
+(000')
+18 years and above 23443 25738 27767 29351 30560 31531
+0-14 9464 8681 8117 7624 7066 6412
+15-59 22310 24106 25448 26189 26442 26306
+60+ 3229 3675 4160 4824 5698 6750
+Proportion (percent)
+0-14 27.0 23.8 21.5 19.7 18.0 16.2
+15-59 63.7 66.1 67.5 67.8 67.4 66.7
+15-49 (female population) 56.0 57.5 57.5 56.2 54.1 51.4
+60+ 9.2 10.1 11.0 12.5 14.5 17.1
+Median age (years) 26.74 28.94 31.21 33.59 36.06 38.55
+Dependency Ratio
+Young (0-14) 424 360 319 291 267 244
+Old (60+) 145 152 163 184 215 257
+Total (Young and old) 569 512 482 475 482 501
+TABLE-17A
+Demographic Indicators : 2011-2035
+TELANGANA
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 7.1 5.4 3.5 1.7 0.3
+Crude Birth Rate (CBR) 15.7 14.6 12.8 11.3 10.2
+Crude Death Rate (CDR) 7.3 7.5 7.7 8.1 8.6
+Infant Mortality Rate (IMR) 39 35 32 29 27
+Under-5 mortality rate (q ) 43 39 35 32 30
+5
+Total Fertility Rate (TFR) 1.68 1.61 1.54 1.51 1.50
+Life expectancy of males 67.10 68.60 69.60 70.60 71.40
+Life expectancy of females 71.20 72.40 73.60 74.60 75.60
+249

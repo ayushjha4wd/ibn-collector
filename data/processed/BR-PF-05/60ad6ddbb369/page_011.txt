@@ -1,0 +1,40 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+A. Tax Revenue- Concld.
+(d) Taxes on Commodities and Services other than Goods and Services Tax- Concld.
+0043 Taxes and Duties on Electricity
+101 Taxes on consumption and sale of Electricity 81,760.94 96,400.65 (-)15.19
+102 Fees under the Indian Electricity Rules 2,879.87 2,236.65 28.76
+103 Fees for the electrical inspection of cinemas 3.93 69.09 (-)94.31
+800 Other Receipts 0.72 0.00 0.00
+Total : 0043 84,645.46 98,706.39 (-)14.25
+0044 Service Tax
+901 Share of net proceeds assigned to States 2,116.00 14,928.00 (-)85.83
+Total : 0044 2,116.00 14,928.00 (-)85.83
+0045 Other Taxes and Duties on Commodities and Services
+101 Entertainment Tax 15.69 32.69 (-)52.00
+105 Luxury Tax 1.40 0.20 600.00
+114 Receipts under the Sugarcane (Regulations, Supply and Purchase Control) Act 4.50 4.69 (-)4.05
+800 Other Receipts 0.00 0.11 (-)100.00
+901 Share of net proceeds assigned to States 13,924.00 15,720.00 (-)11.42
+Total : 0045 13,945.59 15,757.69 (-)11.50
+Total : (d) 19,22,336.36 19,04,584.74 0.93
+Total : A 1,61,96,517.59 1,39,52,758.59 16.08
+B. Non-Tax Revenue
+(b) Interest Receipts, Dividends and Profits
+0049 Interest Receipts
+04 Interest Receipts of State/Union Territory Governments with Legislature
+103 Interest from Departmental Commercial Undertakings 0.24 0.24 0
+110 Interest realised on investment of Cash balances 26,433.67 27,623.15 (-)4.31
+118 Interest on Loans to Government Servants 190.37 118.91 60.10
+190 Interest from Public Sector and other Undertakings 17.71 0.00 0
+195 Interest from Co-operative Societies 32.65 73.21 (-)55.40
+800 Other Receipts 63,026.47 36,397.67 73.16
+900 Deduct Refunds (-)0.78 (-)9.93 92.15
+Total : 04 89,700.33 64,203.25 39.71
+Total : 0049 89,700.33 64,203.25 39.71
+61

@@ -1,0 +1,42 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+A. Tax Revenue- Contd…
+(d) Taxes on Commodities and Services other than Goods and Services Tax
+0037 Customs
+901 Share of net proceeds assigned to States 3,98,112.00 3,75,466.00 6.03
+Total : 0037 3,98,112.00 3,75,466.00 6.03
+0038 Union Excise Duties
+01 Shareable Duties
+901 Share of net proceeds assigned to States 1,50,654.00 1,17,803.00 27.89
+Total : 01 1,50,654.00 1,17,803.00 27.89
+Total : 0038 1,50,654.00 1,17,803.00 27.89
+0039 State Excise
+101 Country Spirits 49.13 1.72 2756.40
+103 Malt Liquor (-)4.71* 0.00 0
+104 Liquor 0.00 81.03 (-)100.00
+105 Foreign Liquors and spirits 21.63 31.27 (-)30.83
+106 Commercial and denatured spirits and medicated wines 0.03 0.00 0
+107 Medicinal and toilet preparations containing alcohol, opium etc. 6.76 3.17 113.25
+150 Fines and confiscations 8.26 0.13 6253.85
+800 Other Receipts 33.83 2.33 1351.93
+Total : 0039 114.93 119.65 (-)3.94
+0040 Taxes on Sales, Trade etc.
+101 Receipts under Central Sales Tax Act 582.57 1,111.90 (-)47.61
+102 Receipts under State Sales Tax Act 10.16 71,458.37 (-)99.99
+111 Value Added Tax (VAT) Receipts 9,36,493.94 9,15,554.82 2.29
+Total : 0040 9,37,086.67 9,88,125.09 (-)5.17
+0041 Taxes on Vehicles
+101 Receipts under the Indian Motor Vehicles Act 84,653.58 76,990.01 9.95
+102 Receipts under the State Motor Vehicles Taxation Acts 2,50,227.76 # 2,15,521.51 16.10
+800 Other Receipts 893.46 1,035.36 (-)13.71
+Total : 0041 3,35,774.80 2,93,546.88 14.39
+0042 Taxes on Goods and Passengers
+106 Tax on entry of goods into Local Areas (-)113.09* 132.04 (-)185.65
+Total : 0042 (-)113.09 132.04 (-)185.65
+#Includes `18,811.69 lakh as Road Safety Cess.
+*Negative figure is depicted due to refund.
+60

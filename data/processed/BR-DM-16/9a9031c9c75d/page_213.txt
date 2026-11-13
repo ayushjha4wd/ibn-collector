@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics As On 1st March : 2011 - 2036
+JHARKHAND
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 32988 35800 38471 40958 43209 45155
+Male 16930 18361 19701 20934 22029 22962
+Female 16058 17439 18770 20024 21181 22193
+Sex Ratio 948 950 953 957 961 967
+Population Density (Sq. Km.) 414 449 483 514 542 566
+Population by broad age-group
+(000')
+18 years and above 18987 21812 24863 27791 30382 32602
+0-14 11933 11611 11211 10828 10701 10393
+15-59 18908 21486 24010 26228 27837 29218
+60+ 2146 2704 3250 3902 4672 5543
+Proportion (percent)
+0-14 36.2 32.4 29.1 26.4 24.8 23.0
+15-59 57.3 60.0 62.4 64.0 64.4 64.7
+15-49 (female population) 50.4 52.6 54.4 55.4 54.9 54.4
+60+ 6.5 7.6 8.4 9.5 10.8 12.3
+Median age (years) 22.10 23.60 25.25 27.27 29.31 31.43
+Dependency Ratio
+Young (0-14) 631 540 467 413 384 356
+Old (60+) 114 126 135 149 168 190
+Total (Young and old) 745 666 602 562 552 546
+TABLE-17A
+Demographic Indicators : 2011-2035
+JHARKHAND
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 16.4 14.4 12.5 10.7 8.8
+Crude Birth Rate (CBR) 22.1 20.5 18.8 17.3 15.6
+Crude Death Rate (CDR) 5.8 6.1 6.3 6.5 6.8
+Infant Mortality Rate (IMR) 34 31 28 26 24
+Under-5 mortality rate (q ) 49 45 42 38 35
+5
+Total Fertility Rate (TFR) 2.78 2.46 2.17 1.98 1.87
+Life expectancy of males 68.40 69.40 70.40 71.20 72.00
+Life expectancy of females 69.06 70.56 71.76 72.96 73.96
+209

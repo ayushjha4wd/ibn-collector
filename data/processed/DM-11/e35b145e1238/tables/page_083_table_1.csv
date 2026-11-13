@@ -1,0 +1,17 @@
+"Level of
+Registration
+(in %)",BIRTHS,DEATHS
+Above 90,"13 States (Haryana, Jharkhand,
+Madhya Pradesh, Maharashtra,
+Rajasthan, Telangana, Uttarakhand,
+West Bengal, Karnataka, Tamil Nadu,
+Punjab, Andhra P radesh, Gujarat)","13 States (Andhra Pradesh, Gujarat, Haryana,
+Karnataka, Kerala, Maharashtra, Odisha,
+Punjab, Tamil Nadu, West Bengal, Telangana,
+Rajasthan, Ch hattisgarh)"
+80-90,"6 States (Bihar, Kerala, Uttar
+Pradesh, Odisha, Chhattisgarh,
+Assam)","2 State (Madhya Pradesh, Uttarakhand)"
+50-80,NIL,"4 States (Uttar Pradesh, Assam, Jharkhand,
+Bihar)"
+Below 50,NIL,NIL

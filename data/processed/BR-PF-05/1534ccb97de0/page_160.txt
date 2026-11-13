@@ -1,0 +1,44 @@
+STATEMENT 16: DETAILED STATEMENT OF CAPITAL EXPENDITURE BY MINOR HEADS AND SUB HEADS
+Figures in italics represent charged expenditure
+( in lakh)
+Expenditure during 2024-25 Percentage
+Scheme Expenditure Expenditure Increase (+)/
+Nature of expenditure Establishment during to the end Decrease (-)
+CSS/ Total
+& Committed State Scheme 2023-24 of 2024-25 during the
+CAS
+year
+C. CAPITAL ACCOUNT OF ECONOMIC SERVICES- Contd…
+(f) Capital Account of Industry and Minerals- Contd…
+4855 Capital Outlay on Fertilizer Industries
+800 Other Expenditure
+Superphosphate Factory, Sindri 0.00 0.00 0.00 0.00 0.00 136.27 0
+Total : 800 0.00 0.00 0.00 0.00 0.00 136.27 0
+Total : 4855 0.00 0.00 0.00 0.00 0.00 136.27 0
+4857 Capital Outlay on Chemicals and Pharmaceutical Industries
+02 Drugs and Pharmaceutical Industries
+190 Investment in Public Sector and other Undertakings
+Bihar State Chemical and Pharmaceutical Corporation 0.00 0.00 0.00 0.00 0.00 899.92 0
+Total : 190 0.00 0.00 0.00 0.00 0.00 899.92 0
+Total : 02 0.00 0.00 0.00 0.00 0.00 899.92 0
+Total : 4857 0.00 0.00 0.00 0.00 0.00 899.92 0
+4858 Capital Outlay on Engineering Industries
+01 Electrical Engineering Industries
+800 Other Expenditure
+Other Schemes each costing 5 crore or less 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 800 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 01 0.00 0.00 0.00 0.00 0.00 88.18 0
+Total : 4858 0.00 0.00 0.00 0.00 0.00 88.18 0
+4859 Capital Outlay on Telecommunication and Electronic Industries
+02 Electronics
+004 Research and Development
+Bihar State Wide Area Network (SWAN) 0.00 9,022.00 0.00 9,022.00 9,550.00 73,458.49 (-)5.53
+Total : 004 0.00 9,022.00 0.00 9,022.00 9,550.00 73,458.49 (-)5.53
+051 Construction
+State data center 0.00 2,705.18 0.00 2,705.18 10,681.74 33,842.36 (-)74.67
+Deduct- Receipts and Recoveries on Capital Account 0.00 0.00 0.00 0.00 (-)0.73 (-)0.73 (-)100.00
+Total : 051 0.00 2,705.18 0.00 2,705.18 10,681.01 33,841.63 (-)74.67
+190 Investment in Public Sector and other Undertakings
+Other Schemes each costing 5 crore or less 0.00 0.00 0.00 0.00 0.00 413.57 0
+Total : 190 0.00 0.00 0.00 0.00 0.00 413.57 0
+210

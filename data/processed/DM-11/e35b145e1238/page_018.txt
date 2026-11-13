@@ -1,0 +1,28 @@
+GLOSSARY OF TERMS
+Birth: Live birth or still birth.
+Live birth: Complete expulsion or extraction from its mother of a product of conception, irrespective of the
+duration of pregnancy, which, after such expulsion or extraction, breathes or shows any other evidence of
+life, and each product of such birth is considered live-born.
+Still Birth: Foetal death where a product of conception has attained at least the prescribed period of
+gestation.
+Death: Permanent disappearance of all evidence of the life at any time after live birth has taken place.
+Infant Death: Death of a child less than one year old.
+Level of Registration: The level of registration, defined as the percentage of registered births/deaths to
+the births/deaths estimated through SRS, determines the performance level of a State / Union territory
+with regard to functioning of Civil Registration System.
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑒𝑣𝑒𝑛𝑡𝑠 𝑟𝑒𝑔𝑖𝑠𝑡𝑒𝑟𝑒𝑑 𝑑𝑢𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑦𝑒𝑎𝑟
+𝐿𝑒𝑣𝑒𝑙 𝑜𝑓 𝑅𝑒𝑔𝑖𝑠𝑡𝑟𝑎𝑡𝑖𝑜𝑛 (𝐿𝑂𝑅)= ×100
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑒𝑠𝑡𝑖𝑚𝑎𝑡𝑒𝑑 𝑒𝑣𝑒𝑛𝑡𝑠 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑦𝑒𝑎𝑟
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑒𝑠𝑡𝑖𝑚𝑎𝑡𝑒𝑑 𝑒𝑣𝑒𝑛𝑡𝑠 𝑓𝑜𝑟 𝑎 𝑦𝑒𝑎𝑟= 𝑀𝑖𝑑−𝑦𝑒𝑎𝑟 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛 ×𝑆𝑅𝑆 𝑅𝑎𝑡𝑒
+Mid-year Population: Population at the mid-point of the year, i.e., 1st July of the year provided by
+population projections based on 2011. (Source: Population Projections for India and States 2011–2036,
+Report of the Technical Group on Population Projections constituted by National Commission on
+Population, July. 2020)
+Sex Ratio of Registered Birth:
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑓𝑒𝑚𝑎𝑙𝑒 𝑏𝑖𝑟𝑡ℎ𝑠 𝑟𝑒𝑔𝑖𝑠𝑡𝑒𝑟𝑒𝑑 𝑑𝑢𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑦𝑒𝑎𝑟
+𝑆𝑒𝑥 𝑅𝑎𝑡𝑖𝑜 𝑜𝑓 𝑅𝑒𝑔𝑖𝑠𝑡𝑒𝑟𝑒𝑑 𝐵𝑖𝑟𝑡ℎ = ×1000
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑚𝑎𝑙𝑒 𝑏𝑖𝑟𝑡ℎ𝑠 𝑟𝑒𝑔𝑖𝑠𝑡𝑒𝑟𝑒𝑑 𝑑𝑢𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑦𝑒𝑎𝑟
+Delayed Registered Birth events of more than one year have been duly deducted for arriving the sex ratio
+of Registered Birth
+Gross Natural addition to the Population = Total Registered Births – Total Registered Deaths
+xviii

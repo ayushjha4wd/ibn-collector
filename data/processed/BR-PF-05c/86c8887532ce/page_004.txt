@@ -1,0 +1,35 @@
+13. Information on the borrowing from Public Account as on 31.05.2026
+(₹ in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the month balance as on borrowed
+on month May 2026 31.05.2026 from public
+01.05.2026 May 2026 Account as
+on 31.05.2026
+8009-State Provident Funds -68.41 83.30 208.70 -193.81 15288.20
+8011-Insurance and Pension -9.36 2.60 17.18 -23.94
+Funds
+8121-General and other 0 0 0 0
+Reserve Funds
+8222-Sinking funds 0 350 350 0
+8235- General and other 0 0 0 0
+Reserve Funds
+8342-Other Deposits 198.12 958.12 882.33 273.91
+8443-Civil Deposits -114.44 253.83 427.41 -288.02
+8448-Deposits of Local -2101.45 1015.56 3471.70 -4557.59
+Funds
+8449- Other Deposits 0.01 3694.34 3694.37 -0.02
+8658-Suspense Accounts 10913.55 10607.51 3173.10 18347.96
+8670-Cheque and Bills -26.23 15529.58 14630.46 872.89
+8671-Departmental 0 0 0 0
+Balances
+8672-Permanent cash 0 0 0.01 -0.01
+Imprest
+8673-Cash Balance -5238.92 41775.65 35528.39 1008.34
+Investment account
+8782-Cash Remittances and 0 0 0 0
+adjustments b/w rendering
+accounts to the same
+Accounts officer
+8793-Inter-State Suspense -131.72 0.01 19.80 -151.51
+Account
+Total 3421.15 74270.50 62403.45 15288.20 15288.20

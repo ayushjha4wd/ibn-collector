@@ -1,0 +1,42 @@
+T-17
+Projected Population Characteristics as on 1st March : 2011 - 2036
+JAMMU & KASHMIR (UT)
+Indicator 2011 2016 2021 2026 2031 2036
+1 2 3 4 5 6 7
+Population (000')
+Total 12,267 12,897 13,408 13,896 14,361 14,747
+Male 6,484 6,789 7,030 7,256 7,467 7,635
+Female 5,783 6,108 6,378 6,640 6,894 7,112
+Sex Ratio 892 900 907 915 923 932
+Population Density (Sq. Km.) 75 79 82 85 88 90
+Population by broad age-group
+(000')
+18 years and above 7,336 8,358 9,408 10,475 11,291 11,649
+0-14 4,176 3,725 3,167 2,593 2,573 2,608
+15-59 7,229 8,125 8,973 9,745 9,886 9,853
+60+ 863 1,047 1,268 1,557 1,902 2,287
+Proportion (percent)
+0-14 34.0 28.9 23.6 18.7 17.9 17.7
+15-59 58.9 63.0 66.9 70.1 68.8 66.8
+15-49 (female population) 52.4 55.2 57.6 59.2 56.8 53.7
+60+ 7.0 8.1 9.5 11.2 13.2 15.5
+Median age (years) 23.2 25.7 28.4 31.1 33.6 36.2
+Dependency Ratio
+Young (0-14) 578 459 353 266 260 265
+Old (60+) 119 129 141 160 192 232
+Total (Young and old) 697 588 494 426 452 497
+TABLE-17A
+Demographic Indicators : 2011-2035
+JAMMU & KASHMIR (UT)
+Indicator 2011-15 2016-20 2021-25 2026-30 2031-35
+1 2 3 4 5 6
+Population growth rate 10.0 7.8 7.2 6.6 5.3
+Crude Birth Rate (CBR) 15.1 13.3 13.0 13.0 12.4
+Crude Death Rate (CDR) 4.7 5.0 5.4 6.0 6.6
+Infant Mortality Rate (IMR) 35 32 29 27 25
+Under-5 mortality rate (q ) 41 38 34 32 30
+5
+Total Fertility Rate (TFR) 1.93 1.61 1.52 1.50 1.50
+Life expectancy of males 71.20 72.00 72.80 73.30 73.80
+Life expectancy of females 76.20 77.00 77.80 78.30 78.80
+165

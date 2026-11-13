@@ -1,0 +1,35 @@
+STATEMENT 5: STATEMENT OF PROGRESSIVE CAPITAL EXPENDITURE
+( ```` in crore )
+Expenditure Progressive Expenditure Progressive Increase (+)/
+Major
+Description during expenditure during expenditure Decrease (-) in
+Head
+2022-23 upto 2022-23 2023-24 upto 2023-24 percentage
+1 2 3 4 5 6 7
+(b) Capital Account of Rural Development
+4515 Capital Outlay on Other Rural Development Programmes 6,218.08 57,570.60 7,083.98 64,654.58 13.93
+Total - (b) 6,218.08 57,570.60 7,083.98 64,654.58 13.93
+(d) Capital Account of Irrigation and Flood Control
+4700 Capital Outlay on Major Irrigation 1,207.61 14,072.49 2,852.38 16,924.87 136.20
+4701 Capital Outlay on Medium Irrigation 0.00 7,327.91 0.00 7,327.91 0
+4702 Capital Outlay on Minor Irrigation 460.03 3,498.59 821.01 4,319.60 78.47
+4705 Capital Outlay on Command Area Development 0.00 0.58 0.00 0.58 0
+4711 Capital Outlay on Flood Control Projects 983.93 14,018.33 2,202.41 16,220.74 123.84
+Total - (d) 2,651.57 38,917.90 5,875.80 44,793.70 121.60
+(e) Capital Account of Energy
+4801 Capital Outlay on Power Projects 3,078.71 38,734.77 1,782.31 40,517.08 (-)42.11
+4810 Capital Outlay on New and Renewable Energy 0.00 1.50 136.00 137.50 0
+Total - (e) 3,078.71 38,736.27 1,918.31 40,654.58 (-)37.69
+(f) Capital Account of Industry and Minerals
+4851 Capital Outlay on Village and Small Industries 1,392.24 1,586.00 419.90 2,005.90 (-)69.84
+4853 Capital Outlay on Non-Ferrous Mining and Metallurgical Industries 0.00 43.72 0.00 43.72 0
+4855 Capital Outlay on Fertilizer Industries 0.00 1.36 0.00 1.36 0
+4857 Capital Outlay on Chemicals and Pharmaceutical Industries 0.00 9.00 0.00 9.00 0
+4858 Capital Outlay on Engineering Industries 0.00 0.88 0.00 0.88 0
+4859 Capital Outlay on Telecommunication and Electronic Industries 130.83 844.09 202.31 1,046.40 54.64
+4860 Capital Outlay on Consumer Industries 0.00 54.86 0.00 54.86 0
+4875 Capital Outlay on Other Industries 0.00 0.24 0.00 0.24 0
+4885 Capital Outlay on Industries and Minerals 170.00 1,963.35 100.00 2,063.35 (-)41.18
+Total - (f) 1,693.07 4,503.50 722.21 5,225.71@ (-)57.34
+.@Differs with Statement No. 16 by ₹0.01 crore is due to rounding.
+18

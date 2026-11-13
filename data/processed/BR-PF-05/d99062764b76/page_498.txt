@@ -1,0 +1,26 @@
+Appendix - X
+MAINTENANCE EXPENDITURE WITH SEGREGATION OF SALARY AND NON-SALARY PORTION
+(```` in lakh)
+Grant Components of Expenditure
+Name of the Grant Heads of Expenditure Description*
+No. Salary Non-Salary Total
+2702-03-101-0002-27-02 Other maintenance expenditure 0.00 27.18 27.18
+2702-03-103-0002-01-01 Government Tubewells 6.36 0.00 6.36
+2702-03-103-0002-01-18 Government Tubewells (-)1.87 0.00 (-)1.87
+2702-03-103-0002-11-01 Government Tubewells 0.00 0.12 0.12
+2702-03-103-0002-13-02 Government Tubewells 0.00 0.12 0.12
+2702-03-103-0002-13-03 Government Tubewells 0.00 0.03 0.03
+2702-03-103-0002-13-06 Government Tubewells 0.00 0.15 0.15
+Minor Water Resource
+50 2702-03-103-0002-28-01 Government Tubewells 0.00 1.66 1.66
+Department
+2702-03-103-0007-27-02 Other Maintenance Expenditure 0.00 0.00 0.00
+2702-03-103-0104-27-01 Private Tubewell 0.00 2,244.88 2,244.88
+2702-03-789-0101-27-01 Private Tubewell 0.00 422.29 422.29
+2702-03-796-0101-27-01 Private Tubewell 0.00 18.23 18.23
+2702-03-911-0002-50-01 Refund Of Excess Payment 0.00 (-)10.21 (-)10.21
+2702-03-911-0101-50-01 Refund Of Excess Payment 0.00 (-)28.05 (-)28.05
+2702-03-911-0102-50-01 Refund Of Excess Payment 0.00 (-)75.21 (-)75.21
+Total 339.23 4,79,828.39 4,80,167.62
+* The column description represents the description of Sub Head.
+544

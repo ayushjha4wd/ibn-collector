@@ -1,0 +1,44 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Percentage Increase(+)/
+Actuals
+Heads Decrease(-)
+2023-24 2022-23 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(iii) Economic Services- Contd…
+0406 Forestry and Wild Life
+01 Forestry
+101 Sale of timber and other forest produce 1,005.06 975.15 3.07
+102 Receipts from social and farm forestries 297.17 175.99 68.86
+501 Services and Service Fees 669.41 666.21 0.48
+800 Other Receipts 2,376.72 1,704.31 39.45
+Total : 01 4,348.36 3,521.66 23.47
+02 Environmental Forestry and Wild Life
+111 Zoological Park 1,977.96 1,902.77 3.95
+501 Services and Service Fees 0.00 676.75 (-)100.00
+800 Other Receipts 51.06 56.60 (-)9.79
+Total : 02 2,029.02 2,636.12 (-)23.03
+Total : 0406 6,377.38 6,157.78 3.57
+0425 Co-operation
+101 Audit Fees 639.23 676.74 (-)5.54
+501 Services and Service Fees 235.77 0.00 0
+800 Other Receipts 12.60 8.55 47.37
+Total : 0425 887.60 685.29 29.52
+0506 Land Reforms
+800 Other Receipts 2.68 7.39 (-)63.73
+900 Deduct-Refunds (-)4.15 (-)12.09 65.67
+Total : 0506 (-)1.47 (-)4.70 68.72
+0515 Other Rural Development Programmes
+101 Receipts under Panchayati Raj Acts 59.24 30.77 92.53
+501 Services and Service Fees 2,320.35 1,669.45 38.99
+800 Other Receipts 2,155.82 1,113.99 93.52
+Total : 0515 4,535.41 2,814.21 61.16
+0700 Major Irrigation
+01 Irrigation project of Koshi Basin (Commercial)
+800 Other Receipts 0.00 1.00 (-)100
+Total : 01 0.00 1.00 (-)100
+02 Major Irrigation Non-Commercial
+104 Sale proceeds from canal plantations 0.60 0.00 0
+Total : 02 0.60 0.00 0
+69

@@ -1,0 +1,36 @@
+List of Charts
+Chart 1 Number of Registered Births, 1990-2023 42
+Chart 2 Number of Registered Deaths, 1990-2023 42
+Chart 3 Birth Registration completed within the prescribed time limit i.e. 21 days 47
+Chart 4 Death Registration completed within the prescribed time limit i.e. 21 days 48
+Chart 5 Percentage of Births/Deaths Registered within Time (i.e. 21 days) in Major States, 2023 48
+Chart 6 Sex-wise Distribution of Registered Births, 2023 51
+Chart 7 Sex-wise Distribution of Registered Deaths, 2023 51
+Chart 8 Sex-wise Registered Births in Major States, 2023 52
+Chart 9 Sex-wise Registered Deaths in Major States, 2023 53
+Chart 10 Rural-Urban composition of Registered Births, 2023 54
+Chart 11 Rural-Urban composition of Registered Deaths, 2023 54
+Chart 12 Rural-Urban composition of Registered Births of major States, 2023 55
+Chart 13 Rural-Urban composition of Registered Deaths of major States, 2023 56
+Chart 14 Medical attention at the time of birth, 2023 57
+Chart 15 Medical Attention at the time of Death, 2023 57
+Chart 16 Level of Registration of births and deaths over the years 59
+Chart 17 Level of Registration of Births of States/UTs, 2023 60
+Chart 18 Level of Registration of Deaths of States/UTs, 2023 62
+Chart 19 Level of Registration of Births & Deaths, 2023 65
+Chart 20 Sex Ratio based on Registered Births, 2023 67
+Part II - List of Detailed Tables
+Table 1 Number of births registered by sex and States/UTs (Rural/Urban), 2023 76
+Table 2 Number of deaths registered by sex and States/UTs (Rural/Urban), 2023 77
+Table 3 Number of infant deaths registered by sex and States/UTs (Rural/Urban), 2023 78
+Table 4 Number of still births registered by sex and States/UTs (Rural/Urban), 2023 79
+Table 5 Death by Age and Sex of the deceased, 2023 80-86
+Table 6 Number of births registered - States/Union Territories/Districts, 2023 87-101
+Table 7 Number of deaths registered - States/Union Territories/Districts, 2023 102-116
+Table 8 Number of infant deaths registered - States/Union Territories/Districts, 2023 117-131
+Table 9 Number of still births registered - States/Union Territories/Districts, 2023 132-146
+Annexures
+Annexure A Registration of Births and Deaths (Amendment) Act, 2023 (No. 20 of 2023) 147-153
+Annexure B Gazette Notification of enforcement of RBD Act 1969 (Amended in 2023) 154
+Annexure C Civil Registration Hierarchy in States and Union Territories 155-160
+v

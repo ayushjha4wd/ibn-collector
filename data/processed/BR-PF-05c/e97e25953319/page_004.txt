@@ -1,0 +1,36 @@
+13. Information on the borrowing from Public Account as on 31.12.2022
+(Rs in crore)
+Major Head /Heads Opening Additions Disbursements Closing Amount
+Balance as during the during the balance as borrowed
+on month month on from
+01.12.2022 December December 31.12.2022 public
+2022 2022 Account
+as on
+31.12.2022
+8009-State Provident -452.24 121.89 175.52 -505.87 0.00
+Funds
+8011-Insurance and -109.77 1.38 19.00 -127.39 0.00
+Pension Funds
+8115 Depreciation/ 0.00 0.00 0.00 0.00 0.00
+Renewal Reserve Fund
+8121- General and other 1,746.03 0.00 0.00 1,746.03 0.00
+Reserve Funds Funds
+8222-Sinking Funds -1,288.00 1,288.00 0.00 0.00 0.00
+8342-Other Deposits -111.65 261.99 123.00 27.34 0.00
+8443-Civil Deposits 15.17 277.90 210.54 82.53 0.00
+8448-Deposits of Local -4,588.35 1,484.57 2,138.56 -5,242.34 0.00
+Funds
+8449-Other Deposits 16,017.18 6,003.25 22,020.29 0.14 0.00
+8658-Suspense 28,959.79 -5,061.64 -2,826.50 26,724.65 0.00
+Accounts
+8670-Cheque and Bills 61.22 15,267.65 15,209.63 119.24 0.00
+8672-Permament cash -2.58 0.00 0.00 -2.58 0.00
+Imperest
+8673-Cash Balance 4,518.93 40,720.47 43,581.56 1,657.84 0.00
+Investment Account
+8679-Accounts with -0.01 0.00 0.00 -0.01 0.00
+Government of other
+countries
+8793-Inter-State -96.74 0.00 -7.83 -88.91 0.00
+Suspense Account
+Total 44,668.98 60,365.46 80,643.77 24,390.67 0.00

@@ -1,0 +1,48 @@
+Assumptions regarding mortality
+For projecting the likely levels of expectation of life at birth (e ), working models developed by the
+0
+U.N. have been adopted. U.N. uses a standard pattern of improvement depending on whether the expectation
+is likely to improve slowly, moderately and fast based on historical patterns. It has been assumed that increase
+in the life expectancy becomes relatively slower as it reaches higher levels. The age specific survival rates were
+calculated by assuming that the age pattern of mortality observed in the SRS for 2009-2011 would slowly
+converge to the West model life table pattern as levels of life expectancy increase.
+Starting with the average SRS based Age Specific Death Rate (ASDR) for 2009-2011 centered at 2010,
+which was taken as base year, separate life tables for males and females were prepared, separately taking into
+consideration the omission factor due to death reporting. Three years average was chosen, since the year wise
+mortality rates particularly at the state level would be subject to higher variability. With the help of the West
+model life table and the expectation of life at the base level, the values of nLx for each of the five-year age
+groups were projected upto 2031-35 by interpolation. The West Model life tables were adopted as the standard
+life tables for this purpose.
+To decide whether high, medium or low improvement should be assumed for each state, the e 0 s for
+0
+the periods 2005-09 and 2010-14 obtained from SRS Life Table have been examined and pattern obtained
+through this for e 0 been assumed to continue in future for India and all the states.
+0
+Assumptions regarding migration
+Based on the migration data of Census of India 2011, inter-state net migrants during decade 2001-11
+has been assumed to remain constant throughout the projection periods for all the states, where Component
+Method of projections were used. The component of international migration has been assumed to be
+negligible, so it has not been considered for projection exercise.
+Population Projections for smaller states and Union Territories
+The states for which projection has been made using the Component Method constitute about 99
+percent of the total population as of 2011. The projection of the seven north-eastern states (excluding Assam)
+has also been carried out as a whole using the Component Method. For the remaining State- Goa and Union
+territories, contribute only 1 percent of the total population of India. These are Andaman & Nicobar Islands,
+Chandigarh, Dadra & Nagar Haveli, Daman & Diu, Goa, Lakshadweep, and Puducherry. The population
+projection of these State/Union territories has been projected by Mathematical method using exponential
+growth rates. In order to project the future population, the exponential growth rates are estimated using the
+method of Least Squares, the steps of which are mentioned below:
+Step 1: Using the Method of Least Square, Exponential Growth Rates are being estimated for 2021,
+2031 and 2041. The data used pertains to the growth rates of 1981, 1991, 2001 and 2011.
+Step 2: To get closer value of population, growth rate of 2016 has been estimated by using Geometric
+Mean (GM) of 2011 and 2021 & for 2026, the GM of 2021 and 2031. As such the most probable
+growth gate of 2016 and 2026 are obtained.
+Step 3: The growth rate of 2016 has been used to estimate the population of 2012 to 2016, the growth
+rate of 2021 has been used to estimate the population of 2017 to 2021 and so on.
+Projections for combined North-Eastern States (excluding Assam)
+An attempt has been made for working out the population projections of North- Eastern States
+combined (excluding Assam) by Component method. The states included in the North-Eastern States are
+Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim and Tripura. This was recommended
+by the Technical Group. In so far as the projection for the North –Eastern States, combined is concerned, TFRs
+for earlier years based on available data from 1995 onwards till 2017 has been used to project the future levels.
+20

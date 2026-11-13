@@ -1,0 +1,39 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2021-22 2020-21 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(ii) Social Services
+03 Sports and Youth Services
+101 Physical Education-Sports and Youth Welfare 0.01 0.01 0
+800 Other Receipts 0.00 51.10 (-)100.00
+Total : 03 0.01 51.11 (-)99.98
+04 Art and Culture
+101 Archives and Museums 13.87 8.52 62.79
+800 Other Receipts 170.57 290.97 (-)41.38
+Total : 04 184.44 299.49 (-)38.42
+Total : 0202 50,912.50 1,150.14 4326.64
+0210 Medical and Public Health
+01 Urban Health Services
+020 Receipts from Patients for hospital and dispensary services 81.68 92.90 (-)12.08
+101 Receipts from Employees State Insurance Scheme 1,108.24 828.53 33.76
+501 Service and Service Fees 437.75 411.03 6.50
+800 Other Receipts 21.28 7.93 168.35
+Total : 01 1,648.95 1,340.39 23.02
+02 Rural Health Services
+101 Receipts/contributions from patients and others 0.00 3.69 (-)100.00
+800 Other Receipts 51.65 63.90 (-)19.17
+Total : 02 51.65 67.59 (-)23.58
+03 Medical Education, Training and Research
+101 Ayurveda 2.16 16.98 (-)87.28
+105 Allopathy 210.59 214.17 (-)1.67
+200 Other Systems 436.45 242.74 79.80
+Total : 03 649.20 473.89 36.99
+04 Public Health
+102 Sale of Sera / Vaccine 54.33 35.80 51.76
+104 Fees, Fines etc. 0.29 15.37 (-)98.11
+105 Receipts from Public Health Laboratories 531.69 414.97 28.13
+Total : 04 586.31 466.14 25.78
+59

@@ -1,0 +1,77 @@
+Report Summary
+Report of the 16th Finance Commission for 2026-31
+The Finance Commission (FC) is a Constitutional body Demographic Performance: The 15th FC had introduced
+constituted by the President every five years to make this parameter to award states for controlling population
+recommendations on centre-state fiscal relations. The on the basis of Total Fertility Rate (TFR). The 16th FC
+Report of the 16th Finance Commission (Chair: Dr. Arvind has redefined this to account for population growth
+Panagariya) was tabled in Parliament on February 1, 2026 between 1971 and 2011 instead of relying on change in
+for the five-year period between 2026-27 and 2030-31. TFR. States with lower population growth will have a
+Key recommendations of the Commission include: higher share under this parameter.
+Share of states in central taxes Forest: The 16th FC has assigned weightage to both the
+share of a state in the overall forest area, and its share in
+The share of states in the divisible pool of central taxes
+the increase in overall forest area between 2015 and 2023.
+has been recommended at 41%. This is same as the share
+Further, it has also considered open forests in arriving at
+recommended by the 15th Finance Commission. Divisible
+the total forest area. In contrast, the 15th FC had
+pool is arrived at after excluding cost of collection and
+considered only dense and moderately dense forests, and
+cesses and surcharges from the gross tax revenue
+defined the parameter only in terms of share in the overall
+collected by the central government.
+forest area.
+Criteria for devolution
+Contribution to GDP: The 16th FC has introduced this
+To provide for the distribution of central taxes among parameter to account for the contribution to national GDP.
+states, Finance Commissions define a formula with This replaces the tax and fiscal efforts parameter used by
+weightage for certain parameters. Table 1 below shows the 15th FC which rewarded states with a higher tax
+the criteria used by the 16th Finance Commission to collection efficiency. Contribution to GDP by a state is
+determine each state’s share in central taxes and the calculated as the squared root of its GSDP to the sum of
+weights assigned to them. Table 3 in annexure shows the squared root of GSDP of all states. GSDP of each state
+individual share of states. has been measured as the average nominal GSDP between
+2018-19 and 2023-24 (excluding the pandemic year of
+Table 1: Criteria for distribution of central taxes 2020-21).
+among states
+Grants-in-aid
+15th FC 16th FC
+Criteria
+(2021-26) (2026-31) The 16th FC has recommended grants worth Rs 9.47 lakh
+Income Distance 45% 42.5% crore over the five-year period. These comprise grants
+Population (2011) 15% 17.5% for: (i) urban and rural local bodies, and (ii) disaster
+Demographic Performance 12.5% 10% management. The 16th FC has discontinued the following
+grants recommended by the 15th FC: (i) revenue deficit
+Area 15% 10%
+grants, (ii) sector-specific grants, and (iii) state-specific
+Forest 10% 10%
+grants. See Table 5 in annexure for state-wise details.
+Tax and Fiscal Efforts 2.5% -
+Table 2: Grants-in-aid for 2026-31 (in Rs crore)
+Contribution to GDP - 10%
+Grants Amount
+Total 100% 100%
+Sources: Reports of the 15th and 16th Finance Commissions; PRS. Local governments 7,91,493
+Rural local bodies 4,35,236
+Per Capita GSDP Distance (Income Distance): The
+16th FC has defined income distance as the difference Basic Grant 3,48,188
+between the per capita GSDP of a state and the average of Performance Grant 87,048
+the per capita GSDP of the top three large states with the
+Urban local bodies 3,56,257
+highest per capita GSDP. Per capita GSDP has been
+Basic Grant 2,32,125
+computed as the average over the period 2018-19 and
+2023-24, excluding the pandemic year of 2020-21. States Performance Grant 58,032
+with a lower per capita GSDP will receive a higher share Special Infrastructure Component 56,100
+on this parameter, to maintain equity among states.
+Urbanisation Premium 10,000
+Population: On this parameter, the share in devolution is Disaster management 1,55,916
+determined based on the share in the population as per the
+Total 9,47,409
+2011 Census.
+Source: Report of the 16th Finance Commission; PRS.
+Shrusti Singh
+February 1, 2026
+shrusti@prsindia.org
+PRS Legislative Research  Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya  212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org

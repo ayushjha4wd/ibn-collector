@@ -1,0 +1,36 @@
+STATEMENT 1: STATEMENT OF FINANCIAL POSITION
+(```` in crore)
+Reference
+(Sl. No.)
+As on As on
+Assets¹ Notes to
+31 March 2024 31 March 2023
+Finance Statement
+Accounts
+Cash 36,982.18 22,903.95
+(i) Cash in Treasuries and Local Remittances 0.00 0.00
+(ii) Departmental Balances 21 233.22 234.65
+(iii) Permanent Imprest 21 765.53 765.46
+(iv) Cash Balance Investments 21 26,762.09 14,069.82
+(v) Deposits with Reserve Bank of India 21 726.68 805.90
+(vi) Investments from Earmarked Funds2 22 8,494.66 7,028.12
+Capital Expenditure 16 3,27,339.05 2,90,886.03
+(i) Investments in shares of Companies,
+8 41,512.97 39,024.62
+Corporations etc.
+(ii) Other Capital Expenditure 2,85,826.08 2,51,861.41
+Contingency Fund (un-recouped) 0.00 0.00
+Loans and Advances 18 27,249.57 25,209.64
+Civil Advances 21 249.96 249.96
+Suspense and Miscellaneous Balances3 21 5,611.89 14,416.78
+Remittance Balances 21 1,128.33 1,125.96
+Cumulative excess of Expenditure
+0.00 0.00
+over Receipts4
+Total 3,98,560.98 3,54,792.32
+¹ The figures of assets and liabilities are cumulative figures.
+² Investment out of earmarked funds is excluded from Capital Expenditure.
+³Inthisstatementthelineitem‘SuspenseandMiscellaneousBalances’includes`5,611.32croreunderMH8658-SuspenseAccountsand`0.57croreunder
+MH 8679-Accounts with Governments of other Countries.
+4 The cumulative excess of Receipts over Expenditure or Expenditure over Receipts does not represent the fiscal/revenue deficit for the current year.
+2

@@ -1,0 +1,24 @@
+STATEMENT 17: DETAILED STATEMENT OF BORROWINGS AND OTHER LIABILITIES
+(c) Interest Rate Profile of Outstanding Loans*
+(i) Internal Debt of the State Government
+( ```` in lakh )
+Amount outstanding as on 31 March 2024
+Rate of Interest Special Securities issued Share in
+Market Loans Compensation and
+(Per cent) to NSSF of the Central LIC/GIC NABARD NCDC Others Total total
+Bearing interest other Bonds
+Government
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Below 5 0.00 1,918.21 0.00 0.00 6,39,779.73 0.00 0.00 6,41,697.94 2.72
+5 to 5.99 14,00,000.00 0.00 0.00 0.00 3,11,647.81 0.00 0.00 17,11,647.81 7.25
+6 to 6.99 29,31,600.00 0.00 0.00 0.00 0.00 0.00 0.00 29,31,600.00 12.41
+7 to 7.99 1,33,20,200.00 64,117.56 0.00 0.00 0.00 0.00 0.00 1,33,84,317.56 56.67
+8 to 8.99 37,90,000.00 1,06,842.60 0.00 0.00 0.00 0.00 0.00 38,96,842.60 16.50
+9 to 9.99 0.00 0.00 9,46,122.19 0.00 0.00 36,208.39 0.00 9,82,330.58 4.16
+10 to 10.99 0.00 0.00 69,607.88 0.00 0.00 0.00 0.00 69,607.88 0.29
+11 to 11.99 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+12 to 12.99 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+13 to 13.99 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total 2,14,41,800.00 1,72,878.37 10,15,730.07 0.00 9,51,427.54 36,208.39 0.00 2,36,18,044.37 100.00
+*As furnished by the State Government.
+247

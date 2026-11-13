@@ -1,0 +1,36 @@
+STATEMENT 1: STATEMENT OF FINANCIAL POSITION
+(```` in crore)
+Reference
+(Sl. No.)
+As on As on
+Assets¹ Notes to
+31 March 2022 31 March 2021
+Finance Statement
+Accounts
+Cash 29,478.66 24,864.64
+(i) Cash in Treasuries and Local Remittances 0.00 0.00
+(ii) Departmental Balances 21 234.65 234.65
+(iii) Permanent Imprest 21 762.40 761.43
+(iv) Cash Balance Investments 21 22,070.25 17,826.65
+(v) Deposits with Reserve Bank of India 21 671.24 301.79
+(vi) Investments from Earmarked Funds2 22 5,740.12 5,740.12
+Capital Expenditure 16 2,59,366.21 2,35,687.92
+(i) Investments in shares of Companies,
+8 35,436.02 32,870.61
+Corporations etc.
+(ii) Other Capital Expenditure 2,23,930.19 2,02,817.31
+Contingency Fund (un-recouped) 0.00 0.00
+Loans and Advances 18 23,194.36 21,743.77
+Civil Advances 21 249.96 249.96
+Suspense and Miscellaneous Balances3 21 15,616.59 15,378.20
+Remittance Balances 21 1,125.96 1,118.43
+Cumulative excess of Expenditure
+0.00 0.00
+over Receipts4
+Total 3,29,031.74 2,99,042.92
+¹ The figures of assets and liabilities are cumulative figures. Please also see note 1 (v) in the section ‘Notes to Finance Accounts’.
+² Investment out of earmarked funds is excluded from Capital Expenditure.
+³Inthisstatementthelineitem‘SuspenseandMiscellaneousBalances’ includes`15,616.03croreunderMH8658-SuspenseAccounts, `0.56croreunder
+MH 8679-Accounts with Government of other Countries.
+4 The cumulative excess of Receipts over Expenditure or Expenditure over Receipts does not represent the fiscal/revenue deficit for the current year.
+2

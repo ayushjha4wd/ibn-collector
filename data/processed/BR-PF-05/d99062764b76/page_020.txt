@@ -1,0 +1,39 @@
+STATEMENT 14: DETAILED STATEMENT OF REVENUE AND CAPITAL RECEIPTS BY MINOR HEADS
+( ```` in lakh )
+Actuals Percentage Increase(+) /
+Heads Decrease(-)
+2022-23 2021-22 during the year
+B. Non-Tax Revenue- Contd…
+(c) Other Non-Tax Revenue- Contd…
+(iii) Economic Services- Contd…
+0515 Other Rural Development Programmes
+101 Receipts under Panchayati Raj Acts 30.77 25.90 18.80
+501 Services and Service Fees 1,669.45 2,232.08 (-)25.21
+800 Other Receipts 1,113.99 1,284.05 (-)13.24
+Total : 0515 2,814.21 3,542.03 (-)20.55
+0700 Major Irrigation
+01 Irrigation project of Koshi Basin (Commercial)
+800 Other Receipts 1.00 0.00 0
+Total : 01 1.00 0.00 0
+80 General
+501 Services and Service Fees 8,298.84 4,058.90 104.46
+Total : 80 8,298.84 4,058.90 104.46
+Total : 0700 8,299.84 4,058.90 104.48
+0701 Medium Irrigation
+01 Irrigation project of Koshi Basin (Commercial)
+101 Kosi Project 0.95 0.93 2.15
+908 Gandak Project 0.19 0.00 0
+Total : 01 1.14 0.93 22.58
+03 Medium Irrigation-Commercial
+923 Medium Irrigation Project, South Bihar 4.59 4.35 5.52
+Total : 03 4.59 4.35 5.52
+Total : 0701 5.73 5.28 8.52
+0702 Minor Irrigation
+01 Surface Water
+101 Receipts from water tanks 19.19 0.08 23887.50
+Total : 01 19.19 0.08 23887.50
+02 Ground Water
+101 Receipts from tube wells 1.44 3.07 (-)53.09
+800 Other Receipts 13.05 30.79 (-)57.62
+Total : 02 14.49 33.86 (-)57.21
+66

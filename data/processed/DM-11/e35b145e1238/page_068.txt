@@ -1,0 +1,47 @@
+In Statement 14, the State/UT-wise percentage of birth registered within the prescribed time
+limit has been arranged in descending order.
+Statement 14: State/UT wise Birth Registration completed within the prescribed time
+limit of 21 days
+Birth Registration
+Sl. No. State/ Union Territory Completed Within 21 Registered Births %
+days
+1. Gujarat 1175314 1176320 99.9
+2. Puducherry 32914 33021 99.7
+3. Chandigarh 26968 27189 99.2
+4. D & N Haveli and Daman & Diu 12824 12948 99.0
+5. Tamil Nadu 888787 902718 98.5
+6. Lakshadweep 788 807 97.6
+7. A & N Islands 3937 4078 96.5
+8. Haryana 575384 598417 96.2
+9. Himachal Pradesh 89389 94235 94.9
+10. Goa 16643 17803 93.5
+11. Punjab 371252 406396 91.4
+12. Odisha 583295 653281 89.3
+13. Mizoram 23980 27180 88.2
+14. Maharashtra 1571235 1805484 87.0
+15. Chhattisgarh 497312 575467 86.4
+16. Andhra Pradesh 652636 762093 85.6
+17. Assam 474572 599739 79.1
+18. Delhi 285837 362625 78.8
+19. Madhya Pradesh 1552412 1988575 78.1
+20. Tripura 50851 68295 74.5
+21. Telangana 477293 652688 73.1
+22. Kerala 284298 393231 72.3
+23. Karnataka 691520 1016541 68.0
+24. Bihar 1984627 2938819 67.5
+25. Rajasthan 1219479 1932074 63.1
+26. Jammu & Kashmir 179253 288195 62.2
+27. Jharkhand 598974 974211 61.5
+28. West Bengal 874841 1427576 61.3
+29. Meghalaya 78008 127492 61.2
+30. Uttar Pradesh 2998787 4970573 60.3
+31. Uttarakhand 96355 226085 42.6
+32. Manipur 14437 61203 23.6
+33. Ladakh 3288 14340 22.9
+34. Arunachal Pradesh 3358 43397 7.7
+35. Nagaland 1741 65569 2.7
+Note:
+- Total Registered Births in respect of Delhi and Goa include all delayed births registered and may not tally
+with Registered Births of State/UT.
+- Partial Information has been provided by Sikkim and therefore not included.
+49

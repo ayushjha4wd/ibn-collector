@@ -1,0 +1,33 @@
+Statement 21: Percentage distribution of infant deaths by sex, 2023
+% Share of Registered
+No. of Registered No. of Registered Infant Deaths to Total
+Sex
+Deaths Infant Deaths registered Deaths
+(Col 3/Col 4 x 100)
+(1) (2) (3) (4)
+Male 5244179 84597 1.6
+Female 3415179 61339 1.8
+Person* 8659679 145992 1.7
+*: Includes the cases of sex not reported/available, so does not match with the addition of male and female.
+3.16 Still Births
+3.16.1 The World Health Organization (WHO) defines a still birth as a baby born with no signs
+of life at or after 28 weeks' gestation. Still birth, also known as foetal death, has been defined as
+‘death prior to the complete expulsion or extraction from its mother of a product of human
+conception, irrespective of the duration of pregnancy and which is not an induced termination of
+pregnancy. The death is indicated by the fact that after such expulsion or extraction, the fetus does
+not breathe or show any other evidence of life, such as beating of the heart, pulsation of the
+umbilical cord, or definite movement of voluntary muscles. Heartbeats are to be distinguished
+from transient cardiac contractions; stillbirths are to be distinguished from fleeting respiratory
+efforts or gasps.’
+3.16.2 Statement 22 presents stillbirths registered by place of occurrence (Rural /Urban) of
+the event for the year 2023. It may be observed that in total registered stillbirths, the share of
+rural registered stillbirths is only 35.7%, while this share is about 64.3% in Urban Areas.
+State/UT-wise registered stillbirths is depicted in Table 4 (Page No. 79).
+Statement 22: Still Births registered during 2023
+% Share of Registered Still
+Place of Occurrence No. of Registered Still Births
+Births by Place of Occurrence
+Rural 35862 35.7
+Urban 64715 64.3
+Total 100577 100.0
+58

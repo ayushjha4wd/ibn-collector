@@ -1,0 +1,18 @@
+{
+  "raw_path": "data/raw/BR-PF-12/2026-11-13/REGISTRATION.xlsx",
+  "raw_sha256": "25f2f048d0a6b63ae000070ccd72eabb8dcd4b6aab8f20a5e124dcf70b41e5e1",
+  "source_id": "BR-PF-12",
+  "source_url": "https://tutorial.gst.gov.in/offlineutilities/gst_statistics/REGISTRATION.xlsx",
+  "parent_url": "https://www.gst.gov.in/download/gststatistics",
+  "retrieved_at_utc": "2026-11-13T07:01:49+00:00",
+  "obtained_on": null,
+  "kind": "xlsx",
+  "outputs": [
+    "data/processed/BR-PF-12/25f2f048d0a6/sheets/Registration.csv",
+    "data/processed/BR-PF-12/25f2f048d0a6/sheets/Gender_Based_Analysis.csv"
+  ],
+  "status": "ok",
+  "error": null,
+  "extractor": "extract/0.1",
+  "tool": "ibn-collector/0.1"
+}

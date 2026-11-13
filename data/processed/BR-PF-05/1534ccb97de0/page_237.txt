@@ -1,0 +1,47 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 1 : Major and Minor head wise details of Loans and Advances
+( in lakh )
+Write off of Net Increase(+)/ Interest
+Advanced Repaid
+Balance as on irrecoverable Balance as on 31 Decrease (-) received and
+Head of Account during the Total during the
+1 April 2024 loans and March 2025 during the year credited to
+year year
+advances (7-2) Revenue
+1 2 3 4 5 6 7 8 9
+3. Loans to Government Servants, etc.
+7610 Loans to Government Servants, etc.
+201 House Building Advances
+0001 House Building Advances to Government
+8,210.13 407.63 8,617.76 1,256.41 0.00 7,361.35 (-)848.78 0.00
+Servants
+0002 House Building Advances to Officers of
+749.21 35.26 784.47 51.34 0.00 733.13 (-)16.08 0.00
+All India Services
+Total : 201 8,959.34 442.89 9,402.23 1,307.75 0.00 8,094.48 (-)864.86 0.00
+202 Advances for purchase of Motor Conveyances
+0001 Advances to Government Servants for
+(-)433.41 0.00 (-)433.41 79.55 0.00 (-)512.96(a) (-)79.55 0.00
+purchase of Motor Conveyances
+0002 Advances to Government Servants for
+(-)0.97 0.00 (-)0.97 0.79 0.00 (-)1.76(a) (-)0.79 0.00
+purchase of Motor Cycle
+0003 Advances for purchase of Motor-Car to
+(-)25.15 0.00 (-)25.15 (-)25.15 0.00 0.00 25.15 0.00
+Ministers etc.
+0004 Advances to Members of Legislatures for
+3,236.91 177.98 3,414.89 930.30 0.00 2,484.59 (-)752.32 0.00
+purchase of Motor Conveyances
+Total : 202 2,777.38 177.98 2,955.36 985.49 0.00 1,969.87 (-)807.51 0.00
+203 Advances for purchase of other conveyances
+0001 Advances to Non-Gazetted Employees for
+(-)82.51 0.00 (-)82.51 0.00 0.00 (-)82.51(a) 0.00 0.00
+purchase of Cycles
+Total : 203 (-)82.51 0.00 (-)82.51 0.00 0.00 (-)82.51 0.00 0.00
+204 Advances for purchase of Computers
+0001 Advances to officers for purchase of
+(-)31.02 15.58 (-)15.44 33.20 0.00 (-)48.64(a) (-)17.62 0.00
+Computers
+Total : 204 (-)31.02 15.58 (-)15.44 33.20 0.00 (-)48.64 (-)17.62 0.00
+(a) Figures are under reconciliation and correspondance has been made with the State Government in respect of minus balance.
+287

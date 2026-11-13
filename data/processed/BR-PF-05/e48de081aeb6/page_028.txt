@@ -1,0 +1,28 @@
+Table 2 A.3
+DDDDaaaatttteeee OOOOffff RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+TTTTaaaabbbblllleeee 2222 AAAA....3333
+1111....1111....1111999988881111 ttttoooo 33331111....11112222....1111999988885555
+PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt PPPPaaaayyyy SSSSccccaaaalllleeee aaaatttt
+RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt RRRReeeettttiiiirrrreeeemmmmeeeennnntttt
+888855550000----1111333366660000 888888880000----1111555511110000 999944440000----1111666666660000 1111000000000000----1111888822220000 1111333355550000----2222000000000000
+NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll NNNNoooottttiiiioooonnnnaaaallll
+BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc PPPPaaaayyyy BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc BBBBaaaassssiiiicccc
+BBBBaaaassssiiiicccc PPPPAAAAYYYY
+PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn PPPPAAAAYYYY PPPPaaaayyyy oooonnnn
+1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666 1111....1111....2222000011116666
+880 36500 880 37600 940 44900 1000 44900 1350 53100
+940 37600 950 37600 980 44900 1100 44900 1400 53100
+1000 38700 985 38700 1020 44900 1150 44900 1450 54700
+1060 39900 1020 39900 1060 44900 1300 47600 1500 56300
+1120 42300 1300 46200 1100 44900 1350 49000 1550 56300
+1150 42300 1580 53600 1140 44900 1400 50500 1600 58000
+1180 43600 1180 44900 1450 52000 1650 59700
+1300 46200 1260 44900 1500 53600 1700 61500
+1420 49000 1300 47600 1550 55200 1775 61500
+1450 50500 1420 50500 1600 55200 1850 63300
+1500 52000 1650 56900 1925 65200
+1580 53600 1700 58600 2000 67200
+1700 58600 2000 62200 2075 67200
+2150 67200
+2225 67200
+24

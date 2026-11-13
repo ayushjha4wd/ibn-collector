@@ -1,0 +1,60 @@
+TTTTAAAABBBBLLLLEEEE ---- 8888:::: NNNNUUUUMMMMBBBBEEEERRRR OOOOFFFF IIIINNNNFFFFAAAANNNNTTTT DDDDEEEEAAAATTTTHHHHSSSS RRRREEEEGGGGIIIISSSSTTTTEEEERRRREEEEDDDD ---- SSSSTTTTAAAATTTTEEEESSSS//// UUUUNNNNIIIIOOOONNNN TTTTEEEERRRRRRRRIIIITTTTOOOORRRRIIIIEEEESSSS//// DDDDIIIISSSSTTTTRRRRIIIICCCCTTTTSSSS,,,, 2222000022223333
+SSSSllll.... RRRRuuuurrrraaaallll UUUUrrrrbbbbaaaannnn TTTToooottttaaaallll
+SSSSttttaaaatttteeeessss//// UUUUTTTTssss //// DDDDiiiissssttttrrrriiiiccccttttssss
+NNNNoooo.... MMMMaaaalllleeee FFFFeeeemmmmaaaalllleeee PPPPeeeerrrrssssoooonnnn MMMMaaaalllleeee FFFFeeeemmmmaaaalllleeee PPPPeeeerrrrssssoooonnnn MMMMaaaalllleeee FFFFeeeemmmmaaaalllleeee PPPPeeeerrrrssssoooonnnn
+1111 2222 3333 4444 5555 6666 7777 8888 9999 11110000 11111111
+AAAAssssssssaaaammmm 88885555 44447777 111133333333 555555555555 333344449999 999900004444 666644440000 333399996666 1111000033337777
+1 Baksa 0 0 0 0 0 0 0 0 0
+2 Barpeta 0 0 0 0 1 1 0 1 1
+3 Biswanath 1 0 1 1 2 3 2 2 4
+4 Bongaigaon 0 1 1 1 0 1 1 1 2
+5 Cachar 2 1 3 497 311 808 499 312 811
+6 Charaideo 0 0 0 0 0 0 0 0 0
+7 Chirang 1 0 1 0 0 0 1 0 1
+8 Darrang 0 0 0 9 4 13 9 4 13
+9 Dhemaji 2 0 2 1 0 1 3 0 3
+10 Dhubri 1 1 2 0 0 0 1 1 2
+11 Dibrugarh 0 0 0 3 4 7 3 4 7
+12 Dima Hasao 0 0 0 13 7 20 13 7 20
+13 Goalpara 4 5 9 0 0 0 4 5 9
+14 Golaghat 0 1 1 1 0 1 1 1 2
+15 Hailakandi 1 0 1 0 0 0 1 0 1
+16 Hojai 1 0 1 1 1 2 2 1 3
+17 Jorhat 0 0 0 1 0 1 1 0 1
+18 Kamrup 1 0 1 0 0 0 1 0 1
+19 Kamrup Metropolitan 0 0 0 13 10 23 13 10 23
+20 Karbi Anglong 0 0 0 2 0 2 2 0 2
+21 Karimganj 46 21 67 0 1 1 46 22 68
+22 Kokrajhar 0 0 0 0 0 0 0 0 0
+23 Lakhimpur 5 4 9 10 8 18 15 12 27
+24 Majuli 0 0 0 0 0 0 0 0 0
+25 Morigaon 2 1 3 0 0 0 2 1 3
+26 Nagaon 1 1 2 2 0 2 3 1 4
+27 Nalbari 0 0 0 0 0 0 0 0 0
+28 Sivasagar 0 0 0 0 0 0 0 0 0
+29 Sonitpur 14 9 24 0 0 0 14 9 24
+30 South Salmara Mankachar 1 0 1 0 0 0 1 0 1
+31 Tinsukia 0 1 1 0 0 0 0 1 1
+32 Udalguri 2 0 2 0 0 0 2 0 2
+33 West Karbi Anglong 0 1 1 0 0 0 0 1 1
+BBBBiiiihhhhaaaarrrr 111155555555 111133338888 222299993333 1111111177776666 777799994444 1111999977771111 1111333333331111 999933332222 2222222266664444
+1 Araria 1 0 1 1 3 4 2 3 5
+2 Arwal 0 0 0 0 0 0 0 0 0
+3 Aurangabad 17 11 28 5 6 11 22 17 39
+4 Banka 0 1 1 1 0 1 1 1 2
+5 Begusarai 15 17 32 0 3 3 15 20 35
+6 Bhagalpur 1 6 7 539 405 944 540 411 951
+7 Bhojpur 2 3 5 2 3 5 4 6 10
+8 Buxar 1 2 3 0 2 2 1 4 5
+9 Darbhanga 1 0 1 8 6 14 9 6 15
+10 Gaya 7 6 13 85 47 132 92 53 145
+11 Gopalganj 8 12 20 3 0 3 11 12 23
+12 Jamui 0 1 1 8 12 20 8 13 21
+13 Jehanabad 0 1 1 5 5 10 5 6 11
+14 Kaimur 1 1 2 0 0 0 1 1 2
+15 Katihar 2 6 8 0 1 1 2 7 9
+16 Khagaria 1 1 2 2 4 6 3 5 8
+17 Kishanganj 3 0 3 0 0 0 3 0 3
+18 Lakhisarai 0 1 1 0 1 1 0 2 2
+19 Madhepura 16 9 25 0 1 1 16 10 26
+118

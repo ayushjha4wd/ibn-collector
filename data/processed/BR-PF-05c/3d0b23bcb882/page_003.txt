@@ -1,0 +1,64 @@
+Add 0.00 0.00
+* * * * *
+Urban Development and
+Housing (1) * * * * *
+Bihar state housing board 0.00 0.5700
+00 * * * * *
+Add 0.00 0.57
+* * * * *
+Other basic Structures(5)
+* * * * *
+Bihar State water council 0.00 0.0000
+00 * * * * *
+Bihar state Agro Industries 0.00 0.0000
+development 00 * * * * *
+corporation
+Bihar State basic structure 0.00 0.0000
+Development 00 * * * * *
+Regional Development 0.00 0.0000
+Authority 00 * * * * *
+Bihar State Minor Industries 0.00 0.0000
+Corporation 00 * * * * *
+Bihar State sugar Corporation 0.00 0.0000
+Ltd. 00 * * * * *
+Bihar Drug and chemical Ltd. 0.00 0.0000
+00 * * * * *
+Add 0.00 0.00
+* * * * *
+Any Others(10)
+* * * * *
+Bihar state Agro 0.00 0.0000
+Development council 00 * * * * *
+Bihar State food and civil 3900 127.62
+supply corporation .000 00 * * * * *
+0
+Bihar State Leather Industries 0.00 0.0000
+development 00 * * * * *
+corporation
+Bihar State seeds corporation 0.00 0.0000
+limited 00 * * * * *
+Bihar State Fisheries 0.00 0.0000
+00 * * * * *
+Bihar State Minorities 30.0 0.0000
+Finance corporation , 000 * * * * *
+Patna
+Bihar State Backward class 15.3 16.22
+Finance and 900 * * * * *
+Development
+Corporation
+Bihar State fruits and 0.00 0.0000
+vegetables 00 * * * * *
+development
+corporation Ltd.
+Bihar State schedule tribe 0.00 0.0000
+development 00 * * * * *
+corporation
+Bihar State Text book 0.00 0.0000
+Publishing 00 * * * * *
+Corporation
+Add 3945 143.84
+.39 * * * * *
+Total add 1608 327.63
+0.08 1450. 500.0000 Nil 4200.000 3700.0000
+0000 0
+• Information not provided by the State Government

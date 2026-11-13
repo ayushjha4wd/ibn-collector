@@ -1,0 +1,80 @@
+Chart 1 : Number of Registered Births, 1990-2023
+300
+252.1
+)s
+h 250
+k
+a
+L
+n
+i(
+s 200
+h
+t
+r
+iB
+d
+e 150
+r
+e t 116.0
+s
+ig
+e
+R 100
+fo
+r
+e
+b
+m
+50
+u
+N
+0
+0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 2
+9 9 9 9 9 9 9 9 9 9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+3.7 In the case of registered deaths, the number has increased slightly from 86.5 lakhs in
+2022 to 86.6 lakhs in 2023, i.e. an increase of a meager 0.1%. Some of the major states, namely,
+West Bengal, Haryana, Andhra Pradesh, Madhya Pradesh, Rajasthan, Jharkhand, Uttar Pradesh,
+and Punjab, have reported an increased number of registered deaths in 2023 compared to
+2022.
+Chart 2 : Number of Registered Deaths, 1990-2023
+120
+)
+s
+h
+k a 100
+L
+n
+86.6
+i(
+s
+h 80
+t
+a
+e
+D
+d
+e 60
+r
+e
+t
+s
+ig
+e R 40
+f
+o
+r e 31.4
+b m 20
+u
+N
+0
+0123456789012345678901234567890123
+9999999999000000000011111111112222
+9999999999000000000000000000000000
+1111111111222222222222222222222222
+3.8 The number of registered births, deaths, and infant deaths for States and Union
+Territories for the period from 2014 to 2023 is presented in Statements 10, 11 and 12,
+respectively.
+42

@@ -1,0 +1,43 @@
+STATEMENT 18: DETAILED STATEMENT OF LOANS AND ADVANCES GIVEN BY THE GOVERNMENT
+Section 1 : Major and Minor head wise details of Loans and Advances
+( ```` in lakh )
+Write off of Net Increase(+)/
+Advanced Repaid Interest received
+Balance as on irrecoverable Balance as on D e c r ease (-)
+Head of Account during the Total during the and credited to
+1 April 2022 loans and 31 March 2023 during the year
+year year Revenue
+advances (7-2)
+1 2 3 4 5 6 7 8 9
+1. Loans for Social Services
+(a) Education, Sports, Art and Culture
+6202 Loans for Education, Sports, Art and Culture
+01 General Education
+190 Assistance to Public Sector and other Undertakings
+0101 Bihar State Education Finance Corporation
+2,36,864.43 1,39,691.23 3,76,555.66 1,818.65 0.00 3,74,737.01 1,37,872.58 0.00
+Total : 190 2,36,864.43 1,39,691.23 3,76,555.66 1,818.65 0.00 3,74,737.01 1,37,872.58 0.00
+203 University and Higher Education
+0010 National Loan Scholarship Scheme 274.55 0.00 274.55 0.00 0.00 274.55 0.00 0.00
+Other schemes - balances under each being
+14.73 0.00 14.73 0.00 0.00 14.73 0.00 0.00
+`25 lakh and less
+Total : 203 289.28 0.00 289.28 0.00 0.00 289.28 0.00 0.00
+600 General
+0010 National Loan Scholarship Scheme 151.66 0.00 151.66 0.00 0.00 151.66 0.00 0.00
+0011 Tribal Area Sub- Plan 3.00 0.00 3.00 0.00 0.00 3.00 0.00 0.00
+Total : 600 154.66 0.00 154.66 0.00 0.00 154.66 0.00 0.00
+Total : 01 2,37,308.37 1,39,691.23 3,76,999.60 1,818.65 0.00 3,75,180.95 1,37,872.58 0.00
+04 Art and Culture
+190 Assistance to Public Sector and other Undertakings
+0001 Bihar State Film Development and Finance
+25.00 0.00 25.00 0.00 0.00 25.00 0.00 0.00
+Corporation Ltd.
+0101 Bihar State Film Development and Finance
+10.00 0.00 10.00 0.00 0.00 10.00 0.00 0.00
+Corporation Ltd.
+Total : 190 35.00 0.00 35.00 0.00 0.00 35.00 0.00 0.00
+Total : 04 35.00 0.00 35.00 0.00 0.00 35.00 0.00 0.00
+Total : 6202 2,37,343.37 1,39,691.23 3,77,034.60 1,818.65 0.00 3,75,215.95 1,37,872.58 0.00
+Total (a) 2,37,343.37 1,39,691.23 3,77,034.60 1,818.65 0.00 3,75,215.95 1,37,872.58 0.00
+242

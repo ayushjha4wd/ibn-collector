@@ -1,0 +1,95 @@
+[         ERROR] BR-PF-01   https://budget.bihar.gov.in/ViewBudgetDetailsEn.aspx  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>
+[         ERROR] BR-PF-02   https://state.bihar.gov.in/cache/12/Budget/Budget/Green%20Budget%20Final%202024-25%20English%2022.02.pdf  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)>
+[         ERROR] BR-PF-04   https://state.bihar.gov.in/finance  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)>
+[         SAVED] BR-PF-05   https://cag.gov.in/ae/bihar/en/page-ae-bihar-accounts-vlc  data/raw/BR-PF-05/2026-11-13/page-ae-bihar-accounts-vlc.html
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Citizen-Charter-Appd-20200812133247.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Guidelines-on-Transfer-and-posting-20200728163940.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/List-of-Forests-Divisions-with-Code-20200619103333.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/List-of-PW-Divisions-with-PW-code-20200619103101.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Working-of-Forest-Division-20200619104506.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Pension-Guidelines-20200619114037.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/Pension-Pre-2016-20200727130017.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05   http://gad.bih.nic.in/Documents/IAS-Civil-List-2020.pdf http://gad.bih.nic.in/Documents/DEPU-Central-Services.pdf  InvalidURL: URL can't contain control characters. '/Documents/IAS-Civil-List-2020.pdf http://gad.bih.nic.in/Documents/DEPU-Central-Services.pdf' (found at least ' ')
+[         ERROR] BR-PF-05   https://d1jmc0u14z2tmp.cloudfront.net/uploads/media/document-7-068b6ab1b938668-18753517.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-05a  https://cag.gov.in/uploads/state_accounts_report/account-report-Account-at-a-GlanceI-ENGLISH-2024-25-BIHAR-31-01-2026-069a010542f07a1-57492442.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-07   https://saiindia.gov.in/webroot/uploads/download_audit_report/2026/Report-No.2-of-the-year-2026---State-Finances-Audit-Report-06a61fb3bbcafb0.98697767.pdf  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[         SAVED] BR-PF-09   https://7thsfc.bihar.gov.in/  data/raw/BR-PF-09/2026-11-13/index.html
+[         ERROR] BR-PF-09   https://state.bihar.gov.in/finance/cache/12/Documents/5th-SFC-Volume-I.pdf  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)>
+[         ERROR] BR-PF-09   https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%201%20and%202.pdf  URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[         ERROR] BR-PF-09   https://7thsfc.bihar.gov.in/pdf/SFC6%20Rep-Part%203.pdf  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[         SAVED] BR-PF-12   https://www.gst.gov.in/download/gststatistics  data/raw/BR-PF-12/2026-11-13/gststatistics.html
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/REGISTRATION.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2017-2018.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2017-2018.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2017-18.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2017-2018.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2018-2019.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2018-2019.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2018-19.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2018-2019.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2018-19.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2019-2020.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2019-2020.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2019-20.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2019-2020.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2019-20.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2020-2021.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2020-2021.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2020-21.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2020-2021.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2020-21.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2021-2022.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2021-2022.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2021-22.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2021-2022.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2021-22.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2022-2023.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2022-2023.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2022-23.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2022-2023.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2022-23.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2023-2024.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2023-2024.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2023-24.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2023-2024.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2023-24.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2024-2025.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2024-2025.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2024-25.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2024-2025.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2024-25.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2025-2026.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2025-2026.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2025-26.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2025-2026.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2025-26.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-3B-2026-2027.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/GSTR-1-2026-2027.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Gross_Net_Tax_collection.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/statewise_GST_collection_2026-27.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Settlement-of-IGST-to-State-2026-2027.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/ewb-data-2026-27.xlsx  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/Yearwise-Pre-GST-revenue.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-12   https://tutorial.gst.gov.in/offlineutilities/gst_statistics/9YearsReport.pdf  URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+[         ERROR] BR-PF-13   https://rbi.org.in/web/rbi/-/publications/state-finances-a-study-of-budgets-of-2025-26-1  HTTP 404
+[         ERROR] BR-PF-14   https://rbi.org.in/en/web/rbi/-/handbook-of-statistics-on-indian-states-2024-25  HTTP 404
+[         SAVED] BR-PF-16   https://prsindia.org/budgets/states/bihar-budget-analysis-2026-27  data/raw/BR-PF-16/2026-11-13/bihar-budget-analysis-2026-27.html
+[         SAVED] BR-PF-16   https://prsindia.org/files/budget/budget_state/bihar/2026/Budget_Analysis_2026-27-Bihar.pdf  data/raw/BR-PF-16/2026-11-13/Budget_Analysis_2026-27-Bihar.pdf
+[         SAVED] BR-PF-16   https://prsindia.org/files/policy/policy_committee_reports/16th_FC_Report_Summary.pdf  data/raw/BR-PF-16/2026-11-13/16th_FC_Report_Summary.pdf
+[         ERROR] BR-PF-22   https://dse.bihar.gov.in/DDP/BASE%20YEAR-2011-2012/DDP-2011-12.pdf  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[SKIPPED_MANUAL] BR-PF-10   https://cfms.bihar.gov.in  Login required; register any public report with register_manual.py
+[SKIPPED_MANUAL] BR-PF-19   https://egramswaraj.gov.in  On-screen reports; export manually or write a dedicated scraper later
+[SKIPPED_MANUAL] BR-DM-01     No stable official URL; register the tabled report PDF manually with its origin
+[SKIPPED_MANUAL] BR-DM-02   https://censusindia.gov.in/census.website/data/census-tables  Site loads files via JavaScript; download Bihar tables manually or add direct links here
+[         ERROR] BR-DM-06   https://dse.bihar.gov.in/AnualReport.htm  URLError: <urlopen error [Errno 104] Connection reset by peer>
+[         ERROR] BR-DM-08   https://dse.bihar.gov.in/New-Publications/Bihar%20Statistics%20%20Hand%20book%202020%20.pdf  URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>
+[         ERROR] BR-DM-09   https://rchiips.org/nfhs/  URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)>
+[SKIPPED_MANUAL] BR-DM-12   https://missionantyodaya.nic.in  Download form asks for name and purpose
+[SKIPPED_MANUAL] BR-DM-14   https://ceoelection.bihar.gov.in  Use published statistics only; not name-level rolls
+[         SAVED] BR-DM-16   https://nhm.gov.in/New_Updates_2018/Report_Population_Projection_2019.pdf  data/raw/BR-DM-16/2026-11-13/Report_Population_Projection_2019.pdf
+[SKIPPED_MANUAL] BR-XC-03   https://lgdirectory.gov.in/downloadDirectory.do  Download form with captcha; data.gov.in API is an alternative
+[         SAVED] DM-11      https://dc.crsorgi.gov.in/assets/download/Annual-Reports/crs/2023.pdf  data/raw/DM-11/2026-11-13/2023.pdf
+
+Run 2026-11-13T064854Z: error=76, saved=8, skipped_manual=7
+Provenance log: /home/user/ibn-collector/data/provenance.jsonl
+exit 1

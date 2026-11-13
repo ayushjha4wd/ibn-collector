@@ -1,0 +1,49 @@
+STATEMENT 3: STATEMENT OF RECEIPTS (CONSOLIDATED FUND)
+(```` in crore)
+Actuals
+Description
+2023-24 2022-23
+I -Tax and Non-Tax Revenue
+A. Tax Revenue
+A.1 Own Tax Revenue$ 48,360.70 44,017.73
+Taxes on Sales, Trade etc. 9,370.87 9,881.25
+State Goods and Services Tax (SGST) 27,677.60 23,242.93
+Stamps and Registration Fees 6,347.64 6,451.06
+Taxes on Goods and Passengers (-)1.13 1.32
+Taxes on Vehicles 3,357.75 2,935.47
+Land Revenue 580.19 360.57
+Other Taxes on Income and Expenditure 179.96 156.50
+State Excise 1.15 1.19
+Others 846.67 987.44
+A.2 Share of net proceeds of Taxes 1,13,604.49 95,509.85
+Corporation Tax 34,099.01 32,019.47
+Taxes on Income other than Corporation Tax 39,379.86 31,262.19
+Service Tax 21.16 149.28
+Union Excise Duties 1,506.54 1,178.03
+Customs 3,981.12 3,754.66
+Central Goods and Services Tax (CGST) 34,477.56 26,989.02
+Other Taxes and Duties on Commodities and Services 139.24 157.20
+Total - A 1,61,965.19 1,39,527.58
+B. Non-Tax Revenue
+Interest Receipts 897.00 642.03
+Non-ferrous Mining and Metallurgical Industries 3,114.79 2,729.73
+Contributions and Recoveries towards Pension and Other Retirement Benefits 8.42 1.85
+Public Service Commission 307.33 67.83
+Police 217.10 48.95
+Roads and Bridges 15.78 (-)0.35
+Medical and Public Health 4.60 31.60
+Other Rural Development Programmes 45.35 28.14
+Forestry and Wild Life 63.77 61.58
+Other Administrative Services 196.03 301.34
+Major Irrigation 71.60 83.00
+Education, Sports, Art and Culture 3.94 5.83
+Other General Economic Services 39.47 35.23
+Medium Irrigation 0.04 0.06
+Labour and Employment 9.50 10.75
+Water Supply and Sanitation 9.37 2.70
+Jails 4.72 16.49
+Fisheries 19.15 18.77
+Crop Husbandry 4.59 5.42
+Public Works 25.74 17.22
+$Differs with Statement No. 2 by ₹0.01 crore is due to rounding.
+8
