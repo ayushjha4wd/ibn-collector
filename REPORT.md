@@ -2,7 +2,7 @@
 
 13 November 2026 · `ayushjha4wd/ibn-collector`
 
-Task 3 asked for the datasets catalogued in Tasks 1 and 2 to be downloaded, with original files kept, download dates recorded, source references kept, originals never edited by hand, and repeatable scripts wherever practical. All five requirements are met by the scripts, and the collector now covers **all 41 sources in the Bihar catalogue**.
+Task 3 asked for the datasets catalogued in Tasks 1 and 2 to be downloaded, with original files kept, download dates recorded, source references kept, originals never edited by hand, and repeatable scripts wherever practical. All five requirements are met by the scripts. Every one of the **41 sources in the Bihar catalogue is now in the collector's manifest**, either automated or marked for download by hand with the reason; 12 of them have data so far.
 
 It holds **721 verified data files (1.23 GB) from 16 collection entries, covering 12 of the 41 catalogue sources**, plus the national CRS 2023 report. That is 117 PDFs (14,905 pages), 566 Excel workbooks (1,144 sheets) and 38 District Census Handbook archives (2,344 district tables). Every file is traceable to its URL, download time and sha256 hash, every one has been extracted to CSV or text, and all 1,112 saved originals still match their recorded hashes. Of the other 29 catalogue sources, 11 are blocked by the websites themselves, 14 need a person (a login, form, CAPTCHA or on-screen-only report) and 4 have nothing to collect.
 

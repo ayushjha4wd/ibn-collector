@@ -117,7 +117,6 @@ def extract_zip(src: Path, out: Path) -> list[str]:
     import io
     import zipfile
     import pandas as pd
-    _tolerate_xls_defined_names()
     files = []
     base = out / "zip"
     base.mkdir(parents=True, exist_ok=True)
@@ -147,6 +146,8 @@ def extract_zip(src: Path, out: Path) -> list[str]:
                     files.append(p)
                     continue
                 engine = None if ext == ".xls" else "openpyxl"
+                if ext == ".xls":  # xlrd is only needed (and only imported) for old .xls members
+                    _tolerate_xls_defined_names()
                 for name, df in pd.read_excel(io.BytesIO(data), sheet_name=None, header=None,
                                               dtype=str, engine=engine).items():
                     p = dest / f"{safe_name(str(name), 'sheet')}.csv"
