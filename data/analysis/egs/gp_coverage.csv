@@ -9,5 +9,8 @@ financial_year,endpoint,distinct_codes,gps_registered (district table)
 2022-2023,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8077
 2023-2024,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8055
 2024-2025,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8053
-2024-2025,observationCountGPReport.htm,30,8053
+2024-2025,observationCountGPReport.htm,8053,8053
+2024-2025,centerLevelByYearAndBlock.htm,8053,8053
+2024-2025,gpWithAuditReportGeneratedDetail.htm,8053,8053
+2024-2025,auditSettlementReportLevelWise.htm,8053,8053
 2025-2026,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",437,8052

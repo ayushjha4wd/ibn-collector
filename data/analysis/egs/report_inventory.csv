@@ -30,9 +30,9 @@ gpWithAuditReportGeneratedReportBlockWise.htm,block,"GPs with audit report gener
 observationCountBlocktReport.htm,block,Audit observations by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
 auditSettlementReportLevelWise.htm,block,Audit and settlement reports by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
 actionTakenSettlementReport.htm,block,"Action taken on settlement, by block",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
-centerLevelByYearAndBlock.htm,gp,Audit plans of every GP in the block,2020-2021,534,8150,json,downloaded
-gpWithAuditReportGeneratedDetail.htm,gp,GP audit report generated: per GP,2020-2021,534,8130,html|json,downloaded|error_page
-observationCountGPReport.htm,gp,Audit observations per GP,2020-2021 2024-2025,535,8416,json,downloaded
-auditSettlementReportLevelWise.htm,gp,Audit and settlement report status per GP,2020-2021,534,8387,json,downloaded
+centerLevelByYearAndBlock.htm,gp,Audit plans of every GP in the block,2020-2021 2024-2025,1068,16216,json,downloaded|http_error
+gpWithAuditReportGeneratedDetail.htm,gp,GP audit report generated: per GP,2020-2021 2024-2025,1068,16196,html|json,downloaded|error_page
+observationCountGPReport.htm,gp,Audit observations per GP,2020-2021 2024-2025,1068,16439,json,downloaded
+auditSettlementReportLevelWise.htm,gp,Audit and settlement report status per GP,2020-2021 2024-2025,1068,16440,json,downloaded
 observationCountCategoryReportGPWise.htm,gp_detail,Audit observations per GP by category,2024-2025,30,229,json,downloaded
 getPanchayatDetail.htm,gp_detail,Panchayat type lookup,,30,30,json,downloaded
