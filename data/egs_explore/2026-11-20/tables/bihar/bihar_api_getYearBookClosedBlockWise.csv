@@ -1,0 +1,10 @@
+﻿report,fin_year,state,district,block,totalcount,code,finyear,count,name,statecode,source_file
+api_getYearBookClosedBlockWise,2024-2025,,,,30,2206,2024,30,Araria,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,20,2207,2024,20,Bhargama,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,31,2208,2024,31,Forbesganj,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,26,2209,2024,26,Jokihat,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,13,2210,2024,13,Kursakanta,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,26,2211,2024,26,Narpatganj,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,21,2212,2024,21,Palasi,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,30,2213,2024,30,Raniganj,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json
+api_getYearBookClosedBlockWise,2024-2025,,,,14,2214,2024,14,Sikty,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedBlockWise_2024-2025_10_GP_179.json

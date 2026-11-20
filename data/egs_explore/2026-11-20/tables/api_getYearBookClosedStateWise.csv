@@ -1,0 +1,30 @@
+﻿report,fin_year,state,district,block,totalcount,finyear,count,statename,statecode,source_file
+api_getYearBookClosedStateWise,2024-2025,,,,13328,2024,13325,Andhra Pradesh,28,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,2108,2024,2108,Arunachal Pradesh,12,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,2770,2024,2142,Assam,18,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,8054,2024,8053,Bihar,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,11709,2024,11622,Chhattisgarh,22,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,191,2024,185,Goa,30,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,13611,2024,13594,Gujarat,24,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,6227,2024,6221,Haryana,6,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,3615,2024,3615,Himachal Pradesh,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,4291,2024,64,Jammu And Kashmir,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,4345,2024,4345,Jharkhand,20,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,5951,2024,5949,Karnataka,29,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,941,2024,941,Kerala,32,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,193,2024,0,Ladakh,37,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,23011,2024,23005,Madhya Pradesh,23,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,27955,2024,27929,Maharashtra,27,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,3175,2024,160,Manipur,14,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,844,2024,817,Mizoram,15,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,1311,2024,1175,Nagaland,13,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,6794,2024,6794,Odisha,21,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,13238,2024,13233,Punjab,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,11229,2024,11139,Rajasthan,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,199,2024,199,Sikkim,11,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,12525,2024,12525,Tamil Nadu,33,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,12994,2024,12600,Telangana,36,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,1194,2024,1193,Tripura,16,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,7820,2024,7767,Uttarakhand,5,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,57691,2024,57690,Uttar Pradesh,9,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
+api_getYearBookClosedStateWise,2024-2025,,,,3339,2024,3339,West Bengal,19,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json

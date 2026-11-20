@@ -1,0 +1,2 @@
+﻿report,fin_year,state,district,block,totalcount,finyear,count,statename,statecode,source_file
+api_getYearBookClosedStateWise,2024-2025,,,,8054,2024,8053,Bihar,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json
