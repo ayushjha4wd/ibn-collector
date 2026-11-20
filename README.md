@@ -7,6 +7,19 @@ plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`
 
 **Final report (13 Nov 2026): [REPORT.md](REPORT.md). Detailed book (PDF): [docs/IBN_Bihar_Data_Book.pdf](docs/IBN_Bihar_Data_Book.pdf). Short handbook: [docs/IBN_Bihar_Data_Handbook.pdf](docs/IBN_Bihar_Data_Handbook.pdf). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
 
+## Task 4: eGramSwaraj (Bihar Panchayats)
+
+**Report: [docs/task4/TASK4_REPORT.md](docs/task4/TASK4_REPORT.md).** eGramSwaraj's own hosts
+(`egramswaraj.gov.in`, `reportingonline.gov.in`, `accountingonline.gov.in`, `planningonline.gov.in`)
+refuse connections from outside India, so the work is in two parts:
+
+```bash
+python scripts/egs_auditonline.py      # AuditOnline (audit module of the suite): reachable from anywhere; Bihar, 2019-20 to 2025-26
+python scripts/egs_summary.py          # field catalogue + coverage matrices -> data/analysis/egs/
+python scripts/egs_explore.py          # run FROM INDIA: crawls eGramSwaraj, saves every page/form/file, packs a zip
+python scripts/egs_explore.py --forms  # also fills the Bihar report forms (needs: pip install playwright; python -m playwright install chromium)
+```
+
 ## Quick start
 
 ```bash
