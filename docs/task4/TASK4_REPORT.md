@@ -4,186 +4,319 @@
 
 ## 0. Summary
 
-**What happened.** The eGramSwaraj portal itself could not be explored from where this work ran. All four eGramSwaraj hosts (`egramswaraj.gov.in`, `reportingonline.gov.in`, `accountingonline.gov.in` and `planningonline.gov.in`) refuse connections from the cloud machine used for this task. The same refusal happened on every attempt, with plain requests and with a real browser (section 1). `areaprofiler.gov.in` failed in the same way. The one host of the eGramSwaraj suite that does answer is **AuditOnline (`auditonline.gov.in`)**, the Ministry of Panchayati Raj's module for auditing Panchayat accounts. It was explored in full and collected for Bihar.
+This report covers the eGramSwaraj suite of the Ministry of Panchayati Raj for Bihar (state code 10). Two kinds of access were used:
 
-**So this report has two kinds of finding.** They are labelled throughout:
+* **eGramSwaraj** (`egramswaraj.gov.in`) answers only connections from India. It was explored from a laptop in India with `scripts/egs_explore.py` and `scripts/egs_bihar.py`, and every page, file and API response was saved under `data/raw/EGS-PORTAL/`.
+* **AuditOnline** (`auditonline.gov.in`) is the suite's audit module. It answers from anywhere and was collected from the cloud machine with `scripts/egs_auditonline.py` into `data/raw/EGS-AO/`.
+
+Every finding carries one of these labels:
 
 | Label | Meaning |
 |---|---|
-| **VERIFIED** | Seen directly in a page or response saved in this repository, with URL and time in `data/provenance.jsonl` |
-| **INDIRECT** | Shown by AuditOnline about eGramSwaraj: AuditOnline's own code calls eGramSwaraj, or AuditOnline prints "Report generated through (egramswaraj.gov.in)" |
-| **NOT VERIFIED** | Could not be checked because the host was unreachable. Nothing in this report describes eGramSwaraj report fields, menus or coverage without one of the two labels above |
+| **VERIFIED** | Seen in a page, file or response saved in this repository; URL, parameters and time are in `data/provenance.jsonl` |
+| **INDIRECT** | Shown by one part of the suite about another (for example AuditOnline code that calls eGramSwaraj) |
+| **NOT VERIFIED** | Could not be checked; the obstacle and the attempts are stated |
 
-**Main results:**
+**Main results**
 
-1. **AuditOnline is fully collectable for Bihar without login or CAPTCHA.** Its report pages are thin front-ends over unauthenticated JSON endpoints. 55 endpoints were found in the pages' own JavaScript, and the useful ones were called for Bihar (state code 10) for every year offered, 2019-20 to 2025-26. They drill down **state → district (38) → block → Gram Panchayat**, with GP codes. The script that does this is `scripts/egs_auditonline.py`, and the results are in section 5. VERIFIED.
-2. **AuditOnline holds no population, household, representative or rupee figures.** It records, per GP and per year, whether the accounts were audited, which grant streams were audited ("Others, TFC, 14FC, 15FC"), the audit dates, the number of audit observations ("paras") by category and risk, and whether settlement or action-taken reports exist. VERIFIED.
-3. **eGramSwaraj has a public JSON interface that is undocumented but used in production.** AuditOnline's public JavaScript calls `https://egramswaraj.gov.in/getMobileData/getYearBookClosed{StateWise,DistrictWise,BlockWise,GPWise}/…` to show whether each Panchayat's annual accounts ("Year Book") are closed in eGramSwaraj's accounting module. AuditOnline also serves an eGramSwaraj-generated list of Bihar GPs whose year book is *not* closed: 1 GP for 2024-25, against 8,053 GPs. INDIRECT.
-4. **The core questions of Task 4 cannot be answered yet.** These are the Panchayat profile, elected representatives, receipts, expenditure, GPDP and physical progress, and they need eGramSwaraj itself. A ready-to-run explorer, `scripts/egs_explore.py`, was written and tested here against AuditOnline. Run from any computer in India, it crawls the four hosts, saves every page, menu, form option and downloadable file with provenance, fills each report form for Bihar, and drills down from district to GP. It then packs everything into one zip for analysis. Section 10 has the steps.
+1. **Bihar Panchayat finance is publicly available on eGramSwaraj without CAPTCHA, as pre-generated static reports** (`FileRedirect.jsp`). It is available for every tier (Zilla Parishad, Panchayat Samiti, Gram Panchayat) and by district for 2020-21 to 2026-27. The reports give "OB + Receipts" and "Payments" in Rs crore, accounting status (masters, opening balance, voucher counts by type, day/month/year book closed), and month-wise voucher counts by block. They link down to individual voucher listings. VERIFIED.
+2. **Each static report is a snapshot with its own "Report generated … on" date, and some are years old.** The State & Year Wise Summary for 2024-25 was generated on 23 Oct 2024, in the middle of that year. It shows Bihar GP Receipts Rs 3,861 crore, Payments Rs 1,425 crore and 0 year books closed. The district report for 2024-25, generated on 20 Nov 2026, shows GP "OB + Receipts" Rs 4,221.843 crore and Payments Rs 2,872.269 crore. These are two different figures, not a contradiction, and each must be cited with its generation date. VERIFIED.
+3. **The Bihar rows before 2020-21 are "0" / "0.00", not missing.** From 2012-13 to 2018-19 the summary lists 8,386–8,474 Bihar GPs with 0 vouchers and Rs 0.00. That means Bihar did not keep accounts in eGramSwaraj (PRIASoft) then. It does **not** mean Panchayats spent nothing. VERIFIED (values); the interpretation is stated as such.
+4. **Most detailed finance and planning reports are behind a CAPTCHA.** Of 59 report forms that offer Bihar, 39 show a CAPTCHA in the form. These include the cash book, day book, ledger, annual receipts, receipt-head and object-head expenditure, Panchayat-wise expenditure, physical and financial progress, GPDP action plans, the vendor report and the beneficiary report. These were **not** bypassed (section 8). VERIFIED (the CAPTCHA); contents NOT VERIFIED.
+5. **eGramSwaraj has an unauthenticated JSON interface (`/getMobileData/`) for year-book closure.** It works by state, district, block and GP. For Bihar 2024-25 GP it returns 38 districts, 8,054 GPs and 8,053 with the year book closed. That matches AuditOnline's "Year Book Not Closed" list of exactly 1 GP. VERIFIED.
+6. **AuditOnline is fully collectable for Bihar, without login or CAPTCHA, from 2019-20 to 2025-26.** It goes down to each GP for 2020-21 and 2024-25 (8,386 and 8,053 GPs). It records audits and observations, not rupee amounts. VERIFIED.
+7. **Population and elected representatives.** eGramSwaraj has profile and elected-representative pages for ZP, BP and GP, built in the browser from JSON. The pass that records those JSON responses (`egs_bihar.py --steps xhr`) had been handed to the laptop but had not reported back when this was written. Their field lists are therefore NOT VERIFIED, and no demographic figure appears in the material saved so far (section 3).
 
-## 1. Access attempts (20 Nov 2026)
+**Status of this report.** The eGramSwaraj material comes from the first laptop pass (crawl, form inventory, static reports, year-book API). The second pass, `scripts/egs_bihar.py`, is written and tested offline. It collects all Bihar static reports for every year, the scheme-wise expenditure archives, district → block → GP drill-downs and the browser-side JSON. When its output is committed, `python scripts/egs_portal_summary.py` regenerates the tables in `data/analysis/egs/`, and the items marked "pass 2" below can be filled in.
 
-| Host | Result (every attempt) | What was tried |
-|---|---|---|
-| `egramswaraj.gov.in` | TLS handshake completes (certificate `CN=egramswaraj.gov.in`), then the server sends **no HTTP response** (empty reply) on `/`, `/index.do`, `/welcome.do`, `/home.do`, `/robots.txt` | curl with browser headers, HTTP/1.1; headless Chromium (502); 3 retries 25 s apart; fetch tool from a second network (DNS failure) |
-| `www.egramswaraj.gov.in` | Same server; certificate does not cover `www.` | as above |
-| `reportingonline.gov.in` | **Connection reset** during TLS handshake | as above |
-| `accountingonline.gov.in` | Egress proxy cannot reach it (**502**) | as above |
-| `planningonline.gov.in` | **502** | as above |
-| `areaprofiler.gov.in` | **502** | as above |
-| `auditonline.gov.in` | **200**, normal | collected (sections 2–9) |
-| `web.archive.org` copies | refused by the fetch tool | not usable here |
+## 1. Access attempts
 
-The session's network policy was first changed to allow these hosts, and that change was confirmed. The failures above come from the far end after that change, not from the policy. The pattern (AuditOnline answers while its sister hosts reset or drop connections) matches geographic filtering of non-Indian traffic. The same thing was seen in Task 3 for `saiindia.gov.in`. This cannot be confirmed from outside, and nothing was done to get around it.
+| Host | From the cloud (outside India) | From a laptop in India | Use |
+|---|---|---|---|
+| `egramswaraj.gov.in` | TLS completes, then no HTTP reply (empty reply / 502), on every attempt | **200, normal** | Explored and collected (`EGS-PORTAL`) |
+| `reportingonline.gov.in` | Connection reset | **Timed out** | NOT VERIFIED |
+| `accountingonline.gov.in` | 502 | **DNS failure** (`getaddrinfo`) | NOT VERIFIED; host name may be retired |
+| `planningonline.gov.in` | 502 | **DNS failure** | NOT VERIFIED; host name may be retired |
+| `areaprofiler.gov.in` | 502 | not tried | NOT VERIFIED |
+| `auditonline.gov.in` | **200** | — | Collected (`EGS-AO`) |
+
+The cloud session's network policy was changed to allow these hosts first, so the refusals come from the far end. The pattern of AuditOnline working while eGramSwaraj answers only from India matches geographic filtering. Nothing was done to get around it: the eGramSwaraj work was simply run from India. Every report that eGramSwaraj links to on the other three hosts is listed in `data/egs_explore/2026-11-20/links.jsonl`. In practice, the accounting, planning and reporting functions are served from `egramswaraj.gov.in` itself (sections 2–4).
 
 ## 2. Portal structure and report inventory (Deliverable A)
 
-### 2.1 eGramSwaraj suite hosts
+### 2.1 How eGramSwaraj publishes reports (VERIFIED)
 
-| Host | Role | Evidence |
+There are four delivery mechanisms, and they decide what can be collected:
+
+| Mechanism | Example | CAPTCHA | How it was collected |
+|---|---|---|---|
+| **Static archive files**: pre-generated HTML, served by `FileRedirect.jsp?FD=<folder>&name=<file>.html`; each carries "Report generated through eGramSwaraj (egramswaraj.gov.in) on <date>" | District-wise Receipt and Payment, District Summary, State & Year Wise Summary | **No** | Plain GET; `egs_bihar.py --steps static` |
+| **JSON API** `/getMobileData/…` | Year Book Closed by state, district, block and GP | **No** | Plain GET; `egs_bihar.py --steps api` |
+| **Browser-built pages** (AngularJS): the page is a template, the table comes from JSON calls defined in `/resources/js/report/**/…-service.js` | GP/BP/ZP profile, elected representatives, XV FC tied expenditure, FFC sector-wise expenditure, GPDP upload status | **No** | A real browser records the JSON (`egs_bihar.py --steps xhr`, Playwright); **pass 2** |
+| **Report forms** (`*.do`) with a CAPTCHA image (`captchaImage`, `captchaAnswer`, checked by the `captchaValidator` DWR call before the form is sent) | Cash book, ledger, Panchayat-wise expenditure, physical and financial progress, vendors | **Yes** | Not automated. Optional `egs_bihar.py --steps manual`: a person types each CAPTCHA, and the script only saves the page they get |
+
+The form inventory has 163 forms on 59 report pages that offer Bihar. It is in `data/egs_explore/2026-11-20/forms.jsonl`, with every field and option, and the outcome for each page is in `form_results.jsonl`: 14 filled, 39 CAPTCHA (not attempted), 6 page errors.
+
+### 2.2 Static finance and accounting reports (VERIFIED, no CAPTCHA)
+
+| Report (title as printed) | URL pattern | Levels | Years found | Content |
+|---|---|---|---|---|
+| State & Year Wise Summary Report | `FileRedirect.jsp?FD=priasoftOverview&name=statewiseClosureReport{FY}.html` | All states, one row each; Bihar row | 2012-13 … 2026-27 | Per tier: number of Panchayats, number with vouchers, receipt and payment voucher counts, **Receipt Amount (In Rs.)**, **Payment Amount (In Rs.)**, numbers with month book / year book closed |
+| District wise Receipt and Payment Statement | `FD=ExpenditureReport{FY}/10&name=10.html` | Bihar → 38 districts (+ Total) | 2020-21 … 2026-27 | Per tier ZP / Block Panchayat / Village Panchayat: **"OB + Receipts (Cr)"** and **"Payments (Cr)"**; links to `FD=ExpFY{FY}/10&name={district}.html` (pass 2) |
+| District Wise Summary Report | `FD=SummaryReport{FY}/10&name=10.html` | Bihar → district → block (`FD=SummaryReport{FY}/10/{district}`) | 2020-21 … 2026-27 | ZP: Entered Masters / Opening Balance / Vouchers "(RV-n)(PV-n)(CV-n)(JV-n)" / Day, Month, Year Book Closed (yes/no); BP and GP: counts of Panchayats with each |
+| Month-wise voucher status | `FD=FinancialYear{FY}/10&name={block}.html` | Block → month | 2026-27 (38 district folders in pass 1; other years pass 2) | Voucher counts by month; links to `voucherWiseReport.do?voucherWise=Y&finYear=&month=&schemewise=P&state=10&district=&schemeCode=-1` (voucher list) |
+| Scheme-wise expenditure archive | `FD=SchemeWiseExpenditureReport{FY}/{scheme}&name={scheme}.html` | All states → state | 35 scheme codes (e.g. 0 OWN, 3 MGNREGA, 2813 FFC, 3287 XV FC, 3302 RGSA) | Pass 2 |
+| Statistics At A Glance | `FileRedirect.jsp?name=priasoftOverview.html` | National | current | National totals only |
+
+Values are copied cell by cell, exactly as served, into `data/analysis/egs/portal_bihar_values.csv`: 33,651 rows with file, year, district, row, full column heading and value. The 1,295 static files are listed in `portal_static_reports.csv`, with the printed generation date of each.
+
+### 2.3 Report forms (titles as listed on the portal)
+
+| Group | With CAPTCHA (not collected) | Without CAPTCHA |
 |---|---|---|
-| `egramswaraj.gov.in` | Main portal; also serves a JSON API under `/getMobileData/` | INDIRECT: called by AuditOnline's `yearBook.service.js` and `centerLevel.service.js`; it also hosts images shown on AuditOnline's home page |
-| `auditonline.gov.in` | AuditOnline: audit of Panchayat accounts | VERIFIED |
-| `reportingonline.gov.in`, `accountingonline.gov.in`, `planningonline.gov.in`, `areaprofiler.gov.in` | Hosts named for reporting, accounting, planning (GPDP) and area profiles | NOT VERIFIED: no page could be loaded; roles are inferred from the host names only |
+| Accounting / finance | Annual Receipts Report, Receipt Head Expenditure, Object-Head-wise Expenditure, O&M Expenditure, Panchayat-wise Expenditure, Consolidated report, Monthly Reconciliation, Demand Collection, Day Book, Cash Book (two), Ledger Book, Journal Book, Remittance Balance, Chart of accounts (scheme and object head), DSC status, Vendor report | Scheme Wise Expenditure Report form (returned the form only, no table), Year Book Status, Theme-wise Expenditure, `getExpenditureData`, Offline Payment Voucher: all returned a header without rows or "0" rows for the default selection (**not read as zero**) |
+| Planning (GPDP) | Action Plan for GP, Resource Envelope, Sector-wise activity, Scheme-wise activity, Activity analysis, Thematic activity analysis, Analytical report on PDP, Plan upload status on passed date, PDP self-assessment | GPDP dashboard and plan-wise activities (browser-built; pass 2) |
+| Progress and assets | Physical and Financial Details, Thematic planning expenditure, Activity details analysis, Asset list for Panchayat, Asset configuration | Time / weekly progress graphs |
+| Profile and others | Know Your Panchayat, Basic Profile Consolidated report, Mission Antyodaya survey data (out of scope), Dashboard analysis, SMS alert, Beneficiary report | GP/BP/ZP profile and elected representatives (browser-built; pass 2) |
 
-### 2.2 AuditOnline public reports (VERIFIED)
-
-Every report below is linked from `https://auditonline.gov.in/` (home-page menu) and needs **no login and no CAPTCHA**. "Front-end" is the page a person opens. "Data endpoint" is the JSON call that page makes, which is what the collector uses. All take a financial year `year=YYYY-YYYY` (2019-2020 … 2025-2026).
+### 2.4 AuditOnline public reports (VERIFIED, no login, no CAPTCHA)
 
 | Menu item (portal wording) | Front-end URL | Data endpoints (drill-down order) | Levels | Formats |
 |---|---|---|---|---|
-| Year Book Closed (ZPs/BPs/GPs) | `yearBookClosedetails.htm?year=` | `egramswaraj.gov.in/getMobileData/getYearBookClosed{StateWise,DistrictWise,BlockWise,GPWise}` (**eGramSwaraj, not reachable here**) | State → District → Block → GP | On-screen table; client-side Excel |
-| Year Book Not Closed | `yearBookNotClosedDetails.htm` (POST `finYear`, `stateCode`, `localBodyTypeCode`) | server-rendered HTML; Excel via `yearBookNotClosedExcel.htm` | List of GPs (District, Block, GP name, **LGD Code**, "Is Year Book Closed") | HTML, Excel |
-| Registered Auditors: Details | `auditordetails.htm?year=` | `centerLevelByYearForAuditor.htm`, `centerLevelByYearAndStateForAuditor.htm`, … | State → office → auditor | **Not collected: auditor names, e-mail, mobile** |
-| Registered Auditees (ZPs/BPs/GPs) | `auditeeRegistered.htm?year=` | `auditeeRegisteredStatewise` → `…Districtwise` → `…Blockwise` → `auditeeRegisteredDetails` | State → District → Block (→ named officials) | JSON; client Excel. **Officials' names not collected** |
-| Audit Plans (ZPs/BPs/GPs) | `auditeePlandetails.htm?year=` | `centerLevelByYear` → `centerLevelByYearAndState` → `centerLevelByYearAndDistrict` → `centerLevelByYearAndBlock` | State → District → Block → **GP** | JSON |
-| Observations (ZPs/BPs/GPs) | `observationCountReport.htm?year=` | `observationCountStateReport` → `…DistrictReport` / `…CategoryReport` → `…SubCategoryReport` → `…BlocktReport` → `…GPReport` → `…CategoryReportGPWise` | State → District → Block → **GP**, by category and sub-category | JSON |
-| Audit Reports generated (ZPs/BPs/GPs) | `gpWithAuditReportGeneratedReport.htm?year=` | `…StateWise` → `…DistrictWise` → `…BlockWise` → `gpWithAuditReportGeneratedDetail` | State → District → Block → **GP** | JSON |
-| Settlement Report (ZPs/BPs/GPs) | `settlementReport.htm?year=&level=` | `auditSettlementReportLevelWise.htm` (no code / `stateCode` / `districtCode` / `blockCode`) | State → District → Block → **GP** | JSON; client Excel/PDF |
-| ATR Status / Action Taken | `actionTakenReport.htm`, `actionTakenSettlementLevelWise.htm` | `actionTakenSettlementReport.htm?lbCode=` | State → District → Block → GP | JSON |
-| GP Level Audit Status Report | `gpLevelAuditStatusReport.htm` (POST `stateCode`, `lbtc`, `auditYear`; `lbtc=3` is Village Panchayat) | server-rendered HTML; **Excel `gpAuditStatusExcel.htm`** | District rows | HTML, **XLSX (server-generated)** |
-| Audit Scheduling, Constituted Audit Teams, Analysis of Observations, Task Tracking, KPI Reports, Consolidated | `assignPanchWithAuditSchedule1.do`, `auditTeamDetailsReport.do`, `observationAnalysis.htm`, `taskTrackingReport.htm`, `auditkpiConsolidateReport.htm`, `centreLevelReport.htm` | not examined in depth (team/auditor detail or duplicates of the above) | — | — |
-| Documentation | User Manual (333 pp.), Introduction and Detailed presentations, SOPs, Process Flow template | `*.do?OWASP_CSRFTOKEN=` | — | PDF, XLSX (collected under `data/raw/EGS-AO/<date>/docs/`) |
+| Year Book Closed (ZPs/BPs/GPs) | `yearBookClosedetails.htm?year=` | `egramswaraj.gov.in/getMobileData/getYearBookClosed{StateWise,DistrictWise,BlockWise,GPWise}` (eGramSwaraj; collected from India) | State → District → Block → GP | JSON |
+| Year Book Not Closed | `yearBookNotClosedDetails.htm` (POST `finYear`, `stateCode`, `localBodyTypeCode`) | server-rendered HTML; Excel `yearBookNotClosedExcel.htm` | List of GPs with **LGD Code** | HTML, Excel |
+| Registered Auditors | `auditordetails.htm?year=` | `centerLevelByYearForAuditor.htm` … | State → office → auditor | **Not collected: names, e-mail, mobile** |
+| Registered Auditees | `auditeeRegistered.htm?year=` | `auditeeRegisteredStatewise` → `…Districtwise` → `…Blockwise` → `auditeeRegisteredDetails` | State → District → Block | JSON. **Officials' names not collected** |
+| Audit Plans | `auditeePlandetails.htm?year=` | `centerLevelByYear` → `…AndState` → `…AndDistrict` → `…AndBlock` | State → District → Block → **GP** | JSON |
+| Observations | `observationCountReport.htm?year=` | `observationCountStateReport` → `…DistrictReport` / `…CategoryReport` → `…SubCategoryReport` → `…BlocktReport` → `…GPReport` → `…CategoryReportGPWise` | down to **GP**, by category | JSON |
+| Audit Reports generated | `gpWithAuditReportGeneratedReport.htm?year=` | `…StateWise` → `…DistrictWise` → `…BlockWise` → `gpWithAuditReportGeneratedDetail` | down to **GP** | JSON |
+| Settlement Report | `settlementReport.htm?year=&level=` | `auditSettlementReportLevelWise.htm` | down to **GP** | JSON |
+| Action Taken | `actionTakenSettlementLevelWise.htm` | `actionTakenSettlementReport.htm?lbCode=` | State → Block | JSON |
+| GP Level Audit Status Report | `gpLevelAuditStatusReport.htm` (POST) | server HTML; **Excel `gpAuditStatusExcel.htm`** | District rows | HTML, XLSX |
+| Documentation | User Manual, presentations, SOPs | `*.do?OWASP_CSRFTOKEN=` | — | PDF, XLSX |
 
-The full list of 55 endpoints, taken from the JavaScript, with parameter names, is in Appendix A.
+**Label correction.** `centerLevelByYearAndDistrictGP.htm` sounds like a GP-level report, but it returns **Block Panchayat auditees** (about 531–533 codes a year), not GPs. GP-level audit plans come from `centerLevelByYearAndBlock.htm`. The summaries label it accordingly.
+
+All 55 AuditOnline endpoints are in Appendix A.
 
 ## 3. Demographic and administrative data catalogue (Deliverable B)
 
-**Population and household information: absent from everything that could be examined.** AuditOnline has no population, sex, household, age or SC/ST field in any response (all fields: `data/analysis/egs/field_catalogue.csv`). Whether eGramSwaraj's Panchayat profile carries such fields is **NOT VERIFIED**.
+Population figures and the make-up of elected bodies are kept apart below, as the brief asks.
 
-| Indicator | Reported? | Level | Source / field | Status |
-|---|---|---|---|---|
-| State, district, block names and codes | Yes | State, district, block | `code`, `name` in `centerLevelByYear*`; district codes 179–215 and 561 (Arwal) | VERIFIED |
-| GP names and codes | Yes | GP | `auditeeCode`/`code`, `auditeeName`/`name`; the *Year Book Not Closed* report labels the same code "LGD Code" | VERIFIED |
-| Panchayat type | Yes | GP | `getPanchayatDetail.htm` → `local_body_type_name` ("Village Panchayat"), `category` ("P") | VERIFIED |
-| Tier set-up (ZP / Panchayat Samiti / GP) | Yes | State | DWR call `lgdDao.getTierSetup` → `localBodyTypeCode` 1/2/3 with Bihar nomenclature "Zilla Parishad", "Panchayat Samiti", "Gram Panchayat" | VERIFIED |
-| Number of GPs per district/block, by year | Yes | District, block | `gpCount` | VERIFIED |
-| Villages per GP, wards | No | — | — | Absent in AuditOnline; eGramSwaraj NOT VERIFIED |
-| Total / male / female population, households, age, SC/ST | No | — | — | Absent in AuditOnline; eGramSwaraj NOT VERIFIED |
-| Elected representatives (names, gender, category) | No | — | — | Absent in AuditOnline; eGramSwaraj NOT VERIFIED |
-| Committees | No | — | — | Absent; NOT VERIFIED for eGramSwaraj |
-| Panchayat officials | Partly | Block/GP | `auditeeRegisteredDetails*`: auditee **official's name and designation**, deliberately **not collected** (personal data) | VERIFIED exists; withheld |
-| Auditors | Yes | Office | name, designation, **e-mail, mobile**: **not collected** | VERIFIED exists; withheld |
+**3a. Population and households**
 
-Population demographics and the make-up of elected bodies are separate questions. AuditOnline answers neither.
+| Indicator | Found? | Evidence |
+|---|---|---|
+| Total / male / female population, households, SC/ST, age | **Not found in any material saved so far** | No such field in any static report, getMobileData response or AuditOnline response (`field_catalogue.csv`). The GP profile pages are browser-built and their JSON is pass 2, so this is **NOT VERIFIED** for the profile, not "absent" |
+
+**3b. Panchayat administrative profile**
+
+| Indicator | Level | Source / field | Status |
+|---|---|---|---|
+| Number of ZPs, BPs, GPs | State, district, block | Summary reports ("Total No of Village Panchayats" etc.); getMobileData `totalcount`; AuditOnline `gpCount` | VERIFIED |
+| GP names and codes | GP | getMobileData `getYearBookClosedGPWise` (`code`, `name`); AuditOnline `auditeeCode` / "LGD Code" | VERIFIED |
+| Tier nomenclature | State | AuditOnline DWR `lgdDao.getTierSetup`: "Zilla Parishad", "Panchayat Samiti", "Gram Panchayat"; eGramSwaraj columns say "Zilla Panchayat", "Block Panchayat & Equivalent", "Village Panchayat & Equivalent" | VERIFIED |
+| Profile completed | ZP, BP | Profile reports list Bihar with 38 ZPs (35 with profile) and 534 BPs (532 with profile) | VERIFIED (counts); profile fields pass 2 |
+| Panchayat officials, auditors | Block, GP | AuditOnline: names, designations, contacts exist; **deliberately not collected** (personal data) | VERIFIED exists; withheld |
+
+**3c. Elected representatives (composition, not population)**
+
+| Indicator | Status |
+|---|---|
+| Elected Representative Report for ZP / BP / Village Panchayat | The pages exist and offer Bihar without CAPTCHA (`ElectedRepresentativeReport` Zp/Bp/Vp). They are browser-built. Fields (gender, category, post) are **pass 2**. Names are personal data and would be kept only as counts if the response is aggregate |
 
 ## 4. Public finance data catalogue (Deliverable C)
 
-AuditOnline records **the audit of Panchayat accounts, not the accounts themselves**. No response contains a rupee amount. The table shows what it does say about Panchayat finance. All rows are VERIFIED, and units are counts unless stated.
+The definitions matter more than the numbers. **Receipts are not expenditure; "OB + Receipts" includes the opening balance; "Payments" are cash payments recorded in Panchayat accounts.** None of them is an approved plan, a budget allocation, or all government spending in the Panchayat's area. Schemes run by line departments directly are not in Panchayat accounts.
 
-| Information | Field(s) / report | Level | Notes and definitions |
-|---|---|---|---|
-| Grant streams covered by the audit | `schemeName` / `scheme` ("Others,TFC,14FC,15FC") | GP | TFC, 14FC and 15FC are the 13th, 14th and 15th Finance Commission grants; "Others" is not defined in the responses. The AuditOnline introduction deck says the pilot was 14th Finance Commission accounts for FY 2019-20, via the PRIASoft–PFMS Interface |
-| Period audited and audit dates | `auditPeriod`, `auditStartDate`/`auditEndDate`, `scheduleStartDate`/`scheduleEndDate` | GP | dd/mm/yyyy strings. An audit of FY 2024-25 is held after the year ends, e.g. Dec 2025 – Mar 2026 |
-| Accounts audited (yes/no) | `gpWithAuditReportGeneratedDetail.count` (1 = report generated) | GP | |
-| Audit observations ("paras") | `observationCount*Report.count` | State → GP | Total per Panchayat; Bihar 2024-25: 81,208 |
-| Observation categories | `observationCountCategoryReport` (22 categories in Bihar 2024-25) | State, GP | Finance-related categories include "02 Excess Utilization of Grant", "04 Non Utilization of Grants before lapsable date", "05 Misutilization of Grants or Funds", "06 Non Utilization of Earmarked funds", "07 Non collection of dues", "08 Advances pending adjustment", "10 Non remittance of deductions recoveries", "12 Misappropriations and Funds", "13 Excess Payments", "14 Wasteful Expenditure", "16 Pendency of Utilization Certificates", "19 Financial status of Panchayat and physical status of schemes" |
-| Sub-categories | `observationCountSubCategoryReport` | State | e.g. under 19: "Budget not prepared by PRIs", "Budget prepared but not on a prescribed format", "Out standing Audit Fee" |
-| Risk grading of paras | GP Level Audit Status Report: MAJOR (High/Moderate/Low) and OTHER risk paras | District | XLSX, 23 columns, 3 header rows |
-| Settlement and action taken | `auditSettlementReportCount`, `action_taken_count`; status-report columns "Dropped Paras", "Paras with Action Implemented", "…Under Implementation" | State → GP | Bihar 2024-25: 0 settlement reports and 0 action taken at the time of access |
-| Year book (annual accounts) closed | Year Book Closed / Not Closed | GP | Produced by eGramSwaraj accounting (INDIRECT). Shows that accounts are kept and closed in eGramSwaraj, not what they contain |
+| Concept in the brief | What eGramSwaraj shows for Bihar | Where | Access | Status |
+|---|---|---|---|---|
+| Funds received (receipts) | "Receipt Amount (In Rs.)" per tier, state total by year; number of receipt vouchers | State & Year Wise Summary | Static | VERIFIED |
+| Opening balance + receipts | "OB + Receipts (Cr)" per tier, per district | District wise Receipt and Payment Statement | Static | VERIFIED |
+| Payments | "Payment Amount (In Rs.)" (state), "Payments (Cr)" (district) | same two | Static | VERIFIED |
+| Closing / unspent balance | Not printed. The difference of two columns is **not** published as a balance and must not be presented as one. "Panchayat-Wise Sources of Revenue" (`schemeWiseUnspendBalance`) is behind a CAPTCHA | — | CAPTCHA | NOT VERIFIED |
+| Grants, tied / untied | XV FC Tied expenditure page (`tiedExpenditure`, browser-built) and FFC sector-wise expenditure; scheme codes 2813 FFC and 3287 XV FC in the scheme-wise archive | Browser-built / static | No CAPTCHA | Pass 2 |
+| Scheme-wise expenditure | `SchemeWiseExpenditureReport{FY}/{scheme}` archive, 35 schemes; Scheme Wise Expenditure Report form (CAPTCHA-free form returned no table for the default selection) | Static / form | No CAPTCHA | Pass 2 |
+| Activity-wise / object-head / receipt-head expenditure | Object-head, receipt-head, O&M, Panchayat-wise expenditure reports | Forms | **CAPTCHA** | NOT VERIFIED |
+| Vouchers | Counts by type (RV receipt, PV payment, CV contra, JV journal) by district, block and month; voucher list pages `voucherWiseReport.do` | Static + linked page | No CAPTCHA | VERIFIED (counts); list sampled in pass 2 |
+| Vendors | Vendor report | Form | **CAPTCHA** | NOT VERIFIED |
+| Cash book, day book, ledger | Public cash/day/ledger/journal books | Forms | **CAPTCHA** | NOT VERIFIED |
+| Accounting compliance | Masters, opening balance, day/month/year book closed | Summary reports; getMobileData | No CAPTCHA | VERIFIED |
+| GPDP (approved plans) | Plan upload status, action plan, resource envelope, sector/scheme-wise activities | Mostly forms with CAPTCHA; GPDP upload report and plan-wise activities browser-built | Mixed | NOT VERIFIED / pass 2 |
+| Physical and financial progress | Physical and Financial Details | Form | **CAPTCHA** | NOT VERIFIED |
+| Audit of accounts | AuditOnline: audit plans, reports, observations by category, settlement | JSON | No CAPTCHA | VERIFIED (counts, no amounts) |
 
-**What is not here:** funds received, grant allocations, opening or closing balances, tied or untied grants, scheme-wise or activity-wise expenditure, vouchers, vendors, GPDP activities, estimated costs, physical or financial progress. All of these would come from eGramSwaraj's accounting, planning and reporting modules, which are **NOT VERIFIED**. Do not read observation counts as amounts. An observation such as "Non Utilization of Grants" says that the auditor raised the issue, not how much money was involved.
+**Bihar, Village Panchayat tier, State & Year Wise Summary (values exactly as served).** Each file is a snapshot. The file for 2012-13 to 2024-25 was generated on 23 Oct 2024, and the files for 2025-26 and 2026-27 on 20 Nov 2026.
+
+| FY | GPs | GPs with vouchers | Receipt Amount (In Rs.) | Payment Amount (In Rs.) | GPs with Year Book Closed |
+|---|---|---|---|---|---|
+| 2012-13 | 8474 | 0 | 0.00 | 0.00 | 0 |
+| 2015-16 | 8392 | 0 | 0.00 | 0.00 | 0 |
+| 2018-19 | 8386 | 0 | 0.00 | 0.00 | 0 |
+| 2019-20 | 8387 | 1 | 0.00 | 0.00 | 1 |
+| 2020-21 | 8387 | 8108 | 235,05,31,006.54 | 20,86,008.55 | 8108 |
+| 2021-22 | 8221 | 8220 | 3,429,16,45,963.85 | 780,18,14,262.15 | 8095 |
+| 2022-23 | 8176 | 8094 | 5,934,58,84,976.92 | 3,017,22,76,765.27 | 8077 |
+| 2023-24 | 8176 | 8078 | 5,738,43,97,797.99 | 2,922,37,46,314.91 | 8053 |
+| 2024-25 | 8054 | 8053 | 3,861,03,59,497.17 | 1,425,01,57,843.78 | 0 (snapshot of 23 Oct 2024) |
+| 2025-26 | 8050 | 8050 | 4,767,48,37,753.05 | 2,889,54,65,480.79 | 8049 |
+| 2026-27 | 8051 | 8050 | 2,797,12,68,405.76 | 1,871,09,91,099.68 | 0 (year in progress) |
+
+Amounts use the portal's own digit grouping, copied unchanged. **Bihar 2024-25 from the district statement**, generated on 20 Nov 2026, for all 38 districts: Village Panchayat "OB + Receipts (Cr)" 4221.843 and "Payments (Cr)" 2872.269; Block Panchayat 1028.781 and 607.265; Zilla Panchayat 1885.170 and 493.256. The difference from the summary table comes from the generation date and from the inclusion of the opening balance. It is recorded, not reconciled.
 
 ## 5. Geographic coverage matrix (Deliverable D)
 
-✔ = available and collected · ◐ = available, summary only · ✖ = not available · ? = not verified (host unreachable)
+✔ collected · ◐ available, collected for some years · ✖ not offered · 🔒 behind CAPTCHA (not collected) · P2 = pass 2 (written, awaiting run) · ? not verified
 
 | Report | State | District | Block | GP | Village |
 |---|---|---|---|---|---|
-| Audit plans (GP count, auditee count, audit dates, schemes) | ✔ | ✔ | ✔ | ✔ | ✖ |
-| Registered auditees | ✔ | ✔ | ✔ | withheld (names) | ✖ |
-| GPs with audit report generated | ✔ | ✔ | ✔ | ✔ | ✖ |
-| Audit observations, total | ✔ | ✔ | ✔ | ✔ | ✖ |
-| Audit observations by category | ✔ (Bihar) | ✖ | ✖ | ✔ (endpoint per GP; sampled for 30 GPs) | ✖ |
-| Audit observations by sub-category | ✔ (Bihar) | ✔ (endpoint exists; not collected) | ✔ (endpoint exists; not collected) | ✔ (endpoint exists; not collected) | ✖ |
-| Settlement report status | ✔ | ✔ | ✔ | ✔ | ✖ |
-| Action taken | ◐ | ✔ | ✔ | ? | ✖ |
-| GP Level Audit Status Report (risk paras) | ◐ | ✔ | ✖ (row per district) | via `gpLevelDataForExcelDownload` (not explored) | ✖ |
-| Year Book Not Closed | — | ✔ | ✔ | ✔ (list of GPs) | ✖ |
-| Year Book Closed (eGramSwaraj API) | ? | ? | ? | ? | ? |
-| eGramSwaraj profile, finance, planning, progress | ? | ? | ? | ? | ? |
+| State & Year Wise Summary (receipts, payments, voucher and closure counts) | ✔ | ✖ | ✖ | ✖ | ✖ |
+| District wise Receipt and Payment (OB + Receipts, Payments) | ✔ | ✔ | P2 (`ExpFY`) | ? | ✖ |
+| District Wise Summary (accounting status, voucher counts) | ✔ | ✔ | ◐ (block lists) | ✖ | ✖ |
+| Month-wise vouchers | — | ✔ | ◐ (2026-27) | P2 (voucher lists, sampled) | ✖ |
+| Scheme-wise expenditure archive | P2 | P2 | ? | ? | ✖ |
+| Year Book Closed API (getMobileData) | ✔ | ✔ | ✔ | ✔ (2024-25; all years P2) | ✖ |
+| Profiles, elected representatives, XV FC tied, FFC sector-wise, GPDP upload | P2 | P2 | P2 | P2 | ? |
+| Cash/day/ledger books, vendor, receipt/object-head expenditure, physical and financial progress, GPDP action plans | 🔒 | 🔒 | 🔒 | 🔒 | ? |
+| AuditOnline: audit plans, reports generated, observations, settlement | ✔ | ✔ | ✔ | ✔ (2020-21, 2024-25) | ✖ |
+| AuditOnline: observations by category | ✔ | ✖ | ✖ | ◐ (30 GPs sampled) | ✖ |
+| AuditOnline: Year Book Not Closed | — | ✔ | ✔ | ✔ (list) | ✖ |
 
-**Drill-down: yes, all the way to GP.** Every count above can be followed from Bihar to a district, a block and a named GP with its code. Collection results: section 5a, filled in from `data/analysis/egs/`.
+No eGramSwaraj report seen so far goes below GP. Where "village" appears in eGramSwaraj wording ("Village Panchayat"), it means the Gram Panchayat tier, not a revenue village.
 
-<!-- COVERAGE -->
+**AuditOnline GP coverage (VERIFIED, `data/analysis/egs/gp_coverage.csv`).** Distinct GP codes per report against GPs registered: 2020-21 audit plans 8,149, reports generated 8,129, observations 8,386, settlement 8,386, out of 8,386. 2024-25: 8,053 in every report, out of 8,053.
 
 ## 6. Historical coverage matrix (Deliverable E)
 
-<!-- HISTORY -->
+| Source | Earliest year offered | Latest | Bihar has data from | Notes |
+|---|---|---|---|---|
+| State & Year Wise Summary (eGramSwaraj) | 2012-13 | 2026-27 | **2020-21** (2019-20: 1 GP) | 2012-13 to 2018-19: Bihar rows are "0" / "0.00" (not recorded in eGramSwaraj; not zero spending) |
+| District wise Receipt and Payment | 2020-21 | 2026-27 | 2020-21 | Older years not offered |
+| District Wise Summary | 2020-21 | 2026-27 | 2020-21 | |
+| Month-wise voucher status | 2026-27 seen | — | — | Other years pass 2 |
+| getMobileData Year Book Closed | 2024-25 tested; API takes any "YYYY-YYYY" | — | — | Year must be written "2024-2025"; "2024-25" returns an HTML error page |
+| AuditOnline | 2019-20 (audit years); district GP counts from 2015-16 | 2025-26 | 2019-20 | 2015-16 to 2018-19: GP counts only, 0 audit plans |
+
+**AuditOnline Bihar by year (VERIFIED, `coverage_by_year.csv`, counts as served)**
+
+| FY | GPs registered | GPs with audit plan | GPs with audit report | Observations | Settlement reports |
+|---|---|---|---|---|---|
+| 2015-16 | 8369 | 0 | — | — | — |
+| 2016-17 | 8366 | 0 | — | — | — |
+| 2017-18 | 8366 | 0 | — | — | — |
+| 2018-19 | 8363 | 0 | — | — | — |
+| 2019-20 | 8364 | 2159 | 2139 | 14093 | 0 |
+| 2020-21 | 8386 | 8149 | 8069 | 67545 | 0 |
+| 2021-22 | 8125 | 8073 | 8000 | 56212 | 0 |
+| 2022-23 | 8077 | 8060 | 8053 | 77441 | 0 |
+| 2023-24 | 8055 | 8055 | 8051 | 75202 | 1292 |
+| 2024-25 | 8053 | 8053 | 8049 | 81208 | 0 |
+| 2025-26 | 8052 | 8026 | 100 | 987 | 0 (audit in progress) |
+
+"—" means the report was not offered for that year. It does not mean zero.
+
+The GP count changes over time: 8,474 GPs in 2012-13, 8,386 in 2018-19 and 8,050–8,054 from 2024-25. Comparing years Panchayat by Panchayat therefore needs the GP codes, not names.
 
 ## 7. Sample data repository (Deliverable F)
 
-All originals are under `data/raw/EGS-AO/2026-11-20/`, saved byte for byte as served and set read-only. Each one has a record in `data/provenance.jsonl` (source `EGS-AO`) with the full URL, method, parameters, report name, geographic level, financial year, HTTP status, content type, size, sha256 and retrieval time in UTC and IST. Folders follow `<level>/<endpoint>/<parameters>.<ext>`.
+| What | Where | Files |
+|---|---|---|
+| eGramSwaraj pages, static reports, API responses, exports | `data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/` | 1,517 records (pass 1) |
+| Crawl inventory: pages, links, forms (every field and option), form results | `data/egs_explore/2026-11-20/{pages,links,forms,form_results}.jsonl` | 4 |
+| AuditOnline JSON, HTML, XLSX and documentation | `data/raw/EGS-AO/2026-11-20/<level>/<endpoint>/<parameters>.<ext>` | 6,459 checked |
+| Provenance (URL, method, parameters or POST data, selections, report name, level, FY, HTTP status, size, sha256, UTC and IST time) | `data/provenance.jsonl` (sources `EGS-PORTAL`, `EGS-AO`) | append-only |
+| Descriptions (no values changed) | `data/analysis/egs/`: `portal_static_reports.csv`, `portal_bihar_values.csv`, `portal_api_values.csv`, `portal_page_inventory.csv`, `field_catalogue.csv`, `report_inventory.csv`, coverage files | — |
 
-<!-- SAMPLES -->
+Representative originals:
+
+| Report | Parameters | File |
+|---|---|---|
+| State & Year Wise Summary 2024-25 | FY 2024-25, all states | `data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/FileRedirect.jsp__FD=priasoftOverview_name=statewiseClosureReport2024-2025.html.html` |
+| District wise Receipt and Payment, Bihar 2024-25 | FY 2024-25, state 10 | `…/FileRedirect.jsp__FD=ExpenditureReport2024-2025_10_name=10.html.html` |
+| District Wise Summary, Bihar 2024-25 | FY 2024-25, state 10 | `…/FileRedirect.jsp__FD=SummaryReport2024-2025_10_name=10.html.html` |
+| Year Book Closed, Bihar districts | FY 2024-2025, state 10, GP | `…/getMobileData_getYearBookClosedDistrictWise_2024-2025_10_GP.json` |
+| Year Book Closed, all states | FY 2024-2025, GP | `…/getMobileData_getYearBookClosedStateWise_2024-2025_GP.json` |
+| AuditOnline audit plans per GP | year 2024-2025, one block | `data/raw/EGS-AO/2026-11-20/gp/centerLevelByYearAndBlock/…` |
+| AuditOnline GP Level Audit Status (XLSX) | year, state 10, lbtc 3 | `data/raw/EGS-AO/2026-11-20/district/gpAuditStatusExcel/…` |
+
+**Integrity.** `egs_summary.py` re-hashes every AuditOnline original: 6,459 checked, 0 mismatches. For eGramSwaraj, 160 HTML files were altered on the laptop by Git's Windows line-ending conversion (`core.autocrlf`) before they were committed, so their sha256 no longer matches provenance. They are skipped by every summary rather than trusted. The repository now has `.gitattributes` (`data/** -text`) so that this cannot recur. The laptop holds the untouched copies in `egs_explore_2026-11-20.zip`, and restoring them is the first step of pass 2. Until then, 1,357 eGramSwaraj originals are verified.
+
+`data/egs_explore/2026-11-20/tables/` and the Bihar workbook made by `scripts/egs_tables.py` on the laptop convert Indian-format numbers. They are **derived convenience copies**, not Task 4 deliverables and not originals.
 
 ## 8. Data accessibility assessment (Deliverable G)
 
-| Aspect | AuditOnline (VERIFIED) | eGramSwaraj (NOT VERIFIED) |
+| Aspect | eGramSwaraj (VERIFIED) | AuditOnline (VERIFIED) |
 |---|---|---|
-| Login | Not needed for any report listed in 2.2 | Unknown |
-| CAPTCHA | None on any report page (checked page source) | Unknown; the explorer records and skips any |
-| Session | A session cookie (`JSESSIONID`) is set on the home page. Some form pages render their form only within a session; JSON endpoints answer without one. Document links carry a per-session `OWASP_CSRFTOKEN` | Unknown |
-| Documented API | **None.** The JSON endpoints are undocumented, found in the site's JavaScript | `getMobileData` endpoints exist (INDIRECT); undocumented |
-| Download formats | JSON (all data endpoints); server-side XLSX for two reports; other "Excel/PDF" buttons are built in the browser from the on-screen table | Unknown |
-| Geographic restriction | None seen | **Refuses non-Indian connections** (section 1) |
-| Quirks | JSON responses carry `Content-Disposition: inline;filename=f.txt`. Unknown or invalid requests return an HTML error page ("Lost Cloud - Error page") **with HTTP 200**, so status alone does not show success. Some endpoints return `"0"` strings as placeholders (e.g. `auditPeriod: "0"`) | — |
-| Personal data | Auditor contact details and auditee officials' names are public on the site; deliberately not collected | Explorer withholds pages with ≥5 phone numbers or e-mails |
+| Geography | Answers only Indian connections | Open |
+| Login | Not needed for any public report examined | Not needed |
+| CAPTCHA | **On 39 of 59 report forms that offer Bihar**: an image checked server-side before the form is sent. Static archives, the getMobileData API and browser-built pages have none | None |
+| Documented API | None. `getMobileData` is used by AuditOnline and the mobile app; found in JavaScript | None; 55 endpoints found in JavaScript |
+| Formats | HTML (static archives), JSON (API and browser-built pages), XLS exports on some state pages (generic layout, not Bihar-specific) | JSON; XLSX for two reports |
+| Freshness | **Each static file is a dated snapshot**, and the date is printed in the file. Some are refreshed daily (20 Nov 2026), others years old (23 Oct 2024; 18 Jul 2022 for 2020-21) | Live |
+| Quirks | Year must be "2024-2025" in the API. Unknown pages return an error page with HTTP 200. Many static pages contain the table twice (an outer and an inner table), so each value appears twice in `portal_bihar_values.csv` with a different `table_index` | Errors returned with HTTP 200; `"0"` strings used as placeholders |
+| Hosts | `reportingonline` timed out and `accountingonline` / `planningonline` do not resolve, even from India | — |
+| Personal data | Elected-representative and beneficiary pages may list names; collection keeps aggregates and withholds bodies with ≥5 phones or e-mails | Auditor contacts and officials' names exist; not collected |
+
+**CAPTCHA policy followed.** No CAPTCHA was solved by software, skipped by calling the form's back-end directly, or replayed. The 39 pages are recorded as `captcha_present_not_attempted`. `egs_bihar.py --steps manual` exists for a person to view those reports one at a time. It only saves what that person is shown.
 
 ## 9. Collection automation assessment (Deliverable H)
 
 | Report | Method | Repeatable? | Effort |
 |---|---|---|---|
-| All AuditOnline JSON reports (2.2) | `scripts/egs_auditonline.py` (stdlib only) | Yes; resumes within a day; new day = new dated folder | Bihar, all years, all levels: about 2,400 requests per year at GP level (about 1 hour at 1.4 s per request); state, district and block levels only: about 300 per year |
-| GP Level Audit Status (XLSX) | same script, POST then GET | Yes | 1 request per year |
-| Year Book Not Closed | same script (POST form) | Yes | 1 per year |
-| Per-GP observation categories | same script; sampled for one block; full run = one request per GP per year (~8,000) | Yes | about 3 hours per year |
-| eGramSwaraj `getMobileData` Year Book API | `scripts/egs_explore.py` step 2 | Expected yes (JSON) | Needs an Indian connection |
-| All eGramSwaraj profile, finance, planning and progress reports | `scripts/egs_explore.py` steps 1 and 3 (crawl + form filling); a dedicated collector to be written from its output | To be established | Needs an Indian connection |
+| eGramSwaraj static archives (all Bihar years, district → block → month, scheme-wise) | `egs_bihar.py --steps static` (stdlib); from India | Yes; resumable; new day = new folder | About 1–2 h at 0.7 s per request with `--depth 1` |
+| getMobileData Year Book Closed, all years, all tiers, block-wise and GP-wise | `egs_bihar.py --steps api` | Yes | Minutes |
+| Browser-built reports (profiles, representatives, XV FC tied, FFC sector, GPDP upload) | `egs_bihar.py --steps xhr` (Playwright) records the JSON the page loads | Yes, if page layouts stay the same | About 1 h |
+| CAPTCHA reports | `egs_bihar.py --steps manual`: a person enters each CAPTCHA | Manual | 1–2 minutes per report and per selection; impractical at GP level |
+| AuditOnline, all reports | `egs_auditonline.py` (stdlib), from anywhere | Yes; resumes | About 1 h per year at GP level |
+| Description tables | `egs_portal_summary.py`, `egs_summary.py` | Yes, offline | Seconds |
 
-Manual work needed: none for AuditOnline. For eGramSwaraj, one person in India runs one command (section 10).
+The dependable automated route for Bihar Panchayat finance is the static archives plus getMobileData. The detailed books (cash book, ledger, vendor) are not suitable for automation because of the CAPTCHA.
 
-## 10. What is needed to finish Task 4
+## 10. Remaining step
 
-On any computer in India with Python 3.9+ and this repository:
+The laptop in India runs three commands from the repository folder and pushes the result:
 
 ```bash
-python scripts/egs_explore.py
-pip install playwright
-python -m playwright install chromium
-python scripts/egs_explore.py --forms --skip-crawl
+python scripts/egs_bihar.py
+python scripts/egs_bihar.py --steps xhr
+python scripts/egs_portal_summary.py
 ```
 
-The first command crawls up to 1,500 pages across the four hosts, one per second, then calls the year-book API. The last one fills every form that offers Bihar, drills down three levels and saves any Excel/PDF/CSV export. It prints the path of `egs_explore_<date>.zip`. Send that file back (or commit `data/`). From it, sections 2–9 can be completed for eGramSwaraj with VERIFIED evidence, and a dedicated collector can be written for the reports that matter.
+The first collects the static archives, the API and the page scripts. The second needs `pip install playwright` once. The third must print "0 hash mismatches" after the 160 files are restored from the zip. All other steps are complete.
 
 ## 11. Data gaps report (Deliverable I)
 
-<!-- GAPS -->
+| Gap | Kind | Steps already taken |
+|---|---|---|
+| Population, households, SC/ST at Panchayat level | Not found so far | Searched all static reports, API responses and AuditOnline fields; GP profile JSON is pass 2 |
+| Elected representative composition | Pending | Pages located, no CAPTCHA; JSON recorded in pass 2 |
+| Cash book, ledger, day book, vendor, receipt-head, object-head, Panchayat-wise expenditure, physical and financial progress, GPDP action plans | **CAPTCHA** | Forms inventoried with all fields and options; not bypassed; manual mode provided |
+| Closing / unspent balance | Not published as a balance in open reports | "Sources of Revenue / unspent balance" report is behind CAPTCHA |
+| Tied vs untied grants, scheme-wise expenditure | Pending | XV FC tied page and the 35-scheme archive identified; pass 2 |
+| Budget allocations, approved plan amounts | Not seen in open reports | GPDP reports mostly CAPTCHA |
+| Bihar finance before 2020-21 | Not recorded in eGramSwaraj | Summary rows "0" / "0.00" from 2012-13 to 2018-19 |
+| `reportingonline`, `accountingonline`, `planningonline`, `areaprofiler` | Unreachable even from India (timeout, DNS failure) | Tried from cloud and India; functions appear to be served by `egramswaraj.gov.in` itself |
+| Stale snapshots | Data quality | Each static file's printed generation date recorded; e.g. 2024-25 summary frozen at 23 Oct 2024 |
+| Two different 2024-25 totals | Inconsistency (not reconciled) | Summary (23 Oct 2024) Receipts Rs 3,861 cr, Payments Rs 1,425 cr vs district statement (20 Nov 2026) OB + Receipts Rs 4,221.843 cr, Payments Rs 2,872.269 cr |
+| Year book closed 2024-25 | Inconsistency across snapshots | Summary snapshot shows 0; getMobileData (live) 8,053 of 8,054; AuditOnline "Not Closed" lists 1 GP. The live sources agree |
+| AuditOnline: reports generated exceed the Panchayat count | Inconsistency | 52 district-year rows in `inconsistencies.csv` (e.g. Jehanabad 2019-20: 93 > 91) |
+| AuditOnline settlement and action taken | Mostly 0 | Settlement reports 0 except 1,292 in 2023-24; action taken 0 every year |
+| GP count changes 8,474 → 8,050 | Boundary changes | Comparisons must use GP codes |
+| 160 eGramSwaraj HTML files with altered line endings | Preservation | Detected by hash check; excluded; `.gitattributes` added; restore from laptop zip |
+| AuditOnline run stopped once at its time limit | Process | Resumed for the remaining years with no errors; resumable design means no file was lost or duplicated |
 
 ## 12. Answers to the specific questions
 
-<!-- ANSWERS -->
+1. **Which reports does eGramSwaraj publish for Bihar, and where?** Static archives (State & Year Wise Summary, District wise Receipt and Payment, District Wise Summary, month-wise vouchers, scheme-wise expenditure), the getMobileData API, browser-built profile, representative and grant pages, and 59 report forms, 39 of them behind CAPTCHA. Sections 2.1–2.3.
+2. **Is population data available, and at what level?** No population or household figure was found in anything collected. The GP profile JSON is pending. Not verified either way.
+3. **Is elected representative composition available?** The ZP, BP and GP pages exist without CAPTCHA. Their fields are pending (pass 2).
+4. **What finance data is openly available?** Receipts, opening balance plus receipts, payments, voucher counts and accounting status by tier: state by year from 2020-21, and by district. Detailed books, vendors and object-head expenditure need a CAPTCHA. Section 4.
+5. **Can approved plans, allocations, receipts, payments and expenditure be told apart?** Receipts, "OB + Receipts" and payments are separate published columns. Approved plans (GPDP) and allocations are not in the open reports seen. "Payments" are the Panchayat's own recorded payments, not all government spending in its area.
+6. **Lowest geographic level?** Open finance: district, with block for voucher status. The year-book API goes to GP. AuditOnline goes to GP. No report goes below GP.
+7. **Historical depth?** Bihar finance in eGramSwaraj from 2020-21 (earlier rows "0"); the AuditOnline audit cycle from 2019-20. Section 6.
+8. **Formats and downloads?** HTML static files, JSON, a few XLS/XLSX. No documented bulk download or API.
+9. **Can collection be automated?** Yes for the static archives, getMobileData, browser-built pages and AuditOnline. No for CAPTCHA reports. Section 9.
+10. **Main obstacles?** Geographic restriction, CAPTCHA, snapshot dates, three unreachable hosts, and changing GP counts. Section 11.
 
 ## Appendix A. AuditOnline data endpoints found in its JavaScript
 

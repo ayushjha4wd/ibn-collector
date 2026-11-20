@@ -18,7 +18,12 @@ python scripts/egs_auditonline.py      # AuditOnline (audit module of the suite)
 python scripts/egs_summary.py          # field catalogue + coverage matrices -> data/analysis/egs/
 python scripts/egs_explore.py          # run FROM INDIA: crawls eGramSwaraj, saves every page/form/file, packs a zip
 python scripts/egs_explore.py --forms  # also fills the Bihar report forms (needs: pip install playwright; python -m playwright install chromium)
+python scripts/egs_bihar.py            # run FROM INDIA: Bihar static finance archives, getMobileData API, page scripts
+python scripts/egs_bihar.py --steps xhr     # records the JSON behind browser-built reports (profiles, representatives, grants)
+python scripts/egs_portal_summary.py   # re-hashes EGS-PORTAL originals; writes verbatim value tables to data/analysis/egs/
 ```
+
+CAPTCHA-protected reports are never automated; `egs_bihar.py --steps manual` lets a person enter each CAPTCHA and only saves what they are shown.
 
 ## Quick start
 
