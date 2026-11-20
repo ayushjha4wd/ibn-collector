@@ -1,0 +1,2914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referer" content="strict-origin-when-cross-origin" />
+<title>PFMS Dashboard</title>
+<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<!-- Theme style -->
+
+<!--  Theme Skins -->
+	
+	<!-- Data Table -->
+
+
+
+<script defer src="https://egramswaraj.gov.in/pes_analytics/script.js" data-website-id="10df7fae-9459-4a49-af58-19370610e6f1"></script>
+
+</head>
+
+<body>
+	<html>
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	<head>
+		<!-- Basic -->
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<!-- Site Metas -->
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+		
+		<title>eGramSwaraj</title>
+		
+		<!-- slider stylesheet -->
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+		
+		<!-- bootstrap core css -->
+		<link rel="stylesheet" type="text/css" href="/resources/home/css/bootstrap.css" />
+		
+		<!-- fonts style -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+		<!-- Custom styles for this template -->
+		<link href="/resources/home/css/style.css" rel="stylesheet" />
+		<!-- responsive style -->
+		<link href="/resources/home/css/responsive.css" rel="stylesheet" />
+	<script src="https://translation-plugin.bhashini.co.in/v2/website_translation_utility.js" data-pos-x="5" data-pos-y="10" referer="www.egramswaraj.gov.in" referrerpolicy="strict-origin-when-cross-origin"></script>
+<style>
+
+
+/* =======================
+   HEADER
+======================= */
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 42px;
+  background: #04285b;
+  color: white;
+  height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+  min-height: 42px;          /* minimum height à¤°à¤à¥à¤ */
+}
+
+.logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+.logo:hover {
+  color: #007bff;
+}
+
+.top-links {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  flex-wrap: wrap;           /* à¤à¥à¤à¥ screen à¤ªà¤° wrap */
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: #ffffff;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.action:hover {
+  opacity: 0.85;
+}
+
+.nav-link {
+  color: #FFFFFF;
+}
+.nav-link:hover {
+  color: #007bff;
+}
+
+.action-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* =======================
+   TABLET
+======================= */
+@media (max-width: 992px) {
+  .header {
+    padding: 0 20px;
+  }
+
+  .top-links {
+    gap: 16px;
+  }
+}
+
+/* =======================
+   MOBILE
+======================= */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 15px;
+    gap: 8px;
+  }
+
+  .logo {
+    white-space: normal; /* allow wrap */
+    font-size: 12px;
+  }
+
+  .top-links {
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .action {
+    font-size: 11.5px;
+  }
+}
+
+/* =======================
+   SMALL MOBILE
+======================= */
+@media (max-width: 480px) {
+  .top-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .action {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .logo {
+    font-size: 11px;
+  }
+}
+
+
+/* ================================
+   REPORT HEADER NAVBAR
+================================ */
+.rh-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 8px 40px;
+ 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  min-height: 72px;
+  box-sizing: border-box;
+}
+
+/* ---- LEFT LOGO ---- */
+.rh-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rh-emblem {
+  width: 52px;
+  height: auto;
+  object-fit: contain;
+}
+
+.rh-brand {
+  height: 95px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RIGHT ICONS ---- */
+.rh-icons {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.rh-icon {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 768px) {
+  .rh-navbar {
+    padding: 8px 16px;
+    min-height: 60px;
+  }
+
+  .rh-emblem {
+    width: 38px;
+  }
+
+  .rh-brand {
+    height: 36px;
+  }
+
+  .rh-icon {
+    height: 32px;
+  }
+
+  .rh-icons {
+    gap: 10px;
+  }
+}
+
+
+</style>
+
+</head>
+	<body>
+		
+		
+			<header class="header">
+			  <div class="logo"><a href="welcome.do" class="logo">Government of India | Ministry of Panchayati Raj</a></div>
+			  <div class="top-links">								  
+			     <span class="action">
+			      <img src="resources/home/images/new/Maskgroup.svg" class="action-icon" alt="" />
+			      <a class="nav-link" href="screenReader.jsp" target="_parent">   Screen Reader Access </a>
+			       <!-- <a class="nav-link action" href="screenReader.jsp" target="_parent">  Screen Reader Access </a> -->
+			    </span>
+			    <span class="action">
+			      <img src="resources/home/images/new/Simplification.svg" class="action-icon" alt="" />
+			      <a class="nav-link action" href="welcome.do"> Home </a>
+			    </span>
+			   <!--  <span class="action">
+			      <img src="resources/home/images/new/Login.svg" class="action-icon" alt="" />
+			      <a href="javascript:login()" class="nav-link action">Login</a>
+			    </span> -->
+			  </div>
+			</header>
+				
+		
+			<!-- header section strats -->
+			
+			<!-- end header section -->
+			<!-- slider section -->
+			
+			<div class="rh-navbar">
+			  <div class="rh-logo">
+			    <img src="resources/home/images/new/icon-emblem.svg" class="rh-emblem" alt="Emblem" />
+			    <img src="resources/home/images/new/eGramsSwaraj.svg" class="rh-brand" alt="eGramSwaraj" />
+			  </div>
+			
+			  <div class="rh-icons">
+			    <img src="resources/home/images/new/Panchayati Raj _Logo Government1.svg" class="rh-icon" alt="Panchayati Raj" />
+			    <img src="resources/home/images/new/Group3525.svg" class="rh-icon" alt="Sabka Vikas" />
+			  </div>
+			
+			</div>
+			<!-- end slider section -->
+		
+	</body>
+	
+  <script type="text/javascript" src="/resources/home/js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/resources/js/popper.min.js"></script>
+  <script type="text/javascript" src="/resources/home/js/bootstrap.js"></script>
+</html>	
+	
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<script type="text/javascript" src="/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="/resources/plugins/jQueryUI/jquery-ui.min.js"></script>
+		<script src="/resources/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="/resources/priasoft/css/pfmsDashboard.css" />
+		<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+		<title>PFMS Dashboard</title>
+		<script>
+			$(document).ready(function(){
+				$("#filters").removeClass("show in");
+				$("#full-page").addClass("col-12").removeClass("col-9");
+				$("#togglebtn").addClass("d-none");
+			});
+		</script>
+	</head>
+	
+	<body data-ng-app="pfmsDashboardModule" data-ng-controller="pfmsDashboardController">
+		<form id="form" name="form" action="/pfmsDashboardNew.do" method="GET">
+		<input type="hidden" name='OWASP_CSRFTOKEN' value='0EZQ-WLSY-E57E-D6CW-8193-EP1C-1QBS-MZ6N'/>
+		<input id="totalPanchayatoff" name="totalPanchayatoff" data-ng-value="totalPanchayatoff" type="hidden" value=""/>
+		<input id="realbpcount" name="realbpcount" data-ng-value="realbpcount" type="hidden" value=""/>
+		<input id="realvpcount" name="realvpcount" data-ng-value="realvpcount" type="hidden" value=""/>
+		<input id="realzpcount" name="realzpcount" data-ng-value="realzpcount" type="hidden" value=""/>
+		<input id="zpCountYest" name="zpCountYest" data-ng-value="zpCountYest" type="hidden" value=""/>
+		<input id="bpCountYest" name="bpCountYest" data-ng-value="bpCountYest" type="hidden" value=""/>
+		<input id="vpCountYest" name="vpCountYest" data-ng-value="vpCountYest" type="hidden" value=""/>
+		<input id="totalCountYesterday" name="totalCountYesterday" data-ng-value="totalCountYesterday" type="hidden" value=""/>
+		<input id="receiptsFund" name="receiptsFund" data-ng-value="receiptsFund" type="hidden" value="0.0"/>
+		<input id="expenditureFund" name="expenditureFund" data-ng-value="expenditureFund" type="hidden" value="0.0"/>
+		<input id="obFund" name="obFund" data-ng-value="obFund" type="hidden" value="0.0"/>
+		<input id="centerScheme" name="centerScheme" data-ng-value="centerScheme" type="hidden" value="0.0"/>
+		<input id="stateScheme" name="stateScheme" data-ng-value="stateScheme" type="hidden" value="0.0"/>
+		<input id="otherResource" name="otherResource" data-ng-value="otherResource" type="hidden" value="0.0"/>
+		
+		<input id="centerexpScheme" name="centerScheme" data-ng-value="centerexpenditureScheme" type="hidden" value="0.0"/>
+		<input id="stateexpScheme" name="stateScheme" data-ng-value="stateexpenditureScheme" type="hidden" value="0.0"/>
+		<input id="otherexpResource" name="otherResource" data-ng-value="otherexpenditureResource" type="hidden" value="0.0"/>
+		
+		
+		<input id="fundUtilPer" name="fundUtilPer" data-ng-value="fundUtilPer" type="hidden" value="0.0"/>
+		<input id="activePRITot" name="activePRITot" data-ng-value="activePRITot" type="hidden" value=""/>
+		<input id="dayBookClosedTot" name="dayBookClosedTot" data-ng-value="dayBookClosedTot" type="hidden" value=""/>
+		<input id="monthBookClosedTot" name="monthBookClosedTot" data-ng-value="monthBookClosedTot" type="hidden" value=""/>
+		<input id="yearBookClosedTot" name="yearBookClosedTot" data-ng-value="yearBookClosedTot" type="hidden" value=""/>
+		<input id="pvCountFreezedToday" name="pvCountFreezedToday" data-ng-value="pvCountFreezedToday" type="hidden" value=""/>
+		<input id="rvCountFreezedToday" name="rvCountFreezedToday" data-ng-value="rvCountFreezedToday" type="hidden" value=""/>
+		<input id="cvCountFreezedToday" name="cvCountFreezedToday" data-ng-value="cvCountFreezedToday" type="hidden" value=""/>
+		<input id="jvCountFreezedToday" name="jvCountFreezedToday" data-ng-value="jvCountFreezedToday" type="hidden" value=""/>
+		<input id="pvCountBookedToday" name="pvCountBookedToday" data-ng-value="pvCountBookedToday" type="hidden" value=""/>
+		<input id="rvCountBookedToday" name="rvCountBookedToday" data-ng-value="rvCountBookedToday" type="hidden" value=""/>
+		<input id="cvCountBookedToday" name="cvCountBookedToday" data-ng-value="cvCountBookedToday" type="hidden" value=""/>
+		<input id="jvCountBookedToday" name="jvCountBookedToday" data-ng-value="jvCountBookedToday" type="hidden" value=""/>
+		<input id="activePRIper" name="activePRIper" data-ng-value="activePRIper" type="hidden" value=""/>
+		<input id="statename" name="statename" data-ng-value="statename" type="hidden" value=""/>
+		<input id="pvAmountBookedTot" name="pvAmountBookedTot" data-ng-value="pvAmountBookedTot" type="hidden" value="0.0"/>
+		<input id="pvAmountFreezedTot" name="pvAmountFreezedTot" data-ng-value="pvAmountFreezedTot" type="hidden" value="0.0"/>
+		<input id="rvAmountBookedTot" name="rvAmountBookedTot" data-ng-value="rvAmountBookedTot" type="hidden" value="0.0"/>
+		<input id="rvAmountFreezedTot" name="rvAmountFreezedTot" data-ng-value="rvAmountFreezedTot" type="hidden" value="0.0"/>
+		<input id="pvCountFreezed" name="pvCountFreezed" data-ng-value="pvCountFreezed" type="hidden" value=""/>
+		<input id="rvCountFreezed" name="rvCountFreezed" data-ng-value="rvCountFreezed" type="hidden" value=""/>
+		<input id="cvCountFreezed" name="cvCountFreezed" data-ng-value="cvCountFreezed" type="hidden" value=""/>
+		<input id="jvCountFreezed" name="jvCountFreezed" data-ng-value="jvCountFreezed" type="hidden" value=""/>
+		<input id="pvCountBooked" name="pvCountBooked" data-ng-value="pvCountBooked" type="hidden" value=""/>
+		<input id="rvCountBooked" name="rvCountBooked" data-ng-value="rvCountBooked" type="hidden" value=""/>
+		<input id="cvCountBooked" name="cvCountBooked" data-ng-value="cvCountBooked" type="hidden" value=""/>
+		<input id="jvCountBooked" name="jvCountBooked" data-ng-value="jvCountBooked" type="hidden" value=""/>
+		<input id="noclosedZP" name="noclosedZP" data-ng-value="noclosedZP" type="hidden" value=""/>
+		<input id="noclosedBP" name="noclosedBP" data-ng-value="noclosedBP" type="hidden" value=""/>
+		<input id="noclosedVP" name="noclosedVP" data-ng-value="noclosedVP" type="hidden" value=""/>
+		<input id="noVoucherZP" name="noVoucherZP" data-ng-value="noVoucherZP" type="hidden" value=""/>
+		<input id="noVoucherBP" name="noVoucherBP" data-ng-value="noVoucherBP" type="hidden" value=""/>
+		<input id="noVoucherVP" name="noVoucherVP" data-ng-value="noVoucherVP" type="hidden" value=""/>
+		<input id="zpTot" name="zpTot" data-ng-value="zpTot" type="hidden" value=""/>
+		<input id="bpTot" name="bpTot" data-ng-value="bpTot" type="hidden" value=""/>
+		<input id="vpTot" name="vpTot" data-ng-value="vpTot" type="hidden" value=""/>
+		<input id="zpPerform" name="zpPerform" data-ng-value="zpPerform" type="hidden" value=""/>
+		<input id="bpPerform" name="bpPerform" data-ng-value="bpPerform" type="hidden" value=""/>
+		<input id="vpPerform" name="vpPerform" data-ng-value="vpPerform" type="hidden" value=""/>
+		<input id="vpPerform2" name="vpPerform2" data-ng-value="vpPerform2" type="hidden" value=""/>
+		<input id="bpPerform2" name="bpPerform2" data-ng-value="bpPerform2" type="hidden" value=""/>
+		<input id="zpPerform2" name="zpPerform2" data-ng-value="zpPerform2" type="hidden" value=""/>
+		<input id="vponboard" name="vponboard" data-ng-value="vponboard" type="hidden" value=""/>
+		<input id="bponboard" name="bponboard" data-ng-value="bponboard" type="hidden" value=""/>
+		<input id="zponboard" name="zponboard" data-ng-value="zponboard" type="hidden" value=""/>
+		<input id="focus1" name="focus1" data-ng-value="focus1" type="hidden" value=""/>
+		<input id="focus2" name="focus2" data-ng-value="focus2" type="hidden" value=""/>
+		<input id="focus3" name="focus3" data-ng-value="focus3" type="hidden" value=""/>
+		<input id="focus4" name="focus4" data-ng-value="focus4" type="hidden" value=""/>
+		<input id="focus5" name="focus5" data-ng-value="focus5" type="hidden" value=""/>
+		<input id="focus6" name="focus6" data-ng-value="focus6" type="hidden" value=""/>
+		<input id="focus7" name="focus7" data-ng-value="focus7" type="hidden" value=""/>
+		<input id="focus8" name="focus8" data-ng-value="focus8" type="hidden" value=""/>
+		<input id="focus9" name="focus9" data-ng-value="focus9" type="hidden" value=""/>
+		<input id="focus10" name="focus10" data-ng-value="focus10" type="hidden" value=""/>
+		<input id="focus11" name="focus11" data-ng-value="focus11" type="hidden" value=""/>
+		<input id="focus12" name="focus12" data-ng-value="focus12" type="hidden" value=""/>
+		<input id="focus13" name="focus13" data-ng-value="focus13" type="hidden" value=""/>
+		<input id="focus14" name="focus14" data-ng-value="focus14" type="hidden" value=""/>
+		<input id="focus15" name="focus15" data-ng-value="focus15" type="hidden" value=""/>
+		<input id="focus16" name="focus16" data-ng-value="focus16" type="hidden" value=""/>
+		<input id="focus17" name="focus17" data-ng-value="focus17" type="hidden" value=""/>
+		<input id="focus18" name="focus18" data-ng-value="focus18" type="hidden" value=""/>
+		<input id="focus19" name="focus19" data-ng-value="focus19" type="hidden" value=""/>
+		<input id="focus20" name="focus20" data-ng-value="focus20" type="hidden" value=""/>
+		<input id="focus21" name="focus21" data-ng-value="focus21" type="hidden" value=""/>
+		<input id="focus22" name="focus22" data-ng-value="focus22" type="hidden" value=""/>
+		<input id="focus23" name="focus23" data-ng-value="focus23" type="hidden" value=""/>
+		<input id="focus24" name="focus24" data-ng-value="focus24" type="hidden" value=""/>
+		<input id="focus25" name="focus25" data-ng-value="focus25" type="hidden" value=""/>
+		<input id="focus26" name="focus26" data-ng-value="focus26" type="hidden" value=""/>
+		<input id="focus27" name="focus27" data-ng-value="focus27" type="hidden" value=""/>
+		<input id="focus28" name="focus28" data-ng-value="focus28" type="hidden" value=""/>
+		<input id="focus29" name="focus29" data-ng-value="focus29" type="hidden" value=""/>
+		<input id="focus30" name="focus30" data-ng-value="focus30" type="hidden" value=""/>
+		<input id="focus31" name="focus31" data-ng-value="focus31" type="hidden" value=""/>
+		<input id="focus32" name="focus32" data-ng-value="focus32" type="hidden" value=""/>
+		<input id="focus33" name="focus33" data-ng-value="focus33" type="hidden" value=""/>
+		
+	<section class="main-reports ng-scope">
+	<div class="container-fluid px-5 nav-reports"><h3 class="mainHeading heading_black cursor-pointer text-center">
+				DASHBOARD
+			</h3><h4 class="text-center" data-ng-if="tab != 1">{{yearValue}} --- {{stateName}}</h4>
+		<div class="row tab-content">
+			
+			<div class="col-3 collapse show in"  id="filters" >
+			<aside >
+<p>Filters</p>
+
+<div class="card" >
+
+
+
+	<article class="card-group-item">
+		<header class="card-header collapsed" data-toggle="collapse" href="#yearFilter" >
+			<h6 class="title">Financial Year	<span class="badge  bg-success cursor-pointer float-right" data-toggle="tooltip" title="" data-original-title="Click here to view details">
+												<i class="fa fa-plus"></i>
+		</span></h6>
+		</header>
+		
+			<div class="filter-content card-body collapse" id="yearFilter">
+			
+			
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck1" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2026-2027"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2026-2027</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck2" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2025-2026"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2025-2026</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck3" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2024-2025"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2024-2025</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck4" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2023-2024"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2023-2024</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck5" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2022-2023"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2022-2023</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck6" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2021-2022"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2021-2022</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck7" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2020-2021"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2020-2021</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck8" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2019-2020"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2019-2020</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       		
+		                       			<label class="form-check">
+		                       					
+		                       						
+		                       						
+		                       							<input id="yearCheck9" name="yearCheck" data-ng-model="yearCheck" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2018-2019"/>
+	                    								<span class="form-check-label  text-sm">
+	                    								2018-2019</span>
+		                       						
+		                       					
+	                    					</label>
+		                       			
+		                       			
+				</div> <!-- card-body.// -->
+		
+	</article> <!-- card-group-item.// -->
+	
+	<article class="card-group-item" >
+		<header class="card-header  collapsed" data-toggle="collapse" href="#stateFilter" >
+			<h6 class="title">State <span class="badge  bg-success cursor-pointer float-right" data-toggle="tooltip" title="" data-original-title="Click here to view details">
+												<i class="fa fa-plus"></i>
+		</span></h6>
+		</header>
+		
+			<div class="filter-content card-body  collapse" id="stateFilter" style="max-height:250px;overflow-y:auto;">
+				
+                    			<label class="form-check">
+                 					
+                    						
+                     						<input id="stateCode0" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" data-ng-checked="true" class="form-check-input" type="radio" value="0"/>
+                 							<span class="form-check-label text-capitalize  text-sm">
+                 							All</span>
+                    						
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode1" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="35"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Andaman And Nicobar Islands</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode2" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="28"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Andhra Pradesh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode3" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="12"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Arunachal Pradesh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode4" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="18"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Assam</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode5" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="10"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Bihar</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode6" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="22"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Chhattisgarh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode7" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="30"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Goa</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode8" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="24"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Gujarat</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode9" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="6"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Haryana</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode10" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="2"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Himachal Pradesh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode11" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="1"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Jammu And Kashmir</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode12" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="20"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Jharkhand</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode13" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="29"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Karnataka</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode14" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="32"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Kerala</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode15" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="37"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Ladakh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode16" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="23"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Madhya Pradesh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode17" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="27"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Maharashtra</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode18" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="14"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Manipur</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode19" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="17"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Meghalaya</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode20" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="15"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Mizoram</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode21" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="13"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Nagaland</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode22" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="21"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Odisha</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode23" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="3"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Punjab</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode24" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="8"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Rajasthan</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode25" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="11"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Sikkim</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode26" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="33"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Tamil Nadu</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode27" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="36"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Telangana</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode28" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="16"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Tripura</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode29" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="5"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Uttarakhand</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode30" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="9"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">Uttar Pradesh</span>
+                    						
+                    					
+                    				</label>	
+                    		
+                    			<label class="form-check">
+                 					
+                    						
+                    						
+                     						<input id="stateCode31" name="stateCode" data-ng-model="stateCode" data-ng-click="getSchemeDetails()" class="form-check-input" type="radio" value="19"/>
+                 							<span class="form-check-label  text-capitalize  text-sm">West Bengal</span>
+                    						
+                    					
+                    				</label>	
+                    		
+			</div> <!-- card-body.// -->
+		
+	</article> 
+	
+	
+	<article class="card-group-item  hidden"  id="sch" >
+		<header class="card-header  collapsed" data-toggle="collapse" href="#schemeFilter" >
+			<h6 class="title">Scheme <span class="badge  bg-success cursor-pointer float-right" data-toggle="tooltip"  title="" data-original-title="Click here to view details">
+												<i class="fa fa-plus"></i>
+		</span></h6>
+		</header>
+		
+			<div class="filter-content card-body  collapse" id="schemeFilter" style="max-height:250px;overflow-y:auto;"   >
+				
+                     						
+                     						<div    style="overflow:auto;"  >
+                     						 
+                     						
+                     						<label class="radio-inline"><input  name="schemeCode"  id="schemeCode0"
+											type="radio" value="-1" checked="checked" />&nbsp;&nbsp;All</label>
+                 							
+											
+                 							
+                 							</div>
+                 							
+                     						
+                 							<div    style="overflow:auto;"  data-ng-repeat="d in details"  md-no-cache="true">
+                     						 
+                     						
+                     						<label class="radio-inline"><input  name="schemeCode"  id="schemeCode{{d.id}}"
+											type="radio" value="{{d.schemeid}}"  />&nbsp;&nbsp;{{d.schemeName}}</label>
+                 							
+											
+                 							
+                 							</div>
+                    						
+			</div> <!-- card-body.// -->
+		
+	</article> 
+	
+	
+	<article class="card-group-item hidden"  >
+		<header class="card-header  collapsed" data-toggle="collapse" href="#dateFilter" >
+			<h6 class="title">Date Wise <span class="badge  bg-success cursor-pointer float-right" data-toggle="tooltip" title="" data-original-title="Click here to view details">
+												<i class="fa fa-plus"></i>
+		</span></h6>
+		</header>
+		
+			<div class="filter-content card-body  collapse" id="dateFilter" style="max-height:250px;overflow-y:auto;">
+				
+				
+				<div class="form-group row" id="dateRangeDiv"  >
+									
+									<div class="col-sm-12">
+										<div class="form-check-inline" style="WIDTH: auto; display: inline-block;">
+  											<label class="form-check-label">	
+												<input id="till" name="searchResultType" data-ng-model="searchResultType" data-ng-click="SearchResultType(searchResultType);" class="form-check-input" type="radio" value="till"/> Till
+											</label>	
+										</div>	
+										<div class="form-check-inline" style="WIDTH: auto; display: inline-block;">
+  											<label class="form-check-label">	
+												<input id="of" name="searchResultType" data-ng-model="searchResultType" checked="checked" data-ng-click="SearchResultType(searchResultType);" class="form-check-input" type="radio" value="of"/> Of
+											</label>	
+										</div>	
+									</div>
+									<div class="errored" id="sumReport_error">This Field Is Required </div>
+								</div>
+								
+								
+								
+								<div class="form-group row hidden" id="datesRangeDiv1" >
+									<div class="col-sm-12 text-left">
+										<label class="control-label mandatory">From Date</label>
+									</div>
+									<div class="col-sm-12">
+										<div class="input-group mb-3">
+											<div class="input-group-prepend">
+	                                             <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+	                                        </div>
+	                                        <input id="fromDate" name="fromDate" type="text" class="form-control" onchange="validateDate(&#39;F&#39;)" readonly="readonly" value=""/>
+	                                    </div>
+									</div>
+									<div class="errored" id="fromDate_error">This Field Is Required</div>
+									<div class="errored" id="fromDate_error1">
+										Entered date is greater than current date
+									</div>
+								</div>
+								
+								
+								<div class="form-group row hidden" id="datesRangeDiv2" >
+									<div class="col-sm-12 text-left">
+										<label class="control-label mandatory">To Date</label>
+									</div>
+									<div class="col-sm-12">
+										<div class="input-group mb-3">
+											<div class="input-group-prepend">
+	                                             <span class="input-group-text"><i class="fa fa-calendar"></i></span>
+	                                        </div>
+	                                        <input id="toDate" name="toDate" type="text" class="form-control" onchange="validateDate(&#39;T&#39;)" readonly="readonly" value=""/>
+	                                    </div>
+									</div>
+									<div class="errored" id="toDate_error">This Field Is Required</div>
+									<div class="errored" id="toDate_error1">To Date must be equal or greater than From date</div>
+									<div class="errored" id="toDate_error2">From Date and To date should not have more than 30 days difference</div>
+									<div class="errored" id="toDate_error3">
+										Entered date is greater than current date
+									</div>
+								</div>
+				
+			</div> <!-- card-body.// -->
+		
+	</article> 
+	
+	
+	<!-- card-group-item.// -->
+	<p class="mx-auto my-3"><a type="button" id="saveId" class="btn btn-success btn-sm" data-ng-click="submitFilter()" style="color:#fff;">
+					            	<i class="fa fa-filter"></i> <span>Apply Filter</span>
+					            </a>
+	</p>
+</div> <!-- card.// -->
+
+
+
+
+	</aside> <!-- col.// -->
+		</div>	
+			
+			
+			
+			<div class="col-9" id="full-page">
+			<input type="hidden" value="2026-2027" name="currentYear" id="currentYear"/>
+			<div id="collapse-progress" class="collapse-div collapse-div-1">
+				<nav>
+				    <ul class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+				        <a id="togglebtn" class="p-3 bg-dark text-white" data-ng-click="fullpage(stateCode, yearCheck)"><i class="fa fa-bars"></i></a>
+				        <li class="active" id="liHome">
+				            <a class="nav-item nav-link" data-ng-click="showFilter(1)" id="nav-home-tab" data-toggle="tab" 
+				            data-target="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
+				        </li>
+				        <li id="liData1">
+				            <a class="nav-item nav-link" data-ng-click="showFilter(4)" id="nav-data-tab1" data-toggle="tab" 
+				            data-target="#nav-data1" role="tab" aria-controls="nav-data1" aria-selected="false">Transaction Statistics</a>
+				        </li>
+				       
+				        
+				         <li id="liData">
+				            <a class="nav-item nav-link" data-ng-click="showFilter(2)" id="nav-data-tab" data-toggle="tab" 
+				            data-target="#nav-data" role="tab" aria-controls="nav-data" aria-selected="false">Online Transaction Statistics</a>
+				        </li>
+				        <li id="liPerformance">
+				            <a class="nav-item nav-link" data-ng-click="showFilter(3)" id="nav-performance-tab" data-toggle="tab" 
+				            data-target="#nav-performance" role="tab" aria-controls="nav-performance" aria-selected="false">Online Pending Statistics</a>
+				        </li>
+				        
+				        <li id="liPerformance6">
+				        
+				        	<a href="ffcSectorWiseExpenditure.do" alt="#" title="Click Here" target="_blank" class="nav-item nav-link"> Scheme Component Expenditure Report</a>  
+				            
+				        </li>
+				        
+				         <li id="liPerformance7">
+				        
+				        	<a href="paymentReport.do" alt="#" title="Click Here" target="_blank" class="nav-item nav-link"> Online Payment Status Report</a>  
+				            
+				        </li>
+				        
+				        <li id="liPerformance8">
+				        
+				        	<a href="SectorWiseAnalysis.do" alt="#" title="Click Here" target="_blank" class="nav-item nav-link">Sector Wise Dash Board</a>  
+				            
+				        </li>
+				        
+				        <li id="liPerformance9">
+				        
+				        	<a href="dashBoardAnalysis.do" alt="#" title="Click Here" target="_blank" class="nav-item nav-link">Planning & Reporting Dashboard</a>  
+				            
+				        </li>
+
+						<li id="liPerformance10">
+				        
+				        	<a href="maSurveyData.do" alt="#" title="Click Here" target="_blank" class="nav-item nav-link">Panchayat Decision Support System (PDSS)</a>  
+				            
+				        </li>
+				        
+				       
+
+				        
+				    </ul>
+				
+				</nav>
+							</div>
+							<div class="tab-content w-100" style="overflow-y:auto;">
+								
+	<div class="tab-pane active show" id="nav-home"  role="tabpanel">
+														
+														
+														
+														<div class="row">
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-info">
+																	<div class="inner">
+																	<h3 data-ng-bind="totalPanchayatoff"></h3>
+																		
+																		<!-- <a href="registrationVpReport.do" target="_blank" 
+																		style="font-size:10px;color:white;font-family:verdana"> -->
+																			<p class="text-white">No. of PRIs Onboard Till Date</p> 
+                     													<!-- </a> -->
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-user-plus"></i>
+								                                    </div>
+																</div>
+															</div>
+															
+															
+															
+															
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-success">
+																	<div class="inner">
+																		<h3 data-ng-bind="totalPanchayat"></h3>
+																		<a href="registrationVpReport.do" target="_blank" 
+																		style="font-size:10px;color:white;font-family:verdana">
+																			<p>No. of PRIs Registered on eGS-PFMS</p> 
+                     													</a>
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-user-plus"></i>
+								                                    </div>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-primary">
+																	<div class="inner">
+																		<h3 data-ng-bind="totalPriCount"></h3>
+																		<a href="registrationVpReport.do" target="_blank" 
+																		style="font-size:10px;color:white;font-family:verdana">
+																			<p>No. of PRIs Onboard on eGS-PFMS</p> 
+                   														</a> 
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-bar-chart"></i>
+								                                    </div>
+																</div>
+															</div>
+															
+															
+															
+														</div>
+														
+														
+														
+														
+														<div class="row">
+															
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-danger">
+																	<div class="inner">
+																		<h3 data-ng-bind="totalOnlinePriPv"></h3>
+																		<p class="text-white">No. of PRIs with Online Payment on eGS-PFMS ({{yearValue}})</p>
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-money"></i>
+								                                    </div>
+																</div>
+															</div>
+															
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-secondary">
+																	<div class="inner">
+																	 <h3 data-ng-bind="initiatedAmountNew"> </h3>
+																	<p class="text-white">Total Payment Initiated Till Date (in Cr.) ({{yearValue}})</p>
+																		
+																		
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-bar-chart"></i>
+								                                    </div>
+																</div>
+															</div>
+															<div class="col-12 col-lg-4">
+																<div class="small-box bg-success"  >
+																	<div class="inner">
+																		<h3 data-ng-bind="approvedAmountNew"> Cr. </h3>
+																		
+																		
+																		<p class="text-white">Total Payment Approved Till Date (in Cr.) ({{yearValue}})</p>
+																		
+																	</div>
+																	<div class="icon">
+								                                        <i class="fa fa-money"></i>
+								                                    </div>
+																</div>
+															</div>
+														</div>
+														
+														
+														
+														
+														
+														
+														
+													</div> 
+								<div class="tab-pane" id="nav-data"  role="tabpanel">
+									
+														<div class="row">
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>DSC Registration Status</label>
+																			<a href ="dscRegistration.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div id="dscRegistrationGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Vendor Registration Status</label>
+																			 <a href ="vendorRegistration.do?finYear={{yearValue}}" target="_blank" 
+																			class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div class="text-right">
+																				<label class="control-label">
+																					Total Vendor Registered: {{vendorRegData.totaVenReg}} 
+																				</label>
+																			</div>
+																			<div id="vendorRegistrationGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														<div class="row">	
+																<div class="col-12 col-lg-6 hidden" >
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Sector Wise Expenditure</label>
+																			<!-- <a href ="expenditureReport.do" target="_blank" 
+																			class="float-right">View Details</a> -->
+																		</div>
+																		<div class="box-body">
+																			<div class="text-right">
+																				<label class="control-label">
+																					Total Expenditure: {{sectorExpData.totalSectorExp}} 
+																				</label>
+																			</div>
+																			<div id="sectorExpGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Payment Status</label>
+																			 <a href ="paymentStatusReport.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div id="paymentStatusGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														<div class="row">	
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Expenditure Status</label>
+																			 <a href ="paymentStatusReport.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div id="expenditureStatusGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Yesterdays Payment Status</label>
+																			 <a href ="todayPaymentStatusReport.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" 
+																			target="_blank" class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div id="todayPaymentStatusGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+													 </div>
+									<div class="tab-pane" id="nav-performance" role="tabpanel" >
+									
+														<div class="row">
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Pending ePOs Status at PFMS For Response</label>
+																			 <a href="pendingFtoAtBank.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div id="pendingFtoBankGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Pending ePOs Status at PFMS For Acknowledgement</label>
+																			 <a href="pendingFtoAtPFMS.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div id="pendingFtoPfmsGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														<div class="row">	
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Pending Vendors Status at PFMS</label>
+																			 <a href="pendingVendorAtPFMS.do?finYear={{yearValue}}" target="_blank" 
+																			class="float-right">View Details</a> 
+																		</div>
+																		<div class="box-body">
+																			<div id="pendingVendorPfmsGraph" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Pending DSC Status at PFMS</label> 
+																			<a href="pendingDSCAtPFMS.do?finYear={{yearValue}}"
+													                           target="_blank" class="float-right">View Details</a>
+											                            </div>
+											                            <div class="box-body">
+												                             <div id="pendingDSCPfmsGraph" class="graph"></div>
+											                             </div>
+										                             </div>
+									                             </div>
+																
+														</div>
+													
+									</div>
+									
+									
+									<div class="tab-pane" id="nav-data1"  role="tabpanel">
+									
+														<div class="row">
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Voucher Count statistics-Till Date</label>
+																			<a href ="tillVoucherCountStats.do?finYear={{yearValue}}&stateId={{stateCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div id="curve_chart" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Voucher Count statistics-Today</label>
+																			          
+																		</div>
+																		<div class="box-body">
+																			<div class="text-right">
+																				<label class="control-label">
+																					
+																				</label>
+																			</div>
+																			<div id="curve_chartToday" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														<div class="row">	
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Book Of Accounts Status</label>
+																			<a href ="bookOfAccount.do?finYear={{yearValue}}&stateId={{stateCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div class="text-right">
+																				<label class="control-label">
+																					
+																				</label>
+																			</div>
+																			<div id="chart_bar" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Receipt And Expenditure Status</label>
+																			<a href ="viewRnEstatus.do?finYear={{yearValue}}&stateId={{stateCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div id="chart_area" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														<div class="row">	
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Performing/Non-Performing Zilla Panchayats</label>
+																			<a href ="#" target="_blank" 
+																			class="float-right"></a>
+																		</div>
+																		<div class="box-body">
+																			<div id="donut_singleZP" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Performing/Non-Performing Block Panchayats</label>
+																			
+																		</div>
+																		<div class="box-body">
+																			<div id="donut_singleBP" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+														</div>
+														
+														
+														
+														
+														<div class="row">	
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Performing/Non-Performing Village Panchayats</label>
+																			<a href ="#" target="_blank" 
+																			class="float-right"></a>
+																		</div>
+																		<div class="box-body">
+																			<div id="donut_singleVP" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																
+														</div>
+														
+														
+													 </div>
+													 
+													 <div class="tab-pane" id="nav-performance1" role="tabpanel" >
+									
+														<div class="row">
+																<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Scheme Wise Receipt And Expenditure Statistics</label>
+																			<a href ="schemeWiseReceiptStats.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																		</div>
+																		<div class="box-body">
+																			<div id="piechart" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																
+																
+																	<div class="col-12 col-lg-6">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Sector Wise Expenditure</label>
+																			<a href ="sectorReport.do?finYear={{yearValue}}&stateId={{stateCode}}&schemeCode={{schemeCode}}" target="_blank" 
+																			class="float-right">View Details</a>
+																			
+																		</div>
+																		<div class="box-body">
+																			
+																			<div id="workChart" class="graph"></div>
+																		</div>
+																	</div>
+																
+																</div>
+																
+																
+																
+																
+														</div>
+														
+														<div class="row">
+																
+																
+																<div class="col-12 col-lg-6">
+																<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Fund Utilization</label>
+																			
+																		</div>
+																		<div class="box-body">
+																			<div id="Fund_Chart" class="graph"></div>
+																		</div>
+																	</div>
+																
+																</div>
+																
+														</div>
+														
+														
+														<div class="row">	
+																
+																
+																<div class="col-12 col-lg-12">
+																	<div class="box box-solid">
+																		<div class="box-header">
+																			<label>Receipts & Expenditure</label>
+																			
+																		</div>
+																		<div class="box-body">
+																			<div id="Bar_ChartPer" class="graph"></div>
+																		</div>
+																	</div>
+																</div>
+																
+																
+														</div>
+													
+									</div>
+									</div>
+			
+			</div><!--/.tab-content  --></div><!-- col-9 -->
+	</div><!-- row.// -->
+
+		</section>
+		
+		</form>	
+	</body>
+	<script type="text/javascript" src="/resources/plugins/angular/angular.min.js"></script>
+	<script type="text/javascript" src="/resources/plugins/angular/angular-filter.min.js"></script>
+	<script type="text/javascript" src="/resources/plugins/echart/echarts.min.js"></script>
+	<script type="text/javascript" src="/resources/priasoft/js/pfmsDashboard/pfmsDashboard-controller.js"></script>
+	<script type="text/javascript" src="/resources/priasoft/js/pfmsDashboard/pfmsDashboard-service.js"></script>
+	<script type="text/javascript" src="/resources/priasoft/js/pfmsDashboard/pfmsDashboard-model.js"></script>
+	
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	
+	
+	<script type="text/javascript">
+	
+	google.charts.load('upcoming', {'packages': ['geomap','gauge','corechart', 'bar']});
+	  //google.charts.setOnLoadCallback(drawMap);
+	
+	 
+	 
+	 
+	 
+	  function drawChartBOA() {
+      // Create the data table.
+      var data = new google.visualization.DataTable();
+      data.addColumn('string', 'States');
+      data.addColumn('number', '');
+      
+      
+      
+      
+      var activePRITot=(parseFloat(document.getElementById("activePRITot").value)).toFixed(3);
+      var dayBookClosedTot=(parseFloat(document.getElementById("dayBookClosedTot").value)).toFixed(3);
+      var monthBookClosedTot=(parseFloat(document.getElementById("monthBookClosedTot").value)).toFixed(3);
+      var yearBookClosedTot=(parseFloat(document.getElementById("yearBookClosedTot").value)).toFixed(3);
+      
+      data.addRows([
+        ['Total Active PRI',parseFloat(activePRITot)],
+        ['Day Book Closed', parseFloat(dayBookClosedTot)],
+        ['Month Book Closed',parseFloat(monthBookClosedTot)],
+        ['Year Book Closed', parseFloat(yearBookClosedTot)]
+      ]);
+
+      // Set chart options
+      var options = {'title':'Book Of Accounts ',
+                     'width':400,
+                     'height':250,
+                     'left':400,
+                     'top':250,
+                     hAxis: {
+                       
+                         minValue: 0,
+                         slantedText:true,
+                          slantedTextAngle:20
+                       },  vAxis: {
+                           title: 'PRI Count'
+                       }, legend : {
+     						position: 'right', 
+      						textStyle: {color: 'black', fontSize: 8},
+      						text:'PRI Count'
+      					} };
+
+      // Instantiate and draw our chart, passing in some options.
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_bar'));
+     
+      chart.draw(data, options);
+      
+      
+     
+  		
+  		var centerScheme=(parseFloat(document.getElementById("centerScheme").value)).toFixed(3);
+		var stateScheme=(parseFloat(document.getElementById("stateScheme").value)).toFixed(3);
+		var otherResource=(parseFloat(document.getElementById("otherResource").value)).toFixed(3);
+		
+		
+		var centerexpScheme=(parseFloat(document.getElementById("centerexpScheme").value)).toFixed(3);
+		var stateexpScheme=(parseFloat(document.getElementById("stateexpScheme").value)).toFixed(3);
+		var otherexpResource=(parseFloat(document.getElementById("otherexpResource").value)).toFixed(3);
+		
+		var totalfund=parseFloat(centerScheme)+parseFloat(stateScheme)+parseFloat(otherResource);
+		
+		centerScheme=parseFloat(parseFloat(centerScheme)/10000000).toFixed(3);
+		stateScheme=parseFloat(parseFloat(stateScheme)/10000000).toFixed(3);
+		otherResource=parseFloat(parseFloat(otherResource)/10000000).toFixed(3);
+		
+		
+		centerexpScheme=parseFloat(parseFloat(centerexpScheme)/10000000).toFixed(3);
+		stateexpScheme=parseFloat(parseFloat(stateexpScheme)/10000000).toFixed(3);
+		otherexpResource=parseFloat(parseFloat(otherexpResource)/10000000).toFixed(3);
+		
+		
+		totalfund=parseFloat(parseFloat(totalfund)/10000000).toFixed(3);
+		
+		
+		 var data2 = google.visualization.arrayToDataTable([
+             ['Total Amount', 'Receipt Amount ', 'Payment Amount'],
+             ['Centre Schemes ',  parseFloat(centerScheme), parseFloat(centerexpScheme)],
+             ['State Schemes',  parseFloat(stateScheme), parseFloat(stateexpScheme) ],
+             ['Other Resources',  parseFloat(otherResource), parseFloat(otherexpResource) ] ]);
+
+var options = {
+title : 'Voucher Count statistics - Till Date',
+vAxis: {title: ' Count'},
+hAxis: {slantedText:true,
+slantedTextAngle:21},
+seriesType: 'bars',
+series: {5: {type: 'line'}},
+isStacked: true,
+
+legend : {
+position: 'right', 
+textStyle: {color: 'black', fontSize: 8},
+minLines: 3
+},
+'width':400,
+'height':250
+};
+
+var chart2 = new google.visualization.ComboChart(document.getElementById('piechart'));
+chart2.draw(data2, options);
+
+
+
+
+var focus1=(parseFloat(document.getElementById("focus1").value)).toFixed(3);
+focus1=parseFloat(parseFloat(focus1)/10000000).toFixed(3);
+
+var focus2=(parseFloat(document.getElementById("focus2").value)).toFixed(3);
+focus2=parseFloat(parseFloat(focus2)/10000000).toFixed(3);
+
+var focus3=(parseFloat(document.getElementById("focus3").value)).toFixed(3);
+focus3=parseFloat(parseFloat(focus3)/10000000).toFixed(3);
+
+var focus4=(parseFloat(document.getElementById("focus4").value)).toFixed(3);
+focus4=parseFloat(parseFloat(focus4)/10000000).toFixed(3);
+
+var focus5=(parseFloat(document.getElementById("focus5").value)).toFixed(3);
+focus5=parseFloat(parseFloat(focus5)/10000000).toFixed(3);
+
+var focus6=(parseFloat(document.getElementById("focus6").value)).toFixed(3);
+focus6=parseFloat(parseFloat(focus6)/10000000).toFixed(3);
+
+var focus7=(parseFloat(document.getElementById("focus7").value)).toFixed(3);
+focus7=parseFloat(parseFloat(focus7)/10000000).toFixed(3);
+
+var focus8=(parseFloat(document.getElementById("focus8").value)).toFixed(3);
+focus8=parseFloat(parseFloat(focus8)/10000000).toFixed(3);
+
+var focus9=(parseFloat(document.getElementById("focus9").value)).toFixed(3);
+focus9=parseFloat(parseFloat(focus9)/10000000).toFixed(3);
+
+var focus10=(parseFloat(document.getElementById("focus10").value)).toFixed(3);
+focus10=parseFloat(parseFloat(focus10)/10000000).toFixed(3);
+
+var focus11=(parseFloat(document.getElementById("focus11").value)).toFixed(3);
+focus11=parseFloat(parseFloat(focus11)/10000000).toFixed(3);
+
+var focus12=(parseFloat(document.getElementById("focus12").value)).toFixed(3);
+focus12=parseFloat(parseFloat(focus12)/10000000).toFixed(3);
+
+var focus13=(parseFloat(document.getElementById("focus13").value)).toFixed(3);
+focus13=parseFloat(parseFloat(focus13)/10000000).toFixed(3);
+
+var focus14=(parseFloat(document.getElementById("focus14").value)).toFixed(3);
+focus14=parseFloat(parseFloat(focus14)/10000000).toFixed(3);
+
+var focus15=(parseFloat(document.getElementById("focus15").value)).toFixed(3);
+focus15=parseFloat(parseFloat(focus15)/10000000).toFixed(3);
+
+var focus16=(parseFloat(document.getElementById("focus16").value)).toFixed(3);
+focus16=parseFloat(parseFloat(focus16)/10000000).toFixed(3);
+
+var focus17=(parseFloat(document.getElementById("focus17").value)).toFixed(3);
+focus17=parseFloat(parseFloat(focus17)/10000000).toFixed(3);
+
+var focus18=(parseFloat(document.getElementById("focus18").value)).toFixed(3);
+focus18=parseFloat(parseFloat(focus18)/10000000).toFixed(3);
+
+var focus19=(parseFloat(document.getElementById("focus19").value)).toFixed(3);
+focus19=parseFloat(parseFloat(focus19)/10000000).toFixed(3);
+
+var focus20=(parseFloat(document.getElementById("focus20").value)).toFixed(3);
+focus20=parseFloat(parseFloat(focus20)/10000000).toFixed(3);
+
+var focus21=(parseFloat(document.getElementById("focus21").value)).toFixed(3);
+focus21=parseFloat(parseFloat(focus21)/10000000).toFixed(3);
+
+var focus22=(parseFloat(document.getElementById("focus22").value)).toFixed(3);
+focus22=parseFloat(parseFloat(focus22)/10000000).toFixed(3);
+
+var focus23=(parseFloat(document.getElementById("focus23").value)).toFixed(3);
+focus23=parseFloat(parseFloat(focus23)/10000000).toFixed(3);
+
+var focus24=(parseFloat(document.getElementById("focus24").value)).toFixed(3);
+focus24=parseFloat(parseFloat(focus24)/10000000).toFixed(3);
+
+var focus25=(parseFloat(document.getElementById("focus25").value)).toFixed(3);
+focus25=parseFloat(parseFloat(focus25)/10000000).toFixed(3);
+
+var focus26=(parseFloat(document.getElementById("focus26").value)).toFixed(3);
+focus26=parseFloat(parseFloat(focus26)/10000000).toFixed(3);
+
+var focus27=(parseFloat(document.getElementById("focus27").value)).toFixed(3);
+focus27=parseFloat(parseFloat(focus27)/10000000).toFixed(3);
+
+var focus28=(parseFloat(document.getElementById("focus28").value)).toFixed(3);
+focus28=parseFloat(parseFloat(focus28)/10000000).toFixed(3);
+
+var focus29=(parseFloat(document.getElementById("focus29").value)).toFixed(3);
+focus29=parseFloat(parseFloat(focus29)/10000000).toFixed(3);
+
+var focus30=(parseFloat(document.getElementById("focus20").value)).toFixed(3);
+focus30=parseFloat(parseFloat(focus30)/10000000).toFixed(3);
+
+var focus31=(parseFloat(document.getElementById("focus31").value)).toFixed(3);
+focus31=parseFloat(parseFloat(focus31)/10000000).toFixed(3);
+
+var focus32=(parseFloat(document.getElementById("focus32").value)).toFixed(3);
+focus32=parseFloat(parseFloat(focus32)/10000000).toFixed(3);
+
+var focus33=(parseFloat(document.getElementById("focus33").value)).toFixed(3);
+focus33=parseFloat(parseFloat(focus33)/10000000).toFixed(3);
+
+
+				var dataWork = google.visualization.arrayToDataTable([
+						[ 'Focus Area', 'Expenditure' ],
+						
+						
+						['Administrative & Technical Support',parseFloat(focus1)],
+						['Adult and non-formal education',parseFloat(focus2)],
+						['Agriculture',parseFloat(focus3)],
+						['Animal husbandry',parseFloat(focus4)],
+						['Cultural activities',parseFloat(focus5)],
+						['Drinking water',parseFloat(focus6)],
+						['Education',parseFloat(focus7)],
+						['Family welfare',parseFloat(focus8)],
+						['Fisheries',parseFloat(focus9)],
+						['Fuel and fodder',parseFloat(focus10)],
+						['GP Office Infrastructure',parseFloat(focus11)],
+						['Health',parseFloat(focus12)],
+						['Khadi',parseFloat(focus13)],
+						['Land improvement',parseFloat(focus14)],
+						['Libraries',parseFloat(focus15)],
+						['Maintenance of community system',parseFloat(focus16)],
+						['Markets and fairs',parseFloat(focus17)],
+						['Minor forest produce',parseFloat(focus18)],
+						['Non-conventional energy sources',parseFloat(focus19)],
+						['Poverty allevation programme',parseFloat(focus20)],
+						['Public distribution system',parseFloat(focus21)],
+						['Roads',parseFloat(focus22)],
+						['Rural electrification',parseFloat(focus23)],
+						['Rural housing',parseFloat(focus24)],
+						['Sanitation',parseFloat(focus25)],
+						['Small-scale industries',parseFloat(focus26)],
+						['Social forestry and farm forestry',parseFloat(focus27)],
+						['Social welfare',parseFloat(focus28)],
+						['Technical training and vocational education',parseFloat(focus29)],
+						['Tribal Welfare',parseFloat(focus30)],
+						['Water Conservation',parseFloat(focus31)],
+						['Welfare of the weaker sections',parseFloat(focus32)],
+						['Women and child development',parseFloat(focus33)],
+
+						
+						
+						
+						
+				        
+				        ]);
+				      
+				
+				
+				var optionsWork = {
+				title : 'Expenditure Booked under various Sectors',
+				chartArea: {
+				left: "3%",
+				top: "3%",
+				height: "100%",
+				width: "100%"
+				}
+				};
+				
+				var chartWork = new google.visualization.PieChart(document.getElementById('workChart'));
+				
+				chartWork.draw(dataWork, optionsWork);	 
+				      
+  }
+	 
+	  
+	  function piechartPie() {
+			 var myChart = echarts.init(document.getElementById('piechart'));
+			 
+			 
+			 var focus1=(parseFloat(document.getElementById("focus1").value)).toFixed(3);
+			 focus1=parseFloat(parseFloat(focus1)/10000000).toFixed(3);
+			
+			 var focus2=(parseFloat(document.getElementById("focus2").value)).toFixed(3);
+			 focus2=parseFloat(parseFloat(focus2)/10000000).toFixed(3);
+			 
+			 var focus3=(parseFloat(document.getElementById("focus3").value)).toFixed(3);
+			 focus3=parseFloat(parseFloat(focus3)/10000000).toFixed(3);
+			 
+			 var focus4=(parseFloat(document.getElementById("focus4").value)).toFixed(3);
+			 focus4=parseFloat(parseFloat(focus4)/10000000).toFixed(3);
+			 
+			 var focus5=(parseFloat(document.getElementById("focus5").value)).toFixed(3);
+			 focus5=parseFloat(parseFloat(focus5)/10000000).toFixed(3);
+			
+			 var focus6=(parseFloat(document.getElementById("focus6").value)).toFixed(3);
+			 focus6=parseFloat(parseFloat(focus6)/10000000).toFixed(3);
+			 
+			 var focus7=(parseFloat(document.getElementById("focus7").value)).toFixed(3);
+			 focus7=parseFloat(parseFloat(focus7)/10000000).toFixed(3);
+			 
+			 var focus8=(parseFloat(document.getElementById("focus8").value)).toFixed(3);
+			 focus8=parseFloat(parseFloat(focus8)/10000000).toFixed(3);
+			 
+			 var focus9=(parseFloat(document.getElementById("focus9").value)).toFixed(3);
+			 focus9=parseFloat(parseFloat(focus9)/10000000).toFixed(3);
+			
+			 var focus10=(parseFloat(document.getElementById("focus10").value)).toFixed(3);
+			 focus10=parseFloat(parseFloat(focus10)/10000000).toFixed(3);
+			 
+			 var focus11=(parseFloat(document.getElementById("focus11").value)).toFixed(3);
+			 focus11=parseFloat(parseFloat(focus11)/10000000).toFixed(3);
+			 
+			 var focus12=(parseFloat(document.getElementById("focus12").value)).toFixed(3);
+			 focus12=parseFloat(parseFloat(focus12)/10000000).toFixed(3);
+			 
+			 var focus13=(parseFloat(document.getElementById("focus13").value)).toFixed(3);
+			 focus13=parseFloat(parseFloat(focus13)/10000000).toFixed(3);
+			 
+			 var focus14=(parseFloat(document.getElementById("focus14").value)).toFixed(3);
+			 focus14=parseFloat(parseFloat(focus14)/10000000).toFixed(3);
+			 
+			 var focus15=(parseFloat(document.getElementById("focus15").value)).toFixed(3);
+			 focus15=parseFloat(parseFloat(focus15)/10000000).toFixed(3);
+			 
+			 var focus16=(parseFloat(document.getElementById("focus16").value)).toFixed(3);
+			 focus16=parseFloat(parseFloat(focus16)/10000000).toFixed(3);
+			 
+			 var focus17=(parseFloat(document.getElementById("focus17").value)).toFixed(3);
+			 focus17=parseFloat(parseFloat(focus17)/10000000).toFixed(3);
+			 
+			 var focus18=(parseFloat(document.getElementById("focus18").value)).toFixed(3);
+			 focus18=parseFloat(parseFloat(focus18)/10000000).toFixed(3);
+			 
+			 var focus19=(parseFloat(document.getElementById("focus19").value)).toFixed(3);
+			 focus19=parseFloat(parseFloat(focus19)/10000000).toFixed(3);
+			 
+			 var focus20=(parseFloat(document.getElementById("focus20").value)).toFixed(3);
+			 focus20=parseFloat(parseFloat(focus20)/10000000).toFixed(3);
+			 
+			 var focus21=(parseFloat(document.getElementById("focus21").value)).toFixed(3);
+			 focus21=parseFloat(parseFloat(focus21)/10000000).toFixed(3);
+			 
+			 var focus22=(parseFloat(document.getElementById("focus22").value)).toFixed(3);
+			 focus22=parseFloat(parseFloat(focus22)/10000000).toFixed(3);
+			 
+			 var focus23=(parseFloat(document.getElementById("focus23").value)).toFixed(3);
+			 focus23=parseFloat(parseFloat(focus23)/10000000).toFixed(3);
+			 
+			 var focus24=(parseFloat(document.getElementById("focus24").value)).toFixed(3);
+			 focus24=parseFloat(parseFloat(focus24)/10000000).toFixed(3);
+			 
+			 var focus25=(parseFloat(document.getElementById("focus25").value)).toFixed(3);
+			 focus25=parseFloat(parseFloat(focus25)/10000000).toFixed(3);
+			 
+			 var focus26=(parseFloat(document.getElementById("focus26").value)).toFixed(3);
+			 focus26=parseFloat(parseFloat(focus26)/10000000).toFixed(3);
+			 
+			 var focus27=(parseFloat(document.getElementById("focus27").value)).toFixed(3);
+			 focus27=parseFloat(parseFloat(focus27)/10000000).toFixed(3);
+			 
+			 var focus28=(parseFloat(document.getElementById("focus28").value)).toFixed(3);
+			 focus28=parseFloat(parseFloat(focus28)/10000000).toFixed(3);
+			 
+			 var focus29=(parseFloat(document.getElementById("focus29").value)).toFixed(3);
+			 focus29=parseFloat(parseFloat(focus29)/10000000).toFixed(3);
+			 
+			 var focus30=(parseFloat(document.getElementById("focus20").value)).toFixed(3);
+			 focus30=parseFloat(parseFloat(focus30)/10000000).toFixed(3);
+			
+			 var focus31=(parseFloat(document.getElementById("focus31").value)).toFixed(3);
+			 focus31=parseFloat(parseFloat(focus31)/10000000).toFixed(3);
+			 
+			 var focus32=(parseFloat(document.getElementById("focus32").value)).toFixed(3);
+			 focus32=parseFloat(parseFloat(focus32)/10000000).toFixed(3);
+			 
+			 var focus33=(parseFloat(document.getElementById("focus33").value)).toFixed(3);
+			 focus33=parseFloat(parseFloat(focus33)/10000000).toFixed(3);
+		     var option = {
+	 		    tooltip : {
+	 		        trigger: 'item',
+	 		        formatter: "{b}<br/><b>{c} ({d}%)</b>",
+	 		        fontSize: 10,
+	 		    },
+	 		    legend: {
+	 		        orient : 'vertical',
+	 		        y: 'top',
+	 		        x: 'left',
+	 		        //right: 15,
+	 		        data: ["Approved", "Pending", "Rejected"]
+	 		    },
+	 		    calculable : true,
+	 		    itemStyle: {
+		           	normal: {
+		           		color: function (data) {
+		           			var colorList = ['Green', '#f9881e', '#DE3812'];
+		           			return colorList[data.dataIndex]
+		           		},
+		           		borderColor: '#ffffff',
+		           	},
+	 		   	},
+	      		//top: 40,
+	 		    series : [
+	 		        {
+	 		        	type: 'pie',
+	 		            radius : ['50%', '70%'],
+	 		            center: ['60%', '55%'],
+	 		            data: [
+		                  
+		                   
+		                   {name: 'Administrative & Technical Support',value: focus1},
+							{name: 'Adult and non-formal education',value: focus2},
+							{name: 'Agriculture',value:focus3},
+							{name: 'Animal husbandry',value: focus4},
+							{name: 'Cultural activities',value: focus5},
+							{name: 'Drinking water',value: focus6},
+							{name: 'Education',value: focus7},
+							{name: 'Family welfare',value: focus8},
+							{name: 'Fisheries',value: focus9},
+							{name: 'Fuel and fodder',value: focus10},
+							{name: 'GP Office Infrastructure',value: focus11},
+							{name: 'Health',value: focus12},
+							{name: 'Khadi',value: focus13},
+							{name: 'Land improvement',value: focus14},
+							{name: 'Libraries',value: focus15},
+							{name: 'Maintenance of community system',value: focus16},
+							{name: 'Markets and fairs',value: focus17},
+							{name: 'Minor forest produce',value: focus18},
+							{name: 'Non-conventional energy sources',value: focus19},
+							{name: 'Poverty allevation programme',value: focus20},
+							{name: 'Public distribution system',value: focus21},
+							{name: 'Roads',value: focus22},
+							{name: 'Rural electrification',value: focus23},
+							{name: 'Rural housing',value: focus24},
+							{name: 'Sanitation',value: focus25},
+							{name: 'Small-scale industries',value: focus26},
+							{name: 'Social forestry and farm forestry',value: focus27},
+							{name: 'Social welfare',value: focus28},
+							{name: 'Technical training and vocational education',value: focus29},
+							{name: 'Tribal Welfare',value: focus30},
+							{name: 'Water Conservation',value: focus31},
+							{name: 'Welfare of the weaker sections',value: focus32},
+							{name: 'Women and child development',value: focus33}, 
+		                   
+	                    ],
+						
+			    	    labelLine: {
+			               show: true
+			            },
+			            animation: false,
+			            avoidLabelOverlap: true,
+			            label:{
+					   		formatter: '{d}%',
+					   		//position: 'outside',
+			            },
+			           hoverAnimation:  false,
+			           emphasis: {
+			               label: {
+			                   show: false,
+			               }
+			           },
+	 		        }
+	 		    ]
+		     };
+		    myChart.showLoading({
+		         text : 'Loading',
+		         effect: 'whirling'
+		    });
+		    setTimeout(function (){
+		    	 myChart.hideLoading();
+		    	 myChart.setOption(option);
+		    }, 1000)
+		}
+	 
+	function drawChartVoucher() {
+		
+		google.charts.load('upcoming', {'packages': ['geomap','gauge','corechart', 'bar']});
+		
+		
+		 
+		   
+		   var pvAmountBookedTot=(parseFloat(document.getElementById("pvAmountBookedTot").value)).toFixed(3);
+		   var pvAmountFreezedTot=(parseFloat(document.getElementById("pvAmountFreezedTot").value)).toFixed(3);
+		   var rvAmountBookedTot=(parseFloat(document.getElementById("rvAmountBookedTot").value)).toFixed(3);
+		   var rvAmountFreezedTot=(parseFloat(document.getElementById("rvAmountFreezedTot").value)).toFixed(3);
+		   
+		   pvAmountBookedTot=parseFloat(parseFloat(pvAmountBookedTot)/10000000).toFixed(3);
+		   pvAmountFreezedTot=parseFloat(parseFloat(pvAmountFreezedTot)/10000000).toFixed(3);
+		   rvAmountBookedTot=parseFloat(parseFloat(rvAmountBookedTot)/10000000).toFixed(3);
+		   rvAmountFreezedTot=parseFloat(parseFloat(rvAmountFreezedTot)/10000000).toFixed(3);
+	      var data = google.visualization.arrayToDataTable([
+	        ['Voucher Type', 'BookedAmount','FreezedAmount'],
+	        ['Payments', parseFloat(pvAmountBookedTot) ,parseFloat(pvAmountFreezedTot)],
+	        ['Receipts', parseFloat(rvAmountBookedTot) ,parseFloat(rvAmountFreezedTot)]
+	      ]);
+
+	      var options = {
+	        title: 'Voucher Amounts',
+	        'width':400,  'height':250,
+	        hAxis: {title: 'Voucher Type', 
+	        titleTextStyle: {color: '#333'}},
+	        vAxis: {minValue: 0},
+	        slantedTextAngle:25,
+	        
+	      };
+
+	      var chart = new google.visualization.AreaChart(document.getElementById('chart_area'));
+	      options['vAxis']['format'] = 'long';
+	      chart.draw(data, options);
+
+	      // Some raw data (not necessarily accurate)
+	      
+	     
+						
+						
+						var pvCountBooked=(parseFloat(document.getElementById("pvCountBooked").value)).toFixed(3);
+						var rvCountBooked=(parseFloat(document.getElementById("rvCountBooked").value)).toFixed(3);
+						var cvCountBooked=(parseFloat(document.getElementById("cvCountBooked").value)).toFixed(3);
+						var jvCountBooked=(parseFloat(document.getElementById("jvCountBooked").value)).toFixed(3);
+						
+						
+						var rvCountFreezed=(parseFloat(document.getElementById("rvCountFreezed").value)).toFixed(3);
+						var pvCountFreezed=(parseFloat(document.getElementById("pvCountFreezed").value)).toFixed(3);
+						var cvCountFreezed=(parseFloat(document.getElementById("cvCountFreezed").value)).toFixed(3);
+						var jvCountFreezed=(parseFloat(document.getElementById("jvCountFreezed").value)).toFixed(3);
+						
+						
+						
+	      var data2 = google.visualization.arrayToDataTable([
+	                                                         ['Vouchers Type', 'Booked Voucher ', 'Freezed Vouchers'],
+	                                                         ['Receipt Vouchers ',  parseFloat(rvCountBooked), parseFloat(rvCountFreezed)],
+	                                                         ['Payment Vouchers',  parseFloat(pvCountBooked), parseFloat(pvCountFreezed) ],
+	                                                         ['Contra Vouchers',  parseFloat(cvCountBooked), parseFloat(cvCountFreezed) ],
+	                                                         ['Journal Vouchers',  parseFloat(jvCountBooked), parseFloat(jvCountFreezed) ]
+	       
+	    ]);
+
+	  var options = {
+	    title : 'Voucher Count statistics - Till Date',
+	    vAxis: {title: ' Count'},
+	    hAxis: {slantedText:true,
+	        slantedTextAngle:21},
+	    seriesType: 'bars',
+	    series: {5: {type: 'line'}},
+	    isStacked: true,
+	    
+	    legend : {
+			position: 'right', 
+			textStyle: {color: 'black', fontSize: 8},
+			minLines: 3
+		},
+		 'width':400,
+	     'height':250
+	  };
+
+	  var chart2 = new google.visualization.ComboChart(document.getElementById('curve_chart'));
+	  chart2.draw(data2, options);
+	  
+	  
+	  
+	  
+	  
+	  var rvCountBookedToday=(parseFloat(document.getElementById("rvCountBookedToday").value)).toFixed(3);
+		var pvCountBookedToday=(parseFloat(document.getElementById("pvCountBookedToday").value)).toFixed(3);
+		var cvCountBookedToday=(parseFloat(document.getElementById("cvCountBookedToday").value)).toFixed(3);
+		var jvCountBookedToday=(parseFloat(document.getElementById("jvCountBookedToday").value)).toFixed(3);
+		
+		
+		var rvCountFreezedToday=(parseFloat(document.getElementById("rvCountFreezedToday").value)).toFixed(3);
+		var pvCountFreezedToday=(parseFloat(document.getElementById("pvCountFreezedToday").value)).toFixed(3);
+		var cvCountFreezedToday=(parseFloat(document.getElementById("cvCountFreezedToday").value)).toFixed(3);
+		var jvCountFreezedToday=(parseFloat(document.getElementById("jvCountFreezedToday").value)).toFixed(3);
+		
+		
+	  
+	  
+	  var data3 = google.visualization.arrayToDataTable([
+	                                                     ['Vouchers Type', 'Booked Voucher ', 'Freezed Vouchers'],
+	                                                     ['Receipt Vouchers ',  parseFloat(rvCountBookedToday), parseFloat(rvCountFreezedToday)],
+	                                                     ['Payment Vouchers',  parseFloat(pvCountBookedToday), parseFloat(pvCountFreezedToday) ],
+	                                                     ['Contra Vouchers',  parseFloat(cvCountBookedToday), parseFloat(cvCountFreezedToday) ],
+	                                                     ['Journal Vouchers',  parseFloat(jvCountBookedToday), parseFloat(jvCountFreezedToday) ]
+	                                                  ]);
+
+	                                                var options3 = {
+	                                                  title : 'Voucher Count statistics - Today',
+	                                                  vAxis: {title: 'Count'},
+	                                                  hAxis: { slantedText:true,
+	                                                      slantedTextAngle:21},
+	                                                  isStacked: true,
+	                                                  seriesType: 'bars',
+	                                                  series: {5: {type: 'line'}},
+	                                                  legend : {
+	                              						position: 'right', 
+	                              						textStyle: {color: 'black', fontSize: 8}
+	                              					},
+	                              					 'width':400,
+	                                                 'height':250
+	                                                };
+
+	                                                var chart3 = new google.visualization.ComboChart(document.getElementById('curve_chartToday'));
+	                                                chart3.draw(data3, options3);
+	  
+	      
+	    
+				}
+	
+	
+	
+	
+	  
+	  function drawMeter(){
+		  
+		  
+		  
+	    
+
+		  
+		   
+		   var zpTot=(parseFloat(document.getElementById("zpTot").value)).toFixed(3);
+			var zpPerform=(parseFloat(document.getElementById("zpPerform").value)).toFixed(3);
+			var noVoucherZP=(parseFloat(document.getElementById("noVoucherZP").value)).toFixed(3);
+			
+			
+			var zpPerform2=(parseFloat(document.getElementById("zpPerform2").value)).toFixed(3);
+			var noclosedZP=(parseFloat(document.getElementById("noclosedZP").value)).toFixed(3);
+			
+			
+
+		                                                  var dataVoucherPerformance = google.visualization.arrayToDataTable([
+		                                                    ['Entity', 'TotalZP', 'Performing','Non-Performing'],
+		                                                    ['Voucher Wise', parseFloat(zpTot), parseFloat(zpPerform), parseFloat(noVoucherZP)   ],
+		                                                    ['BookClosed wise',parseFloat(zpTot),parseFloat(zpPerform2),parseFloat(noclosedZP) ]  
+		                                                  ]);
+
+		                                                  var optionsPer = {
+		                                                    chart: {
+		                                                      title: 'Performing/Non-Performing | Voucher Wise'
+		                                                    },
+		                                                    legend : {
+		                                						position: 'right', 
+		                                						textStyle: {color: 'black', fontSize: 8},
+		                                						minLines: 3
+		                                					},
+		                                                    width:380,
+		                                                    height:200,
+		                                                   
+		                                                  };
+
+		                                                  var chartPer = new google.visualization.ColumnChart(document.getElementById('donut_singleZP'));
+
+		                                                  chartPer.draw(dataVoucherPerformance, optionsPer);
+
+		                                                  
+		                                          
+		                                                  var bpTot=(parseFloat(document.getElementById("bpTot").value)).toFixed(3);
+		                                      			var bpPerform=(parseFloat(document.getElementById("bpPerform").value)).toFixed(3);
+		                                      			var noVoucherBP=(parseFloat(document.getElementById("noVoucherBP").value)).toFixed(3);
+		                                      			
+		                                      			
+		                                      			var bpPerform2=(parseFloat(document.getElementById("bpPerform2").value)).toFixed(3);
+		                                      			var noclosedBP=(parseFloat(document.getElementById("noclosedBP").value)).toFixed(3);
+		                                                  
+		                                                  
+
+		                                                  var dataVoucherPerformanceBP = google.visualization.arrayToDataTable([
+		                                                    ['Entity','Total BP', 'Performing BP', 'Non-Performing'],
+		                                                    ['Voucher Wise', parseFloat(bpTot), parseFloat(bpPerform), parseFloat(noVoucherBP)   ],
+		                                                    ['BookClosed wise',parseFloat(bpTot),parseFloat(bpPerform2),parseFloat(noclosedBP) ] 
+		                                                  ]);
+
+		                                                  var optionsPerBP = {
+		                                                    chart: {
+		                                                      title: 'Performing/Non-Performing | Voucher Wise'
+		                                                    },
+		                                                    legend : {
+		                                						position: 'right', 
+		                                						textStyle: {color: 'black', fontSize: 8},
+		                                						minLines: 3
+		                                					},
+		                                                    width:380,
+		                                                    height:200,
+		                                                  };
+		                                                  
+		                                                  
+		                                                  
+
+		                                                  var chartPerBP = new google.visualization.ColumnChart(document.getElementById('donut_singleBP'));
+
+		                                                  chartPerBP.draw(dataVoucherPerformanceBP, optionsPerBP);
+		                                                  
+		                                                  
+		                                                  var vpTot=(parseFloat(document.getElementById("vpTot").value)).toFixed(3);
+			                                      			var vpPerform=(parseFloat(document.getElementById("vpPerform").value)).toFixed(3);
+			                                      			var noVoucherVP=(parseFloat(document.getElementById("noVoucherVP").value)).toFixed(3);
+			                                      			
+			                                      			
+			                                      			var vpPerform2=(parseFloat(document.getElementById("vpPerform2").value)).toFixed(3);
+			                                      			var noclosedVP=(parseFloat(document.getElementById("noclosedVP").value)).toFixed(3);
+		                                                  
+		                                                  
+		                                                  var dataVoucherPerformanceVP = google.visualization.arrayToDataTable([
+		                                                                	                                                    ['Entity','Total VP', 'Performing VP', 'Non-Performing VP'],
+		                                                                	                                                    ['Voucher Wise', parseFloat(vpTot), parseFloat(vpPerform), parseFloat(noVoucherVP)   ],
+		                                                            		                                                    ['BookClosed wise',parseFloat(vpTot),parseFloat(vpPerform2),parseFloat(noclosedVP) ] 
+		                                                                	                                                  ]);
+
+		                                                                	                                                  var optionsPerVP = {
+		                                                                	                                                    chart: {
+		                                                                	                                                      title: 'Performing/Non-Performing | Voucher Wise',
+		                                                                	                                                      
+		                                                                	                                                    },  legend : {
+		                                                                	                                						position: 'right', 
+		                                                                	                                						textStyle: {color: 'black', fontSize: 8},
+		                                                                	                                						minLines: 3
+		                                                                	                                					},
+		                                                                	                                                    width:380,
+		                                                                	                                                    height:200,
+		                                                                	                                                 
+		                                                                	                                                    
+		                                                                	                                                  };
+
+		                                                                	                                                  var chartPerVP = new google.visualization.ColumnChart(document.getElementById('donut_singleVP'));
+
+		                                                                	                                                  chartPerVP.draw(dataVoucherPerformanceVP, optionsPerVP);    
+		                                                  
+		                                           
+		                                                  
+		                                                  
+		                                                  
+		                                             	                                              
+		                                                }
+	  
+	  
+	  
+	  function performanceData(){ 
+		  
+		  
+		         
+				
+		
+					
+
+						
+						
+							
+								var receiptsFund=(parseFloat(document.getElementById("receiptsFund").value)).toFixed(3);
+								var expenditureFund=(parseFloat(document.getElementById("expenditureFund").value)).toFixed(3);
+								var obFund=(parseFloat(document.getElementById("obFund").value)).toFixed(3);
+								
+								receiptsFund=parseFloat(parseFloat(receiptsFund)/10000000).toFixed(3);
+								expenditureFund=parseFloat(parseFloat(expenditureFund)/10000000).toFixed(3);
+								obFund=parseFloat(parseFloat(obFund)/10000000).toFixed(3);
+								
+						var data2 = google.visualization.arrayToDataTable([
+								[ 'Schemes', 'OB','Receipts', 'Expenditure' ],
+								[ 'Scheme(s)', parseFloat(obFund),parseFloat(receiptsFund), parseFloat(expenditureFund)]
+							 ]);
+
+						var options2 = {
+								'width':600,  'height':300,
+								title : 'Receipts & Expenditure',
+								bars : 'horizontal'
+						};
+						var chart2 = new google.visualization.BarChart(document.getElementById('Bar_ChartPer'));
+						chart2.draw(data2, options2);
+						
+						
+						
+						
+						
+						var fundUtilPer=document.getElementById("fundUtilPer").value;
+						
+						//alert(fundUtilPer);
+						//fundUtilPer=1;
+						
+						 var data3 = google.visualization.arrayToDataTable([
+						                                                   ['Label', 'Value'],
+						                                                   ['Fund Utilised',parseFloat(fundUtilPer)]
+						                                                 ]);
+																		
+						 var formatter = new google.visualization.NumberFormat(
+								    {suffix: '%',pattern:'#'}
+								);
+						  
+						  formatter.format(data3,1);
+
+						  
+						                                                 var options3 = {
+						                                                   width: 700, height: 180,left:142,
+						                                                   redFrom: 0, redTo: 20,
+						                                                   yellowFrom:20, yellowTo: 60,
+						                                                   greenFrom:60,greenTo:100,
+						                                                   minorTicks: 5,
+						                                                 };
+
+						                                                 var chart3 = new google.visualization.Gauge(document.getElementById('Fund_Chart'));
+						                                                 chart3.draw(data3, options3); 
+						                                                 
+	  };
+	 </script>
+	 
+	 
+	 <script type="text/javascript">
+		$('#fromDate').datepicker({
+		    format: 'dd/mm/yyyy',
+	    	widgetPositioning: {
+	        	vertical: 'bottom',
+	        }
+		});	
+		$('#toDate').datepicker({
+			format: 'dd/mm/yyyy',
+	    	widgetPositioning: {
+	        	vertical: 'bottom',
+	        }
+		});
+		
+		function validateDate(type) {
+			if(type == 'F') {
+				document.getElementById("toDate").value = '';
+			}
+			var sDate = document.getElementById("fromDate").value;
+			var eDate = document.getElementById("toDate").value;
+			var currentDate = new Date();
+			var startDate = new Date(sDate.split('/')[1] + '-' + sDate.split('/')[0] + '-' + sDate.split('/')[2]);
+			if(eDate != '') {
+			    var endDate = new Date(eDate.split('/')[1] + '-' + eDate.split('/')[0] + '-' + eDate.split('/')[2]);
+			    var dayDiff = (endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24); 
+			    if ((Date.parse(startDate) > Date.parse(endDate))) {
+			    	$("#toDate_error1").show();
+			        document.getElementById("toDate").value = "";
+			    }
+			    if(dayDiff > 30) {
+			    	$("#toDate_error2").show();
+			    	 document.getElementById("toDate").value = "";
+			    }
+			    if (endDate > currentDate) {
+			    	$("#toDate_error3").show();
+			        document.getElementById("toDate").value = "";
+			    }
+			    if ((Date.parse(startDate) <= Date.parse(endDate))) {
+			    	$("#toDate_error1").hide();
+			    }
+				if(endDate <= currentDate) {
+			    	$("#toDate_error3").hide();
+			    }
+				if(dayDiff <= 30) {
+			    	$("#toDate_error2").hide();
+			    }
+			}
+			if(startDate > currentDate) {
+		    	$("#fromDate_error1").show();
+		        document.getElementById("fromDate").value = "";
+		    } 
+			if(startDate <= currentDate) {
+		    	$("#fromDate_error1").hide();
+		    }
+		}
+	</script>
+	
+</html>
+	
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+   	<!-- <div class="container-fluid text-center">
+		<ul class="list-inline footer-link w-100">
+			<li><a href="#" role="link" style="border-left:none;">Sitemap</a></li>
+			<li><a href="#" role="link">Feedback</a></li>
+			<li><a href="#" role="link">Privacy Policy</a></li>
+			<li><a href="#" role="link">Terms &amp; Conditions</a></li>
+			<li><a href="#" role="link">Copyright</a></li>
+			<li><a href="#" role="link">Contact Us</a></li>
+	    </ul>
+	<hr>
+	</div> -->
+    
+    
+    <!-- BOTTOM BLUE BAR -->
+		<div class="sub-footer__bottom">
+		    <p class="sub-footer__text">
+		      Contents on this website are owned, updated and managed by the Panchayats
+		      and State Panchayati Raj Department as a part of e-Panchayat MMP of
+		      <strong>Ministry of Panchayati Raj (MoPR)</strong>. Site is technically
+		      designed, hosted and maintained by
+		      <strong>National Informatics Centre (NIC)</strong>.
+		    </p>
+		
+		    <div class="sub-footer__links">
+		    	<div class="footer-tnc">
+		    	 <div>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="One" onClick="allPolicies(this.id)">Privacy Policy</a>
+				      <a href="#" data-toggle="modal" data-target="#quickModal" id="Two" onClick="allPolicies(this.id)">Terms & Conditions</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Three" onClick="allPolicies(this.id)">Cookie Policy</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Four" onClick="allPolicies(this.id)">Contact</a>
+				     </div>
+				    <div class="sub-footer__right">
+				      <img src="resources/home/images/new/NIC_logo_new.svg" alt="NIC" />
+				    </div>
+		    	</div>
+		    </div>
+		  </div>
+    
+
+<div class="modal fade" id="quickModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row footer-row-padding footer-modal">
+                    <div class="col-12">
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                                <div class="card-header p-0" id="headingOne">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseOne"><i class="fa fa-plus float-right"></i>
+                                        Terms & Conditions</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">Contents on this website are owned, updated and managed by the Panchayats and State Panchayati Raj Department as a part of e-Panchayat MMP of Ministry of Panchayati Raj (MoPR),. 
+                                    	Site is technically designed, hosted and maintained by National Informatics Centre (NIC)</p>
+                                        <p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingTwo">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseTwo"><i class="fa fa-plus float-right"></i>
+                                        Privacy Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">The Government will have complete discretion to share the details of your use of the Web Site and/ or data entered by you with regulators or with any other third party, or in order to resolve disputes or complaints which relate to the Web Site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingThree">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseThree"><i class="fa fa-plus float-right"></i>
+                                        Web Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>Payment Option</strong></p>
+                                        <p class="text-jutify">The list of payment options available are internet banking /debit card payment / credit card payment from banks that are listed when selecting each of the above options. Apart from the fee chargeable to Government against each service, bank / payment gateway transaction charges will be applicable extra. In case of a failed transaction the user shall have no right to claim the amount. The loss on this account shall not be borne either by Government or by the Banks /Payment Gateways.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSeven">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSeven"><i class="fa fa-plus float-right"></i>
+                                        Copyright Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Material featured on this website may be reproduced free of charge after taking proper permission by sending a mail to us. However, the material has to be reproduced accurately and not to be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party. Authorisation to reproduce such material must be obtained from the departments/copyright holders concerned.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSix">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSix"><i class="fa fa-plus float-right"></i>
+                                        Hyperlinking Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify"><strong>Links to external websites/portals</strong></p>
+                                        <p class="text-jutify">At many places in this website, you shall find links to other websites/portals. These links have been placed for your convenience. This website is not responsible for the contents and reliability of the linked websites and does not necessarily endorse the views expressed in them. Mere presence of the link or its listing on this website should not be assumed as endorsement of any kind. We cannot guarantee that these links will work all the time and we have no control over the availability of linked pages.</p>
+                                        <p class="text-jutify"><strong>Links to this Website by other websites/portals</strong></p>
+                                        <p class="text-jutify">We do not object to linking directly to the information that is hosted on this site but it is necessary that prior permission is taken before hyperlinks are directed from any website to this site. Permission for the same, stating the nature of the content on the pages from where the link has to be given and the exact language of the hyperlink should be obtained by sending a request to 'egramswaraj[at]gov[dot]in'. Also, it is not permitted that our pages be loaded into frames on the requested site. Our Department's pages must load into a newly opened browser window of the user.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFour">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFour"><i class="fa fa-plus float-right"></i>
+                                        Contact Us</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Email at <i class="fa fa-envelope"></i> 
+                                        <em>egramswaraj[at]gov[dot]in</em></p>
+                                        <p class="text-jutify">
+                                            Ministry of Panchayati Raj<br />
+                                            Government of India<br />
+                                            Eleventh Floor, J.P. Building,<br />
+                                            Kasturba Gandhi Marg, Connaught Place,<br />
+                                            New Delhi-110001
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFive">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFive"><i class="fa fa-plus float-right"></i>
+                                        Web Information Manager</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">
+                                            Ms. Mukta Shekhar<br />
+                                            Joint Secretary<br />
+                                            <i class="fa fa-envelope"></i> <em>js2[-]mopr[at]gov[dot]in</em>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+    #quickModal .accordion .card-header .btn-link:not(.collapsed) {
+        background-color: #f9e3a1;
+    }
+    #quickModal .card-body {
+        min-height: 150px;
+        overflow-y: scroll;
+        height: 175px;
+    }
+    #myModal-popup .modal-content {
+        /*margin: auto;*/
+        display: block;
+        width: 1200px;
+        /*width: 100%;*/
+        /*max-width: 2000px;*/
+    }
+    #myModal-popup .modal-header {
+        border-bottom: 1px solid transparent;
+    }
+
+    @media screen and (max-width: 1190px) {
+        #myModal-popup .modal-content {
+            margin: auto;
+            display: block;
+            /*width: 1200px;*/
+            width: 100%;
+            max-width: 800px;
+        }
+    }
+    
+    
+
+
+
+
+
+
+
+/* footer */
+
+.sub-footer {
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* LOGO SECTION */
+.sub-footer__logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 20px;
+    background: lightblue;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.sub-footer__logos img {
+  height: 50px;
+  object-fit: contain;
+}
+
+/* BLUE SECTION */
+.sub-footer__bottom {
+    background: rgb(12, 59, 110);
+    color: #fff;
+    padding: 12px;
+    font-size: 15px;
+    height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+    display: flex;
+    flex-direction: column;    /* mobile default column */
+    align-items: center;
+    text-align: center;
+}
+
+.sub-footer__text {
+  margin-bottom: 0px;
+  line-height: 1.6;
+   max-width: 1040px;
+}
+
+.footer-tnc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+.footer-tnc a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.footer-tnc a:hover {
+  color: #007bff;
+}
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+.footer-tnc > div:first-child {
+    flex: 1;
+    display: flex;
+    justify-content: center;   /* links center me */
+    align-items: center;
+    gap: 20px;                 /* links ke beech spacing */
+}
+
+
+
+
+/* LINKS */
+.sub-footer__links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.sub-footer__links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.sub-footer__links a:hover {
+  text-decoration: underline;
+}
+
+/* RIGHT SECTION */
+.sub-footer__right {
+  display: flex;
+  justify-content: space-between;
+   justify-content: flex-end;   
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sub-footer__right img {
+  height: 55px;
+}
+
+.sub-footer__right span {
+  font-size: 14px;
+}
+
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+    
+</style>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("td").attr("tabindex","0");
+		$("th").attr("tabindex","0");
+		$(".btn").attr("tabindex","0");
+		$("a .btn").attr("tabindex","0");
+	});
+	function allPolicies(id) {
+		
+		var a = "heading";
+		var newid = a + id; 
+		$(".card-header .btn").addClass("collapsed");
+		$(".card-header .btn .fa").addClass("fa-plus").removeClass("fa-minus");
+		$(".collapse").removeClass("show");
+		$("#" + newid +"  .btn").removeClass("collapsed");
+		$("#" + newid +"  .btn .fa").removeClass("fa-plus").addClass("fa-minus");
+		$("#collapse"+id).addClass("show");
+	}
+	function changeTextSize(size) {
+      	if (size=='xx-large'){
+      		document.getElementById("maintext").style.fontSize = "xx-large";
+      	}
+      	if (size=='small'){
+      		document.getElementById("maintext").style.fontSize = "small";
+      	}
+      	if (size=='medium'){
+      		document.getElementById("maintext").style.fontSize = "medium";
+      	}
+    	
+    }
+</script>
+
+	</div>
+	</div>
+	
+	
+ <!-- #####################################Alert ############################### -->
+
+ <!-- added by shiv  -->
+ 
+ 
+ <!-- end here -->
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#formErrorDiv").append("<div class='alert alert-primary'><i class='fa fa-exclamation-circle' aria-hidden='true'></i> KPI statistics are updated through a scheduler that runs on hourly basis hence there might be a difference in the counts of both reports at a point of time.</div>");
+	$("#formErrorDiv").fadeTo(6000, 500).slideUp(500, function(){
+	    $("#formErrorDiv").slideUp(500);
+	});
+});
+</script>
+
+</body>
+</html>

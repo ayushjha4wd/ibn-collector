@@ -1,0 +1,1855 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referer" content="strict-origin-when-cross-origin" />
+<title>Geo Tagged Asset Report</title>
+<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<!-- Theme style -->
+
+<!--  Theme Skins -->
+	
+	<!-- Data Table -->
+
+
+
+<script defer src="https://egramswaraj.gov.in/pes_analytics/script.js" data-website-id="10df7fae-9459-4a49-af58-19370610e6f1"></script>
+
+</head>
+
+<body>
+	<html>
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	<head>
+		<!-- Basic -->
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<!-- Site Metas -->
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+		
+		<title>eGramSwaraj</title>
+		
+		<!-- slider stylesheet -->
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+		
+		<!-- bootstrap core css -->
+		<link rel="stylesheet" type="text/css" href="/resources/home/css/bootstrap.css" />
+		
+		<!-- fonts style -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+		<!-- Custom styles for this template -->
+		<link href="/resources/home/css/style.css" rel="stylesheet" />
+		<!-- responsive style -->
+		<link href="/resources/home/css/responsive.css" rel="stylesheet" />
+	<script src="https://translation-plugin.bhashini.co.in/v2/website_translation_utility.js" data-pos-x="5" data-pos-y="10" referer="www.egramswaraj.gov.in" referrerpolicy="strict-origin-when-cross-origin"></script>
+<style>
+
+
+/* =======================
+   HEADER
+======================= */
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 42px;
+  background: #04285b;
+  color: white;
+  height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+  min-height: 42px;          /* minimum height à¤°à¤à¥à¤ */
+}
+
+.logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+.logo:hover {
+  color: #007bff;
+}
+
+.top-links {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  flex-wrap: wrap;           /* à¤à¥à¤à¥ screen à¤ªà¤° wrap */
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: #ffffff;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.action:hover {
+  opacity: 0.85;
+}
+
+.nav-link {
+  color: #FFFFFF;
+}
+.nav-link:hover {
+  color: #007bff;
+}
+
+.action-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* =======================
+   TABLET
+======================= */
+@media (max-width: 992px) {
+  .header {
+    padding: 0 20px;
+  }
+
+  .top-links {
+    gap: 16px;
+  }
+}
+
+/* =======================
+   MOBILE
+======================= */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 15px;
+    gap: 8px;
+  }
+
+  .logo {
+    white-space: normal; /* allow wrap */
+    font-size: 12px;
+  }
+
+  .top-links {
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .action {
+    font-size: 11.5px;
+  }
+}
+
+/* =======================
+   SMALL MOBILE
+======================= */
+@media (max-width: 480px) {
+  .top-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .action {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .logo {
+    font-size: 11px;
+  }
+}
+
+
+/* ================================
+   REPORT HEADER NAVBAR
+================================ */
+.rh-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 8px 40px;
+ 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  min-height: 72px;
+  box-sizing: border-box;
+}
+
+/* ---- LEFT LOGO ---- */
+.rh-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rh-emblem {
+  width: 52px;
+  height: auto;
+  object-fit: contain;
+}
+
+.rh-brand {
+  height: 95px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RIGHT ICONS ---- */
+.rh-icons {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.rh-icon {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 768px) {
+  .rh-navbar {
+    padding: 8px 16px;
+    min-height: 60px;
+  }
+
+  .rh-emblem {
+    width: 38px;
+  }
+
+  .rh-brand {
+    height: 36px;
+  }
+
+  .rh-icon {
+    height: 32px;
+  }
+
+  .rh-icons {
+    gap: 10px;
+  }
+}
+
+
+</style>
+
+</head>
+	<body>
+		
+		
+			<header class="header">
+			  <div class="logo"><a href="welcome.do" class="logo">Government of India | Ministry of Panchayati Raj</a></div>
+			  <div class="top-links">								  
+			     <span class="action">
+			      <img src="resources/home/images/new/Maskgroup.svg" class="action-icon" alt="" />
+			      <a class="nav-link" href="screenReader.jsp" target="_parent">   Screen Reader Access </a>
+			       <!-- <a class="nav-link action" href="screenReader.jsp" target="_parent">  Screen Reader Access </a> -->
+			    </span>
+			    <span class="action">
+			      <img src="resources/home/images/new/Simplification.svg" class="action-icon" alt="" />
+			      <a class="nav-link action" href="welcome.do"> Home </a>
+			    </span>
+			   <!--  <span class="action">
+			      <img src="resources/home/images/new/Login.svg" class="action-icon" alt="" />
+			      <a href="javascript:login()" class="nav-link action">Login</a>
+			    </span> -->
+			  </div>
+			</header>
+				
+		
+			<!-- header section strats -->
+			
+			<!-- end header section -->
+			<!-- slider section -->
+			
+			<div class="rh-navbar">
+			  <div class="rh-logo">
+			    <img src="resources/home/images/new/icon-emblem.svg" class="rh-emblem" alt="Emblem" />
+			    <img src="resources/home/images/new/eGramsSwaraj.svg" class="rh-brand" alt="eGramSwaraj" />
+			  </div>
+			
+			  <div class="rh-icons">
+			    <img src="resources/home/images/new/Panchayati Raj _Logo Government1.svg" class="rh-icon" alt="Panchayati Raj" />
+			    <img src="resources/home/images/new/Group3525.svg" class="rh-icon" alt="Sabka Vikas" />
+			  </div>
+			
+			</div>
+			<!-- end slider section -->
+		
+	</body>
+	
+  <script type="text/javascript" src="/resources/home/js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/resources/js/popper.min.js"></script>
+  <script type="text/javascript" src="/resources/home/js/bootstrap.js"></script>
+</html>	
+	
+	
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referer" content="strict-origin-when-cross-origin" />
+<title></title>
+<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<!-- Theme style -->
+
+<!--  Theme Skins -->
+	
+	<!-- Data Table -->
+
+
+
+<script defer src="https://egramswaraj.gov.in/pes_analytics/script.js" data-website-id="10df7fae-9459-4a49-af58-19370610e6f1"></script>
+
+</head>
+
+<body>
+	
+	
+	
+	
+
+	</div>
+	</div>
+	
+	
+ <!-- #####################################Alert ############################### -->
+
+ <!-- added by shiv  -->
+ 
+ 
+ <!-- end here -->
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#formErrorDiv").append("<div class='alert alert-primary'><i class='fa fa-exclamation-circle' aria-hidden='true'></i> KPI statistics are updated through a scheduler that runs on hourly basis hence there might be a difference in the counts of both reports at a point of time.</div>");
+	$("#formErrorDiv").fadeTo(6000, 500).slideUp(500, function(){
+	    $("#formErrorDiv").slideUp(500);
+	});
+});
+</script>
+
+</body>
+</html>
+
+
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<link rel="stylesheet" type="text/css" href="/resources/priasoft/css/pfmsDashboard.css" />
+<link rel="stylesheet" href="/resources/plugins/angular/dataTables.bootstrap.min.css">
+
+
+<script type='text/javascript' language="javascript" src='/dwr/engine.js'></script>
+<script type='text/javascript' language="javascript" src='/dwr/util.js'></script>
+<script type="text/javascript" src="/dwr/interface/reportservice.js"></script>
+<script type='text/javascript' src='/dwr/interface/commonService.js'></script>
+<script type="text/javascript" charset="utf8" src="resources/plugins/datatables/js/jquery.dataTables.js"></script>
+<link rel="stylesheet" type="text/css" href="resources/plugins/datatables/css/jquery.dataTables.css"/>  
+<script type="text/javascript" src="/resources/js/captcha.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxSHPLNPTH4En21CoQDe-5VIAPgKySYjE"></script>
+<script  type="text/javascript" src="/resources/plugins/angular/excelexportjs.js"></script> 
+
+<style>
+
+#myTable {
+    width: 100%;
+   	border-collapse: separate; 
+   	border-spacing: 0;
+}
+
+#myTable thead  {
+    position: sticky;
+    top: 0;
+    z-index: 5; /* Ensure the header stays above the content */
+}
+
+</style>
+
+
+<style>
+	
+	.small-box p {
+    	font-size: 13px;
+	}
+	
+	.small-box:hover {
+     cursor: pointer; /* Change to the desired cursor value */
+	}
+
+ 	#resultLoading .fa-spinner {
+        font-size: 40px; /* Change the size to your desired value */
+ 	}
+ 	
+ 	/* .small-box:hover .fa-list-alt {
+        /* font-size: 24px; */ /* Adjust the size as needed */
+        
+        /* transition: all .3s ease-in-out;
+		opacity: .5;
+		font-size:3em;
+		overflow: hidden; */
+		/* transform: scale(0.5); 
+    } */
+
+</style>
+
+<style type="text/css">
+.dialogcntr.suggespop {
+	width: 900px;
+	min-height: 670px;
+	max-height: 80%;
+	height: inherit;
+	z-index: 101;
+}
+
+.dialogcntr .innner_container {
+	position: absolute;
+	top: 40px;
+	bottom: 0;
+	overflow: auto;
+}
+
+span.sugclose {
+	position: absolute;
+	top: 0;
+	width: 25px;
+	height: 27px;
+	background: #FF0000;
+	line-height: 30px;
+	text-align: center;
+	font-size: 19px;
+	margin-top: 0 !important;
+	cursor: pointer;
+	left: 865px;
+}
+/*span.sugclose{  background: #ff0000 none repeat scroll 0 0;cursor: pointer;font-size: 19px;height: 20px;margin-top: 0 !important;position: absolute;text-align: center;top: 0;width: 17px;}*/
+.popupheading {
+	background: #556b2f;
+	color: #fff;
+	padding: 9px 10px;
+	font-family: 'open_sanssemibold';
+	font-weight: normal;
+	position: relative;
+	padding-right: 45px;
+}
+
+.frmmaptitle {
+	font: bold 1.1em "Trebuchet MS";
+	color: #372600;
+	background: #F7F7F7;
+	position: absolute;
+	z-index: 1;
+	text-align: center;
+	top: -4px;
+	padding: 0px 3px
+}
+
+#map_wrapper {
+	height: 600px;
+}
+
+#map_canvas {
+	width: 100%;
+	height: 100%;
+}
+</style>
+
+<style type="text/css">
+.data_link {
+	color: #003D67;
+	display: block;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: bolder;
+}
+
+.disable_link {
+	cursor: default;
+	color: black;
+	display: block;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: bolder;
+}
+
+.data_link:VISITED {
+	color: #003D67;
+	display: block;
+	text-decoration: none;
+	font-size: 1em;
+	font-weight: bolder;
+}
+
+.data_link:HOVER {
+	text-decoration: underline;
+}
+
+.data_td {
+	background-color: #AAAAAA;
+}
+
+.module_td {
+	background-color: #AAAAAA;
+}
+
+.data_td:HOVER {
+	background-color: #555555;
+	color: white;
+}
+
+.data_td a:HOVER {
+	color: white;
+}
+
+.table2 {
+	overflow-x: scroll;
+	width: 100%;
+	height: 600px;
+	overflow-y: scroll;
+}
+
+table.display td {
+	padding: 3px 10px;
+	border: solid 1px #ccc;
+	/* word-break: break-word; */
+	max-width: 300px;
+}
+
+table.display td.break-all {
+	padding: 3px 10px;
+	border: solid 1px #ccc;
+	word-break: break-all !important;
+	max-width: 300px;
+}
+
+table.display thead {
+	background-color: #9dc7f3;
+	/*   position:absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:99%; */
+}
+
+table.display thead th {
+	padding: 3px 10px 5px 10px;
+	cursor: pointer;
+	border: solid 1px #eee;
+}
+
+table.display tbody tr:nth-child(odd) {
+	background-color: #d1e2f1;
+}
+
+table.display tbody tr:nth-child(even) {
+	background-color: #e7eaec;
+}
+
+table.display tbody tr:hover {
+	background-color: #ccc;
+}
+
+table.display tbody tr td a {
+	font-weight: bold;
+	cursor: pointer;
+}
+
+table.display tbody {
+	overflow-y: scroll;
+}
+
+ul.enlarge img {
+	font-size: 11px;
+}
+
+.ui-widget-header {
+	/* width:1640px !important; */
+	
+}
+
+#reportTable th, #reportTable td {
+	border: 1px solid #003D67;
+}
+
+#map-canvas {
+	position: absolute;
+	background: url(pop-back.jpg) no-repeat;
+	width: 600px;
+	height: 600px;
+	border: 5px solid #000;
+	z-index: 0;
+	margin: 0;
+	top: 340px;
+	left: 450px;
+}
+
+$(".fancybox").fancybox({
+   width:'90%';
+   height:'90%';
+   fixed:false;
+   autoSize:false;
+   autoCenter:true;
+ }
+ );
+ 
+#popup-close {
+	position: absolute;
+	background: url(pop-back.jpg) no-repeat;
+	width: 620px;
+	height: 620px;
+	border: 5px solid #000;
+	z-index: 0;
+	margin: 9px 35px 0 15px;
+	top: 320px; /*the distance from the bottom */
+	left: 440px;
+}
+
+ul.enlarge {
+	list-style-type: none; /*remove the bullet point*/
+	margin-left: 0;
+}
+
+ul.enlarge li {
+	display: absolute; /*places the images in a line*/
+	position: relative;
+	z-index: 0;
+	/*resets the stack order of the list items - later we'll increase this*/
+	margin: 10px 40px 0 20px;
+	list-style-type: none;
+}
+
+ul.enlarge img {
+	background-color: #eae9d4;
+	padding: 6px;
+	-webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+	-moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+	box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+ul.enlarge span {
+	position: absolute;
+	left: -9999px;
+	background-color: #eae9d4;
+	padding: 10px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: .9em;
+	text-align: center;
+	color: #495a62;
+	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .75));
+	-moz-box-shadow: 0 0 20px rgba(0, 0, 0, .75);
+	box-shadow: 0 0 20px rgba(0, 0, 0, .75);
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+
+ul.enlarge li:hover {
+	z-index: 50;
+	cursor: pointer;
+}
+
+ul.enlarge span img {
+	padding: 2px;
+	background: #ccc;
+}
+
+ul.enlarge li:hover span {
+	top: -400px;
+	/*the distance from the bottom of the thumbnail to the top of the popup image*/
+	left: -200px;
+	/*distance from the left of the thumbnail to the left of the popup image*/
+}
+
+ul.enlarge li:hover:nth-child(2) span {
+	left: -100px;
+}
+
+ul.enlarge li:hover:nth-child(3) span {
+	left: -200px;
+}
+/**IE Hacks - see http://css3pie.com/ for more info on how to use CS3Pie and to download the latest version**/
+/*  ul.enlarge img, ul.enlarge span{
+    behavior: url(pie/PIE.htc);
+    } */
+#header-fixed {
+	position: fixed;
+	top: 0px;
+	display: none;
+	background-color: white;
+}
+
+.overlay {
+	position: fixed; /* Positioning and size */
+	top: 25%;
+	left: 10%;
+	margin-bottom: 20%; //
+	transform: translate(-50%, -50%);
+	width: 50%;
+	background-color: rgba(128, 128, 128, 0.5); /* color */
+	display: none; /* making it hidden by default */
+}
+
+.modal {
+	position: fixed; /* positioning in center of page */
+	top: 50vh;
+	left: 50vw;
+	transform: translate(-50%, -50%);
+	height: 400px; /* size */
+	width: 600px;
+	background-color: white; /* background color */
+}
+
+   
+</style>
+</head>
+
+<script>
+var tableOffset = $("#table-1").offset();
+var $header = $("#table-1 > thead").clone();
+var $fixedHeader = $("#header-fixed").append($header);
+
+$(window).bind("scroll", function() {
+    var offset = $(this).scrollTop();
+
+    if (offset >= tableOffset && $fixedHeader.is(":hidden")) {
+        $fixedHeader.show();
+    }
+    else if (offset < tableOffset) {
+        $fixedHeader.hide();
+    }
+});
+
+</script>
+<script>
+function showHider() {
+	  var x = document.getElementById("myDIV");
+	  if (x.style.display === "none") {
+	    x.style.display = "block";
+	  } else {
+	    x.style.display = "none";
+	  }
+	}
+
+jQuery(document).ready(function() {
+	
+	if('' !=null && '' != ''){
+		 alert('');
+	 }
+		/* $('#tabledata').dataTable({
+			"bJQueryUI": true,
+			"aaSorting": [],
+		//	"aoColumnDefs": [{ 'bSortable': false, 'aTargets': [ 0,1,2,3,4,5,6,7,8]}],
+			"iDisplayLength":25,
+			"aLengthMenu": [[25, 50, 75, 100, -1], [25, 50, 75, 100, "All"]],
+			"sPaginationType": "full_numbers"
+		}); 
+		 */
+			    
+	});
+
+function suggestionPriorityPopup() {
+	
+	$("#mapDiv").css("display", "block");
+	$(".dialogcntr").removeClass("pop_hide");
+
+} 
+
+function showHideForGoogleMap() {
+	$(".dialogcntr").addClass("pop_hide");
+	setTimeout(function() {
+		$("#mapDiv").css("display","none");
+	}, 300);
+	
+}
+
+
+function multipleAssetOnMap(entityCd,typeCode,schemeCd,fyear){
+	
+	
+	// suggestionPriorityPopup();
+ 	/* document.getElementById("mapDiv").style.display="inline";
+	 document.getElementById("map").style.display="none";
+	document.getElementById("map_canvas").style.display="block";  */
+	
+	reportservice.getAssetCountWiseDataMap(parseInt(entityCd),parseInt(typeCode),parseInt(schemeCd),parseInt(fyear),{
+		 callback:function (data){
+			 
+			 var map;
+			    var bounds = new google.maps.LatLngBounds();
+			    var mapOptions = {
+			    		zoom: 4,
+			        mapTypeId: 'roadmap'
+			    };
+			                    
+			    // Display a map on the page
+			    map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+			    map.setTilt(45);
+			    
+			    //image to show different icons
+			   /*  var image = {
+				 url: 'resources/images/MapIcons/blue_baloon.png',
+				  }; */
+			        
+			    // Display multiple markers on a map
+			    var infoWindow = new google.maps.InfoWindow(), marker, i;
+			   
+			    // Loop through our array of markers & place each one on the map  
+			    //for( i = 0; i < markers.length; i++ ) {
+			    	for(var i=0;i<data.length;i++){
+			    	
+			    		var lat=data[i].latitude.split(',');
+						var lon=data[i].longitude.split(',');
+						
+			        var position = new google.maps.LatLng(lat[0],lon[0]);
+			        bounds.extend(position);
+			        marker = new google.maps.Marker({
+			            position: position,
+			            map: map,
+			            /* icon:<i class="fa fa-road" aria-hidden="true"></i>, */
+			            title: data[i].assetName          
+			        });
+			        
+			        marker.set("id", data[i].assetId);
+			        // Allow each marker to have an info window    
+			        google.maps.event.addListener(marker, 'click', (function(marker, i) {
+			        	
+			        	
+			             return function() {
+			            	            	
+			                 //infoWindow.setContent(infoWindowContent[i][0]);
+			                 //infoWindow.open(map, marker);
+			            	 assetDetailsForMapCall(map,marker,infoWindow);
+			            };
+			        })(marker, i));
+
+			        // Automatically center the map fitting all markers on the screen
+			        map.fitBounds(bounds);
+			    }
+			    // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
+			    var boundsListener = google.maps.event.addListener((map), 'bounds_changed', function(event) {
+			       // this.setZoom(18);
+			        google.maps.event.removeListener(boundsListener);
+			    }); 
+			 
+		 }  //call back function
+	}); 
+
+} //Function Close
+
+
+function assetDetailsForMapCall(map,marker,infoWindow){
+	 var assetId = marker.get("id");   
+	 
+	 commonService.getAssetCostExpenditureDetailsData(parseInt(assetId),{
+		// callback:getAssetCoseAndExpndCallback
+			callback:function(data) { 
+				
+		if(data!=null){
+				var stateP='';
+				var zpNameP='';
+				var bpNameP='';
+				var gpNameP='';
+				var planYearP='';			
+				
+				if(data.stName!=null && data.stName.length>0)
+					stateP= '<p><b>State  :</b>'+data.stName ;
+				if(data.zpName!=null && data.zpName.length>0)
+					zpNameP= '<p><b>Zilla Panchayat :</b>'+data.zpName;
+				if(data.blockName!=null && data.blockName.length>0)
+					bpNameP= '<p><b>Block Panchayat :</b>'+data.blockName;
+				if(data.gpName!=null && data.gpName.length>0)
+					gpNameP='<p><b>Village Panchayat :</b>'+data.gpName;
+					
+					if(data.wrkfinyear!=null)
+						planYearP=data.wrkfinyear+'-'+(data.wrkfinyear+1);					
+									
+					var abc=    '<div class="info_content">' +
+			                    '<p><h3><u>Asset Details</u></h3></p>' +
+			                    '<p><b>Plan Year  :</b>'+planYearP +
+			                     stateP +
+			                     zpNameP +
+			                     bpNameP +
+			                     gpNameP +
+			                    '<p><b>Asset Name :</b>'+data.assetName +
+			          	        '</p><p><b>Asset ID:</b>' +data.assetId+	
+			          	        /* '</p><p><b>Asset Cost (in Rs.):</b>'+data.assetCost+ */
+			          	        /* '</p><p><b>Asset Expenditure (in Rs.):</b>'+data.assetExpnd+ */
+			          	        /* '</p><p><b>Asset Stage Name:</b>' +data.stageName+ */
+			          	        '</p><p><b>Asset Category:</b>'+data.assetCategory+	
+			          	        '</p><p><b>Asset Sub Category:</b>'+data.assetSubcategory+				          	     
+			          	        '</p><p><img class="enlarge" style="width:100%;max-height:100px" src="getMactionPhoto.do?imgId='+data.imagePath+'"></p></div>';       
+			       
+				infoWindow.setContent(abc);
+				infoWindow.open(map, marker);
+		
+				 
+		}
+			  }
+		
+	 });
+	
+}
+</script>
+
+<script>
+
+function loader(text){
+	// Check if the loading element with id 'resultLoading' doesn't exist
+    if($('body').find('#resultLoading').attr('id') != 'resultLoading'){
+    	// Append the loading element to the body
+        $('body').append('<div id="resultLoading" style="display:none"><div><i class="fa fa-spinner fa-spin"></i><div>' + text + '</div></div><div class="bg"></div></div>');
+    }
+	
+ 	// Set styles for the loading element
+	$('#resultLoading').css({
+		 	'width':'100%',
+	        'height':'100%',
+	        'position':'fixed',
+	        'z-index':'10000000',
+	        'top':'0',
+	        'left':'0',
+	        'right':'0',
+	        'bottom':'0',
+	        'margin':'auto'
+    });
+ 	
+	 // Set styles for the background overlay
+	$('#resultLoading .bg').css({
+        'background':'#000000',
+        'opacity':'0.8',
+        'width':'100%',
+        'height':'100%',
+        'position':'absolute',
+        'top':'0'
+    });
+	 
+	// Set styles for the loading content
+	$('#resultLoading>div:first').css({
+        'width': '250px',
+        'height':'75px',
+        'text-align': 'center',
+        'position': 'fixed',
+        'top':'0',
+        'left':'0',
+        'right':'0',
+        'bottom':'0',
+        'margin':'auto',
+        'font-size':'16px',
+        'z-index':'10',
+        'color':'#ffffff'
+	});
+	// Set the height of the background overlay to match the content
+    $('#resultLoading .bg').height('100%');
+ 	
+	// Fade in the loading element
+    $('#resultLoading').fadeIn(300);
+	
+ 	// Change the cursor style to 'wait'
+    $('body').css('cursor', 'wait');
+}	
+
+function onCancel(){	
+	window.location.href="planningDashBoard.do";
+}
+
+function hideError(){
+	$(".errored").hide();
+	 document.getElementById("finyear").value=""; 
+}
+
+function checkError(){
+	$(".errored").hide();
+	var scid = document.getElementById("schemeid").value;
+	if(scid == null || scid =="") {
+		$("#scheme_error").show();
+		document.getElementById("finyear").value=""; 
+		return false;
+	}
+}
+
+function validateData(){
+	
+	$(".errored").hide();
+	var flag = true;
+	
+	var scid = document.getElementById("schemeid").value;
+	var fnid = document.getElementById("finyear").value;
+	
+	if(scid == null || scid =="") {
+		$("#scheme_error").show();
+		flag =false;
+		
+	} 
+	if(fnid == null || fnid =="") {
+		$("#finyear_error").show();
+		flag =false;
+		
+	}
+	return flag;
+	
+}
+
+function getReport(){				// Get Report
+	
+	$("#flgId").val(0);
+	
+	if ($("#schemeid").val() != null && $("#schemeid").val() > 0) {
+		 	var selectField = document.getElementById("schemeid");
+		 	var selectedOption = selectField.options[selectField.selectedIndex];
+		 	var selectedOptionText = selectedOption.innerText;
+		 	
+		 	document.getElementById("schemeNameId").value =selectedOptionText; 
+	}
+	 if ($("#finyear").val() != null && $("#finyear").val() > 0) {
+		 	var selectField = document.getElementById("finyear");
+		 	var selectedOption = selectField.options[selectField.selectedIndex];
+		 	var selectedOptionText = selectedOption.innerText;
+		 	
+		 	document.getElementById("fnyrId").value =selectedOptionText; 
+		 } 
+	
+	var validate = validateData();
+	
+	if (validate){
+		
+		loader("Loading... Please wait...");
+	 	var formId=document.getElementById("geoTagAssetCount");
+	 	formId.method="POST";
+	 	formId.action="getDataGeoTagAssetCount.do";
+	 	formId.submit();
+	 }
+}
+
+function getStateWiseData(level){			//To get state wise data
+	
+	$("#levelId").val(level);
+	$("#flgId").val(1);
+	$("#reportLvlId").val(1);
+	 
+	loader("Loading... Please wait...");
+	 var formId=document.getElementById("geoTagAssetCount");
+	 formId.method="POST";
+	 formId.action="getDataGeoTagAssetCount.do";
+	 formId.submit();
+	
+}
+
+function geBackOnlevelZero(){				//On first back Button
+	
+	/* $("#reportLvlId").val(0); */
+	$("#flgId").val(5);
+	
+	 loader("Loading... Please wait...");
+	 var formId=document.getElementById("geoTagAssetCount");
+	 formId.method="POST";
+	 formId.action="getDataGeoTagAssetCount.do";
+	 formId.submit();
+}
+
+function getinsideReportlvl2(stcode,level,stateName){				//  to get zp wise count on all 
+	
+	$("#stateCodeId").val(stcode);
+	$("#levelId").val(level);
+	$("#stateNameEnglishId").val(stateName);
+	
+	$("#reportLvlId").val(2);
+	$("#flgId").val(2);
+	
+	
+	loader("Loading... Please wait...");
+	var formId=document.getElementById("geoTagAssetCount");
+	formId.method="POST";
+	formId.action="getDataGeoTagAssetCount.do";
+	formId.submit();
+}
+
+function geBackOnlevelOne(){
+	
+	$("#reportLvlId").val(1);
+	$("#flgId").val(1);
+	
+	loader("Loading... Please wait...");
+	 var formId=document.getElementById("geoTagAssetCount");
+	 formId.method="POST";
+	 formId.action="getDataGeoTagAssetCount.do";
+	 formId.submit();
+}
+
+function getinsideReportlvl3(stcode,level,zpCd,zpName){				//BP wise count
+	
+	$("#stateCodeId").val(stcode);  
+	$("#levelId").val(level);
+	$("#zpCodeId").val(zpCd);
+	$("#zpNameId").val(zpName);
+	
+	if(stcode==30 || stcode==12 || stcode==31 || stcode==14 || stcode==11 || stcode==38 || stcode==34 || stcode==17){
+		$("#reportLvlId").val(4);
+		$("#flgId").val(4);
+	}else{
+		$("#reportLvlId").val(3);
+		$("#flgId").val(3);
+	}
+	
+	loader("Loading... Please wait...");
+	var formId=document.getElementById("geoTagAssetCount");
+	formId.method="POST";
+	formId.action="getDataGeoTagAssetCount.do";
+	formId.submit();
+}
+
+function geBackOnlevelTwo(){
+	
+	$("#reportLvlId").val(2);
+	$("#flgId").val(2);
+	$("#zpCodeId").val("");
+	
+	loader("Loading... Please wait...");
+	var formId=document.getElementById("geoTagAssetCount");
+	formId.method="POST";
+	formId.action="getDataGeoTagAssetCount.do";
+	formId.submit();
+}
+
+function getinsideReportlvl4(stcode,level,bpCd,bpName){
+	$("#stateCodeId").val(stcode);
+	$("#levelId").val(level);
+	$("#bpCodeId").val(bpCd);
+	$("#bpNameId").val(bpName);
+	
+	$("#reportLvlId").val(4);
+	$("#flgId").val(4);
+	
+	loader("Loading... Please wait...");
+	var formId=document.getElementById("geoTagAssetCount");
+	formId.method="POST";
+	formId.action="getDataGeoTagAssetCount.do";
+	formId.submit();
+	
+}
+
+function geBackOnlevelThree(stcode){
+	
+	if(stcode==30 || stcode==12 || stcode==31 || stcode==14 || stcode==11 || stcode==38 || stcode==34 || stcode==17){
+		$("#reportLvlId").val(2);
+		$("#flgId").val(2);
+		
+	}else{
+		$("#reportLvlId").val(3);
+		$("#flgId").val(3);
+		$("#bpCodeId").val("");
+	}
+	//$("#fyId").val(fyear);
+	//$("#schemeCdId").val(schemecd);
+	loader("Loading... Please wait...");
+	var formId=document.getElementById("geoTagAssetCount");
+	formId.method="POST";
+	formId.action="getDataGeoTagAssetCount.do";
+	formId.submit();
+}
+
+function exportFile(id) {
+	
+	$("#" + id).excelexportjs({
+		containerid : id,
+		datatype : 'table',
+		worksheetName : "Geo Tagged Asset Count Report",
+	});
+} 
+
+</script>
+<body>
+	
+	<section class="main-reports py-3 ng-scope">
+		<div class="container nav-reports">
+			<div class="row">
+	 			<div class="col-12 text-center">
+					<h3 class="mainHeading heading_black collapsingdiv collapsingdiv-1 showing cursor-pointer mx-auto">
+						Geo Tagged Asset Count Report
+					</h3>
+	 			</div>
+			</div>
+	
+			<form id="geoTagAssetCount" name="geoTagAssetCount" action="/getGeoTagAsset.do" method="POST">
+			
+			     <!-- <input type="hidden" id="fnyrId" value=""/>
+				<input type="hidden" id="schemeNameId" value=""/>  -->
+				
+				
+			    <input id="fnyrId" name="fy" type="hidden" value=""/> 
+				
+				
+				
+				<input id="schemeNameId" name="schemeName" type="hidden" value=""/>
+				
+				<input id="levelId" name="level" type="hidden" value=""/>
+				<input id="flgId" name="flg" type="hidden" value=""/>
+				<input id="reportLvlId" name="reportLvl" type="hidden" value=""/>
+				
+				<input id="stateCodeId" name="stateCode" type="hidden" value=""/>
+				<input id="stateNameEnglishId" name="stateNameEnglish" type="hidden" value=""/>
+				
+				<input id="zpCodeId" name="zpCode" type="hidden" value=""/>
+				<input id="zpNameId" name="zpName" type="hidden" value=""/>
+				
+				<input id="bpCodeId" name="bpCode" type="hidden" value=""/>
+				<input id="bpNameId" name="bpName" type="hidden" value=""/>
+				
+				 
+				
+				
+		 			 <section class="main-reports py-3 ng-scope">
+		 				 <div class="container nav-reports">
+		 					<div class="col-12">
+		 						<div class="card">
+		 							<div class="card-body">
+		 								<div class="row">
+		 									<div class="col-lg-6 col-md-6 col-sm-12">
+		 										<div class="form-group">
+		 											<label class="control-label mandatory"> <strong> Scheme </strong> </label>
+		 												<select id="schemeid" name="schemeCd" onclick="hideError();" class="form-control">
+							 								<option value="">--Select--</option>
+							 								<option value="1518">Fourteenth Finance Commission</option>
+							 								<option value="1769">XV Finance Commission</option>
+                           								</select>
+														<div class="errored" id="scheme_error">
+															This Field Is Required
+														</div>										
+		 										</div>
+		 									</div>
+		 									<div class="col-lg-6 col-md-6 col-sm-12">
+												<div class="form-group">
+													<label class="control-label mandatory"> <strong>Select Plan Year</strong> </label>
+														<select id="finyear" name="fnclYr" onclick="checkError();" class="form-control" onchange="getReport();">
+															<option value="">--Select--</option>
+															<option value="2026">2026-2027</option><option value="2025">2025-2026</option><option value="2024">2024-2025</option><option value="2023">2023-2024</option><option value="2022">2022-2023</option><option value="2021">2021-2022</option><option value="2020">2020-2021</option>
+														</select>
+														<div class="errored" id="finyear_error">
+															This Field Is Required
+														</div>	
+												</div>
+											</div>
+											
+		 							</div>
+		 							</div>
+		 							<div class="card-footer">
+					 					<div class="float-right">
+					  						
+					  						<button type="button" class="btn btn-danger" onclick="onCancel();">
+												<i class="fa fa-times"></i>
+												Close
+					  						</button>
+					 					</div>
+									</div>
+		 						</div>
+		 					</div>
+		 				 </div> 
+		 			</section>
+		 		
+		 		
+		 		 
+		 		 
+			</form>
+		</div>
+	</section>
+
+
+
+
+<script>
+  $(".tabledata").wrap("<div class='table-responsive table2')></div>");
+</script>
+
+</body>
+
+<div class="modal" id="map-modal"
+	style="width: 95%; overflow: hidden; background: none; top: 45vh; min-height: 600px">
+	<div class="modal-dialog" style="max-width: 100%; padding: 5px;"
+		role="document">
+		<div class="modal-content">
+			<div class="modal-header" style="padding: 0.5rem;">
+				<h5 class="modal-title">Asset on Map</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body" id="mapdiv" style="max-height: 475px; overflow-y: auto;">
+
+
+
+				<div id="map_wrapper" style="padding: 5px;">
+					<div id="map_canvas" class="mapping"></div>
+					<div style="width: 100%" height="500px" id="map"></div>
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+</div>
+
+</html>
+									
+	
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+   	<!-- <div class="container-fluid text-center">
+		<ul class="list-inline footer-link w-100">
+			<li><a href="#" role="link" style="border-left:none;">Sitemap</a></li>
+			<li><a href="#" role="link">Feedback</a></li>
+			<li><a href="#" role="link">Privacy Policy</a></li>
+			<li><a href="#" role="link">Terms &amp; Conditions</a></li>
+			<li><a href="#" role="link">Copyright</a></li>
+			<li><a href="#" role="link">Contact Us</a></li>
+	    </ul>
+	<hr>
+	</div> -->
+    
+    
+    <!-- BOTTOM BLUE BAR -->
+		<div class="sub-footer__bottom">
+		    <p class="sub-footer__text">
+		      Contents on this website are owned, updated and managed by the Panchayats
+		      and State Panchayati Raj Department as a part of e-Panchayat MMP of
+		      <strong>Ministry of Panchayati Raj (MoPR)</strong>. Site is technically
+		      designed, hosted and maintained by
+		      <strong>National Informatics Centre (NIC)</strong>.
+		    </p>
+		
+		    <div class="sub-footer__links">
+		    	<div class="footer-tnc">
+		    	 <div>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="One" onClick="allPolicies(this.id)">Privacy Policy</a>
+				      <a href="#" data-toggle="modal" data-target="#quickModal" id="Two" onClick="allPolicies(this.id)">Terms & Conditions</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Three" onClick="allPolicies(this.id)">Cookie Policy</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Four" onClick="allPolicies(this.id)">Contact</a>
+				     </div>
+				    <div class="sub-footer__right">
+				      <img src="resources/home/images/new/NIC_logo_new.svg" alt="NIC" />
+				    </div>
+		    	</div>
+		    </div>
+		  </div>
+    
+
+<div class="modal fade" id="quickModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row footer-row-padding footer-modal">
+                    <div class="col-12">
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                                <div class="card-header p-0" id="headingOne">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseOne"><i class="fa fa-plus float-right"></i>
+                                        Terms & Conditions</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">Contents on this website are owned, updated and managed by the Panchayats and State Panchayati Raj Department as a part of e-Panchayat MMP of Ministry of Panchayati Raj (MoPR),. 
+                                    	Site is technically designed, hosted and maintained by National Informatics Centre (NIC)</p>
+                                        <p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingTwo">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseTwo"><i class="fa fa-plus float-right"></i>
+                                        Privacy Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">The Government will have complete discretion to share the details of your use of the Web Site and/ or data entered by you with regulators or with any other third party, or in order to resolve disputes or complaints which relate to the Web Site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingThree">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseThree"><i class="fa fa-plus float-right"></i>
+                                        Web Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>Payment Option</strong></p>
+                                        <p class="text-jutify">The list of payment options available are internet banking /debit card payment / credit card payment from banks that are listed when selecting each of the above options. Apart from the fee chargeable to Government against each service, bank / payment gateway transaction charges will be applicable extra. In case of a failed transaction the user shall have no right to claim the amount. The loss on this account shall not be borne either by Government or by the Banks /Payment Gateways.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSeven">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSeven"><i class="fa fa-plus float-right"></i>
+                                        Copyright Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Material featured on this website may be reproduced free of charge after taking proper permission by sending a mail to us. However, the material has to be reproduced accurately and not to be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party. Authorisation to reproduce such material must be obtained from the departments/copyright holders concerned.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSix">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSix"><i class="fa fa-plus float-right"></i>
+                                        Hyperlinking Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify"><strong>Links to external websites/portals</strong></p>
+                                        <p class="text-jutify">At many places in this website, you shall find links to other websites/portals. These links have been placed for your convenience. This website is not responsible for the contents and reliability of the linked websites and does not necessarily endorse the views expressed in them. Mere presence of the link or its listing on this website should not be assumed as endorsement of any kind. We cannot guarantee that these links will work all the time and we have no control over the availability of linked pages.</p>
+                                        <p class="text-jutify"><strong>Links to this Website by other websites/portals</strong></p>
+                                        <p class="text-jutify">We do not object to linking directly to the information that is hosted on this site but it is necessary that prior permission is taken before hyperlinks are directed from any website to this site. Permission for the same, stating the nature of the content on the pages from where the link has to be given and the exact language of the hyperlink should be obtained by sending a request to 'egramswaraj[at]gov[dot]in'. Also, it is not permitted that our pages be loaded into frames on the requested site. Our Department's pages must load into a newly opened browser window of the user.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFour">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFour"><i class="fa fa-plus float-right"></i>
+                                        Contact Us</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Email at <i class="fa fa-envelope"></i> 
+                                        <em>egramswaraj[at]gov[dot]in</em></p>
+                                        <p class="text-jutify">
+                                            Ministry of Panchayati Raj<br />
+                                            Government of India<br />
+                                            Eleventh Floor, J.P. Building,<br />
+                                            Kasturba Gandhi Marg, Connaught Place,<br />
+                                            New Delhi-110001
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFive">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFive"><i class="fa fa-plus float-right"></i>
+                                        Web Information Manager</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">
+                                            Ms. Mukta Shekhar<br />
+                                            Joint Secretary<br />
+                                            <i class="fa fa-envelope"></i> <em>js2[-]mopr[at]gov[dot]in</em>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+    #quickModal .accordion .card-header .btn-link:not(.collapsed) {
+        background-color: #f9e3a1;
+    }
+    #quickModal .card-body {
+        min-height: 150px;
+        overflow-y: scroll;
+        height: 175px;
+    }
+    #myModal-popup .modal-content {
+        /*margin: auto;*/
+        display: block;
+        width: 1200px;
+        /*width: 100%;*/
+        /*max-width: 2000px;*/
+    }
+    #myModal-popup .modal-header {
+        border-bottom: 1px solid transparent;
+    }
+
+    @media screen and (max-width: 1190px) {
+        #myModal-popup .modal-content {
+            margin: auto;
+            display: block;
+            /*width: 1200px;*/
+            width: 100%;
+            max-width: 800px;
+        }
+    }
+    
+    
+
+
+
+
+
+
+
+/* footer */
+
+.sub-footer {
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* LOGO SECTION */
+.sub-footer__logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 20px;
+    background: lightblue;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.sub-footer__logos img {
+  height: 50px;
+  object-fit: contain;
+}
+
+/* BLUE SECTION */
+.sub-footer__bottom {
+    background: rgb(12, 59, 110);
+    color: #fff;
+    padding: 12px;
+    font-size: 15px;
+    height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+    display: flex;
+    flex-direction: column;    /* mobile default column */
+    align-items: center;
+    text-align: center;
+}
+
+.sub-footer__text {
+  margin-bottom: 0px;
+  line-height: 1.6;
+   max-width: 1040px;
+}
+
+.footer-tnc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+.footer-tnc a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.footer-tnc a:hover {
+  color: #007bff;
+}
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+.footer-tnc > div:first-child {
+    flex: 1;
+    display: flex;
+    justify-content: center;   /* links center me */
+    align-items: center;
+    gap: 20px;                 /* links ke beech spacing */
+}
+
+
+
+
+/* LINKS */
+.sub-footer__links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.sub-footer__links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.sub-footer__links a:hover {
+  text-decoration: underline;
+}
+
+/* RIGHT SECTION */
+.sub-footer__right {
+  display: flex;
+  justify-content: space-between;
+   justify-content: flex-end;   
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sub-footer__right img {
+  height: 55px;
+}
+
+.sub-footer__right span {
+  font-size: 14px;
+}
+
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+    
+</style>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("td").attr("tabindex","0");
+		$("th").attr("tabindex","0");
+		$(".btn").attr("tabindex","0");
+		$("a .btn").attr("tabindex","0");
+	});
+	function allPolicies(id) {
+		
+		var a = "heading";
+		var newid = a + id; 
+		$(".card-header .btn").addClass("collapsed");
+		$(".card-header .btn .fa").addClass("fa-plus").removeClass("fa-minus");
+		$(".collapse").removeClass("show");
+		$("#" + newid +"  .btn").removeClass("collapsed");
+		$("#" + newid +"  .btn .fa").removeClass("fa-plus").addClass("fa-minus");
+		$("#collapse"+id).addClass("show");
+	}
+	function changeTextSize(size) {
+      	if (size=='xx-large'){
+      		document.getElementById("maintext").style.fontSize = "xx-large";
+      	}
+      	if (size=='small'){
+      		document.getElementById("maintext").style.fontSize = "small";
+      	}
+      	if (size=='medium'){
+      		document.getElementById("maintext").style.fontSize = "medium";
+      	}
+    	
+    }
+</script>
+
+	</div>
+	</div>
+	
+	
+ <!-- #####################################Alert ############################### -->
+
+ <!-- added by shiv  -->
+ 
+ 
+ <!-- end here -->
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#formErrorDiv").append("<div class='alert alert-primary'><i class='fa fa-exclamation-circle' aria-hidden='true'></i> KPI statistics are updated through a scheduler that runs on hourly basis hence there might be a difference in the counts of both reports at a point of time.</div>");
+	$("#formErrorDiv").fadeTo(6000, 500).slideUp(500, function(){
+	    $("#formErrorDiv").slideUp(500);
+	});
+});
+</script>
+
+</body>
+</html>
