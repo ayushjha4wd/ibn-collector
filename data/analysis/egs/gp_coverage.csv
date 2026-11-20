@@ -1,0 +1,13 @@
+financial_year,endpoint,distinct_codes,gps_registered (district table)
+2019-2020,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",1,8364
+2020-2021,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",531,8386
+2020-2021,centerLevelByYearAndBlock.htm,8149,8386
+2020-2021,gpWithAuditReportGeneratedDetail.htm,8129,8386
+2020-2021,observationCountGPReport.htm,8386,8386
+2020-2021,auditSettlementReportLevelWise.htm,8386,8386
+2021-2022,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",531,8125
+2022-2023,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8077
+2023-2024,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8055
+2024-2025,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",533,8053
+2024-2025,observationCountGPReport.htm,30,8053
+2025-2026,"centerLevelByYearAndDistrictGP.htm (Block Panchayat auditees, not GPs)",437,8052

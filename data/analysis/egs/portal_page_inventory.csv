@@ -1,0 +1,179 @@
+host,path,title,captcha_in_report_form,page_mentions_bihar,angular_template,table_headings_as_served,files_saved,steps,statuses
+egramswaraj.gov.in,/,eGramSwaraj-223-2eGramSwaraj 225-1,no,no,yes,,1,crawl,downloaded
+reportingonline.gov.in,/,,,,,,0,crawl,error
+accountingonline.gov.in,/,,,,,,0,crawl,error
+planningonline.gov.in,/,,,,,,0,crawl,error
+egramswaraj.gov.in,/welcome.do,eGramSwaraj-223-2eGramSwaraj 225-1,no,no,yes,,2,crawl,downloaded
+egramswaraj.gov.in,/screenReader.jsp,Screen Reader AccesseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/index.do,eGramSwarajGPDP Dashboard,no,no,no,,2,crawl|forms,downloaded
+egramswaraj.gov.in,/zpProfileReport.do,Profile DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/bpProfileReport.do,Profile DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/gpProfileReport.do,GP Profile ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ElectedRepresentativeReportZp.do,Elected Representative ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ElectedRepresentativeReportBp.do,Elected Representative ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ElectedRepresentativeReportVp.do,Elected Representative ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/zpPlanUploadReport.do,ZP Plan Upload ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/bpPlanUploadReport.do,BP Plan Upload ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/gpdpUploadReport.do,GPDP Upload ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/approvedPesaPDPKPI.do,Approved Pesa PDP ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ongoingActivityReport.do,Ongoing Activity ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/geoTaggingReport.do,Geo-Tagging ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/RecExpReportNew.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/getYearBook.do,Year Book ClosedeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/sourcesOfRevenueDetails,Panchayat Feedback ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/registrationVpReport.do,Registered Village Panchayat And Equivalent ported from PFMSeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/auditorDetails.do,Registered Auditors ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/auditeeRegistered.do,Registered Auditees ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/auditeePlandetails.do,Audit Plans ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/observationCountReport.do,Observations Recorded ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/auditReportGeneratedReport.do,Audit Report GeneratedeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pfmsDashboardNew.do,PFMS DashboardeGramSwarajPFMS Dashboard,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/profilerReport.do,Profiler ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/planningDashBoard.do,Planing Dash BoardeGramSwarajPlanning Reports Dashboard,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/financialProgressReport.do,Financial Progress ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/analyticalReport.do,Analytical ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/beneficiaryDashboard.do,BeneficiaryeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/atmanibharguidelines.do,Atmanibhar PanchayateGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/mausam.do,Weather Forecast DashboardeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pesaDashboardView.do,PESA Gram SabhaPESA Gram Sabha,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/bankpendingavg.do,Bank Pending AverageeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/bankPendingPaymentReport.do,Bank Pending Payment Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/downloadPlanFile.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/ffcSectorWiseExpenditure.do,FFC Sector Wise ExpenditureeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/paymentReport.do,Online Payment Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/SectorWiseAnalysis.do,Sector Wise Analysis DashboardeGramSwarajSector Analysis Dashboard,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/dashBoardAnalysis.do,Dash Board AnalysiseGramSwarajPLANNING DASHBOARD,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/maSurveyData.do,Mission Antyodaya SurveyeGramSwarajPanchayat Decision Support System (PDSS),,,,,1,crawl,downloaded
+egramswaraj.gov.in,/dscRegistration.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/vendorRegistration.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/paymentStatusReport.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/todayPaymentStatusReport.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingFtoAtBank.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingFtoAtPFMS.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingVendorAtPFMS.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingDSCAtPFMS.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/tillVoucherCountStats.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/bookOfAccount.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/viewRnEstatus.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/schemeWiseReceiptStats.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/sectorReport.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,/knowYourPanchayat.do,Know Your PanchayateGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/basicProfileConsolidateReport.do,Basic Profile Consolidate ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getprofileStatusReport.do,Profile Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/panchayatServiceDeliveryReport.do,Panchayat Service Delivery ReporteGramSwarajPanchayat Service Delivery Report,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/approveActionPlan.do,Approve Action Plan ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingActionPlan.do,Pending Action Plan ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/planWiseActivitiesDetails.do,Activities DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/viewActivityDetailsReport.do,View Activity Details ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getGPDPReport.do,GPDP ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getGpdpStatus.do,GPDP Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/actionPlanReportForGP.do,Approve Plan For GP NeweGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/actionPlanReportForResourceEnvelope.do,Action PLan Report For Resource EnvelopeeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/sectorWiseActivityReportForm.do,Sector Wise Activity Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/panchayatWisePlanUploadStatusOnPassedDate.do,Panchayat-Wise Plan Upload Status As On Passed DateeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getDelegatedActivityDetailReport.do,Delegated Activities Details ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getSaturationCertificateReport.do,Saturation Certificate Details ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getSchemeWiseActivityDetails.do,Scheme Wise Activity DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/approveActionPlanTied.do,Approve Action Plan Tied ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getPanchayatRevenuePotentialReport.do,Panchayat Revenue Potential ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/activityStatusReport.do,Activity Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/schemeWiseActivityReport.do,Activity Status Report Scheme WiseeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/activityAnalysisReport.do,Activity Analysis ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/thematicActivityAnalysisReport.do,Thematic Activity Analysis ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/panchayatWiseExpenditureReport.do,Panchayat Wise Expenditure ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/analyticalReportOnPDP.do,Analytical Report on Panchayat Development PlaneGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/actExpenditureReport.do,Category Wise Activity Asset ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/phyAndFinancialDetails.do,Physical And Financial Details ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/thematicPlanningExpDtls.do,Comparision Report on Thematic Planning and  Expenditure DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/activityDtlsAnalysis.do,Activity Details Analysis ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getGeoTagAsset.do,Geo Tagged Asset ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/showAssetListForPanchayat.do,Asset List For PanchayateGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/nationalLvldataEntryReport.do,Data Entry Report For National LeveleGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/amritSarovarReport.do,Amrit Sarovar ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/sbmgAssetCountLocalBosyWiseReport.do,SBMG Asset Count ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/CategoryWiseActivityAssetReport.do,Category Wise Activity Asset ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/geoTagPhoto.do,Geo Tag Photos CapturedeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getAssetConfigurationDetailsReport.do,Asset Configuration Details ReporteGramSwarajAsset_Configuration_Details_Report,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pendingPesaPDPReport.do,Pending Pesa PDP ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/approvedPesaPDPReport.do,Approved Pesa PDP ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/themeActivityMasterReport.do,Add Report MastereGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getPesaPanchayat.do,PESA Enabled VillageseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getBsnlReport.do,BSNL Integration StatuseGramSwarajBSNL Report,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/smsAlert.do,Critical Weather Forecast Alerts DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/feedbackReport.do,Panchayat Feedback ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/internetStatusDashboard.do,Internet Connectivity DashboardeGramSwarajInternet Connectivity Status Dashboard,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/getGpdpDashboard.do,GPDP Score DashboardeGramSwarajGPDP Score Dashboard,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pdpSelfAssessmentReport.do,PDP Self Assessment ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/pdpSelfAssessmentComparision.do,PDP Self Assessment ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/schemeExpenditureReport.do,Scheme Wise Expenditure ReporteGramSwarajPES | OuterMonthly_RECONCILED_REPORT,no,yes,no,,14,crawl|forms,downloaded
+egramswaraj.gov.in,/receiptHeadExpReport.do,Receipt Head (6-tier) Receipt-ExpenditureeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/voucherDetailsHeadTierWise.do,Voucher DetailseGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/AnnualRecieptsReport.do,Annual ReciepteGramSwarajPES | Annual Receipts Report,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/outerConsolidatedReport.do,Outer Consolidated ReporteGramSwarajPES | OuterMonthly_RECONCILED_REPORT,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/outerMonthlyReconciliationReport.do,Outer Bank Reconcile ReporteGramSwarajPES | OuterMonthly_RECONCILED_REPORT,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/demandCollection.do,Register of Demand Collection and Balance(Format-VIII)eGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/dayBookPublic.do,Day Book ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/cashBookPublic.do,Cash Book ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/accountCashBookPublic.do,Account wise Cash Book ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/omExpenditureReport.do,O and M Expenditure ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/noeReport.do,Note Of Error ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ledgerBookPublicReport.do,Ledger Book ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/journalBookPublicReport.do,Journal Book ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/objectHeadWiseExpenditureReport.do,Object Head Wise Expenditure ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/tiedExpenditure.do,Tied Expenditure ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/remittanceBalanceReportHome.do,Remittance Balance ReporteGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/dashBoardNew.do,DashboardeGramSwarajInsert title here,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/coaSchemeAndObjectHeadWiseHeadOfAccounts.do,COA- Scheme And Object Head Wise Head Of Accounts ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/majorHeadMappingReport.do,Activity Account Major Head MappingeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/subMajorHeadMappingReport.do,Activity Account Sub Major Head MappingeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/minorHeadMappingReport.do,Activity Account Minor Head MappingeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/minorObjectHeadMappingReport.do,Activity Account Minor Object Head MappingeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/receiptRectificationReport.do,Receipt Rectification Details ReporteGramSwaraj,no,yes,no,"Receipt Rectification Details | S.No. | Zilla Panchayat and Equivalent | Block Panchayat and Equivalent | LGD Code | Village Panchayat and Equivalent | From Scheme | To Scheme | From Scheme Child | To Scheme Child | From Major Code | To Major Code | From Major Head | To Major Head | From Minor Code | To Minor Code | From Minor Head | To Minor Head | Receipt Amount(in Rs.) | Rectified Amount(in Rs.) | Actual Amount Difference(in Rs.) | Report generated through eGramSwaraj (http://egramswaraj.gov.in) on Fri, Nov 20, 2026 14:20:15 PM",2,crawl|forms,downloaded
+egramswaraj.gov.in,/getDuplicateMobileNumber.do,Duplicate Mobile Number ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/statusReportData.do,Count Status Report 2eGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/yearBookStatus.do,Year Book Status ReporteGramSwaraj,,,,,2,crawl|forms,downloaded
+egramswaraj.gov.in,/themeWiseExpenditure.do,Theme Wise Expenditure ReporteGramSwaraj,,,,,2,crawl|forms,downloaded
+egramswaraj.gov.in,/getExpenditureData.do,Expenditure DataeGramSwaraj,,,,,2,crawl|forms,downloaded
+egramswaraj.gov.in,/OfflinePaymentVoucherHome.do,Offline Payment Voucher Details ReporteGramSwaraj,,,,,2,crawl|forms,downloaded
+egramswaraj.gov.in,/consolidatedExp.do,Consolidated Expenditure vs Plan YeareGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/dscStatusReport.do,DSC Status AccounteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/vendorReport.do,Vendor Registration and Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ffcSectorWiseExpenditureNew.do,FFC Sector Wise ExpenditureeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/schemeWiseUnspendBalance.do,Panchayat-Wise Sources of Revenue DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/consolidatedReceiptExpReport.do,Consolidated Receipt Expenditure Details ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/publicReport.do,Reverse MIS ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/reverseMisReport.do,Reverse MIS Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/reverseInterestMisReport.do,Reverse Interest MIS Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/percentageExpenditureReport.do,Percentage Expenditure ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/onlinePaymentStatusReport.do,Amount Wise Payment Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/ffcSchemeComponentOtherExp.do,FFC Scheme Component (Other Expenditure)eGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/publicReportMannual.do,Mannual Receipt ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/publicReportDate.do,Reverse MIS ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/gemBillDetailsReport.do,Gem Bill Details ReporteGramSwaraj,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/paymentVoucherStatusReport.do,Payment Voucher Status ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/gcmsReportNew.do,GCMS Bill DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/gcmBillReport.do,GCMS Bill DetailseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/Gcmsbilldetails.do,Bill Reconciliation ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/timeProgressGraph.do,Time Series AnalysiseGramSwaraj,no,yes,no,Duration: 14/11/2026 To 20/11/2026 | State: Bihar | S.No. | Date | No. of GPs with Profile Created | No. of GPs with Approved GPDP | No. of GPs with Physical Progress Ongoing | Nov 2026 | Su | Mo | Tu | We | Th | Fr | Sa,2,crawl|forms,downloaded
+egramswaraj.gov.in,/weeklyProgressGraph.do,Weekly Progress ReporteGramSwaraj,no,yes,no,Duration: 01/11/2026 To 20/11/2026 | State: Bihar | S.No. | Date | No. of GPs with Profile Created | No. of GPs with Approved GPDP | No. of GPs with Physical Progress Ongoing | Nov 2026 | Su | Mo | Tu | We | Th | Fr | Sa,2,crawl|forms,downloaded
+egramswaraj.gov.in,/stateProgressGraph.do,State Progress Graph ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/loginReport.do,Login ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/beneficiaryReport.do,Beneficiary ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/beneficiaryDashboardNew.do,BeneficiaryeGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/schemeWiseBeneficiaryCountReport.do,BeneFiciary Count ReporteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/assetDetails.do,AsseteGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/internetConnectivityStatus.do,Internet Connectivity StatuseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/schoolAssetStatus.do,School Asset StatuseGramSwaraj,,,,,1,crawl,downloaded
+egramswaraj.gov.in,/downloadAdministrativeFile.do,,,,,,17,crawl,downloaded
+egramswaraj.gov.in,/pesaStatusReport.do,PESA Status Report,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/pesaApproveStatusReport.do,pesa Approve Status Report,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/getPesaPanchayatReport.do,List of PESA Panchayats,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/resources/pdf/PESA Profiler SOP.pdf,,,,,,0,crawl,error
+egramswaraj.gov.in,/pesaStatesCards.do,PESA Gram Sabha,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/getPesaPanchayatStateWiseCountList.do,PESA Enabled Villages,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/getStateWisePesaVillageCount.do,PESA Dashboard,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/approvedPesaPlanReport.do,Approved PESA PDP Report,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/getTMPReport.do,PESA TMP Status,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/feedBackDetails.do,Add Feedback DetailsPESA Gram Sabha,,,,,0,crawl,withheld_personal_data
+egramswaraj.gov.in,/getPaymentVoucherDetail.do,HTTP Status 400 – Bad Request,no,no,yes,,1,crawl,downloaded
+egramswaraj.gov.in,http://egramswaraj.gov.in,eGramSwaraj-223-2eGramSwaraj 225-1,,,,,1,crawl,downloaded

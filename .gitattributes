@@ -1,0 +1,2 @@
+# Originals must be stored byte-for-byte (sha256 is checked). Never convert line endings.
+data/** -text

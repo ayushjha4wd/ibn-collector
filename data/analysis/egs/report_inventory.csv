@@ -1,0 +1,38 @@
+endpoint,geo_level,report,financial_years,files,rows,file_types,statuses
+welcome.do,portal,AuditOnline home page,,1,0,html,downloaded
+AuditIntroductionPPT.do,docs,Documentation: AuditOnline Introduction (0.53 MB),,1,0,pdf,downloaded
+AuditDetailedPPT.do,docs,Documentation: AuditOnline Detailed Presentation (3.55 MB),,1,0,pdf,downloaded
+priaaaUserManual.do,docs,Documentation: User Manual (7.6 MB),,1,0,pdf,downloaded
+ProcessFlowAndMappingTemplate.do,docs,Documentation: Process Flow And Mapping Template (3.55 MB),,1,0,xlsx,downloaded
+RequestRequisitionModuleSOP.do,docs,Documentation: Request Requisition Module SOP (7.6 MB),,1,0,pdf,downloaded
+TransferModuleDocument.do,docs,Documentation: Transfer Module Document (7.6 MB),,1,0,pdf,downloaded
+centerLevelByYearAndState.htm,district,Audit plans: GPs and auditees by district,2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,11,418,json,downloaded
+centerLevelCount.htm,state,Centre-level summary counts,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,7,json,downloaded
+centerLevelByYear.htm,state,Audit plans: GPs and auditees by state,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,210,json,downloaded
+auditeeRegisteredStatewise.htm,state,Registered auditees by state,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,210,json,downloaded
+gpWithAuditReportGeneratedReportStateWise.htm,state,"GPs with audit report generated, by state",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,210,json,downloaded
+observationCountStateReport.htm,state,"Audit observations recorded, by state",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,210,json,downloaded
+auditSettlementReportLevelWise.htm,state,"Audit and settlement reports, by state (GP level)",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,238,json,downloaded
+auditeeRegisteredDistrictwise.htm,district,Registered auditees by district,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,266,json,downloaded
+gpWithAuditReportGeneratedReportDistrictWise.htm,district,"GPs with audit report generated, by district",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,266,json,downloaded
+observationCountDistrictReport.htm,district,Audit observations by district,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,266,json,downloaded
+observationCountCategoryReport.htm,district,Audit observations by category (Bihar),2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,142,json,downloaded
+auditSettlementReportLevelWise.htm,district,Audit and settlement reports by district,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,266,json,downloaded
+actionTakenSettlementReport.htm,district,"Action taken on settlement, by district",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,266,json,downloaded
+observationCountSubCategoryReport.htm,district,Audit observations by sub-category (Bihar),2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,142,933,json,downloaded
+gpLevelAuditStatusReport.htm,district,GP Level Audit Status Report,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,0,html,downloaded
+gpAuditStatusExcel.htm,district,GP Level Audit Status Report (Excel export),2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,0,xlsx,downloaded
+yearBookNotClosedDetails.htm,district,Year Book Not Closed (form),2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,7,0,html,downloaded
+centerLevelByYearAndDistrict.htm,block,Audit plans: GPs and auditees by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3738,json,downloaded
+centerLevelByYearAndDistrictGP.htm,block,Audit plans of every GP in the district,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3099,json,downloaded|http_error
+auditeeRegisteredBlockwise.htm,block,Registered auditees by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
+gpWithAuditReportGeneratedReportBlockWise.htm,block,"GPs with audit report generated, by block",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
+observationCountBlocktReport.htm,block,Audit observations by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
+auditSettlementReportLevelWise.htm,block,Audit and settlement reports by block,2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
+actionTakenSettlementReport.htm,block,"Action taken on settlement, by block",2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026,266,3733,json,downloaded
+centerLevelByYearAndBlock.htm,gp,Audit plans of every GP in the block,2020-2021,534,8150,json,downloaded
+gpWithAuditReportGeneratedDetail.htm,gp,GP audit report generated: per GP,2020-2021,534,8130,html|json,downloaded|error_page
+observationCountGPReport.htm,gp,Audit observations per GP,2020-2021 2024-2025,535,8416,json,downloaded
+auditSettlementReportLevelWise.htm,gp,Audit and settlement report status per GP,2020-2021,534,8387,json,downloaded
+observationCountCategoryReportGPWise.htm,gp_detail,Audit observations per GP by category,2024-2025,30,229,json,downloaded
+getPanchayatDetail.htm,gp_detail,Panchayat type lookup,,30,30,json,downloaded

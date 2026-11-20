@@ -1,0 +1,139 @@
+endpoint,field,json_types,geo_levels,rows_seen,null,string_0_placeholder,empty_string,example_value
+centerLevelByYearAndState.htm,id,integer,district,418,0,0,0,1
+centerLevelByYearAndState.htm,gpCount,integer,district,418,0,0,0,218
+centerLevelByYearAndState.htm,auditeeCount,integer,district,418,0,0,0,19
+centerLevelByYearAndState.htm,auditorCount,integer,district,418,0,0,0,
+centerLevelByYearAndState.htm,year,integer,district,418,0,0,0,
+centerLevelByYearAndState.htm,code,integer,district,418,0,0,0,179
+centerLevelByYearAndState.htm,name,string,district,418,0,0,0,Araria
+centerLevelByYearAndState.htm,entityCode,integer,district,418,0,0,0,
+centerLevelCount.htm,gpCount,null,state,7,7,0,0,
+centerLevelCount.htm,auditeeCount,null,state,7,7,0,0,
+centerLevelCount.htm,bpAuditeeCount,null,state,7,7,0,0,
+centerLevelCount.htm,dpAuditeeCount,null,state,7,7,0,0,
+centerLevelCount.htm,auditorCount,string,state,7,0,0,0,12910
+centerLevelCount.htm,observationCount,null,state,7,7,0,0,
+centerLevelCount.htm,bpObservationCount,null,state,7,7,0,0,
+centerLevelCount.htm,dpObservationCount,null,state,7,7,0,0,
+centerLevelCount.htm,auditeeRegisterCount,null,state,7,7,0,0,
+centerLevelCount.htm,bpAuditeeRegisterCount,null,state,7,7,0,0,
+centerLevelCount.htm,dpAuditeeRegisterCount,null,state,7,7,0,0,
+centerLevelCount.htm,gpWithReportsGeneratedCount,null,state,7,7,0,0,
+centerLevelCount.htm,bpWithReportsGeneratedCount,null,state,7,7,0,0,
+centerLevelCount.htm,dpWithReportsGeneratedCount,null,state,7,7,0,0,
+centerLevelCount.htm,ldAuditeeCount,string,state,7,0,3,0,1
+centerLevelCount.htm,ldObsCount,string,state,7,0,4,0,7
+centerLevelCount.htm,ldReportCount,string,state,7,0,4,0,1
+centerLevelCount.htm,ldPlanCreated,string,state,7,0,4,0,1
+centerLevelCount.htm,observationCountList,array,state,7,0,0,0,"[[""D"", 1], [""I"", 45], [""V"", 1262236]]"
+centerLevelCount.htm,auditeeCountList,array,state,7,0,0,0,"[[""D"", 6], [""I"", 224], [""V"", 144387]]"
+centerLevelCount.htm,auditeeRegisterList,array,state,7,0,0,0,"[[""D"", 626], [""I"", 6352], [""V"", 255938]]"
+centerLevelCount.htm,gpWithreportsGeneratedList,array,state,7,0,0,0,"[[""D"", 1], [""I"", 16], [""V"", 130605]]"
+centerLevelCount.htm,gpWiseSettlementCount,integer,state,7,0,0,0,2
+centerLevelCount.htm,bpWiseSettlementCount,integer,state,7,0,0,0,1
+centerLevelCount.htm,zpWiseSettlementCount,integer,state,7,0,0,0,6
+centerLevelCount.htm,gpWiseActionTakenCount,integer,state,7,0,0,0,9
+centerLevelCount.htm,bpWiseActionTakenCount,integer,state,7,0,0,0,
+centerLevelCount.htm,zpWiseActionTakenCount,integer,state,7,0,0,0,1
+centerLevelCount.htm,reportsGeneratedCount,null,state,7,7,0,0,
+centerLevelByYear.htm,id,integer,state,210,0,0,0,1
+centerLevelByYear.htm,gpCount,integer,state,210,0,0,0,13467
+centerLevelByYear.htm,auditeeCount,integer,state,210,0,0,0,4336
+centerLevelByYear.htm,auditorCount,integer,state,210,0,0,0,
+centerLevelByYear.htm,year,integer,state,210,0,0,0,
+centerLevelByYear.htm,code,integer,state,210,0,0,0,28
+centerLevelByYear.htm,name,string,state,210,0,0,0,Andhra Pradesh
+centerLevelByYear.htm,entityCode,integer,state,210,0,0,0,
+auditeeRegisteredStatewise.htm,code,integer,state,210,0,0,0,28
+auditeeRegisteredStatewise.htm,name,string,state,210,0,0,0,Andhra Pradesh
+auditeeRegisteredStatewise.htm,auditeeCount,integer,state,210,0,0,0,13355
+gpWithAuditReportGeneratedReportStateWise.htm,code,integer,state,210,0,0,0,28
+gpWithAuditReportGeneratedReportStateWise.htm,name,string,state,210,0,0,0,ANDHRA PRADESH
+gpWithAuditReportGeneratedReportStateWise.htm,gpCount,integer,state,210,0,0,0,13467
+gpWithAuditReportGeneratedReportStateWise.htm,count,integer,state,210,0,0,0,4105
+observationCountStateReport.htm,code,integer,state,210,0,0,0,28
+observationCountStateReport.htm,name,string,state,210,0,0,0,Andhra Pradesh
+observationCountStateReport.htm,count,integer,state,210,0,0,0,110315
+auditSettlementReportLevelWise.htm,code,integer,block|district|gp|state,12624,0,0,0,35
+auditSettlementReportLevelWise.htm,name,string,block|district|gp|state,12624,0,0,0,ANDAMAN AND NICOBAR ISLANDS
+auditSettlementReportLevelWise.htm,count,integer,block|district|gp|state,12624,0,0,0,242
+auditSettlementReportLevelWise.htm,auditGeneratedReportCount,integer,block|district|gp|state,12624,0,0,0,4138
+auditSettlementReportLevelWise.htm,auditSettlementReportCount,integer,block|district|gp|state,12624,0,0,0,1
+auditSettlementReportLevelWise.htm,auditPeriod,string,block|district|gp|state,12624,0,4237,0,2020-2021
+auditSettlementReportLevelWise.htm,auditScheduleDate,string,block|district|gp|state,12624,0,4237,0,19/11/2021-19/11/2021
+auditeeRegisteredDistrictwise.htm,code,integer,district,266,0,0,0,179
+auditeeRegisteredDistrictwise.htm,name,string,district,266,0,0,0,Araria
+auditeeRegisteredDistrictwise.htm,auditeeCount,integer,district,266,0,0,0,218
+gpWithAuditReportGeneratedReportDistrictWise.htm,code,integer,district,266,0,0,0,179
+gpWithAuditReportGeneratedReportDistrictWise.htm,name,string,district,266,0,0,0,ARARIA
+gpWithAuditReportGeneratedReportDistrictWise.htm,gpCount,integer,district,266,0,0,0,218
+gpWithAuditReportGeneratedReportDistrictWise.htm,count,integer,district,266,0,0,0,18
+observationCountDistrictReport.htm,code,integer,district,266,0,0,0,179
+observationCountDistrictReport.htm,name,string,district,266,0,0,0,ARARIA
+observationCountDistrictReport.htm,count,integer,district,266,0,0,0,133
+observationCountCategoryReport.htm,code,integer,district,142,0,0,0,1
+observationCountCategoryReport.htm,name,string,district,142,0,0,0,01 - Variation in Accounts Figures
+observationCountCategoryReport.htm,count,integer,district,142,0,0,0,21
+actionTakenSettlementReport.htm,code,integer,block|district,3999,0,0,0,179
+actionTakenSettlementReport.htm,name,string,block|district,3999,0,0,0,ARARIA
+actionTakenSettlementReport.htm,count,integer,block|district,3999,0,0,0,218
+actionTakenSettlementReport.htm,action_taken_count,integer,block|district,3999,0,0,0,
+actionTakenSettlementReport.htm,audit_period,string,block|district,3999,0,3999,0,
+actionTakenSettlementReport.htm,audit_schedule_date,string,block|district,3999,0,3999,0,
+observationCountSubCategoryReport.htm,code,integer,district,933,0,0,0,7264
+observationCountSubCategoryReport.htm,name,string,district,933,0,0,0,Mismatch between cash book balance and balance as per bank pass book
+observationCountSubCategoryReport.htm,count,integer,district,933,0,0,0,15
+centerLevelByYearAndDistrict.htm,id,integer,block,3738,0,0,0,1
+centerLevelByYearAndDistrict.htm,gpCount,integer|null,block,3738,5,0,0,30
+centerLevelByYearAndDistrict.htm,auditeeCount,integer,block,3738,0,0,0,19
+centerLevelByYearAndDistrict.htm,auditorCount,integer,block,3738,0,0,0,
+centerLevelByYearAndDistrict.htm,year,integer,block,3738,0,0,0,
+centerLevelByYearAndDistrict.htm,code,integer,block,3738,0,0,0,2206
+centerLevelByYearAndDistrict.htm,name,string,block,3738,0,0,0,Araria
+centerLevelByYearAndDistrict.htm,entityCode,integer,block,3738,0,0,0,
+auditeeRegisteredBlockwise.htm,code,integer,block,3733,0,0,0,2206
+auditeeRegisteredBlockwise.htm,name,string,block,3733,0,0,0,Araria
+auditeeRegisteredBlockwise.htm,auditeeCount,integer,block,3733,0,0,0,30
+gpWithAuditReportGeneratedReportBlockWise.htm,code,integer,block,3733,0,0,0,2206
+gpWithAuditReportGeneratedReportBlockWise.htm,name,string,block,3733,0,0,0,ARARIA
+gpWithAuditReportGeneratedReportBlockWise.htm,gpCount,integer,block,3733,0,0,0,30
+gpWithAuditReportGeneratedReportBlockWise.htm,count,integer,block,3733,0,0,0,18
+observationCountBlocktReport.htm,code,integer,block,3733,0,0,0,2206
+observationCountBlocktReport.htm,name,string,block,3733,0,0,0,ARARIA
+observationCountBlocktReport.htm,count,integer,block,3733,0,0,0,133
+centerLevelByYearAndDistrictGP.htm,assignAuditeeId,integer,block,3099,0,0,0,316484
+centerLevelByYearAndDistrictGP.htm,auditeeCode,integer,block,3099,0,0,0,2543
+centerLevelByYearAndDistrictGP.htm,auditeeName,string,block,3099,0,0,0,Mokama
+centerLevelByYearAndDistrictGP.htm,auditPeriod,string,block,3099,0,0,0,2019-2020
+centerLevelByYearAndDistrictGP.htm,auditStartDate,string,block,3099,0,0,0,27/01/2022
+centerLevelByYearAndDistrictGP.htm,auditEndDate,string,block,3099,0,0,0,28/01/2022
+centerLevelByYearAndDistrictGP.htm,districCode,integer,block,3099,0,0,0,203
+centerLevelByYearAndDistrictGP.htm,districtName,string,block,3099,0,0,0,Patna
+centerLevelByYearAndDistrictGP.htm,year,integer,block,3099,0,0,0,2019
+centerLevelByYearAndDistrictGP.htm,schemeName,string,block,3099,0,0,0,"Others,TFC,14FC,15FC"
+centerLevelByYearAndBlock.htm,assignAuditeeId,integer,gp,8150,0,0,0,305978
+centerLevelByYearAndBlock.htm,auditeeCode,integer,gp,8150,0,0,0,93642
+centerLevelByYearAndBlock.htm,auditeeName,string,gp,8150,0,0,0,Baturbari
+centerLevelByYearAndBlock.htm,auditPeriod,string,gp,8150,0,0,0,2020-2021
+centerLevelByYearAndBlock.htm,auditStartDate,string,gp,8150,0,0,0,23/11/2021
+centerLevelByYearAndBlock.htm,auditEndDate,string,gp,8150,0,0,0,23/11/2021
+centerLevelByYearAndBlock.htm,districCode,integer,gp,8150,0,0,0,2206
+centerLevelByYearAndBlock.htm,districtName,string,gp,8150,0,0,0,Araria
+centerLevelByYearAndBlock.htm,year,integer,gp,8150,0,0,0,2020
+centerLevelByYearAndBlock.htm,schemeName,string,gp,8150,0,0,0,"Others,TFC,14FC,15FC"
+gpWithAuditReportGeneratedDetail.htm,id,integer,gp,8130,0,0,0,1
+gpWithAuditReportGeneratedDetail.htm,code,integer,gp,8130,0,0,0,93638
+gpWithAuditReportGeneratedDetail.htm,name,string,gp,8130,0,0,0,ARARIA BASTI
+gpWithAuditReportGeneratedDetail.htm,count,integer,gp,8130,0,0,0,1
+gpWithAuditReportGeneratedDetail.htm,auditPeriod,string,gp,8130,0,0,0,2020-2021
+gpWithAuditReportGeneratedDetail.htm,scheduleStartDate,string,gp,8130,0,0,0,19/11/2021
+gpWithAuditReportGeneratedDetail.htm,scheduleEndDate,string,gp,8130,0,0,0,19/11/2021
+gpWithAuditReportGeneratedDetail.htm,scheme,string,gp,8130,0,0,0,"Others,TFC,14FC,15FC"
+observationCountGPReport.htm,code,integer,gp,8416,0,0,0,93638
+observationCountGPReport.htm,name,string,gp,8416,0,0,0,ARARIA BASTI
+observationCountGPReport.htm,count,integer,gp,8416,0,0,0,8
+observationCountCategoryReportGPWise.htm,code,integer,gp_detail,229,0,0,0,4
+observationCountCategoryReportGPWise.htm,name,string,gp_detail,229,0,0,0,04 - Non Utilization of Grants before lapsable date
+observationCountCategoryReportGPWise.htm,count,integer,gp_detail,229,0,0,0,1
+getPanchayatDetail.htm,local_body_type_name,string,gp_detail,30,0,0,0,Village Panchayat
+getPanchayatDetail.htm,category,string,gp_detail,30,0,0,0,P
