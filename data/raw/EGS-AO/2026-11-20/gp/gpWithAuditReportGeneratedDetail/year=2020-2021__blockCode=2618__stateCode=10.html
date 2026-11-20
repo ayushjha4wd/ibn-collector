@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+<!-- Below Code Added By Angad to Prevent Browser Back and Desable Offline Mode-->
+<!-- 
+<script type="text/javascript">
+
+function preventBack(){
+	window.history.forward();
+	}
+setTimeout("preventBack()", 0);
+window.onunload=function(){null;};
+
+//Below Function for No-Cache 
+	function burstCache() {
+		if (!window.navigator.onLine) {
+			document.body.innerHTML = 'Loading...';
+			window.location = '/audit/';
+		}
+	}
+</script> -->
+
+
+
+
+<script>
+if (!navigator.onLine) {
+	 document.body.innerHTML = 'Loading...';
+	 window.location = 'logout.htm';
+	}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- 
+<body onload="burstCache()" onpageshow="if (event.persisted) preventBack();">
+	
+</body>
+-->
+
+
+<html>
+
+<head>
+<meta charset="utf-8" />
+<title>Lost Cloud - Error page</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet"
+	href="/resources/error/error.css">
+
+<script type="text/javascript"
+	src="/resources/js/jquery.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/popper.js"></script>
+<script type="text/javascript"
+	src="/resources/js/jquery-ui.min.js"></script>
+<script type="text/javascript"
+	src="/resources/error/plax.js"></script>
+<script>
+$(function(e){
+	var x=document.documentElement.clientHeight;
+	var y=e(".header").outerHeight();
+	e("#parallax_wrapper").css("height",x-y+"px");
+	e("#parallax_wrapper").css("left",50+"%");
+	e(".scene_1").plaxify({"xRange":0,"yRange":0,"invert":true}),
+	e(".scene_2").plaxify({"xRange":70,"yRange":20,"invert":true}),
+	e(".scene_3").plaxify({"xRange":40,"yRange":20,"invert":false}),
+	e(".scene_4").plaxify({"xRange":100,"yRange":20,"invert":true}),
+	e(".scene_5").plaxify({"xRange":80,"yRange":20,"invert":false}),
+	e(".scene_6").plaxify({"xRange":40,"yRange":25,"invert":false}),
+	e(".scene_7").plaxify({"xRange":30,"yRange":25,"invert":true}),
+	e.plax.enable();
+	e(document).ready(function(){});
+	window.setInterval(function(){
+  $('.duck-animation').delay(60).css('background-position-x','-1000px').animate({'background-position-x':'2000px'},15000,'linear');
+}, 100);
+});
+
+
+</script>
+</head>
+<!-- Main content -->
+<body id="errorpage" class="error404">
+	<div id="pagewrap">
+
+		<!-- Plane -->
+		<div id="main-content">
+			<div class="duck-animation"
+				style="background-image:url(/resources/error/plane.png);"></div>
+		</div>
+		<!--page content-->
+		<div id="wrapper" class="clearfix">
+			<div id="parallax_wrapper">
+				<div id="content">
+					<h1>
+						500 <br />Oops! Something went wrong
+					</h1>
+					<p>Due to some technical problem your request could not be
+						completed. Please try after some time or contact the
+						administrator.</p>
+					<h2>
+						Your request id is :
+						9270702</h2>
+					<a href="welcome.do" class="button">Go Home</a>
+				</div>
+				<!--parallax-->
+				<span class="scene scene_1"></span> <span class="scene scene_2"></span>
+				<span class="scene scene_3"></span> <span class="scene scene_4"></span>
+				<span class="scene scene_5"></span> <span class="scene scene_6"></span>
+				<span class="scene scene_7"></span>
+			</div>
+		</div>
+
+	</div>
+	<!-- end pagewrap -->
+</body>
+</html>
+
+
