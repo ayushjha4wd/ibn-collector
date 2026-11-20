@@ -1,0 +1,853 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referer" content="strict-origin-when-cross-origin" />
+<title>Data not Found</title>
+<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<!-- Theme style -->
+
+<!--  Theme Skins -->
+	
+	<!-- Data Table -->
+
+
+
+<script defer src="https://egramswaraj.gov.in/pes_analytics/script.js" data-website-id="10df7fae-9459-4a49-af58-19370610e6f1"></script>
+
+</head>
+
+<body>
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css"
+	href="/resources/bootstrap/css/bootstrap.min.css">
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="/resources/home/js/font-awesome.min.css">
+<!-- Theme style -->
+<link rel="stylesheet"
+	href="/resources/dist/css/style.css">
+<!--  Theme Skins -->
+<link rel="stylesheet" type="text/css"
+	href="/resources/dist/css/skins/_all-skins.min.css">
+
+<script
+	src="/resources/js/helpMessage.js"
+	type="text/javascript"></script>
+
+<script
+	src="/resources/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="/resources/home/js/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+       /*  $.widget.bridge('uibutton', $.ui.button); */
+    </script>
+<!-- Bootstrap 3.3.7 -->
+<script src="/resources/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Slimscroll -->
+<script src="/resources/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+<!-- FastClick -->
+<script src="/resources/plugins/fastclick/fastclick.min.js"></script>
+<!-- AdminLTE App -->
+<script src="/resources/dist/js/app.min.js"></script>
+<!-- bootbox alerts -->
+<script src="/resources/plugins/bootbox/bootbox.all.min.js"></script>
+
+<!--    For Top scrolling button              -->
+<script type="text/javascript">
+        function scrollToTop() {
+            jQuery('html, body').animate({
+                scrollTop: 0
+            }, 'slow');
+        }
+    </script>
+
+
+
+
+
+
+
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type' content='text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>PES | Dashboard</title> <!-- Tell the browser to be responsive to screen width -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+	<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css"/>
+<!-- Theme style -->
+	<link rel="stylesheet" href="/resources/dist/css/dashboard.min.css"/>
+	<link rel="stylesheet" href="/resources/dist/css/style.css" />
+<!--  Theme Skins -->
+	<link rel="stylesheet" type="text/css" href="/resources/dist/css/skins/_all-skins.min.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/resources/css/core.minNew_.css" />
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+						<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+						<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+<script>
+	if (!navigator.onLine) {
+		document.body.innerHTML = 'Loading...';
+		window.location = 'logOutAction.html';
+	}
+</script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+	
+	$("body").removeClass('skin-blue skin-yellow skin-green skin-red skin-purple skin-black skin-orange');
+	
+	if(''!=""){
+	 $("body").addClass('');
+	}else{
+	 	$("body").addClass('skin-blue');
+	 }
+	$('[data-toggle="tooltip"]').tooltip();
+});	
+	function makeThemeAndLanguageSelected()
+	{
+	
+		var selectedTheme = document.getElementById("themeId");
+		var selectedThemeValue = document.getElementById("selectedTheme").innerHTML;
+		selectedTheme.value=selectedThemeValue;
+		var selectedLanguage = document.getElementById("languageId");
+		var selectedLanguageValue = document.getElementById("selectedLanguage").innerHTML;
+		if(selectedLanguage) {
+			selectedLanguage.value=selectedLanguageValue;
+		}
+	}
+	
+	function submitThemeForm()
+	{
+		var isOK = confirm("This will Refresh Your Page. Any Unsaved data will be Lost. Do You still want to Continue?");
+		if(isOK)
+		{
+			document.getElementById('themeForm').submit();
+		}else{
+		return;	
+		}
+	}
+
+	function submitLanguageForm(){
+
+
+	var isOK = confirm("This will Refresh Your Page. Any Unsaved data will be Lost. Do You still want to Continue?");
+		if(isOK)
+		{
+			document.getElementById('languageForm').submit();
+		}else{
+		return;	
+		}
+	}
+
+function openHelpModal() {	
+		var data = "";
+		//alert(data);
+			  	$("#helpContent").html('');
+				$("#helpModal").modal('show'); 
+			  
+	}
+	function closeModal(){
+		$('#helpModal').modal('hide');
+	}
+
+
+</script>
+<style>
+
+ * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    body {
+      background: #f8f5ef;
+      padding: 30px;
+      color: #1e293b;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: auto;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .header h1 {
+      font-size: 34px;
+      color: #0f172a;
+      margin-bottom: 8px;
+    }
+
+    .header p {
+      color: #64748b;
+      font-size: 15px;
+    }
+
+    .dashboard-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));		
+		gap: 15px;
+    }
+
+	.module-logo{
+		width: 58px;
+		height: 58px;
+		object-fit: contain;
+		margin-bottom: 14px;
+		border-radius: 50%;
+		background: #ffffff;
+		padding: 2px;
+	}
+    .mcard {
+    padding: 14px;
+    border-radius: 10px;
+	}
+	.mcard {
+    background: #ffffff;
+    border-radius: 18px;
+    min-height: 111px;
+    padding: 24px 18px;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+	}
+
+    .mcard:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.12);
+    }
+
+    .mcard::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 8px;
+    }
+
+    .mcard i {
+    font-size: 27px;
+    margin-bottom: 14px;
+	}
+
+
+    .mcard h3 {
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.5;
+      color: #1e293b;
+    }
+
+    /* Module Themes */
+
+    .orange::before {
+      background: linear-gradient(90deg, #fb923c, #ea580c);
+    }
+
+    .orange i {
+      color: #ea580c;
+    }
+
+    .blue::before {
+      background: linear-gradient(90deg, #60a5fa, #2563eb);
+    }
+
+    .blue i {
+      color: #2563eb;
+    }
+
+    .teal::before {
+      background: linear-gradient(90deg, #2dd4bf, #0f766e);
+    }
+
+    .teal i {
+      color: #0f766e;
+    }
+
+    .indigo::before {
+      background: linear-gradient(90deg, #818cf8, #4338ca);
+    }
+
+    .indigo i {
+      color: #4338ca;
+    }
+
+    .slate::before {
+      background: linear-gradient(90deg, #64748b, #1e293b);
+    }
+
+    .slate i {
+      color: #1e293b;
+    }
+
+    .cyan::before {
+      background: linear-gradient(90deg, #22d3ee, #0891b2);
+    }
+
+    .cyan i {
+      color: #0891b2;
+    }
+
+    .module-tag {
+      position: absolute;
+      top: 9px;
+      right: 14px;
+      font-size: 7px;
+      font-weight: 700;
+      padding: 4px 8px;
+      border-radius: 20px;
+      background: #f1f5f9;
+      color: #475569;
+      letter-spacing: 0.5px;
+    }
+
+    @media(max-width: 768px) {
+      body {
+        padding: 15px;
+      }
+
+      .header h1 {
+        font-size: 26px;
+      }
+
+      .mcard {
+        min-height: 125px;
+      }
+    }
+
+
+
+
+.cust-menu-pos {
+    margin-top: 40px !important;
+;
+}
+
+@media (min-width: 768px) {
+    .cust-menu-pos {
+        margin-top: 56px !important;
+;
+    }
+}
+
+@media (min-width: 1200px) {
+    .cust-menu-pos {
+        margin-top: 70px !important;
+;
+    }
+}
+
+.user-footer > .col-xs-6{
+	display:block!important;
+}
+.help-section-1  .row{
+	margin: 10px;
+    border: solid 1px #00000060;
+    border-radius: 10px;
+    background-color:#fff;
+    min-width: 100px;
+    padding: 10px;
+	box-shadow: 1px 4px 5px 3px #0000001f;
+}
+.help-section-1 .description, .ellipsis-text.description{
+	font-size:1.5rem;
+}
+.help-section-1 .help-img {
+    filter: hue-rotate(308deg) brightness(2);
+	max-height:50px;
+}
+.read-more {
+	font-family: cursive;
+	color: red !important;
+	cursor:pointer;
+	font-size:1.5rem;
+}
+.read-more:hover, .read-more:focus{
+	filter:brightness(0.75);
+}
+.read-more ~ .fa-arrow-circle-right{
+	color:red !important;
+}
+.read-more:hover .fa-arrow-circle-right, .read-more:focus .fa-arrow-circle-right{
+	filter:brightness(0.75);
+}
+
+.help-section-1 ~ .content-wrapper .content {
+	padding: 0px 15px 15px 15px;
+}
+.help-section-1 ~ .content-wrapper .content-header{
+	padding-top:5px;
+}
+.ellipsis-text:after{
+	content:'...';
+		font-weight:bold;
+		font-size:1.2rem;
+}
+	.help-text-dropdown {
+	    min-height: 200px;
+	    width: 350px;
+	    padding: 10px;
+	    box-shadow: 0px 3px 4px #0000002e;
+	    border-radius: 0px 0px 5px 5px;
+	}
+.navbar-custom-menu #help-list .dropdown-menu {
+    margin: 0px;
+}
+/* 11072023 */
+.panchayat-profile td{
+	width:25%;padding:4px;text-transform:capitalize;
+}
+@media (max-width:768px){
+	.panchayat-profile td{
+		width:100% !important;
+		display:table;
+		margin:1px !important;
+	}
+}
+</style>
+<script>
+$(function(){
+	$(".help-drop").addClass("show animate__animated animate__fadeOutUp");
+	setTimeout(function(){
+		$(".help-drop").removeClass("animate__animated animate__fadeOutUp").addClass("animate__animated animate__fadeInDown");
+
+	}, 5000);
+
+});
+
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+</head>
+<body class="hold-transition skin-blue sidebar-mini">
+	<!-- <div class="totop" onClick="scrollToTop();"></div> --><!-- BI 0024734 11122019 -->
+	<!-- Header -->
+	
+	
+	
+	<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    
+      
+
+      
+        <div class="row">
+          <!-- Left Logo -->
+          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <a href="/home.htm">
+              <img src="/resources/dist/img/logo.png"
+                   class="img-responsive" title="PES" alt="PES" />
+            </a>
+          </div>
+
+          <!-- Center Profile Info -->
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <table id="gp-profile" class="panchayat-profile table table-bordered" style="max-width:100%;">
+              <tr>
+                <td>State:&nbsp;<span class="text text-primary"></span></td>
+                <td>
+                  
+                  <span class="text text-primary"></span>
+                </td>
+                <td>
+                  
+                  <span class="text text-primary"></span>
+                </td>
+                <td>
+                  
+                  <span class="text text-primary">
+                    
+                  </span>
+                </td>
+              </tr>
+              <tr>
+                <td>Name:&nbsp;<span class="text text-primary"></span></td>
+                <td>Designation:&nbsp;<span class="text text-primary"></span></td>
+                <td>Email:&nbsp;<span class="text text-primary"></span></td>
+                <td>Mobile:&nbsp;<span class="text text-primary"></span></td>
+              </tr>
+            </table>
+          </div>
+
+          <!-- Right Logo -->
+          <div class="col-lg-2 col-md-2 hidden-sm hidden-xs">
+            <a href="#">
+              <img src="/resources/dist/img/pes.png"
+                   alt="PES Logo" class="img-responsive center-block">
+            </a>
+          </div>
+        </div>
+      
+    
+  </div>
+</div>
+	
+	
+	
+	<div class="wrapper">
+		
+		<header class="main-header"> <!-- Logo -->  <!-- Header Navbar: style can be found in header.less --> 
+		<nav class="" role="navigation"> <!-- Sidebar toggle button-->
+		<!-- <a href="#" class="sidebar-toggle" data-toggle="offcanvas"
+			role="button" title="Toggle Menu"> <span class="sr-only">Toggle navigation</span>
+		</a> -->
+		
+		
+		
+
+		
+			<script>
+	 function toggleTheme(id){
+		 var answer = window.confirm("Please save form before proceeding. Apply "+ id +" theme?")
+		 if (answer) {
+			 $("body").removeClass('skin-blue skin-yellow skin-green skin-red skin-purple skin-black skin-orange');
+			 $("body").addClass(id);
+			 $("#theme").val(id);
+			 var form = document.getElementById('themeForm');
+				form.submit();
+		 }
+		 else {
+		     //some code
+		 }
+			
+	  }
+	  
+	  </script>
+			
+		
+			
+			
+			
+			
+			
+			
+			<div class="navbar-custom-menu">
+			 
+			<ul class="nav navbar-nav"> 
+			<li class="nav-item">  <a>()</a></li>
+			
+			<!-- <li class="dropdown bg-primary" id="next-task-list">
+                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-clock-o" aria-hidden="true"></i>  Next Task<b class="caret"></b></a>
+                     <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu5">
+                        <li><a href="#" class="btn ">Add Activity</a></li>
+                     </ul>
+                   
+              </li> -->
+				
+			
+		
+			
+			
+			 <li class="dropdown" id="themes-list">
+			 <form id="themeForm">
+			 	<input type="hidden" id="theme" name="theme" value="skin-orange" />  </form>
+                     <a href="#" data-toggle="dropdown"><i class="fa fa-cogs" aria-hidden="true"></i> Themes <b class="caret"></b></a>
+                     <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu3">
+                        
+                        <li><a class="btn " onclick="toggleTheme(this.id)" id="skin-orange">Default</a></li>
+						 <li class="divider"></li>
+                        <li><a class="btn " onclick="toggleTheme(this.id)" id="skin-blue">Blue</a></li>
+						 <li class="divider"></li>
+                        <li><a class="btn " onclick="toggleTheme(this.id)" id="skin-green">Green</a></li>
+                                               
+                     </ul>
+                   
+              </li>
+			
+			<li class="switchunit-link"><a href="/switchunitchangefinancialYear.htm">
+			<i class="fa fa-exchange fa-1x" aria-hidden="true"></i>&nbsp;&nbsp;Switch Unit</a></li>
+			
+			
+			
+			
+				<!-- User Account: style can be found in dropdown.less -->
+				 <li> <a><i class="fa fa-user fa-1x" aria-hidden="true"></i>&nbsp;&nbsp;</a>
+				   </li> 
+						
+	<li class="nav-item dropdown position-static">
+          <a class="nav-link" href="#" id="navbarDropdown" role="button"
+            data-toggle="dropdown" aria-expanded="false">
+         <i class="fa fa-th" aria-hidden="true"></i> <strong>Menu</strong> <b class="caret"></b>
+          </a>
+          <!-- Dropdown menu -->
+             <div class="dropdown-menu cust-menu-pos w-50 mt-0" aria-labelledby="navbarDropdown" style="
+                          border-top-left-radius: 0;
+                          border-top-right-radius: 0;
+			
+                        ">
+            <div class="row col-lg-12">
+           <div class="container container-fluid dropdown-menu-overflow  mt-5 mb-5">
+             <div class="dashboard-grid">
+              
+              
+              
+              
+              
+                
+              </div>
+            </div>
+            </div>
+          </div>
+        </li>
+					
+					<li><a data-toggle="tooltip" title="Logout" href="/logOutAction.htm" class="btn btn-danger btn-flat">
+					<i class="fa fa-sign-out"></i>&nbsp;&nbsp;&nbsp;</a></li>
+
+			</ul>
+		</div>
+		</nav> </header>
+		
+		<!--nav will not appear if sub menu value is empty -->
+		<!--nav will not appear if sub menu value is empty -->
+
+
+
+
+
+
+		
+	<div class="modal" id="helpModal">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content" id="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" onclick="closeModal()">&times;</button>
+					</div>
+					<div class="modal-body" style="height:300px;">
+						<div class="col-lg-12" id="helpContent">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+
+
+
+</body>
+</html>
+
+
+
+	
+	
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+    <style>
+	.datepicker.dropdown-menu {
+		z-index: 1034 !important;
+		}
+		.box-footer {
+        text-align: center;
+    }
+    .box-header {
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="content-wrapper" style="min-height: 341px;">
+        <section class="content-header mb-3">
+            <ol class="breadcrumb">
+                <li><a href="home.htm"> <i class="fa fa-home"></i> Home
+            </ol>
+        </section>
+        <section class="content">
+            <div class="row">
+                <section class="col-lg-12 connectedSortable">
+                    <div class="box box-solid">
+                        <div class="box-header with-border">
+                        
+						<h3>
+            An error occurred.
+        </h3>
+                        </div>
+                        <div class="box-body">
+                            <div class="container">
+                                <div class="resize" style="text-align: center; padding-top: 50px;" id="errormsgdiv">
+                                    <img src="/resources/images/nodata.jpg" alt="eGramSwaraj" class="img-fluid" style="max-height: 400px; max-width: 400px; width: 100%;">
+                                    <br>
+                                    <font size="5" color="red">Data NOT Available</font>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-footer">
+                            
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+</head>
+
+
+<body>
+
+
+
+	<footer> <nav class="navbar_footer  footer">
+
+	<ul class="nav navbar-nav">
+		<li><img
+			src="/resources/home/images/india-gov-logo.png"
+			alt="india gov logo" class="img-responsive"></li>
+		<li><img
+			src="/resources/home/images/digital-india-logo.png"
+			alt="e-governance" class="img-responsive"></li>
+		<li><img
+			src="/resources/dist/img/panchayati-raj_in.png"
+			alt="panchayati raj Logo" class="img-responsive"></li>
+	</ul>
+	<ul class="nav navbar-nav  navbar-right">
+		<li><a href="#">Sitemap</a></li>
+		<li><a href="#">Feedback</a></li>
+		<li><a href="#">Privacy Policy</a></li>
+		<li><a href="#">Terms &amp; Conditions</a></li>
+		<li><a href="#">Copyright</a></li>
+		<li><a href="#">Contact Us</a></li>
+	</ul>
+	</nav>
+
+	<div class="container-fluid copyright text-center">
+		<p>
+			<strong> Copyright 2020, Designed and Developed by National
+				Informatics Centre. <img src="resources/home/images/niclogo.png" style="width: 60px;" title="Nic" class="img-responsive displayInlineBlock"/></strong>
+		</p>
+	</div>
+
+	</footer>
+	
+	
+	<script src="resources/js/common.js" type="text/javascript"></script>
+	<script src="resources/js/jquery.accordion.source.js"
+		type="text/javascript"></script>
+</body>
+</html>
+
+
+	</div>
+	</div>
+	
+	
+ <!-- #####################################Alert ############################### -->
+
+ <!-- added by shiv  -->
+ 
+ 
+ <!-- end here -->
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#formErrorDiv").append("<div class='alert alert-primary'><i class='fa fa-exclamation-circle' aria-hidden='true'></i> KPI statistics are updated through a scheduler that runs on hourly basis hence there might be a difference in the counts of both reports at a point of time.</div>");
+	$("#formErrorDiv").fadeTo(6000, 500).slideUp(500, function(){
+	    $("#formErrorDiv").slideUp(500);
+	});
+});
+</script>
+
+</body>
+</html>
