@@ -1,0 +1,37 @@
+﻿report,fin_year,state,district,block,S.No.,State Code,State Name,Total Number of Panchayat,Service Ready,Operational,source_file
+,,,,,1,35,Andaman And Nicobar Islands,70,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,2,28,Andhra Pradesh,13328,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,3,12,Arunachal Pradesh,2108,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,4,18,Assam,2662,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,5,10,Bihar,8055,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,6,4,Chandigarh,0,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,7,22,Chhattisgarh,11656,2,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,8,7,Delhi,0,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,9,30,Goa,191,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,10,24,Gujarat,14665,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,11,6,Haryana,6228,5945,1185,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,12,2,Himachal Pradesh,3615,409,243,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,13,1,Jammu And Kashmir,4291,1089,427,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,14,20,Jharkhand,4347,9,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,15,29,Karnataka,5951,7,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,16,32,Kerala,941,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,17,37,Ladakh,193,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,18,31,Lakshadweep,10,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,19,23,Madhya Pradesh,23012,47,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,20,27,Maharashtra,27958,15,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,21,14,Manipur,3811,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,22,17,Meghalaya,0,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,23,15,Mizoram,835,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,24,13,Nagaland,1347,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,25,21,Odisha,6794,4,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,26,34,Puducherry,108,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,27,3,Punjab,13236,12573,7347,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,28,8,Rajasthan,11255,8731,5345,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,29,11,Sikkim,199,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,30,33,Tamil Nadu,12524,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,31,36,Telangana,12772,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,32,38,The Dadra And Nagar Haveli And Daman And Diu,42,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,33,16,Tripura,1194,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,34,5,Uttarakhand,7784,1838,679,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,35,9,Uttar Pradesh,57753,42596,2035,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html
+,,,,,36,19,West Bengal,3339,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/internetStatusDashboard.do.html

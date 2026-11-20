@@ -1,0 +1,32 @@
+﻿report,fin_year,state,district,block,S.No.,Sector Name,Total Activities,source_file
+,,,,,1.,Administrative & Technical Support,807646,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,2.,Adult and non-formal education,320166,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,3.,Agriculture,1106589,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,4.,Animal husbandry,183007,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,5.,Cultural activities,72970,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,6.,Drinking water,1072352,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,7.,Education,389565,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,8.,Family welfare,90616,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,9.,Fisheries,18940,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,10.,Fuel and fodder,94261,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,11.,Health,1190571,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,12.,Land improvement,21864,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,13.,Libraries,45199,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,14.,Maintenance of community system,977687,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,15.,Markets and fairs,56355,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,16.,Minor forest produce,7339,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,17.,Non-conventional energy sources,247735,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,18.,Poverty allevation programme,409217,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,19.,Public distribution system,77597,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,20.,Roads,710112,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,21.,Rural electrification,265232,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,22.,Rural housing,136387,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,23.,Sanitation,1854668,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,24.,Small-scale industries,355477,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,25.,Social forestry and farm forestry,315155,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,26.,Social welfare,1666131,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,27.,Technical training and vocational education,194433,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,28.,Water Conservation,369562,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,29.,Welfare of the weaker sections,136739,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,30.,Women and child development,993081,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,,Total,14186653,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html

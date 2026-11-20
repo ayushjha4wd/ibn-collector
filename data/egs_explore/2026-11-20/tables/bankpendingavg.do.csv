@@ -1,0 +1,82 @@
+﻿report,fin_year,state,district,block,S.No.,Bank Name,Bank Response Average Performance(In Days),Total No. of Bank Account,source_file
+,,,,,1,THE JODHPUR CENTRAL COOPERATIVE BANK LTD.,27,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,2,THE JAIPUR CENTRAL CO-OPERATIVE BANK LTD.,20,12,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,3,RAJASTHAN MARUDHARA GRAMIN BANK,15,354,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,4,THE FEROZEPUR CENTRAL COOPERATIVE BANK LTD.,15,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,5,GUJARAT GRAMIN BANK,14,30,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,6,UTTAR PRADESH GRAMIN BANK,12,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,7,HIMACHAL PRADESH STATE CO-OP.BANK LTD.,10,796,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,8,RAJASTHAN GRAMIN BANK,10,3090,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,9,THE BARMER CENTRAL CO-OPERATIVE BANK LTD.,9,48,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,10,BANKURA DIST CENTRAL CO-OP.BANK LTD.,8,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,11,DAKSHIN BIHAR GRAMIN BANK,8,9,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,12,KARNATAKA GRAMEENA BANK,8,1616,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,13,KOTAK MAHINDRA BANK,8,811,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,14,WEST BENGAL GRAMIN BANK,8,517,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,15,ASSAM CO-OP.APEX BANK LTD.,7,49,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,16,BANDHAN BANK,7,830,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,17,MOGA CENTRAL CO-OP.BANK,7,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,18,NORTH EAST SMALL FINANCE BANK LIMITED,7,65,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,19,BANK OF BARODA,6,21613,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,20,BANK OF MAHARASHTRA,6,395,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,21,BIHAR GRAMIN BANK,6,2185,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,22,HIMACHAL PRADESH GRAMIN BANK,6,338,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,23,THE SAS NAGAR CENTRAL COOPERATIVE BANK LTD,6,4,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,24,BANK OF INDIA,5,19996,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,25,INDIAN BANK,5,30387,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,26,JOGINDRA CENTRAL CO-OP.BANK,5,35,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,27,ODISHA GRAMEEN BANK,5,689,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,28,PUNJAB NATIONAL BANK,5,32020,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,29,STATE BANK OF INDIA,5,54062,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,30,AU SMALL FINANCE BANK LIMITED,4,139,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,31,CANARA BANK,4,11730,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,32,CENTRAL BANK OF INDIA,4,24086,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,33,CHHATTISGARH GRAMIN BANK,4,644,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,34,DHANLAXMI BANK LTD,4,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,35,FATEHGARH SAHIB CENTRAL CO-OP BANK LTD,4,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,36,HDFC BANK LTD,4,11040,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,37,ICICI BANK LTD,4,34215,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,38,JHARKHAND STATE COOPERATIVE BANK LIMITED,4,15,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,39,KANGRA CENTRAL CO-OPERATIVE BANK LTD.,4,196,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,40,PUNJAB AND SIND BANK,4,86,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,41,THE KERALA STATE CO-OPERATIVE BANK LTD.,4,18,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,42,UNION BANK OF INDIA,4,28092,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,43,ARUNACHAL PRADESH RURAL BANK,3,639,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,44,AXIS BANK,3,21391,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,45,BHAVNAGAR DISTRICT CO-OPERATIVE BANK LTD,3,520,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,46,IDBI BANK LTD,3,3570,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,47,SOUTH INDIAN BANK,3,69,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,48,TRIPURA GRAMIN BANK,3,1110,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,49,UCO BANK,3,1255,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,50,YES BANK LTD,3,6,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,51,ASSAM GRAMIN VIKASH BANK,2,284,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,52,BANGIYA GRAMIN VIKASH BANK,2,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,53,CSB BANK LIMITED,2,15,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,54,IDFC FIRST BANK LIMITED,2,91,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,55,INDIAN OVERSEAS BANK,2,5595,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,56,INDUSIND BANK LIMITED,2,15459,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,57,MALDA DISTRICT CENTRAL CO-OP.BANK LTD.,2,4,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,58,MANIPUR RURAL BANK,2,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,59,PRAGATHI KRISHNA GRAMIN BANK,2,48,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,60,TAMIL NADU GRAMA BANK,2,182,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,61,TAMLUK GHATAL CENTRAL CO-OP.BANK,2,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,62,THE NAWANSHAHR CENTRAL COOPERATIVE BANK LTD.,2,5,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,63,TRIPURA STATE CO-OP.BANK LTD.,2,221,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,64,AMRITSAR CENTRAL CO-OP.BANK,1,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,65,ARUNACHAL PRADESH STATE CO-OPERATIVE APEX BANK LTD.,1,260,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,66,CITY UNION BANK LTD,1,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,67,HOOGHLY DISTRICT CENTRAL CO-OP.BANK,1,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,68,JHARKHAND RAJYA GRAMIN BANK,1,960,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,69,KARNATAKA BANK,1,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,70,KERALA GRAMEENA BANK,1,268,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,71,MIZORAM RURAL BANK,1,813,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,72,PATIALA CENTRAL CO-OPERATIVE BANK LTD.,1,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,73,TELANGANA GRAMEENA BANK,1,5,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,74,THE FEDERAL BANK LTD,1,260,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,75,THE GURDASPUR CENTRAL COOPERATIVE BANK LTD,1,9,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,76,THE JALANDHAR CENTRAL CO-OPERATIVE BANK LTD.,1,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,77,THE KAPURTHALA CENTRAL CO-OPERATIVE BANK LTD.,1,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,78,THE MANSA CENTRAL CO-OPERATIVE BANK LTD.,1,4,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,79,THE MUKTSAR CENTRAL CO-OPERATIVE BANK LTD.,1,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,80,THE ROPAR CENTRAL CO-OPERATIVE BANK LTD.,1,6,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html
+,,,,,81,THE SANGRUR CENTRAL CO-OPERATIVE BANK LTD.,1,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankpendingavg.do.html

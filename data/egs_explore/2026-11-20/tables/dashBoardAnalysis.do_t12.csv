@@ -1,0 +1,32 @@
+﻿report,fin_year,state,district,block,S.No.,State Name,Total GP,Total GPDP,source_file
+,,,,,1.,Andaman And Nicobar Islands,70,70,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,2.,Andhra Pradesh,13327,13320,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,3.,Arunachal Pradesh,2108,2098,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,4.,Assam,2657,2192,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,5.,Bihar,8051,8044,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,6.,Chhattisgarh,11691,11688,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,7.,Goa,191,188,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,8.,Gujarat,14608,14570,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,9.,Haryana,6230,6228,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,10.,Himachal Pradesh,3758,3757,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,11.,Jammu And Kashmir,4291,4289,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,12.,Jharkhand,4345,4344,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,13.,Karnataka,5946,5919,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,14.,Kerala,941,941,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,15.,Ladakh,193,187,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,16.,Madhya Pradesh,23011,22989,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,17.,Maharashtra,28071,28019,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,18.,Manipur,3811,161,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,19.,Mizoram,854,830,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,20.,Nagaland,1352,1231,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,21.,Odisha,6749,6730,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,22.,Punjab,13236,13219,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,23.,Rajasthan,11070,11021,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,24.,Sikkim,199,197,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,25.,Tamil Nadu,12571,2901,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,26.,Telangana,12760,12759,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,27.,Tripura,1194,1189,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,28.,Uttarakhand,7817,7815,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,29.,Uttar Pradesh,57694,57638,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,30.,West Bengal,3339,3339,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html
+,,,,,,Total,262135,247873,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/dashBoardAnalysis.do.html

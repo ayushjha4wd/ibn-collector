@@ -1,0 +1,31 @@
+﻿report,fin_year,state,district,block,S.No.,Sectors Name,Local Body Count,Total Works Approved,Cost of Approved Works (in Cr.),Total Works Initiated,Cost of Initiated Works (in Cr.),source_file
+,,,,,1,Administrative & Technical Support,151777,626960,7835.0,26685,666.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,2,Adult and non-formal education,36267,62249,654.0,50,2.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,3,Agriculture,100193,199433,1943.0,49,1.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,4,Animal husbandry,59560,82901,747.0,36,1.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,5,Cultural activities,38447,50896,781.0,53,2.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,6,Drinking water,210627,1021263,17439.0,1658,39.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,7,Education,79030,133765,1293.0,276,9.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,8,Family welfare,6856,11123,74.0,2,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,9,Fisheries,184,195,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,10,Fuel and fodder,19,21,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,11,Health,97252,265938,2582.0,118,4.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,12,Land improvement,15861,22717,533.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,13,Libraries,39009,46369,502.0,125,4.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,14,Maintenance of community system,198979,1050441,17572.0,3832,160.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,15,Markets and fairs,43009,57048,807.0,3,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,16,Minor forest produce,3279,4098,21.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,17,Non-conventional energy sources,64705,175628,1882.0,124,4.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,18,Poverty allevation programme,29718,58310,796.0,14,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,19,Public distribution system,24286,28643,320.0,1,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,20,Roads,182777,783006,21454.0,9242,411.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,21,Rural electrification,102901,204340,3079.0,994,34.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,22,Sanitation,245573,1649372,29403.0,1391,43.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,23,Small-scale industries,59904,106483,1099.0,11,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,24,Social forestry and farm forestry,63399,137351,1415.0,131,6.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,25,Social welfare,119847,272843,3984.0,686,24.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,26,Technical training and vocational education,34973,59700,756.0,116,4.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,27,Water Conservation,95832,376038,5854.0,1591,25.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,28,Welfare of the weaker sections,42679,52467,411.0,14,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,29,Women and child development,140143,485575,6775.0,642,20.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,Total,Total,Total,8025173,130011,47844,1459,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html

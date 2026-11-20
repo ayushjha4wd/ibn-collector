@@ -1,0 +1,55 @@
+﻿report,fin_year,state,district,block,S.No.,Bank Name,No. Of ePOs Pending For Bank Credit And Response,source_file
+,,,,,1,UNION BANK OF INDIA,2206,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,2,BANK OF INDIA,426,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,3,HIMACHAL PRADESH STATE CO-OP.BANK LTD.,272,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,4,HDFC BANK LTD,158,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,5,NORTH EAST SMALL FINANCE BANK LIMITED,146,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,6,Central Bank of India,138,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,7,ASSAM CO-OP.APEX BANK LTD.,85,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,8,BANK OF BARODA,75,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,9,BIHAR GRAMIN BANK,70,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,10,ICICI BANK LTD,51,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,11,AXIS Bank,50,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,12,PUNJAB NATIONAL BANK,48,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,13,INDUSIND BANK LIMITED,47,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,14,Rajasthan Gramin Bank,45,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,15,State Bank of India,33,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,16,THE SAS NAGAR CENTRAL COOPERATIVE BANK LTD,31,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,17,Karnataka Grameena Bank,30,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,18,Jharkhand Rajya Gramin Bank,25,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,19,THE FEDERAL BANK LTD,25,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,20,Odisha Grameen Bank,20,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,21,The Jodhpur Central Cooperative Bank Ltd.,19,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,22,MOGA CENTRAL CO-OP.BANK,18,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,23,The Barmer Central Co-operative Bank Ltd.,18,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,24,JOGINDRA CENTRAL CO-OP.BANK,17,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,25,Chhattisgarh Gramin Bank,15,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,26,Utkarsh Small Finance Bank Limited,15,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,27,Canara Bank,14,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,28,Uttar Pradesh Gramin Bank,13,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,29,Bandhan Bank,12,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,30,Baroda Rajasthan Kshetriya Gramin Bank,12,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,31,IDBI BANK LTD,11,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,32,KERALA GRAMEENA BANK,11,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,33,The Jaipur Central Co-operative Bank Ltd.,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,34,KOTAK MAHINDRA BANK,9,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,35,THE FEROZEPUR CENTRAL COOPERATIVE BANK LTD.,9,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,36,BHAVNAGAR DISTRICT CO-OPERATIVE BANK LTD,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,37,Indian Bank,8,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,38,Jharkhand State Cooperative Bank Limited,7,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,39,Assam Gramin Vikash Bank,5,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,40,UCO Bank,5,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,41,Gujarat Gramin Bank,4,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,42,Himachal Pradesh Gramin Bank,4,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,43,Capital Small Finance Bank Limited,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,44,UTTAR BANGA KSHETRIYA GRAMIN BANK,3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,45,Tamil Nadu Grama Bank,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,46,THE JAMMU AND KASHMIR BANK LTD,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,47,TRIPURA GRAMIN BANK,2,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,48,ARUNACHAL PRADESH STATE CO-OPERATIVE APEX BANK LTD.,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,49,DHANLAXMI BANK LTD,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,50,IDFC FIRST Bank Limited,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,51,KARNATAKA BANK,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,52,Sikkim State Co-operative Bank Ltd,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,53,THE JALANDHAR CENTRAL CO-OPERATIVE BANK LTD.,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html
+,,,,,54,THE MUKTSAR CENTRAL CO-OPERATIVE BANK LTD.,1,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bankPendingPaymentReport.do.html

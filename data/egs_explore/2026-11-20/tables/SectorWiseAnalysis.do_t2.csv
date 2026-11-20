@@ -1,0 +1,86 @@
+﻿report,fin_year,state,district,block,S.No.,Scheme Name,Local Body Count,Total Works Approved,Cost of Approved Works (in Cr.),Total Works Initiated,Cost of Initiated Works (in Cr.),source_file
+,,,,,1,5th State Finance Commission (Himachal Pradesh),453,1040,17.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,2,5TH STATE FINANCE COMMISSION (Odisha),201,2420,45.0,8,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,3,5th State Finance Commission (Sikkim),1,75,1.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,4,5th State Finance Commission (Uttar Pradesh),58317,1000405,18218.0,40914,1235.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,5,5th State Finance Commission (West Bengal),3515,62596,1482.0,2,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,6,6th STATE FINANCE COMMISSION (Odisha),6887,104858,1900.0,263,4.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,7,6th State Finance Commission (Sikkim),202,4242,38.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,8,AMA GAON AMA VIKASH (Odisha),2,2,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,9,AMA ODISHA NABIN ODISHA (Odisha),21,68,1.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,10,Antyeshti Sthalon Ka Vikas (Uttar Pradesh),3896,11735,762.0,139,31.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,11,AWC BUILDING (Odisha),7,9,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,12,Bahuddeshiye Panchayat Bhawan (Uttar Pradesh),41,60,8.0,11,2.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,13,Bikashita Gaon Bikashita Odisha (Odisha),954,2945,97.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,14,Chhattisgarh Rajya Gramin evm Anya Pichhada Kshtra Vikas Pradhikaran (Chhattisgarh),4,4,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,15,Chief Minister Relief Fund (Himachal Pradesh),25,55,1.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,16,Constituency Development Fund (CDF-MLA Grants) (Jammu And Kashmir),273,666,17.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,17,District Capex (Jammu And Kashmir),595,2715,66.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,18,Fourth State Finance Camission (Uttarakhand),7907,103411,1688.0,1568,46.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,19,Freedom from Violence Capacity Building of WERs on Legal Provisions on Safety and Security of Women,282,306,4.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,20,Gram Panchayaton Ko Moolbhoot Karyon Hetu Anudan (Chhattisgarh),3128,6387,134.0,1,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,21,Grant-in-Aid (Arts and culture) (Andaman And Nicobar Islands),36,55,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,22,Grant-in-Aid (General) (Andaman And Nicobar Islands),70,2916,154.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,23,Grant-In-Aid (Honorarium) (Andaman And Nicobar Islands),46,46,3.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,24,Grant-In-Aid (Maintenance) (Andaman And Nicobar Islands),61,201,10.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,25,Grant-In-Aid (Matching Grant) (Andaman And Nicobar Islands),47,878,32.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,26,Grant-in-Aid (⁠Rural Electrification) (Andaman And Nicobar Islands),58,160,9.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,27,Grant-in-Aid (Rural Road CCA) (Andaman And Nicobar Islands),52,1526,96.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,28,Grant-in-Aid (Rural Road General) (Andaman And Nicobar Islands),39,667,58.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,29,Grant-in-Aid (Rural Water Supply) (Andaman And Nicobar Islands),48,357,18.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,30,Grant-in-Aid (Sewerage & Sanitation ) (Andaman And Nicobar Islands),69,494,25.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,31,Grants in Aid from RM&DD (Sikkim),7,31,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,32,Incentivisation of Panchayats - Rashtriya Gram Swaraj Abhiyan,15171,23578,383.0,4,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,33,Integrated Child Development Services,27389,36118,444.0,4,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,34,Integrated Social Security Scheme (ISSS) (Jammu And Kashmir),17,17,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,35,Jal Jeevan Mission,35387,46881,2269.0,3,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,36,Janpad Panchayat Vikas Nidhi (Chhattisgarh),2201,4245,114.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,37,Local Area Development Plan (Himachal Pradesh),57,270,1.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,38,Member of Legislative Assembly Constituency Development Scheme (Tamil Nadu),196,249,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,39,Mid-Day Meal Scheme,47046,60237,761.0,1,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,40,MLA Local Area Development Scheme (Chhattisgarh),1069,2382,171.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,41,Mukhya Mantri Adarsh Gram Yojana(MMAGY) (Himachal Pradesh),25,51,1.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,42,Mukhya Mantri Gram Path Yojna (Himachal Pradesh),11,24,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,43,Mukhya Mantri Samgra Grameen Vikas Yojna (Chhattisgarh),9,9,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,44,National Rural Health Mission - NRHM,37312,47559,504.0,1,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,45,National Rural Livelihood Mission,29825,44071,649.0,2,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,46,National Rurban Mission,6732,11644,168.0,3,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,47,Own Funds,252582,2021920,16891.0,701,26.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,48,Panchayat Development Fund (Tripura),757,8014,48.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,49,Panchayat Extension to Scheduled Areas (Maharashtra),2347,14528,173.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,50,Panchayat Padadhikarion ka Prashikshan (Chhattisgarh),165,219,9.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,51,Panchayat Padadhikarion Ko Mandeya evam Suvidhayen (Chhattisgarh),1083,1282,23.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,52,Pradhan Mantri Gram Sadak Yojana - PMGSY,2783,3524,215.0,3,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,53,Pradhan Mantri Krishi Sinchayi Yojna,6452,8521,99.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,54,Prime Minister Gramin Awaas Yojana,14222,18365,924.0,1,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,55,Rashtriya Gram Swaraj Abhiyan,15705,30468,469.0,10,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,56,Rashtriya Krishi Vikas Yojana - RKVY,6571,8767,84.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,57,Sachiviya Vyavastha (Chhattisgarh),163,232,8.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,58,Samajik Sureksha avem Kalyan (Chhattisgarh),136,249,5.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,59,Sarva Shiksha Abhiyan - SSA,2637,2897,34.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,60,Sectoral Decentralized Planning (Himachal Pradesh),167,504,5.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,61,Sensitization of men towards women related issues including safety and security of women,189,211,4.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,62,SFFC (Kerala),491,2614,68.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,63,Shradhanjali Yojna (Chhattisgarh),401,438,2.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,64,Special Component Sub Plan for Scheduled Castes (Himachal Pradesh),19,56,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,65,State Finance Commission Grants (Tamil Nadu),1717,6980,52.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,66,State Finance Commission~SFC (Telangana),12806,143945,1216.0,52,1.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,67,State Plan of Agriculture (Tripura),867,964,10.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,68,State Plan of ARDD (Tripura),875,966,6.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,69,State Plan of Fishery (Tripura),746,811,10.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,70,State Plan of Horticulture (Tripura),716,766,4.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,71,State Plan of PWD (Tripura),668,760,18.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,72,Swachh Bharat Mission,64915,123745,2694.0,7,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,73,Third State Finance Commission Manipur (Manipur),166,1619,41.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,74,Tripura Panchayat Development Fund (Tripura),602,6912,44.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,75,Tristariya Panchayat Raj Sansthaon ka Kshamta Vikas (Chhattisgarh),1,1,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,76,Untied Fund to PRIs (Rajasthan),4281,57902,2188.0,50,2.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,77,UP-Panchayat Pratipurti & Protsahan Yojna (Uttar Pradesh),1571,3552,61.0,3,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,78,UT Capex (CD & Panchayats) (Jammu And Kashmir),180,872,15.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,79,Vidhayak Kashetriya Vikas Nidhi Yojna (Himachal Pradesh),457,1517,17.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,80,Vikas Me Jan Sehyog (Himachal Pradesh),90,328,3.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,81,Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin),84441,325403,16973.0,89,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,82,XVI Finance Commission,249419,3736294,57092.0,5227,121.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,83,Zila Panchayaton Ko Samanya Prayajan Hetu Anudan (Chhattisgarh),310,491,22.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,84,Zila Panchayat Vikas Nidhi (Chhattisgarh),1815,3732,131.0,2,1.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html
+,,,,,Total,Total,Total,8129034,130007,49069,1469,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/SectorWiseAnalysis.do.html

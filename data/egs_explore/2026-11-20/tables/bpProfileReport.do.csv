@@ -1,0 +1,36 @@
+﻿report,fin_year,state,district,block,S.No.,State Code,State Name,Total No. of BP & Equivalent,No. of BP & Equivalent With Profile Details,Profile Details Percentage,Profile Updated in(6 Months),Updated Profile Percentage in(6 Months),source_file
+,,,,,1,35,Andaman And Nicobar Islands,7,1,14.29,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,2,28,Andhra Pradesh,660,657,99.55,145,21.97,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,3,12,Arunachal Pradesh,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,4,18,Assam,182,181,99.45,21,11.54,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,5,10,Bihar,534,532,99.63,178,33.33,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,6,22,Chhattisgarh,146,142,97.26,74,50.68,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,7,30,Goa,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,8,24,Gujarat,263,263,100.0,83,31.56,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,9,6,Haryana,143,138,96.5,52,36.36,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,10,2,Himachal Pradesh,92,89,96.74,61,66.3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,11,1,Jammu And Kashmir,285,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,12,20,Jharkhand,264,264,100.0,51,19.32,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,13,29,Karnataka,237,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,14,32,Kerala,152,149,98.03,107,70.39,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,15,37,Ladakh,31,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,16,31,Lakshadweep,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,17,23,Madhya Pradesh,313,299,95.53,63,20.13,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,18,27,Maharashtra,351,342,97.44,107,30.48,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,19,14,Manipur,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,20,17,Meghalaya,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,21,15,Mizoram,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,22,13,Nagaland,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,23,21,Odisha,314,314,100.0,159,50.64,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,24,34,Puducherry,10,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,25,3,Punjab,160,151,94.38,22,13.75,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,26,8,Rajasthan,454,115,25.33,32,7.05,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,27,11,Sikkim,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,28,33,Tamil Nadu,397,74,18.64,25,6.3,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,29,36,Telangana,565,561,99.29,229,40.53,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,30,38,The Dadra And Nagar Haveli And Daman And Diu,0,0,0.0,0,0.0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,31,16,Tripura,75,75,100.0,29,38.67,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,32,5,Uttarakhand,95,88,92.63,15,15.79,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,33,9,Uttar Pradesh,826,196,23.73,31,3.75,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,34,19,West Bengal,345,336,97.39,104,30.14,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
+,,,,,Total,Total,Total,6901,4967,71.98,1588,23.01,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html

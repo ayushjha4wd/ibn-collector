@@ -1,0 +1,2 @@
+﻿report,fin_year,state,district,block,S.No.,State Code,State Name,Total No. of BP & Equivalent,No. of BP & Equivalent With Profile Details,Profile Details Percentage,Profile Updated in(6 Months),Updated Profile Percentage in(6 Months),source_file
+,,,,,5,10,Bihar,534,532,99.63,178,33.33,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/bpProfileReport.do.html
