@@ -1,0 +1,5763 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	
+	
+	
+		<title>Audit Online</title>
+	
+
+
+<!-- Tell the browser to be responsive to screen width -->
+<meta
+	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+	name="viewport">
+<!--Include CSS files- Bootstrap 3.3.5 -->
+<link rel="stylesheet"
+	href="/resources/layoutcss/bootstrap.min.css">
+<link rel="stylesheet"
+	href="/resources/css/bootstrapValidator.min.css">
+<link rel="stylesheet"
+	href="/resources/css/select2.min.css">
+<link rel="stylesheet"
+	href="/resources/css/dataTables.bootstrap.css">
+<link rel="stylesheet"
+	href="/resources/others/font-awesome-4.2.0/css/font-awesome.min.css">
+<link rel="stylesheet"
+	href="/resources/css/font-awesome.min.css">
+<link rel="stylesheet"
+	href="/resources/themes/dashboard.min.css">
+<link rel="stylesheet"
+	href="/resources/themes/style.css">
+<link rel="stylesheet"
+	href="/resources/themes/skins/_all-skins.min.css">
+<link rel="stylesheet"
+	href="/resources/css/bootstrap-datetimepicker.min.css">
+
+<link rel="stylesheet"
+	href="/resources/iCheck/all.css">
+
+<!-- Include js lib files -->
+<script type="text/javascript"
+	src="/resources/js/jquery.min.js"></script>
+
+<script type="text/javascript"
+	src="/resources/js/jquery-ui.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/jquery.validate.min.js"></script>
+<script type="text/javascript"
+	src='/priaaadwr/engine.js'></script>
+<script type="text/javascript"
+	src="/priaaadwr/util.js"> </script>
+<script type="text/javascript"
+	src='/priaaadwr/interface/lgdDao.js'></script>
+<script type="text/javascript"
+	src="/resources/js/bootstrap-datetimepicker.min.js"></script>
+	
+	
+
+</head>
+<!-- view body -->
+<!-- <body class="hold-transition skin-blue sidebar-mini"> -->
+
+	
+	
+	
+		<body class="hold-transition skin-blue sidebar-mini"
+			oncontextmenu="return false" ondragstart="return false">
+	
+
+<!-- TO TOP  -->
+<div class="totop" onclick="scrollToTop();"></div>
+<!-- Header -->
+<section class="bg-gradient">
+	<div class="container-fluid topheader">
+		<div class="row">
+			<div class="col-lg-1 col-2">
+				<a href="welcome.do?OWASP_CSRFTOKEN=ED01-VJ6Z-5EW6-STA7-ZERE-8BKG-TDJK-QWUK&flag=true"> 
+						
+						
+							<img alt="img"
+								src="/resources/image/emblem.PNG"
+								alt="Logo" class="img-fluid">
+						
+					 
+				</a>
+			</div>
+			
+				
+        				<div class="col-8 col-lg-8"><p ><span class="logotextu">AuditOnline</span><br/><span class="logotextd">Facilitating Audit In Government</span></p></div>
+        			
+				
+			
+			<div class="col-lg-1 col-2">
+				
+			</div>
+			<div class="col-lg-2 col-2">
+				
+
+			</div>
+			<!-- <div class="col-lg-10 col8"><p ><span class="logotextu">AuditOnline</span><br/><span class="logotextd">Facilitating Audit In Government</span></p></div> -->
+		</div>
+	</div>
+</section>
+<section class="bg-gradient-1">
+	<div class="wrapper">
+		
+		
+		<div class="content-wrapper makeContentWrapFull">
+			
+			
+			
+
+
+
+
+
+
+
+<!-- Below Code Added By Angad to Prevent Browser Back and Desable Offline Mode-->
+<!-- 
+<script type="text/javascript">
+
+function preventBack(){
+	window.history.forward();
+	}
+setTimeout("preventBack()", 0);
+window.onunload=function(){null;};
+
+//Below Function for No-Cache 
+	function burstCache() {
+		if (!window.navigator.onLine) {
+			document.body.innerHTML = 'Loading...';
+			window.location = '/audit/';
+		}
+	}
+</script> -->
+
+
+
+
+<script>
+if (!navigator.onLine) {
+	 document.body.innerHTML = 'Loading...';
+	 window.location = 'logout.htm';
+	}
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- 
+<body onload="burstCache()" onpageshow="if (event.persisted) preventBack();">
+	
+</body>
+-->
+
+
+
+
+
+ <script type="text/javascript"
+	src="/resources/js/jquery.dataTables.min.js"></script> 
+<script type="text/javascript"
+	src="/resources/js/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript"
+	src="/priaaadwr/interface/lgdDao.js"></script>
+<script type="text/javascript" src="js/util.js"></script>
+
+<script>
+$(document).ready(function() {
+	var id = document.getElementById('colId').value;
+	if(id!=null){
+		$('#footId').attr('colspan',id);
+		$('#headerId').attr('colspan',id);
+	}
+		oTable = $('#result').dataTable({
+		});
+	} );
+
+</script>
+<style>
+div.dataTables_wrapper div.dataTables_length label, input {
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+,
+p {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#range_error, #range2_error {
+	padding-left: 11px;
+}
+
+#red {
+	color: red;
+	font-weight: bold;
+}
+
+#blue {
+	color: blue;
+	font-weight: bold;
+}
+
+.size {
+	font-size: 12px;
+}
+
+#id-cate {
+	background-color: rgba(255, 255, 0, 0.2);
+}
+
+.order {
+	border: 1px solid gray;
+}
+</style>
+
+
+
+
+
+<section class="content">
+	<!-- Main row -->
+	<div class="row">
+		<section class="col-lg-12 connectedSortable">
+			<div class="box box-info">
+				<div class="card-header with-border">
+					<h5 class="card-title">
+						 Year Book Not Closed Report 
+					</h5>
+				</div>
+
+
+
+				<form id="yearBookNotClosedForm" class="form-horizontal" action="yearBookNotClosedDetails.htm" method="post" autocomplete="off">
+
+					<input type="hidden" name='OWASP_CSRFTOKEN' id="tokenId"
+						value='ED01-VJ6Z-5EW6-STA7-ZERE-8BKG-TDJK-QWUK' />
+
+					<input type="hidden" id="stateId" value="" />
+					<input type="hidden" id="lbTypeCode" value="" />
+					<input type="hidden" value="" />
+					<input type="hidden" id="colId" value="6" />
+					<div class="card-body" id="data1">
+						<div class="form-group row" id="ap">
+							<label for="finYear" class="col-sm-2 text-primary">Financial Year<span
+								class="mandatory">*</span></label>
+
+							<div class="col-sm-5">
+								<select id="finYear" name="finYear" class="form-control rounded" onchange="selectYear()">
+									<option value="">
+										Select
+									</option>
+									
+										<option value="2025-2026">
+											2025-2026
+										</option>
+									
+										<option value="2024-2025">
+											2024-2025
+										</option>
+									
+										<option value="2023-2024">
+											2023-2024
+										</option>
+									
+										<option value="2022-2023">
+											2022-2023
+										</option>
+									
+										<option value="2021-2022">
+											2021-2022
+										</option>
+									
+										<option value="2020-2021" selected="selected">
+											2020-2021
+										</option>
+									
+										<option value="2019-2020">
+											2019-2020
+										</option>
+									
+								</select>
+								<div class="error" id="finYear_error">
+									This Field is Required
+								</div>
+
+							</div>
+						</div>
+
+						<div class="form-group row" id="st">
+							<label for="state" class="col-sm-2 text-primary">State Name<span
+								class="mandatory">*</span></label>
+
+							<div class="col-sm-5">
+								<select id="state" name="stateCode" class="form-control rounded" onchange="entityList(this.value)">
+									<option value="">
+										Select
+									</option>
+									
+										<option value="28">
+											Andhra Pradesh
+										</option>
+									
+										<option value="12">
+											Arunachal Pradesh
+										</option>
+									
+										<option value="18">
+											Assam
+										</option>
+									
+										<option value="10" selected="selected">
+											Bihar
+										</option>
+									
+										<option value="22">
+											Chhattisgarh
+										</option>
+									
+										<option value="30">
+											Goa
+										</option>
+									
+										<option value="24">
+											Gujarat
+										</option>
+									
+										<option value="6">
+											Haryana
+										</option>
+									
+										<option value="2">
+											Himachal Pradesh
+										</option>
+									
+										<option value="20">
+											Jharkhand
+										</option>
+									
+										<option value="29">
+											Karnataka
+										</option>
+									
+										<option value="32">
+											Kerala
+										</option>
+									
+										<option value="23">
+											Madhya Pradesh
+										</option>
+									
+										<option value="27">
+											Maharashtra
+										</option>
+									
+										<option value="14">
+											Manipur
+										</option>
+									
+										<option value="17">
+											Meghalaya
+										</option>
+									
+										<option value="15">
+											Mizoram
+										</option>
+									
+										<option value="13">
+											Nagaland
+										</option>
+									
+										<option value="21">
+											Odisha
+										</option>
+									
+										<option value="3">
+											Punjab
+										</option>
+									
+										<option value="8">
+											Rajasthan
+										</option>
+									
+										<option value="11">
+											Sikkim
+										</option>
+									
+										<option value="33">
+											Tamil Nadu
+										</option>
+									
+										<option value="36">
+											Telangana
+										</option>
+									
+										<option value="16">
+											Tripura
+										</option>
+									
+										<option value="5">
+											Uttarakhand
+										</option>
+									
+										<option value="9">
+											Uttar Pradesh
+										</option>
+									
+										<option value="19">
+											West Bengal
+										</option>
+									
+								</select>
+								<div class="error" id="state_error">
+									This Field is Required
+								</div>
+
+							</div>
+						</div>
+
+
+
+
+
+						<div class="form-group row " id="enty">
+							<label for="entityName" class="col-sm-2 text-primary">Entity Name <span
+								class="mandatory">*</span></label>
+
+							<div class="col-sm-5">
+								<select id="localBodyTypeCode" name="localBodyTypeCode" class="form-control rounded" onchange="entityChange()">
+									<option value="">
+										Select
+									</option>
+									
+										<option value="1">
+											District Panchayat  
+										</option>
+
+									
+										<option value="2">
+											Intermediate Panchayat
+										</option>
+
+									
+										<option value="3" selected="selected">
+											Village Panchayat
+										</option>
+
+									
+								</select>
+								<div class="error" id="localBodyTypeCode_error">
+									This Field is Required
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="card-footer">
+						<div class="col-12">
+							<div class="float-end">
+								<button type="button" class="btn btn-primary" id="getButton"
+									onclick="getData('getData')">
+									Get Data
+								</button>
+								<button type="button" class="btn btn-success " id="getExport"
+									onclick="getData('getExcel');">
+									<i class="fa fa-file-excel-o"></i>
+									Export to Spreadsheet
+								</button>
+								<button type="button" class="btn btn-danger"
+									onclick="onClose('welcome.do?OWASP_CSRFTOKEN=ED01-VJ6Z-5EW6-STA7-ZERE-8BKG-TDJK-QWUK')">
+									<i class="fa fa-times-circle"></i>
+									Close
+								</button>
+							</div>
+						</div>
+					</div>
+				</form>
+
+
+
+			</div>
+			
+				
+					<div class="box box-info hidee" id="boxId">
+						<div class="card-header with-border">
+							<h5 class="card-title">
+								 Year Book Not Closed Report 
+							</h5>
+						</div>
+						<div class="card-body">
+
+							<table id="result"
+								class="table table-bordered table-striped dataTable"
+								width="100%">
+								<thead>
+									<tr>
+										<th class="text-center" id="headerId" colspan="3">Year
+											Book Not Closed - ( 2020-2021 )</th>
+									</tr>
+									<tr>
+										<th width="1%">&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;S.No.&#xa;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;</th>
+										
+										
+										
+											
+											
+											
+												<th width="11%">District Panchayat &amp; Equivalent Name</th>
+												<th width="11%">Block Panchayat &amp; Equivalent Name</th>
+												<th width="11%">Gram Panchayat &amp; Equivalent Name</th>
+												<th width="11%">LGD Code</th>
+											
+										
+										<th width="11%">Is Year Book Closed</th>
+
+									</tr>
+								</thead>
+								<tbody>
+
+									
+										<tr>
+											<td>1</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>ARARIA</td>
+													<td>BASANTPUR</td>
+													<td>93641</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>2</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>ARARIA</td>
+													<td>CHATAR</td>
+													<td>93646</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>3</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>ARARIA</td>
+													<td>KISMAT KHAWASPUR</td>
+													<td>93656</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>4</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>ARARIA</td>
+													<td>POKHARIA</td>
+													<td>93661</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>5</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>ARARIA</td>
+													<td>RAMPUR KODARKATTI</td>
+													<td>93662</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>6</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>FORBESGANJ</td>
+													<td>ARRAHA</td>
+													<td>93690</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>7</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>JOKIHAT</td>
+													<td>CHIRAH</td>
+													<td>93730</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>8</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>JOKIHAT</td>
+													<td>SISAUNA</td>
+													<td>93745</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>9</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>KURSAKANTA</td>
+													<td>RAHAT MINA</td>
+													<td>93756</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>10</td>
+											
+											
+											
+												
+												
+												
+													<td>ARARIA</td>
+													<td>RANIGANJ</td>
+													<td>FARAKIA</td>
+													<td>93821</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>11</td>
+											
+											
+											
+												
+												
+												
+													<td>ARWAL</td>
+													<td>KALER</td>
+													<td>WALIDAD PANCHAYAT</td>
+													<td>238478</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>12</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>AURANGABAD</td>
+													<td>KHAIRA MIRJA</td>
+													<td>93860</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>13</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>AKORHA</td>
+													<td>93887</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>14</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>ANCHHA</td>
+													<td>93888</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>15</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>BELWAN</td>
+													<td>93890</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>16</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>GORDIHA</td>
+													<td>93892</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>17</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>KARMA</td>
+													<td>93894</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>18</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>MAHAWAR</td>
+													<td>93895</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>19</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>SINDUAR</td>
+													<td>93899</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>20</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DAUDNAGAR</td>
+													<td>TARARI</td>
+													<td>93901</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>21</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>DEO</td>
+													<td>EAST KATAKI</td>
+													<td>93910</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>22</td>
+											
+											
+											
+												
+												
+												
+													<td>AURANGABAD</td>
+													<td>MADANPUR</td>
+													<td>MANIKA</td>
+													<td>93982</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>23</td>
+											
+											
+											
+												
+												
+												
+													<td>BANKA</td>
+													<td>BELHAR</td>
+													<td>SRINAGAR</td>
+													<td>94139</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>24</td>
+											
+											
+											
+												
+												
+												
+													<td>BHOJPUR</td>
+													<td>ARA</td>
+													<td>MAKHDUMPUR DUMRA</td>
+													<td>94769</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>25</td>
+											
+											
+											
+												
+												
+												
+													<td>BHOJPUR</td>
+													<td>PIRO</td>
+													<td>AGIAON</td>
+													<td>94868</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>26</td>
+											
+											
+											
+												
+												
+												
+													<td>BHOJPUR</td>
+													<td>PIRO</td>
+													<td>SUKHRAULI</td>
+													<td>94888</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>27</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>BIRAUL</td>
+													<td>GANAURA TARWARA</td>
+													<td>95202</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>28</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>HAYAGHAT</td>
+													<td>SIRNIYA EAST RUSHAM PUR</td>
+													<td>95295</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>29</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>JALE</td>
+													<td>JALLEY EAST</td>
+													<td>95305</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>30</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>JALE</td>
+													<td>KATRAUL BASANT</td>
+													<td>95310</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>31</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KEOTIRUNWAY</td>
+													<td>BANSARA</td>
+													<td>95323</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>32</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KEOTIRUNWAY</td>
+													<td>SHEKHPUR DANI</td>
+													<td>95347</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>33</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>AURAHI</td>
+													<td>95356</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>34</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>BARNA</td>
+													<td>95358</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>35</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>BERI</td>
+													<td>95359</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>36</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>BHADAHAR</td>
+													<td>95360</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>37</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>BISAHARIA MOHIM BUJURG</td>
+													<td>95361</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>38</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>CHIGRI SIMRAHA</td>
+													<td>95362</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>39</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>DINMO</td>
+													<td>95363</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>40</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>GOTHANI</td>
+													<td>95364</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>41</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>HARAULI</td>
+													<td>95365</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>42</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>HARINAGAR</td>
+													<td>95366</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>43</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>HIRNI</td>
+													<td>95367</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>44</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>MASANKHON</td>
+													<td>95368</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>45</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>KUSHESHWAR ASTHAN</td>
+													<td>PAKAHI JHAJHRA</td>
+													<td>95369</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>46</td>
+											
+											
+											
+												
+												
+												
+													<td>DARBHANGA</td>
+													<td>SINGHWARA</td>
+													<td>KATKA</td>
+													<td>95414</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>47</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>FATEHPUR</td>
+													<td>LODHWE SOUTH</td>
+													<td>95551</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>48</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>KONCH</td>
+													<td>GAUHARPUR</td>
+													<td>95643</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>49</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>AJMAT GANJ</td>
+													<td>95703</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>50</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>BAGAHI</td>
+													<td>95704</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>51</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>KAPASIA</td>
+													<td>95705</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>52</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>KARHATTA</td>
+													<td>95706</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>53</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>MANGARAWAN</td>
+													<td>95707</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>54</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>PARAIYA KHURD</td>
+													<td>95709</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>55</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>PUNA KALA</td>
+													<td>95710</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>56</td>
+											
+											
+											
+												
+												
+												
+													<td>GAYA</td>
+													<td>PARAIYA</td>
+													<td>SOLARA.</td>
+													<td>95711</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>57</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>AGHARA BARWATTA</td>
+													<td>96060</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>58</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>AMRATH</td>
+													<td>96061</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>59</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>ARSAR</td>
+													<td>96062</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>60</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>CHAUDIHA</td>
+													<td>96063</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>61</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>DAULATPUR</td>
+													<td>96064</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>62</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>GARSANDA</td>
+													<td>96065</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>63</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>INDPE</td>
+													<td>96066</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>64</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>KAKAN</td>
+													<td>96067</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>65</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>KUNDRI SANKURAHA</td>
+													<td>96068</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>66</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>LAKHANPUR</td>
+													<td>96069</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>67</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>MANJHWAY</td>
+													<td>96070</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>68</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>JAMUI</td>
+													<td>THEGUA</td>
+													<td>96071</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>69</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>ANANTPUR</td>
+													<td>96114</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>70</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>CHINAWARIA</td>
+													<td>96115</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>71</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>DIGHI</td>
+													<td>96116</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>72</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>GAURA</td>
+													<td>96117</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>73</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>HARLA</td>
+													<td>96118</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>74</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>KAKAN CHAUR</td>
+													<td>96119</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>75</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>KALA</td>
+													<td>96120</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>76</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>KHELAR</td>
+													<td>96121</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>77</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>MATIA</td>
+													<td>96123</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>78</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>MOHANPUR</td>
+													<td>96124</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>79</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>NAJARI</td>
+													<td>96125</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>80</td>
+											
+											
+											
+												
+												
+												
+													<td>JAMUI</td>
+													<td>LAXMIPUR</td>
+													<td>PIDRON</td>
+													<td>96126</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>81</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>JHUNATHI</td>
+													<td>96239</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>82</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>LAKHAPUR</td>
+													<td>96242</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>83</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>NARAYANPUR</td>
+													<td>96244</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>84</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>NEHALPUR</td>
+													<td>96245</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>85</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>NOAWAN</td>
+													<td>96246</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>86</td>
+											
+											
+											
+												
+												
+												
+													<td>JEHANABAD</td>
+													<td>RATNI FARIDPUR</td>
+													<td>PANDAUL</td>
+													<td>96247</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>87</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>ADHAURA</td>
+													<td>ADHAURA</td>
+													<td>96253</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>88</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>AMAON</td>
+													<td>96295</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>89</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>BIUR MANPUR</td>
+													<td>96297</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>90</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>CHAINPUR</td>
+													<td>96298</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>91</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>ISIYA</td>
+													<td>96301</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>92</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>JAGARIYAN</td>
+													<td>96302</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>93</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>MADURNA</td>
+													<td>96304</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>94</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>NANDGAON</td>
+													<td>96307</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>95</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>SIKANDARPUR</td>
+													<td>96309</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>96</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>CHAINPUR</td>
+													<td>UDAIRAMPUR</td>
+													<td>96311</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>97</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>DURGAWATI</td>
+													<td>AWARHIYA</td>
+													<td>96324</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>98</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>AKHINI</td>
+													<td>96372</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>99</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>CHANDESH</td>
+													<td>96374</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>100</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>DUMDUMA</td>
+													<td>96375</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>101</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>EWATI</td>
+													<td>96376</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>102</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>KOTA</td>
+													<td>96377</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>103</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>MUKHRAON</td>
+													<td>96378</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>104</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>PAJARAON</td>
+													<td>96380</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>105</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>NUAON</td>
+													<td>TARAITHA</td>
+													<td>96381</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>106</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>RAMGARH</td>
+													<td>MAHUAR</td>
+													<td>96386</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>107</td>
+											
+											
+											
+												
+												
+												
+													<td>KAIMUR &#x28;BHABUA&#x29;</td>
+													<td>RAMPUR</td>
+													<td>AMAON</td>
+													<td>96395</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>108</td>
+											
+											
+											
+												
+												
+												
+													<td>KATIHAR</td>
+													<td>BARSOI</td>
+													<td>KAMRAUL</td>
+													<td>96495</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>109</td>
+											
+											
+											
+												
+												
+												
+													<td>KHAGARIA</td>
+													<td>GOGRI</td>
+													<td>BASUDEOPUR</td>
+													<td>96693</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>110</td>
+											
+											
+											
+												
+												
+												
+													<td>KHAGARIA</td>
+													<td>GOGRI</td>
+													<td>ITAHARI</td>
+													<td>96698</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>111</td>
+											
+											
+											
+												
+												
+												
+													<td>KHAGARIA</td>
+													<td>GOGRI</td>
+													<td>JHIKTIYA</td>
+													<td>96699</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>112</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>DIGHALBANK</td>
+													<td>EKRA</td>
+													<td>96795</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>113</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>POTHIA</td>
+													<td>GORUKHAL</td>
+													<td>96847</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>114</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>POTHIA</td>
+													<td>PAHARKATTA</td>
+													<td>96854</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>115</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>POTHIA</td>
+													<td>PARLABARI</td>
+													<td>96856</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>116</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>POTHIA</td>
+													<td>UDGARA</td>
+													<td>96861</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>117</td>
+											
+											
+											
+												
+												
+												
+													<td>KISHANGANJ</td>
+													<td>TERHAGACHH</td>
+													<td>DAK POKHAR</td>
+													<td>96865</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>118</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>ARAJPUR EAST</td>
+													<td>97002</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>119</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>ARAJPUR WEST</td>
+													<td>97003</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>120</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>CHIROURI</td>
+													<td>97004</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>121</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>CHOUSA EAST</td>
+													<td>97005</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>122</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>CHOUSA WEST</td>
+													<td>97006</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>123</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>FULOUT EAST</td>
+													<td>97007</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>124</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>FULOUT WEST</td>
+													<td>97008</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>125</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>GHOSHAI</td>
+													<td>97009</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>126</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>LAUALAGAN EAST</td>
+													<td>97010</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>127</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>LAUALAGAN WEST</td>
+													<td>97011</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>128</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>MORSANDA</td>
+													<td>97012</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>129</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>PAINA</td>
+													<td>97013</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>130</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHEPURA</td>
+													<td>CHAUSA</td>
+													<td>RASALPUR DHURIA</td>
+													<td>97014</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>131</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>BABU BARHI</td>
+													<td>MURHADI</td>
+													<td>97176</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>132</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>BENIPATTI</td>
+													<td>SHAHPUR</td>
+													<td>97230</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>133</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>HARLAKHI</td>
+													<td>BETA PARSA</td>
+													<td>97277</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>134</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>HARLAKHI</td>
+													<td>SOTH GAON</td>
+													<td>97293</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>135</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>KALUAHI</td>
+													<td>NARAR WEST</td>
+													<td>97334</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>136</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>KHAJAULI</td>
+													<td>BENTA KAKARGHATI</td>
+													<td>97337</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>137</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>LAUKAHA &#x28;KHUTAUNA&#x29;</td>
+													<td>BASUDEVPUR</td>
+													<td>97384</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>138</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>LAUKAHA &#x28;KHUTAUNA&#x29;</td>
+													<td>KHUTAUNA</td>
+													<td>97392</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>139</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>LAUKAHA &#x28;KHUTAUNA&#x29;</td>
+													<td>PARSAHI WEST</td>
+													<td>97398</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>140</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>LAUKAHI</td>
+													<td>MANSAPUR</td>
+													<td>97415</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>141</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>MADHUBANI</td>
+													<td>HUSSIN PUR</td>
+													<td>97450</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>142</td>
+											
+											
+											
+												
+												
+												
+													<td>MADHUBANI</td>
+													<td>MADHUBANI</td>
+													<td>KAKRAUL SOUTH</td>
+													<td>97454</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>143</td>
+											
+											
+											
+												
+												
+												
+													<td>MUNGER</td>
+													<td>TARAPUR</td>
+													<td>AFJALNAGAR</td>
+													<td>97627</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>144</td>
+											
+											
+											
+												
+												
+												
+													<td>MUNGER</td>
+													<td>TARAPUR</td>
+													<td>TARAPUR</td>
+													<td>97638</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>145</td>
+											
+											
+											
+												
+												
+												
+													<td>MUZAFFARPUR</td>
+													<td>AURAI</td>
+													<td>ATRAR</td>
+													<td>97648</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>146</td>
+											
+											
+											
+												
+												
+												
+													<td>MUZAFFARPUR</td>
+													<td>AURAI</td>
+													<td>RAJKHAND NORTH</td>
+													<td>97664</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>147</td>
+											
+											
+											
+												
+												
+												
+													<td>MUZAFFARPUR</td>
+													<td>BANDRA</td>
+													<td>PATSARA</td>
+													<td>97678</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>148</td>
+											
+											
+											
+												
+												
+												
+													<td>MUZAFFARPUR</td>
+													<td>KURHANI</td>
+													<td>MOHAMMADPUR MOBARAK</td>
+													<td>97799</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>149</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>BAGAHA-I</td>
+													<td>MEHURA</td>
+													<td>98483</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>150</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>BAGAHA-I</td>
+													<td>NADDA</td>
+													<td>98484</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>151</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>BAGAHA-I</td>
+													<td>SINGARI PIPARIYA</td>
+													<td>98489</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>152</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>BHITAHA</td>
+													<td>MACHHA</td>
+													<td>98546</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>153</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>CHANPATIA</td>
+													<td>BETTIAH DIH</td>
+													<td>98553</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>154</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>CHANPATIA</td>
+													<td>LOHIARIYA</td>
+													<td>98565</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>155</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>LAURIYA</td>
+													<td>PAKRI MARRIHA</td>
+													<td>98628</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>156</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>LAURIYA</td>
+													<td>SATHI</td>
+													<td>98629</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>157</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>LAURIYA</td>
+													<td>TELPUR</td>
+													<td>98632</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>158</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>NARKATIAGANJ</td>
+													<td>PURAINIYA HARSARI</td>
+													<td>98707</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>159</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>NAUTAN</td>
+													<td>PASHCHIMI NAUTAN</td>
+													<td>98729</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>160</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>PIPRASI</td>
+													<td>PIPRASI</td>
+													<td>98739</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>161</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>RAMNAGAR</td>
+													<td>TAULAHA</td>
+													<td>98759</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>162</td>
+											
+											
+											
+												
+												
+												
+													<td>PASHCHIM CHAMPARAN</td>
+													<td>SIKTA</td>
+													<td>PARSOUNI</td>
+													<td>98768</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>163</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>BELCHHI</td>
+													<td>SAKSOHARA WEST</td>
+													<td>98825</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>164</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>BIKRAM</td>
+													<td>BIRDHAUR BERAR KATARI</td>
+													<td>98858</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>165</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>DULHIN BAZAR</td>
+													<td>BHARATPURA</td>
+													<td>98912</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>166</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>GHOSWARI</td>
+													<td>98939</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>167</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>GOSAI GAON</td>
+													<td>98940</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>168</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>KUMHRA</td>
+													<td>98941</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>169</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>KURMICHAK</td>
+													<td>98942</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>170</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>PAIJNA</td>
+													<td>98943</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>171</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>SAMYA GARH</td>
+													<td>98944</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>172</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>TARTAR</td>
+													<td>98945</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>173</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>GHOSWARI</td>
+													<td>TRIMUHAN</td>
+													<td>98946</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>174</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MASAURHI</td>
+													<td>BERRA</td>
+													<td>98974</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>175</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>BARAHPUR</td>
+													<td>98992</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>176</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>KANHAIPUR</td>
+													<td>98995</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>177</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>MARANCHI &#x28;NORTH&#x29;</td>
+													<td>98998</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>178</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>MARANCHI &#x28;SOUTH&#x29;</td>
+													<td>98999</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>179</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>MEKRA</td>
+													<td>99000</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>180</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>MOR &#x28;EAST&#x29;</td>
+													<td>99001</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>181</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>MOR &#x28;WEST&#x29;</td>
+													<td>99002</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>182</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>NAURANGA JALALPUR</td>
+													<td>99003</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>183</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>MOKAMA</td>
+													<td>RAMPUR DUMRA</td>
+													<td>99004</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>184</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PANDARAK</td>
+													<td>GOWASA SHEKHPURA</td>
+													<td>99059</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>185</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PANDARAK</td>
+													<td>PANDARAK EAST</td>
+													<td>99063</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>186</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PANDARAK</td>
+													<td>PANDARAK WEST</td>
+													<td>99064</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>187</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PANDARAK</td>
+													<td>PARSAWAN</td>
+													<td>99065</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>188</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PHULWARI</td>
+													<td>BHUSAULA DANAPUR</td>
+													<td>99079</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>189</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PHULWARI</td>
+													<td>KURTHOUL</td>
+													<td>99085</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>190</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PHULWARI</td>
+													<td>RAMPUR FARIDPUR</td>
+													<td>99089</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>191</td>
+											
+											
+											
+												
+												
+												
+													<td>PATNA</td>
+													<td>PHULWARI</td>
+													<td>SUITHA</td>
+													<td>99092</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>192</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>BANJARIYA</td>
+													<td>PACHRUKHA EAST</td>
+													<td>99151</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>193</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KALYANPUR</td>
+													<td>BAKHARI</td>
+													<td>99271</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>194</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KALYANPUR</td>
+													<td>SISWA KHARAR</td>
+													<td>99272</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>195</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KALYANPUR</td>
+													<td>PAKRI DIXIT</td>
+													<td>99283</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>196</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KALYANPUR</td>
+													<td>GARIBA</td>
+													<td>244505</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>197</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KOTWA</td>
+													<td>BATHNA</td>
+													<td>99312</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>198</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KOTWA</td>
+													<td>BHOPATPUR SOUTH</td>
+													<td>99313</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>199</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KOTWA</td>
+													<td>KOTWA</td>
+													<td>99319</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>200</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>KOTWA</td>
+													<td>KARARIA</td>
+													<td>244402</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>201</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>MADHUBAN</td>
+													<td>BHALWA</td>
+													<td>99325</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>202</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>MADHUBAN</td>
+													<td>MADHUBAN NORTH</td>
+													<td>99331</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>203</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>MEHSI</td>
+													<td>PARTAPUR</td>
+													<td>99350</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>204</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>PAHARPUR</td>
+													<td>KAMAL PIPRA</td>
+													<td>244460</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>205</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>PHENHARA</td>
+													<td>PHANHARA</td>
+													<td>99399</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>206</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>RAXAUL</td>
+													<td>HARDIYA</td>
+													<td>99425</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>207</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>RAXAUL</td>
+													<td>JOKIYARI</td>
+													<td>99427</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>208</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>RAXAUL</td>
+													<td>PANTOKA</td>
+													<td>99432</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>209</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>RAXAUL</td>
+													<td>PARSAUNA TAPSI</td>
+													<td>99433</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>210</td>
+											
+											
+											
+												
+												
+												
+													<td>PURBI CHAMPARAN</td>
+													<td>RAXAUL</td>
+													<td>SISWA</td>
+													<td>99435</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>211</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BAISA</td>
+													<td>ASIYANI</td>
+													<td>99492</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>212</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BAISI</td>
+													<td>CHARAIYA</td>
+													<td>99512</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>213</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BAISI</td>
+													<td>GANGAR GHOSH</td>
+													<td>99514</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>214</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BAISI</td>
+													<td>PURANAGANJ</td>
+													<td>99520</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>215</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BAISI</td>
+													<td>SRIPUR MALAHTOLI</td>
+													<td>99522</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>216</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>BANMANKHI</td>
+													<td>KOSHI SH. DEVOTTAR</td>
+													<td>99535</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>217</td>
+											
+											
+											
+												
+												
+												
+													<td>PURNIA</td>
+													<td>PURNIA EAST</td>
+													<td>HARDA</td>
+													<td>99558</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>218</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>AKHORIGOLA</td>
+													<td>BALEGAWAN</td>
+													<td>99720</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>219</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>AKHORIGOLA</td>
+													<td>BANK</td>
+													<td>99721</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>220</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>CHENARI</td>
+													<td>UGAHANI</td>
+													<td>99752</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>221</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>KARAKAT</td>
+													<td>SAKLA</td>
+													<td>99814</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>222</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>KARGAHAR</td>
+													<td>AKODHI</td>
+													<td>99817</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>223</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>NASRIGANJ</td>
+													<td>DHANAW</td>
+													<td>99855</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>224</td>
+											
+											
+											
+												
+												
+												
+													<td>ROHTAS</td>
+													<td>NAWHATTA</td>
+													<td>DARANAGAR</td>
+													<td>99865</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>225</td>
+											
+											
+											
+												
+												
+												
+													<td>SAHARSA</td>
+													<td>PATARGHAT</td>
+													<td>KISHANPUR</td>
+													<td>100026</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>226</td>
+											
+											
+											
+												
+												
+												
+													<td>SAHARSA</td>
+													<td>SIMRI BAKHTIARPUR</td>
+													<td>SAROJA</td>
+													<td>100073</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>227</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>DALSINGHSARAI</td>
+													<td>CHAK BAHAUDDIN</td>
+													<td>100163</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>228</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>DALSINGHSARAI</td>
+													<td>PAGRA</td>
+													<td>100171</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>229</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>KALYANPUR</td>
+													<td>HAJPURVA</td>
+													<td>100206</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>230</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>PUSA</td>
+													<td>THAHRA</td>
+													<td>100320</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>231</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>BHAGWATPUR</td>
+													<td>100368</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>232</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>GANGA PUR</td>
+													<td>100371</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>233</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>JITWARPUR KUMHIRA</td>
+													<td>100375</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>234</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>LATBASEPURA</td>
+													<td>100377</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>235</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>NAUACHAK</td>
+													<td>100381</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>236</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SARAIRANJAN</td>
+													<td>RUPAULI BUJURG</td>
+													<td>100383</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>237</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>SHIVAJI NAGAR</td>
+													<td>RAHIYAR NORTH</td>
+													<td>100396</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>238</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>BASANTPUR RAMANI</td>
+													<td>100478</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>239</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>DHURLAKH</td>
+													<td>100482</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>240</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>GOHI</td>
+													<td>100483</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>241</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>KUSAIYA</td>
+													<td>100485</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>242</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>MANIYARPUR</td>
+													<td>100487</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>243</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>RAHUA WEST</td>
+													<td>100491</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>244</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>RAIPUR</td>
+													<td>100492</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>245</td>
+											
+											
+											
+												
+												
+												
+													<td>SAMASTIPUR</td>
+													<td>WARISNAGAR</td>
+													<td>RAMPUR BISANPUR</td>
+													<td>100493</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>246</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>BANIAPUR</td>
+													<td>KAMTA</td>
+													<td>100523</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>247</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>DARIAPUR</td>
+													<td>MAGARPAL</td>
+													<td>100575</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>248</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>EKMA</td>
+													<td>DAKSHINI PARSA</td>
+													<td>100604</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>249</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>GARKHA</td>
+													<td>MIRZA PUR</td>
+													<td>100629</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>250</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>BAKWA</td>
+													<td>100757</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>251</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>BASAHIYA</td>
+													<td>100758</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>252</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>CHAKIYA</td>
+													<td>100761</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>253</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>DHENUKI</td>
+													<td>100762</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>254</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>MAHMAD PUR</td>
+													<td>100764</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>255</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>SATJORA</td>
+													<td>100766</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>256</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>PANAPUR</td>
+													<td>TOTAHA JAGATPUR</td>
+													<td>100767</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>257</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>SONEPUR</td>
+													<td>GANGAJAL</td>
+													<td>100795</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>258</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>SONEPUR</td>
+													<td>HASILPUR</td>
+													<td>100798</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>259</td>
+											
+											
+											
+												
+												
+												
+													<td>SARAN</td>
+													<td>TARAIYA</td>
+													<td>DEODHI</td>
+													<td>100818</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>260</td>
+											
+											
+											
+												
+												
+												
+													<td>SHEOHAR</td>
+													<td>PURNAHIYA</td>
+													<td>BARAHI JAGDISH</td>
+													<td>100903</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>261</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>BAJPATTI</td>
+													<td>HUMAYUNPUR</td>
+													<td>100950</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>262</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>BOKHRA</td>
+													<td>CHAKAUTI</td>
+													<td>100995</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>263</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>NANPUR</td>
+													<td>KAURIYA RAIPUR</td>
+													<td>101054</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>264</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>PARIHAR</td>
+													<td>BELA MACHHPAKAUNI</td>
+													<td>101066</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>265</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>PARIHAR</td>
+													<td>BISHANPUR</td>
+													<td>101069</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>266</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>PARIHAR</td>
+													<td>DHARHARWA</td>
+													<td>101071</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>267</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>PARIHAR</td>
+													<td>MANPAUR</td>
+													<td>101079</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>268</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>PUPRI</td>
+													<td>GANGTI</td>
+													<td>101102</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>269</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>SONBARSA</td>
+													<td>BHUTAHI</td>
+													<td>101160</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>270</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>SUPPI</td>
+													<td>AKHTA UTTAR</td>
+													<td>101179</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>271</td>
+											
+											
+											
+												
+												
+												
+													<td>SITAMARHI</td>
+													<td>SUPPI</td>
+													<td>KOTHIA RAI</td>
+													<td>101184</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>272</td>
+											
+											
+											
+												
+												
+												
+													<td>SIWAN</td>
+													<td>BHAGWANPUR HAT</td>
+													<td>SAGAR SULTAN PUR DAKSHIN</td>
+													<td>101272</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>273</td>
+											
+											
+											
+												
+												
+												
+													<td>SIWAN</td>
+													<td>MAIRWA</td>
+													<td>BARGAON</td>
+													<td>101387</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>274</td>
+											
+											
+											
+												
+												
+												
+													<td>SIWAN</td>
+													<td>MAIRWA</td>
+													<td>ENGLISH</td>
+													<td>101390</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>275</td>
+											
+											
+											
+												
+												
+												
+													<td>SIWAN</td>
+													<td>MAIRWA</td>
+													<td>MURIYARI</td>
+													<td>101392</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>276</td>
+											
+											
+											
+												
+												
+												
+													<td>SUPAUL</td>
+													<td>KISHANPUR</td>
+													<td>DUBIYAHI</td>
+													<td>101523</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>277</td>
+											
+											
+											
+												
+												
+												
+													<td>SUPAUL</td>
+													<td>SUPAUL</td>
+													<td>EKMA</td>
+													<td>101622</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>278</td>
+											
+											
+											
+												
+												
+												
+													<td>VAISHALI</td>
+													<td>HAJIPUR</td>
+													<td>GAUSPUR IZRA</td>
+													<td>101759</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+										<tr>
+											<td>279</td>
+											
+											
+											
+												
+												
+												
+													<td>VAISHALI</td>
+													<td>MAHUA</td>
+													<td>RASALPUR URF MADHAUL</td>
+													<td>101844</td>
+												
+
+											
+											<td>No</td>
+										</tr>
+									
+								</tbody>
+								<tfoot>
+									<tr>
+										<th colspan="3" id="footId" class="text-center">Report generated through (egramswaraj.gov.in)
+											On Fri, Nov 20, 2026 13:00:05 PM</th>
+									</tr>
+								</tfoot>
+							</table>
+
+						</div>
+					</div>
+				
+				
+			
+		</section>
+	</div>
+</section>
+
+<script>	
+function getData(obj) {
+		var isvalid=validateForm2();
+		if(isvalid)
+			{
+			 if(obj=='getData'){
+				 $("#getButton").attr('disabled',true);
+				 $("#getButton").css({"background-color": "green","pointer-events": "none","cursor": "default","color":"white"});
+				 $("#getButton").html("Please Wait .!"); 
+				 var formID = document.getElementById("yearBookNotClosedForm");
+				 formID.action = "yearBookNotClosedDetails.htm?OWASP_CSRFTOKEN=ED01-VJ6Z-5EW6-STA7-ZERE-8BKG-TDJK-QWUK";
+				 formID.method = "post";
+				 formID.submit();
+			 }else if(obj=='getExcel'){
+				/*  $("#getExport").attr('disabled',true);
+				 $("#getExport").css({"background-color": "green","pointer-events": "none","cursor": "default","color":"white"});
+				 $("#getExport").html("Please Wait .!");  */
+				 var formID = document.getElementById("yearBookNotClosedForm");
+				 formID.action = "yearBookNotClosedExcel.htm?OWASP_CSRFTOKEN=ED01-VJ6Z-5EW6-STA7-ZERE-8BKG-TDJK-QWUK";
+				 formID.method = "post";
+				 formID.submit();
+			 }
+			 	
+			}
+			else{
+				alert("All Fields Are Mandatory To Fill"); 
+			}
+	}
+
+function validateForm2(){
+	$(".error").hide();
+	var flag = true;
+	
+		if($("#state").val()==null || $("#state").val()=="" || $("#state").val()=="0"){
+			$("#state_error").show();
+			flag = false;
+		}
+		if($("#finYear").val()==null || $("#finYear").val()=="" || $("#finYear").val()=="0"){
+			$("#finYear_error").show();
+			flag = false;
+		}
+		if($("#localBodyTypeCode").val()==null || $("#localBodyTypeCode").val()=="" || $("#localBodyTypeCode").val()=="0"){
+			$("#localBodyTypeCode_error").show();
+			flag = false;
+		}
+	
+	return flag;
+}
+
+
+$(document).ready(function() {
+
+	$("#state").change(function(){
+    	$("#state_error").hide();
+    })
+	
+    $("#finYear").change(function(){
+    	$("#finYear_error").hide();
+    })
+   
+    $("#localBodyTypeCode").change(function(){
+    	$("#localBodyTypeCode_error").hide();
+    })
+    
+    
+});
+
+
+ function selectYear(){
+	$("#boxId").addClass("hide");
+	$("#msg").addClass("hide")
+ }
+
+function entityChange(){
+	$("#boxId").addClass("hide");
+	$("#msg").addClass("hide");
+}
+
+
+function entityList(stateId){
+	$("#boxId").addClass("hide");
+	$("#msg").addClass("hide");
+	var theSel = document.getElementById("localBodyTypeCode");
+	lgdDao.getTierSetup(parseInt(stateId),function(data){
+		if(data.length>0){
+		 for (var i = theSel.length - 1; i>=0; i--) {	   
+			 theSel.remove(i);
+		 } 
+		 theSel.options[theSel.length] = new Option('Select','');
+			
+			for(var i=0;i<data.length;i++){
+				theSel.options[theSel.length] = new Option(data[i].localbodytypename,data[i].localBodyTypeCode);
+			}
+		}else{
+			alert("Entity list not found");
+		}
+
+		
+		
+		
+	});
+}
+ 
+
+</script>
+
+
+
+
+
+		</div>
+		<!-- Control Sidebar -->
+		<!--  <aside class="control-sidebar control-sidebar-dark">
+	        <div class="tab-content">
+	          Home tab content
+	          <div class="tab-pane" id="control-sidebar-home-tab">          
+	          </div>/.tab-pane
+	        </div>
+	      </aside>/.control-sidebar -->
+		<!-- Add the sidebar's background. This div must be placed immediately after the control sidebar -->
+
+	</div>
+	<!-- ./wrapper -->
+</section>
+
+
+
+</body>
+
+
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+
+<link href="https://cdn.datatables.net/v/bs5/dt-2.3.8/b-3.2.6/b-colvis-3.2.6/b-html5-3.2.6/b-print-3.2.6/datatables.min.css" rel="stylesheet" >
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js" ></script>
+<script src="https://cdn.datatables.net/v/bs5/dt-2.3.8/b-3.2.6/b-colvis-3.2.6/b-html5-3.2.6/b-print-3.2.6/datatables.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>$.widget.bridge('uibutton', $.ui.button);</script>
+
+<script type="text/javascript"
+	src="/resources/js/app.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/bootstrap-notify.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/jquery.slimscroll.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/themes.js"></script>
+<script type="text/javascript"
+	src="/resources/js/bootbox.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/util.js"></script>
+<script type="text/javascript"
+	src="/resources/js/select2.full.min.js"></script>
+
+<script type="text/javascript"
+	src="/resources/iCheck/icheck.min.js"></script>
+
+<!--    For Top scrolling button              -->
+<script type="text/javascript"> 
+   function scrollToTop() { jQuery('html, body').animate({scrollTop:0}, 'slow'); }
+   
+   $(document).ready(function() { 
+	   $('input[type="checkbox"].minimal, input[type="radio"].minimal').iCheck({
+	          checkboxClass: 'icheckbox_minimal-blue',
+	          radioClass: 'iradio_minimal-blue'
+	        });
+   });
+   
+</script>
+
+<!-- ****************************************Start Notification Start Success,ERROR,Alert,Notify************************************************* -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ****************************************End Notification Start Success,ERROR,Alert,Notify************************************************* -->
+</html>
