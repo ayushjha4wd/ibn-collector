@@ -122,9 +122,21 @@ class Collector:
             stem = stem[:110] + "_" + hashlib.sha1(stem.encode()).hexdigest()[:12]
         return self.raw / sub / f"{stem}.{ext}"
 
-    def have(self, sub, url):
+    def saved(self, sub, url):
+        """Files already saved for this URL, in today's folder or any earlier dated folder (so a run
+        that crosses midnight, or is restarted the next day, resumes instead of downloading again)."""
         d = self.dest(sub, url, "x")
-        return d.parent.exists() and any(p.stem == d.stem for p in d.parent.glob(glob_escape(d.stem) + ".*"))
+        rel = d.relative_to(self.raw).parent
+        for day in sorted((RAW / SOURCE_ID).glob("*-*-*"), reverse=True):
+            folder = day / "egramswaraj.gov.in" / rel
+            if folder.is_dir():
+                hit = [q for q in folder.glob(glob_escape(d.stem) + ".*") if q.stem == d.stem]
+                if hit:
+                    return hit
+        return []
+
+    def have(self, sub, url):
+        return bool(self.saved(sub, url))
 
     def save(self, path: Path, body: bytes, rec: dict):
         n = 1
@@ -147,11 +159,10 @@ class Collector:
 
     def get(self, step, sub, url, report, params=None, data=None):
         """Download url once (skip if saved before). Returns body text or None."""
-        if self.have(sub, url):
+        hit = self.saved(sub, url)
+        if hit:
             self.n["skipped"] += 1
-            p = self.dest(sub, url, "x")
-            hit = [q for q in p.parent.glob(glob_escape(p.stem) + ".*") if q.stem == p.stem]
-            return hit[0].read_bytes().decode("utf-8", "ignore") if hit else None
+            return hit[0].read_bytes().decode("utf-8", "ignore")
         time.sleep(self.a.delay)
         rec = {"step": step, "report": report, "url": url, "params": params or {}, "method": "POST" if data else "GET",
                **now_stamps()}
