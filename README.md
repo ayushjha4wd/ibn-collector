@@ -9,7 +9,7 @@ plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`
 
 ## Task 4: eGramSwaraj (Bihar Panchayats)
 
-**Report: [docs/task4/TASK4_REPORT.md](docs/task4/TASK4_REPORT.md).** eGramSwaraj's own hosts
+**Report: [docs/task4/TASK4_REPORT.md](docs/task4/TASK4_REPORT.md)** (PDF: [TASK4_REPORT.pdf](docs/task4/TASK4_REPORT.pdf); Excel summary: [TASK4_SUMMARY.xlsx](docs/task4/TASK4_SUMMARY.xlsx); clean data: [data/clean/egs/](data/clean/egs/README.md); rebuild both with `python scripts/make_task4_docs.py`). eGramSwaraj's own hosts
 (`egramswaraj.gov.in`, `reportingonline.gov.in`, `accountingonline.gov.in`, `planningonline.gov.in`)
 refuse connections from outside India, so the work is in two parts:
 

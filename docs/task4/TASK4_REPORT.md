@@ -1,6 +1,6 @@
 # IBN Task 4: Bihar eGramSwaraj Data Exploration
 
-20 November 2026 · `ayushjha4wd/ibn-collector`
+20–22 November 2026 · `ayushjha4wd/ibn-collector`
 
 ## 0. Summary
 
