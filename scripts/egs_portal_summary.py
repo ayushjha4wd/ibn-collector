@@ -6,7 +6,7 @@ writes to data/analysis/egs/:
                               mentions Bihar, table headings, files saved, statuses
   portal_static_reports.csv   one row per saved FileRedirect.jsp report file: report family,
                               FY, state, district, caption, rows
-  portal_bihar_values.csv     LONG copy of every Bihar table cell in the static reports and the
+  portal_bihar_values/*.csv  LONG copy (one file per report family and FY) of every Bihar table cell in the static reports and the
                               all-state closure reports' BIHAR rows: file, caption FY / state /
                               district, row label, heading path, value EXACTLY as served
   portal_api_values.csv       getMobileData JSON rows, as served
@@ -109,7 +109,7 @@ def grids(html):
 
 
 def write(name, header, rows):
-    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / name).parent.mkdir(parents=True, exist_ok=True)
     with open(OUT / name, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(header)
@@ -164,6 +164,14 @@ def main():
             continue
         good.append((r, p, body))
     print(f"{len(good)} EGS-PORTAL originals checked, {bad} hash mismatches (skipped)")
+    seen, uniq = set(), []
+    for r, p, body in good:  # the same bytes saved again on a later day: describe once (earliest copy)
+        h = r.get("sha256")
+        if h not in seen:
+            seen.add(h)
+            uniq.append((r, p, body))
+    print(f"{len(uniq)} distinct files ({len(good) - len(uniq)} byte-identical repeats from later runs not re-listed)")
+    good = uniq
 
     # ---- page inventory (crawl pages + xhr/manual records)
     inv = collections.OrderedDict()
@@ -220,8 +228,12 @@ def main():
                             generated.group(1).strip() if generated else "", r.get("retrieved_at_ist", ""),
                             r["stored_path"].replace("\\", "/"), u])
         is_bihar = state.lower() == "bihar" or rest.split("/")[:1] == ["10"]
+        done = set()  # many pages print the same table twice; keep the first copy of each cell
         for gi, g in enumerate(gs):
             for label, path, v in table_values(g):
+                if (label, path, v) in done:
+                    continue
+                done.add((label, path, v))
                 if is_bihar or (fam == "priasoftOverview" and label.upper() == "BIHAR"):
                     values.append([fam, cfy, state or ("BIHAR" if fam == "priasoftOverview" else ""), district, block,
                                    gi, label, path, v, r["stored_path"].replace("\\", "/")])
@@ -229,9 +241,22 @@ def main():
           ["report_family", "financial_year", "fd_path_after_year", "name", "caption_state", "caption_district",
            "caption_block", "caption", "table_rows", "report_generated_on (as printed)", "retrieved_at_ist",
            "stored_path", "url"], static_rows)
-    write("portal_bihar_values.csv",
-          ["report_family", "financial_year", "state", "district", "block", "table_index", "row_label",
-           "column_heading_path", "value_as_served", "stored_path"], values)
+    # one file per report family and year (GitHub refuses files over 100 MB)
+    vhead = ["report_family", "financial_year", "state", "district", "block", "table_index", "row_label",
+             "column_heading_path", "value_as_served", "stored_path"]
+    parts = collections.defaultdict(list)
+    for v in values:
+        parts[(v[0] or "other", v[1] or "no_year")].append(v)
+    old_single = OUT / "portal_bihar_values.csv"
+    if old_single.exists():
+        old_single.unlink()
+    vdir = OUT / "portal_bihar_values"
+    if vdir.exists():
+        for f in vdir.glob("*.csv"):
+            f.unlink()
+    for (fam_, fy_), rows_ in sorted(parts.items()):
+        write(f"portal_bihar_values/{fam_}_{fy_}.csv", vhead, rows_)
+    print(f"portal_bihar_values: {len(values)} values in {len(parts)} files")
 
     # ---- getMobileData API
     api = []
