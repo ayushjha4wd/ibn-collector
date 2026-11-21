@@ -1,0 +1,10 @@
+provenance: 19583 EGS-PORTAL / EGS-AO originals listed
+phase 2: profiling
+phase 3: geography
+getMobileData lists: 38 districts, 534 blocks, 8388 GPs
+phase 3: financial validation
+phase 3: accounting, administrative, historical
+phase 4: validated tables
+phase 5: reports
+checks: NOT TESTABLE 1, PASS 84, UNRESOLVED 1, WARNING 18; exceptions 729; issues 27
+second run identical

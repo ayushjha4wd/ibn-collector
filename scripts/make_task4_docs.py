@@ -38,6 +38,7 @@ table { border-collapse: collapse; width: 100%; margin: 6pt 0 10pt; font-size: 7
 tr { page-break-inside: avoid; }
 th { background: #12355b; color: #fff; text-align: left; padding: 3pt 4pt; vertical-align: top; }
 td { border-bottom: 0.5px solid #c9d1db; padding: 3pt 4pt; vertical-align: top; }
+td:first-child, th:first-child { min-width: 58px; }
 tr:nth-child(even) td { background: #f3f6f9; }
 code { font-family: "DejaVu Sans Mono", monospace; font-size: 7.4pt; background: #eef1f5; padding: 0 2px;
        word-break: break-all; }
@@ -46,27 +47,29 @@ p, li { orphans: 3; widows: 3; }
 """
 
 
-def pdf():
+def pdf(md=MD, out=None, title="IBN Task 4: Bihar eGramSwaraj Data Exploration", footer="IBN Task 4 · Bihar eGramSwaraj"):
+    out = out or DOC / "TASK4_REPORT.pdf"
     with tempfile.TemporaryDirectory() as tmp:
         html = Path(tmp) / "report.html"
         css = Path(tmp) / "report.css"
         css.write_text(CSS, encoding="utf-8")
-        subprocess.run(["pandoc", str(MD), "-f", "gfm", "-t", "html5", "-s", "--metadata",
-                        "pagetitle=IBN Task 4: Bihar eGramSwaraj Data Exploration", "-c", css.name,
+        subprocess.run(["pandoc", str(md), "-f", "gfm", "-t", "html5", "-s", "--metadata",
+                        f"pagetitle={title}", "-c", css.name,
                         "-o", str(html)], check=True, cwd=tmp)
         from playwright.sync_api import sync_playwright
         with sync_playwright() as p:
             b = p.chromium.launch()
             page = b.new_page()
+            # relative links in the markdown are meaningless in the PDF; keep their text
             page.goto(html.as_uri())
-            page.pdf(path=str(DOC / "TASK4_REPORT.pdf"), format="A4", print_background=True,
+            page.pdf(path=str(out), format="A4", print_background=True,
                      display_header_footer=True, header_template="<span></span>",
                      footer_template='<div style="font-size:7pt;width:100%;text-align:center;color:#666">'
-                                     'IBN Task 4 · Bihar eGramSwaraj · page <span class="pageNumber"></span> of '
+                                     f'{footer} · page <span class="pageNumber"></span> of '
                                      '<span class="totalPages"></span></div>',
                      margin={"top": "16mm", "bottom": "18mm", "left": "14mm", "right": "14mm"})
             b.close()
-    print("wrote", DOC / "TASK4_REPORT.pdf")
+    print("wrote", out)
 
 
 def plain(s):
@@ -75,10 +78,10 @@ def plain(s):
     return re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s).strip()
 
 
-def md_sections():
+def md_sections(md=MD):
     """{section title: [(table title, header, rows)]} for every markdown table in the report."""
     out, sec, last = {}, "Front", ""
-    lines = MD.read_text(encoding="utf-8").splitlines()
+    lines = Path(md).read_text(encoding="utf-8").splitlines()
     i = 0
     while i < len(lines):
         ln = lines[i]

@@ -1,31 +1,84 @@
-# IBN collector — Task 3: Data collection
+# IBN collector: Bihar data (Task 3 and Task 4)
 
-Repeatable scripts to download India By Numbers source datasets, keep the original
-files untouched, and record where and when each file came from. The manifest covers
-all 41 sources in the Bihar catalogue (IDs match `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`),
-plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`DM-11`).
+Repeatable scripts to download India By Numbers source datasets for Bihar, keep the original
+files untouched, and record where and when each file came from.
 
-**Final report (13 Nov 2026): [REPORT.md](REPORT.md). Detailed book (PDF): [docs/IBN_Bihar_Data_Book.pdf](docs/IBN_Bihar_Data_Book.pdf). Short handbook: [docs/IBN_Bihar_Data_Handbook.pdf](docs/IBN_Bihar_Data_Handbook.pdf). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
+**Consolidated report, Tasks 1–5: [docs/IBN_FULL_REPORT.md](docs/IBN_FULL_REPORT.md)** ([PDF](docs/IBN_FULL_REPORT.pdf), [Excel](docs/IBN_FULL_REPORT.xlsx); rebuild with `python scripts/make_full_report.py`).
+
+| Task | What | Report |
+|---|---|---|
+| **Task 3: Data collection** | All 41 sources in the Bihar catalogue (IDs match `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`), plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`DM-11`) | [REPORT.md](REPORT.md) (13 Nov 2026) · [Data Book (PDF)](docs/IBN_Bihar_Data_Book.pdf) · [Handbook (PDF)](docs/IBN_Bihar_Data_Handbook.pdf) · [every file](data/analysis/FILES.md) |
+| **Task 4: eGramSwaraj exploration** | Bihar Panchayat profiles, elected representatives and public finance from the eGramSwaraj suite (Ministry of Panchayati Raj) | [TASK4_REPORT.md](docs/task4/TASK4_REPORT.md) (20–22 Nov 2026) · [PDF](docs/task4/TASK4_REPORT.pdf) · [Excel summary](docs/task4/TASK4_SUMMARY.xlsx) · [clean data](data/clean/egs/README.md) |
+| **Task 5: eGramSwaraj validation** | Profiling, validation and standardisation of the Task 4 data: dictionary, reconciliation, geographic reference, comparability, quality register | [TASK5_REPORT.md](docs/task5/TASK5_REPORT.md) (22 Nov 2026) · [PDF](docs/task5/TASK5_REPORT.pdf) · [Excel summary](docs/task5/TASK5_SUMMARY.xlsx) · [validated data](data/validated/egs/) |
 
 ## Task 4: eGramSwaraj (Bihar Panchayats)
 
-**Report: [docs/task4/TASK4_REPORT.md](docs/task4/TASK4_REPORT.md)** (PDF: [TASK4_REPORT.pdf](docs/task4/TASK4_REPORT.pdf); Excel summary: [TASK4_SUMMARY.xlsx](docs/task4/TASK4_SUMMARY.xlsx); clean data: [data/clean/egs/](data/clean/egs/README.md); rebuild both with `python scripts/make_task4_docs.py`). eGramSwaraj's own hosts
-(`egramswaraj.gov.in`, `reportingonline.gov.in`, `accountingonline.gov.in`, `planningonline.gov.in`)
-refuse connections from outside India, so the work is in two parts:
+**Status: complete.** All deliverables (A–I) and the answers to the specific questions are in the
+[report](docs/task4/TASK4_REPORT.md), which was merged in ayushjha4wd/ibn-collector#1.
+
+**What was found (all verified from saved originals):**
+
+* **Panchayat finance is public without CAPTCHA.** It is published as dated static reports: Receipts
+  and Payments for each tier (Zilla Parishad, Block Panchayat, Gram Panchayat) by state, district,
+  block and **every GP**, plus month-wise cash flow, scheme-wise statements (OWN, XV FC, FFC) and
+  accounting status. Bihar has data from 2020-21. Earlier years show "0", which means accounts were
+  not kept in eGramSwaraj, not zero spending.
+* **Elected representatives are counted by gender.** For Bihar: GP 140,248 (77,292 female), BP
+  11,666 (6,760 female), ZP 1,103 (647 female).
+* **No population or household data** appears in any open report.
+* **39 of the 59 report forms that offer Bihar have a CAPTCHA**, including the cash book, ledger,
+  vendors, physical progress and GPDP action plans. They were not bypassed and are listed as gaps.
+* **AuditOnline** (the suite's audit module) covers audits and observations for every GP, 2019-20 to
+  2025-26. It has no rupee amounts.
+
+**Where things are:**
+
+| What | Where |
+|---|---|
+| Original files (read-only, byte-exact) | `data/raw/EGS-PORTAL/<date>/egramswaraj.gov.in/` (13,160) and `data/raw/EGS-AO/<date>/` (6,459) |
+| Source URL, parameters, time and sha256 of every file | `data/provenance.jsonl` (sources `EGS-PORTAL`, `EGS-AO`) |
+| Crawl and form inventory | `data/egs_explore/2026-11-20/` |
+| Values copied exactly as served, coverage matrices | `data/analysis/egs/` |
+| Clean tables and workbook (a separate later step) | `data/clean/egs/`; see its [README](data/clean/egs/README.md) |
+
+**How to run it again.** `egramswaraj.gov.in` answers only connections from India, so the eGramSwaraj
+steps must run on a computer in India. AuditOnline and every step after collection run anywhere.
 
 ```bash
-python scripts/egs_auditonline.py      # AuditOnline (audit module of the suite): reachable from anywhere; Bihar, 2019-20 to 2025-26
-python scripts/egs_summary.py          # field catalogue + coverage matrices -> data/analysis/egs/
-python scripts/egs_explore.py          # run FROM INDIA: crawls eGramSwaraj, saves every page/form/file, packs a zip
-python scripts/egs_explore.py --forms  # also fills the Bihar report forms (needs: pip install playwright; python -m playwright install chromium)
-python scripts/egs_bihar.py            # run FROM INDIA: Bihar static finance archives, getMobileData API, page scripts
-python scripts/egs_bihar.py --steps xhr     # records the JSON behind browser-built reports (profiles, representatives, grants)
-python scripts/egs_portal_summary.py   # re-hashes EGS-PORTAL originals; writes verbatim value tables to data/analysis/egs/
-python scripts/run_pass2.py            # FROM INDIA: the three steps above plus commit and push, in one command
-python scripts/egs_clean.py            # separate later step: clean Bihar tables + workbook -> data/clean/egs/ (see its README)
+python scripts/egs_auditonline.py      # AuditOnline: Bihar, all audit years, down to GP (works from anywhere)
+python scripts/egs_summary.py          # AuditOnline field catalogue + coverage matrices -> data/analysis/egs/
+python scripts/run_pass2.py            # FROM INDIA, one command: egs_bihar.py, egs_bihar.py --steps xhr,
+                                       #   egs_portal_summary.py, then commit and push (add --delay 0.3 to go faster)
+python scripts/egs_clean.py            # clean Bihar tables + workbook -> data/clean/egs/
+python scripts/make_task4_docs.py      # rebuild docs/task4/TASK4_REPORT.pdf and TASK4_SUMMARY.xlsx
 ```
 
-CAPTCHA-protected reports are never automated; `egs_bihar.py --steps manual` lets a person enter each CAPTCHA and only saves what they are shown.
+The individual eGramSwaraj steps, if needed:
+
+```bash
+python scripts/egs_explore.py          # crawl: saves every page, form and file, packs a zip
+python scripts/egs_explore.py --forms  # also fills the Bihar report forms (pip install playwright; python -m playwright install chromium)
+python scripts/egs_bihar.py            # static finance archives, getMobileData API, page scripts (resumes across days)
+python scripts/egs_bihar.py --steps xhr     # JSON behind browser-built reports (representatives, profiles, GPDP)
+python scripts/egs_bihar.py --deep-years all # block and GP pages for every year (default: 2020-21 and 2024-25)
+python scripts/egs_portal_summary.py   # re-hashes originals; must print "0 hash mismatches"
+```
+
+**Rules the scripts keep:**
+
+* CAPTCHA and login are never bypassed. `egs_bihar.py --steps manual` lets a person enter each CAPTCHA, and saves only what they are shown.
+* Originals are never changed or overwritten. `.gitattributes` stops Git from converting line endings, which would break the sha256 check, and merges `data/provenance.jsonl` by keeping the lines of both sides.
+* Empty is never read as zero.
+* Personal names and contact details are not kept in derived files.
+
+## Task 5: eGramSwaraj validation (Bihar)
+
+**Report: [docs/task5/TASK5_REPORT.md](docs/task5/TASK5_REPORT.md)** ([PDF](docs/task5/TASK5_REPORT.pdf), [Excel summary](docs/task5/TASK5_SUMMARY.xlsx); rebuild with `python scripts/make_task5_docs.py`). It profiles, validates and standardises the Task 4 tables without changing them. The validated layer, data dictionary, reconciliation, geographic reference, comparability matrix and quality register are in `data/validated/egs/`.
+
+```bash
+python scripts/egs_validate.py --check         # full validation, run twice, outputs must be byte-identical
+python -m unittest tests/test_egs_validate.py  # unit tests for the validation rules
+```
 
 ## Quick start
 
@@ -72,6 +125,10 @@ data/provenance.jsonl        append-only download log
 data/extractions.jsonl       append-only extraction log
 data/ocr.jsonl               append-only OCR log (page_NNN.ocr.txt files sit beside page_NNN.txt)
 data/analysis/               files.csv, summary.json and FILES.md, written by analyse.py
+data/analysis/egs/           Task 4 descriptions of the eGramSwaraj / AuditOnline originals (values as served)
+data/egs_explore/            Task 4 crawl and form inventory
+data/clean/egs/              Task 4 clean tables (separate later step), with README
+docs/task4/                  Task 4 report (Markdown, PDF) and Excel summary
 data/inventory.csv           regenerated by verify.py
 ```
 

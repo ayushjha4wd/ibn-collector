@@ -1,0 +1,14 @@
+dataset,level,rows,columns,financial_years,source_files,portal_total_rows,exact_duplicate_rows,key,duplicate_keys,report_generated_on,retrieved,role
+state_year_summary,state,45,15,2012-2013 2013-2014 2014-2015 2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,15,0,0,financial_year+tier,0,2024-10-23 to 2026-11-20,2026-11-20,core eGramSwaraj
+district_finance,district,429,18,2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,11,11,0,financial_year+district,0,2022-02-20 to 2026-11-21,2026-11-21,core eGramSwaraj
+block_finance,block,6292,18,2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,418,418,0,financial_year+district_code+block,0,2022-02-20 to 2026-11-21,2026-11-20 to 2026-11-21,core eGramSwaraj
+gp_finance,gram panchayat,17508,14,2020-2021 2024-2025,1068,1068,0,financial_year+block_code+gp_name_as_served,0,2022-07-18 to 2026-11-21,2026-11-20 to 2026-11-22,core eGramSwaraj
+district_scheme_finance,district (and state row),1683,16,2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,29,42,0,financial_year+scheme_code+district+tier,0,2021-08-20 to 2026-11-21,2026-11-21,core eGramSwaraj
+monthly_finance,zilla parishad or block panchayat body x month,13932,15,2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,1161,0,0,financial_year+entity+entity_code+month,0,2022-07-18 to 2026-11-21,2026-11-20 to 2026-11-22,core eGramSwaraj
+monthly_vouchers,district or block x month,13968,12,2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,1164,0,0,financial_year+entity+entity_code+month,0,2022-07-18 to 2026-11-21,2026-11-20 to 2026-11-22,core eGramSwaraj
+district_accounting_status,district,456,36,2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,12,0,0,financial_year+district,0,2022-02-20 to 2026-11-21,2026-11-21,core eGramSwaraj
+block_accounting_status,block,6384,26,2015-2016 2016-2017 2017-2018 2018-2019 2019-2020 2020-2021 2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027,456,0,0,financial_year+district_code+block,0,2022-01-30 to 2026-11-21,2026-11-21,core eGramSwaraj
+gp_accounting_status,gram panchayat,16440,19,2020-2021 2024-2025,1067,0,0,financial_year+block_code+gp_name_as_served,0,2022-07-18 to 2026-11-21,2026-11-20 to 2026-11-22,core eGramSwaraj
+gp_year_book_closed,gram panchayat,16373,8,2020-2021 2024-2025,1064,0,0,financial_year+block_code+gp_code,0,,,core eGramSwaraj
+state_indicators,state,84,7,,22,0,0,endpoint+query+field+source_file,0,,2026-11-22,core eGramSwaraj
+audit_gp,gram panchayat,16439,12,2020-2021 2024-2025,1185,0,0,financial_year+gp_code,0,,,supplementary (AuditOnline)

@@ -1,0 +1,58 @@
+{
+  "started_utc": "2026-11-21T21:19:38+00:00",
+  "script": "scripts/egs_validate.py",
+  "inputs_sha256": {
+    "data/clean/egs/audit_gp.csv": "63efaa322eb30974ecef9ce4d869a1ba0c7663dd7f419c0589991e4bd44ffac1",
+    "data/clean/egs/block_accounting_status.csv": "a2a3370c7eeef4611a8f8ed0c7bdde97843fb1c469904bc0ca8feee8f26438be",
+    "data/clean/egs/block_finance.csv": "702c83a94be24562b6033fa6850411f42c0d0ef3254b46f7c4dcf556eabb0c30",
+    "data/clean/egs/district_accounting_status.csv": "403503798ee888fb2edd13b6372cf8de94507d4a12a38747709fe86bdffbcd83",
+    "data/clean/egs/district_finance.csv": "6295d1c4fa02781d34353ea12d9482f0f33a4dbd355e01bf089d02aba2123392",
+    "data/clean/egs/district_scheme_finance.csv": "254ee5e5454bc92ce615b3b061a6ef3ba0180b65154070b9ca671906e024f35d",
+    "data/clean/egs/gp_accounting_status.csv": "2ef0a969621bb7640906ebb43d185f6615b83567df46663903aaf54ac1153eb9",
+    "data/clean/egs/gp_finance.csv": "c08ebe624968726a6353beb48478e5ec036e2c3bfb6d9be7c2207075c9bedbb4",
+    "data/clean/egs/gp_year_book_closed.csv": "a8717f16e36d2e23da3563b5269802dc62182ed2469d0ec1e2d3ba3e89674131",
+    "data/clean/egs/monthly_finance.csv": "6fecbcc211b557967c233466664c1117675f057d1e73912fd281b101155b48f0",
+    "data/clean/egs/monthly_vouchers.csv": "aad96259abd49611a2758c3a7231e55198f493e7b17d2c465eeb07ebe52d8021",
+    "data/clean/egs/state_indicators.csv": "d9b2fb6b7f7e62185681c6a5e8b4ed606f53fab419d312345c657bc806013f38",
+    "data/clean/egs/state_year_summary.csv": "1d6a523289be60eed85dc2a3cc8949132381c6225197635e4f22da523396003d",
+    "config/egs_field_definitions.csv": "c9090e12b1e5d83fc8e4add2466769189b4afbecf8e667290abe2a61a10fa99f"
+  },
+  "check_status_counts": {
+    "NOT TESTABLE": 1,
+    "PASS": 84,
+    "UNRESOLVED": 1,
+    "WARNING": 18
+  },
+  "outputs_sha256": {
+    "data/validated/egs/accounting_snapshot_comparison.csv": "ea19a19192da6c339b170671528b23e26946867c93732cfa4ab9e2887abc7bc4",
+    "data/validated/egs/administrative_indicators.csv": "03385f8c131b1a05bd44bb03a256878773654e4faab5f330ad6ef6271f1f8df6",
+    "data/validated/egs/block_accounting_status.csv": "985112f8eb98c6b192ca9e97324a085898d68d0c730db2bf0c752d9c90ee3237",
+    "data/validated/egs/block_finance.csv": "0e0f9753ec2f7d04e29efa5e97fe91404743f2f7fab4152d46a48297a890c716",
+    "data/validated/egs/data_dictionary.csv": "4d92abcb49ddd890b8ef0f429ee919990e66604cf1ff1b82a0593d2070af7723",
+    "data/validated/egs/data_quality_summary.csv": "29aa227aa912b9e4f0b25fa1aafbd578b8ec83e9480e2281ea5a465705898655",
+    "data/validated/egs/dataset_profile.csv": "0744e69ff2accc4a90d47483fa97c0ae0f1802236a80765ca6dbe0b1f786a099",
+    "data/validated/egs/district_accounting_status.csv": "d5e77570a8aba89ef15329b5fc209d328d9a25502b0559e7f6ac594f54e9e5ed",
+    "data/validated/egs/district_finance.csv": "b8310bafb27adc9f892bd43c9520847d512a508b9ba9ae3aff6fc491af12ee55",
+    "data/validated/egs/district_scheme_finance.csv": "f303cfb4facf74bbb09fa75b90bfcf4ddd768f020b09b21e4675e29a99c4c2ac",
+    "data/validated/egs/field_profile.csv": "ab3b62fb68879f8c4008becf3caf63cefec03b70b9af3064878e03d769eea148",
+    "data/validated/egs/financial_reconciliation.csv": "cf02afa1cbc55f8321c9c0350bdc5b3f0249185b7e2a689a718f9b4f501208f9",
+    "data/validated/egs/geographic_reference.csv": "368a540921364d976f9873e56176d9fc7cb6fc1b61bb6d8c701823f3164a2e36",
+    "data/validated/egs/gp_accounting_status.csv": "26e1c286795aec5f831d4df52fed8e2a442f967fff93eebc6ba57db22160efa5",
+    "data/validated/egs/gp_counts_by_year.csv": "ac8c96ac1f5729638525775f80abf18ad60b57cab41f2f620f9afa12d6cf4e18",
+    "data/validated/egs/gp_finance.csv": "8be69886d11629f1507e52e66e2aac2413bdff1a30fb8179a3b0a93820e3b931",
+    "data/validated/egs/gp_year_book_closed.csv": "925616c2842eabbc79c029e2249f0c525c889dea03675fb03910ba1fdeef3e56",
+    "data/validated/egs/historical_comparability.csv": "4b67e18ef9bb05e0e67d6545f2f91020d7fa70d6ba0fce2e4d2a9c87ef23cad5",
+    "data/validated/egs/monthly_finance.csv": "a46a07d5d61d155bd755d3ca4d266c46164c2a77ef91e424c799e64d46d03998",
+    "data/validated/egs/monthly_vouchers.csv": "fc95c354b0b6f4384208828654035641fd148ca976c9e6966c35567d08e54081",
+    "data/validated/egs/state_indicators.csv": "3fe7a1ee58e99ebe4e35f25bb2904a53976d84ab1d5fac9f989ba3b43da02f10",
+    "data/validated/egs/state_year_summary.csv": "1e799bd849bf95509e18dc1313da49dfebdea19f64bc1cb50dc3cecacbf4a836",
+    "data/validated/egs/supplementary_auditonline/audit_gp.csv": "2995a5f5a7ec4035933536f333d8d217cf78f85f2638fda6835abb2b305da4c5",
+    "data/validated/egs/unmatched_geographic_records.csv": "c511739f3da9eead519e377ebc82fb0074e33526325dc1499c306410926dfc76",
+    "data/validated/egs/validation_checks.csv": "da228fa456a731e7f83c111c052da2e7317e1b474c520adb285723a66a7e3e05",
+    "data/validated/egs/validation_exceptions.csv": "23aff7952cafd7f4a19b0152a7894d017cb1b432ba2960e1df1512a1d4a7a365"
+  },
+  "repeat_run": {
+    "identical": true,
+    "differing_files": []
+  }
+}
