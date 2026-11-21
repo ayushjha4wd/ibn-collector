@@ -12,3 +12,8 @@
 == 2024-2025
    new=826 skipped=103 errors=0
 == 2025-2026
+   new=1119 skipped=104 errors=0
+done: new=1180 skipped=104 errors=0
+== 2024-2025
+   new=2135 skipped=317 errors=0
+done: new=2135 skipped=378 errors=0
