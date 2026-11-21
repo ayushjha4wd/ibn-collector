@@ -1,4 +1,4 @@
-"""Build the consolidated Tasks 1-4 report as PDF and Excel from docs/IBN_FULL_REPORT.md.
+"""Build the consolidated Tasks 1-5 report as PDF and Excel from docs/IBN_FULL_REPORT.md.
 
     python scripts/make_full_report.py
 
@@ -32,13 +32,13 @@ def xlsx():
             r = put(w, title, head, rows, r)
         widths(w)
     text = MD.read_text(encoding="utf-8")
-    sec6 = text[text.index("## 6."):text.index("## 7.")]
+    sec6 = text[text.index("## 7."):text.index("## 8.")]
     blocks = re.split(r"^\d+\. ", sec6.split("\n", 1)[1], flags=re.M)[1:]  # each numbered step with its sub-points
     items = [" ".join(re.sub(r"\*\*|`", "", ln).strip(" -") for ln in b.splitlines() if ln.strip()) for b in blocks]
-    w = wb.create_sheet("6. Gaps and next steps")
+    w = wb.create_sheet("7. Gaps and next steps")
     put(w, "Gaps and next steps", ["#", "Step"], [[i + 1, s] for i, s in enumerate(items)], 1)
     widths(w, 120)
-    wb.move_sheet(w, offset=-(len(wb.sheetnames) - 1 - wb.sheetnames.index("5. How the work was done") - 1))
+    wb.move_sheet(w, offset=-(len(wb.sheetnames) - 1 - wb.sheetnames.index("6. How the work was done") - 1))
     files = ROOT / "data" / "analysis" / "files.csv"
     extra = [
         ("Task 3 - collected files", files, None, None),
@@ -65,5 +65,5 @@ def xlsx():
 
 
 if __name__ == "__main__":
-    pdf(MD, MD.with_suffix(".pdf"), "India By Numbers: Bihar Data, Tasks 1 to 4", "IBN · Bihar · Tasks 1–4")
+    pdf(MD, MD.with_suffix(".pdf"), "India By Numbers: Bihar Data, Tasks 1 to 5", "IBN · Bihar · Tasks 1–5")
     xlsx()

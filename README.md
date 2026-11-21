@@ -3,12 +3,13 @@
 Repeatable scripts to download India By Numbers source datasets for Bihar, keep the original
 files untouched, and record where and when each file came from.
 
-**Consolidated report, Tasks 1–4: [docs/IBN_FULL_REPORT.md](docs/IBN_FULL_REPORT.md)** ([PDF](docs/IBN_FULL_REPORT.pdf), [Excel](docs/IBN_FULL_REPORT.xlsx); rebuild with `python scripts/make_full_report.py`).
+**Consolidated report, Tasks 1–5: [docs/IBN_FULL_REPORT.md](docs/IBN_FULL_REPORT.md)** ([PDF](docs/IBN_FULL_REPORT.pdf), [Excel](docs/IBN_FULL_REPORT.xlsx); rebuild with `python scripts/make_full_report.py`).
 
 | Task | What | Report |
 |---|---|---|
 | **Task 3: Data collection** | All 41 sources in the Bihar catalogue (IDs match `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`), plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`DM-11`) | [REPORT.md](REPORT.md) (13 Nov 2026) · [Data Book (PDF)](docs/IBN_Bihar_Data_Book.pdf) · [Handbook (PDF)](docs/IBN_Bihar_Data_Handbook.pdf) · [every file](data/analysis/FILES.md) |
 | **Task 4: eGramSwaraj exploration** | Bihar Panchayat profiles, elected representatives and public finance from the eGramSwaraj suite (Ministry of Panchayati Raj) | [TASK4_REPORT.md](docs/task4/TASK4_REPORT.md) (20–22 Nov 2026) · [PDF](docs/task4/TASK4_REPORT.pdf) · [Excel summary](docs/task4/TASK4_SUMMARY.xlsx) · [clean data](data/clean/egs/README.md) |
+| **Task 5: eGramSwaraj validation** | Profiling, validation and standardisation of the Task 4 data: dictionary, reconciliation, geographic reference, comparability, quality register | [TASK5_REPORT.md](docs/task5/TASK5_REPORT.md) (22 Nov 2026) · [PDF](docs/task5/TASK5_REPORT.pdf) · [Excel summary](docs/task5/TASK5_SUMMARY.xlsx) · [validated data](data/validated/egs/) |
 
 ## Task 4: eGramSwaraj (Bihar Panchayats)
 
@@ -72,7 +73,7 @@ python scripts/egs_portal_summary.py   # re-hashes originals; must print "0 hash
 
 ## Task 5: eGramSwaraj validation (Bihar)
 
-**Report: [docs/task5/TASK5_REPORT.md](docs/task5/TASK5_REPORT.md).** It profiles, validates and standardises the Task 4 tables without changing them. The validated layer, data dictionary, reconciliation, geographic reference, comparability matrix and quality register are in `data/validated/egs/`.
+**Report: [docs/task5/TASK5_REPORT.md](docs/task5/TASK5_REPORT.md)** ([PDF](docs/task5/TASK5_REPORT.pdf), [Excel summary](docs/task5/TASK5_SUMMARY.xlsx); rebuild with `python scripts/make_task5_docs.py`). It profiles, validates and standardises the Task 4 tables without changing them. The validated layer, data dictionary, reconciliation, geographic reference, comparability matrix and quality register are in `data/validated/egs/`.
 
 ```bash
 python scripts/egs_validate.py --check         # full validation, run twice, outputs must be byte-identical

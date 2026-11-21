@@ -1,18 +1,19 @@
-# India By Numbers: Bihar Data, Tasks 1 to 4
+# India By Numbers: Bihar Data, Tasks 1 to 5
 
 Consolidated report · 22 November 2026 · `ayushjha4wd/ibn-collector`
 
 ## 0. Summary
 
-India By Numbers (IBN) is building a picture of Bihar from official public data. The work so far has four tasks:
+India By Numbers (IBN) is building a picture of Bihar from official public data. The work so far has five tasks:
 
 | Task | Aim | Result | Detailed report |
 |---|---|---|---|
 | **1–2. Source catalogue** | List the official sources for Bihar's public finance and demographics and assess each one | A catalogue of **41 Bihar sources**: 22 public finance (BR-PF), 16 demographic (BR-DM) and 3 cross-cutting (BR-XC) | Not in this repository (see section 1) |
 | **3. Data collection** | Download the data behind the catalogued sources, keeping originals, dates and references | **721 verified data files (1.23 GB) covering 12 of the 41 sources**, plus the national CRS 2023 report; all 41 in the collector's manifest; every file extracted to CSV or text | [REPORT.md](../REPORT.md), [Task 3 PDF](IBN_Task3_Submission_Report.pdf) |
 | **4. eGramSwaraj exploration** | Explore eGramSwaraj (catalogue source BR-PF-19) in depth for Bihar Panchayat profiles and public finance | **13,160 eGramSwaraj and 6,459 AuditOnline originals**. Panchayat receipts and payments down to **every Gram Panchayat**, elected representatives by gender, and a full report inventory, coverage matrices and gaps. Clean tables built afterwards | [TASK4_REPORT.md](task4/TASK4_REPORT.md), [PDF](task4/TASK4_REPORT.pdf), [Excel](task4/TASK4_SUMMARY.xlsx) |
+| **5. eGramSwaraj validation** | Establish whether the Task 4 data is accurate, understood, consistent and traceable enough for analysis | **104 checks: 84 PASS, 18 WARNING, 1 UNRESOLVED, 1 NOT TESTABLE, 0 FAIL.** All 371,660 stored values re-found in their original pages; codes verified from the pages' own links; 10,478 reconciliations; a validated layer, data dictionary and quality register | [TASK5_REPORT.md](task5/TASK5_REPORT.md), [PDF](task5/TASK5_REPORT.pdf), [Excel](task5/TASK5_SUMMARY.xlsx) |
 
-**Across all four tasks:**
+**Across all five tasks:**
 
 - Original files are kept byte for byte, read-only, never edited.
 - Every file is logged in `data/provenance.jsonl` with its URL, retrieval time and sha256.
@@ -142,7 +143,43 @@ Deliverables A–I and answers to set questions were required, under these rules
 
 Full details: [docs/task4/TASK4_REPORT.md](task4/TASK4_REPORT.md).
 
-## 4. Every catalogue source through Tasks 3 and 4
+## 4. Task 5: eGramSwaraj validation
+
+**Brief.** Without building any analysis yet, establish for every eGramSwaraj dataset collected for Bihar:
+
+- what each field means and its level, period and unit;
+- whether values are complete and correctly extracted;
+- whether geographic identifiers are reliable;
+- whether figures reconcile across levels;
+- which indicators can be compared across years.
+
+The originals and the preliminary clean tables are not changed. The result is a separate validated layer, `data/validated/egs/`.
+
+**Results** (`python scripts/egs_validate.py --check`, which runs the validation twice; the outputs were byte-identical):
+
+| Area | Finding |
+|---|---|
+| Extraction | All 77,137 rows of the ten finance and accounting tables were found again in their original page by an independent reader, and all 371,660 values matched. Every as-served amount parses to its number. Rs and Rs crore columns match the page headings |
+| Internal consistency | Every printed Total equals the sum of its rows: 2,134 village, 1,672 block and 66 district pages |
+| Reconciliation | 2024-25 GP rows equal the district Village Panchayat totals in all 38 districts. 2020-21 GP rows equal the State & Year Wise Summary exactly. Reports of the same year generated at different times often differ (e.g. 39 blocks in 2020-21); these are WARNINGs and are never adjusted |
+| Geography | 38 districts and 534 blocks, each block under one district. Codes are read from each row's own link on the source page and confirmed in eGramSwaraj's code list. 10,726 GP finance rows verified; 54 of the 102 rows unmatched in Task 4 resolved this way; 48 unresolved (2020-21) with candidates listed, not assigned |
+| Preliminary-step defect | 4 getMobileData GP lists are not UTF-8 and were skipped by `egs_clean.py`; their 68 rows are restored, marked, in the validated layer |
+| Indicators | Elected representatives by gender add up in every tier. Profile, GPDP upload and geo-tagging counts are consistent. No population or household field exists in the collected data |
+| Comparability | "Receipts" (Rs, to 2020-21) and "OB + Receipts (Cr)" (from 2021-22) are not directly comparable. Pre-2020-21 zeros mean "not recorded". Every figure must be cited with its report generation date |
+
+Outputs:
+
+- validated tables with codes, provenance and flags;
+- `data_dictionary.csv` (322 fields);
+- `financial_reconciliation.csv`;
+- `geographic_reference.csv`;
+- `unmatched_geographic_records.csv`;
+- `historical_comparability.csv`;
+- `data_quality_summary.csv` (27 issues).
+
+Full details: [docs/task5/TASK5_REPORT.md](task5/TASK5_REPORT.md).
+
+## 5. Every catalogue source through Tasks 3 and 4
 
 Status as recorded in the Task 3 report (13 Nov 2026), updated where Task 4 changed it. "Collected" means verified files are in `data/raw/`.
 
@@ -192,7 +229,7 @@ Status as recorded in the Task 3 report (13 Nov 2026), updated where Task 4 chan
 
 **Count after Task 4.** 13 of the 41 catalogue sources now have verified data (12 from Task 3, plus BR-PF-19 from Task 4). Of the rest, 11 are blocked by their websites, 13 need a person, and 4 have nothing to collect yet.
 
-## 5. How the work was done
+## 6. How the work was done
 
 | Principle | How it is kept |
 |---|---|
@@ -203,7 +240,7 @@ Status as recorded in the Task 3 report (13 Nov 2026), updated where Task 4 chan
 | Honest gaps | Blocked, CAPTCHA, login and on-screen sources are recorded with the reason and what was tried. Empty values are never read as zero |
 | Privacy | Name-level records are not collected. Auditor contacts and officials' names seen on AuditOnline were left out |
 
-## 6. Gaps and next steps
+## 7. Gaps and next steps
 
 1. **From a computer in India, run `python scripts/collect.py`.** This retries:
    - the statistics directorate (BR-PF-22, BR-DM-06, BR-DM-07, BR-DM-08);
@@ -219,10 +256,14 @@ Status as recorded in the Task 3 report (13 Nov 2026), updated where Task 4 chan
    - district-level elected-representative counts.
 
    CAPTCHA reports (cash book, ledger, vendor, physical progress, GPDP plans) can only be viewed one at a time by a person (`egs_bihar.py --steps manual`).
+
+   From Task 5:
+   - fix the encoding defect in `egs_clean.py` in a later clean-data step;
+   - settle the 48 unresolved 2020-21 GP codes if the portal now links those rows.
 4. **Add the Task 1–2 catalogue** (`IBN_Bihar_Data_Source_Catalogue_v2.xlsx`) to the repository, so that section 1 can show its assessments.
 5. **Next stage: cleaning and standardising across sources.** Make district names, LGD codes and units consistent across sources, reading from `data/processed/` and `data/clean/`. Task 4's clean Panchayat tables are the first example.
 
-## 7. Where everything is
+## 8. Where everything is
 
 | What | Where |
 |---|---|
@@ -234,4 +275,5 @@ Status as recorded in the Task 3 report (13 Nov 2026), updated where Task 4 chan
 | Extracted text and tables (Task 3) | `data/processed/` |
 | File descriptions | `data/analysis/` (Task 3: `FILES.md`, `files.csv`; Task 4: `data/analysis/egs/`) |
 | Clean Panchayat tables (Task 4) | `data/clean/egs/` |
+| Validated Panchayat tables, dictionary and quality reports (Task 5) | `data/validated/egs/`; report `docs/task5/TASK5_REPORT.md` |
 | Scripts and tests | `scripts/`, `tests/`; commands in `README.md` |
