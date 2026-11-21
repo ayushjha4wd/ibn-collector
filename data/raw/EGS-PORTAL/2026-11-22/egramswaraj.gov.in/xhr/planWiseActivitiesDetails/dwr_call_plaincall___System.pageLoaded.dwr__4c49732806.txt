@@ -1,0 +1,5 @@
+throw 'allowScriptTagRemoting is false.';
+//#DWR-INSERT
+dwr.engine.remote.handleNewScriptSession("4C3EF7CE13F583AD5191CF75F953BA58");
+//#DWR-REPLY
+dwr.engine.remote.handleCallback("0","0",null);

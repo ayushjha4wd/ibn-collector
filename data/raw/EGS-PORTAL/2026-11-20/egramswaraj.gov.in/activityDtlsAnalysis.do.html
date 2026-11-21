@@ -1,0 +1,1761 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referer" content="strict-origin-when-cross-origin" />
+<title>Activity Details Analysis Report</title>
+<link rel="stylesheet" type="text/css" href="/resources/home/js/font-awesome.min.css" />
+
+<!-- Font Awesome -->
+<link rel="stylesheet" type="text/css"
+	href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<!-- Theme style -->
+
+<!--  Theme Skins -->
+	
+	<!-- Data Table -->
+
+
+
+<script defer src="https://egramswaraj.gov.in/pes_analytics/script.js" data-website-id="10df7fae-9459-4a49-af58-19370610e6f1"></script>
+
+</head>
+
+<body>
+	<html>
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	<head>
+		<!-- Basic -->
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<!-- Site Metas -->
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+		
+		<title>eGramSwaraj</title>
+		
+		<!-- slider stylesheet -->
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+		
+		<!-- bootstrap core css -->
+		<link rel="stylesheet" type="text/css" href="/resources/home/css/bootstrap.css" />
+		
+		<!-- fonts style -->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
+		<!-- Custom styles for this template -->
+		<link href="/resources/home/css/style.css" rel="stylesheet" />
+		<!-- responsive style -->
+		<link href="/resources/home/css/responsive.css" rel="stylesheet" />
+	<script src="https://translation-plugin.bhashini.co.in/v2/website_translation_utility.js" data-pos-x="5" data-pos-y="10" referer="www.egramswaraj.gov.in" referrerpolicy="strict-origin-when-cross-origin"></script>
+<style>
+
+
+/* =======================
+   HEADER
+======================= */
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 42px;
+  background: #04285b;
+  color: white;
+  height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+  min-height: 42px;          /* minimum height à¤°à¤à¥à¤ */
+}
+
+.logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: #ffffff;
+  letter-spacing: 0.2px;
+  white-space: nowrap;
+}
+.logo:hover {
+  color: #007bff;
+}
+
+.top-links {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  flex-wrap: wrap;           /* à¤à¥à¤à¥ screen à¤ªà¤° wrap */
+}
+
+.action {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  color: #ffffff;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.action:hover {
+  opacity: 0.85;
+}
+
+.nav-link {
+  color: #FFFFFF;
+}
+.nav-link:hover {
+  color: #007bff;
+}
+
+.action-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* =======================
+   TABLET
+======================= */
+@media (max-width: 992px) {
+  .header {
+    padding: 0 20px;
+  }
+
+  .top-links {
+    gap: 16px;
+  }
+}
+
+/* =======================
+   MOBILE
+======================= */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 15px;
+    gap: 8px;
+  }
+
+  .logo {
+    white-space: normal; /* allow wrap */
+    font-size: 12px;
+  }
+
+  .top-links {
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .action {
+    font-size: 11.5px;
+  }
+}
+
+/* =======================
+   SMALL MOBILE
+======================= */
+@media (max-width: 480px) {
+  .top-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .action {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .logo {
+    font-size: 11px;
+  }
+}
+
+
+/* ================================
+   REPORT HEADER NAVBAR
+================================ */
+.rh-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 8px 40px;
+ 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  min-height: 72px;
+  box-sizing: border-box;
+}
+
+/* ---- LEFT LOGO ---- */
+.rh-logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rh-emblem {
+  width: 52px;
+  height: auto;
+  object-fit: contain;
+}
+
+.rh-brand {
+  height: 95px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RIGHT ICONS ---- */
+.rh-icons {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.rh-icon {
+  height: 44px;
+  width: auto;
+  object-fit: contain;
+}
+
+/* ---- RESPONSIVE ---- */
+@media (max-width: 768px) {
+  .rh-navbar {
+    padding: 8px 16px;
+    min-height: 60px;
+  }
+
+  .rh-emblem {
+    width: 38px;
+  }
+
+  .rh-brand {
+    height: 36px;
+  }
+
+  .rh-icon {
+    height: 32px;
+  }
+
+  .rh-icons {
+    gap: 10px;
+  }
+}
+
+
+</style>
+
+</head>
+	<body>
+		
+		
+			<header class="header">
+			  <div class="logo"><a href="welcome.do" class="logo">Government of India | Ministry of Panchayati Raj</a></div>
+			  <div class="top-links">								  
+			     <span class="action">
+			      <img src="resources/home/images/new/Maskgroup.svg" class="action-icon" alt="" />
+			      <a class="nav-link" href="screenReader.jsp" target="_parent">   Screen Reader Access </a>
+			       <!-- <a class="nav-link action" href="screenReader.jsp" target="_parent">  Screen Reader Access </a> -->
+			    </span>
+			    <span class="action">
+			      <img src="resources/home/images/new/Simplification.svg" class="action-icon" alt="" />
+			      <a class="nav-link action" href="welcome.do"> Home </a>
+			    </span>
+			   <!--  <span class="action">
+			      <img src="resources/home/images/new/Login.svg" class="action-icon" alt="" />
+			      <a href="javascript:login()" class="nav-link action">Login</a>
+			    </span> -->
+			  </div>
+			</header>
+				
+		
+			<!-- header section strats -->
+			
+			<!-- end header section -->
+			<!-- slider section -->
+			
+			<div class="rh-navbar">
+			  <div class="rh-logo">
+			    <img src="resources/home/images/new/icon-emblem.svg" class="rh-emblem" alt="Emblem" />
+			    <img src="resources/home/images/new/eGramsSwaraj.svg" class="rh-brand" alt="eGramSwaraj" />
+			  </div>
+			
+			  <div class="rh-icons">
+			    <img src="resources/home/images/new/Panchayati Raj _Logo Government1.svg" class="rh-icon" alt="Panchayati Raj" />
+			    <img src="resources/home/images/new/Group3525.svg" class="rh-icon" alt="Sabka Vikas" />
+			  </div>
+			
+			</div>
+			<!-- end slider section -->
+		
+	</body>
+	
+  <script type="text/javascript" src="/resources/home/js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/resources/js/popper.min.js"></script>
+  <script type="text/javascript" src="/resources/home/js/bootstrap.js"></script>
+</html>	
+	
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+<html lang="en">
+
+
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+
+
+
+
+
+<head>
+<script type="text/javascript" charset="utf-8">
+var captchaValue=  'null';
+</script>
+
+<script src="resources/js/homepage.js" type="text/javascript"></script>
+<script type='text/javascript' language="javascript" src='/dwr/engine.js'></script>
+<script type='text/javascript' language="javascript" src='/dwr/util.js'></script>
+<script type='text/javascript' language="javascript" src='/dwr/interface/lgdBaseService.js'></script>
+<script type="text/javascript" src="/dwr/interface/reportservice.js"></script>	
+<script  type="text/javascript" src="/resources/plugins/angular/excelexportjs.js"></script>
+<script  type="text/javascript" src="/resources/plugins/angular/jQuery.print.js"></script>
+<script type='text/javascript' src='/dwr/interface/captchaValidator.js'></script>
+<script type="text/javascript" src="/resources/js/captcha.js"></script>
+
+<link rel="stylesheet" type="text/css" href="resources/plugins/datatables/css/jquery.dataTables.css">  	
+<script type="text/javascript" charset="utf8" src="resources/plugins/datatables/js/jquery.dataTables.js"></script>	
+<script src="/resources/priasoft/plugins/datatables.net-buttons/js/dataTables.buttons.min.js"></script>	
+
+<style>
+
+#dataList {
+    width: 100%;
+   	border-collapse: separate; 
+   	border-spacing: 0;
+}
+
+#dataList thead  {
+    position: sticky;
+    top: 0;
+    z-index: 5; /* Ensure the header stays above the content */
+}
+
+#photoDivId img {
+  max-width: 40vw;
+  max-height: 40vh; /* fit viewport height */
+  display: block;
+  margin: 0 auto;
+}
+
+</style>
+
+</head>
+
+<script>
+
+function submitProfileReport(){
+	
+	$(".errored").hide();
+	var captchaVal = $("#captchaAnswer").val();
+	var Val = $("#districtId").val();
+	
+	if ($("#fyear").val() == null || $("#fyear").val() == "") {
+        $("#finyear_error").css("display","block");
+         return false;
+         
+    } if($("#stateCode").val() == null || $("#stateCode").val() == "") {
+        $("#state_error").css("display","block");
+        return false;
+        
+    } if($("#panchayatLevel").val() == null || $("#panchayatLevel").val() == "") {
+		$("#Panchayat_error").css("display","block");
+        return false;
+	  
+    }
+    
+    if($("#zpDiv").is(":visible")){
+    	if ($("#districtId").val() == null || $("#districtId").val() == "") {
+        	$("#zp_error").show();
+        	return false;
+            }
+    	
+    } if( $("#bpDiv").is(":visible")) {
+		if ($("#blockId").val() == null  || $("#blockId").val() == "") {
+            $("#bp_error").show();
+            return false;
+    	}
+    } if( $("#gpDiv").is(":visible")) {
+		if ($("#gpId").val() == null  || $("#gpId").val() == "") {
+            $("#gp_error").show();
+            return false;
+    	}
+    } if(captchaVal == "" || captchaVal == null) {
+		 $("#captchaAnswer_error").css("display","block");
+		 $("#captchaAnswer").focus(); 
+		 return false;
+	 
+    } if(captchaVal.length!=6){
+		 alert("Invalid captcha length");
+		 return false;
+		 
+	} 
+
+ 	else {
+	var status = validateCaptcha(captchaVal);
+	
+     if(status) {
+    	 var stateNameId = $('#stateCode :selected').text().split("(")[0]; 
+    	 var zpname = $('#districtId :selected').text();
+    	 var bpname = $('#blockId :selected').text();
+    	 var gpname = $('#gpId :selected').text();
+    	 
+    	 $("#zpNameId").val(zpname);  
+    	 $("#bpNameId").val(bpname);
+    	 $("#gpNameId").val(gpname);
+    	 $("#stateName").val(stateNameId);
+    	 
+	  	refreshCaptcha ();
+  	 	var formId = document.getElementById("activityAnalysisId");
+  		formId.method="POST";
+  		formId.action="activityDtlsAnalysis.do";
+  		formId.submit();
+     }
+     else {
+    	 refreshCaptcha();
+    	 $("#captchaAnswer_error").css("display","none");
+		 $("#captchaAnswer_errors").css("display","block");
+		 $("#captchaAnswer").focus(); 
+		return false;		
+     }
+ }
+}	
+
+</script>
+<body>
+
+	<form id="activityAnalysisId" action="activityDtlsAnalysis.do" method="POST">
+	
+		<input id="zpNameId" name="zpname" type="hidden" value=""/>
+		<input id="bpNameId" name="bpname" type="hidden" value=""/> 
+		<input id="gpNameId" name="gpname" type="hidden" value=""/>
+		<input id="stateName" name="stateName" type="hidden" value=""/>
+				
+		<section class="main-reports ng-scope py-4">
+			<div class="container-fluid px-5 nav-reports">
+			<h3 class="mainHeading heading_black cursor-pointer text-center pt-2">Comprehensive Activity Details Report</h3>
+			
+								 
+				<div class="row">
+					<div class="col-12 col-sm-3">&nbsp;</div>
+						<div class="col-12 col-sm-6  tab-content">
+							<div class="card">
+								<div class="card-body">
+									
+                     				<div class="row form-group" >
+										<div class="col-12 col-sm-5">
+											<label class="control-label mandatory"><strong>Select Plan Year</strong></label>
+										</div>
+										<div  class="col-12 col-sm-6 ">
+											<select id="fyear" name="planYear" class="form-control" onchange="nullFields();">
+												<option value="">Select</option>
+												<option value="2026">2026-2027</option><option value="2025">2025-2026</option><option value="2024">2024-2025</option><option value="2023">2023-2024</option><option value="2022">2022-2023</option><option value="2021">2021-2022</option><option value="2020">2020-2021</option>
+											</select>
+											<div class="errored" id="finyear_error">
+												This Field Is Required
+											</div>
+										</div>
+									</div>
+									
+									
+									<div class="row form-group" >
+										<div class="col-12 col-sm-5">
+											<label class="control-label mandatory"><strong>Select State</strong></label>
+										</div>
+										<div class="col-12 col-sm-6">
+											<select id="stateCode" name="stateCd" class="form-control" onchange="getTireSetup(this.value);">
+												<option value="">Select</option>
+												
+												
+        											<option value="35">Andaman And Nicobar Islands(35)</option>
+    											
+        											<option value="28">Andhra Pradesh(28)</option>
+    											
+        											<option value="12">Arunachal Pradesh(12)</option>
+    											
+        											<option value="18">Assam(18)</option>
+    											
+        											<option value="10">Bihar(10)</option>
+    											
+        											<option value="22">Chhattisgarh(22)</option>
+    											
+        											<option value="30">Goa(30)</option>
+    											
+        											<option value="24">Gujarat(24)</option>
+    											
+        											<option value="6">Haryana(6)</option>
+    											
+        											<option value="2">Himachal Pradesh(2)</option>
+    											
+        											<option value="1">Jammu And Kashmir(1)</option>
+    											
+        											<option value="20">Jharkhand(20)</option>
+    											
+        											<option value="29">Karnataka(29)</option>
+    											
+        											<option value="32">Kerala(32)</option>
+    											
+        											<option value="37">Ladakh(37)</option>
+    											
+        											<option value="31">Lakshadweep(31)</option>
+    											
+        											<option value="23">Madhya Pradesh(23)</option>
+    											
+        											<option value="27">Maharashtra(27)</option>
+    											
+        											<option value="14">Manipur(14)</option>
+    											
+        											<option value="17">Meghalaya(17)</option>
+    											
+        											<option value="15">Mizoram(15)</option>
+    											
+        											<option value="13">Nagaland(13)</option>
+    											
+        											<option value="21">Odisha(21)</option>
+    											
+        											<option value="34">Puducherry(34)</option>
+    											
+        											<option value="3">Punjab(3)</option>
+    											
+        											<option value="8">Rajasthan(8)</option>
+    											
+        											<option value="11">Sikkim(11)</option>
+    											
+        											<option value="33">Tamil Nadu(33)</option>
+    											
+        											<option value="36">Telangana(36)</option>
+    											
+        											<option value="38">The Dadra And Nagar Haveli And Daman And Diu(38)</option>
+    											
+        											<option value="16">Tripura(16)</option>
+    											
+        											<option value="5">Uttarakhand(5)</option>
+    											
+        											<option value="9">Uttar Pradesh(9)</option>
+    											
+        											<option value="19">West Bengal(19)</option>
+    											
+											</select>
+											<div class="errored" id="state_error">
+												This Field Is Required
+											</div>
+										</div>
+									</div>
+									
+									<div class="form-group row" id="levelDiv" style="display:none;">
+										<div class="col-12 col-sm-5">
+											<label class="control-label mandatory"><strong>Panchayat Level</strong></label>
+										</div>
+										<div class="col-12 col-sm-6">
+											<select id="panchayatLevel" name="localBodyTypeCode" class="form-control" onchange="getlevel1List(this.value)">
+                                                <option value="">Select</option>
+                                            </select>
+											<div class="errored" id="Panchayat_error">
+												This Field Is Required
+											</div>
+										</div>
+									</div>
+									
+					<!--####################################### zpLevel ###########################################--> 	
+					
+									<!---------ZP DIV  ------------>
+																			
+                                    <div class="form-group row" id="zpDiv" style="display:none;">
+                                        <div class="col-12 col-sm-5 text-left">
+                                            <label class="control-label mandatory"><strong>District Panchayat & Equivalent</strong></label>
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <select id="districtId" name="zpCode" class="form-control" onchange="getlevel2List(this.value)">  
+                                                <option value="">Select</option>
+                                            </select>
+                                            		
+                                            <div class="errored" id="zp_error">
+                                            	This Field Is Required
+                                        	</div>
+                                        			
+                                        </div>
+                                    </div>
+									
+					<!--####################################### bpLevel ###########################################-->
+			
+								<!---------BP DIV  ------------>
+			
+									<div class="form-group row" id="bpDiv" style="display:none;">
+                                        <div class="col-12 col-sm-5 text-left">
+                                            <label class="control-label mandatory"><strong>Block Panchayat and Equivalent</strong></label>
+                                        </div>
+                                        <div class="col-12 col-sm-6">
+                                            <select id="blockId" name="bpCode" class="form-control" onchange="getlevel3List(this.value)">
+                                                <option value="">Select</option>
+                                            </select>
+                                            		
+                                            <div class="errored" id="bp_error">
+                                            	This Field Is Required
+                                        	</div>
+                                        			
+                                        </div>
+                                    </div>
+								
+					<!--####################################### gpLevel ###########################################-->
+
+								<!---------GP DIV  ------------>
+								
+								<div class="form-group row" id="gpDiv" style="display:none;">
+                                	<div class="col-12 col-sm-5 text-left">
+                                    	<label class="control-label mandatory"><strong>Gram Panchayat & Equivalent</strong></label>
+                                    </div>
+                                    <div class="col-12 col-sm-6">
+                                    	<select id="gpId" name="gpCode" onclick="hideError();" class="form-control">
+                                        	<option value="">Select</option>
+                                        </select>
+                                            		
+                                    	<div class="errored" id="gp_error">
+                                        	This Field Is Required
+                                        </div>
+                                        			
+                                    </div>
+                               </div>
+								
+								
+								<div class="form-group row justify-content-center">
+										<div class="col-12 col-sm-3 text-right">
+											<img src="captchaImage" class="captcha " id="img_Capatcha" width="130px"/>
+											<i class="fa fa-refresh link" onclick="refreshCaptcha()"></i>
+										</div>
+										<div class="col-12 col-sm-4 text-left">
+											<input id="captchaAnswer" onkeypress="hideError();" placeholder="Captcha Answer" class="form-control" required="required" type="text" value="" maxlength="6" autocomplete="off"/>
+											<span class="text-danger errored" style="display: none;" id="captchaAnswer_error"> This Field Is Required</span> 
+											<span class=" text-danger errored" style="display: none;" id="captchaAnswer_errors"> You have entered Wrong Captcha</span>
+										</div>
+								</div>
+								
+							</div><!-- card-body ends -->
+							
+							<div class="card-footer">
+								<div class="float-right">
+									<button type="button" onclick="submitProfileReport()" class="btn btn-primary">
+										<i class="fa fa-arrow-right"></i>&nbsp;Get Report
+									</button>
+									<button type="button" class="btn btn-danger" onclick="onClear()" >
+										<i class="fa fa-refresh"></i>&nbsp;Reset
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-12 col-lg-3">&nbsp;</div>
+				</div>
+			
+			
+			 
+		</div>
+	</section>
+</form>
+</body>
+<script type="text/javascript">
+
+$(function() {	
+		$('#dataList').DataTable({
+			  			       
+	    } );
+});
+
+function getTireSetup(id){	
+	$(".errored").hide();
+	dwr.util.removeAllOptions('panchayatLevel');
+	$("#panchayatLevel").append("<option value=''>Select</option>");
+	 $("#zpDiv").hide();
+	 $("#bpDiv").hide();
+	 $("#gpDiv").hide();
+	 dwr.util.removeAllOptions('districtId');
+	 dwr.util.removeAllOptions('blockId');
+	 dwr.util.removeAllOptions('gpId');
+
+	 if(id!=""){
+		 if ($("#fyear").val() != null && $("#fyear").val() > 0) {
+			 	var selectField = document.getElementById("fyear");
+			 	var selectedOption = selectField.options[selectField.selectedIndex];
+			 	fnclyr = selectedOption.innerText;
+			}else{
+				alert("Please select plan year.");
+				document.getElementById("stateCode").value="";
+				return false;
+			}
+		 reportservice.getLocalGovTierSetup(id,fnclyr, { callback:function(list) {   /* lgdBaseService.getLocalGovTierSetup(id, */
+			 if(list.length>0 || list != null) {
+				 	tierSetup = list;
+				 	checkDistrictOrnot = 0;
+					 dwr.util.removeAllOptions('panchayatLevel');
+					 $("#panchayatLevel").append("<option value=''>Select</option>");
+				 	 dwr.util.addOptions('panchayatLevel',list,'localBodyTypeCode','nomenclatureEnglish');
+				 	 $("#levelDiv").show();
+				 }
+			   else{ 
+				   alert('Oooooooops Tier setup not found for selected state .!');
+			   } 
+			}
+		});
+	}
+	
+}
+
+function getlevel1List(typecd){
+	$(".errored").hide();
+	if(typecd!= null){
+		$("#zpDiv").hide();
+		$("#bpDiv").hide();
+		$("#gpDiv").hide();
+		dwr.util.removeAllOptions('districtId');
+		dwr.util.removeAllOptions('blockId');
+		dwr.util.removeAllOptions('gpId');
+		
+		var statevalue = $('#stateCode :selected').val();
+		var fyr = $('#fyear :selected').val();
+		var plnUntTypCd = $("#panchayatLevel").val();
+		
+		if(statevalue == 34 || (statevalue == 17 && typecd != 10)  || (statevalue == 35 && (typecd == 19 || typecd == 11))) {    // In case of  2 Tier but starts with BP (Puducherry and Meghalaya)
+         	id = "blockId";
+         	$("#bpDiv").show();
+         	dwr.util.removeAllOptions('gpId');
+         	$("#gpId").append("<option value=''>Select</option>");
+		 } else if(statevalue == 13 || statevalue == 15) {		// 1 Tier Nagaland and Mizoram
+			 id = "gpId";
+             $("#gpDiv").show();
+		 } else {													// In case of 2 or 3 Tier 
+            id = "districtId";
+         	$("#zpDiv").show();
+         }
+		
+		 if(statevalue == 14 && typecd == 17){
+			 plnUntTypCd = 10; 
+		 }
+		 else if(statevalue == 16 && (typecd == 14 || typecd == 11)){
+			 plnUntTypCd = 13; 
+		 }
+		 else if(statevalue == 18 && typecd == 15){
+			 plnUntTypCd = 18; 
+		 }
+		 else if(statevalue == 18 && typecd == 16){
+			 plnUntTypCd = 10; 
+		 }
+		 else if(statevalue == 17 && typecd == 22){
+			 plnUntTypCd = 23; 
+		 }
+		 else if(statevalue == 35 && typecd == 11){
+			 plnUntTypCd = 19; 
+		 }else {
+				plnUntTypCd = document.getElementById("panchayatLevel").value;
+			}
+		 if(statevalue == 13 || statevalue == 15 || (statevalue == 14 && (typecd == 10 || typecd == 17)) || (statevalue == 16 && (typecd == 13 || typecd == 14 || typecd == 11)) 
+				 || (statevalue == 17 && (typecd == 23 || typecd == 22 || typecd == 10 ))  || (statevalue == 18 && (typecd == 10 || typecd == 18 || typecd == 15 ||typecd == 16)) || 
+				 (statevalue == 35 && (typecd == 19 || typecd == 11)) ){
+			 lgdBaseService.getAllZpList(statevalue, parseInt(fyr), plnUntTypCd, {    //selected type code or modified type code
+				 callback: function (data) {
+			            if (data.length > 0 && data!=null) {
+							dwr.util.removeAllOptions(id);
+			            	$("#" + id).append("<option value=''>Select</option>");
+			                dwr.util.addOptions(id, data, "districtCode", "districtNameEnglish");
+			                
+			            } else {
+			            	bootbox.alert("No Data Found")
+			            }
+			        },
+			        errorHandler: function (message) {
+			            bootbox.alert("Oops: " + message);
+			        },               
+				}); 
+		 }else if(statevalue == 19){
+			 lgdBaseService.getWestBengalZpList(statevalue, parseInt(fyr), {    //typecode=1,20
+				 callback: function (data) {
+			            if (data.length > 0 && data!=null) {
+							dwr.util.removeAllOptions(id);
+			            	$("#" + id).append("<option value=''>Select</option>");
+			                dwr.util.addOptions(id, data, "districtCode", "districtNameEnglish");
+			                
+			            } else {
+			            	bootbox.alert("No Data Found")
+			            }
+			        },
+			        errorHandler: function (message) {
+			            bootbox.alert("Oops: " + message);
+			        },               
+				}); 
+		 }else{
+			 lgdBaseService.getZpList(statevalue, parseInt(fyr), {  //typecode=1
+				 callback: function (data) {
+			            if (data.length > 0 && data!=null) {
+							dwr.util.removeAllOptions(id);
+			            	$("#" + id).append("<option value=''>Select</option>");
+			                dwr.util.addOptions(id, data, "districtCode", "districtNameEnglish");
+			                
+			            } else {
+			            	bootbox.alert("No Data Found")
+			            }
+			        },
+			        errorHandler: function (message) {
+			            bootbox.alert("Oops: " + message);
+			        },               
+				}); 
+		 }
+	}
+}
+
+
+function getlevel2List(zpCd){
+	$(".errored").hide();
+	var plnUntTypCd = $("#panchayatLevel").val();
+	if(plnUntTypCd != 1 && plnUntTypCd != 10 && plnUntTypCd != 9 && plnUntTypCd != 13 && plnUntTypCd != 18 && plnUntTypCd != 20){
+		if(zpCd != null){
+			var statevalue = $('#stateCode :selected').val();
+			var fyr = $('#fyear :selected').text();
+			
+			
+			if( (statevalue == 35 && plnUntTypCd == 11) || (statevalue == 18 && (plnUntTypCd == 15  || plnUntTypCd == 16)) || statevalue == 12 || statevalue == 30 || 
+				 statevalue == 31 || statevalue == 14 || statevalue == 11 || statevalue == 38 || statevalue == 34 || statevalue == 17){
+				 id = "gpId";
+	             $("#gpDiv").show();
+			}
+			else{
+				id = "blockId";
+	         	$("#bpDiv").show();
+	         	dwr.util.removeAllOptions('gpId');
+	         	//$("#gpId").append("<option value=''>Select</option>");
+			}
+			lgdBaseService.findBlockPanchyatList( parseInt(zpCd),fyr,  {   //change to  lgdBaseService.findBlockPanchyatList( parseInt(zpCd),fyr,
+				callback: function (data) {
+		            if (data.length > 0 && data!=null) {
+						dwr.util.removeAllOptions(id);
+		            	$("#" + id).append("<option value=''>Select</option>");
+		                dwr.util.addOptions(id, data, "localBodyCode", "localBodyNameEnglish");
+		            } else {
+		            	bootbox.alert("No Data Found")
+		            }
+		        },
+		        errorHandler: function (message) {
+		            bootbox.alert("Oops: " + message);
+		        },               
+			}); 
+			
+		}
+	}
+}
+
+
+function getlevel3List(bpCd){
+		$(".errored").hide();
+		var statevalue = $('#stateCode :selected').val();
+		var fyr = $('#fyear :selected').text();
+		var plnUntTypCd = $("#panchayatLevel").val();
+		if(bpCd != null){
+			if(plnUntTypCd == 3 || plnUntTypCd == 11 || plnUntTypCd == 15 || plnUntTypCd == 12 || plnUntTypCd == 16 || plnUntTypCd == 17 || plnUntTypCd == 22){
+				id = "gpId";
+				$("#gpDiv").show();
+				dwr.util.removeAllOptions(id);
+				$("#" + id).append("<option value=''>Select</option>");
+        		lgdBaseService.findBlockPanchyatList( parseInt(bpCd),fyr,   {   //change to lgdBaseService.findBlockPanchyatList( parseInt(bpCd),fyr, {
+					callback: function (data) {
+	            		if (data.length > 0 && data!=null) {
+							dwr.util.removeAllOptions(id);
+	            			$("#" + id).append("<option value=''>Select</option>");
+	                		dwr.util.addOptions(id, data, "localBodyCode", "localBodyNameEnglish");
+	            		} else {
+	            			bootbox.alert("No Data Found")
+	            		}
+	        		},
+	        		errorHandler: function (message) {
+	            		bootbox.alert("Oops: " + message);
+	        		},               
+				}); 
+        	}
+		}
+}
+		
+function hideError(){
+	$(".errored").hide();
+}
+
+
+function nullFields(){
+	$(".errored").hide();
+	document.getElementById("stateCode").value="";
+	dwr.util.removeAllOptions('panchayatLevel');
+	$("#panchayatLevel").append("<option value=''>Select</option>");
+	$("#levelDiv").hide();
+	$("#zpDiv").hide();
+	$("#bpDiv").hide();
+	$("#gpDiv").hide();
+	dwr.util.removeAllOptions('districtId');
+	dwr.util.removeAllOptions('blockId');
+	dwr.util.removeAllOptions('gpId');
+}
+
+function onCancel(){	
+	window.location.href="planningDashBoard.do";
+}
+
+function onClear(){	
+	window.location.href="activityDtlsAnalysis.do";
+}
+
+function onBack(){	
+
+	window.location.href="activityDtlsAnalysis.do";
+}
+//table.rows().nodes().page.len(-1).draw();
+/* function exportFile(id) {
+	
+	$("#" + id).excelexportjs({
+		containerid : id,
+		datatype : 'table',
+		worksheetName : "List of Activities",
+	});	
+} */
+
+
+function exportFile(tableID){
+    var downloadLink;
+    var dataType = 'application/vnd.ms-excel';
+    var tableSelect = document.getElementById(tableID);	    	
+    var table=$("#dataList").DataTable();	
+    var totalRows=table.data().rows().count();	
+    table.rows().nodes().page.len(-1).draw();	
+   	var rowCount = $('#dataList tr').length;			
+   	var totalRows = parseInt(rowCount-1);			    			    
+    var tableHTML = tableSelect.outerHTML;//.replace(/ /g, '%20');
+    var filename = "Comprehensive Activity Details Report";
+    filename = filename?filename+'.xls':'excel_data.xls';
+    downloadLink = document.createElement("a");		    
+    document.body.appendChild(downloadLink);		    
+    if(navigator.msSaveOrOpenBlob){
+        var blob = new Blob(['\ufeff', tableHTML], {
+            type: dataType
+        });
+        navigator.msSaveOrOpenBlob( blob, filename);
+    }else{
+    	var blob = new Blob([formatAsExcel(tableHTML)], { type: 'application/vnd.ms-excel' });
+        //downloadLink.href = 'data:' + dataType + ', ' + tableHTML;
+        downloadLink.href = window.URL.createObjectURL(blob);
+        downloadLink.download = filename;
+        downloadLink.click();
+    }
+} 
+
+    function formatAsExcel(tableHTML) {
+        return '<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">'
+            + '<head>'
+            + '<style>'
+            + '@page { size: A4; mso-page-orientation: landscape; margin: 1cm; mso-header-margin: .5in; mso-footer-margin: .5in; }'
+            + 'table, th, td { border: .6px solid black; border-collapse: collapse; width: 50%; table-layout: fixed; font-family: Times New Roman; }'
+            + 'th, td { word-wrap: break-word; max-width: 100px; }'
+            + '</style>'
+            + '<!--[if gte mso 9]>'
+            + '<xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet>'
+            + '<x:Name>Sheet 1</x:Name>'
+            + '<x:WorksheetOptions><x:Panes></x:Panes></x:WorksheetOptions>'
+            + '</x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml>'
+            + '<![endif]--></head><body>' + tableHTML + '</body></html>';
+    	
+    } 
+
+function getVoucherDetails(activityCd,stateCd,localBodyCode,lbTyp,fnclYr){
+	var html = '';
+	$("#voucherData").empty();
+	 reportservice.getVoucherDetails(activityCd,stateCd,localBodyCode,lbTyp,fnclYr, { callback:function(data) {  
+		 if(data.length>0 || data != null) {
+			 try {
+				 for (var i=0; i < data.length; i++){
+						html +='<tr>';
+						
+					    html += '<td>'+ data[i].schemeName + '</td>';
+					    html += '<td>'+ data[i].schemeComponentName + '</td>';
+					    
+					    //html += '<td><a href="https://egramswaraj.gov.in/getPaymentVoucherDetail.do?finYear=' + data[i].finyear + '&PRIEntity_code=' + data[i].local_body_code + '&stateCode=' + data[i].stateCode + '&voucherID=' + data[i].v_id + '" target="_blank">' + data[i].voucherno + '</a></td>';
+					    html += '<td>' +
+						    '<a href="https://egramswaraj.gov.in/getPaymentVoucherDetail.do?' +
+						      'finYear=' + data[i].finyear +
+						      '&PRIEntity_code=' + data[i].local_body_code +
+						      '&stateCode=' + stateCd +
+						      '&voucherID=' + data[i].v_id +
+						    '" target="_blank">' + data[i].voucherno + '</a>' +
+					  	'</td>';
+					    
+					    html += '<td>'+ data[i].expenditureamount + '</td>';
+					    html += '<td>'+ data[i].vouchertype + '</td>';
+					    html += '<td>'+ data[i].localbody_name + '</td>';
+					    
+					    if(data[i].pfms_payment_status=='C'){
+					    	html += '<td>Credited </td>';
+					    }else if(data[i].pfms_payment_status=='R'){
+					    	html += '<td>Rejected </td>';
+					    }else if(data[i].pfms_payment_status=='I'){
+					    	html += '<td>Initiated </td>';
+					    }else if(data[i].pfms_payment_status=='A'){
+					    	html += '<td>Approved </td>';
+					    }
+					   
+					    html += "</tr>";
+					}
+					$('#voucherData').append(html);
+					
+					 $('#voucherDtls').modal({	
+							backdrop: 'static'
+						});
+			} catch (e) {
+				bootbox.alert(e.message);
+			}
+		} else{ 
+		   //alert('No Details Available.');
+		   html +='<tr><td class="text-center" colspan="7">No Data Found</td></tr>'; 
+			$('#voucherData').append(html);
+			
+			 $('#voucherDtls').modal({	
+					backdrop: 'static'
+				});
+	   	} 
+	}
+	});
+}
+
+function physicalProgressSectionData(activityCd,wrkTyp){
+	var html = '';
+	$("#physicalProgressData").empty();
+	 reportservice.getPhysicalProgressActivityWiseDetails(parseInt(activityCd),wrkTyp, { callback:function(data) {   
+		 if(data != null) {
+			 	try {
+		 				if (wrkTyp == "101" || wrkTyp == "105" || wrkTyp == "106") {
+		 					for (let j = 0; j < data.length; j++) {
+		 					const n = data[j];
+		 					html += '<tr>';
+		 				    html += '<td class="link text-left" onclick="showAssetDetailsPopup(' + n.physclPrgrssAstCd + ')">' + n.astName + '</td>';
+		 				    html += '<td class="text-left">' + n.villageName + ' (' + n.villageCode + ')</td>';
+		 				    let stageLabel = '';
+		 				    if (n.stageId === 221) {
+		 				        stageLabel = 'Onset of work';
+		 				    } else if (n.stageId === 222) {
+		 				        stageLabel = 'During implementation of work';
+		 				    } else if (n.stageId === 223) {
+		 				        stageLabel = 'Completion of work';
+		 				    }
+		 				    html += '<td class="text-left">' + stageLabel + '</td>';
+		 				    html += '<td class="text-left">' + (n.astCmpltnDate || '') + '</td>';
+
+		 				  /*   let geo = 'No';
+		 				    if (n.astStgUploadPhysicalProgress && n.astStgUploadPhysicalProgress.length > 0) {
+		 				        for (let j = 0; j < n.astStgUploadPhysicalProgress.length; j++) {
+		 				            if (n.astStgUploadPhysicalProgress[j].stage === n.stageId) {
+		 				                geo = 'Yes';
+		 				                break;
+		 				            }
+		 				        }
+		 				    } */
+		 				    html += '<td>' + n.geo + '</td>';
+
+		 				    /* let moderate = 'No';
+		 				    if (n.astStgUploadPhysicalProgress && n.astStgUploadPhysicalProgress.length > 0) {
+		 				        for (let j = 0; j < n.astStgUploadPhysicalProgress.length; j++) {
+		 				            if (n.astStgUploadPhysicalProgress[j].stage === n.stageId &&
+		 				                n.astStgUploadPhysicalProgress[j].moderate === 282) {
+		 				                moderate = 'Yes';
+		 				                break;
+		 				            }
+		 				        }
+		 				    } */
+		 				    html += '<td class="text-left">' + n.moderate + '</td>';
+		 				    html += '</tr>';
+		 					}
+		 				} else if(wrkTyp == "104"){
+		 					if (data.length > 0) {
+		 					    for (let j = 0; j < data.length; j++) {
+		 					        const n = data[j];
+		 					        html += '<tr>';
+		 					        html += '<td class="text-left">' + (n.operRemark || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.srvPhyPrgrssDte || '') + '</td>';
+		 					        html += '</tr>';
+		 					    }
+		 					}
+		 				}else if(wrkTyp == "103"){
+		 					
+		 					if (data.length > 0) {
+		 					    for (let j = 0; j < data.length; j++) {
+		 					        const n = data[j];
+		 					        html += '<tr>';
+		 					        html += '<td class="text-left">' + (n.numPersonBenefited || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.srvPhyPrgrssDte || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.duration || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benMaleGen || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benFemaleGen || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benMaleSc || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benfemaleSc || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benMaleSt || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.benfemaleSt || '') + '</td>';
+		 					        html += '</tr>';
+		 					    }
+		 					}
+		 				}else if(wrkTyp == "102"){
+		 					if ( data.length > 0) {
+		 					    for (let j = 0; j < data.length; j++) {
+		 					        const n = data[j];
+		 					        html += '<tr>';
+		 					        html += '<td class="text-left">' + (n.numPersonBenefited || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.srvPhyPrgrssDte || '') + '</td>';
+		 					        html += '<td class="text-left">' + (n.duration || '') + '</td>';
+		 					        html += '</tr>';
+		 					    }
+		 					}
+			 		
+						}
+			 		$('#physicalProgressData').append(html);
+					
+					 $('#physicalProgressView').modal({	
+							backdrop: 'static'
+						});
+					 if (wrkTyp == "101" || wrkTyp == "105" || wrkTyp == "106") {
+						    $('#asset_mainten_upgrad').show();
+						    $('#operation').hide();
+						    $('#community_serv').hide();
+						    $('#traning').hide();
+
+						} else if (wrkTyp == "104") {
+						    $('#asset_mainten_upgrad').hide();
+						    $('#community_serv').hide();
+						    $('#traning').hide();
+						    $('#operation').show();
+
+						} else if (wrkTyp == "103") {
+						    $('#asset_mainten_upgrad').hide();
+						    $('#operation').hide();
+						    $('#traning').hide();
+						    $('#community_serv').show();
+
+						} else if (wrkTyp == "102") {
+						    $('#asset_mainten_upgrad').hide();
+						    $('#operation').hide();
+						    $('#community_serv').hide();
+						    $('#traning').show();
+						}
+			 	}catch (e) {
+					bootbox.alert(e.message);
+				}
+			 }
+		   else{ 
+			   html +='<tr><td class="text-center" colspan="7">No Data Found</td></tr>'; 
+				$('#physicalProgressData').append(html);
+				
+				 $('#physicalProgressView').modal({	
+						backdrop: 'static'
+					});
+				 if (wrkTyp == "101" || wrkTyp == "105" || wrkTyp == "106") {
+					    $('#asset_mainten_upgrad').show();
+					    $('#operation').hide();
+					    $('#community_serv').hide();
+					    $('#traning').hide();
+
+					} else if (wrkTyp == "104") {
+					    $('#asset_mainten_upgrad').hide();
+					    $('#community_serv').hide();
+					    $('#traning').hide();
+					    $('#operation').show();
+
+					} else if (wrkTyp == "103") {
+					    $('#asset_mainten_upgrad').hide();
+					    $('#operation').hide();
+					    $('#traning').hide();
+					    $('#community_serv').show();
+
+					} else if (wrkTyp == "102") {
+					    $('#asset_mainten_upgrad').hide();
+					    $('#operation').hide();
+					    $('#community_serv').hide();
+					    $('#traning').show();
+					}
+		   } 
+		}
+	});
+}
+
+function showAssetDetailsPopup(astCd){
+	//$('#astCd').val(astCd);
+	var html = '';
+	$("#assetData").empty();
+	reportservice.getGeoTagAssetDetail(astCd,{
+		callback: function(data){
+			if(data!=null && data!=''){
+				try{
+					for (var i=0; i < data.length; i++){
+						if(data[i].moderate!=281){
+						
+							html +='<tr>'; 
+						    html += '<td>'+ data[i].astNm + '</td>';
+						    if(data[i].stage==221){
+						    	html += '<td>Onset of work </td>';
+						    }else  if(data[i].stage==222){
+						    	html += '<td>During implementation of work </td>';
+						    } else if(data[i].stage==223){
+						    	html += '<td>Completion of work</td>';
+						    }
+						    
+						    /* if(data[i].moderate==281){
+						    	html += '<td>No</td><td><img class="enlarge" src="resources/images/noImageFound.png" id="" width="90px" height="50px"  /></td>';  
+						    }else */ 
+						    if(data[i].moderate==282){
+						    	html += '<td>Yes</td><td><img class="enlarge" src=getMactionPhotoReport.do?imgId='+ data[i].fileLocation + ' id="" width="90px" height="50px" /></td>'; //onclick="openPhotodiv(\''+data[i].fileLocation+'\')"
+						    }else if(data[i].moderate==283){
+						    	html += 'Photo Rejected'; //'<td>Rejected</td><td><img class="enlarge" src="resources/images/noImageFound.png" id="" width="90px" height="50px"  /></td>';  
+						    }
+						   
+						    html += "</tr>";
+						}
+					}
+					$('#assetData').append(html);
+				}catch(e){
+					bootbox.alert(e.message);
+				}
+			}else{
+				html +='<tr><td class="text-center" colspan="4">No Data Found</td></tr>'; 
+				$('#assetData').append(html);
+			}
+		}
+	});
+	$('#showAssetDetailsPopup').modal({	
+		backdrop: 'static'
+	});
+}
+
+function openPhotodiv(fileLocation){
+	var html = '';
+	$("#photoDivId").empty();
+	
+	$("#photoDivId").append('<img class="enlarge" src="getMactionPhoto.do?imgId=' + fileLocation + '"  />');
+	
+	$('#photoPopup').modal({	
+		backdrop: 'static'
+	});
+	
+}
+
+</script>
+</html>
+	
+
+
+
+
+
+<!-- Bootstrap -->
+
+
+
+
+
+   	<!-- <div class="container-fluid text-center">
+		<ul class="list-inline footer-link w-100">
+			<li><a href="#" role="link" style="border-left:none;">Sitemap</a></li>
+			<li><a href="#" role="link">Feedback</a></li>
+			<li><a href="#" role="link">Privacy Policy</a></li>
+			<li><a href="#" role="link">Terms &amp; Conditions</a></li>
+			<li><a href="#" role="link">Copyright</a></li>
+			<li><a href="#" role="link">Contact Us</a></li>
+	    </ul>
+	<hr>
+	</div> -->
+    
+    
+    <!-- BOTTOM BLUE BAR -->
+		<div class="sub-footer__bottom">
+		    <p class="sub-footer__text">
+		      Contents on this website are owned, updated and managed by the Panchayats
+		      and State Panchayati Raj Department as a part of e-Panchayat MMP of
+		      <strong>Ministry of Panchayati Raj (MoPR)</strong>. Site is technically
+		      designed, hosted and maintained by
+		      <strong>National Informatics Centre (NIC)</strong>.
+		    </p>
+		
+		    <div class="sub-footer__links">
+		    	<div class="footer-tnc">
+		    	 <div>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="One" onClick="allPolicies(this.id)">Privacy Policy</a>
+				      <a href="#" data-toggle="modal" data-target="#quickModal" id="Two" onClick="allPolicies(this.id)">Terms & Conditions</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Three" onClick="allPolicies(this.id)">Cookie Policy</a>
+				      <a  href="#" data-toggle="modal" data-target="#quickModal" id="Four" onClick="allPolicies(this.id)">Contact</a>
+				     </div>
+				    <div class="sub-footer__right">
+				      <img src="resources/home/images/new/NIC_logo_new.svg" alt="NIC" />
+				    </div>
+		    	</div>
+		    </div>
+		  </div>
+    
+
+<div class="modal fade" id="quickModal" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row footer-row-padding footer-modal">
+                    <div class="col-12">
+                        <div class="accordion" id="accordionExample">
+                            <div class="card">
+                                <div class="card-header p-0" id="headingOne">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseOne"><i class="fa fa-plus float-right"></i>
+                                        Terms & Conditions</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">Contents on this website are owned, updated and managed by the Panchayats and State Panchayati Raj Department as a part of e-Panchayat MMP of Ministry of Panchayati Raj (MoPR),. 
+                                    	Site is technically designed, hosted and maintained by National Informatics Centre (NIC)</p>
+                                        <p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingTwo">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseTwo"><i class="fa fa-plus float-right"></i>
+                                        Privacy Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">The Government will have complete discretion to share the details of your use of the Web Site and/ or data entered by you with regulators or with any other third party, or in order to resolve disputes or complaints which relate to the Web Site.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingThree">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseThree"><i class="fa fa-plus float-right"></i>
+                                        Web Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                    	<p class="text-jutify">The following terms and conditions will apply if you wish to use the Internet for availing a service. Please go through the conditions carefully and if you accept them, you may register yourself and transact on the site. On using this site for service delivery, you are deemed to have agreed to the terms and conditions set forth below. If You do not agree with all these terms and conditions, you must not transact on this Website.</p>
+                                        <p class="text-jutify">If a user violates the terms and conditions Government (service owner) reserves the right to deactivate all such user registration and cancel any or all services requested without any notice. Garbage / Junk values in profile may lead to Deactivation.</p>
+                                        <p class="text-jutify">Operationalization of this agreement is subject to existing laws and legal processes of the respective Government, and nothing contained in this agreement is in derogation of Government's right to comply with law enforcement requests or requirements relating to your use of this Web Site or information provided to or gathered by this site with respect to such use. You agree that Government may provide details of your use of the Web Site to regulators or police or to any other third party, or in order to resolve disputes or complaints which relate to the Web Site, at Government’s complete discretion.</p>
+                                        <p class="text-jutify">This agreement is made between: respective service owner department of the respective government who has configured the serviceGovernment ('Us') and The User ('You'), the individual, whose details  are set out in the Portal User Creation page.</p>
+                                        <p class="text-jutify"><strong>Payment Option</strong></p>
+                                        <p class="text-jutify">The list of payment options available are internet banking /debit card payment / credit card payment from banks that are listed when selecting each of the above options. Apart from the fee chargeable to Government against each service, bank / payment gateway transaction charges will be applicable extra. In case of a failed transaction the user shall have no right to claim the amount. The loss on this account shall not be borne either by Government or by the Banks /Payment Gateways.</p>
+                                        <p class="text-jutify"><strong>User Creation</strong></p>
+                                        <p class="text-jutify">You are responsible for maintaining the confidentiality of the password and account, and are fully responsible for all activities that occur under your password or account.</p>
+                                        <p class="text-jutify"><strong>Complaints Procedure</strong></p>
+                                        <p class="text-jutify">You can reach us on the contact details given in the 'Contacts' option given in the login page.</p>
+                                        <p class="text-jutify"><strong>General Obligations</strong></p>
+                                        <p class="text-jutify">You shall access web site only for lawful purposes and you shall be responsible for complying with all applicable laws, statutes and regulations in connection with the use of Government web site. This Website is for your personal or commercial use by approved kiosks. You shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information, or services obtained from this Website. You shall not create a hypertext link to the Website or "frame" the Website, except with the express advance written permission of the Government.</p>
+                                        <p class="text-jutify"><strong>Information Provided</strong></p>
+                                        <p class="text-jutify">The information you provide in the Registration page must be complete and accurate. Government 00. reserves the right at all times to disclose any information as deems necessary to satisfy any applicable law, regulation, legal process.</p>
+                                        <p class="text-jutify"><strong>Termination</strong></p>
+                                        <p class="text-jutify">We may at any time at our sole discretion and without giving any reason or any prior notice terminate or temporarily suspend your access to all or any part of the web site.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSeven">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSeven"><i class="fa fa-plus float-right"></i>
+                                        Copyright Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Material featured on this website may be reproduced free of charge after taking proper permission by sending a mail to us. However, the material has to be reproduced accurately and not to be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party. Authorisation to reproduce such material must be obtained from the departments/copyright holders concerned.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingSix">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseSix"><i class="fa fa-plus float-right"></i>
+                                        Hyperlinking Policy</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify"><strong>Links to external websites/portals</strong></p>
+                                        <p class="text-jutify">At many places in this website, you shall find links to other websites/portals. These links have been placed for your convenience. This website is not responsible for the contents and reliability of the linked websites and does not necessarily endorse the views expressed in them. Mere presence of the link or its listing on this website should not be assumed as endorsement of any kind. We cannot guarantee that these links will work all the time and we have no control over the availability of linked pages.</p>
+                                        <p class="text-jutify"><strong>Links to this Website by other websites/portals</strong></p>
+                                        <p class="text-jutify">We do not object to linking directly to the information that is hosted on this site but it is necessary that prior permission is taken before hyperlinks are directed from any website to this site. Permission for the same, stating the nature of the content on the pages from where the link has to be given and the exact language of the hyperlink should be obtained by sending a request to 'egramswaraj[at]gov[dot]in'. Also, it is not permitted that our pages be loaded into frames on the requested site. Our Department's pages must load into a newly opened browser window of the user.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFour">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFour"><i class="fa fa-plus float-right"></i>
+                                        Contact Us</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">Email at <i class="fa fa-envelope"></i> 
+                                        <em>egramswaraj[at]gov[dot]in</em></p>
+                                        <p class="text-jutify">
+                                            Ministry of Panchayati Raj<br />
+                                            Government of India<br />
+                                            Eleventh Floor, J.P. Building,<br />
+                                            Kasturba Gandhi Marg, Connaught Place,<br />
+                                            New Delhi-110001
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header p-0" id="headingFive">
+                                    <h2 class="mb-0">
+                                        <button type="button" class="btn btn-link collapsed w-100 text-left" data-toggle="collapse" 
+                                        data-target="#collapseFive"><i class="fa fa-plus float-right"></i>
+                                        Web Information Manager</button>
+                                    </h2>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p class="text-jutify">
+                                            Ms. Mukta Shekhar<br />
+                                            Joint Secretary<br />
+                                            <i class="fa fa-envelope"></i> <em>js2[-]mopr[at]gov[dot]in</em>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+    #quickModal .accordion .card-header .btn-link:not(.collapsed) {
+        background-color: #f9e3a1;
+    }
+    #quickModal .card-body {
+        min-height: 150px;
+        overflow-y: scroll;
+        height: 175px;
+    }
+    #myModal-popup .modal-content {
+        /*margin: auto;*/
+        display: block;
+        width: 1200px;
+        /*width: 100%;*/
+        /*max-width: 2000px;*/
+    }
+    #myModal-popup .modal-header {
+        border-bottom: 1px solid transparent;
+    }
+
+    @media screen and (max-width: 1190px) {
+        #myModal-popup .modal-content {
+            margin: auto;
+            display: block;
+            /*width: 1200px;*/
+            width: 100%;
+            max-width: 800px;
+        }
+    }
+    
+    
+
+
+
+
+
+
+
+/* footer */
+
+.sub-footer {
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* LOGO SECTION */
+.sub-footer__logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 20px;
+    background: lightblue;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.sub-footer__logos img {
+  height: 50px;
+  object-fit: contain;
+}
+
+/* BLUE SECTION */
+.sub-footer__bottom {
+    background: rgb(12, 59, 110);
+    color: #fff;
+    padding: 12px;
+    font-size: 15px;
+    height: auto;              /* fixed height à¤¹à¤à¤¾à¤à¤ */
+    display: flex;
+    flex-direction: column;    /* mobile default column */
+    align-items: center;
+    text-align: center;
+}
+
+.sub-footer__text {
+  margin-bottom: 0px;
+  line-height: 1.6;
+   max-width: 1040px;
+}
+
+.footer-tnc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+.footer-tnc a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.footer-tnc a:hover {
+  color: #007bff;
+}
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+.footer-tnc > div:first-child {
+    flex: 1;
+    display: flex;
+    justify-content: center;   /* links center me */
+    align-items: center;
+    gap: 20px;                 /* links ke beech spacing */
+}
+
+
+
+
+/* LINKS */
+.sub-footer__links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.sub-footer__links a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.sub-footer__links a:hover {
+  text-decoration: underline;
+}
+
+/* RIGHT SECTION */
+.sub-footer__right {
+  display: flex;
+  justify-content: space-between;
+   justify-content: flex-end;   
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.sub-footer__right img {
+  height: 55px;
+}
+
+.sub-footer__right span {
+  font-size: 14px;
+}
+
+
+/* Logo section */
+.sub-footer__right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.sub-footer__right img {
+    max-height: 50px;
+    height: auto;
+}
+
+
+    
+</style>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("td").attr("tabindex","0");
+		$("th").attr("tabindex","0");
+		$(".btn").attr("tabindex","0");
+		$("a .btn").attr("tabindex","0");
+	});
+	function allPolicies(id) {
+		
+		var a = "heading";
+		var newid = a + id; 
+		$(".card-header .btn").addClass("collapsed");
+		$(".card-header .btn .fa").addClass("fa-plus").removeClass("fa-minus");
+		$(".collapse").removeClass("show");
+		$("#" + newid +"  .btn").removeClass("collapsed");
+		$("#" + newid +"  .btn .fa").removeClass("fa-plus").addClass("fa-minus");
+		$("#collapse"+id).addClass("show");
+	}
+	function changeTextSize(size) {
+      	if (size=='xx-large'){
+      		document.getElementById("maintext").style.fontSize = "xx-large";
+      	}
+      	if (size=='small'){
+      		document.getElementById("maintext").style.fontSize = "small";
+      	}
+      	if (size=='medium'){
+      		document.getElementById("maintext").style.fontSize = "medium";
+      	}
+    	
+    }
+</script>
+
+	</div>
+	</div>
+	
+	
+ <!-- #####################################Alert ############################### -->
+
+ <!-- added by shiv  -->
+ 
+ 
+ <!-- end here -->
+
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#formErrorDiv").append("<div class='alert alert-primary'><i class='fa fa-exclamation-circle' aria-hidden='true'></i> KPI statistics are updated through a scheduler that runs on hourly basis hence there might be a difference in the counts of both reports at a point of time.</div>");
+	$("#formErrorDiv").fadeTo(6000, 500).slideUp(500, function(){
+	    $("#formErrorDiv").slideUp(500);
+	});
+});
+</script>
+
+</body>
+</html>

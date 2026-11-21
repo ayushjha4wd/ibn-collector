@@ -1,0 +1,1763 @@
+<!-- this layout use for dashboard not in report section -->
+
+
+
+
+
+<!DOCTYPE html >
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="https://translation-plugin.bhashini.co.in/v2/website_translation_utility.js" data-pos-x="5" data-pos-y="10" referer="www.egramswaraj.gov.in/pesaDashboardView.do"   referrerpolicy="strict-origin-when-cross-origin"></script>
+ 
+  
+  <link href="/resources/js/pesa/Bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/resources/js/pesa/css/pesa_portal.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"> 
+  <script type="text/javascript" src="/resources/js/pesa/homePage/header.js"></script>
+
+
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PESA Gram Sabha</title>
+
+
+<style>
+	.modal-background{
+	background: linear-gradient(270deg, #A7C957 -0.78%, #6A994E 21.99%, #386641 100%);
+    background-image: linear-gradient(270deg, rgb(167, 201, 87) -0.78%, rgb(106, 153, 78) 21.99%, rgb(56, 102, 65) 100%);
+    color:white;
+	}
+</style>
+
+</head>
+<body>
+
+	<header class="bg-dark py-2">
+		<div class="container-fluid">
+			<div class="row align-items-center justify-content-between">
+				<div
+					class="col-12 col-md-6 d-flex justify-content-center justify-content-md-start">
+					<h1 class="header-text">GOVERNMENT OF INDIA | MINISTRY OF
+						PANCHAYATI RAJ</h1>
+				</div>
+				<div
+					class="col-12 col-md-6 d-flex justify-content-center justify-content-md-end">
+					<div class="icon-section">
+
+						<a href="#" onclick="pesaLogin()" class="login-btn"> <img
+							src="/resources/pesa_Images/Frame.svg"
+							class="header-icon" style="margin-right: 5px;">
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<!-- Logo Section -->
+	<div
+		class="container-fluid d-flex flex-wrap justify-content-between align-items-center py-3">
+		<div class="d-flex align-items-center gap-3">
+			<a href="/pesaDashboardView.do">
+				<img
+				src="/resources/pesa_Images/PESALOGO.svg"
+				alt="PESA Logo" class="logo-img" height="100px" width="100px" />
+			</a> 
+			<div class="logo-text">
+				<p class="line1">पेसा पोर्टल</p>
+				<p class="line2">PESA Portal</p>
+				<p class="line3"><strong>The Provisions of the Panchayats (Extension to
+					the Scheduled Areas) Act, 1996.</strong></p>
+			</div>
+		</div>
+		<div class="right">
+			<img
+				src="/resources/pesa_Images/Group.svg"
+				class="swachh-icon" alt="Swachh Bharat" /> <img
+				src="/resources/pesa_Images/g8.svg"
+				class="india-emblem" alt="India Emblem" />
+		</div>
+	</div>
+
+	<!-- Navigation -->
+	<nav class="text-center py-2"
+		style="background: linear-gradient(270deg, #A7C957 -0.78%, #6A994E 21.99%, #386641 100%); border-top: 0.5px solid #ECECEC;">
+		<div class="container-fluid d-flex justify-content-center gap-3">
+			<a href="pesaDashboardView.do" class="text-white text-decoration-none"> <img
+				src="/resources/pesa_Images/house.svg"
+				class=" text-decoration-none fw-medium" /> Home</a> 
+					<a href="#" class="text-white text-decoration-none fw-medium" onclick="showHeaderSection('about-us')">About PESA</a> 
+			<a href="#" class="text-white text-decoration-none fw-medium" onclick="showHeaderSection('pesa-cell')">PESA Cell</a>
+			<a  onclick="showHeaderSection('gallery')" href="#" class="text-white text-decoration-none fw-medium" ><i class="fa-solid fa-camera-retro"></i> Gallery</a>
+			<a  onclick="showHeaderSection('compendium')" href="#" class="text-white text-decoration-none fw-medium" ><i class="fa fa-book-open"></i> Compendium</a>
+		</div>
+	</nav>
+
+	<!-- Main Content -->
+	<div class="container-fluid p-0" id="maincontainer">
+		<div class="row">
+			<div class="col-12" id="content">
+				<div class="row">
+					<div class="col-12" id="rightpnl">
+						
+
+
+
+
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<!-- <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+<title>PESA Gram Sabha</title>
+<link rel="stylesheet"
+	href="/resources/js/pesa/css/keyLink.css">
+	
+<link rel="stylesheet" href="/resources/js/pesa/css/pesaIndicator.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+
+<link rel="stylesheet"
+	href="/resources/js/pesa/pesa_DataTable/dataTable/jquery.dataTables.min.css">
+<script
+	src="/resources/js/pesa/pesa_DataTable/all.min.js"></script>
+<script
+	src="/resources/js/pesa/pesa_DataTable/dataTable/jquery-3.6.4.min.js"></script>
+<script type="text/javascript"
+	src="/resources/js/pesa/pesa_DataTable/dataTable/jquery.dataTables.min.js"></script>
+<script
+	src="/resources/js/pesa/pesa_DataTable/bootstrap.bundle.min.js"></script>
+
+<script type="text/javascript"
+	src="/resources/js/pesa/homePage/pesaHome.js"></script>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            oTable = $('#result').dataTable({
+                responsive: true,
+                language: {
+                    emptyTable: "No records found"
+                }
+            });
+        });
+        
+
+
+      
+    </script>
+
+<script>
+        document.addEventListener("DOMContentLoaded", function() {
+            function setupToggle(btnId, contentId) {
+                const btn = document.getElementById(btnId);
+                const content = document.getElementById(contentId);
+
+                if (btn && content) {
+                    btn.addEventListener("click", () => {
+                        content.classList.toggle("expanded");
+                        btn.textContent = content.classList.contains("expanded")
+                            ? "Read Less"
+                            : "Read More";
+                    });
+                }
+            }
+
+            setupToggle("toggleBtn1", "aboutContent");   // first block
+            setupToggle("toggleBtn2", "pesaActContent"); // second block
+        });
+        
+       
+    </script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+</head>
+
+<body>
+
+	<div class="col-lg-12 tab-content">
+		
+			<div class="header-photo">
+				<div class="slides placeholder-glow" id="slides">
+					<img
+						data-src="/resources/pesa_banner/andhraPradesh.png"
+						alt="Andhra Pradesh" onclick="redirectToState('28')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/chhattisgarh.png"
+						alt="Chhattisgarh" onclick="redirectToState('22')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/gujarat.png"
+						alt="Gujarat" onclick="redirectToState('24')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/himanchal.png"
+						alt="Himachal Pradesh" onclick="redirectToState('02')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/jharkhand.png"
+						alt="Jharkhand" onclick="redirectToState('20')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/madhyaPradesh.png"
+						alt="Madhya Pradesh" onclick="redirectToState('23')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/odisha.png"
+						alt="Odisha" onclick="redirectToState('21')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/rajasthan.png"
+						alt="Rajasthan" onclick="redirectToState('08')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/telangana.png"
+						alt="Telangana" onclick="redirectToState('36')"
+						style="cursor: pointer;" loading="lazy" /> <img
+						data-src="/resources/pesa_banner/maharashtra.png"
+						alt="Maharashtra" onclick="redirectToState('27')"
+						style="cursor: pointer;" loading="lazy" />
+				</div>
+
+				<button class="preview" onclick="moveSlide(-1)">&#10094;</button>
+				<button class="next_" onclick="moveSlide(1)">&#10095;</button>
+			</div>
+		<form method="GET" id="pesaDashboard" name="pesaDashboard">
+			<div class="content-wrapper">
+				<div id="about-us" class="section">
+					<div class="border-image">
+						<img
+							src="/resources/pesa_Images/g9.svg"
+							alt=" border Image" />
+					</div>
+
+					<nav aria-label="breadcrumb"
+						style="margin-left: 120px; margin-top: 20px;">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+								style="text-decoration: none; font-weight: bold; color: #333;"
+								id="home-link">Home</a></li>
+							<li class="breadcrumb-item active" aria-current="page"
+								style="text-decoration: none; font-weight: bold; color: #333;">
+								About PESA</li>
+						</ol>
+					</nav>
+
+					<div class="mt-3 mb-5">
+						<div class="p-4 rounded shadow-sm bg-white content-box">
+							<h5
+								class="text-center fw-bold mb-3 position-relative about-title">About
+								PESA</h5>
+							  <!-- Content wrapper -->
+						    <div id="aboutContent" class="collapsed-content styled-paragraphs">
+						      <p> The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) 
+							is a landmark law that extends the framework of Part IX of the Constitution (73rd 
+							Amendment Act, 1992) to the Fifth Schedule Areas, predominantly inhabited by tribal 
+							communities. 
+							The PESA Act is based on the recommendations of the Bhuria Committee (1995), 
+							constituted under the chairmanship of Shri Dileep Singh Bhuria by the Government of 
+							India in 1994. The Committee emphasized that tribal self-governance must be rooted in 
+							traditional institutions and not be restricted to the uniform structures of Panchayati Raj. 
+							Recognizing the unique socio-cultural practices, customs, and governance traditions of 
+							tribal societies, the PESA Act, 1996 was enacted to provide self-rule to Gram Sabhas in 
+							Scheduled Areas. It empowers them to safeguard traditions, manage natural resources, 
+							and take decisions affecting their community. </p>
+							<p>PESA applies to Fifth Schedule Areas across 10 States:<i> Andhra Pradesh, Chhattisgarh, 
+							Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha, 
+							Rajasthan, and Telangana.</i> </p>
+							<p>PESA is thus envisioned as a bridge between the constitutional framework of Panchayati 
+							Raj and the tribal traditions of self-rule, with the Gram Sabha at the core of participatory 
+							democracy in Scheduled Areas.</p>
+						    </div>
+						    <!-- Read More button -->
+						   
+
+
+
+							<div class="d-flex justify-content-end mt-2">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="pesa-cell" class="section">
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb"
+					style="margin-left: 120px; margin-top: 20px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							style="text-decoration: none; font-weight: bold; color: #333;"
+							id="home-link">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333;">
+							<h>PESA Cell</h>
+						</li>
+					</ol>
+				</nav>
+
+				<div class="containerNav">
+					<div class="content-box">
+						<h2 class="title">PESA Cell</h2>
+
+						<table id="result"
+							class="table table-bordered table-striped pt-2">
+							<thead>
+								<tr>
+									<th style="background-color: #2d6536; color: white;">S.No.</th>
+									<th style="background-color: #2d6536; color: white;">Name</th>
+									<th style="background-color: #2d6536; color: white;">Designation</th>
+									<th style="background-color: #2d6536; color: white;">Mobile
+										No</th>
+									<th style="background-color: #2d6536; color: white;">Email
+										Id</th>
+								</tr>
+							</thead>
+
+							<tbody>
+								
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+				<div class="border-bottom"></div>
+			</div>
+
+			<div id="pesa-reports" class="section" style="margin: 20px;">
+				<div class="border-image" style="margin-top: -20px;">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb" style="margin-left: 120px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							id="home-link"
+							style="text-decoration: none; font-weight: bold; color: #333;">Home</a>
+						</li>
+						<!-- <li class="breadcrumb-item active" aria-current="page" style="font-weight: bold; color: #333;">Reports</li> -->
+					</ol>
+				</nav>
+
+				<!-- Main Content -->
+				<div class="mt-3 mb-5"
+					style="margin-left: 120px; margin-right: 120px;">
+					<div class="content-box">
+						<h5 class="text-center fw-bold mb-4 text-decoration-underline">Reports</h5>
+						<div class="table-responsive">
+							<table class="custom-table">
+								<thead>
+									<tr>
+										<th>S.No.</th>
+										<th>Title</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>1.</td>
+										<td><a href="pesaStatusReport.do" target="_blank"
+											style="text-decoration: underline; color: black;"> PESA
+												Profiler - Forms Entry Status </a></td>
+									</tr>
+									<tr>
+										<td>2.</td>
+										<td><a href="pesaApproveStatusReport.do" target="_blank"
+											style="text-decoration: underline; color: black;"> PESA
+												Profiler - Forms Approval Status </a></td>
+									</tr>
+									<tr>
+										<td>3.</td>
+										<td><a href="getPesaPanchayatReport.do" target="_blank"
+											style="text-decoration: underline; color: black;"> List
+												of PESA Panchayats </a></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+
+				<!-- Bottom Border -->
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+			</div>
+
+			<div id="privacy" class="section">
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb"
+					style="margin-left: 120px; margin-top: 20px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							style="text-decoration: none; font-weight: bold; color: #333;"
+							id="home-link">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333;">
+							Privacy Policy</li>
+					</ol>
+				</nav>
+
+				<div class="mt-3 mb-5">
+					<div class="p-4 rounded shadow-sm bg-white content-box">
+						<h5 class="text-center fw-bold mb-3">Privacy Policy</h5>
+						<p>The Government will have complete discretion to share the
+							details of your use of the Web Site and/or data entered by you
+							with regulators or with any other third party, or in order to
+							resolve disputes or complaints which relate to the Web Site..</p>
+					</div>
+				</div>
+			</div>
+
+			<div id="terms" class="section">
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb"
+					style="margin-left: 120px; margin-top: 20px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							style="text-decoration: none; font-weight: bold; color: #333;"
+							id="home-link">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333;">
+							Terms & Conditions</li>
+					</ol>
+				</nav>
+
+				<div class="mt-3 mb-5">
+					<div class="p-4 rounded shadow-sm bg-white content-box">
+						<h5 class="text-center fw-bold mb-3">Terms & Conditions</h5>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-221">The
+							following terms and conditions will apply if you wish to use the
+							Internet for availing a service. Please go through the conditions
+							carefully and if you accept them, you may register yourself and
+							transact on the site. On using this site for service delivery,
+							you are deemed to have agreed to the terms and conditions set
+							forth below. If You do not agree with all these terms and
+							conditions, you must not transact on this Website.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-222">If a user
+							violates the terms and conditions Government (service owner)
+							reserves the right to deactivate all such user registration and
+							cancel any or all services requested without any notice. Garbage
+							/ Junk values in profile may lead to Deactivation.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-223">
+							Operationalization of this agreement is subject to existing laws
+							and legal processes of the respective Government, and nothing
+							contained in this agreement is in derogation of Government's
+							right to comply with law enforcement requests or requirements
+							relating to your use of this Web Site or information provided to
+							or gathered by this site with respect to such use. You agree that
+							Government may provide details of your use of the Web Site to
+							regulators or police or to any other third party, or in order to
+							resolve disputes or complaints which relate to the Web Site, at
+							Governmentâs complete discretion.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-224">This
+							agreement is made between: respective service owner department of
+							the respective government who has configured the
+							serviceGovernment ('Us') and The User ('You'), the individual,
+							whose details are set out in the Portal User Creation page.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-225">User
+								Creation</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-226">You are
+							responsible for maintaining the confidentiality of the password
+							and account, and are fully responsible for all activities that
+							occur under your password or account.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-227">Complaints
+								Procedure</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-228">You can
+							reach us on the contact details given in the 'Contacts' option
+							given in the login page.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-229">General
+								Obligations</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-230">You shall
+							access web site only for lawful purposes and you shall be
+							responsible for complying with all applicable laws, statutes and
+							regulations in connection with the use of Government web site.
+							This Website is for your personal or commercial use by approved
+							kiosks. You shall not modify, copy, distribute, transmit,
+							display, perform, reproduce, publish, license, create derivative
+							works from, transfer or sell any information, or services
+							obtained from this Website. You shall not create a hypertext link
+							to the Website or "frame" the Website, except with the express
+							advance written permission of the Government.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-231">Information
+								Provided</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-232">The
+							information you provide in the Registration page must be complete
+							and accurate. Government 00. reserves the right at all times to
+							disclose any information as deems necessary to satisfy any
+							applicable law, regulation, legal process.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-233">Termination</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-234">We may at
+							any time at our sole discretion and without giving any reason or
+							any prior notice terminate or temporarily suspend your access to
+							all or any part of the web site.</p>
+					</div>
+				</div>
+			</div>
+
+			<div id="contact" class="section">
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb"
+					style="margin-left: 120px; margin-top: 20px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							id="home-link"
+							style="text-decoration: none; font-weight: bold; color: #333;">Home</a>
+						</li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333;">
+							<h>Contact Us</h>
+						</li>
+					</ol>
+				</nav>
+
+				<div class="containerNav">
+					<p class="text-center" title="pesacellmopr@gmail.com"> <b>Contact us on :<span class="text-primary"> pesacellmopr[at]gmail[dot]com</span></b></p>
+				</div>
+
+				<div class="border-bottom"></div>
+			</div>
+
+			<!-- SOP for PESA Section -->
+			<div id="annexure" class="section" style="margin: 20px;">
+				<div class="border-image" style="margin-top: -20px;">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+
+				<nav aria-label="breadcrumb" style="margin-left: 120px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							id="home-link"
+							style="text-decoration: none; font-weight: bold; color: #333;">Home</a>
+						</li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="font-weight: bold; color: #333;">Annexure</li>
+					</ol>
+				</nav>
+
+				<div class="mt-3 mb-5"
+					style="margin-left: 120px; margin-right: 120px;">
+					<div class="content-box">
+						<h5 class="text-center fw-bold mb-4 text-decoration-underline">Annexure</h5>
+						<div class="table-responsive">
+							<table class="custom-table">
+								<thead>
+									<tr>
+										<th style="width: 25%;">Title</th>
+										<th style="width: 25%;">View / Download</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><strong>Annexure</strong></td>
+										<td><span class="pdf-downloads alternate"> <span
+												class="title">Accessible Version :</span> <a target="_blank"
+												href="/resources/pdf/PESA Profiler SOP.pdf"
+												aria-label="View Sample SOP 1 PDF - opens in a new window"
+												title="View" rel="noopener noreferrer">View</a> (243 KB) <span
+												class="icon-pdf pdf-icon"><i class="fas fa-file-pdf"></i></span>
+												<a
+												href="/resources/pdf/PESA Profiler SOP.pdf"
+												download="PESA_Profiler_SOP.pdf"
+												title="Click here to download" class="download"
+												rel="noopener noreferrer"> <i
+													class="fa fa-download pdf-download" aria-hidden="true"></i>
+											</a>
+										</span></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="feedback" class="section">
+				<nav aria-label="breadcrumb"
+					style="margin-left: 120px; margin-top: 20px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							id="home-link"
+							style="text-decoration: none; font-weight: bold; color: #333;">Home</a>
+						</li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333;">
+							<h1>Feedback</h1>
+						</li>
+					</ol>
+				</nav>
+
+				<h4>Feedback</h4>
+				<p>Details about the feedback.</p>
+			</div>
+
+			<div class="header-section">
+				<div class="container-fluid d-flex align-items-center">
+					<img src="resources/pesa_Images/g13.svg" class="header-img"
+						alt="Icon">
+					<div class="banner">LATEST UPDATES</div>
+					<div class="marquee">
+						<div class="marquee-text" style="color: white;">Stay
+							informed about the latest developments in PESA portal.</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="border-image">
+				<img
+					src="/resources/pesa_Images/g9.svg"
+					alt=" border Image" />
+			</div>
+
+			<div class="pesa-border-wrapper">
+				<div class="pesa-info">
+					<div class="pesa-inner">
+						<img src="resources/pesa_Images/g11.svg" alt="Left Image"
+							class="side-img left-img" />
+
+						<div class="p-4 rounded  bg-white">
+												
+					<div id="pesaActContent" class="collapsed-content styled-paragraphs">
+						   
+						   <h4>PESA Act, 1996 </h4>
+								<p><i>The Provisions of the Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA),</i>
+								was enacted on 24th December 1996, to extend the framework of Part IX of the 
+								Constitution (73rd Amendment Act, 1992) to the Fifth Schedule Areas, which are 
+								predominantly inhabited by tribal populations.  
+								While Article 243M(1) of the Constitution of India excludes the application of the 
+								provisions of the Part IX of the Constitution to ‘Scheduled Areas’ referred to in Article 
+								244(1) of the Constitution, Article 243M(4)(b) of the Constitution empowers Parliament to 
+								extend, by law, the provisions of Part IX to such Schedule Areas subject to certain 
+								exceptions and modifications as may be specified in such law. Accordingly, the 
+								Parliament enacted <i> “The Provisions of the Panchayats (Extension to the Scheduled 
+								Areas) Act, 1996”,</i> thereby giving legal recognition to tribal self-governance. </p>
+								<b>Salient features of the Act include: </b>
+								<p></p>
+								<ol>
+								<li> Gram Sabha as the cornerstone – every village in the Fifth Scheduled Area must 
+								have a Gram Sabha, competent to safeguard and preserve the traditions and 
+								customs, their cultural identity, community resources and the customary mode of 
+								dispute resolution. </li>
+								<li> Control over resources – Gram Sabhas are vested with powers to manage minor 
+								water bodies, minor forest produce (MFP), minor minerals, and village markets.</li> 
+								<li> Consent-based decision making – Prior approval of the Gram Sabha is mandatory 
+								for land acquisition, resettlement, and rehabilitation in Fifth Scheduled Areas.</li> 
+								<li> Social justice functions – Gram Sabha has the authority to regulate money 
+								lending, intoxicants, and prevent land alienation. </li>
+								<li> Alignment with State laws – States are required to amend their Panchayati Raj 
+								laws to bring them in conformity with PESA.</li>
+								
+								</ol>
+								<p> 
+								The PESA Act, 1996 represents a paradigm shift in governance, by legally empowering 
+								tribal communities to govern themselves, protect their culture, and manage their local 
+								resources in line with their traditions and customs.</p>
+						
+							
+						  </div>
+							<div class="d-flex justify-content-end mt-2">
+								<a href="javascript:void(0)" title="Read More" id="toggleBtn2"
+									class="font-green">Read more</a>
+							</div>
+						</div>
+
+						<img src="resources/pesa_Images/g12.svg" alt="Right Image"
+							class="side-img right-img">
+					</div>
+				</div>
+
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+			</div>
+
+			<div class="section" id="state-scheme-section" style="display: none;">
+				<nav aria-label="breadcrumb" style="margin-left: 60px;">
+					<ol class="breadcrumb">
+						<li class="breadcrumb-item"><a href="pesaDashboardView.do"
+							style="text-decoration: none; font-weight: bold; color: #333;"
+							id="home-link">Home</a></li>
+						<li class="breadcrumb-item active" aria-current="page"
+							style="text-decoration: none; font-weight: bold; color: #333; margin-right: 20px;">PESA
+							States</li>
+					</ol>
+				</nav>
+
+				<div class="pesa-text" style="margin-left: 70px;">
+					<p style="font-size: 24px; font-weight: 500; margin: 0;">PESA
+						States</p>
+				</div>
+
+				<div class="row"
+					style="display: flex; gap: 50px; padding-left: 100px; padding-right: 100px; flex-wrap: nowrap; margin-bottom: 20px; width: 120%;">
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=28'">
+						<img
+							src="/resources/pesa_Images/pg100.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div
+							style="flex: 1 1 0; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex;">
+							<div
+								style="color: #434141; font-size: 16px; font-family: 'Open Sans', sans-serif; font-weight: 700; line-height: 24px; word-wrap: break-word;">Andhra
+								Pradesh</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=21'">
+						<img
+							src="/resources/pesa_Images/pg107.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Odisha</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=24'">
+						<img
+							src="/resources/pesa_Images/pg102.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Gujarat</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=02'">
+						<img
+							src="/resources/pesa_Images/pg103.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Himanchal
+								Pradesh</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=20'">
+						<img
+							src="/resources/pesa_Images/pg104.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Jharkhand</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row"
+					style="display: flex; gap: 50px; padding-left: 100px; padding-right: 100px; flex-wrap: nowrap; margin-bottom: 20px; width: 120%;">
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=23'">
+						<img
+							src="/resources/pesa_Images/pg105.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Madhya
+								Pradesh</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=27'">
+						<img
+							src="/resources/pesa_Images/pg106.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Maharashtra</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=22'">
+						<img
+							src="/resources/pesa_Images/pg101.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Chhattisgarh</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=08'">
+						<img
+							src="/resources/pesa_Images/pg108.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Rajasthan</div>
+						</div>
+					</div>
+
+					<div class="card-box"
+						style="flex: 0 0 14%; height: 70px; overflow: hidden; padding: 5px 10px; cursor: pointer; display: flex; align-items: center; gap: 8px; border-radius: 12px; border: 1px solid #DFDFDF;"
+						onclick="window.location.href='pesaState.do?stateCd=36'">
+						<img
+							src="/resources/pesa_Images/pg109.svg"
+							style="width: 35px; height: 35px; object-fit: contain;">
+						<div>
+							<div style="font-weight: 600; font-size: 0.95em;">Telangana</div>
+						</div>
+					</div>
+				</div>
+
+				<br>
+				<div class="border-image">
+					<img
+						src="/resources/pesa_Images/g9.svg"
+						alt=" border Image" />
+				</div>
+			</div>
+			
+			<!-- PESA Ranking Indicators  Start -->
+		
+				<div class="container-fluid12  text-center mb-5 mt-5" id="pesaIndicatorDiv" >
+						<h3 class="custom-heading">PESA Ranking Indicators</h3>
+					
+					<div class="cards-row">
+		
+					  <!-- Dynamic PESA Indicator Card  -->
+						  
+						  
+							  <div class="card t1 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(1)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator1.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Alignment of State Panchayat Raj Acts with PESA Provisions</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">12</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t2 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(2)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator2.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">State PESA Rules Notified</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">10</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t3 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(3)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator3.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Provisions in State PESA Rules in conformity with PESA Act</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">16</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t4 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(4)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator4.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Amendments in State Acts / Rules / Regulations / Policies / Executive Directions of other line departments to comply with PESA Act</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">10</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t5 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(5)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator5.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">GPDP plan upload of PESA Gram Sabhas</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">6</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t6 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(6)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator6.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Mapping of PESA Villages /Panchayats in LG directory</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">4</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t7 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(7)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator7.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Deployment of PESA Staff at State Level</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">16</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t8 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(8)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator8.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">PESA Trainings</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">16</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t9 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(9)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator9.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Orientation of PESA Gram Sabha under RGSA</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">5</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+						
+						  
+							  <div class="card t10 card-indicator">
+							    <a href="#" onclick="pesaIndicatorClick(10)">
+							      <div class="icon-wrap">
+							        <div class="indicator-icon"><img src="\resources\pesa_indicator_icon/indicator10.png" alt="icon1"></div>
+							      </div>
+							      <div class="card-body indicator-body">
+							        <h6 class="card-title indicator-title">Uploading of photos / videos and minutes of Gram Sabha on Panchayat Nirnay Portal</h6>
+							      </div>
+							      <div class="card-footer indicator-footer">
+							      	<div class="footer-label">Total Marks</div>
+							        <div class="footer-count">5</div>
+							        
+							      </div>
+							    </a>
+							  </div>
+							  
+								  
+					
+					</div>		
+									
+						
+				</div>		
+				
+			<!-- PESA Ranking Indicators  End -->
+
+			<div
+				class="container-fluid px-3 px-md-4 px-lg-5 py-4 text-center key-links"
+				id="KeyLinkView">
+				<h3 class="custom-heading">At a Glance</h3>
+
+				<div class="row justify-content-center g-3">
+					<div class="col-12 col-sm-6 col-md-2 col-lg-3">
+						<div
+							class="card-box text-white rounded-3 shadow d-flex flex-column justify-content-center align-items-center p-3 hover-card"
+							style="background: linear-gradient(300deg, #044B78 2.91%, #4294C3 100%); cursor: pointer;">
+							<img
+								src="/resources/pesa_Images/pg1.svg"
+								alt="PESA States" style="width: 50px; height: 50px;" />
+							<div class="fw-semibold mt-2">PESA States</div>
+							<a href="pesaStatesCards.do"
+								class="btn btn-sm btn-light mt-2 view-btn">View</a>
+						</div>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-2 col-lg-3">
+						<div
+							class="card-box text-white rounded-3 shadow d-flex flex-column justify-content-center align-items-center p-3 hover-card"
+							style="background: linear-gradient(300deg, #E1506A 2.91%, #95192F 100%);">
+							<img
+								src="/resources/pesa_Images/pg2.svg"
+								alt="PESA Panchayat" style="width: 50px; height: 50px;" />
+							<div class="fw-semibold mt-2">PESA Panchayat</div>
+							<a
+								href="/getPesaPanchayatStateWiseCountList.do"
+								target="_self" rel="noopener noreferrer"
+								class="btn btn-sm btn-light mt-2 view-btn">View</a>
+						</div>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-2 col-lg-3">
+						<div
+							class="card-box text-white rounded-3 shadow d-flex flex-column justify-content-center align-items-center p-3 hover-card"
+							style="background: linear-gradient(300deg, #0E9688 2.91%, #10B781 100%);">
+							<img
+								src="/resources/pesa_Images/pg3.svg"
+								alt="PESA Village" style="width: 50px; height: 50px;" />
+							<div class="fw-semibold mt-2">PESA Village</div>
+							<a
+								href="/getStateWisePesaVillageCount.do"
+								target="_self" rel="noopener noreferrer"
+								class="btn btn-sm btn-light mt-2 view-btn">View</a>
+						</div>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-2 col-lg-3">
+						<div
+							class="card-box text-white rounded-3 shadow d-flex flex-column justify-content-center align-items-center p-3 hover-card"
+							style="background: linear-gradient(300deg, #FB8B24 2.91%, #E26513 100%);">
+							<img
+								src="/resources/pesa_Images/pg4.svg"
+								alt="Uploaded PESA Plan" style="width: 50px; height: 50px;" />
+							<div class="fw-semibold mt-2">Uploaded PESA Plan</div>
+							<a href="approvedPesaPlanReport.do" target="_self"
+								rel="noopener noreferrer"
+								class="btn btn-sm btn-light mt-2 view-btn">View</a>
+						</div>
+					</div>
+
+					<div class="col-12 col-sm-6 col-md-2 col-lg-3">
+						<div
+							class="card-box text-white rounded-3 shadow d-flex flex-column justify-content-center align-items-center p-3 hover-card"
+							style="background: linear-gradient(95deg, #044B79 46.87%, #078ADF 100.13%);">
+							<img
+								src="/resources/pesa_Images/pg4.svg"
+								alt="Uploaded PESA Plan" style="width: 50px; height: 50px;" />
+							<div class="fw-semibold mt-2">
+								PESA Tranings Conducted<small></small>
+							</div>
+							<a href="getTMPReport.do" target="_self"
+								rel="noopener noreferrer"
+								class="btn btn-sm btn-light mt-2 view-btn">View</a>
+						</div>
+					</div>
+				</div>
+				<div class=" my-4 key-link" id="KeyLinkView">
+					<div class="text-center">
+						<h5 class="custom-heading">Key Links</h5>
+					</div>
+
+					<div class="row justify-content-center g-3">
+						<div class="col-md-2  ">
+							
+								<a href="#"
+								    onclick="loadKeyLink('A')"
+									class="key-link-box1 gradient-a"> <img
+									src="/resources/pesa_Images/key1.svg"
+									class="key-link-image1" /> <span>Constitutional
+										Provisions</span>
+								</a>
+							
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('F')"
+								class="key-link-box1 gradient-f"> <img
+								src="/resources/pesa_Images/key6.svg"
+								class="key-link-image1" /> <span>Fifth Schedule Areas of
+									the Constitution</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('C')"
+								class="key-link-box1 gradient-c"> <img
+								src="/resources/pesa_Images/key3.svg"
+								class="key-link-image1" /> <span>PESA Act</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+							onclick="loadKeyLink('G')"
+								
+								class="key-link-box1 gradient-g"> <img
+								src="/resources/pesa_Images/key7.svg"
+								class="key-link-image1" /> <span>PESA Related Provisions
+									in State PR Acts</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('B')"
+								class="key-link-box1 gradient-g"> <img
+								src="/resources/pesa_Images/key1.svg"
+								class="key-link-image1" /> <span>State-wise PESA Rules</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('D')"
+								class="key-link-box1 gradient-d"> <img
+								src="/resources/pesa_Images/key4.svg"
+								class="key-link-image1" /> <span>Advisories and
+									Guidelines</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('H')"
+								class="key-link-box1 gradient-h"> <img
+								src="/resources/pesa_Images/key8.svg"
+								class="key-link-image1" /> <span>Study Reports, MoM,
+									Presentations & Case Study</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('I')"
+								class="key-link-box1 gradient-i"> <img
+								src="/resources/pesa_Images/key9.svg"
+								class="key-link-image1" /> <span>Conferences and
+									Workshops</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('J')"
+								class="key-link-box1 gradient-j"> <img
+								src="/resources/pesa_Images/key10.svg"
+								class="key-link-image1" /> <span>Training Manuals</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('E')"
+								class="key-link-box1 gradient-e"> <img
+								src="/resources/pesa_Images/key5.svg"
+								class="key-link-image1" /> <span>Centre of Excellence on
+									PESA</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('K')"
+								class="key-link-box1 gradient-k"> <img
+								src="/resources/pesa_Images/key11.svg"
+								class="key-link-image1" /> <span>Assessment of Relevant
+									Central Laws</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('L')"
+								class="key-link-box1 gradient-l"> <img
+								src="/resources/pesa_Images/key12.svg"
+								class="key-link-image1" /> <span>Assessment of State PR
+									Acts</span>
+							</a>
+						</div>
+
+						<div class="col-md-2 ">
+							<a href="#"
+								onclick="loadKeyLink('M')"
+								class="key-link-box1 gradient-m"> <img
+								src="/resources/pesa_Images/key13.svg"
+								class="key-link-image1" /> <span>Assessment of State
+									PESA Rules</span>
+							</a>
+						</div>
+					</div>
+				</div>	
+			</div>
+			
+		
+			
+					
+		</form>
+
+		<!-- Container -->
+		<div class="container mt-4">
+			<div
+				class="d-flex flex-wrap justify-content-between align-items-center">
+				<!-- Tabs -->
+				<ul class="nav nav-tabs mb-2 w-100 justify-content-between"
+					id="galleryTab" role="tablist">
+					<!-- Photo Tab -->
+					<li class="nav-item">
+						<button class="nav-link active" id="photo-gallery-tab"
+							data-bs-toggle="tab" data-bs-target="#photo-gallery"
+							type="button" role="tab" aria-controls="photo-gallery"
+							aria-selected="true" data-type="photos">
+							Photos Gallery
+						</button>
+					</li>
+
+					<!-- Video Tab -->
+					<li class="nav-item">
+						<button class="nav-link" id="video-gallery-tab"
+							data-bs-toggle="tab" data-bs-target="#video-gallery"
+							type="button" role="tab" aria-controls="video-gallery"
+							aria-selected="false" data-type="videos"
+							onclick="loadVideoContent()">
+							Video Gallery
+						</button>
+					</li>
+
+					<!-- Controls -->
+					<li class="nav-item ms-auto d-flex align-items-center"
+						id="gallery-controls-wrapper"><span id="viewAllButton"
+						class="d-flex align-items-center me-3 text-primary cursor-pointer"
+						onclick="window.location.href='viewAllImageAndVideo.do'"> <span
+							class="me-2"> View All
+						</span> <i class="fa fa-arrow-circle-right"></i>
+					</span>
+
+						<div id="paginationControls" class="d-flex align-items-center">
+							<i class="fa fa-arrow-circle-left mx-2 cursor-pointer"
+								id="prevPage"></i> <i
+								class="fa fa-arrow-circle-right mx-2 cursor-pointer"
+								id="nextPage"></i>
+						</div></li>
+				</ul>
+			</div>
+		</div>
+
+		<!-- Gallery Tabs -->
+		<div class="tab-content mt-4" id="galleryContent">
+			<!-- Photo Gallery -->
+			<div class="tab-pane fade show active" id="photo-gallery"
+				role="tabpanel" aria-labelledby="photo-gallery-tab">
+				<div class="row g-3 justify-content-center p-s-small" id="cardsRow">
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_0"></div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_1"></div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_2"></div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_3"></div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_4"></div>
+					<div class="col-12 col-sm-6 col-md-4 col-lg-3 image-card"
+						id="imageContainer_5"></div>
+				</div>
+			</div>
+
+			<!-- Video Gallery -->
+			<div class="tab-pane fade" id="video-gallery" role="tabpanel"
+				aria-labelledby="video-gallery-tab">
+				<div class="row g-3 justify-content-center p-s-small" id="cardsRow">
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_0"></div>
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_1"></div>
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_2"></div>
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_3"></div>
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_4"></div>
+					<div
+						class="col-12 col-sm-6 col-md-4 col-lg-3 image-card video-card"
+						id="videoContainer_5"></div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Image Modal with Carousel -->
+		<div class="modal fade" id="imageModal" tabindex="-1"
+			aria-labelledby="imageModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-fullscreen modal-dialog-centered">
+				<div class="modal-content">
+					<div class="modal-body position-relative" style="height: 100%;">
+						<div class="position-absolute top-0 end-0 m-2">
+							<button type="button"
+								class="btn-close position-absolute top-0 end-0 m-3 z-3"
+								data-bs-dismiss="modal" aria-label="Close"></button>
+						</div>
+
+						<div id="carouselExample" class="carousel slide"
+							data-bs-ride="carousel" style="width: 100%; height: 100%;">
+							<div class="carousel-inner h-100" id="carouselInner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Video Modal -->
+		<div class="modal fade" id="videoModal" tabindex="-1"
+			aria-labelledby="videoModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-lg modal-dialog-centered">
+				<div class="modal-content">
+					<div class="modal-header"
+						style="background: linear-gradient(270deg, #A7C957 -0.78%, #6A994E 21.99%, #386641 100%);">
+						<h5 class="modal-title" id="videoModalLabel">Video Player</h5>
+						<button type="button" class="btn-close" data-bs-dismiss="modal"
+							aria-label="Close"></button>
+					</div>
+
+					<div class="modal-body">
+						<iframe id="popupVideo" width="100%" height="400" src=""
+							referrerpolicy="strict-origin-when-cross-origin"></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Description Modal -->
+		<div id="descriptionModal" class="modal fade" tabindex="-1"
+			aria-labelledby="descriptionModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="descriptionModalLabel">Image
+							Description</h5>
+						<button type="button" class="btn btn-danger"
+							data-bs-dismiss="modal">Close</button>
+					</div>
+					<div class="modal-body">
+						<p id="fullDescriptionText"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Footer Modal / Login -->
+		<div class="modal" id="pesaLoginModal" style="z-index: 99999;">
+			<div class="modal-dialog modal-md">
+				<div class="modal-content" id="pesaLogin-content"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="additional-footer">
+		<a href="https://www.digitalindia.gov.in/" target="_blank"
+			onclick="return showAlert();"> <img
+			src="/resources/pesa_Images/digitalindia.svg"
+			class="footer1">
+		</a> <a href="https://www.data.gov.in/" target="_blank"
+			onclick="return showAlert();"> <img
+			src="/resources/pesa_Images/datagov.svg"
+			class="footer1">
+		</a> <a href="https://www.pmindia.gov.in/en/" target="_blank"
+			onclick="return showAlert();"> <img
+			src="/resources/pesa_Images/pmindia.svg"
+			class="footer1">
+		</a> <a href="https://www.panchayat.gov.in/" target="_blank"
+			onclick="return showAlert();"> <img
+			src="/resources/pesa_Images/panchayatlogo.svg"
+			class="footer1">
+		</a> <a href="https://www.india.gov.in/" target="_blank"
+			onclick="return showAlert();"> <img
+			src="/resources/pesa_Images/indiagov.svg"
+			class="footer1">
+		</a>
+	</div>
+
+
+	<div class="wf-footer">
+		<div class="stack">
+			<div class="footer-links">
+
+				<a href="https://www.nic.in/" target="_blank"> <img
+					class="bilingual-full-length-version m-4" alt=""
+					src="/resources/pesa_Images/pg501.svg">
+				</a>
+				<div class="label" data-bs-toggle="modal" data-bs-target="#myModal2">
+					Privacy Policy
+					|
+				</div>
+
+				<div class="label" data-bs-toggle="modal" data-bs-target="#myModal1">
+					Terms & Conditions
+					|
+				</div>
+
+
+				<div class="label" data-bs-toggle="modal" data-bs-target="#myModal3">
+					Contact Us
+					|
+				</div>
+
+
+
+				<div style="display: flex; align-items: center; gap: 50px;">
+					<div class="label">
+						<a href="feedBackDetails.do"
+							style="color: white; text-decoration: none;"> Feedback
+						</a> |
+					</div>
+
+
+				</div>
+
+				<div class="label" onClick="showSection('annexure')">
+					Annexure
+
+				</div>
+				<a href="https://www.nic.in/" target="_blank"> <img
+					class="bilingual-full-length-version m-4" alt=""
+					src="/resources/pesa_Images/nic.svg">
+				</a>
+			</div>
+
+		</div>
+		
+		
+		<!-- PRIVACY POLICY -->
+		<div class="modal fade" id="myModal2" role="dialog">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header modal-background">
+						<h4 class="modal-title ">Privacy Policy</h4>
+					</div>
+					<div class="modal-body">
+						<div class="row footer-row-padding footer-modal">
+							<div class="col-sm-12">
+								<h4>
+									<i class="icon-trophy"></i> Introduction
+								</h4>
+								<p>The Government will have complete discretion to share the
+									details of your use of the Web Site and/or data entered by you
+									with regulators or with any other third party, or in order to
+									resolve disputes or complaints which relate to the Web Site..</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- PRIVACY POLICY END -->
+		
+		
+		
+		<!-- Terms and Conditions -->
+		<div class="modal fade" id="myModal1" role="dialog">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content ">
+					<div class="modal-header modal-background">
+						<h4 class="modal-title ">Terms and Conditions</h4>
+					</div>
+					<div class="modal-body">
+						<div class="row footer-row-padding footer-modal">
+							<div class="col-sm-12">
+							<p class="text-jutify" data-translation-id="translation-1728987250511-221">The
+							following terms and conditions will apply if you wish to use the
+							Internet for availing a service. Please go through the conditions
+							carefully and if you accept them, you may register yourself and
+							transact on the site. On using this site for service delivery,
+							you are deemed to have agreed to the terms and conditions set
+							forth below. If You do not agree with all these terms and
+							conditions, you must not transact on this Website.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-222">If a user
+							violates the terms and conditions Government (service owner)
+							reserves the right to deactivate all such user registration and
+							cancel any or all services requested without any notice. Garbage
+							/ Junk values in profile may lead to Deactivation.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-223">
+							Operationalization of this agreement is subject to existing laws
+							and legal processes of the respective Government, and nothing
+							contained in this agreement is in derogation of Government's
+							right to comply with law enforcement requests or requirements
+							relating to your use of this Web Site or information provided to
+							or gathered by this site with respect to such use. You agree that
+							Government may provide details of your use of the Web Site to
+							regulators or police or to any other third party, or in order to
+							resolve disputes or complaints which relate to the Web Site, at
+							Governmentâs complete discretion.</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-224">This
+							agreement is made between: respective service owner department of
+							the respective government who has configured the
+							serviceGovernment ('Us') and The User ('You'), the individual,
+							whose details are set out in the Portal User Creation page.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-225">User
+								Creation</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-226">You are
+							responsible for maintaining the confidentiality of the password
+							and account, and are fully responsible for all activities that
+							occur under your password or account.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-227">Complaints
+								Procedure</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-228">You can
+							reach us on the contact details given in the 'Contacts' option
+							given in the login page.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-229">General
+								Obligations</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-230">You shall
+							access web site only for lawful purposes and you shall be
+							responsible for complying with all applicable laws, statutes and
+							regulations in connection with the use of Government web site.
+							This Website is for your personal or commercial use by approved
+							kiosks. You shall not modify, copy, distribute, transmit,
+							display, perform, reproduce, publish, license, create derivative
+							works from, transfer or sell any information, or services
+							obtained from this Website. You shall not create a hypertext link
+							to the Website or "frame" the Website, except with the express
+							advance written permission of the Government.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-231">Information
+								Provided</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-232">The
+							information you provide in the Registration page must be complete
+							and accurate. Government 00. reserves the right at all times to
+							disclose any information as deems necessary to satisfy any
+							applicable law, regulation, legal process.</p>
+
+						<p class="text-jutify">
+							<strong data-translation-id="translation-1728987250511-233">Termination</strong>
+						</p>
+
+						<p class="text-jutify"
+							data-translation-id="translation-1728987250511-234">We may at
+							any time at our sole discretion and without giving any reason or
+							any prior notice terminate or temporarily suspend your access to
+							all or any part of the web site.</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!-- Terms and Conditions end -->
+		
+		
+		<!-- Contact US -->
+		<div class="modal fade" id="myModal3" role="dialog">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header modal-background">
+						<h4 class="modal-title">Contact Us</h4>
+					</div>
+					<div class="modal-body">
+						<div class="row footer-row-padding footer-modal">
+							<div class="col-sm-12">
+
+								<p class="text-center" title="pesacellmopr@gmail.com">
+									<b>Contact us on :<span class="text-primary">
+											pesacellmopr[at]gmail[dot]com</span></b>
+								</p>
+
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!--  Contact Us -->
+		
+		
+		
+		<!-- FeedBack Form  -->
+		<!-- <div class="modal fade" id="myModal4" role="dialog">
+			<div class="modal-dialog modal-lg">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h1 class="modal-title">Contact Us</h1>
+					</div>
+					<div class="modal-body">
+						<div class="row footer-row-padding footer-modal">
+							<div class="col-sm-12">
+
+								
+
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-danger btn-empty-dark btn-lg"
+							data-dismiss="modal">Close</button>
+					</div>
+				</div>
+
+			</div>
+		</div> -->
+
+
+
+		
+
+		
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,2 @@
+﻿report,fin_year,state,district,block,gp_total_count,zp_total_count,zp_count,bp_total_count,bp_count,gp_count,source_file
+api_getTotalBookClosed,2024-2025,,,,260653,680,637,6750,6260,251729,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getTotalBookClosed_2024-2025_0.json

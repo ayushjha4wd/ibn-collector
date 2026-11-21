@@ -1,0 +1,31 @@
+﻿report,fin_year,state,district,block,totalcount,code,finyear,count,name,statecode,source_file
+api_getYearBookClosedGPWise,2024-2025,,,,1,93638,2024,1,Araria Basti,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93639,2024,1,Bangama,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93640,2024,1,Bansbari,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93641,2024,1,Basantpur,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93642,2024,1,Baturbari,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93643,2024,1,Belwa,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93644,2024,1,Bochi,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93645,2024,1,Chandradei,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93646,2024,1,Chatar,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93647,2024,1,Chikani,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93648,2024,1,Diyari,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93649,2024,1,Gainrha,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93650,2024,1,Gaiyari,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93651,2024,1,Haria,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93652,2024,1,Hayatpur,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93653,2024,1,Jamua,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93654,2024,1,Jhamta,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93655,2024,1,Kamaldaha,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93656,2024,1,Kismat Khawaspur,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93657,2024,1,Kusiyar Gawon,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93658,2024,1,Madanpur East,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93659,2024,1,Madanpur West,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93660,2024,1,Paiktola,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93661,2024,1,Pokharia,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93662,2024,1,Rampur Kodarkatti,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93663,2024,1,Rampur Mohanpur East,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93664,2024,1,Rampur Mohanpur West,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93665,2024,1,Sahasmal,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93666,2024,1,Sharanpur,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json
+api_getYearBookClosedGPWise,2024-2025,,,,1,93667,2024,1,Tarauna Bhojpur,10,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/getMobileData_getYearBookClosedGPWise_2024-2025_10_2206.json

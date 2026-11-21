@@ -1,0 +1,4 @@
+# Originals must be stored byte-for-byte (sha256 is checked). Never convert line endings.
+data/** -text
+# The append-only download log: when two computers add lines, keep every line from both sides.
+data/provenance.jsonl merge=union

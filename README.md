@@ -7,6 +7,26 @@ plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`
 
 **Final report (13 Nov 2026): [REPORT.md](REPORT.md). Detailed book (PDF): [docs/IBN_Bihar_Data_Book.pdf](docs/IBN_Bihar_Data_Book.pdf). Short handbook: [docs/IBN_Bihar_Data_Handbook.pdf](docs/IBN_Bihar_Data_Handbook.pdf). Every collected file: [data/analysis/FILES.md](data/analysis/FILES.md).**
 
+## Task 4: eGramSwaraj (Bihar Panchayats)
+
+**Report: [docs/task4/TASK4_REPORT.md](docs/task4/TASK4_REPORT.md)** (PDF: [TASK4_REPORT.pdf](docs/task4/TASK4_REPORT.pdf); Excel summary: [TASK4_SUMMARY.xlsx](docs/task4/TASK4_SUMMARY.xlsx); clean data: [data/clean/egs/](data/clean/egs/README.md); rebuild both with `python scripts/make_task4_docs.py`). eGramSwaraj's own hosts
+(`egramswaraj.gov.in`, `reportingonline.gov.in`, `accountingonline.gov.in`, `planningonline.gov.in`)
+refuse connections from outside India, so the work is in two parts:
+
+```bash
+python scripts/egs_auditonline.py      # AuditOnline (audit module of the suite): reachable from anywhere; Bihar, 2019-20 to 2025-26
+python scripts/egs_summary.py          # field catalogue + coverage matrices -> data/analysis/egs/
+python scripts/egs_explore.py          # run FROM INDIA: crawls eGramSwaraj, saves every page/form/file, packs a zip
+python scripts/egs_explore.py --forms  # also fills the Bihar report forms (needs: pip install playwright; python -m playwright install chromium)
+python scripts/egs_bihar.py            # run FROM INDIA: Bihar static finance archives, getMobileData API, page scripts
+python scripts/egs_bihar.py --steps xhr     # records the JSON behind browser-built reports (profiles, representatives, grants)
+python scripts/egs_portal_summary.py   # re-hashes EGS-PORTAL originals; writes verbatim value tables to data/analysis/egs/
+python scripts/run_pass2.py            # FROM INDIA: the three steps above plus commit and push, in one command
+python scripts/egs_clean.py            # separate later step: clean Bihar tables + workbook -> data/clean/egs/ (see its README)
+```
+
+CAPTCHA-protected reports are never automated; `egs_bihar.py --steps manual` lets a person enter each CAPTCHA and only saves what they are shown.
+
 ## Quick start
 
 ```bash
