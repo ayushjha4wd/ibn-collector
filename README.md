@@ -78,6 +78,7 @@ python scripts/egs_portal_summary.py   # re-hashes originals; must print "0 hash
 ```bash
 python scripts/egs_validate.py --check         # full validation, run twice, outputs must be byte-identical
 python -m unittest tests/test_egs_validate.py  # unit tests for the validation rules
+python scripts/run_followup.py --delay 0.3   # FROM INDIA: follow-up collection (tied report, elected reps, all GP years), commit + push
 ```
 
 ## Quick start

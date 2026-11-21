@@ -373,14 +373,22 @@ The validated layer is in `data/validated/egs/<dataset>.csv`. The clean tables i
 - unspent balances;
 - approved GPDP amounts.
 
-**Further collection** (separate follow-up; none requires bypassing an access control):
+**Further collection** (separate follow-up; none requires bypassing an access control).
 
-1. GP pages for 2021-22, 2022-23, 2023-24, 2025-26 and 2026-27: `egs_bihar.py --deep-years all`.
-2. The XV FC tied-grant report with Report Type chosen (ZP, BP, GP).
-3. District-level elected representatives for Bihar (`ElectedStateZpWiseBpCount.do?stateCode=10`).
-4. Re-fetch 2020-21 village pages that lack code links, if the portal now links them, to settle the 48 unresolved and 5,612 name-match-only GP codes.
-5. Fix `egs_clean.py` to decode cp1252 responses (a later clean-data step; Task 5 does not overwrite `data/clean/egs/`).
-6. CAPTCHA-protected reports, only by a person viewing them (`egs_bihar.py --steps manual`).
+Items 1–3 run with one command on a computer in India:
+
+```bash
+python scripts/run_followup.py --delay 0.3
+```
+
+It commits and pushes the result.
+
+1. GP pages for 2021-22, 2022-23, 2023-24, 2025-26 and 2026-27 (`egs_bihar.py --steps static --deep-years all`).
+2. The XV FC tied-component report for ZP, BP and GP, 2018-19 onward, for Bihar's districts and GPs. It is fetched from the public JSON endpoints that the report page itself calls: `getTiedExpenditureData.do`, `getDistrictTExpData.do` and `getVillageDistTExp.do`, with `reportType` set to Z, B or V (`egs_bihar.py --steps endpoints`).
+3. Elected-representative counts for Bihar by district, block and GP. These come from `ElectedStatePanReport*.do`, `ElectedStateZpWiseBpCount.do`, `findBpNameAndGPCountByZpCode.do` and `findGpNameAndERCountByBpCode.do`, all defined in the portal's own `ElectedRepresent-service.js`. The member-level `ElectedMemberRepresent.do` is deliberately not requested.
+4. The 48 unresolved 2020-21 GP codes. Their village pages are static archives generated on 18 Jul 2022, so fetching them again returns the same file. These codes can be settled only by official evidence linking name and code for 2020-21, or left unresolved.
+5. `egs_clean.py` now decodes cp1252 responses (fixed in the code). The clean tables will be rebuilt, and validated again, together with the follow-up data. Task 5 did not overwrite `data/clean/egs/`.
+6. CAPTCHA-protected reports can be viewed only by a person (`egs_bihar.py --steps manual`).
 
 ## 11. Verification and reproducibility
 

@@ -200,6 +200,48 @@ class Collector:
         self.log({**rec, "status": "not_found_page" if empty else "downloaded"})
         return None if empty else text
 
+    # ---------- endpoints ----------
+    def endpoints(self):
+        """Public JSON endpoints that browser-built reports call, as defined in the portal's own JavaScript
+        (resources/priasoft/js/tiedExpenditure/…-service.js, resources/js/report/electedRepresent/…-service.js),
+        requested directly for Bihar. No CAPTCHA is involved. ElectedMemberRepresent.do (members' names) is
+        deliberately not requested."""
+        try:  # session cookie, as the browser would have
+            self.op.open(urllib.request.Request(BASE + "welcome.do"), timeout=self.a.timeout).read(1 << 20)
+        except Exception as e:
+            print("  welcome.do:", repr(e)[:100])
+        yrs = [y for y in ALL_YEARS if y >= "2018-2019"] if self.a.tied_years == "all" else self.a.tied_years.split(",")
+        for fy in yrs:
+            for rt, lab in (("Z", "Zilla Parishad"), ("B", "Block Panchayat"), ("V", "Village Panchayat")):
+                self.get("endpoints", "endpoints/tied", f"{BASE}getTiedExpenditureData.do?finyear={fy}&reportType={rt}",
+                         f"XVFC Tied Component Expenditure: all states ({lab})", {"finyear": fy, "reportType": rt})
+                t = self.get("endpoints", "endpoints/tied",
+                             f"{BASE}getDistrictTExpData.do?finyear={fy}&reportType={rt}&StateId={STATE}",
+                             f"XVFC Tied Component Expenditure: Bihar districts ({lab})", {"finyear": fy, "reportType": rt})
+                if rt == "V":
+                    for g in field_values(t, "glbCode"):
+                        self.get("endpoints", "endpoints/tied",
+                                 f"{BASE}getVillageDistTExp.do?finyear={fy}&reportType=V&StateId={STATE}&glbCode={g}",
+                                 "XVFC Tied Component Expenditure: GPs of a Bihar district",
+                                 {"finyear": fy, "reportType": "V", "glbCode": g})
+            print(f"  tied {fy} [{dict(self.n)}]", flush=True)
+        for y in self.a.rep_years.split(","):
+            q = f"stateCode={STATE}&year={y}"
+            self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStatePanReport.do?{q}",
+                     "Elected representatives: Bihar, by Zilla Parishad (ZP tier)", {"year": y})
+            self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStatePanReportGp.do?{q}",
+                     "Elected representatives: Bihar (GP tier)", {"year": y})
+            bp = self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStateZpWiseBpCount.do?{q}",
+                          "Elected representatives: Bihar, BP tier by Zilla Parishad", {"year": y})
+            for zp in field_values(bp, "zpCode"):
+                b = self.get("endpoints", "endpoints/elected", f"{BASE}findBpNameAndGPCountByZpCode.do?{q}&zpCode={zp}",
+                             "Elected representatives: blocks of a district", {"year": y, "zpCode": zp})
+                for bc in field_values(b, "bpCode"):
+                    self.get("endpoints", "endpoints/elected",
+                             f"{BASE}findGpNameAndERCountByBpCode.do?{q}&bpCode={bc}",
+                             "Elected representatives: count per GP of a block", {"year": y, "bpCode": bc})
+            print(f"  elected year={y} [{dict(self.n)}]", flush=True)
+
     # ---------- static ----------
     def static(self):
         years = ALL_YEARS if self.a.years == "all" else self.a.years.split(",")
@@ -440,6 +482,22 @@ def glob_escape(s):
     return re.sub(r"([\[\]*?])", r"[\1]", s)
 
 
+def field_values(text, key):
+    """Distinct non-empty values of `key` in a JSON list (or the first list inside a JSON object), in order."""
+    try:
+        d = json.loads(text or "[]")
+    except ValueError:
+        return []
+    rows = d if isinstance(d, list) else next((v for v in d.values() if isinstance(v, list)), []) \
+        if isinstance(d, dict) else []
+    out = []
+    for r in rows:
+        v = r.get(key) if isinstance(r, dict) else None
+        if v not in (None, "", 0, "0") and v not in out:
+            out.append(v)
+    return out
+
+
 def codes(text):
     try:
         return [r["code"] for r in json.loads(text or "[]") if isinstance(r, dict) and "code" in r]
@@ -449,7 +507,9 @@ def codes(text):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--steps", default="static,api,js", help="any of static,api,js,xhr,manual")
+    ap.add_argument("--steps", default="static,api,js", help="any of static,api,js,xhr,endpoints,manual")
+    ap.add_argument("--tied-years", default="all", help="endpoints: FYs for the XVFC tied report ('all' = 2018-19 on)")
+    ap.add_argument("--rep-years", default="2026", help="endpoints: 'year' values for elected-representative counts")
     ap.add_argument("--years", default="all", help="FYs like 2024-2025, comma separated, or 'all' (2012-13 to 2026-27)")
     ap.add_argument("--depth", type=int, default=1, help="static: levels below the Bihar page (1 = district pages)")
     ap.add_argument("--deep-years", default="2020-2021,2024-2025",
