@@ -3,6 +3,8 @@
 Repeatable scripts to download India By Numbers source datasets for Bihar, keep the original
 files untouched, and record where and when each file came from.
 
+**Consolidated report, Tasks 1–4: [docs/IBN_FULL_REPORT.md](docs/IBN_FULL_REPORT.md)** ([PDF](docs/IBN_FULL_REPORT.pdf), [Excel](docs/IBN_FULL_REPORT.xlsx); rebuild with `python scripts/make_full_report.py`).
+
 | Task | What | Report |
 |---|---|---|
 | **Task 3: Data collection** | All 41 sources in the Bihar catalogue (IDs match `IBN_Bihar_Data_Source_Catalogue_v2.xlsx`), plus a few extra entries (suffixes `a`, `b`, `c`) and the national CRS report (`DM-11`) | [REPORT.md](REPORT.md) (13 Nov 2026) · [Data Book (PDF)](docs/IBN_Bihar_Data_Book.pdf) · [Handbook (PDF)](docs/IBN_Bihar_Data_Handbook.pdf) · [every file](data/analysis/FILES.md) |
