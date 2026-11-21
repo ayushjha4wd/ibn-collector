@@ -1,6 +1,6 @@
 """One command for the eGramSwaraj Bihar pass 2 on a computer in India.
 
-    python scripts/run_pass2.py
+    python scripts/run_pass2.py                 (extra options go to egs_bihar.py, e.g. --delay 0.3)
 
 Runs, in order, and keeps going even if one step stops part-way (every step resumes on re-run):
   1. egs_bihar.py                 static archives, getMobileData API, page scripts
@@ -37,13 +37,14 @@ def out(cmd):
 def main():
     run(["git", "config", "core.autocrlf", "false"])
 
-    code = run([PY, "scripts/egs_bihar.py"])
+    extra = sys.argv[1:]
+    code = run([PY, "scripts/egs_bihar.py", *extra])
     print(f"egs_bihar.py finished (exit {code})")
 
     if run([PY, "-c", "import playwright"]) != 0:
         run([PY, "-m", "pip", "install", "playwright"])
     run([PY, "-m", "playwright", "install", "chromium"])
-    code = run([PY, "scripts/egs_bihar.py", "--steps", "xhr"])
+    code = run([PY, "scripts/egs_bihar.py", *extra, "--steps", "xhr"])
     print(f"egs_bihar.py --steps xhr finished (exit {code})")
 
     run([PY, "scripts/egs_portal_summary.py"])
