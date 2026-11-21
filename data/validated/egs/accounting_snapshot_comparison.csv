@@ -1,0 +1,16 @@
+financial_year,state_summary_gps,state_summary_gps_year_book_closed,state_summary_generated,district_summary_sum_gps,district_summary_sum_year_book_closed,district_summary_generated,village_summary_gps,village_summary_year_book_closed,village_summary_generated,getMobileData_gp_rows,getMobileData_closed,getMobileData_retrieved,getYearBookDrill_vptcount,getYearBookDrill_vpcount,note
+2012-2013,8474,0,2024-10-23 01:15,,,,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2013-2014,8474,0,2024-10-23 01:15,,,,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2014-2015,8466,0,2024-10-23 01:15,,,,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2015-2016,8392,0,2024-10-23 01:15,7124,0,2022-02-20 09:52,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2016-2017,8389,0,2024-10-23 01:15,7121,0,2022-02-20 09:48,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2017-2018,8389,0,2024-10-23 01:15,7153,0,2022-02-20 09:45,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2018-2019,8386,0,2024-10-23 01:15,8380,0,2022-02-20 09:33,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2019-2020,8387,1,2024-10-23 01:15,8387,1,2022-02-20 09:20,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2020-2021,8387,8108,2024-10-23 01:15,8387,8108,2022-07-18 02:31,8387,8108,2022-07-18 02:26,8387,8108,2026-11-22,,,figures from different snapshots are listed side by side; differences are not errors
+2021-2022,8221,8095,2024-10-23 01:15,8221,8095,2024-10-23 01:03,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2022-2023,8176,8077,2024-10-23 01:15,8176,8077,2024-10-23 00:59,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2023-2024,8176,8053,2024-10-23 01:15,8176,8053,2025-04-04 00:56,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors
+2024-2025,8054,0,2024-10-23 01:15,8054,8053,2026-11-21 00:50,8053,8053,2026-11-21 00:50,8054,8053,2026-11-22,8054,8053,figures from different snapshots are listed side by side; differences are not errors
+2025-2026,8050,8049,2026-11-20 00:59,8050,8049,2026-11-21 00:49,,,,,,,8050,8049,figures from different snapshots are listed side by side; differences are not errors
+2026-2027,8051,0,2026-11-20 00:59,8051,0,2026-11-21 00:48,,,,,,,,,figures from different snapshots are listed side by side; differences are not errors

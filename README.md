@@ -70,6 +70,15 @@ python scripts/egs_portal_summary.py   # re-hashes originals; must print "0 hash
 * Empty is never read as zero.
 * Personal names and contact details are not kept in derived files.
 
+## Task 5: eGramSwaraj validation (Bihar)
+
+**Report: [docs/task5/TASK5_REPORT.md](docs/task5/TASK5_REPORT.md).** It profiles, validates and standardises the Task 4 tables without changing them. The validated layer, data dictionary, reconciliation, geographic reference, comparability matrix and quality register are in `data/validated/egs/`.
+
+```bash
+python scripts/egs_validate.py --check         # full validation, run twice, outputs must be byte-identical
+python -m unittest tests/test_egs_validate.py  # unit tests for the validation rules
+```
+
 ## Quick start
 
 ```bash

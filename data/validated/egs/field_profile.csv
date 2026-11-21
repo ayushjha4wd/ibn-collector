@@ -1,0 +1,217 @@
+dataset,field,type,rows,non_empty,empty,distinct,min,max,zero_values,negative_values,example
+state_year_summary,financial_year,financial year,45,45,0,15,,,0,0,2012-2013
+state_year_summary,tier,text,45,45,0,3,,,0,0,bp
+state_year_summary,panchayats,integer,45,45,0,13,38,8474,0,0,534
+state_year_summary,panchayats_with_vouchers,integer,45,45,0,13,0,8220,23,0,1
+state_year_summary,receipt_vouchers,integer,45,45,0,22,0,75172,24,0,1643
+state_year_summary,payment_vouchers,integer,45,45,0,22,0,380401,24,0,829
+state_year_summary,receipt_amount_rs,decimal,45,45,0,22,0,59345884976.919998,24,0,3751243283.68
+state_year_summary,payment_amount_rs,decimal,45,45,0,22,0,30172276765.27,24,0,62220293.16
+state_year_summary,with_month_book_closed,integer,45,45,0,13,0,8220,23,0,1
+state_year_summary,with_year_book_closed,integer,45,45,0,11,0,8108,29,0,1
+state_year_summary,receipt_amount_as_served,text,45,45,0,22,,,0,0,0.00
+state_year_summary,payment_amount_as_served,text,45,45,0,22,,,0,0,0.00
+state_year_summary,report_generated_on,text,45,45,0,2,,,0,0,"Wednesday, October 23, 2024 1:15 AM"
+state_year_summary,retrieved_at_ist,text,45,45,0,15,,,0,0,2026-11-20T13:35:45+05:30
+state_year_summary,source_file,text,45,45,0,15,,,0,0,data/raw/EGS-PORTAL/2026-11-20/egramswaraj.gov.in/FileRedirect.jsp__FD=priasoftO
+district_finance,financial_year,financial year,429,429,0,11,,,0,0,2016-2017
+district_finance,district_code,integer,429,418,11,38,179,561,0,0,179
+district_finance,district,text,429,429,0,77,,,0,0,ARARIA
+district_finance,zp_ob_plus_receipts_cr,decimal,429,234,195,234,4.827,2037.128,0,0,29.69
+district_finance,zp_payments_cr,decimal,429,234,195,223,0,690.6,9,0,1.32
+district_finance,zp_receipts_rs,decimal,429,195,234,38,0,3206876511.29,158,0,110900374.0
+district_finance,zp_payments_rs,decimal,429,195,234,9,0,14286630,187,0,750398.0
+district_finance,bp_ob_plus_receipts_cr,decimal,429,234,195,234,2.999,1635.64,0,0,29.98
+district_finance,bp_payments_cr,decimal,429,234,195,232,0.89,889.72,0,0,10.57
+district_finance,bp_receipts_rs,decimal,429,195,234,39,0,3751243283.68,157,0,60442184.25
+district_finance,bp_payments_rs,decimal,429,195,234,22,0,62220293.16,174,0,607544.0
+district_finance,gp_ob_plus_receipts_cr,decimal,429,234,195,234,16.676,5925.45,0,0,89.9
+district_finance,gp_payments_cr,decimal,429,234,195,232,5.43,3013.78,0,0,20.64
+district_finance,gp_receipts_rs,decimal,429,195,234,36,0,2350531006.54,160,0,4480294.5
+district_finance,gp_payments_rs,decimal,429,195,234,14,0,2086008.55,182,0,196699.1
+district_finance,report_generated_on,text,429,312,117,8,,,0,0,"Sunday, February 20, 2022 9:06 AM"
+district_finance,retrieved_at_ist,text,429,429,0,11,,,0,0,2026-11-21T23:07:54+05:30
+district_finance,source_file,text,429,429,0,11,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Ex
+block_finance,financial_year,financial year,6292,6292,0,11,,,0,0,2016-2017
+block_finance,district_code,integer,6292,6292,0,38,179,561,0,0,179
+block_finance,block,text,6292,6292,0,1047,,,0,0,ARARIA
+block_finance,zp_ob_plus_receipts_cr,empty,6292,0,6292,0,,,0,0,
+block_finance,zp_payments_cr,empty,6292,0,6292,0,,,0,0,
+block_finance,zp_receipts_rs,empty,6292,0,6292,0,,,0,0,
+block_finance,zp_payments_rs,empty,6292,0,6292,0,,,0,0,
+block_finance,bp_ob_plus_receipts_cr,decimal,6292,3432,2860,2859,0,89.03031,6,0,3.986892
+block_finance,bp_payments_cr,decimal,6292,3424,2868,2573,0,55.858105,80,0,1.6016318
+block_finance,bp_receipts_rs,decimal,6292,2860,3432,401,0,313418830.36,2459,0,15836998.0
+block_finance,bp_payments_rs,decimal,6292,2860,3432,85,0,9790138.36,2768,0,607544.0
+block_finance,gp_ob_plus_receipts_cr,decimal,6292,3432,2860,3428,0,296.03317,5,0,14.330222
+block_finance,gp_payments_cr,decimal,6292,3432,2860,3428,0,171.67795,5,0,1.717806
+block_finance,gp_receipts_rs,decimal,6292,2860,3432,326,0,777613985,2533,0,421120.0
+block_finance,gp_payments_rs,decimal,6292,2860,3432,46,0,1336008.9,2805,0,196292.0
+block_finance,report_generated_on,text,6292,4576,1716,8,,,0,0,"Sunday, February 20, 2022 10:04 AM"
+block_finance,retrieved_at_ist,text,6292,6292,0,398,,,0,0,2026-11-21T23:16:37+05:30
+block_finance,source_file,text,6292,6292,0,418,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Ex
+gp_finance,financial_year,financial year,17508,17508,0,2,,,0,0,2020-2021
+gp_finance,district_code,integer,17508,17508,0,38,179,561,0,0,179
+gp_finance,district,text,17508,17508,0,38,,,0,0,Araria
+gp_finance,block_code,integer,17508,17508,0,534,2206,6808,0,0,2206
+gp_finance,block,text,17508,17508,0,520,,,0,0,Araria
+gp_finance,gp_code,integer,17508,16338,1170,8353,93638,299439,0,0,93638
+gp_finance,gp_name_as_served,text,17508,17508,0,14103,,,0,0,ARARIABASTI
+gp_finance,receipts_rs,decimal,17508,17508,0,11566,0,233024509.64,5902,0,421120.0
+gp_finance,payments_rs,decimal,17508,17508,0,8668,0,154558857.1,8671,0,141762.0
+gp_finance,receipts_as_served,text,17508,17508,0,11566,,,0,0,0.00
+gp_finance,payments_as_served,text,17508,17508,0,8668,,,0,0,0.00
+gp_finance,report_generated_on,text,17508,17508,0,3,,,0,0,"Monday, July 18, 2022 3:58 AM"
+gp_finance,retrieved_at_ist,text,17508,17508,0,1042,,,0,0,2026-11-21T23:41:02+05:30
+gp_finance,source_file,text,17508,17508,0,1068,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Ex
+district_scheme_finance,financial_year,financial year,1683,1683,0,7,,,0,0,2020-2021
+district_scheme_finance,scheme_code,integer,1683,1683,0,3,0,3287,603,0,3287
+district_scheme_finance,scheme,text,1683,1683,0,3,,,0,0,XV Finance Commission-XVFC
+district_scheme_finance,district,text,1683,1683,0,78,,,0,0,ARARIA
+district_scheme_finance,tier,text,1683,1683,0,3,,,0,0,bp
+district_scheme_finance,rv,integer,1683,1683,0,476,0,75164,816,0,10
+district_scheme_finance,pv,integer,1683,1683,0,678,0,380401,905,0,1
+district_scheme_finance,cv,integer,1683,1683,0,64,0,2728,1426,0,2
+district_scheme_finance,jv,integer,1683,1683,0,16,0,37,1608,0,2
+district_scheme_finance,receipts_rs,decimal,1683,1683,0,864,0,95331801357.100006,809,0,60514330.25
+district_scheme_finance,payments_rs,decimal,1683,1683,0,768,0,57794472704.580002,903,0,72146
+district_scheme_finance,receipts_as_served,text,1683,1683,0,864,,,0,0,"6,05,14,330.25"
+district_scheme_finance,payments_as_served,text,1683,1683,0,768,,,0,0,"72,146"
+district_scheme_finance,report_generated_on,text,1683,1683,0,21,,,0,0,"Friday, August 20, 2021 6:50 AM"
+district_scheme_finance,retrieved_at_ist,text,1683,1683,0,29,,,0,0,2026-11-21T23:23:59+05:30
+district_scheme_finance,source_file,text,1683,1683,0,29,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Sc
+monthly_finance,financial_year,financial year,13932,13932,0,7,,,0,0,2020-2021
+monthly_finance,entity,text,13932,13932,0,2,,,0,0,zp
+monthly_finance,entity_code,integer,13932,13932,0,571,179,6808,0,0,179
+monthly_finance,entity_name,text,13932,13932,0,533,,,0,0,Araria
+monthly_finance,month,text,13932,13932,0,84,,,0,0,"April, 2020"
+monthly_finance,opening_balance_rs,decimal,13932,13932,0,765,0,895116591,4764,0,500.0
+monthly_finance,receipts_rs,decimal,13932,13932,0,2158,0,293679035,11656,0,110900374.0
+monthly_finance,receipt_cancellation_rs,decimal,13932,13932,0,32,0,44587909,13901,0,231175.0
+monthly_finance,ob_cancellation_rs,decimal,13932,13932,0,11,0,81268432,13922,0,1644055.0
+monthly_finance,payments_rs,decimal,13932,13932,0,6167,0,114835641,7727,0,750398.0
+monthly_finance,payment_cancellation_rejected_rs,decimal,13932,13932,0,1604,0,19316903,12191,0,1041021.0
+monthly_finance,opening_balance_as_served,text,13932,13932,0,765,,,0,0,0.00
+monthly_finance,report_generated_on,text,13932,13932,0,10,,,0,0,"Monday, July 18, 2022 4:05 AM"
+monthly_finance,retrieved_at_ist,text,13932,13932,0,1161,,,0,0,2026-11-21T23:21:35+05:30
+monthly_finance,source_file,text,13932,13932,0,1161,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Ex
+monthly_vouchers,financial_year,financial year,13968,13968,0,7,,,0,0,2020-2021
+monthly_vouchers,entity,text,13968,13968,0,2,,,0,0,district
+monthly_vouchers,entity_code,integer,13968,13968,0,571,179,6808,0,0,179
+monthly_vouchers,entity_name,text,13968,13968,0,533,,,0,0,Araria
+monthly_vouchers,month,text,13968,13968,0,84,,,0,0,"April, 2020"
+monthly_vouchers,receipts,integer,13968,13968,0,90,0,506,10421,0,5
+monthly_vouchers,payments,integer,13968,13968,0,307,0,1238,7732,0,7
+monthly_vouchers,contra,integer,13968,13968,0,3,0,2,13898,0,2
+monthly_vouchers,journal,integer,13968,13968,0,2,0,1,13966,0,1
+monthly_vouchers,report_generated_on,text,13968,13968,0,7,,,0,0,"Monday, July 18, 2022 4:29 AM"
+monthly_vouchers,retrieved_at_ist,text,13968,13968,0,1164,,,0,0,2026-11-21T23:22:54+05:30
+monthly_vouchers,source_file,text,13968,13968,0,1164,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Fi
+district_accounting_status,financial_year,financial year,456,456,0,12,,,0,0,2015-2016
+district_accounting_status,district,text,456,456,0,76,,,0,0,ARARIA
+district_accounting_status,zp_entered_masters,yes/no,456,456,0,2,,,0,0,no
+district_accounting_status,zp_entered_opening_balance,yes/no,456,456,0,2,,,0,0,no
+district_accounting_status,zp_rv,integer,456,456,0,111,0,521,191,0,5
+district_accounting_status,zp_pv,integer,456,456,0,211,0,3831,223,0,7
+district_accounting_status,zp_cv,integer,456,456,0,3,0,3,426,0,2
+district_accounting_status,zp_jv,integer,456,456,0,2,0,1,454,0,1
+district_accounting_status,zp_day_book_closed,yes/no,456,456,0,2,,,0,0,no
+district_accounting_status,zp_month_book_closed,yes/no,456,456,0,2,,,0,0,no
+district_accounting_status,zp_year_book_closed,yes/no,456,456,0,2,,,0,0,no
+district_accounting_status,bps,integer,456,456,0,21,4,27,0,0,9
+district_accounting_status,bps_with_master_entry,integer,456,456,0,19,0,27,190,0,9
+district_accounting_status,bps_with_opening_balance,integer,456,456,0,19,0,27,190,0,9
+district_accounting_status,bps_with_vouchers,integer,456,456,0,27,0,27,191,0,5
+district_accounting_status,bp_rv,integer,456,456,0,164,0,593,191,0,10
+district_accounting_status,bp_pv,integer,456,456,0,235,0,6384,202,0,1
+district_accounting_status,bp_cv,integer,456,456,0,17,0,28,389,0,2
+district_accounting_status,bp_jv,integer,456,456,0,5,0,5,449,0,1
+district_accounting_status,bps_with_day_book_closed,integer,456,456,0,19,0,27,190,0,9
+district_accounting_status,bps_with_month_book_closed,integer,456,456,0,19,0,27,190,0,9
+district_accounting_status,bps_with_year_book_closed,integer,456,456,0,19,0,27,228,0,9
+district_accounting_status,gps,integer,456,456,0,132,22,405,0,0,218
+district_accounting_status,gps_with_master_entry,integer,456,456,0,100,0,404,187,0,1
+district_accounting_status,gps_with_opening_balance,integer,456,456,0,97,0,405,189,0,1
+district_accounting_status,gps_with_vouchers,integer,456,456,0,89,0,405,194,0,10
+district_accounting_status,gp_rv,integer,456,456,0,258,0,3978,194,0,21
+district_accounting_status,gp_pv,integer,456,456,0,240,0,27693,210,0,6
+district_accounting_status,gp_cv,integer,456,456,0,55,0,338,326,0,2
+district_accounting_status,gp_jv,integer,456,456,0,11,0,13,412,0,2
+district_accounting_status,gps_with_day_book_closed,integer,456,456,0,101,0,405,189,0,1
+district_accounting_status,gps_with_month_book_closed,integer,456,456,0,102,0,405,189,0,1
+district_accounting_status,gps_with_year_book_closed,integer,456,456,0,86,0,396,227,0,1
+district_accounting_status,report_generated_on,text,456,456,0,12,,,0,0,"Sunday, February 20, 2022 9:52 AM"
+district_accounting_status,retrieved_at_ist,text,456,456,0,12,,,0,0,2026-11-21T23:07:23+05:30
+district_accounting_status,source_file,text,456,456,0,12,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Su
+block_accounting_status,financial_year,financial year,6384,6384,0,12,,,0,0,2015-2016
+block_accounting_status,district_code,integer,6384,6384,0,38,179,561,0,0,179
+block_accounting_status,block,text,6384,6384,0,1046,,,0,0,ARARIA
+block_accounting_status,bp_entered_masters,yes/no,6384,6384,0,2,,,0,0,no
+block_accounting_status,bp_entered_opening_balance,yes/no,6384,6384,0,2,,,0,0,no
+block_accounting_status,bp_rv,integer,6384,6384,0,86,0,211,2832,0,3
+block_accounting_status,bp_pv,integer,6384,6384,0,388,0,1871,3162,0,1
+block_accounting_status,bp_cv,integer,6384,6384,0,6,0,12,6166,0,2
+block_accounting_status,bp_jv,integer,6384,6384,0,5,0,5,6377,0,1
+block_accounting_status,bp_day_book_closed,yes/no,6384,6384,0,2,,,0,0,no
+block_accounting_status,bp_month_book_closed,yes/no,6384,6384,0,2,,,0,0,no
+block_accounting_status,bp_year_book_closed,yes/no,6384,6384,0,2,,,0,0,no
+block_accounting_status,gps,integer,6384,6384,0,36,1,39,0,0,30
+block_accounting_status,gps_with_master_entry,integer,6384,6384,0,37,0,38,2652,0,1
+block_accounting_status,gps_with_opening_balance,integer,6384,6384,0,37,0,38,2653,0,1
+block_accounting_status,gps_with_vouchers,integer,6384,6384,0,35,0,37,2890,0,1
+block_accounting_status,gp_rv,integer,6384,6384,0,313,0,470,2890,0,2
+block_accounting_status,gp_pv,integer,6384,6384,0,1153,0,3686,3128,0,3
+block_accounting_status,gp_cv,integer,6384,6384,0,40,0,46,5972,0,2
+block_accounting_status,gp_jv,integer,6384,6384,0,10,0,9,6327,0,2
+block_accounting_status,gps_with_day_book_closed,integer,6384,6384,0,37,0,38,2653,0,1
+block_accounting_status,gps_with_month_book_closed,integer,6384,6384,0,37,0,38,2653,0,1
+block_accounting_status,gps_with_year_book_closed,integer,6384,6384,0,37,0,38,3187,0,1
+block_accounting_status,report_generated_on,text,6384,6384,0,68,,,0,0,"Monday, January 31, 2022 12:29 AM"
+block_accounting_status,retrieved_at_ist,text,6384,6384,0,437,,,0,0,2026-11-21T23:14:55+05:30
+block_accounting_status,source_file,text,6384,6384,0,456,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Su
+gp_accounting_status,financial_year,financial year,16440,16440,0,2,,,0,0,2020-2021
+gp_accounting_status,district_code,integer,16440,16440,0,38,179,561,0,0,179
+gp_accounting_status,district,text,16440,16440,0,38,,,0,0,Araria
+gp_accounting_status,block_code,integer,16440,16440,0,534,2206,6808,0,0,2206
+gp_accounting_status,block,text,16440,16440,0,520,,,0,0,Araria
+gp_accounting_status,gp_code,integer,16440,16338,102,8353,93638,299439,0,0,93638
+gp_accounting_status,gp_name_as_served,text,16440,16440,0,14200,,,0,0,ARARIA BASTI
+gp_accounting_status,entered_masters,yes/no,16440,16440,0,2,,,0,0,yes
+gp_accounting_status,entered_opening_balance,yes/no,16440,16440,0,2,,,0,0,yes
+gp_accounting_status,day_book_closed,yes/no,16440,16440,0,2,,,0,0,yes
+gp_accounting_status,month_book_closed,yes/no,16440,16440,0,2,,,0,0,yes
+gp_accounting_status,year_book_closed,yes/no,16440,16440,0,2,,,0,0,yes
+gp_accounting_status,rv,integer,16440,16440,0,68,0,104,5716,0,2
+gp_accounting_status,pv,integer,16440,16440,0,233,0,406,8142,0,2
+gp_accounting_status,cv,integer,16440,16440,0,5,0,4,16243,0,2
+gp_accounting_status,jv,integer,16440,16440,0,3,0,2,16420,0,2
+gp_accounting_status,report_generated_on,text,16440,16440,0,2,,,0,0,"Monday, July 18, 2022 2:26 AM"
+gp_accounting_status,retrieved_at_ist,text,16440,16440,0,1049,,,0,0,2026-11-21T23:56:22+05:30
+gp_accounting_status,source_file,text,16440,16440,0,1067,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/static/FileRedirect.jsp__FD=Su
+gp_year_book_closed,financial_year,financial year,16373,16373,0,2,,,0,0,2020-2021
+gp_year_book_closed,block_code,integer,16373,16373,0,532,2206,6808,0,0,2206
+gp_year_book_closed,block,text,16373,16373,0,1036,,,0,0,ARARIA
+gp_year_book_closed,gp_code,integer,16373,16373,0,8354,93638,299439,0,0,93638
+gp_year_book_closed,gp_name,text,16373,16373,0,14134,,,0,0,ARARIA BASTI
+gp_year_book_closed,totalcount,integer,16373,16373,0,1,1,1,0,0,1
+gp_year_book_closed,count_closed,integer,16373,16373,0,2,0,1,279,0,1
+gp_year_book_closed,source_file,text,16373,16373,0,1064,,,0,0,data/raw/EGS-PORTAL/2026-11-21/egramswaraj.gov.in/api/getMobileData_getYearBookC
+state_indicators,report_page,text,84,84,0,14,,,0,0,ElectedRepresentativeReportVp.do
+state_indicators,endpoint,text,84,84,0,16,,,0,0,ElectedStateReportBp.do
+state_indicators,query,text,84,79,5,7,,,0,0,year=2026
+state_indicators,field,text,84,84,0,33,,,0,0,bpCount
+state_indicators,value,text,84,84,0,39,,,0,0,534
+state_indicators,retrieved_at_ist,text,84,84,0,20,,,0,0,2026-11-22T01:15:55+05:30
+state_indicators,source_file,text,84,84,0,22,,,0,0,data/raw/EGS-PORTAL/2026-11-22/egramswaraj.gov.in/xhr/ElectedRepresentativeRepor
+audit_gp,financial_year,financial year,16439,16439,0,2,,,0,0,2020-2021
+audit_gp,block_code,integer,16439,16439,0,534,2206,6808,0,0,2613
+audit_gp,gp_code,integer,16439,16439,0,8387,93638,299439,0,0,100000
+audit_gp,gp_name,text,16439,16439,0,7326,,,0,0,Sirwar Birwar
+audit_gp,in_audit_plan,yes/no,16439,16202,237,1,,,0,0,yes
+audit_gp,audit_start,text,16439,16202,237,580,,,0,0,26/12/2021
+audit_gp,audit_end,text,16439,16202,237,592,,,0,0,26/12/2021
+audit_gp,grant_streams_audited,text,16439,16202,237,1,,,0,0,"Others,TFC,14FC,15FC"
+audit_gp,audit_report_generated,integer,16439,16182,257,4,0,3,89,0,1
+audit_gp,audit_observations,integer,16439,16439,0,30,0,30,320,0,9
+audit_gp,settlement_reports,integer,16439,16439,0,1,0,0,16439,0,0
+audit_gp,source_files,text,16439,16439,0,1185,,,0,0,data/raw/EGS-AO/2026-11-20/gp/auditSettlementReportLevelWise/year=2020-2021__blo

@@ -1,0 +1,19 @@
+indicator,endpoint,query,value,expected_or_compared,status,note
+Block Panchayat elected representatives: male + female + other = total,ElectedStateReportBp.do,year=2026,4905 + 6760 + 1,11666,PASS,gender of elected representatives only; not population gender
+Block Panchayats represented vs State & Year Wise Summary 2026-2027,ElectedStateReportBp.do,year=2026,534,534,PASS,"request parameter year=2026; the response does not state the reference year or date, so the match to FY 2026-27 is an assumption"
+Gram Panchayat elected representatives: male + female + other = total,ElectedStateReportGp.do,year=2026,62931 + 77292 + 25,140248,PASS,gender of elected representatives only; not population gender
+Gram Panchayats represented vs State & Year Wise Summary 2026-2027,ElectedStateReportGp.do,year=2026,8051,8051,PASS,"request parameter year=2026; the response does not state the reference year or date, so the match to FY 2026-27 is an assumption"
+Zilla Parishad elected representatives: male + female + other = total,ElectedStateReportZp.do,year=2026,455 + 647 + 1,1103,PASS,gender of elected representatives only; not population gender
+Zilla Parishads represented vs State & Year Wise Summary 2026-2027,ElectedStateReportZp.do,year=2026,38,38,PASS,"request parameter year=2026; the response does not state the reference year or date, so the match to FY 2026-27 is an assumption"
+plans uploaded <= bpCount,bpPlanUploadStateReport.do,year=2024-2025,533,534,PASS,upload status only; plan contents and approved amounts are not in the response
+plans uploaded <= bpCount,bpPlanUploadStateReport.do,year=2026-2027,533,534,PASS,upload status only; plan contents and approved amounts are not in the response
+GPs with geo-tagging <= total GPs,geoTaggingStateReport.do,year=2024-2025,8006,8053,PASS,"'count' = 92212 is a count of geo-tagged items, not GPs"
+GPs with geo-tagging <= total GPs,geoTaggingStateReport.do,year=2026-2027,50,8051,PASS,"'count' = 65 is a count of geo-tagged items, not GPs"
+GPs with profile <= GPs,gpProfileStateReport.do,year=2026-2027,7661,8051,PASS,profile completion count only; no population or household field in the response
+GPs with updated profile <= GPs with profile,gpProfileStateReport.do,year=2026-2027,2009,7661,PASS,
+plans uploaded <= gpCount,gpdpUploadStateReport.do,year=2024-2025,8053,8053,PASS,upload status only; plan contents and approved amounts are not in the response
+plans uploaded <= gpCount,gpdpUploadStateReport.do,year=2026-2027,8044,8051,PASS,upload status only; plan contents and approved amounts are not in the response
+GPs with ongoing activity <= GPs,ongoingActivityStateReport.do,year=2024-2025,7850,8053,PASS,
+GPs with ongoing activity <= GPs,ongoingActivityStateReport.do,year=2026-2027,191,8051,PASS,
+plans uploaded <= zpCount,zpPlanUpdateStateReport.do,year=2024-2025,38,38,PASS,upload status only; plan contents and approved amounts are not in the response
+plans uploaded <= zpCount,zpPlanUpdateStateReport.do,year=2026-2027,37,38,PASS,upload status only; plan contents and approved amounts are not in the response
