@@ -21,6 +21,8 @@ python scripts/egs_explore.py --forms  # also fills the Bihar report forms (need
 python scripts/egs_bihar.py            # run FROM INDIA: Bihar static finance archives, getMobileData API, page scripts
 python scripts/egs_bihar.py --steps xhr     # records the JSON behind browser-built reports (profiles, representatives, grants)
 python scripts/egs_portal_summary.py   # re-hashes EGS-PORTAL originals; writes verbatim value tables to data/analysis/egs/
+python scripts/run_pass2.py            # FROM INDIA: the three steps above plus commit and push, in one command
+python scripts/egs_clean.py            # separate later step: clean Bihar tables + workbook -> data/clean/egs/ (see its README)
 ```
 
 CAPTCHA-protected reports are never automated; `egs_bihar.py --steps manual` lets a person enter each CAPTCHA and only saves what they are shown.
