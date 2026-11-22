@@ -345,4 +345,4 @@ auditonline.gov.in,/auditReportGeneratedReportStateWise.htm,,,,,,1,xhr,downloade
 auditonline.gov.in,/observationCountStateReport.htm,,,,,,1,xhr,downloaded
 egramswaraj.gov.in,/getNOEStateData.do,,,,,,1,xhr,downloaded
 egramswaraj.gov.in,/loginReportData.do,,,,,,1,xhr,downloaded
-egramswaraj.gov.in,/voucherWiseReport.do,,no,yes,no,Receipts | Payments | Contra | Journal | Voucher Date | Voucher No | Voucher Type | Voucher Amount (in Rs.) | Case Record,3738,vouchers,downloaded|error
+egramswaraj.gov.in,/voucherWiseReport.do,,no,yes,no,Receipts | Payments | Contra | Journal | Voucher Date | Voucher No | Voucher Type | Voucher Amount (in Rs.) | Case Record,4695,vouchers,downloaded|error
