@@ -119,25 +119,25 @@ On average each Gram Panchayat recorded about 44 payment vouchers in the year. S
 
 ## 8. Every receipt and payment (voucher level)
 
-eGramSwaraj records each transaction as a **voucher**. For Patna in 2025-26 we collected the voucher-wise list of every month for the Zilla Parishad, all 23 Panchayat Samitis and **259 of 309 Gram Panchayats** — 19,933 vouchers in all. (The remaining 50 Gram Panchayats were missed when the internet dropped during collection and can be added by running the collection again.) **No payee or vendor names are included** — only the voucher number, date, type and amount, exactly as the portal lists them.
+eGramSwaraj records each transaction as a **voucher**. For Patna in 2025-26 we collected the voucher-wise list of every month for the Zilla Parishad, all 23 Panchayat Samitis and **309 of 309 Gram Panchayats** — 22,997 voucher lines in all. **No payee or vendor names are included** — only the voucher number, date, type and amount, exactly as the portal lists them.
 
 | | Zilla Parishad | Panchayat Samitis | Gram Panchayats | Total collected |
 |---|---|---|---|---|
-| Receipt vouchers | 287 | 420 | 2,924 | 3,631 |
-| Payment vouchers | 3,296 | 1,794 | 11,212 | 16,302 |
-| Amount received (Rs crore) | 35.28 | 25.25 | 115.84 | 176.37 |
-| Amount paid (Rs crore) | 50.41 | 25.74 | 107.29 | 183.43 |
+| Receipt vouchers | 287 | 420 | 3,659 | 4,366 |
+| Payment vouchers | 3,296 | 1,794 | 13,541 | 18,631 |
+| Amount received (Rs crore) | 35.28 | 25.25 | 139.13 | 199.66 |
+| Amount paid (Rs crore) | 50.41 | 25.74 | 133.15 | 209.29 |
 
-The voucher amounts collected cover most of the district statement's payments (district statement: Rs 191.94 crore for all levels); the gap is the 50 Gram Panchayats not yet collected.
+Payments listed in vouchers (Rs 209.29 crore) are +9% compared with the annual statement (Rs 191.94 crore). The statement is the official total; the vouchers list somewhat more, probably because the statement is net of payments later cancelled, rejected or returned (the portal does not define this). Use the vouchers for detail and pattern, the statement for totals. A multi-year voucher report for the district is in `docs/district_reports/patna_vouchers/`.
 
 **Types of voucher** (what the transaction was recorded as):
 
 | Voucher type | Number | What it means |
 |---|---|---|
-| Expenditures | 16,300 | A payment / expenditure |
-| Refund of Excess Payment | 1,943 | Money returned after an overpayment |
-| Reverse Receipt -PFMS | 846 | A receipt reversed in the PFMS payment system |
-| Direct Receipts | 842 | Money received directly |
+| Expenditures | 18,629 | A payment / expenditure |
+| Refund of Excess Payment | 2,350 | Money returned after an overpayment |
+| Direct Receipts | 1,015 | Money received directly |
+| Reverse Receipt -PFMS | 1,001 | A receipt reversed in the PFMS payment system |
 | OB Cancellation | 2 | Cancellation of an opening-balance entry |
 
 **The ten largest single payments collected:**
@@ -147,13 +147,13 @@ The voucher amounts collected cover most of the district statement's payments (d
 | 23/08/2025 | XVFC/2025-26/P/35 | Panchayat Samiti | Barh | 3,973,289 | OB Cancellation |
 | 19/08/2025 | XVFC/2025-26/P/8 | Gram Panchayat | Barh | 1,909,746.99 | OB Cancellation |
 | 17/05/2025 | XVFC/2025-26/P/1 | Panchayat Samiti | Punpun | 1,495,782 | Expenditures |
+| 19/04/2025 | XVFC/2025-26/P/1 | Gram Panchayat | Phulwari | 1,344,939 | Expenditures |
 | 01/08/2025 | XVFC/2025-26/P/31 | Panchayat Samiti | Mokama | 1,341,000 | Expenditures |
+| 19/10/2025 | XVFC/2025-26/P/23 | Gram Panchayat | Punpun | 1,334,167 | Expenditures |
 | 30/10/2025 | XVFC/2025-26/P/1996 | Zilla Parishad |  | 1,324,036 | Expenditures |
 | 26/02/2026 | XVFC/2025-26/P/18 | Gram Panchayat | Dinapur | 1,318,188 | Expenditures |
-| 31/10/2025 | XVFC/2025-26/P/36 | Panchayat Samiti | Barh | 1,285,869 | Expenditures |
-| 06/02/2026 | XVFC/2025-26/P/2862 | Zilla Parishad |  | 1,281,171 | Expenditures |
-| 14/10/2025 | XVFC/2025-26/P/1843 | Zilla Parishad |  | 1,241,719 | Expenditures |
-| 02/02/2026 | XVFC/2025-26/P/2802 | Zilla Parishad |  | 1,228,123 | Expenditures |
+| 29/10/2025 | XVFC/2025-26/P/69 | Gram Panchayat | Phulwari | 1,309,554 | Expenditures |
+| 18/07/2025 | XVFC/2025-26/P/8 | Gram Panchayat | Punpun | 1,290,848 | Expenditures |
 
 All voucher numbers here begin with **XVFC**, confirming the money is the 15th Finance Commission grant. Every voucher is in the machine-readable file `data/validated/egs/vouchers/203_2025-2026.csv`, with its source page. Source: Voucher Wise Summary Report pages, generated 22 Nov 2026.
 

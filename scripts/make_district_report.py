@@ -304,10 +304,11 @@ def main():
         w("## 8. Every receipt and payment (voucher level)\n")
         w(f"eGramSwaraj records each transaction as a **voucher**. For {name} in {fy_label(fy)} we collected the "
           f"voucher-wise list of every month for the Zilla Parishad, all {len(bp_codes)} Panchayat Samitis and "
-          f"**{len(gp_codes)} of {gps} Gram Panchayats** — {len(vrows):,} vouchers in all. (The remaining "
-          f"{gps - len(gp_codes)} Gram Panchayats were missed when the internet dropped during collection and can "
-          "be added by running the collection again.) **No payee or vendor names are included** — only the voucher "
-          "number, date, type and amount, exactly as the portal lists them.\n")
+          f"**{len(gp_codes)} of {gps} Gram Panchayats** — {len(vrows):,} voucher lines in all."
+          + (f" (The remaining {gps - len(gp_codes)} Gram Panchayats were not collected and can be added by running "
+             "the collection again.)" if len(gp_codes) < gps else "")
+          + " **No payee or vendor names are included** — only the voucher number, date, type and amount, exactly as "
+          "the portal lists them.\n")
         w("| | Zilla Parishad | Panchayat Samitis | Gram Panchayats | Total collected |\n|---|---|---|---|---|")
         w(f"| Receipt vouchers | {vcount('zp', 'receipt'):,} | {vcount('bp', 'receipt'):,} | "
           f"{vcount('gp', 'receipt'):,} | {vcount(section='receipt'):,} |")
@@ -317,9 +318,13 @@ def main():
           f"{vsum('gp', 'receipt') / 1e7:,.2f} | {vsum(section='receipt') / 1e7:,.2f} |")
         w(f"| Amount paid (Rs crore) | {vsum('zp', 'payment') / 1e7:,.2f} | {vsum('bp', 'payment') / 1e7:,.2f} | "
           f"{vsum('gp', 'payment') / 1e7:,.2f} | {vsum(section='payment') / 1e7:,.2f} |")
-        w(f"\nThe voucher amounts collected cover most of the district statement's payments (district statement: "
-          f"Rs {cr(all_pd)} crore for all levels); the gap is the {gps - len(gp_codes)} Gram Panchayats not yet "
-          "collected.\n")
+        vp = vsum(section="payment") / 1e7
+        w(f"\nPayments listed in vouchers (Rs {vp:,.2f} crore) are {100 * (vp - all_pd) / all_pd:+.0f}% compared with "
+          f"the annual statement (Rs {cr(all_pd)} crore). The statement is the official total; the vouchers list "
+          "somewhat more, probably because the statement is net of payments later cancelled, rejected or returned (the "
+          "portal does not define this). Use the vouchers for detail and pattern, the statement for totals. A "
+          "multi-year voucher report for the district is in `docs/district_reports/" +
+          f"{name.lower().replace(' ', '_')}_vouchers/`.\n")
         vt = collections.Counter()
         for r in vrows:
             vt[r["voucher_type"] or "(blank)"] += 1
