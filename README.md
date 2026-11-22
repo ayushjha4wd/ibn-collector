@@ -83,6 +83,7 @@ python scripts/egs_portal_summary.py   # re-hashes originals; must print "0 hash
 python scripts/egs_validate.py --check         # full validation, run twice, outputs must be byte-identical
 python -m unittest tests/test_egs_validate.py  # unit tests for the validation rules
 python scripts/run_followup.py --delay 0.3   # FROM INDIA: follow-up collection (tied report, elected reps, all GP years), commit + push
+python scripts/run_vouchers.py --district 203 --fy 2025-2026 --delay 0.3   # FROM INDIA: every voucher list of one district-year (203 = Patna)
 ```
 
 ## Quick start
