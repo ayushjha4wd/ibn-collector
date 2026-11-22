@@ -12,6 +12,7 @@ Needs pandoc, Playwright with Chromium, and openpyxl.
 from __future__ import annotations
 
 import csv
+import os
 import re
 import subprocess
 import sys
@@ -42,6 +43,7 @@ td:first-child, th:first-child { min-width: 58px; }
 tr:nth-child(even) td { background: #f3f6f9; }
 code { font-family: "DejaVu Sans Mono", monospace; font-size: 7.4pt; background: #eef1f5; padding: 0 2px;
        word-break: break-all; }
+img { max-width: 100%; display: block; margin: 6pt auto 10pt; }
 pre { background: #eef1f5; padding: 6pt; font-size: 7.6pt; white-space: pre-wrap; }
 p, li { orphans: 3; widows: 3; }
 """
@@ -53,7 +55,9 @@ def pdf(md=MD, out=None, title="IBN Task 4: Bihar eGramSwaraj Data Exploration",
         html = Path(tmp) / "report.html"
         css = Path(tmp) / "report.css"
         css.write_text(CSS, encoding="utf-8")
-        subprocess.run(["pandoc", str(md), "-f", "gfm", "-t", "html5", "-s", "--metadata",
+        md = Path(md).resolve()
+        subprocess.run(["pandoc", str(md), "-f", "gfm", "-t", "html5", "-s", "--embed-resources",
+                        f"--resource-path={Path(md).parent}{os.pathsep}{tmp}", "--metadata",
                         f"pagetitle={title}", "-c", css.name,
                         "-o", str(html)], check=True, cwd=tmp)
         from playwright.sync_api import sync_playwright

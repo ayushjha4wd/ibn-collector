@@ -195,10 +195,105 @@ class Collector:
         if bad:
             self.log({**rec, "status": "withheld_personal_data", "distinct_phone_numbers": p, "distinct_emails": e})
             return None
-        empty = ext == "html" and ("HTTP Status 404" in text or "File Not Found" in text or len(body) < 200)
+        captcha = ext == "html" and re.search(r'id="img_Capatcha"|captchaAnswer|src="captchaImage', text)
+        empty = ext == "html" and not captcha and ("HTTP Status 404" in text or "File Not Found" in text or
+                                                   len(body) < 200)
         self.save(self.dest(sub, url, ext), body, rec)
         self.log({**rec, "status": "not_found_page" if empty else "downloaded"})
         return None if empty else text
+
+    # ---------- vouchers ----------
+    def vouchers(self):
+        """Transaction-level pages for ONE district and ONE financial year (--district, --fy): the month-wise
+        statements of the Zilla Parishad, every Panchayat Samiti and every Gram Panchayat, and the voucher-wise
+        lists they link to (voucherWiseReport.do). If a page asks for a CAPTCHA, it is saved as evidence, logged
+        as captcha_present_not_attempted, and no further voucher page is requested."""
+        dc, fy = str(self.a.district), self.a.fy
+        sub = f"vouchers/{dc}_{fy}"
+
+        def fr(fd, name):
+            return f"{BASE}FileRedirect.jsp?FD={fd}&name={name}.html"
+
+        def get(url, rep, params):
+            return self.get("vouchers", sub, url, rep, {"district": dc, "financial_year": fy, **params})
+
+        page = get(fr(f"ExpenditureReport{fy}/{STATE}/{dc}", dc), "Block wise Receipt and Payment Statement", {})
+        blocks = [b for b in dict.fromkeys(re.findall(
+            rf"FD=ExpenditureReport{fy}/{STATE}/{dc}&(?:amp;)?name=(\d+)\.html", page or "")) if b != dc]
+        bodies = [("zp", dc)] + [("bp", b) for b in blocks]
+        for b in blocks:
+            v = get(fr(f"ExpenditureReport{fy}/{STATE}/{dc}", b), "Village wise Receipt and Payment Statement",
+                    {"block": b})
+            s = get(fr(f"SummaryReport{fy}/{STATE}/{dc}", b), "Village Wise Summary Report", {"block": b})
+            gps = re.findall(rf"FD=(?:ExpFY|FinancialYear){fy}/{STATE}&(?:amp;)?name=(\d+)\.html", (v or "") + (s or ""))
+            bodies += [("gp", g) for g in dict.fromkeys(gps) if g != b]
+        print(f"  vouchers {dc} {fy}: {len(blocks)} blocks, {sum(k == 'gp' for k, _ in bodies)} GPs", flush=True)
+        captcha = False
+        for i, (kind, code) in enumerate(bodies):
+            links = []
+            for fam, rep in (("ExpFY", "Month Wise Payment and Receipt Statement"),
+                             ("FinancialYear", "Month wise Summary Report")):
+                t = get(fr(f"{fam}{fy}/{STATE}", code), f"{rep} ({kind})", {"body": kind, "code": code})
+                links += re.findall(r'href="([A-Za-z]*[Vv]oucher[A-Za-z]*\.do\?[^"]+)"', t or "")
+            for href in dict.fromkeys(links):
+                if captcha:
+                    break
+                url = BASE + href.replace("&amp;", "&")
+                body = get(url, f"Voucher-wise list ({kind})", {"body": kind, "code": code})
+                if body and re.search(r'id="img_Capatcha"|captchaAnswer|src="captchaImage', body):
+                    self.log({"step": "vouchers", "report": "voucherWiseReport.do", "url": url,
+                              "status": "captcha_present_not_attempted", **now_stamps()})
+                    print("  CAPTCHA on the voucher list: stopping voucher pages (not bypassed)", flush=True)
+                    captcha = True
+                    break
+                for h2 in list(dict.fromkeys(re.findall(r'href="([A-Za-z]*[Vv]oucher[A-Za-z]*\.do\?[^"]+)"',
+                                                        body or "")))[: self.a.voucher_detail]:
+                    get(BASE + h2.replace("&amp;", "&"), f"Voucher detail ({kind})", {"body": kind, "code": code})
+            if i % 25 == 0:
+                print(f"  vouchers {i + 1}/{len(bodies)} bodies [{dict(self.n)}]", flush=True)
+        print(f"  vouchers done [{dict(self.n)}]", flush=True)
+
+    # ---------- endpoints ----------
+    def endpoints(self):
+        """Public JSON endpoints that browser-built reports call, as defined in the portal's own JavaScript
+        (resources/priasoft/js/tiedExpenditure/…-service.js, resources/js/report/electedRepresent/…-service.js),
+        requested directly for Bihar. No CAPTCHA is involved. ElectedMemberRepresent.do (members' names) is
+        deliberately not requested."""
+        try:  # session cookie, as the browser would have
+            self.op.open(urllib.request.Request(BASE + "welcome.do"), timeout=self.a.timeout).read(1 << 20)
+        except Exception as e:
+            print("  welcome.do:", repr(e)[:100])
+        yrs = [y for y in ALL_YEARS if y >= "2018-2019"] if self.a.tied_years == "all" else self.a.tied_years.split(",")
+        for fy in yrs:
+            for rt, lab in (("Z", "Zilla Parishad"), ("B", "Block Panchayat"), ("V", "Village Panchayat")):
+                self.get("endpoints", "endpoints/tied", f"{BASE}getTiedExpenditureData.do?finyear={fy}&reportType={rt}",
+                         f"XVFC Tied Component Expenditure: all states ({lab})", {"finyear": fy, "reportType": rt})
+                t = self.get("endpoints", "endpoints/tied",
+                             f"{BASE}getDistrictTExpData.do?finyear={fy}&reportType={rt}&StateId={STATE}",
+                             f"XVFC Tied Component Expenditure: Bihar districts ({lab})", {"finyear": fy, "reportType": rt})
+                if rt == "V":
+                    for g in field_values(t, "glbCode"):
+                        self.get("endpoints", "endpoints/tied",
+                                 f"{BASE}getVillageDistTExp.do?finyear={fy}&reportType=V&StateId={STATE}&glbCode={g}",
+                                 "XVFC Tied Component Expenditure: GPs of a Bihar district",
+                                 {"finyear": fy, "reportType": "V", "glbCode": g})
+            print(f"  tied {fy} [{dict(self.n)}]", flush=True)
+        for y in self.a.rep_years.split(","):
+            q = f"stateCode={STATE}&year={y}"
+            self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStatePanReport.do?{q}",
+                     "Elected representatives: Bihar, by Zilla Parishad (ZP tier)", {"year": y})
+            self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStatePanReportGp.do?{q}",
+                     "Elected representatives: Bihar (GP tier)", {"year": y})
+            bp = self.get("endpoints", "endpoints/elected", f"{BASE}ElectedStateZpWiseBpCount.do?{q}",
+                          "Elected representatives: Bihar, BP tier by Zilla Parishad", {"year": y})
+            for zp in field_values(bp, "zpCode"):
+                b = self.get("endpoints", "endpoints/elected", f"{BASE}findBpNameAndGPCountByZpCode.do?{q}&zpCode={zp}",
+                             "Elected representatives: blocks of a district", {"year": y, "zpCode": zp})
+                for bc in field_values(b, "bpCode"):
+                    self.get("endpoints", "endpoints/elected",
+                             f"{BASE}findGpNameAndERCountByBpCode.do?{q}&bpCode={bc}",
+                             "Elected representatives: count per GP of a block", {"year": y, "bpCode": bc})
+            print(f"  elected year={y} [{dict(self.n)}]", flush=True)
 
     # ---------- static ----------
     def static(self):
@@ -440,6 +535,22 @@ def glob_escape(s):
     return re.sub(r"([\[\]*?])", r"[\1]", s)
 
 
+def field_values(text, key):
+    """Distinct non-empty values of `key` in a JSON list (or the first list inside a JSON object), in order."""
+    try:
+        d = json.loads(text or "[]")
+    except ValueError:
+        return []
+    rows = d if isinstance(d, list) else next((v for v in d.values() if isinstance(v, list)), []) \
+        if isinstance(d, dict) else []
+    out = []
+    for r in rows:
+        v = r.get(key) if isinstance(r, dict) else None
+        if v not in (None, "", 0, "0") and v not in out:
+            out.append(v)
+    return out
+
+
 def codes(text):
     try:
         return [r["code"] for r in json.loads(text or "[]") if isinstance(r, dict) and "code" in r]
@@ -449,7 +560,12 @@ def codes(text):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--steps", default="static,api,js", help="any of static,api,js,xhr,manual")
+    ap.add_argument("--steps", default="static,api,js", help="any of static,api,js,xhr,endpoints,vouchers,manual")
+    ap.add_argument("--tied-years", default="all", help="endpoints: FYs for the XVFC tied report ('all' = 2018-19 on)")
+    ap.add_argument("--district", default="203", help="vouchers: district code (203 = Patna)")
+    ap.add_argument("--voucher-detail", type=int, default=0,
+                    help="vouchers: single-voucher pages to follow from each voucher list (0 = lists only)")
+    ap.add_argument("--rep-years", default="2026", help="endpoints: 'year' values for elected-representative counts")
     ap.add_argument("--years", default="all", help="FYs like 2024-2025, comma separated, or 'all' (2012-13 to 2026-27)")
     ap.add_argument("--depth", type=int, default=1, help="static: levels below the Bihar page (1 = district pages)")
     ap.add_argument("--deep-years", default="2020-2021,2024-2025",

@@ -50,6 +50,16 @@ LABELS = {"District", "Block", "Village Panchayat & Equivalent", "Month", "S.No.
 
 
 # ---------------------------------------------------------------- helpers
+def load_json(p):
+    """JSON as served; a few getMobileData responses are cp1252, not UTF-8 (found in Task 5): decode those as
+    cp1252 instead of skipping them."""
+    b = p.read_bytes()
+    try:
+        return json.loads(b)
+    except UnicodeDecodeError:
+        return json.loads(b.decode("cp1252"))
+
+
 def num(v):
     """'3,861,03,59,497.17' -> 38610359497.17 ; '' -> '' ; anything else -> ''"""
     s = (v or "").strip().replace(",", "")
@@ -158,7 +168,7 @@ def main():
         if "getMobileData" not in u or p.suffix != ".json":
             continue
         try:
-            d = json.loads(p.read_bytes())
+            d = load_json(p)
         except ValueError:
             continue
         parts = urllib.parse.urlsplit(u).path.split("/")
@@ -355,7 +365,7 @@ def main():
         if r.get("geo_level") != "gp" or p.suffix != ".json":
             continue
         try:
-            d = json.loads(p.read_bytes())
+            d = load_json(p)
         except ValueError:
             continue
         fy, e = r.get("financial_year"), r.get("endpoint")
@@ -391,7 +401,7 @@ def main():
         if r.get("step") != "xhr" or p.suffix != ".json":
             continue
         try:
-            d = json.loads(p.read_bytes())
+            d = load_json(p)
         except ValueError:
             continue
         rows = d if isinstance(d, list) else []
