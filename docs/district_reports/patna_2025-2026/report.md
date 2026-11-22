@@ -117,18 +117,58 @@ Only these two sources are listed for the district. **Caution:** in the 2025-26 
 
 On average each Gram Panchayat recorded about 44 payment vouchers in the year. Source: District Wise Summary Report (generated November 21, 2026 12:49 AM).
 
-## 8. What this profile cannot tell you
+## 8. Every receipt and payment (voucher level)
+
+eGramSwaraj records each transaction as a **voucher**. For Patna in 2025-26 we collected the voucher-wise list of every month for the Zilla Parishad, all 23 Panchayat Samitis and **259 of 309 Gram Panchayats** — 19,933 vouchers in all. (The remaining 50 Gram Panchayats were missed when the internet dropped during collection and can be added by running the collection again.) **No payee or vendor names are included** — only the voucher number, date, type and amount, exactly as the portal lists them.
+
+| | Zilla Parishad | Panchayat Samitis | Gram Panchayats | Total collected |
+|---|---|---|---|---|
+| Receipt vouchers | 287 | 420 | 2,924 | 3,631 |
+| Payment vouchers | 3,296 | 1,794 | 11,212 | 16,302 |
+| Amount received (Rs crore) | 35.28 | 25.25 | 115.84 | 176.37 |
+| Amount paid (Rs crore) | 50.41 | 25.74 | 107.29 | 183.43 |
+
+The voucher amounts collected cover most of the district statement's payments (district statement: Rs 191.94 crore for all levels); the gap is the 50 Gram Panchayats not yet collected.
+
+**Types of voucher** (what the transaction was recorded as):
+
+| Voucher type | Number | What it means |
+|---|---|---|
+| Expenditures | 16,300 | A payment / expenditure |
+| Refund of Excess Payment | 1,943 | Money returned after an overpayment |
+| Reverse Receipt -PFMS | 846 | A receipt reversed in the PFMS payment system |
+| Direct Receipts | 842 | Money received directly |
+| OB Cancellation | 2 | Cancellation of an opening-balance entry |
+
+**The ten largest single payments collected:**
+
+| Voucher date | Voucher number | Level | Block | Amount (Rs) | Type |
+|---|---|---|---|---|---|
+| 23/08/2025 | XVFC/2025-26/P/35 | Panchayat Samiti | Barh | 3,973,289 | OB Cancellation |
+| 19/08/2025 | XVFC/2025-26/P/8 | Gram Panchayat | Barh | 1,909,746.99 | OB Cancellation |
+| 17/05/2025 | XVFC/2025-26/P/1 | Panchayat Samiti | Punpun | 1,495,782 | Expenditures |
+| 01/08/2025 | XVFC/2025-26/P/31 | Panchayat Samiti | Mokama | 1,341,000 | Expenditures |
+| 30/10/2025 | XVFC/2025-26/P/1996 | Zilla Parishad |  | 1,324,036 | Expenditures |
+| 26/02/2026 | XVFC/2025-26/P/18 | Gram Panchayat | Dinapur | 1,318,188 | Expenditures |
+| 31/10/2025 | XVFC/2025-26/P/36 | Panchayat Samiti | Barh | 1,285,869 | Expenditures |
+| 06/02/2026 | XVFC/2025-26/P/2862 | Zilla Parishad |  | 1,281,171 | Expenditures |
+| 14/10/2025 | XVFC/2025-26/P/1843 | Zilla Parishad |  | 1,241,719 | Expenditures |
+| 02/02/2026 | XVFC/2025-26/P/2802 | Zilla Parishad |  | 1,228,123 | Expenditures |
+
+All voucher numbers here begin with **XVFC**, confirming the money is the 15th Finance Commission grant. Every voucher is in the machine-readable file `data/validated/egs/vouchers/203_2025-2026.csv`, with its source page. Source: Voucher Wise Summary Report pages, generated 22 Nov 2026.
+
+## 9. What this profile cannot tell you
 
 | Not available | Why |
 |---|---|
 | Figures for each Gram Panchayat in 2025-26 | Published on the portal; not yet collected (planned follow-up collection). Available now for 2020-21 and 2024-25 |
 | Population or households of the district's Panchayats | Not in any open eGramSwaraj report, so no per-person figures |
-| What the money was spent on, item by item | Cash book, ledger and vendor reports are behind a security check (CAPTCHA) |
+| Who each payment went to (the payee or vendor of each voucher) | On the individual voucher page, behind a security check (CAPTCHA); not collected. The voucher number, date, type and amount ARE collected (section 8) |
 | Elected members of this district | Collected for Bihar as a whole only; district figures are a planned follow-up |
 | Value of approved development plans | Only whether a plan was uploaded is public |
 | Money left unspent at year end | Not printed as an official figure |
 
-## 9. About these figures
+## 10. About these figures
 
 - Every figure is copied from the government's own eGramSwaraj reports and was checked against the original pages in the data validation (Task 5). Totals in this profile add up to the portal's own totals.
 - Each report is a snapshot taken on the date shown; later reports for the same year can differ slightly because accounts keep being updated.

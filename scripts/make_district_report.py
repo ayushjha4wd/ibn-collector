@@ -9,6 +9,7 @@ are used only for shares, never as totals, because the 2025-26 scheme report dou
 from __future__ import annotations
 
 import argparse
+import collections
 import csv
 import statistics
 import sys
@@ -286,21 +287,76 @@ def main():
     w(f"\nOn average each Gram Panchayat recorded about {int(f(dacc['gp_pv'])) / gps:,.0f} payment vouchers in the "
       f"year. Source: District Wise Summary Report (generated {gen([dacc])}).\n")
 
-    w("## 8. What this profile cannot tell you\n")
+    # ---- vouchers (transaction level), if collected for this district-year
+    vpath = V / "vouchers" / f"{dc}_{fy}.csv"
+    if vpath.exists():
+        vouch = [r for r in csv.reader(open(vpath, encoding="utf-8"))]
+        vh = vouch[0]
+        vrows = [dict(zip(vh, r)) for r in vouch[1:]]
+        gp_codes = sorted({r["gp_code"] for r in vrows if r["level"] == "gp"})
+        bp_codes = sorted({r["block_code"] for r in vrows if r["level"] == "bp"})
+        def vsum(level=None, section=None, month=None):
+            return sum(float(r["amount_rs"]) for r in vrows if (level is None or r["level"] == level)
+                       and (section is None or r["section"] == section) and (month is None or int(r["month"]) == month))
+        def vcount(level=None, section=None):
+            return sum(1 for r in vrows if (level is None or r["level"] == level)
+                       and (section is None or r["section"] == section))
+        w("## 8. Every receipt and payment (voucher level)\n")
+        w(f"eGramSwaraj records each transaction as a **voucher**. For {name} in {fy_label(fy)} we collected the "
+          f"voucher-wise list of every month for the Zilla Parishad, all {len(bp_codes)} Panchayat Samitis and "
+          f"**{len(gp_codes)} of {gps} Gram Panchayats** — {len(vrows):,} vouchers in all. (The remaining "
+          f"{gps - len(gp_codes)} Gram Panchayats were missed when the internet dropped during collection and can "
+          "be added by running the collection again.) **No payee or vendor names are included** — only the voucher "
+          "number, date, type and amount, exactly as the portal lists them.\n")
+        w("| | Zilla Parishad | Panchayat Samitis | Gram Panchayats | Total collected |\n|---|---|---|---|---|")
+        w(f"| Receipt vouchers | {vcount('zp', 'receipt'):,} | {vcount('bp', 'receipt'):,} | "
+          f"{vcount('gp', 'receipt'):,} | {vcount(section='receipt'):,} |")
+        w(f"| Payment vouchers | {vcount('zp', 'payment'):,} | {vcount('bp', 'payment'):,} | "
+          f"{vcount('gp', 'payment'):,} | {vcount(section='payment'):,} |")
+        w(f"| Amount received (Rs crore) | {vsum('zp', 'receipt') / 1e7:,.2f} | {vsum('bp', 'receipt') / 1e7:,.2f} | "
+          f"{vsum('gp', 'receipt') / 1e7:,.2f} | {vsum(section='receipt') / 1e7:,.2f} |")
+        w(f"| Amount paid (Rs crore) | {vsum('zp', 'payment') / 1e7:,.2f} | {vsum('bp', 'payment') / 1e7:,.2f} | "
+          f"{vsum('gp', 'payment') / 1e7:,.2f} | {vsum(section='payment') / 1e7:,.2f} |")
+        w(f"\nThe voucher amounts collected cover most of the district statement's payments (district statement: "
+          f"Rs {cr(all_pd)} crore for all levels); the gap is the {gps - len(gp_codes)} Gram Panchayats not yet "
+          "collected.\n")
+        vt = collections.Counter()
+        for r in vrows:
+            vt[r["voucher_type"] or "(blank)"] += 1
+        w("**Types of voucher** (what the transaction was recorded as):\n")
+        w("| Voucher type | Number | What it means |\n|---|---|---|")
+        meaning = {"Expenditures": "A payment / expenditure", "Direct Receipts": "Money received directly",
+                   "Reverse Receipt -PFMS": "A receipt reversed in the PFMS payment system",
+                   "Refund of Excess Payment": "Money returned after an overpayment",
+                   "OB Cancellation": "Cancellation of an opening-balance entry"}
+        for ty, c in vt.most_common():
+            w(f"| {ty} | {c:,} | {meaning.get(ty, 'as labelled by the portal')} |")
+        big = sorted((r for r in vrows if r["section"] == "payment"), key=lambda r: -float(r["amount_rs"]))[:10]
+        bname = {b["block_code_validated"]: b["block"] for b in blocks}
+        w("\n**The ten largest single payments collected:**\n")
+        w("| Voucher date | Voucher number | Level | Block | Amount (Rs) | Type |\n|---|---|---|---|---|---|")
+        for r in big:
+            lvl = {"zp": "Zilla Parishad", "bp": "Panchayat Samiti", "gp": "Gram Panchayat"}[r["level"]]
+            w(f"| {r['voucher_date']} | {r['voucher_no']} | {lvl} | {bname.get(r['block_code'], r['block_code'])} | "
+              f"{r['amount_as_served']} | {r['voucher_type']} |")
+        w(f"\nAll voucher numbers here begin with **XVFC**, confirming the money is the 15th Finance Commission "
+          f"grant. Every voucher is in the machine-readable file `data/validated/egs/vouchers/{dc}_{fy}.csv`, with "
+          "its source page. Source: Voucher Wise Summary Report pages, generated 22 Nov 2026.\n")
+    w("## 9. What this profile cannot tell you\n")
+
     w("| Not available | Why |\n|---|---|")
     if not gp_rows:
         w(f"| Figures for each Gram Panchayat in {fy_label(fy)} | Published on the portal; not yet collected (planned "
           "follow-up collection). Available now for 2020-21 and 2024-25 |")
     w("| Population or households of the district's Panchayats | Not in any open eGramSwaraj report, so no per-person "
       "figures |")
-    w("| What the money was spent on, item by item | Cash book, ledger and vendor reports are behind a security "
-      "check (CAPTCHA) |")
+    w("| Who each payment went to (the payee or vendor of each voucher) | On the individual voucher page, behind a security check (CAPTCHA); not collected. The voucher number, date, type and amount ARE collected (section 8) |")
     w("| Elected members of this district | Collected for Bihar as a whole only; district figures are a planned "
       "follow-up |")
     w("| Value of approved development plans | Only whether a plan was uploaded is public |")
     w("| Money left unspent at year end | Not printed as an official figure |\n")
 
-    w("## 9. About these figures\n")
+    w("## 10. About these figures\n")
     w("- Every figure is copied from the government's own eGramSwaraj reports and was checked against the original "
       "pages in the data validation (Task 5). Totals in this profile add up to the portal's own totals.")
     w("- Each report is a snapshot taken on the date shown; later reports for the same year can differ slightly "

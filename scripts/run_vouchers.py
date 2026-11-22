@@ -21,6 +21,11 @@ def main():
     code = run([PY, "scripts/egs_bihar.py", "--steps", "vouchers", *args])
     print(f"egs_bihar.py --steps vouchers finished (exit {code})")
     run([PY, "scripts/egs_portal_summary.py"])
+    passthrough = []  # forward --district and --fy to the extractor (drop collection-only flags like --delay)
+    for flag in ("--district", "--fy"):
+        if flag in args:
+            passthrough += [flag, args[args.index(flag) + 1]]
+    run([PY, "scripts/egs_vouchers_extract.py", *passthrough])
     run(["git", "add", "data", ".gitattributes"])
     if out(["git", "diff", "--cached", "--name-only"]):
         run(["git", "commit", "-q", "-m", "eGramSwaraj voucher lists " + " ".join(args)], check=True)
