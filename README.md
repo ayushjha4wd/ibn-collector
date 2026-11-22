@@ -5,6 +5,8 @@ files untouched, and record where and when each file came from.
 
 **For non-technical readers: [Bihar's Panchayats in eGramSwaraj: what the data tells us](docs/explainer/BIHAR_EGRAMSWARAJ_EXPLAINED.md)** ([PDF](docs/explainer/BIHAR_EGRAMSWARAJ_EXPLAINED.pdf)).
 
+**District profile (plain language): [Patna, 2025-26](docs/district_reports/patna_2025-2026/report.md)** ([PDF](docs/district_reports/patna_2025-2026/report.pdf)); any district: `python scripts/make_district_report.py --district <code> --fy 2025-2026`.
+
 **Consolidated report, Tasks 1–5: [docs/IBN_FULL_REPORT.md](docs/IBN_FULL_REPORT.md)** ([PDF](docs/IBN_FULL_REPORT.pdf), [Excel](docs/IBN_FULL_REPORT.xlsx); rebuild with `python scripts/make_full_report.py`).
 
 | Task | What | Report |

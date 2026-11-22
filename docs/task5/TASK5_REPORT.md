@@ -12,19 +12,19 @@ Task 5 tests whether the eGramSwaraj data collected for Bihar in Task 4 is accur
 python scripts/egs_validate.py --check
 ```
 
-This reads every clean table, re-reads the cited original pages, runs 104 checks, writes a separate validated layer to `data/validated/egs/`, then runs a second time and confirms that every output is byte-identical.
+This reads every clean table, re-reads the cited original pages, runs 112 checks, writes a separate validated layer to `data/validated/egs/`, then runs a second time and confirms that every output is byte-identical.
 
 **Overall results**
 
 | Result | Count |
 |---|---|
-| PASS | 84 |
-| WARNING | 18 |
+| PASS | 90 |
+| WARNING | 20 |
 | UNRESOLVED | 1 |
 | NOT TESTABLE | 1 |
 | FAIL | 0 |
 
-Every check records what it tested, how many records it tested, and how many did not pass (`validation_checks.csv`). Each record that did not pass is listed (729 in `validation_exceptions.csv`), and 27 issues are consolidated in `data_quality_summary.csv`.
+Every check records what it tested, how many records it tested, and how many did not pass (`validation_checks.csv`). Each record that did not pass is listed (1,159 in `validation_exceptions.csv`), and 29 issues are consolidated in `data_quality_summary.csv`.
 
 **What can be relied on**
 
@@ -146,7 +146,7 @@ This is consistent with the annual statements being net of cancellations. The pa
 | B6 | Range | Negative amounts; amounts above Q3 + 10 × IQR and 50 × the median of non-zero values in the same year, field and tier | **WARNING**: 0 negative; 58 unusually large values listed for review and left unchanged |
 | B7 | Portal totals | Rows printed as "Total" are flagged `is_portal_total=yes` and carry no geographic code | **PASS**: 1,497 total rows flagged (11 district, 418 block, 1,068 village pages) |
 
-**Reconciliation across levels** (`financial_reconciliation.csv`, 10,478 comparisons)
+**Reconciliation across levels** (`financial_reconciliation.csv`, 11,983 comparisons)
 
 Each comparison records:
 
@@ -181,6 +181,7 @@ Each comparison records:
 | R8 | District Total → State & Year Wise Summary, per tier | 66 | 47 | 19 | 0 |
 | R9 | Scheme district rows → Bihar's row on the all-states scheme page | 252 | 195 | 57 | 0 |
 | R10 | Month-wise statement → annual statement (same body) | 2,322 | 2,242 | 80 | 0 |
+| R11 | Scheme-wise district statement (all listed schemes) → district statement, same tier | 1,505 | 1,075 | 430 | 0 |
 
 **What the reconciliation shows:**
 
@@ -191,7 +192,11 @@ Each comparison records:
    - In 39 blocks, the GP rows of the village pages (generated 18 Jul 2022 03:58) exceed the block statement (generated 02:49 the same morning). For example, block 2229: Rs 2,799,817 against Rs 2,232,317.
    - The same pattern appears between block and district statements (R4, 15 districts in 2020-21).
    - These are recorded as WARNING because the reports were generated at different times. Whether the data changed in that hour or the pages are inconsistent cannot be determined from the originals.
-3. **District statements against the State & Year Wise Summary (R8).**
+3. **The 2025-26 scheme-wise statement appears to double-count (R11).** From 2020-21 to 2024-25 and in 2026-27, the scheme-wise district statement (all listed schemes added up) equals the district statement: the median ratio is 1.000 in every one of those years.
+   - In 2025-26, 226 of the 228 district-tier comparisons are **exactly twice** the district statement. That report was generated on 10 Sep 2026. For example, Patna's Gram Panchayats show Rs 432.89 crore of XV FC receipts against Rs 216.454 crore "OB + Receipts" in the district statement.
+   - Voucher counts on the same page are **not** doubled (Patna GP receipt vouchers: 3,658 on the scheme page, 3,659 in the district summary).
+   - This points to a fault in that report's amounts. The 2025-26 scheme-wise amounts should not be used; use the district statement instead (issue EGS-DQ-013).
+4. **District statements against the State & Year Wise Summary (R8).**
    - Payments agree where both were generated close together.
    - For 2024-25 they differ by up to Rs 1,447 crore. The summary is a mid-year snapshot from 23 Oct 2024.
    - For 2021-22, the district "OB + Receipts (Cr)" total (Rs 3,403.31 crore) is **smaller** than the summary's "Receipt Amount" (Rs 3,429.16 crore), although both were generated on 23 Oct 2024 and OB + Receipts should not be smaller than receipts. This is listed for investigation and not explained.
@@ -306,7 +311,7 @@ The gender split is that of elected representatives. It does not describe the po
 
 ## 8. Workstream G: data quality register
 
-`data_quality_summary.csv` holds 27 issues. Each gives its ID, dataset and field, level, year, category, description, records affected, severity, evidence, action and status. The gaps that the brief requires are all recorded:
+`data_quality_summary.csv` holds 29 issues. Each gives its ID, dataset and field, level, year, category, description, records affected, severity, evidence, action and status. The gaps that the brief requires are all recorded:
 
 | ID | Issue | Status |
 |---|---|---|
@@ -319,7 +324,8 @@ The gender split is that of elected representatives. It does not describe the po
 | EGS-DQ-007 | GPDP upload status only; plans and approved amounts unverified | WARNING |
 | EGS-DQ-008 | Unspent / closing balances not available; not derived | NOT TESTABLE |
 | EGS-DQ-009 to 012 | Definition change, snapshots, zero vs not recorded, village "Receipts" definition | WARNING |
-| EGS-DQ-013 onward | Missing values, unusual amounts, reconciliation and aggregation warnings, name variants, the GP listed under two blocks, the encoding defect in `egs_clean.py`, 5,612 name-match-only GP codes, block 2513 with no GP rows | WARNING / UNRESOLVED |
+| EGS-DQ-013 | 2025-26 scheme-wise statement amounts are twice the district statement (R11b) | WARNING (High) |
+| EGS-DQ-014 onward | Missing values, unusual amounts, reconciliation and aggregation warnings, name variants, the GP listed under two blocks, the encoding defect in `egs_clean.py`, 5,612 name-match-only GP codes, block 2513 with no GP rows | WARNING / UNRESOLVED |
 
 ## 9. What was standardised
 

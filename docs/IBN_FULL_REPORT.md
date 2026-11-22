@@ -11,7 +11,7 @@ India By Numbers (IBN) is building a picture of Bihar from official public data.
 | **1–2. Source catalogue** | List the official sources for Bihar's public finance and demographics and assess each one | A catalogue of **41 Bihar sources**: 22 public finance (BR-PF), 16 demographic (BR-DM) and 3 cross-cutting (BR-XC) | Not in this repository (see section 1) |
 | **3. Data collection** | Download the data behind the catalogued sources, keeping originals, dates and references | **721 verified data files (1.23 GB) covering 12 of the 41 sources**, plus the national CRS 2023 report; all 41 in the collector's manifest; every file extracted to CSV or text | [REPORT.md](../REPORT.md), [Task 3 PDF](IBN_Task3_Submission_Report.pdf) |
 | **4. eGramSwaraj exploration** | Explore eGramSwaraj (catalogue source BR-PF-19) in depth for Bihar Panchayat profiles and public finance | **13,160 eGramSwaraj and 6,459 AuditOnline originals**. Panchayat receipts and payments down to **every Gram Panchayat**, elected representatives by gender, and a full report inventory, coverage matrices and gaps. Clean tables built afterwards | [TASK4_REPORT.md](task4/TASK4_REPORT.md), [PDF](task4/TASK4_REPORT.pdf), [Excel](task4/TASK4_SUMMARY.xlsx) |
-| **5. eGramSwaraj validation** | Establish whether the Task 4 data is accurate, understood, consistent and traceable enough for analysis | **104 checks: 84 PASS, 18 WARNING, 1 UNRESOLVED, 1 NOT TESTABLE, 0 FAIL.** All 371,660 stored values re-found in their original pages; codes verified from the pages' own links; 10,478 reconciliations; a validated layer, data dictionary and quality register | [TASK5_REPORT.md](task5/TASK5_REPORT.md), [PDF](task5/TASK5_REPORT.pdf), [Excel](task5/TASK5_SUMMARY.xlsx) |
+| **5. eGramSwaraj validation** | Establish whether the Task 4 data is accurate, understood, consistent and traceable enough for analysis | **112 checks: 90 PASS, 20 WARNING, 1 UNRESOLVED, 1 NOT TESTABLE, 0 FAIL.** All 371,660 stored values re-found in their original pages; codes verified from the pages' own links; 11,983 reconciliations; a validated layer, data dictionary and quality register | [TASK5_REPORT.md](task5/TASK5_REPORT.md), [PDF](task5/TASK5_REPORT.pdf), [Excel](task5/TASK5_SUMMARY.xlsx) |
 
 **Across all five tasks:**
 
@@ -175,7 +175,7 @@ Outputs:
 - `geographic_reference.csv`;
 - `unmatched_geographic_records.csv`;
 - `historical_comparability.csv`;
-- `data_quality_summary.csv` (27 issues).
+- `data_quality_summary.csv` (29 issues, including a 2025-26 scheme report whose amounts are doubled).
 
 Full details: [docs/task5/TASK5_REPORT.md](task5/TASK5_REPORT.md).
 

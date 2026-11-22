@@ -1042,6 +1042,30 @@ def reconcile(T, R):
             recon_row(R, recs, "R9", "district_scheme_finance", fy, "district", "state (all-states scheme page)",
                       f"{s_code}/{t}", m, s, n, fnum(st[0].get(m)), unit, unit, gd(kids), gd(st),
                       "same columns on both pages", True, st[0]["source_file"])
+    # R11 scheme-wise district statement (all listed schemes summed) vs the district statement, same tier
+    sch_d = collections.defaultdict(list)
+    for r in T["district_scheme_finance"] or []:
+        if r.get("_district_code"):
+            sch_d[(r["financial_year"], r["_district_code"], r["tier"])].append(r)
+    for (fy, dc, t), rs in sorted(sch_d.items()):
+        p = dist_fin.get((fy, dc))
+        if not p:
+            continue
+        for m, mcr, mrs in (("receipts_rs", f"{t}_ob_plus_receipts_cr", f"{t}_receipts_rs"),
+                            ("payments_rs", f"{t}_payments_cr", f"{t}_payments_rs")):
+            s, n = gsum(rs, m)
+            if p.get(mcr):
+                pv, unit, dd = fnum(p[mcr]), "cr", dec_of(p[mcr])
+                defs = ("sum over listed schemes of 'Receipts (In Rs.)' vs 'OB + Receipts (Cr)'" if m == "receipts_rs"
+                        else "sum over listed schemes of 'Payments (In Rs.)' vs 'Payments (Cr)'")
+            else:
+                pv, unit, dd = fnum(p.get(mrs)), "rs", 3
+                defs = "sum over listed schemes vs district statement (rupees)"
+            if s is None or not pv:
+                continue
+            recon_row(R, recs, "R11", "district_scheme_finance", fy, "scheme statement (listed schemes)",
+                      "district statement", f"{dc}/{t}", m, s, n, pv, unit, "rs", gd(rs), gd([p]), defs, False,
+                      rs[0]["source_file"], dd)
     # R10 month-wise statement vs annual statement of the same body (exploratory formulas)
     mon = collections.defaultdict(list)
     for r in T["monthly_finance"] or []:
@@ -1095,7 +1119,8 @@ def reconcile(T, R):
                       ("R7", "2020-21 / 2024-25 GP rows sum to the State & Year Wise Summary"),
                       ("R8", "district page Total vs State & Year Wise Summary, per tier"),
                       ("R9", "scheme district rows sum to Bihar's row on the all-states scheme page"),
-                      ("R10", "month-wise statement of a ZP / BP body vs its annual statement")):
+                      ("R10", "month-wise statement of a ZP / BP body vs its annual statement"),
+                      ("R11", "scheme-wise district statement (listed schemes summed) vs the district statement")):
         rs = [x for x in recs if x["check_id"] == cid]
         c = collections.Counter(x["status"] for x in rs)
         st = FAIL if c[FAIL] else WARNING if c[WARNING] else PASS if c[PASS] else NOT_TESTABLE
@@ -1103,6 +1128,23 @@ def reconcile(T, R):
                 for x in rs})), what + " (tolerance = print rounding; snapshot dates and definitions recorded)",
                 len(rs), c[FAIL] + c[WARNING] + c[NOT_TESTABLE], st,
                 ", ".join(f"{k} {v}" for k, v in sorted(c.items())))
+    # R11b: a whole year in which the scheme statement is a constant multiple of the district statement
+    for fy in sorted({x["financial_year"] for x in recs if x["check_id"] == "R11"}):
+        rat = []
+        for x in recs:
+            if x["check_id"] == "R11" and x["financial_year"] == fy and x["parent_value"] and float(x["parent_value"]):
+                rat.append(float(x["child_sum"]) / float(x["parent_value"]))
+        if len(rat) < 10:
+            continue
+        med = statistics.median(rat)
+        near = sum(1 for v in rat if abs(v - round(med)) <= 0.01 * round(med)) if round(med) >= 2 else 0
+        st = WARNING if round(med) >= 2 and near >= 0.9 * len(rat) else PASS
+        R.check(f"R11b-{fy}", "B", "district_scheme_finance", "receipts_rs, payments_rs", "district", fy,
+                "scheme-wise district amounts are not a constant multiple of the district statement across a year",
+                len(rat), near if st == WARNING else 0, st,
+                f"median ratio {med:.3f}" + (f"; {near} of {len(rat)} comparisons are {round(med)}x the district "
+                                              "statement: the scheme report for this year appears to double-count"
+                                              if st == WARNING else ""))
     return recs
 
 
@@ -1634,6 +1676,12 @@ def issues(R, T, unmatched, recs, comp):
             "Village pages print 'Receipts' without unit or opening-balance note; GP sums equal the district "
             "'OB + Receipts (Cr)' (check R2), which suggests opening balance is included, but the page does not say so",
             "", "Medium", "financial_reconciliation.csv R2", "Documented; values unchanged", WARNING)
+    for c in [c for c in R.checks if c["check_id"].startswith("R11b-") and c["status"] == WARNING]:
+        R.issue("district_scheme_finance", "receipts_rs, payments_rs", "district", c["financial_year"], "source error",
+                f"In {c['financial_year']} the scheme-wise district statement gives amounts about twice the district "
+                f"statement ({c['detail']}); voucher counts are not doubled. The scheme report for this year should "
+                "not be used for amounts", int(c["records_not_passing"]), "High", f"validation_checks.csv {c['check_id']}; "
+                "financial_reconciliation.csv R11", "Flagged; values unchanged; use the district statement", WARNING)
     if FALLBACK_DECODED:
         R.issue("gp_year_book_closed", "all", "gram panchayat", "2020-2021 2024-2025", "extraction (preliminary step)",
                 f"{len(FALLBACK_DECODED)} getMobileData GP lists are not UTF-8 (cp1252 non-breaking space in a name) "
@@ -1667,6 +1715,7 @@ def issues(R, T, unmatched, recs, comp):
                                ("R8", "district_finance", "reconciliation", "district Total vs State & Year Wise Summary"),
                                ("R9", "district_scheme_finance", "reconciliation", "scheme districts vs state row"),
                                ("R10", "monthly_finance", "reconciliation", "month-wise vs annual statement"),
+                               ("R11", "district_scheme_finance", "reconciliation", "scheme statement vs district statement"),
                                ("C2", "geographic_reference", "geographic identifier", "GP under different blocks by year"),
                                ("C5", "geographic_reference", "naming", "name variants / duplicate names"),
                                ("C6", "district/block tables", "geographic identifier", "district/block codes"),
