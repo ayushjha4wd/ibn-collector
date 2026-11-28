@@ -36,9 +36,41 @@ TIERS = [("zp", "Zilla Parishad", "district council"), ("bp", "Panchayat Samitis
          ("gp", "Gram Panchayats", "village councils")]
 
 
+_CACHE = {}
+
+
 def rows(name):
-    with open(V / name, encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+    if name not in _CACHE:
+        with open(V / name, encoding="utf-8") as fh:
+            _CACHE[name] = list(csv.DictReader(fh))
+    return _CACHE[name]
+
+
+def slug(name):
+    return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
+
+
+def district_names():
+    """code -> current spelling (latest year) for every Bihar district in the district statement."""
+    out = {}
+    for r in sorted(rows("district_finance.csv"), key=lambda r: r["financial_year"]):
+        if r["is_portal_total"] == "no" and r["district_code_validated"]:
+            out[r["district_code_validated"]] = r["district"]
+    return out
+
+
+def report_years(dc):
+    """Financial years in which the district statement shows any money for this district."""
+    ys = []
+    for r in rows("district_finance.csv"):
+        if r["district_code_validated"] == dc and any(
+                f(v) for k, v in r.items() if (k.endswith("_rs") or k.endswith("_cr")) and v):
+            ys.append(r["financial_year"])
+    return sorted(ys)
+
+
+def report_dir(name, fy):
+    return ROOT / "docs" / "district_reports" / slug(name) / fy
 
 
 def f(x):
@@ -111,7 +143,7 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
     off = {}
     for r in gp_rows:
         if r["is_portal_total"] == "no":
-            off[r["gp_code_validated"] or r["gp_code"]] = r
+            off[r["gp_code_validated"] or r["gp_code"] or "nocode:" + r["record_id"]] = r
     codes = set(off) | set(vagg)
     if not codes:
         return
@@ -132,6 +164,8 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
         txt += ("**Voucher** columns add up the Gram Panchayat's own receipt and payment vouchers (section 8). Voucher "
                 "totals are gross and run somewhat higher than official figures; use them for detail and comparison "
                 "between villages, not as official totals. A dash means no vouchers were listed or reached. ")
+    if any(c.startswith("nocode:") for c in codes):
+        txt += "A dash in *Code* means the portal printed that row without a code link, so it is shown by name only. "
     w(txt + f"{len(codes)} Gram Panchayats are shown; the district statement counts {gps}.\n")
     hdr = ["Block", "Gram Panchayat", "Code"]
     if off:
@@ -140,7 +174,7 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
         hdr += ["Receipt vouchers", "Received (vouchers)", "Payment vouchers", "Paid (vouchers)"]
     w("| " + " | ".join(hdr) + " |\n|" + "---|" * len(hdr))
     for c in sorted(codes, key=lambda c: (blk(c), gp_name(c).lower())):
-        cells = [blk(c), gp_name(c), c]
+        cells = [blk(c), gp_name(c), "—" if c.startswith("nocode:") else c]
         if off:
             o = off.get(c)
             cells += ([f"{f(o['receipts_rs']) / 1e5:,.2f}", f"{f(o['payments_rs']) / 1e5:,.2f}"] if o else ["—", "—"])
@@ -161,10 +195,15 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--district", default="203", help="district code (eGramSwaraj / getMobileData), e.g. 203 = Patna")
-    ap.add_argument("--fy", default="2025-2026")
+    ap.add_argument("--district", default="203", help="district code (e.g. 203 = Patna), or 'all'")
+    ap.add_argument("--fy", default="2025-2026", help="financial year, e.g. 2025-2026, or 'all' (every year with data)")
     a = ap.parse_args()
-    dc, fy = a.district, a.fy
+    for dc in (sorted(district_names()) if a.district == "all" else [a.district]):
+        for fy in (report_years(dc) if a.fy == "all" else [a.fy]):
+            build(dc, fy)
+
+
+def build(dc, fy):
 
     dist_all = [r for r in rows("district_finance.csv") if r["financial_year"] == fy]
     d = next(r for r in dist_all if r["district_code_validated"] == dc)
@@ -192,7 +231,8 @@ def main():
             if r["financial_year"] == fy and r["district_code"] == dc}
     dacc = next(r for r in rows("district_accounting_status.csv")
                 if r["financial_year"] == fy and r["district_code_validated"] == dc)
-    months = [r for r in rows("monthly_finance.csv") if r["financial_year"] == fy and r["entity_code"] == dc]
+    months = [r for r in rows("monthly_finance.csv") if r["financial_year"] == fy and r["entity_code"] == dc
+              and r["entity"] == "zp"]
     vch = [r for r in rows("monthly_vouchers.csv") if r["financial_year"] == fy and r["entity_code"] == dc]
     sch = [r for r in rows("district_scheme_finance.csv") if r["financial_year"] == fy and r["district_code_validated"] == dc]
     gp_rows = [r for r in rows("gp_finance.csv") if r["financial_year"] == fy and r["district_code"] == dc
@@ -203,7 +243,8 @@ def main():
     def bname_of(r):
         return geo.get(("block", r["block_code_validated"]), {}).get("name") or r["block"]
 
-    out = ROOT / "docs" / "district_reports" / f"{name.lower().replace(' ', '_')}_{fy}"
+    out = report_dir(name, fy)
+    has_v = (V / "vouchers" / f"{dc}_{fy}.csv").exists()
     charts = out / "charts"
 
     # ---- figures
@@ -211,8 +252,14 @@ def main():
     S = {t: (AV(tot, t), PD(tot, t)) for t, _, _ in TIERS}
     all_av = sum(v[0] for v in T.values())
     all_pd = sum(v[1] for v in T.values())
-    rank_pd = sorted(others, key=lambda r: -PD(r, "gp")).index(d) + 1
-    rank_av = sorted(others, key=lambda r: -AV(r, "gp")).index(d) + 1
+    def rank(fn):
+        mine = fn(d, "gp")
+        if not mine:
+            return f"none ({sum(1 for r in others if not fn(r, 'gp'))} of {len(others)} districts show none)"
+        r_ = 1 + sum(1 for r in others if fn(r, "gp") > mine)
+        tie = sum(1 for r in others if fn(r, "gp") == mine) - 1
+        return f"{r_} of {len(others)}" + (f" (tied with {tie})" if tie else "")
+    rank_pd, rank_av = rank(PD), rank(AV)
     gps, bps = int(f(dacc["gps"])), int(f(dacc["bps"]))
     gp_av_per = T["gp"][0] * 100 / gps
     gp_pd_per = T["gp"][1] * 100 / gps
@@ -262,23 +309,21 @@ def main():
         w(f"- **In {fy_label(fy)} its Panchayats together received Rs {cr(all_av)} crore and paid out Rs "
           f"{cr(all_pd)} crore.** (This year's statement uses a different measure from later years; see section 2.)")
     w(f"- **The Gram Panchayats had Rs {cr(T['gp'][0])} crore {'available' if CRMODE else 'of receipts'} and paid "
-      f"out Rs {cr(T['gp'][1])} crore ({pct(*T['gp'])}).** {name} ranks **{rank_av} of {len(others)}** districts in "
-      f"Bihar for money {'available to' if CRMODE else 'received by'} Gram Panchayats and **{rank_pd} of "
-      f"{len(others)}** for money paid out by them.")
+      f"out Rs {cr(T['gp'][1])} crore ({pct(*T['gp'])}).** Rank among Bihar's districts: **{rank_av}** for money "
+      f"{'available to' if CRMODE else 'received by'} Gram Panchayats, **{rank_pd}** for money paid out by them.")
     w(f"- **An average Gram Panchayat in {name} had about Rs {gp_av_per:,.1f} lakh {'available' if CRMODE else 'of receipts'} "
       f"and paid out about Rs {gp_pd_per:,.1f} lakh** in the year (district totals divided by {gps} Gram Panchayats).")
     sch_names = {r["scheme_code"]: r["scheme"] for r in sch}
-    own = [r for r in sch if r["scheme_code"] == "0"]
-    own_total = sum(f(r["receipts_rs"]) or 0 for r in own)
-    other_rec = {c: sum(f(r["receipts_rs"]) or 0 for r in sch if r["scheme_code"] == c) for c in sch_names
-                 if c not in ("0", "3287")}
-    if "3287" in sch_names:
-        w("- **Almost all the money is the 15th Finance Commission grant.** The scheme-wise statement for "
-          f"{name} lists: " + ", ".join(sorted(sch_names.values())) + ". "
-          + ("" if not own else ("Own resources received nothing" if own_total == 0 else
-             f"Own resources received Rs {cr(own_total / 1e7)} crore") + f" in {fy_label(fy)}. ")
-          + "".join(f"{sch_names[c]} received {'nothing' if not v else 'Rs ' + cr(v / 1e7) + ' crore'}. "
-                    for c, v in other_rec.items()))
+    # shares only: the 2025-26 scheme-wise amounts are doubled (Task 5, R11b)
+    rec_by = {c: sum(f(r["receipts_rs"]) or 0 for r in sch if r["scheme_code"] == c) for c in sch_names}
+    rec_all = sum(rec_by.values())
+    if rec_all:
+        xs = rec_by.get("3287", 0) / rec_all
+        lead = ("Almost all the money is the 15th Finance Commission grant" if xs >= 0.95 else
+                f"The 15th Finance Commission grant is {xs * 100:.0f}% of receipts")
+        w(f"- **{lead}** (scheme-wise statement, all levels). Sources listed for {name}: "
+          + "; ".join(f"{sch_names[c]} {'none' if not v else f'{100 * v / rec_all:.1f}%'}"
+                      for c, v in sorted(rec_by.items(), key=lambda kv: -kv[1])) + ".")
     yb = int(f(dacc["gps_with_year_book_closed"]))
     ybp = int(f(dacc["bps_with_year_book_closed"]))
     zyb = dacc["zp_year_book_closed"] == "yes"
@@ -288,8 +333,9 @@ def main():
       f"({'closed' if zyb else 'not yet closed'}) have closed their year book in the system"
       + (" (normal while the year is still running)." if running and not done else "."))
     w(f"- **Official figures for each of the {len(gp_rows)} Gram Panchayats are in the Appendix.**" if gp_rows else
-      "- **Official village-by-village figures for this year are on the portal but not yet collected;** the Appendix "
-      "shows each Gram Panchayat's own voucher totals instead.")
+      "- **Official village-by-village figures for this year are on the portal but not yet collected;** "
+      + ("the Appendix shows each Gram Panchayat's own voucher totals instead." if has_v else
+         "they are a planned follow-up collection."))
     w("")
     w("## 2. How to read the money words\n")
     w("| Term | Meaning |\n|---|---|")
@@ -473,9 +519,9 @@ def main():
         w(f"\nPayments listed in vouchers (Rs {vp:,.2f} crore) are {100 * (vp - all_pd) / all_pd:+.0f}% compared with "
           f"the annual statement (Rs {cr(all_pd)} crore). The statement is the official total; the vouchers list "
           "somewhat more, probably because the statement is net of payments later cancelled, rejected or returned (the "
-          "portal does not define this). Use the vouchers for detail and pattern, the statement for totals. A "
-          "multi-year voucher report for the district is in `docs/district_reports/" +
-          f"{name.lower().replace(' ', '_')}_vouchers/`.\n")
+          "portal does not define this). Use the vouchers for detail and pattern, the statement for totals."
+          + (f" A multi-year voucher report for the district is in `docs/district_reports/{slug(name)}_vouchers/`."
+             if (ROOT / "docs" / "district_reports" / f"{slug(name)}_vouchers").exists() else "") + "\n")
         vt = collections.Counter()
         for r in vrows:
             vt[r["voucher_type"] or "(blank)"] += 1
@@ -507,10 +553,13 @@ def main():
     w("| Not available | Why |\n|---|---|")
     if not gp_rows:
         w(f"| Official figures for each Gram Panchayat in {fy_label(fy)} | Published on the portal; not yet collected "
-          "(planned follow-up collection). The Appendix shows voucher totals per Gram Panchayat instead |")
+          "(planned follow-up collection)." + (" The Appendix shows voucher totals per Gram Panchayat instead"
+                                                if has_v else "") + " |")
     w("| Population or households of the district's Panchayats | Not in any open eGramSwaraj report, so no per-person "
       "figures |")
-    w("| Who each payment went to (the payee or vendor of each voucher) | On the individual voucher page, behind a security check (CAPTCHA); not collected. The voucher number, date, type and amount ARE collected (section 8) |")
+    w("| Who each payment went to (the payee or vendor of each voucher) | On the individual voucher page, behind a security check (CAPTCHA); not collected. " + ("The voucher number, date, type and amount ARE collected (section 8) |" if has_v else
+      "The public voucher lists (number, date, type, amount) are collected so far only for Patna; for this district "
+      "they can be collected from India with `scripts/run_vouchers.py` |"))
     w("| Elected members of this district | Collected for Bihar as a whole only; district figures are a planned "
       "follow-up |")
     w("| Value of approved development plans | Only whether a plan was uploaded is public |")
@@ -523,8 +572,14 @@ def main():
       "because accounts keep being updated.")
     w(f"- District code {dc}; block and Gram Panchayat codes are the portal's own. Data collected November 2026 from "
       "egramswaraj.gov.in. Machine-readable tables: `data/validated/egs/`.")
-    w(f"- Reports for {name} in other years: `docs/district_reports/{name.lower().replace(' ', '_')}_index.md`.\n")
+    w(f"- Reports for {name} in other years: `docs/district_reports/{slug(name)}/index.md`; all districts: "
+      "`docs/district_reports/README.md`.\n")
     appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of)
+    n = 0
+    for i, line in enumerate(L):  # number sections in order (section 8 is absent without vouchers)
+        if re.match(r"## \d+\. ", line):
+            n += 1
+            L[i] = re.sub(r"## \d+\. ", f"## {n}. ", line, count=1)
     out.mkdir(parents=True, exist_ok=True)
     md = out / "report.md"
     md.write_text("\n".join(L) + "\n", encoding="utf-8")
