@@ -143,7 +143,7 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
     off = {}
     for r in gp_rows:
         if r["is_portal_total"] == "no":
-            off[r["gp_code_validated"] or r["gp_code"]] = r
+            off[r["gp_code_validated"] or r["gp_code"] or "nocode:" + r["record_id"]] = r
     codes = set(off) | set(vagg)
     if not codes:
         return
@@ -164,6 +164,8 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
         txt += ("**Voucher** columns add up the Gram Panchayat's own receipt and payment vouchers (section 8). Voucher "
                 "totals are gross and run somewhat higher than official figures; use them for detail and comparison "
                 "between villages, not as official totals. A dash means no vouchers were listed or reached. ")
+    if any(c.startswith("nocode:") for c in codes):
+        txt += "A dash in *Code* means the portal printed that row without a code link, so it is shown by name only. "
     w(txt + f"{len(codes)} Gram Panchayats are shown; the district statement counts {gps}.\n")
     hdr = ["Block", "Gram Panchayat", "Code"]
     if off:
@@ -172,7 +174,7 @@ def appendix(w, dc, fy, name, gps, gp_rows, geo, blocks, bname_of):
         hdr += ["Receipt vouchers", "Received (vouchers)", "Payment vouchers", "Paid (vouchers)"]
     w("| " + " | ".join(hdr) + " |\n|" + "---|" * len(hdr))
     for c in sorted(codes, key=lambda c: (blk(c), gp_name(c).lower())):
-        cells = [blk(c), gp_name(c), c]
+        cells = [blk(c), gp_name(c), "—" if c.startswith("nocode:") else c]
         if off:
             o = off.get(c)
             cells += ([f"{f(o['receipts_rs']) / 1e5:,.2f}", f"{f(o['payments_rs']) / 1e5:,.2f}"] if o else ["—", "—"])
